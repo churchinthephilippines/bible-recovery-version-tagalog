@@ -27,9 +27,10 @@ export default function RootLayout() {
   }
 
   return (
-    <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
-      <Stack>
-        <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+    <ThemeProvider value={colorScheme === 'dark' && false ? DarkTheme : DefaultTheme}>
+      <Stack initialRouteName="menu">
+        <Stack.Screen name="menu" options={{ headerShown: false, headerTitle: "Mga Libro" }} />
+        <Stack.Screen name="chapter/[book]" />
         <Stack.Screen name="+not-found" />
       </Stack>
     </ThemeProvider>
