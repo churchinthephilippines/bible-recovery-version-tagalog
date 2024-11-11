@@ -1,6 +1,7 @@
+import { ThemedText } from "@/components/ThemedText";
 import { router } from "expo-router";
 import React from 'react';
-import { View, Text, FlatList, TouchableOpacity, StyleSheet } from 'react-native';
+import { View, FlatList, TouchableOpacity, StyleSheet } from 'react-native';
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
 const books = [
@@ -42,15 +43,15 @@ const Books = () => {
 
   return (
     <View style={[styles.container, { paddingTop: inset.top }]}>
-      <Text style={styles.title}>BIBLIA</Text>
-      <Text style={{ textAlign: 'center', marginBottom: 15 }}>SALIN SA PAGBABAWI</Text>
-      <Text style={{ textAlign: 'center', fontSize: 20, marginBottom: 15 }}>Ang Bagong Tipan</Text>
+      <ThemedText style={styles.title}>BIBLIA</ThemedText>
+      <ThemedText style={{ textAlign: 'center', marginBottom: 15 }}>SALIN SA PAGBABAWI</ThemedText>
+      <ThemedText style={{ textAlign: 'center', fontSize: 20, marginBottom: 15 }}>Ang Bagong Tipan</ThemedText>
       <FlatList
         data={books}
         keyExtractor={(item) => item}
         renderItem={({ item }) => (
           <TouchableOpacity onPress={() => handleBookPress(item)}>
-            <Text style={styles.bookName}>{item}</Text>
+            <ThemedText style={styles.bookName}>{item}</ThemedText>
           </TouchableOpacity>
         )}
         style={styles.listContainer}

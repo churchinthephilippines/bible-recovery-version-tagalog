@@ -1,10 +1,12 @@
 import React, { useState, useEffect, useLayoutEffect } from 'react';
-import { View, Text, Button, FlatList, TouchableOpacity, Modal, StyleSheet, ActivityIndicator, Platform } from 'react-native';
+import { View, Button, FlatList, TouchableOpacity, Modal, StyleSheet, ActivityIndicator, Platform } from 'react-native';
 import * as Speech from 'expo-speech';
 import { Stack, useLocalSearchParams } from "expo-router";
 import books from '@/assets/bible';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Audio } from 'expo-av';
+import { ThemedText } from "@/components/ThemedText";
+import { ThemedView } from "@/components/ThemedView";
 
 const soundObject = new Audio.Sound();
 
@@ -35,7 +37,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   const [selectedVerseIndex, setSelectedVerseIndex] = useState<number | null>(null);
   const [isChapterModalVisible, setChapterModalVisible] = useState<boolean>(false);
   const [numberOfChapters, setNumberOfChapters] = useState<number>(0);
-  const [loading, setLoading] = useState(true)
+  const [loading, setLoading] = useState(true);
 
   useLayoutEffect(() => {
     setLoading(true);
@@ -141,27 +143,28 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
         {item.outlines && item.outlines.length > 0 && (
           <>
             {item.outlines.map((outline, outlineIndex) => (
-              <Text key={outlineIndex} style={styles.outlineText}>
+              <ThemedText key={outlineIndex} style={styles.outlineText}>
                 {outline}
-              </Text>
+              </ThemedText>
             ))}
           </>
         )}
-        <Text style={[styles.verseText, isSelected && styles.selectedVerse, isActive && styles.activeVerse]}>
-          <Text onPress={() => setSelectedVerseIndex(index)} style={styles.verseNumber}>{index + 1}.{" "}</Text>
+        <ThemedText darkColor="#000" style={[styles.verseText, isSelected && styles.selectedVerse, isActive && styles.activeVerse]}>
+          <ThemedText onPress={() => setSelectedVerseIndex(index)} style={styles.verseNumber}>{index + 1}.{" "}</ThemedText>
           {words.map((word, wordIndex) => {
             const footnote = item.footnotes.find(f => f.word === word && f.note);
             return (
-              <Text
+              <ThemedText
                 key={wordIndex}
+                type={footnote ? 'link' : undefined}
                 style={footnote ? styles.highlight : undefined}
                 onPress={footnote ? () => setSelectedFootnote(footnote) : undefined}
               >
                 {word}{" "}
-              </Text>
+              </ThemedText>
             );
           })}
-        </Text>
+        </ThemedText>
       </>
     );
   };
@@ -173,7 +176,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
       <>
         <Stack.Screen options={{ title: `${params.book}` }} />
         <View style={{ flex: 1, paddingBottom: inset.bottom, paddingHorizontal: 15 }}>
-          <Text style={styles.chapterTitle}>Kapitulo {chapter}</Text>
+          <ThemedText style={styles.chapterTitle}>Kapitulo {chapter}</ThemedText>
           <ActivityIndicator size="large"/>
         </View>
       </>
@@ -183,7 +186,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   if(!loading && numberOfChapters === 0) {
     return (
       <View style={{backgroundColor: '#fff', flex: 1, paddingVertical: 50}}>
-        <Text style={{textAlign: 'center'}}>Ang Libro ng {params.book} ay hindi pa na-ilalathala.</Text>
+        <ThemedText style={{textAlign: 'center'}}>Ang Libro ng {params.book} ay hindi pa na-ilalathala.</ThemedText>
       </View>
     )
   }
@@ -193,7 +196,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
       <Stack.Screen options={{ title: `${params.book}` }} />
       <View style={{ flex: 1, paddingBottom: inset.bottom, paddingHorizontal: 15 }}>
         <TouchableOpacity onPress={() => setChapterModalVisible(true)}>
-          <Text style={styles.chapterTitle}>Kapitulo {chapter}</Text>
+          <ThemedText style={styles.chapterTitle} type="link">Kapitulo {chapter}</ThemedText>
         </TouchableOpacity>
         <FlatList
           data={verses}
@@ -201,8 +204,16 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           renderItem={renderVerse}
         />
         <View style={styles.paginationButtons}>
-          <Button title="Previous" onPress={handlePreviousChapter} disabled={chapter === 1} />
-          <Button title="Next" onPress={handleNextChapter} disabled={chapter === numberOfChapters} />
+          {chapter === 1 ? (
+            <View />
+          ) : (
+            <Button title={`Kapitulo ${chapter - 1}`} onPress={handlePreviousChapter} disabled={chapter === 1} />
+          )}
+          {chapter === numberOfChapters ? (
+            <View />
+          ) : (
+            <Button title={`Kapitulo ${chapter + 1}`} onPress={handleNextChapter} disabled={chapter === numberOfChapters} />
+          )}
         </View>
         {(currentVerseIndex !== null || selectedVerseIndex != null) && (
           <View style={styles.controlButtons}>
@@ -222,20 +233,20 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           onRequestClose={() => setChapterModalVisible(false)}
         >
           <View style={styles.modalBackground}>
-            <View style={styles.modalContainer}>
-              <Text style={styles.modalTitle}>Mamili ng Kapitulo</Text>
+            <ThemedView style={styles.modalContainer}>
+              <ThemedText style={styles.modalTitle}>Mamili ng Kapitulo</ThemedText>
               <FlatList
-                style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#ccc', width: '100%'}}
+                style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#ccc', width: '100%', marginVertical: 10}}
                 data={Array.from({ length: numberOfChapters }, (_, i) => i + 1)}
                 keyExtractor={(item) => item.toString()}
                 renderItem={({ item }) => (
                   <TouchableOpacity onPress={() => handleChapterSelect(item)}>
-                    <Text style={[styles.chapterItem, item === chapter && { color: 'red' }]}>Kapitulo {item}</Text>
+                    <ThemedText style={[styles.chapterItem, item === chapter && { color: 'red' }]}>Kapitulo {item}</ThemedText>
                   </TouchableOpacity>
                 )}
               />
-              <Button title="Close" onPress={() => setChapterModalVisible(false)} />
-            </View>
+              <Button  title="Close" onPress={() => setChapterModalVisible(false)} />
+            </ThemedView>
           </View>
         </Modal>
 
@@ -247,10 +258,10 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           onRequestClose={() => setSelectedFootnote(null)}
         >
           <View style={styles.modalBackground}>
-            <View style={styles.modalContainer}>
-              <Text style={styles.modalText}>{selectedFootnote?.note}</Text>
+            <ThemedView style={styles.modalContainer}>
+              <ThemedText style={styles.modalText}>{selectedFootnote?.note}</ThemedText>
               <Button title="Close" onPress={() => setSelectedFootnote(null)} />
-            </View>
+            </ThemedView>
           </View>
         </Modal>
       </View>
@@ -263,12 +274,10 @@ const styles = StyleSheet.create({
     fontSize: 24,
     textAlign: 'center',
     marginVertical: 10,
-    color: 'blue',
     textDecorationLine: 'underline',
   },
   verseNumber: {
     fontSize: 16,
-    color: '#000',
     fontWeight: 'bold',
   },
   verseText: {
@@ -278,7 +287,6 @@ const styles = StyleSheet.create({
   outlineText: {
     textAlign: 'center',
     fontSize: 16,
-    color: '#000',
     fontWeight: 'bold',
     marginVertical: 10,
   },
@@ -289,13 +297,12 @@ const styles = StyleSheet.create({
     backgroundColor: '#cce5ff',
   },
   highlight: {
-    color: 'blue',
     textDecorationLine: 'underline',
   },
   paginationButtons: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    padding: 0
+    paddingTop: 10
   },
   controlButtons: {
     marginVertical: 10,
@@ -309,9 +316,8 @@ const styles = StyleSheet.create({
   },
   modalContainer: {
     maxHeight: '80%',
-    width: '80%',
+    width: '90%',
     padding: 20,
-    backgroundColor: 'white',
     borderRadius: 10,
     alignItems: 'center',
   },
