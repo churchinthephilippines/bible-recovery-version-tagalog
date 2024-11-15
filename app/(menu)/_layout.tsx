@@ -17,16 +17,16 @@ export default function TabLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Books',
+          title: 'Mga Libro',
           tabBarIcon: ({ color, focused }) => (
             <TabBarIcon name={focused ? 'book' : 'book-outline'} color={color} />
           ),
         }}
       />
       <Tabs.Screen
-        name="explore"
+        name="settings"
         options={{
-          title: 'Settings',
+          title: 'Mga Setting',
           tabBarIcon: ({ color, focused }) => (
             <TabBarIcon name={focused ? 'cog' : 'cog-outline'} color={color} />
           ),

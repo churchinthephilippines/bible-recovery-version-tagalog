@@ -13,7 +13,7 @@ function runScript(chapter) {
     
         if(outlineElement && !outlineElement?.matches("[data-scanned='true']")) {
             outlineElement.setAttribute("data-scanned", "true");
-            outlines = Array.from(outlineElement.querySelectorAll("h3")).map(p => p.innerHTML.replace("<br>", "\n").trim());
+            outlines = Array.from(outlineElement.querySelectorAll("h3")).map(p => p.innerHTML.replaceAll("<br>", "\n").trim());
         }
     
         return { id, text, footnotes, outlines };

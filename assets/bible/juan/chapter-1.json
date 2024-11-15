@@ -1,17 +1,548 @@
 {
-  "chapter": 1,
-  "verses": [
-    {
-      "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
-      "footnotes": [
-        { "word": "Word", "note": "Logos: a term that refers to Jesus Christ." },
-        { "word": "God", "note": "Refers to the deity in Christian doctrine." }
-      ]
-    },
-    {
-      "text": "He was with God in the beginning.",
-      "footnotes": []
-    }
-  ]
+    "chapter": 1,
+    "verses": [
+        {
+            "id": "1",
+            "text": "Sa pasimula ay ang Salita,  at ang Salita ay kasama ng Diyos, at ang Salita ay Diyos.",
+            "footnotes": [
+                {
+                    "word": "Sa",
+                    "note": ""
+                },
+                {
+                    "word": "Salita,",
+                    "note": ""
+                },
+                {
+                    "word": "kasama",
+                    "note": ""
+                },
+                {
+                    "word": "Salita",
+                    "note": ""
+                },
+                {
+                    "word": "Diyos.",
+                    "note": ""
+                }
+            ],
+            "outlines": [
+                "I. Ang Walang Hanggang Salita na Naging Laman, Dumarating upang",
+                "Dalhin ang Diyos tungo sa loob ng Tao",
+                "Mga Kapitulo\n 1-13",
+                "A. Pambungad ukol sa Buhay at Pagtatayo\n 1:1-51",
+                "1. Ang Salita sa Kawalang-hanggang Lumipas na Siyang Diyos,",
+                "Dumaan sa Hakbangin ng Pagiging Nilikha, Pumarito bilang Buhay",
+                "at Liwanag upang Ibunga ang mga Anak ng Diyos\n bb. 1-13"
+            ]
+        },
+        {
+            "id": "2",
+            "text": "Siya sa pasimula ay kasama ng Diyos.",
+            "footnotes": [
+                {
+                    "word": "Siya",
+                    "note": ""
+                },
+                {
+                    "word": "sa",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "3",
+            "text": "Ang lahat ng bagay ay umiral sa pamamagitan Niya, at hiwalay sa Kanya, walang anumang bagay na umiral na napairal.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "4",
+            "text": "Nasa Kanya ang buhay,  at ang buhay ay siyang ilaw ng mga tao.",
+            "footnotes": [
+                {
+                    "word": "buhay,",
+                    "note": ""
+                },
+                {
+                    "word": "ilaw",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "5",
+            "text": "At ang ilaw ay lumiliwanag sa kadiliman, at ito ay hindi nadaig ng kadiliman.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "6",
+            "text": "Naparito ang isang tao, isinugo mula sa Diyos, na ang pangalan ay Juan.",
+            "footnotes": [
+                {
+                    "word": "isinugo",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "7",
+            "text": "Siya ay naparito para sa isang patotoo, upang kanyang patotohanan ang hinggil sa ilaw, upang sa pamamagitan niya ay magsisampalataya ang lahat.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "8",
+            "text": "Hindi siya ang ilaw, kundi naparito siya upang magpatotoo hinggil sa ilaw.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "9",
+            "text": "Ang tunay na ilaw ay yaong dumarating sa sanlibutan na nililiwanagan ang bawa’t tao.",
+            "footnotes": [
+                {
+                    "word": "nililiwanagan",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "10",
+            "text": "Siya ay nasa sanlibutan, at ang sanlibutan ay umiral sa pamamagitan Niya, subali’t hindi Siya nakilala ng sanlibutan.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "11",
+            "text": "Siya ay naparito sa mga Sariling Kanya, at Siya ay hindi tinanggap ng mga Sariling Kanya.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "12",
+            "text": "Datapuwa’t ang lahat ng sa Kanya ay nagsitanggap,  sa kanila ay ipinagkaloob Niya ang awtoridad na maging mga anak ng Diyos, samakatwid ay ang mga nagsisisampalataya sa Kanyang pangalan:",
+            "footnotes": [
+                {
+                    "word": "nagsitanggap,",
+                    "note": ""
+                },
+                {
+                    "word": "anak",
+                    "note": ""
+                },
+                {
+                    "word": "nagsisisampalataya",
+                    "note": ""
+                },
+                {
+                    "word": "sa",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "13",
+            "text": "Na mga ipinanganak, hindi sa dugo,  ni sa kalooban ng laman, ni sa kalooban ng tao, kundi ng Diyos.",
+            "footnotes": [
+                {
+                    "word": "sa",
+                    "note": ""
+                },
+                {
+                    "word": "dugo,",
+                    "note": ""
+                },
+                {
+                    "word": "sa",
+                    "note": ""
+                },
+                {
+                    "word": "kalooban",
+                    "note": ""
+                },
+                {
+                    "word": "sa",
+                    "note": ""
+                },
+                {
+                    "word": "kalooban",
+                    "note": ""
+                },
+                {
+                    "word": "ng",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "14",
+            "text": "At ang Salita ay naging laman at nagtabernakulo sa gitna natin (at nakita namin ang Kanyang kaluwalhatian, kaluwalhatiang gaya ng sa isang Bugtong mula sa isang Ama), na puspos ng biyaya at realidad.",
+            "footnotes": [
+                {
+                    "word": "Salita",
+                    "note": ""
+                },
+                {
+                    "word": "laman",
+                    "note": ""
+                },
+                {
+                    "word": "nagtabernakulo",
+                    "note": ""
+                },
+                {
+                    "word": "nakita",
+                    "note": ""
+                },
+                {
+                    "word": "mula",
+                    "note": ""
+                },
+                {
+                    "word": "biyaya",
+                    "note": ""
+                },
+                {
+                    "word": "realidad.",
+                    "note": ""
+                }
+            ],
+            "outlines": [
+                "2. Ang Salita ay Naging Laman, Nananagana sa Kapuspusan ng Biyaya",
+                "At Realidad upang sa loob ng Bugtong na Anak ng Diyos",
+                "ay Maihayag ang Diyos\n bb. 14-18"
+            ]
+        },
+        {
+            "id": "15",
+            "text": "Si Juan ay nagpatotoo hinggil sa Kanya at sumigaw, na nagsasabi, Ito yaong aking sinasabi, Ang pumaparitong nasa hulihan ko ay magiging una sa akin, sapagka’t Siya ay una sa akin.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "16",
+            "text": "Sapagka’t sa Kanyang kapuspusan ay nagsitanggap tayong lahat, at biyaya sa biyaya.",
+            "footnotes": [
+                {
+                    "word": "sa",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "17",
+            "text": "Sapagka’t ang kautusan ay ibinigay sa pamamagitan ni Moises; ang biyaya at ang realidad ay nagsidating sa pamamagitan ni Hesu-Kristo.",
+            "footnotes": [
+                {
+                    "word": "kautusan",
+                    "note": ""
+                },
+                {
+                    "word": "biyaya",
+                    "note": ""
+                },
+                {
+                    "word": "realidad",
+                    "note": ""
+                },
+                {
+                    "word": "nagsidating",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "18",
+            "text": "Walang taong nakakita kailanman sa Diyos; ang Bugtong na Anak, na nasa sinapupunan ng Ama, Siya ang naghayag sa Kanya.",
+            "footnotes": [
+                {
+                    "word": "Bugtong",
+                    "note": ""
+                },
+                {
+                    "word": "naghayag",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "19",
+            "text": "At ito ang patotoo ni Juan, nang magpasugo sa kanya ang mga Hudyo mula sa Herusalem ng mga saserdote at mga Levita upang sa kanya ay itanong, Sino ka ba?",
+            "footnotes": [],
+            "outlines": [
+                "3. Si Hesus bilang ang Kordero ng Diyos, kasama ang Espiritu Santo",
+                "na Katulad ng Kalapati, Ginagawa ang mga Mananampalataya",
+                "na mga Bato para sa Pagtatayo ng Bahay ng Diyos kasama ang Anak ng Tao\n bb. 19-51",
+                "a. Ang Relihiyon Naghahanap ng isang Dakilang Tagapamuno\n bb. 19-28"
+            ]
+        },
+        {
+            "id": "20",
+            "text": "At siya ay nagpahayag at hindi nagkaila, at ipinahayag niya, hindi ako ang Kristo.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "21",
+            "text": "At sa kanya ay kanilang itinanong, Kung gayon ay ano nga? Ikaw ba ay si Elias?  At sinabi niya, Hindi ako. Ikaw ba ang propeta?  At siya ay sumagot, Hindi.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "22",
+            "text": "Kanila ngang sinabi sa kanya, Sino ka ba, upang makapagbigay kami ng kasagutan sa nangagsugo sa amin. Ano ang sinasabi mo tungkol sa iyong sarili?",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "23",
+            "text": "Sinabi niya, Ako ay isang tinig ng isang sumisigaw sa ilang, Tuwirin ninyo ang daan ng Panginoon, gaya ng sinabi ng propeta Isaias.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "24",
+            "text": "Ngayon naman yaong mga isinugo ay buhat sa mga Fariseo.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "25",
+            "text": "At sa kanya ay kanilang itinanong at sinabi, Bakit nga nagbabautismo ka kung hindi ikaw ang Kristo, ni si Elias, ni ang propeta?",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "26",
+            "text": "Sila ay sinagot ni Juan, na nagsasabi, Ako ay nagbabautismo sa tubig; datapuwa’t sa gitna ninyo ay may Isang nakatayo na hindi ninyo nakikilala.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "27",
+            "text": "Siya nga ang pumaparitong nasa hulihan ko, na kung kaninong panali ng panyapak ay hindi ako karapat-dapat na magkalag.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "28",
+            "text": "Ang mga bagay na ito ay nangyari sa Betania,  sa dako pa roon ng Jordan, na pinagbabautismuhan ni Juan.",
+            "footnotes": [
+                {
+                    "word": "Betania,",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "29",
+            "text": "Kinabukasan ay nakita ni Juan si Hesus na lumalapit sa kanya, at nagsabi, Tingnan ninyo, ang Kordero ng Diyos na nag-aalis ng kasalanan ng sanlibutan!",
+            "footnotes": [
+                {
+                    "word": "Kordero",
+                    "note": ""
+                }
+            ],
+            "outlines": [
+                "b. Si Hesus ipinakilala bilang isang Kordero na may kasamang isang kalapati\n bb. 29-34"
+            ]
+        },
+        {
+            "id": "30",
+            "text": "Ito yaong aking sinasabi, Sa hulihan ko ay dumarating ang isang Lalake na magiging una sa akin, sapagka’t Siya ay una sa akin.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "31",
+            "text": "At Siya ay hindi ko nakilala, datapuwa’t upang Siya ay mahayag sa Israel, naparito ako na nagbabautismo sa tubig.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "32",
+            "text": "At nagpatotoo si Juan na nagsasabi, Nakita ko ang Espiritu na bumababang tulad sa isang kalapati na buhat sa langit, at Siya ay nanahan sa Kanya.",
+            "footnotes": [
+                {
+                    "word": "kalapati",
+                    "note": ""
+                },
+                {
+                    "word": "sa",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "33",
+            "text": "At Siya ay hindi ko nakilala, datapuwa’t Siya na nagsugo sa akin upang magbautismo sa tubig ang Siyang nagsabi sa akin, Siya na makita mong babaan ng Espiritu, at manahan Ito sa Kanya, Siya na nga ang nagbabautismo sa Espiritu Santo.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "34",
+            "text": "At aking nakita, at napatotohanan na ito ang Anak ng Diyos.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "35",
+            "text": "Muli, kinabukasan, si Juan at ang dalawa sa kanyang mga disipulo ay nakatayo.",
+            "footnotes": [],
+            "outlines": [
+                "c. Namumunga ng mga Bato para sa Pagtatayo ng Diyos\n bb. 35-51"
+            ]
+        },
+        {
+            "id": "36",
+            "text": "At sa pagkakita kay Hesus samantalang Siya ay naglalakad, kanyang sinabi, masdan ninyo, ang Kordero ng Diyos!",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "37",
+            "text": "At narinig siyang magsalita ng dalawang disipulo, at sila ay nagsisunod kay Hesus.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "38",
+            "text": "At lumingon si Hesus, at nakita silang nagsisunod, at sinabi sa kanila, Ano ang inyong hinahanap? At sinabi nila sa Kanya, Rabi (na kung isasalin ay nangangahulugang Guro), saan Ka nakatira?",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "39",
+            "text": "Sinabi Niya sa kanila, Magsiparito kayo, at inyong makikita. Nagsiparoon nga sila at nakita kung saan Siya nakatira, at sila ay nagsitirang kasama Niya nang araw na yaon. Noon ay mag-iikasampu na ang oras.",
+            "footnotes": [
+                {
+                    "word": "mag-",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "40",
+            "text": "Ang isa sa dalawang nakarinig ng pagsasalita ni Juan at sumunod sa Kanya ay si Andres na kapatid ni Simon Pedro.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "41",
+            "text": "Una niyang nasumpungan ang kanyang sariling kapatid na si Simon, at sa kanya ay sinabi, Nasumpungan namin ang Mesiyas (na kung isasalin ay nangangahulugang Kristo).",
+            "footnotes": [
+                {
+                    "word": "Mesiyas",
+                    "note": ""
+                },
+                {
+                    "word": "Kristo).",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "42",
+            "text": "Siya ay kanyang dinala kay Hesus. Tiningnan siya ni Hesus at nagsabi, Ikaw ba si Simon na anak ni Juan; tatawagin kang Cefas (na kung isasalin ay nangangahulugang isang bato).",
+            "footnotes": [
+                {
+                    "word": "bato).",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "43",
+            "text": "Kinabukasan ay nagpasiya Siyang pumaroon sa Galilea, at Kanyang nasumpungan si Felipe; at sa kanya ay sinabi ni Hesus, Sumunod ka sa Akin.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "44",
+            "text": "Si Felipe nga ay taga-Betsaida, sa lunsod ni Andres at ni Pedro.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "45",
+            "text": "Nasumpungan ni Felipe si Natanael, at sinabi sa kanya, Nasumpungan namin Yaong isinulat ni Moises sa kasulatan at gayon din ng mga propeta, si Hesus taga-Nazaret, ang anak ni Jose.",
+            "footnotes": [
+                {
+                    "word": "taga-",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "46",
+            "text": "At sinabi sa kanya ni Natanael, Mangyayari bang lumitaw ang anumang magaling na bagay sa Nazaret? Sinabi sa kanya ni Felipe, Pumarito ka at tingnan mo.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "47",
+            "text": "Nakita ni Hesus si Natanael na lumalapit sa Kanya at nagsabi tungkol sa kanya, Tingnan ninyo, isang tunay na Israelita, na sa kanya ay walang daya!",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "48",
+            "text": "Sinabi sa kanya ni Natanael, Paano mo ako nakilala? Si Hesus ay sumagot at nagsabi sa kanya, Bago ka tinawag ni Felipe, nang ikaw ay nasa ilalim ng puno ng igos, ay nakita kita.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "49",
+            "text": "Sumagot si Natanael sa Kanya, Rabi, Ikaw ang Anak ng Diyos; Ikaw ang Hari ng Israel.",
+            "footnotes": [
+                {
+                    "word": "Hari",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "50",
+            "text": "Si Hesus ay sumagot at nagsabi sa kanya, Dahil ba sa sinabi Ko sa iyo na nakita kita sa ilalim ng puno ng igos kaya ka sumasampalataya? Makikita mo ang mga bagay na lalong dakila kaysa rito.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "51",
+            "text": "At sinabi Niya sa kanya, Katotohanan,  katotohanang sinasabi Ko sa inyo, makikita ninyong bukas ang langit at ang mga anghel ng Diyos na nagmamanhik-manaog sa Anak ng Tao.",
+            "footnotes": [
+                {
+                    "word": "Katotohanan,",
+                    "note": ""
+                },
+                {
+                    "word": "bukas",
+                    "note": ""
+                },
+                {
+                    "word": "Anak",
+                    "note": ""
+                }
+            ],
+            "outlines": null
+        }
+    ]
 }
-  

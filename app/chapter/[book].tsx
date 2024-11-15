@@ -7,6 +7,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Audio } from 'expo-av';
 import { ThemedText } from "@/components/ThemedText";
 import { ThemedView } from "@/components/ThemedView";
+import { useSettingsStore } from "@/store/settings";
 
 const soundObject = new Audio.Sound();
 
@@ -28,7 +29,9 @@ interface ChapterScreenProps {
 }
 
 const ChapterScreen: React.FC<ChapterScreenProps> = () => {
+  const inset = useSafeAreaInsets()
   const params = useLocalSearchParams<{ book: string }>();
+  const fontSize = useSettingsStore((state) => state.fontSize);
   const [chapter, setChapter] = useState<number>(1);
   const [verses, setVerses] = useState<Verse[]>([]);
   const [selectedFootnote, setSelectedFootnote] = useState<Footnote | null>(null);
@@ -52,6 +55,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     setSelectedVerseIndex(null);
     setCurrentVerseIndex(null);
     setLoading(false);
+    setIsReading(false);
   };
 
   useEffect(loadChapter, [chapter]);
@@ -133,6 +137,8 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     setChapterModalVisible(false);
   };
 
+  const textStyle = { fontSize, lineHeight: Math.max(fontSize, 24) };
+
   const renderVerse = ({ item, index }: { item: Verse; index: number }) => {
     const words = item.text.split(" ");
     const isActive = index === currentVerseIndex;
@@ -143,21 +149,21 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
         {item.outlines && item.outlines.length > 0 && (
           <>
             {item.outlines.map((outline, outlineIndex) => (
-              <ThemedText key={outlineIndex} style={styles.outlineText}>
+              <ThemedText key={outlineIndex} style={[styles.outlineText, textStyle]}>
                 {outline}
               </ThemedText>
             ))}
           </>
         )}
-        <ThemedText darkColor="#000" style={[styles.verseText, isSelected && styles.selectedVerse, isActive && styles.activeVerse]}>
-          <ThemedText onPress={() => setSelectedVerseIndex(index)} style={styles.verseNumber}>{index + 1}.{" "}</ThemedText>
+        <ThemedText darkColor="#000" style={[styles.verseText, isSelected && styles.selectedVerse, isActive && styles.activeVerse, textStyle]}>
+          <ThemedText onPress={() => setSelectedVerseIndex(index)} style={[styles.verseNumber, textStyle]}>{index + 1}.{" "}</ThemedText>
           {words.map((word, wordIndex) => {
             const footnote = item.footnotes.find(f => f.word === word && f.note);
             return (
               <ThemedText
                 key={wordIndex}
                 type={footnote ? 'link' : undefined}
-                style={footnote ? styles.highlight : undefined}
+                style={[footnote ? styles.highlight : undefined, textStyle]}
                 onPress={footnote ? () => setSelectedFootnote(footnote) : undefined}
               >
                 {word}{" "}
@@ -169,32 +175,30 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     );
   };
 
-  const inset = useSafeAreaInsets()
-
   if(loading) {
     return (
       <>
         <Stack.Screen options={{ title: `${params.book}` }} />
-        <View style={{ flex: 1, paddingBottom: inset.bottom, paddingHorizontal: 15 }}>
+        <ThemedView style={{ flex: 1, paddingBottom: inset.bottom, paddingHorizontal: 15 }}>
           <ThemedText style={styles.chapterTitle}>Kapitulo {chapter}</ThemedText>
           <ActivityIndicator size="large"/>
-        </View>
+        </ThemedView>
       </>
     )
   }
 
   if(!loading && numberOfChapters === 0) {
     return (
-      <View style={{backgroundColor: '#fff', flex: 1, paddingVertical: 50}}>
-        <ThemedText style={{textAlign: 'center'}}>Ang Libro ng {params.book} ay hindi pa na-ilalathala.</ThemedText>
-      </View>
+      <ThemedView style={{flex: 1, paddingVertical: 50}}>
+        <ThemedText style={[textStyle, {textAlign: 'center'}]}>Ang Libro ng {params.book} ay hindi pa na-ilalathala.</ThemedText>
+      </ThemedView>
     )
   }
 
   return (
     <>
       <Stack.Screen options={{ title: `${params.book}` }} />
-      <View style={{ flex: 1, paddingBottom: inset.bottom, paddingHorizontal: 15 }}>
+      <ThemedView style={{ flex: 1, paddingBottom: inset.bottom, paddingHorizontal: 15 }}>
         <TouchableOpacity onPress={() => setChapterModalVisible(true)}>
           <ThemedText style={styles.chapterTitle} type="link">Kapitulo {chapter}</ThemedText>
         </TouchableOpacity>
@@ -264,7 +268,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
             </ThemedView>
           </View>
         </Modal>
-      </View>
+      </ThemedView>
     </>
   );
 };

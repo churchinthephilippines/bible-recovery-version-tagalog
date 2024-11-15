@@ -1,22 +1,32 @@
-import Ionicons from '@expo/vector-icons/Ionicons';
-import { StyleSheet, Image, Platform } from 'react-native';
+import { StyleSheet, Image, Platform, TextInput } from 'react-native';
 
 import { Collapsible } from '@/components/Collapsible';
 import { ExternalLink } from '@/components/ExternalLink';
 import ParallaxScrollView from '@/components/ParallaxScrollView';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
+import { useSettingsStore } from "@/store/settings";
+import ThemedSlider from "@/components/ThemedSlider";
 
 export default function TabTwoScreen() {
+  const { fontSize, setFontSize } = useSettingsStore();
+
   return (
     <ParallaxScrollView
       headerBackgroundColor={{ light: '#D0D0D0', dark: '#353636' }}
-      headerImage={<Ionicons size={310} name="code-slash" style={styles.headerImage} />}>
+      headerImage={<Image source={require('@/assets/images/icon.png')} style={styles.headerImage} />}>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Explore</ThemedText>
+        <ThemedText type="title">Mga Setting</ThemedText>
       </ThemedView>
-      <ThemedText>This app includes example code to help you get started.</ThemedText>
-      <Collapsible title="File-based routing">
+      <ThemedSlider
+        label="Laki ng titik"
+        minimumValue={15}
+        maximumValue={30}
+        value={fontSize}
+        onValueChange={(value) => setFontSize(value)}
+      />
+      {/* <ThemedText>This app includes example code to help you get started.</ThemedText> */}
+      {/* <Collapsible title="File-based routing">
         <ThemedText>
           This app has two screens:{' '}
           <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> and{' '}
@@ -83,7 +93,7 @@ export default function TabTwoScreen() {
             </ThemedText>
           ),
         })}
-      </Collapsible>
+      </Collapsible> */}
     </ParallaxScrollView>
   );
 }
@@ -91,9 +101,11 @@ export default function TabTwoScreen() {
 const styles = StyleSheet.create({
   headerImage: {
     color: '#808080',
-    bottom: -90,
-    left: -35,
+    bottom: 0,
+    left: 0,
     position: 'absolute',
+    width: '100%',
+    height: 300,
   },
   titleContainer: {
     flexDirection: 'row',
