@@ -1,7 +1,7 @@
-import React, { useState, useEffect, useLayoutEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { View, FlatList, TouchableOpacity, Modal, StyleSheet, ActivityIndicator, Platform } from 'react-native';
 
-import { Stack, useLocalSearchParams } from "expo-router";
+import { router, Stack, useLocalSearchParams } from "expo-router";
 import books from '@/assets/bible';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Audio } from 'expo-av';
@@ -37,7 +37,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   const params = useLocalSearchParams<{ book: string }>();
   const fontSize = useSettingsStore((state) => state.fontSize);
   const flatListRef = useRef<FlatList<Verse> | null>(null);
-  const [chapter, setChapter] = useState<number>(1);
+  const [chapter, setChapter] = useState<number>(0);
   const [verses, setVerses] = useState<Verse[]>([]);
   const [selectedFootnote, setSelectedFootnote] = useState<Footnote | null>(null);
   const [currentVerseIndex, setCurrentVerseIndex] = useState<number | null>(null);
@@ -48,11 +48,8 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   const [loading, setLoading] = useState(true);
   const { textToSpeech, stopSpeech } = useTextToSpeech();
 
-  useLayoutEffect(() => {
-    setLoading(true);
-  }, []);
-
   const loadChapter = () => {
+    if(chapter === 0) return;
     // @ts-ignore
     const book = books[params.book.toLowerCase().replace(/\s+/g, '-')] || {};  
     const jsonData = book[`chapter-${chapter}`];
@@ -155,10 +152,12 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   };
 
   const handleNextChapter = () => {
+    stopSpeech()
     setChapter(chapter + 1);
   };
 
   const handlePreviousChapter = () => {
+    stopSpeech()
     if (chapter > 1) setChapter(chapter - 1);
   };
 
@@ -205,29 +204,33 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     );
   };
 
-  if(loading) {
-    return (
-      <>
-        <Stack.Screen options={{ title: `${params.book}` }} />
-        <ThemedView style={{ flex: 1, paddingBottom: inset.bottom, paddingHorizontal: 15 }}>
-          <ThemedText style={styles.chapterTitle} type="link">Kapitulo {chapter}</ThemedText>
-          <ActivityIndicator size="large"/>
-        </ThemedView>
-      </>
-    )
-  }
-
-  if(!loading && numberOfChapters === 0) {
-    return (
-      <ThemedView style={{flex: 1, paddingVertical: 50}}>
-        <ThemedText style={[textStyle, {textAlign: 'center'}]}>Ang Libro ng {params.book} ay hindi pa na-ilalathala.</ThemedText>
-      </ThemedView>
-    )
-  }
-
   return (
     <>
       <Stack.Screen options={{ title: `${params.book}`, headerTitleAlign: "center", headerTitleStyle: { fontSize: 26 } }} />
+      {renderContent()}
+      {renderChapteSelectionModal()}
+      {renderFootnotesModal()}
+    </>
+  );
+
+  function renderContent() {
+    if(loading || chapter === 0) {
+      return (
+        <ThemedView style={{ flex: 1, justifyContent: 'center' }}>
+          <ActivityIndicator size="large"/>
+        </ThemedView>
+      )
+    }
+
+    if(!loading && numberOfChapters === 0) {
+      return (
+        <ThemedView style={{flex: 1, paddingVertical: 50}}>
+          <ThemedText style={[textStyle, {textAlign: 'center'}]}>Ang Libro ng {params.book} ay hindi pa na-ilalathala.</ThemedText>
+        </ThemedView>
+      )
+    }
+
+    return (
       <ThemedView style={{ flex: 1 }}>
         <TouchableOpacity onPress={() => setChapterModalVisible(true)}>
           <ThemedText style={styles.chapterTitle} colorName="primary" type="title">Kapitulo {chapter}</ThemedText>
@@ -262,12 +265,14 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
             )}
           </View>
         </ThemedView>
-
       </ThemedView>
+    )
+  }
 
-      {/* Chapter Selection Modal */}
+  function renderChapteSelectionModal() {
+    return (
       <Modal
-        visible={isChapterModalVisible}
+        visible={isChapterModalVisible || chapter === 0}
         transparent={true}
         animationType="fade"
         onRequestClose={() => setChapterModalVisible(false)}
@@ -290,13 +295,16 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
               )}
             />
             <View style={{ width: '100%', borderTopColor: '#ccc', borderTopWidth: 1, paddingTop: 10 }}>
-              <ThemedButton  title="Close" onPress={() => setChapterModalVisible(false)} />
+              <ThemedButton title="Close" onPress={() => chapter === 0 ? router.back() : setChapterModalVisible(false)} />
             </View>
           </ThemedView>
         </View>
       </Modal>
+    )
+  }
 
-      {/* Footnote Modal */}
+  function renderFootnotesModal() {
+    return (
       <Modal
         visible={!!selectedFootnote}
         transparent={true}
@@ -310,8 +318,8 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           </ThemedView>
         </View>
       </Modal>
-    </>
-  );
+    )
+  }
 };
 
 const styles = StyleSheet.create({
