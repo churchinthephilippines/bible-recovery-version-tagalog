@@ -6,6 +6,9 @@ import ThemedSlider from "@/components/ThemedSlider"
 import ThemedRadioButton from "@/components/ThemedRadioButton"
 import ThemedContainer from "@/components/ThemedContainer"
 import { useEffect, useState } from "react"
+import Constants from 'expo-constants';
+
+const appVersion = Constants.manifest?.version || Constants.expoConfig?.version || 'Unknown version';
 
 export default function TabTwoScreen() {
   const { fontSize, setFontSize, themeMode, setThemeMode } = useSettingsStore()
@@ -17,7 +20,12 @@ export default function TabTwoScreen() {
   
   return (
     <ThemedContainer
-      header={<ThemedText type="title" allColor="#F5F5DC" style={{ textAlign: "center", marginBottom: 15 }}>Mga Setting</ThemedText>}
+      header={(
+        <>
+          <ThemedText type="title" allColor="#F5F5DC" style={{ textAlign: "center" }}>Mga Setting</ThemedText>
+          <ThemedText allColor="#F5F5DC" style={{ textAlign: "center", fontSize: 10 }}>version {appVersion}</ThemedText>
+        </>
+      )}
     >
       <ThemedView colorName="card" style={[styles.exampleContainer]}>
         <ThemedText style={{ fontSize: previewFontSize, lineHeight: Math.max(previewFontSize * 1.5, 24) }}>
