@@ -1,6 +1,6 @@
-import React, { useState, useEffect, useLayoutEffect } from 'react';
+import React, { useState, useEffect, useLayoutEffect, useRef } from 'react';
 import { View, FlatList, TouchableOpacity, Modal, StyleSheet, ActivityIndicator, Platform } from 'react-native';
-import * as Speech from 'expo-speech';
+
 import { Stack, useLocalSearchParams } from "expo-router";
 import books from '@/assets/bible';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -9,6 +9,8 @@ import { ThemedText } from "@/components/ThemedText";
 import { ThemedView } from "@/components/ThemedView";
 import { useSettingsStore } from "@/store/settings";
 import { ThemedButton } from "@/components/ThemedButton";
+import { useTheme } from "@react-navigation/native";
+import { useTextToSpeech } from "@/hooks/useTextToSpeech";
 
 const soundObject = new Audio.Sound();
 
@@ -31,8 +33,10 @@ interface ChapterScreenProps {
 
 const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   const inset = useSafeAreaInsets()
+  const { colors } = useTheme()
   const params = useLocalSearchParams<{ book: string }>();
   const fontSize = useSettingsStore((state) => state.fontSize);
+  const flatListRef = useRef<FlatList<Verse> | null>(null);
   const [chapter, setChapter] = useState<number>(1);
   const [verses, setVerses] = useState<Verse[]>([]);
   const [selectedFootnote, setSelectedFootnote] = useState<Footnote | null>(null);
@@ -42,6 +46,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   const [isChapterModalVisible, setChapterModalVisible] = useState<boolean>(false);
   const [numberOfChapters, setNumberOfChapters] = useState<number>(0);
   const [loading, setLoading] = useState(true);
+  const { textToSpeech, stopSpeech } = useTextToSpeech();
 
   useLayoutEffect(() => {
     setLoading(true);
@@ -53,6 +58,8 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     const jsonData = book[`chapter-${chapter}`];
     setVerses(jsonData?.verses || []);
     
+    if(isReading) return;
+
     setSelectedVerseIndex(null);
     setCurrentVerseIndex(null);
     setLoading(false);
@@ -87,34 +94,56 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   useEffect(iOSFixForPlayingAudio, []);
 
   const readVerse = () => {
-    if(currentVerseIndex === null) return;
+    if(currentVerseIndex === null) {
+      return setIsReading(false);
+    }
+    
+    if(!isReading) {
+      setIsReading(true);
+    }
+
+    flatListRef.current?.scrollToIndex({ animated: true, index: currentVerseIndex });
+    
     const verseText = verses[currentVerseIndex].text;
 
-    Speech.speak(`${verseText}`, {
-      onDone: () => {
-        setCurrentVerseIndex(prev => prev !== null ? prev + 1 : prev)
-      },
-      language: 'fil-PH',  // Attempt to use Filipino (Tagalog)
-      pitch: 1,  // Adjust pitch
-      rate: 1,  
+    textToSpeech(`${verseText}`, () => {
+      const isLastVerse = currentVerseIndex === verses.length - 1;
+
+      if(isLastVerse) {
+        const isLastChapter = chapter === numberOfChapters;
+
+        if(isLastChapter) {
+          setCurrentVerseIndex(null);
+          return;
+        }
+
+        setChapter(prev => prev + 1);
+        
+        textToSpeech(`${params.book.replace('1', 'Unang').replace('2', 'Ikalawang').replace('3', 'Ikatlong')} Kapitulo ${chapter + 1}`, () => {
+          setCurrentVerseIndex(0)
+        });
+        return;
+      }
+
+      setCurrentVerseIndex(prev => prev !== null ? Math.min(prev + 1, verses.length - 1) : prev)
     });
 
     return () => {
-      Speech.stop();
+      stopSpeech();
     }
   };
   
   useEffect(readVerse, [currentVerseIndex]);
 
-  useEffect(() => {
-    return () => {
-      setCurrentVerseIndex(null);
-    }
-  }, []);
+  const unmountCleanup = () => () => {
+    setIsReading(false);
+    setCurrentVerseIndex(null);
+  }
+
+  useEffect(unmountCleanup, []);
 
   const startReadingFromSelectedVerse = () => {
     if (selectedVerseIndex !== null) {
-      setIsReading(true);
       setSelectedVerseIndex(null);
       setCurrentVerseIndex(selectedVerseIndex);
     }
@@ -156,8 +185,8 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
             ))}
           </>
         )}
-        <ThemedText darkColor="#000" style={[styles.verseText, isSelected && styles.selectedVerse, isActive && styles.activeVerse, textStyle]}>
-          <ThemedText onPress={() => setSelectedVerseIndex(index)} style={[styles.verseNumber, textStyle]}>{index + 1}.{" "}</ThemedText>
+        <ThemedText onLongPress={() => setSelectedVerseIndex(index)} style={[styles.verseText, { backgroundColor: isSelected || isActive ? colors.card : 'transparent' }, textStyle]}>
+          <ThemedText style={[styles.verseNumber, textStyle]}>{index + 1}.{" "}</ThemedText>
           {words.map((word, wordIndex) => {
             const footnote = item.footnotes.find(f => f.word === word && f.note);
             return (
@@ -198,18 +227,28 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
 
   return (
     <>
-      <Stack.Screen options={{ title: `${params.book}`, headerTitleStyle: { fontSize: 26 } }} />
+      <Stack.Screen options={{ title: `${params.book}`, headerTitleAlign: "center", headerTitleStyle: { fontSize: 26 } }} />
       <ThemedView style={{ flex: 1 }}>
         <TouchableOpacity onPress={() => setChapterModalVisible(true)}>
           <ThemedText style={styles.chapterTitle} colorName="primary" type="title">Kapitulo {chapter}</ThemedText>
         </TouchableOpacity>
         <FlatList
+          ref={flatListRef}
           data={verses}
           keyExtractor={(_, index) => index.toString()}
           renderItem={renderVerse}
           style={{ paddingHorizontal: 15 }}
         />
-        <ThemedView colorName="card" style={{ padding: 15, paddingBottom: inset.bottom }}>
+        <ThemedView colorName="card" style={{ padding: 15, paddingBottom: Math.max(inset.bottom, 15) }}>
+          {(currentVerseIndex !== null || selectedVerseIndex != null) && (
+            <View style={styles.controlButtons}>
+              {isReading ? (
+                <ThemedButton title="Stop Reading" onPress={stopReading} color="red" />
+              ) : (
+                <ThemedButton title={currentVerseIndex === null ? "Start Reading Verse" : "Resume Reading"} onPress={startReadingFromSelectedVerse} color="green" />
+              )}
+            </View>
+          )}
           <View style={styles.paginationButtons}>
             {chapter === 1 ? (
               <View />
@@ -222,18 +261,10 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
               <ThemedButton title={`Kapitulo ${chapter + 1}`} onPress={handleNextChapter} disabled={chapter === numberOfChapters} />
             )}
           </View>
-          {(currentVerseIndex !== null || selectedVerseIndex != null) && (
-            <View style={styles.controlButtons}>
-              {isReading ? (
-                <ThemedButton title="Stop Reading" onPress={stopReading} color="red" />
-              ) : (
-                <ThemedButton title={currentVerseIndex === null ? "Start Reading Verse" : "Resume Reading"} onPress={startReadingFromSelectedVerse} color="green" />
-              )}
-            </View>
-          )}
         </ThemedView>
 
       </ThemedView>
+
       {/* Chapter Selection Modal */}
       <Modal
         visible={isChapterModalVisible}
@@ -303,12 +334,6 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     marginVertical: 10,
   },
-  activeVerse: {
-    backgroundColor: '#d0f0c0',
-  },
-  selectedVerse: {
-    backgroundColor: '#cce5ff',
-  },
   highlight: {
     textDecorationLine: 'underline',
   },
@@ -318,6 +343,7 @@ const styles = StyleSheet.create({
   },
   controlButtons: {
     alignItems: 'center',
+    marginBottom: 15,
   },
   modalBackground: {
     flex: 1,
