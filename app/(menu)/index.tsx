@@ -1,7 +1,8 @@
+import ThemedContainer from "@/components/ThemedContainer";
 import { ThemedText } from "@/components/ThemedText";
 import { router } from "expo-router";
 import React from 'react';
-import { View, FlatList, TouchableOpacity, StyleSheet } from 'react-native';
+import { FlatList, TouchableOpacity, StyleSheet } from 'react-native';
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
 const books = [
@@ -42,10 +43,15 @@ const Books = () => {
   const inset = useSafeAreaInsets();
 
   return (
-    <View style={[styles.container, { paddingTop: inset.top }]}>
-      <ThemedText style={styles.title}>BIBLIA</ThemedText>
-      <ThemedText style={{ textAlign: 'center', marginBottom: 15 }}>SALIN SA PAGBABAWI</ThemedText>
-      <ThemedText style={{ textAlign: 'center', fontSize: 20, marginBottom: 15 }}>Ang Bagong Tipan</ThemedText>
+    <ThemedContainer
+      header={(
+        <>
+          <ThemedText type="title" allColor="#F5F5DC" style={{ textAlign: 'center' }}>BIBLIA</ThemedText>
+          <ThemedText allColor="#F5F5DC" style={{ textAlign: 'center', marginBottom: 15 }}>SALIN SA PAGBABAWI</ThemedText>
+        </>
+      )}
+     >
+      <ThemedText colorName="primary" style={{ textAlign: 'center', fontSize: 20, marginBottom: 15 }}>Ang Bagong Tipan</ThemedText>
       <FlatList
         data={books}
         keyExtractor={(item) => item}
@@ -56,7 +62,7 @@ const Books = () => {
         )}
         style={styles.listContainer}
       />
-    </View>
+    </ThemedContainer>
   );
 };
 
@@ -72,9 +78,8 @@ const styles = StyleSheet.create({
   },
   listContainer: {
     width: '100%',
-    borderTopColor: '#cfcfcf',
-    borderTopWidth: 1,
-    padding: 20,
+    borderBottomColor: '#cfcfcf',
+    borderBottomWidth: 1,
   },
   bookName: {
     fontSize: 18,

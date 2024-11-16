@@ -1,10 +1,13 @@
 import { Text, type TextProps, StyleSheet } from 'react-native';
 
 import { useThemeColor } from '@/hooks/useThemeColor';
+import { DefaultTheme } from "@react-navigation/native";
 
 export type ThemedTextProps = TextProps & {
   lightColor?: string;
   darkColor?: string;
+  allColor?: string;
+  colorName?: keyof typeof DefaultTheme.colors;
   type?: 'default' | 'title' | 'defaultSemiBold' | 'subtitle' | 'link';
 };
 
@@ -12,10 +15,12 @@ export function ThemedText({
   style,
   lightColor,
   darkColor,
+  allColor,
+  colorName = 'text',
   type = 'default',
   ...rest
 }: ThemedTextProps) {
-  const color = useThemeColor({ light: lightColor, dark: darkColor }, 'text');
+  const color = useThemeColor({ light: allColor || lightColor, dark: allColor || darkColor }, colorName);
 
   return (
     <Text

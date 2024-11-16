@@ -1,26 +1,29 @@
-/**
- * Below are the colors that are used in the app. The colors are defined in the light and dark mode.
- * There are many other ways to style your app. For example, [Nativewind](https://www.nativewind.dev/), [Tamagui](https://tamagui.dev/), [unistyles](https://reactnativeunistyles.vercel.app), etc.
- */
+import { DarkTheme as DefaultDarkTheme, DefaultTheme } from "@react-navigation/native";
 
-const tintColorLight = '#0a7ea4';
-const tintColorDark = '#fff';
+export const TINT_COLOR = '#6E4E2E';
 
-export const Colors = {
-  light: {
-    text: '#11181C',
-    background: '#fff',
-    tint: tintColorLight,
-    icon: '#687076',
-    tabIconDefault: '#687076',
-    tabIconSelected: tintColorLight,
+export const DarkTheme = {
+  dark: true,
+  colors: {
+    primary: '#D4A373', // Accent color
+    background: '#4B2E17', // Rich Leather Brown
+    card: '#3B2313', // Slightly darker background for cards
+    text: '#F5F5DC', // Beige/Off-White
+    border: '#6E4E2E', // Medium Brown
+    notification: '#F0E68C', // Highlight/Notification color
   },
-  dark: {
-    text: '#ECEDEE',
-    background: '#151718',
-    tint: tintColorDark,
-    icon: '#9BA1A6',
-    tabIconDefault: '#9BA1A6',
-    tabIconSelected: tintColorDark,
+  fonts: DefaultDarkTheme.fonts
+};
+
+export const LightTheme = {
+  dark: false,
+  colors: {
+    primary: '#8B4513', // Saddle Brown
+    background: '#F5F0EB', // Soft Parchment
+    card: '#EDE6DF', // Lighter parchment for cards
+    text: '#4B2E17', // Rich Leather Brown
+    border: '#C9B89E', // Light Tan
+    notification: '#D2B48C', // Highlight/Notification color
   },
+  fonts: DefaultTheme.fonts
 };

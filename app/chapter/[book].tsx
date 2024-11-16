@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useLayoutEffect } from 'react';
-import { View, Button, FlatList, TouchableOpacity, Modal, StyleSheet, ActivityIndicator, Platform } from 'react-native';
+import { View, FlatList, TouchableOpacity, Modal, StyleSheet, ActivityIndicator, Platform } from 'react-native';
 import * as Speech from 'expo-speech';
 import { Stack, useLocalSearchParams } from "expo-router";
 import books from '@/assets/bible';
@@ -8,6 +8,7 @@ import { Audio } from 'expo-av';
 import { ThemedText } from "@/components/ThemedText";
 import { ThemedView } from "@/components/ThemedView";
 import { useSettingsStore } from "@/store/settings";
+import { ThemedButton } from "@/components/ThemedButton";
 
 const soundObject = new Audio.Sound();
 
@@ -137,7 +138,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     setChapterModalVisible(false);
   };
 
-  const textStyle = { fontSize, lineHeight: Math.max(fontSize, 24) };
+  const textStyle = { fontSize, lineHeight: Math.max(fontSize * 1.5, 24) };
 
   const renderVerse = ({ item, index }: { item: Verse; index: number }) => {
     const words = item.text.split(" ");
@@ -180,7 +181,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
       <>
         <Stack.Screen options={{ title: `${params.book}` }} />
         <ThemedView style={{ flex: 1, paddingBottom: inset.bottom, paddingHorizontal: 15 }}>
-          <ThemedText style={styles.chapterTitle}>Kapitulo {chapter}</ThemedText>
+          <ThemedText style={styles.chapterTitle} type="link">Kapitulo {chapter}</ThemedText>
           <ActivityIndicator size="large"/>
         </ThemedView>
       </>
@@ -197,78 +198,87 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
 
   return (
     <>
-      <Stack.Screen options={{ title: `${params.book}` }} />
-      <ThemedView style={{ flex: 1, paddingBottom: inset.bottom, paddingHorizontal: 15 }}>
+      <Stack.Screen options={{ title: `${params.book}`, headerTitleStyle: { fontSize: 26 } }} />
+      <ThemedView style={{ flex: 1 }}>
         <TouchableOpacity onPress={() => setChapterModalVisible(true)}>
-          <ThemedText style={styles.chapterTitle} type="link">Kapitulo {chapter}</ThemedText>
+          <ThemedText style={styles.chapterTitle} colorName="primary" type="title">Kapitulo {chapter}</ThemedText>
         </TouchableOpacity>
         <FlatList
           data={verses}
           keyExtractor={(_, index) => index.toString()}
           renderItem={renderVerse}
+          style={{ paddingHorizontal: 15 }}
         />
-        <View style={styles.paginationButtons}>
-          {chapter === 1 ? (
-            <View />
-          ) : (
-            <Button title={`Kapitulo ${chapter - 1}`} onPress={handlePreviousChapter} disabled={chapter === 1} />
-          )}
-          {chapter === numberOfChapters ? (
-            <View />
-          ) : (
-            <Button title={`Kapitulo ${chapter + 1}`} onPress={handleNextChapter} disabled={chapter === numberOfChapters} />
-          )}
-        </View>
-        {(currentVerseIndex !== null || selectedVerseIndex != null) && (
-          <View style={styles.controlButtons}>
-            {isReading ? (
-              <Button title="Stop Reading" onPress={stopReading} color="red" />
+        <ThemedView colorName="card" style={{ padding: 15, paddingBottom: inset.bottom }}>
+          <View style={styles.paginationButtons}>
+            {chapter === 1 ? (
+              <View />
             ) : (
-              <Button title={currentVerseIndex === null ? "Start Reading Verse" : "Resume Reading"} onPress={startReadingFromSelectedVerse} color="green" />
+              <ThemedButton title={`Kapitulo ${chapter - 1}`} onPress={handlePreviousChapter} disabled={chapter === 1} />
+            )}
+            {chapter === numberOfChapters ? (
+              <View />
+            ) : (
+              <ThemedButton title={`Kapitulo ${chapter + 1}`} onPress={handleNextChapter} disabled={chapter === numberOfChapters} />
             )}
           </View>
-        )}
+          {(currentVerseIndex !== null || selectedVerseIndex != null) && (
+            <View style={styles.controlButtons}>
+              {isReading ? (
+                <ThemedButton title="Stop Reading" onPress={stopReading} color="red" />
+              ) : (
+                <ThemedButton title={currentVerseIndex === null ? "Start Reading Verse" : "Resume Reading"} onPress={startReadingFromSelectedVerse} color="green" />
+              )}
+            </View>
+          )}
+        </ThemedView>
 
-        {/* Chapter Selection Modal */}
-        <Modal
-          visible={isChapterModalVisible}
-          transparent={true}
-          animationType="fade"
-          onRequestClose={() => setChapterModalVisible(false)}
-        >
-          <View style={styles.modalBackground}>
-            <ThemedView style={styles.modalContainer}>
-              <ThemedText style={styles.modalTitle}>Mamili ng Kapitulo</ThemedText>
-              <FlatList
-                style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#ccc', width: '100%', marginVertical: 10}}
-                data={Array.from({ length: numberOfChapters }, (_, i) => i + 1)}
-                keyExtractor={(item) => item.toString()}
-                renderItem={({ item }) => (
-                  <TouchableOpacity onPress={() => handleChapterSelect(item)}>
-                    <ThemedText style={[styles.chapterItem, item === chapter && { color: 'red' }]}>Kapitulo {item}</ThemedText>
-                  </TouchableOpacity>
-                )}
-              />
-              <Button  title="Close" onPress={() => setChapterModalVisible(false)} />
-            </ThemedView>
-          </View>
-        </Modal>
-
-        {/* Footnote Modal */}
-        <Modal
-          visible={!!selectedFootnote}
-          transparent={true}
-          animationType="fade"
-          onRequestClose={() => setSelectedFootnote(null)}
-        >
-          <View style={styles.modalBackground}>
-            <ThemedView style={styles.modalContainer}>
-              <ThemedText style={styles.modalText}>{selectedFootnote?.note}</ThemedText>
-              <Button title="Close" onPress={() => setSelectedFootnote(null)} />
-            </ThemedView>
-          </View>
-        </Modal>
       </ThemedView>
+      {/* Chapter Selection Modal */}
+      <Modal
+        visible={isChapterModalVisible}
+        transparent={true}
+        animationType="fade"
+        onRequestClose={() => setChapterModalVisible(false)}
+      >
+        <View style={styles.modalBackground}>
+          <ThemedView colorName="card" style={[styles.modalContainer, { paddingHorizontal: 0}]}>
+            <View style={{ width: '100%', borderBottomColor: '#ccc', borderBottomWidth: 1, paddingBottom: 10 }}>
+              <ThemedText style={styles.modalTitle}>Pumili ng Kapitulo</ThemedText>
+            </View>
+            <FlatList
+              style={{ width: '100%' }}
+              data={Array.from({ length: numberOfChapters }, (_, i) => i + 1)}
+              keyExtractor={(item) => item.toString()}
+              renderItem={({ item }) => (
+                <TouchableOpacity onPress={() => handleChapterSelect(item)}>
+                  <ThemedView colorName={item === chapter ? "border" : "background"}>
+                    <ThemedText colorName={item === chapter ? "primary" : "text"} style={[styles.chapterItem]}>Kapitulo {item}</ThemedText>
+                  </ThemedView>
+                </TouchableOpacity>
+              )}
+            />
+            <View style={{ width: '100%', borderTopColor: '#ccc', borderTopWidth: 1, paddingTop: 10 }}>
+              <ThemedButton  title="Close" onPress={() => setChapterModalVisible(false)} />
+            </View>
+          </ThemedView>
+        </View>
+      </Modal>
+
+      {/* Footnote Modal */}
+      <Modal
+        visible={!!selectedFootnote}
+        transparent={true}
+        animationType="fade"
+        onRequestClose={() => setSelectedFootnote(null)}
+      >
+        <View style={styles.modalBackground}>
+          <ThemedView style={styles.modalContainer}>
+            <ThemedText style={styles.modalText}>{selectedFootnote?.note}</ThemedText>
+            <ThemedButton title="Close" onPress={() => setSelectedFootnote(null)} />
+          </ThemedView>
+        </View>
+      </Modal>
     </>
   );
 };
@@ -278,7 +288,6 @@ const styles = StyleSheet.create({
     fontSize: 24,
     textAlign: 'center',
     marginVertical: 10,
-    textDecorationLine: 'underline',
   },
   verseNumber: {
     fontSize: 16,
@@ -306,27 +315,24 @@ const styles = StyleSheet.create({
   paginationButtons: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    paddingTop: 10
   },
   controlButtons: {
-    marginVertical: 10,
     alignItems: 'center',
   },
   modalBackground: {
     flex: 1,
     justifyContent: 'center',
-    alignItems: 'center',
     backgroundColor: 'rgba(0, 0, 0, 0.5)',
   },
   modalContainer: {
     maxHeight: '80%',
-    width: '90%',
+    marginHorizontal: 25,
     padding: 20,
     borderRadius: 10,
-    alignItems: 'center',
   },
   modalTitle: {
     fontSize: 20,
+    textAlign: 'center',
     marginBottom: 10,
     fontWeight: 'bold',
   },
