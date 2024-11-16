@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import { View, StyleSheet } from 'react-native';
 import Slider, { SliderProps } from '@react-native-community/slider';
 import { useTheme } from '@react-navigation/native';
 
@@ -13,6 +13,7 @@ export function ThemedSlider(props: SliderProps) {
         maximumTrackTintColor={colors.border}
         thumbTintColor={colors.primary}
         {...props}
+        style={[styles.slider, props.style]}
       />
     </View>
   );
@@ -20,7 +21,10 @@ export function ThemedSlider(props: SliderProps) {
 
 const styles = StyleSheet.create({
   container: {
-    marginBottom: 10
+    marginBottom: 15
+  },
+  slider: {
+    height: 40,
   },
 });
 
