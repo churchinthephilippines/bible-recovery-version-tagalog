@@ -147,17 +147,18 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   };
 
   const stopReading = () => {
+    stopSpeech();
     setIsReading(false);
     setCurrentVerseIndex(null);
   };
 
   const handleNextChapter = () => {
-    stopSpeech()
+    stopReading()
     setChapter(chapter + 1);
   };
 
   const handlePreviousChapter = () => {
-    stopSpeech()
+    stopReading()
     if (chapter > 1) setChapter(chapter - 1);
   };
 
@@ -294,7 +295,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
                 </TouchableOpacity>
               )}
             />
-            <View style={{ width: '100%', borderTopColor: '#ccc', borderTopWidth: 1, paddingTop: 10 }}>
+            <View style={{ width: '100%', borderTopColor: '#ccc', borderTopWidth: 1, paddingTop: 20, paddingHorizontal: 20 }}>
               <ThemedButton title="Close" onPress={() => chapter === 0 ? router.back() : setChapterModalVisible(false)} />
             </View>
           </ThemedView>

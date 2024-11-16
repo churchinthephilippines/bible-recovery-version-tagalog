@@ -44,6 +44,7 @@ export default function TabTwoScreen() {
 
   const onTryToRead = () => {
     if(isReading) {
+      setIsReading(false);
       return stopSpeech();
     }
     setIsReading(true);
