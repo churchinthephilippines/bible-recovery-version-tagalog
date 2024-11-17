@@ -7,20 +7,18 @@
             "footnotes": [
                 {
                     "word": "Judas,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Santiago,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
-            "outlines": [
-                "I. Pambungad-Sa mga Tinawag, mga Minamahal at mga Iniingatan\n bb. 1-2"
-            ]
+            "outlines": null
         },
         {
             "id": "2",
@@ -28,7 +26,7 @@
             "footnotes": [
                 {
                     "word": "kaawaan",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -39,16 +37,14 @@
             "footnotes": [
                 {
                     "word": "pangkalahatang",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
-            "outlines": [
-                "II. Nakikipaglaban para sa Pananampalataya\n b. 3"
-            ]
+            "outlines": null
         },
         {
             "id": "4",
@@ -56,36 +52,34 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "nagsipasok",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "kahatulang",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "nagpalit",
-                    "note": ""
+                    "id": "4-4"
                 },
                 {
                     "word": "kahalayan",
-                    "note": ""
+                    "id": "4-5"
                 },
                 {
                     "word": "nagtatwa",
-                    "note": ""
+                    "id": "4-4"
                 },
                 {
                     "word": "ating",
-                    "note": ""
+                    "id": "4-6"
                 }
             ],
-            "outlines": [
-                "III. Ang mga Erehiya ng mga Nagsitalikod—sa-wastong-pananampalataya\n b. 4"
-            ]
+            "outlines": null
         },
         {
             "id": "5",
@@ -93,20 +87,18 @@
             "footnotes": [
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "pagkatapos",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "nilipol",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
-            "outlines": [
-                "IV. Mga Pangkasaysayang Halimbawa ng Kahatulan ng Panginoon sa Taliwas at Maling Pananampalataya\n bb. 5-7"
-            ]
+            "outlines": null
         },
         {
             "id": "6",
@@ -114,19 +106,19 @@
             "footnotes": [
                 {
                     "word": "pamunuan,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "sariling",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "ilalim",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "paghuhukom",
-                    "note": ""
+                    "id": "6-4"
                 }
             ],
             "outlines": null
@@ -137,7 +129,7 @@
             "footnotes": [
                 {
                     "word": "Gaya",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -148,20 +140,18 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "pagkapanginoon,",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "pinuno.",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
-            "outlines": [
-                "V. Ang mga Kasamaan ng mga Nagsitalikod—sa-wastong-pananampalataya at ang Kaparusahan sa Kanila sa ilalim ng Kahatulan ng Panginoon\n bb. 8-19"
-            ]
+            "outlines": null
         },
         {
             "id": "9",
@@ -169,15 +159,15 @@
             "footnotes": [
                 {
                     "word": "Miguel",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "katawan",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -188,35 +178,35 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "nalalaman;",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "likas",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "nauunawaan,",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "hayop",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "10-5"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "10-6"
                 },
                 {
                     "word": "nasisira.",
-                    "note": ""
+                    "id": "10-7"
                 }
             ],
             "outlines": null
@@ -227,23 +217,23 @@
             "footnotes": [
                 {
                     "word": "daan",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "nagsidaluhong",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "kamalian",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "nangapahamak",
-                    "note": ""
+                    "id": "11-4"
                 },
                 {
                     "word": "pagrerebelde",
-                    "note": ""
+                    "id": "11-5"
                 }
             ],
             "outlines": null
@@ -254,23 +244,23 @@
             "footnotes": [
                 {
                     "word": "batong",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "piging",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "nagpapakain",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "alapaap",
-                    "note": ""
+                    "id": "12-4"
                 },
                 {
                     "word": "punong-",
-                    "note": ""
+                    "id": "12-5"
                 }
             ],
             "outlines": null
@@ -281,11 +271,11 @@
             "footnotes": [
                 {
                     "word": "mabangis",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "bituing",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -296,15 +286,15 @@
             "footnotes": [
                 {
                     "word": "dumating",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "laksa-",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -315,7 +305,7 @@
             "footnotes": [
                 {
                     "word": "paghuhukom",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -326,7 +316,7 @@
             "footnotes": [
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -343,7 +333,7 @@
             "footnotes": [
                 {
                     "word": "huling",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -354,11 +344,11 @@
             "footnotes": [
                 {
                     "word": "makakaluluwa,",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "espiritu.",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -369,13 +359,10 @@
             "footnotes": [
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
-            "outlines": [
-                "VI. Ang Pag-aatas sa mga Mananampalataya\n bb. 20-23",
-                "A. Itinatayo ang mga Sarili sa Pinakabanal na Pananampalataya at Namumuhay sa loob ng Tres-unong Diyos\n bb. 20-21"
-            ]
+            "outlines": null
         },
         {
             "id": "21",
@@ -383,19 +370,19 @@
             "footnotes": [
                 {
                     "word": "Ingatan",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "awa",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "Panginoong",
-                    "note": ""
+                    "id": "21-3"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "21-4"
                 }
             ],
             "outlines": null
@@ -406,12 +393,10 @@
             "footnotes": [
                 {
                     "word": "kaawaan",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
-            "outlines": [
-                "B. Inaalagaan ang Iba nang may Awa sa loob ng Takot\n bb. 22-23"
-            ]
+            "outlines": null
         },
         {
             "id": "23",
@@ -419,15 +404,15 @@
             "footnotes": [
                 {
                     "word": "inaagaw",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "apoy;",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "23-3"
                 }
             ],
             "outlines": null
@@ -438,25 +423,22 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’t",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "24-3"
                 },
                 {
                     "word": "malaking",
-                    "note": ""
+                    "id": "24-4"
                 }
             ],
-            "outlines": [
-                "VII. Konklusyon-",
-                "Ang Papuri ay para sa Kanya na may Kakayahang Mag-ingat at Magharap sa mga Mananampalataya sa Kanyang Kaluwalhatian\n bb. 24-25"
-            ]
+            "outlines": null
         },
         {
             "id": "25",
@@ -464,22 +446,296 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "Hesu-",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "kaluwalhatian,",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "bago",
-                    "note": ""
+                    "id": "25-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Si Judas at si Santiago na sumulat ng aklat ni Santiago (Sant. 1:1) ay pawang mga kapatid ng Panginoong Hesus sa laman (Mat. 13:55)."
+        },
+        {
+            "id": "1-2",
+            "text": "O, para kay. Ang “sa pamamagitan ni” ay nagsasaad ng kalakasan at kaparaanan ng pag-iingat; ang “para kay” ay tumutukoy sa layunin at gol ng pag-iingat. Ang lahat ng mananampalataya ay pawang ibinigay ng Ama sa Panginoon (Juan 17:6). Sila ay iniingatan para sa Kanya at sa pamamagitan Niya."
+        },
+        {
+            "id": "2-1",
+            "text": "Malamang na dahil sa pagbabà at pagtalikod ng ekklesia sa wastong pananampalataya (cf.bb.21,22), kaya sa pagbati, ang kaawaan ay binanggit sa halip na ang biyaya. Tingnan ang tala 2-1 sa 2 Timoteo 1."
+        },
+        {
+            "id": "3-1",
+            "text": "Tumutukoy sa pangkalahatang kaligtasan, para sa lahat ng mananampalataya at tinatanganan ng lahat ng mananampalataya, katulad ng pangkalahatang pananampalataya (Tito 1:4)."
+        },
+        {
+            "id": "3-2",
+            "text": "Hindi ang subhektibong pagsampalataya, kundi ang obhektibong pananampalataya, yaon ay, ang mga bagay na ating sinampalatayanan – ang sentrong nilalaman ng Bagong Tipan na naging ating pangkalahatang pananampalataya (Gawa 6:7; I Tim. 1:19; 3:9; 4:1; 5:8; 6:10, 21; II Tim. 2:18; 3:8; 4:7; Tito 1:13), na kapag ating sinampalatayanan ay mapapasaatin ang pangkalahatang kaligtasan. Ang pananampalatayang ito, hindi ang anumang doktrina, ay naibigay na nang minsan at magpakailanman sa mga banal. Dapat tayong makipaglaban para sa pananampalatayang ito (I Tim. 6:12)."
+        },
+        {
+            "id": "4-1",
+            "text": "Malaki ang pagkakatulad ng bb. 4-19 sa 2 Pedro 2. Ipinakikita nito na ang Sulat na ito ay isinulat noong panahon ng pagtalikod-sa-wastong-pananampalataya at pagbabà ng ekklesia."
+        },
+        {
+            "id": "4-2",
+            "text": "Lit. pumasok sa tagiliran o pumuslit papasok sa pamamagitan ng isang pinto sa tagiliran (ihambing sa “lihim na magpapasok” sa 2 Ped. 2:1 at tala nito)."
+        },
+        {
+            "id": "4-3",
+            "text": "Tumutukoy sa kahatulan sa mga taong ganap na tumalikod sa-wastong-pananampalataya, na nagsipasok nang lihim, na inihantad sa mga sumusunod na bersikulo. Ang kahatulan dito ay ang pagkondena para sa kaparusahan, yaon ay, kinondena upang maparusahan."
+        },
+        {
+            "id": "4-4",
+            "text": "Ang kasamaan ng mga taong ganap na tumalikodsa-wastong-pananampalataya ay: 1) ang pagpapalit ng kahalayan sa biyaya ng Diyos, ng pagmamalabis ng kalayaan (cf. Gal. 5:13; 1 Ped. 2:16); at 2) ang pagtatwa sa pagka-ulo at pagkapanginoon ng Panginoon. Ang dalawang bagay na ito ay magkasama. Ang palitan ang biyaya ng Diyos ng isang labis na kalayaan para sa kahalayan ay nangangailangan ng pagtatatwa sa pamumuno at awtoridad ng Panginoon."
+        },
+        {
+            "id": "4-5",
+            "text": "O, walang pakundangan; katulad ng salitang Griyego para sa kahalayan sa 1 Ped. 4:3 at sa 2 Ped. 2:2."
+        },
+        {
+            "id": "4-6",
+            "text": "O, tanging Amo (Master sa Ingles) at ating Panginoong Hesu-Kristo. *Ang amo sa Griyego ay despotees, isang namumuno na may ganap na awtoridad; ang panginoon naman sa Griyego ay kurios, supremo sa awtoridad."
+        },
+        {
+            "id": "5-1",
+            "text": "Sa ilang manuskrito ay nababasang, ni Hesus."
+        },
+        {
+            "id": "5-2",
+            "text": "Lit. ikalawa."
+        },
+        {
+            "id": "5-3",
+            "text": "Tingnan ang tala 1-6, punto 1, sa 2 Pedro 2."
+        },
+        {
+            "id": "6-1",
+            "text": "Gr. arche, nangangahulugang ang pasimula ng kapangyarihan, ang unang puwesto ng awtoridad; kaya nga, orihinal na karangalan sa isang mataas na posisyon. Hindi iningatan ng mga natisod na anghel ang kanilang karangalan at posisyon, bagkus ay iniwanan ang kanilang sariling tahanan, na nasa langit, at pumanaog sa lupa noong panahon ni Noe upang makiapid sa mga anak na babae ng mga tao (Gen. 6:2; 1 Ped. 3:19 at tala 2)."
+        },
+        {
+            "id": "6-2",
+            "text": "Yaon ay, langit."
+        },
+        {
+            "id": "6-3",
+            "text": "Sa mga madilim na hukay ng Tartarus (2 Ped. 2:4)."
+        },
+        {
+            "id": "6-4",
+            "text": "Marahil ay tumutukoy sa huling paghahatol na isasagawa sa malaking puting trono (tingnan ang tala 4-4 sa 2 Ped. 2)."
+        },
+        {
+            "id": "7-1",
+            "text": "Yaon ay, sa gayunding paraan gaya ng. Ito ay nagpapatunay na ang mga anghel sa naunang bersikulo ay mga anak ng Diyos sa Gen. 6:2, na sa pamamagitan ng katawan ng tao ay nakipag-asawa sa mga tao at nakiapid sa kakaibang laman (sa mga tao na naiiba sa mga anghel). Ang mga tao ng Sodoma at ng mga lunsod na nasa palibot ng mga ito ay nakiapid sa mga kalalakihan, yaon ay, kakaiba sa itinalaga ng Diyos sa pamamagitan ng kalikasan ng Kanyang paglalang para sa pantaong pag-aasawa (Gen. 2:18-24), nagpasasà sa kanilang pita sa mga lalake (Roma 1:27; Lev. 18:22). Ang ganitong pakikiapid nila sa kakaibang laman ay katulad ng paraan ng paggawa ng kahalayan ng mga anghel na binanggit sa naunang bersikulo, kaya, sila ay magbabatà ng parusang apoy na walang hanggan."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang mga taong di-makadiyos na binanggit sa bersikulo 4 ay mga mapangarapin, tinataglay ang pangalan ng mga Kristiyano subali’t gumagawa ng mga bagay na gaya ng sa panaginip, katulad ng pagbabaluktot sa biyaya ng Diyos upang maging isang pagkakataon ng kahalayan nang sa gayon ay marungisan ang kanilang laman, at itinatatwa si Hesu-Kristo bilang ating iisang Amo at Panginoon, hinahamak ang Kanyang pagkapanginoon at nilalait ang mga awtoridad sa Kanyang makalangit na pamahalaan."
+        },
+        {
+            "id": "8-2",
+            "text": "Tingnan ang tala 10-2 sa 2 Pedro 2."
+        },
+        {
+            "id": "8-3",
+            "text": "Tingnan ang tala 10-4 sa 2 Pedro 2."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 11-1 sa 2 Pedro 2."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang katawan ni Moises ay inilibing ng Panginoon sa isang libis sa lupain ng Moab, na walang sinuman ang nakaaalam (Deut. 34:6). Malamang na sinadya ng Panginoon na gawin ito sa ganitong paraan. Nang sina Moises at Elias ay nagpakitang kasama ni Kristo sa bundok ng pagbabagong-anyo (Mat. 17:3), si Moises ay tiyak na nahayag sa kanyang katawan, na iningatan ng Panginoon at muling-binuhay. Malamang na, dahil dito, tinangkang galawin ng Diyablo ang kanyang katawan, at nakipagtalo sa kanya ang arkanghel hinggil dito. Ang reperensiya sa 2 Ped. 2:11 ay pangkalahatan, samantalang dito ito ay isang tiyak na pangyayari ukol sa katawan ni Moises."
+        },
+        {
+            "id": "9-3",
+            "text": "Tingnan ang tala 11-2 sa 2 Pedro 2. Ito ay tumutukoy na, sa makalangit na pamahalaan ng Panginoon, ang Diyablo, si Satanas, ay higit na mataas kaysa kay Miguel na arkanghel. Siya ay itinalaga at isinaayos nang gayon ng Diyos (Ezek. 28:14). Sa anumang kaso, siya ay nasa ilalim pa rin ng Panginoon, kaya sinabi ni Miguel sa kanya, “Sawayin ka nawa ng Panginoon”. Nanatili si Miguel sa kanyang posisyon ayon sa alituntunin ng dibinong awtoridad."
+        },
+        {
+            "id": "10-1",
+            "text": "Tumutukoy sa mga mapangarapin sa bersikulo 8."
+        },
+        {
+            "id": "10-2",
+            "text": "Sa Griyego, ang “nalalaman” ay nagsasaad ng isang higit na malalim na pandama sa mga di-nakikitang bagay, at ang “nauunawaan” ay nagsasaad ng isang mababaw na pagkatanto sa mga nakikitang bagay."
+        },
+        {
+            "id": "10-3",
+            "text": "O, katutubo. Nilalapastangan ng mga mapangaraping ito ang hindi nila nalalaman, na dapat nilang malaman; at ang kanilang nauunawaan ay nauunawaan nila nang likas, nang katutubo, walang bait, gaya ng mga hayop na may katutubong gawi. Sila ay hindi nag-eensayo nang higit na malalim at higit na mataas na kaalaman ng tao na may bait, kasali ang kamalayan ng budhi ng tao. Ang kanilang sinasanay ay ang mababaw at mababang uri ng katutubong pang-unawa, katulad ng sa mga hayop na walang pantaong bait. Sa pamamagitan ng pagkilos sa ganitong paraan sila ay napapasamâ at nasisira."
+        },
+        {
+            "id": "10-4",
+            "text": "Lit. mga buháy na nilalang (kasali ang mga tao), tumutukoy sa mga taong nabubuhay na gaya ng mga hayop."
+        },
+        {
+            "id": "10-5",
+            "text": "Tingnan ang tala 12-2 sa 2 Pedro 2."
+        },
+        {
+            "id": "10-6",
+            "text": "O, dahil sa."
+        },
+        {
+            "id": "10-7",
+            "text": "Tingnan ang tala 1-6, punto 3, sa 2 Pedro 2."
+        },
+        {
+            "id": "11-1",
+            "text": "Tumutukoy sa makarelihiyong pamamaraan ng paglilingkod sa Diyos na ayon sa sariling kalooban ng tao. Ang maka-ereheng daang ito ay nagtatakwil sa pagtutubos sa pamamagitan ng dugong hiniling at itinalaga ng Diyos, at ayon sa laman ay naiinggit sa bayan ng Diyos dahil sa tapat na patotoo sa Diyos ng tunay na bayan ng Diyos (Gen. 4:2-8)."
+        },
+        {
+            "id": "11-2",
+            "text": "Yaon ay, ibinigay ang kanilang mga sarili, bumulusok na nauuna ang ulo, magulong tumakbo papasok sa kamalian ni Balaam."
+        },
+        {
+            "id": "11-3",
+            "text": "Ang kamalian ni Balaam ay tumutukoy sa pagtuturo ng maling doktrina dahil sa gantimpala. Kahit na nalalamang ito ay taliwas sa katotohanan at laban sa bayan ng Diyos, itinuturo pa rin sa mga tao ang maling doktrina at ginagamit nang may pagmamalabis ang impluwensiya ng ilang kaloob upang ilihis ang bayan ng Diyos mula sa dalisay na pagsamba sa Panginoon tungo sa masamang pagsamba sa mga diyos-diyosan nang dahil lamang sa bayad (Blg. 22:7,21; 31:16; Apoc. 2:14). Ang pagkasakim sa upa ay nagsasanhi sa taong dumaluhong nang walang pagpipigil sa kamalian ni Balaam."
+        },
+        {
+            "id": "11-4",
+            "text": "Yaon ay, nangalipol (b. 5). Tingnan ang tala 1-6, punto 1, sa 2 Pedro 2."
+        },
+        {
+            "id": "11-5",
+            "text": "Lit. pagsasalansang, pagsasalungat. Paghihimagsik laban sa kinatawang awtoridad ng Diyos sa Kanyang pamahalaan at sa Kanyang salita na sinalita sa pamamagitan ng Kanyang kinatawan (katulad ni Moises). Ito ay naghahatid ng pagkalipol (Blg. 16:1-40)."
+        },
+        {
+            "id": "12-1",
+            "text": "Gr. spilades, nangangahulugang sa orihinal ay isang bato. Dito, ito ay maaaring tumutukoy sa isang lumubog na bato na natatakpan ng dagat (Darby); kaya nga, mga natatagong bato. Ang Griyegong salita na spiloi para sa “mga dungis” sa 2 Ped. 2:13 ay napakalapit sa spilades; kaya nga, isinalin ito ng ilang pagsasalin na “mga dungis.” Sa katunayan, ang dalawang salitang ito ay tumutukoy sa dalawang magkaibang bagay. Ang mga dungis ay mga depekto sa ibabaw ng mahahalagang bato; ang mga natatagong bato ay nasa ilalim ng tubig. Ang mga erehe noong mga unang araw ay hindi lamang mga dungis sa ibabaw, bagkus mga natatagong bato rin sa ilalim, na kapwa kapinsalaan sa mga mananampalatayang nasa loob ni Kristo."
+        },
+        {
+            "id": "12-2",
+            "text": "Tumutukoy sa mga piging ng pag-ibig na iginanyak ng pag-ibig ng Diyos (agape – 1 Juan 4:10-11, 21). Ang mga mananampalataya noong mga unang araw ay madalas na sama-samang kumakain sa loob ng pag-ibig para sa pagsasalamuha at pagsamba (Gawa 2:46). Ang ganitong uri ng pagpipiging ay idinugtong sa hapunan ng Panginoon (1 Cor. 11:20-21,33) at tinawag na isang piging ng pag-ibig."
+        },
+        {
+            "id": "12-3",
+            "text": "Tumutukoy sa mga ereheng mapaghanap ng kalayawan (2 Ped. 2:13) na nagkukunwaring mga pastol, subali’t sa mga piging ng pag-ibig ay nagpapakain lamang sa kanilang mga sarili, hindi inaasikaso ang iba. Sa iba, sila ay mga alapaap na walang tubig, na walang maibigay na panustos ng buhay."
+        },
+        {
+            "id": "12-4",
+            "text": "Ihambing sa 2 Ped. 2:17 at tala 1."
+        },
+        {
+            "id": "12-5",
+            "text": "Ang taglagas ay isang panahon para sa pag-aani ng bunga. Ang mga taong ganap na tumalikod-sa-wastong-pananampalataya na mapaghangad para sa sarili ay tila mga punong-kahoy na napapanahon, subali’t mga walang bunga upang bigyang-kasiyahan ang iba. Sila ay dalawang ulit na namatay, hindi lamang sa panlabas na kaanyuan gaya ng karamihan sa mga punong-kahoy tuwing taglagas, bagkus maging sa panloob na kalikasan. Sila ay lubus-lubusang patay; sila ay nararapat bunutin na kasama ang ugat."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang mga pastol, mga ulap, mga punong-kahoy, at mga bituin ay mga positibong paglalarawan sa mga metapora sa Bibliya, subali’t ang mga batong natatago, mga alon, at ang dagat ay negatibo. Ang mga taong ito na ganap na tumalikod sa wastong pananampalataya ay mga huwad na pastol, mga hungkag na ulap, mga patay na punong-kahoy, at mga bituing gala; at sila ay mga batong natatago, at mga mabangis na alon ng dagat, pinabubula nang walang pagpipigil ang kanilang sariling kahihiyan."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang metapora ng mga bituing gala ay nagpapakita na ang mga guro, ng kamalian, ang mga taong ganap na tumalikod-sa-wastong-pananampalataya, ay hindi matibay na nakapirmi sa mga di-nagbabagong katotohanan ng makalangit na pahayag, kundi pagala-gala sa gitna ng mga gaya-ng-bituing bayan ng Diyos (Dan. 12:3; Fil. 2:15). Ang kanilang kahihinatnan ay ang walang hanggang pusikit ng kadiliman, na inilaan para sa kanila. Ang mga guro ng kamalian, ang mga taong ganap na tumalikod-sa-wastong-pananampalataya, sa pangkasalukuyang panahon, ay mga bituing gala; at sa darating na panahon, sila ay ikukulong sa pusikit ng kadiliman."
+        },
+        {
+            "id": "14-1",
+            "text": "Ito ay tiyak na ang pagpapakita ng parousia (pagparito) ng Panginoon, gaya ng binanggit sa 2 Tes. 2:8 at tala 3; Mat. 24:27,30; at Zac. 14:4-5."
+        },
+        {
+            "id": "14-2",
+            "text": "Lit. nasa loob ng o nasa gitna ng Kanyang laksa-laksang banal."
+        },
+        {
+            "id": "14-3",
+            "text": "O, ang Kanyang laksa-laksang banal, marahil ay kabilang ang mga banal (I Tes. 3:13) at ang mga anghel (Mat.16:27; 25:31; Mar. 8:38), gaya ng nasa Zac. 14:5."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang pagparito ng Panginoon ay upang isagawa ang pampamahalaang paghuhukom ng Diyos, tinutuos ang lahat ng di-makadiyos na tao. Tingnan ang tala 17-2, talata 2, sa 1 Pedro 1."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit. mga mukha."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang tala 12 sa 2 Timoteo 3."
+        },
+        {
+            "id": "19-1",
+            "text": "Gr. psychikos, pang-uring anyo ng psyche, na nangangahulugang kaluluwa. “Ang psyche (kaluluwa) ay ang sentro ng personal na katauhan, ang ‘ako’ ng bawa’t indibiduwal. Ito ay nasa loob ng bawat tao, nauugpong sa espiritu, ang higit na mataas na bahagi ng tao, at nauugpong sa katawan, ang higit na mababang bahagi ng tao; inaakit pataas ng isa, hinihila naman pababa ng isa. Ang taong nagbibigay ng kanyang sarili sa mga higit na mababang pagnanasa, ay sa laman; siya na sa pamamagitan ng kanyang espiritu ay nakikipagsalamuha sa Espiritu ng Diyos at nagbibigay-pansin sa mga higit na mataas na layunin ng kanyang katauhan, ay espirituwal. Siya na humihinto sa kalagitnaan, iniisip lamang ang sarili at kapakanan ng sarili, maging makalaman o intelektuwal, ay ang psychikos, ang makasariling (makakaluluwa) tao, ang tao na kung kaninong espiritu ay napalubog at napababà sa ilalim ng pagpapasakop sa higit na mababang psyche (kaluluwa)”-Alford."
+        },
+        {
+            "id": "19-2",
+            "text": "Tumutukoy sa pantaong espiritu, hindi sa Espiritu ng Diyos. Ang mga taong ganap na tumalikod-sa-wastong-pananampalataya ay walang espiritu. “Hindi naman sa talagang wala silang espiritu, sapagka’t ang espiritu ay isang bahagi ng kanilang sariling kalikasan na may tatlong bahagi (1 Tes. 5:23), kundi mula sa pananaw ng halaga, wala na silang espiritu. Ang kanilang espiritu ay napababa na, nagpasakop sa kaluluwa, at nasa ilalim ng kapangyarihan ng psyche (kaluluwa), ang buhay ng ‘ako’, sa gayon ay nawala na ang tunay na kasiglahan sa sarili nito” – Alford. Hindi nila binibigyang-pansin ni ginagamit ang kanilang espiritu. Sa pakikipagsalamuha sa Espiritu ng Diyos, hindi nila kinakaugnay ang Diyos sa pamamagitan ng kanilang espiritu, ni hindi rin sila namumuhay at lumalakad sa loob ng kanilang espiritu. Sila ay nahila pababa ng kanilang laman at naging sa laman, sa gayon, nawala sa kanila ang kamalayan ng kanilang budhi (tingnan ang tala 12-2 sa 2 Ped. 2) at naging mga hayop na walang bait (b. 10)."
+        },
+        {
+            "id": "20-1",
+            "text": "Obhektibong pananampalataya, tumutukoy sa mahahalagang bagay ng Bagong Tipan na ating pinaniniwalaan para sa ating kaligtasan sa loob ni Kristo (tingnan ang tala 3-2). Itinatayo natin ang ating mga sarili sa ibabaw ng pundasyon ng pinakabanal na pananampalatayang ito, at sa loob ng kinasasaklawan nito, sa pamamagitan ng pananalangin sa loob ng Espiritu Santo. Ang katotohanan ng pananampalataya na ating nauunawaan, at ang Espiritu Santo na ating tinatamasa sa pamamagitan ng ating pananalangin, ay kinakailangan para sa pagtatayo sa atin. Kapwa ang pananampalataya at ang Espiritu ay banal."
+        },
+        {
+            "id": "21-1",
+            "text": "Dapat nating ingatan ang ating mga sarili sa loob ng pag-ibig ng Diyos sa pamamagitan ng pagtatayo ng ating mga sarili sa ating pinakabanal na pananampalataya at sa pamamagitan ng pananalangin sa loob ng Espiritu Santo (b. 20); sa ganito tayo ay naghihintay, umaasa sa awa ng ating Panginoon, upang hindi lamang natin matamasa ang walang hanggang buhay sa kapanahunang ito, bagkus ay mamana rin ang walang hanggang buhay magpasawalang hanggan (Mat. 19:29)."
+        },
+        {
+            "id": "21-2",
+            "text": "Tingnan ang tala 2-1."
+        },
+        {
+            "id": "21-3",
+            "text": "Ang buong Pinagpalang Trinidad ay ginamit at tinamasa ng mga mananampalataya sa kanilang pananalangin sa loob ng Espiritu Santo, sa kanilang pag-iingat ng kanilang mga sarili sa loob ng pag-ibig ng Diyos, at sa kanilang paghihintay sa awa ng ating Panginoon tungo sa buhay na walang hanggan."
+        },
+        {
+            "id": "21-4",
+            "text": "Tumutukoy sa pagmamana at pagtatamasa sa buhay na walang hanggan (ang buhay ng Diyos). Ito ang gol ng ating espirituwal na paghahabol. Nais nating maingatan sa loob ng pag-ibig ng Diyos at maghintay sa awa ng ating Panginoon sapagka’t tayo ay nakatuon sa gol na ito."
+        },
+        {
+            "id": "22-1",
+            "text": "O, kumbinsihin ang ilan na nagtatalu-talo ukol sa kanilang kamalian at pagkamakasalanan."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang metaporang ito ay kinuha marahil sa Zac. 3:2."
+        },
+        {
+            "id": "23-2",
+            "text": "Tumutukoy sa apoy ng kabanalan ng Diyos para sa Kanyang paghahatol (Mat. 3:10, 12; 5:22)."
+        },
+        {
+            "id": "23-3",
+            "text": "Samantalang tayo ay naaawa sa ilan, nararapat tayong matakot sa kakila-kilabot na panghahawa ng kasalanan, kinapopootan maging ang mga bagay na dinungisan ng pita ng laman. Para sa takot, tingnan ang tala 17-4 sa 1 Pedro 1."
+        },
+        {
+            "id": "24-1",
+            "text": "Sa pangwakas na papuring ito, malinaw na tinukoy ng sumulat na bagama’t kanyang inatasan ang mga mananampalataya na magpunyagi sa mga bagay na binanggit sa bb. 20-23, gayunpaman, tangi lamang ang Diyos na ating Tagapagligtas ang may kakayahang makapag-ingat sa kanila mula sa pagkatisod at magharap sa kanila sa Kanyang kaluwalhatian nang walang kapintasan sa loob ng malaking kagalakan. Sa Kanya ang kaluwalhatian…!"
+        },
+        {
+            "id": "24-2",
+            "text": "Tumutukoy sa kaluwalhatian ng dakilang Diyos at ating Tagapagligtas na si Kristo Hesus; ang kaluwahatiang ito ay mahahayag sa panahon ng Kanyang pagpapakita (Tito 2:13; 1 Ped. 4:13) at sa loob ng kaluwalhatiang ito Siya ay paririto (Luc. 9:26)."
+        },
+        {
+            "id": "24-3",
+            "text": "Sa elemento ng malaking kagalakan."
+        },
+        {
+            "id": "24-4",
+            "text": "“Ang salita ay sumasagisag sa labis-labis na pag-apaw ng matagumpay na kagalakan” – Alford."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang iisang Diyos ay ang ating Tagapagligtas, at ang Taong si Hesu-Kristo ay ang ating Panginoon. Sa gayong isang Tagapagligtas, sa pamamagitan ng gayong isang Panginoon, ay ang kaluwalhatian, kamahalan, kapangyarihan, at awtoridad sa lahat ng kapanahunan."
+        },
+        {
+            "id": "25-2",
+            "text": "Ang kaluwalhatian ay ang kahayagan sa karilagan; ang kamahalan ay ang kadakilaan sa karangalan; ang kapangyarihan ay ang kalakasan sa kapangyarihan; at ang awtoridad ay ang kapangyarihan sa pamumuno."
+        },
+        {
+            "id": "25-3",
+            "text": "Ang bago pa ang lahat ng panahon ay tumutukoy sa kawalang-hanggang lumipas; ang ngayon, sa kasalukuyang kapanahunan; at ang hanggang sa kawalang-hanggan, sa walang hanggang hinaharap. Kaya, ito ay mula sa kawalang-hanggang lumipas, dumaan sa panahon, hanggang sa kawalang-hanggang hinaharap."
         }
     ]
 }
