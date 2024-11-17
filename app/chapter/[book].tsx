@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useRef } from 'react';
-import { View, FlatList, TouchableOpacity, Modal, StyleSheet, ActivityIndicator, Platform } from 'react-native';
+import React, { useState, useEffect, useRef, Fragment } from 'react';
+import { View, FlatList, TouchableOpacity, Modal, StyleSheet, ActivityIndicator, Platform, ScrollView } from 'react-native';
 
 import { router, Stack, useLocalSearchParams } from "expo-router";
 import books from '@/assets/bible';
@@ -11,6 +11,7 @@ import { useSettingsStore } from "@/store/settings";
 import { ThemedButton } from "@/components/ThemedButton";
 import { useTheme } from "@react-navigation/native";
 import { useTextToSpeech } from "@/hooks/useTextToSpeech";
+import ModalBottom from "@/components/ModalBottom";
 
 const soundObject = new Audio.Sound();
 
@@ -19,7 +20,12 @@ let soundLoaded = false;
 // Define the structure of a Verse and Footnote
 interface Footnote {
   word: string;
-  note: string;
+  id: string;
+}
+
+interface FootnoteReference {
+  id: string;
+  text: string;
 }
 
 interface Verse {
@@ -39,6 +45,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   const flatListRef = useRef<FlatList<Verse> | null>(null);
   const [chapter, setChapter] = useState<number>(0);
   const [verses, setVerses] = useState<Verse[]>([]);
+  const [footnoteReferences, setFootnoteReferences] = useState<Record<string, string> | null>(null);
   const [selectedFootnote, setSelectedFootnote] = useState<Footnote | null>(null);
   const [currentVerseIndex, setCurrentVerseIndex] = useState<number | null>(null);
   const [isReading, setIsReading] = useState<boolean>(false);
@@ -49,11 +56,24 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   const { textToSpeech, stopSpeech } = useTextToSpeech();
 
   const loadChapter = () => {
-    if(chapter === 0) return;
+    
     // @ts-ignore
     const book = books[params.book.toLowerCase().replace(/\s+/g, '-')] || {};  
-    const jsonData = book[`chapter-${chapter}`];
+
+    if(chapter === 0) {
+      if(Object.keys(book).length === 1) {
+        setChapter(1);
+      }
+      return;
+    }
+
+    const jsonData = book[`chapter-${chapter}`] as { verses: Verse[], footnoteReferences: FootnoteReference[] };
     setVerses(jsonData?.verses || []);
+
+    setFootnoteReferences(jsonData?.footnoteReferences?.reduce<Record<string, string>>((result, item) => {
+      result[item.id] = item.text;
+      return result;
+    }, {}) || null);
     
     if(isReading) return;
 
@@ -185,19 +205,24 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
             ))}
           </>
         )}
-        <ThemedText onLongPress={() => setSelectedVerseIndex(index)} style={[styles.verseText, { backgroundColor: isSelected || isActive ? colors.card : 'transparent' }, textStyle]}>
+        <ThemedText 
+          onLongPress={() => setSelectedVerseIndex(index)} 
+          style={[styles.verseText, { backgroundColor: isSelected || isActive ? colors.card : 'transparent' }, textStyle]}>
           <ThemedText style={[styles.verseNumber, textStyle]}>{index + 1}.{" "}</ThemedText>
           {words.map((word, wordIndex) => {
-            const footnote = item.footnotes.find(f => f.word === word && f.note);
+            const footnote = item.footnotes.find(f => f.word === word && f.id);
             return (
-              <ThemedText
-                key={wordIndex}
-                type={footnote ? 'link' : undefined}
-                style={[footnote ? styles.highlight : undefined, textStyle]}
-                onPress={footnote ? () => setSelectedFootnote(footnote) : undefined}
-              >
-                {word}{" "}
-              </ThemedText>
+              <Fragment key={wordIndex}>
+                <ThemedText
+                  type={footnote ? 'link' : undefined}
+                  style={[footnote ? styles.footnoteHighlight : undefined, textStyle]}
+                  onPress={footnote ? () => setSelectedFootnote(footnote) : undefined}
+                  onLongPress={footnote ? () => setSelectedVerseIndex(index) : undefined}
+                >
+                  {word}
+                </ThemedText>
+                <ThemedText>{" "}</ThemedText>
+              </Fragment>
             );
           })}
         </ThemedText>
@@ -215,7 +240,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   );
 
   function renderContent() {
-    if(loading || chapter === 0) {
+    if(loading && chapter !== 0) {
       return (
         <ThemedView style={{ flex: 1, justifyContent: 'center' }}>
           <ActivityIndicator size="large"/>
@@ -227,6 +252,20 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
       return (
         <ThemedView style={{flex: 1, paddingVertical: 50}}>
           <ThemedText style={[textStyle, {textAlign: 'center'}]}>Ang Libro ng {params.book} ay hindi pa na-ilalathala.</ThemedText>
+        </ThemedView>
+      )
+    }
+
+    if(chapter === 0) {
+      return (
+        <ThemedView style={{ flexDirection: 'row', justifyContent: 'center', flexWrap: 'wrap', gap: 15, paddingHorizontal: 15, paddingVertical: 10, marginTop: 15 }}>
+          {Array.from({ length: numberOfChapters }, (_, i) => i + 1).map((item, index) => (
+            <TouchableOpacity key={index} onPress={() => handleChapterSelect(item)}>
+              <ThemedView colorName="card" style={{ paddingVertical: 10, borderColor: '#ccc', borderWidth: 1, borderRadius: 5, width: 50 }}>
+                <ThemedText style={{textAlign: 'center'}}>{item}</ThemedText>
+              </ThemedView>
+            </TouchableOpacity>
+          ))}
         </ThemedView>
       )
     }
@@ -273,7 +312,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   function renderChapteSelectionModal() {
     return (
       <Modal
-        visible={isChapterModalVisible || chapter === 0}
+        visible={isChapterModalVisible}
         transparent={true}
         animationType="fade"
         onRequestClose={() => setChapterModalVisible(false)}
@@ -306,19 +345,18 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
 
   function renderFootnotesModal() {
     return (
-      <Modal
+      <ModalBottom
         visible={!!selectedFootnote}
-        transparent={true}
-        animationType="fade"
-        onRequestClose={() => setSelectedFootnote(null)}
+        onClose={() => setSelectedFootnote(null)}
       >
-        <View style={styles.modalBackground}>
-          <ThemedView style={styles.modalContainer}>
-            <ThemedText style={styles.modalText}>{selectedFootnote?.note}</ThemedText>
-            <ThemedButton title="Close" onPress={() => setSelectedFootnote(null)} />
-          </ThemedView>
-        </View>
-      </Modal>
+          <ThemedText style={styles.modalTitle}>Tala sa Bersikulo {selectedFootnote?.id?.split('-')?.[0]}</ThemedText>
+          <ThemedText style={[styles.modalTitle, { fontWeight: 600 }]}>"{selectedFootnote?.word}"</ThemedText>
+          <ScrollView style={{height: '25%'}}>
+            {!!selectedFootnote?.id && (
+              <ThemedText style={styles.modalText}>{footnoteReferences?.[selectedFootnote?.id] || ''}</ThemedText>
+            )}
+          </ScrollView>
+      </ModalBottom>
     )
   }
 };
@@ -343,8 +381,8 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     marginVertical: 10,
   },
-  highlight: {
-    textDecorationLine: 'underline',
+  footnoteHighlight: {
+    zIndex: 1,
   },
   paginationButtons: {
     flexDirection: 'row',
