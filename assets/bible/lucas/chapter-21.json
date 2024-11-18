@@ -1,5 +1,5 @@
 {
-    "chapter": 21,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "nakita",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,15 +21,15 @@
             "footnotes": [
                 {
                     "word": "hikahos",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "maliliit",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -52,15 +52,15 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "magagandang",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": [
@@ -157,7 +157,7 @@
             "footnotes": [
                 {
                     "word": "aangkinin",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -168,7 +168,7 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’t",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": [
@@ -193,7 +193,7 @@
             "footnotes": [
                 {
                     "word": "kahapisan",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -204,11 +204,11 @@
             "footnotes": [
                 {
                     "word": "talim",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -225,11 +225,11 @@
             "footnotes": [
                 {
                     "word": "magsisipanlupaypay",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "pinananahanang",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -254,7 +254,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -289,11 +289,11 @@
             "footnotes": [
                 {
                     "word": "kalayawan",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "bigla",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
@@ -304,7 +304,7 @@
             "footnotes": [
                 {
                     "word": "nangananahan",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -315,19 +315,19 @@
             "footnotes": [
                 {
                     "word": "manaig",
-                    "note": ""
+                    "id": "36-1"
                 },
                 {
                     "word": "makatakas",
-                    "note": ""
+                    "id": "36-2"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "36-3"
                 },
                 {
                     "word": "mangakatayo",
-                    "note": ""
+                    "id": "36-4"
                 }
             ],
             "outlines": null
@@ -345,6 +345,96 @@
             "text": "At maaga pa ay nangagtungo ang lahat ng tao sa Kanya sa templo upang makinig sa Kanya.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang 41-1 sa Marc. 12."
+        },
+        {
+            "id": "2-1",
+            "text": "Isang higit na mabigat na salita kaysa sa dukha, tumutukoy sa isang walang kapera-perang kalagayan."
+        },
+        {
+            "id": "2-2",
+            "text": "Lit. doon."
+        },
+        {
+            "id": "2-3",
+            "text": "Gr. lepta"
+        },
+        {
+            "id": "5-1",
+            "text": "Para sa bb. 5-19, tingnan ang mga tala sa Mat. 24:1-13 at Marc. 13:1-13."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang mga bagay para sa Diyos, kahit na may panlabas na kagandahan nguni’t kung walang panloob na katotohahan, ay itatakwil din ng Diyos."
+        },
+        {
+            "id": "5-3",
+            "text": "O, mga ipinangakong handog."
+        },
+        {
+            "id": "19-1",
+            "text": "O, makakamit."
+        },
+        {
+            "id": "20-1",
+            "text": "Para sa bb. 20-28, tingnan ang mga tala sa Mat. 24:15-31."
+        },
+        {
+            "id": "23-1",
+            "text": "O, pagdarahop."
+        },
+        {
+            "id": "24-1",
+            "text": "Lit. bibig."
+        },
+        {
+            "id": "24-1",
+            "text": "O, mga bansa."
+        },
+        {
+            "id": "26-1",
+            "text": "Lit. mangahihinto sa paghinga."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang lupang daratnan ng matinding kapighatian sa loob ng huling tatlo at kalahating taon ng kapanahunang ito (Mat. 25:21; tala 10-3 ng Apocalipsis 3)."
+        },
+        {
+            "id": "29-1",
+            "text": "Para sa bb. 29-33, tingnan ang mga tala sa Mat. 24:32-35."
+        },
+        {
+            "id": "34-1",
+            "text": "Tumutukoy sa natirang epekto ng kalasingan."
+        },
+        {
+            "id": "34-2",
+            "text": "O, hindi inaasahan."
+        },
+        {
+            "id": "35-1",
+            "text": "Lit. umuupo."
+        },
+        {
+            "id": "36-1",
+            "text": "May kalakasan at kakayahan. Ang kalakasan at kakayahang ito na takasan ang matinding kapighatian ay nanggagaling sa pagbabantay at pagdaing."
+        },
+        {
+            "id": "36-2",
+            "text": "Ang makuha, maiakyat-na-may-masidhing-kagalakan, bago dumating ang matinding kapighatian (Mat. 24:21), na magiging isang malaking pagsubok sa mga nananahan sa buong lupa (Apoc. 3:10; Luc. 17:34-36 at tala 34-2 ). Ang maiakyat-na-may-masidhing-kagalakan kung gayon ay ang maingatan “sa panahon ng pagsubok na darating sa buong pinananahanang lupa upang subukin ang mga nananahan sa ibabaw ng lupa” (Apoc. 3:10)."
+        },
+        {
+            "id": "36-3",
+            "text": "Ang lahat ng bagay ng matinding kapighatian."
+        },
+        {
+            "id": "36-4",
+            "text": "Tumutugma sa katayuan sa Apoc. 14:1, tumutukoy na ang mga iniakyat-na-may-masidhing-kagalakang mandaraig ay mangagsisitayo sa harapan ng Tagapagligtas sa Bundok ng Sion sa mga kalangitan bago ang matinding kapighatian (cf. Apoc. 12:5-6, 14)."
         }
     ]
 }

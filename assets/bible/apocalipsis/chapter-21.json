@@ -1,5 +1,5 @@
 {
-    "chapter": 21,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "dagat",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -29,15 +29,15 @@
             "footnotes": [
                 {
                     "word": "Bagong",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "bumababa",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "kasintahang",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": [
@@ -50,11 +50,11 @@
             "footnotes": [
                 {
                     "word": "tabernakulo",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "mananahan",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": [
@@ -67,15 +67,15 @@
             "footnotes": [
                 {
                     "word": "papahirin",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "naunang",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -94,7 +94,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -105,11 +105,11 @@
             "footnotes": [
                 {
                     "word": "magtagumpay",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "anak-",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -120,7 +120,7 @@
             "footnotes": [
                 {
                     "word": "dagat-",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": [
@@ -133,11 +133,11 @@
             "footnotes": [
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "kasintahang",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": [
@@ -151,7 +151,7 @@
             "footnotes": [
                 {
                     "word": "malaki",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": [
@@ -164,19 +164,19 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "ilaw",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "mahalagang",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "jaspe,",
-                    "note": ""
+                    "id": "11-4"
                 }
             ],
             "outlines": [
@@ -189,19 +189,19 @@
             "footnotes": [
                 {
                     "word": "malaki",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "labindalawang",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "anghel,",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "Israel:",
-                    "note": ""
+                    "id": "12-4"
                 }
             ],
             "outlines": [
@@ -214,19 +214,19 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -237,11 +237,11 @@
             "footnotes": [
                 {
                     "word": "pundasyon,",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "apostol",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -252,7 +252,7 @@
             "footnotes": [
                 {
                     "word": "tambong",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -263,19 +263,19 @@
             "footnotes": [
                 {
                     "word": "parisukat,",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "labindalawang",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "estadio;",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "magkakasingsukat.",
-                    "note": ""
+                    "id": "16-4"
                 }
             ],
             "outlines": null
@@ -286,15 +286,15 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "tao,",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "anghel.",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -305,19 +305,19 @@
             "footnotes": [
                 {
                     "word": "jaspe;",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "dalisay",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "ginto,",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "dalisay",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -328,11 +328,11 @@
             "footnotes": [
                 {
                     "word": "pundasyon",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "jaspe;",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -349,19 +349,19 @@
             "footnotes": [
                 {
                     "word": "perlas;",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "lansangan",
-                    "note": ""
+                    "id": "21-3"
                 },
                 {
                     "word": "naaaninag",
-                    "note": ""
+                    "id": "21-4"
                 }
             ],
             "outlines": null
@@ -372,15 +372,15 @@
             "footnotes": [
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": [
@@ -393,11 +393,11 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "ilawan",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": [
@@ -410,19 +410,19 @@
             "footnotes": [
                 {
                     "word": "bansa",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "liwanag",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "hari",
-                    "note": ""
+                    "id": "24-3"
                 },
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "24-4"
                 }
             ],
             "outlines": [
@@ -435,15 +435,15 @@
             "footnotes": [
                 {
                     "word": "isasara",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "gabi.",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -454,11 +454,11 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "karangalan",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -469,14 +469,252 @@
             "footnotes": [
                 {
                     "word": "yaon",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "aklat",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa kawalang-hanggang lumipas, ang Diyos ay naglayong magkaroon ng isang sama-samang kahayagan upang Siya ay lubusang maihayag at maluwalhati (Efe. 3:9-11; 1:9-11). Dahil dito, nilikha Niya ang mga kalangitan, ang daigdig, at ang sangkatauhan. Mula noong paglikha, Siya ay gumamit ng apat na kapanahunan: ang kapanahunan bago ang kautusan, mula kay Adam hanggang kay Moises (Roma 5:14); ang kapanahunan ng kautusan, mula kay Moises hanggang kay Kristo (Juan 1:17); ang kapanahunan ng biyaya, mula sa unang pagparito ni Kristo hanggang sa ikalawang pagparito ni Kristo na kung kailan “ang lahat ng bagay ay mapapanauli” (Gawa 3:20-21); at ang kapanahunan ng kaharian, mula sa ikalawang pagparito ni Kristo hanggang sa wakas ng isang libong taon. (Apoc 11:15; 20:4, 6). Ginamit ng Diyos ang apat na kapanahunang ito upang maisagawa ang Kanyang layunin sa pamamagitan ng pagpapasakdal at pagkukumpleto sa Kanyang piniling bayan, sa gayon sila ay maging Kanyang walang hanggang sama-samang kahayagan. Ang lahat ng apat na kapanahunan ay nabibilang sa lumang langit at lumang lupa. Bagama’t ang kapanahunan ng kaharian ay magiging ang kapanahunan ng pagpapanumbalik, ito ay magaganap pa rin sa lumang langit at lumang lupa, sapagka’t ang nagpapasakdal at nagkukumpletong gawa ng Diyos sa Kanyang piniling bayan ay hindi pa malulubos hanggang hindi pa dumarating ang wakas ng kapanahunan ng kaharian. Kapag natapos na ng Diyos ang gawaing ito ng pagpapanauli ng lahat ng bagay sa kapanahunan ng kaharian, ang lumang langit at lumang lupa ay lilipas sa pamamagitan ng apoy at mapababago tungo sa pagiging bagong langit at bagong lupa (2 Ped. 3:10-13), at ang Bagong Herusalem ay bababa sa bagong langit at bagong lupa bilang ang walang hanggang kahayagan ng Diyos."
+        },
+        {
+            "id": "1-2",
+            "text": "Ayon sa prinsipyong inihayag sa Apocalipsis, ang ninanais ng Panginoon ay hindi ang unang tao o bagay (Exo. 12:12), kundi ang pangalawa. Kaya nga lahat ng una, maging ito man ay langit, lupa, tao, o bagay ay palilipasin (b. 4, tingnan din ang 1 Cor. 15:47; Heb. 8:7, 13). Kung isasalin natin ang una (sa Ingles ay first) bilang nauna (sa Ingles ay former) ang espirituwal na kahulugan nito ay maiwawala."
+        },
+        {
+            "id": "1-3",
+            "text": "“Ang dagat” ay isang resulta ng mga tubig ng kahatulan na ginamit ng Diyos upang hatulan ang sanlibutan bago pa ang kapanahunan ni Adam (tingnan ang Pag-aaral Pambuhay ng Genesis, Mensahe 2). Ang gawain ng muling-paglalang ng Diyos ay upang mabawi ang lupa sa pamamagitan ng paghahangga sa resulta ng mga tubig ng kahatulan (Gen. 1:9-10; Jer. 5:22). Pagkatapos mahatulan ng mga tubig, ang mga nilalang na buháy bago pa ang kapanahunan ni Adam ay naging mga nananahanan sa dagat na siyang mga demonyo. Matapos silang tuusin ni Kristo at ng Kanyang mga mananampalataya (Mat. 8:29-32; Luc. 10:17; Gawa 16:16-18; 19:2) at iluwa ng dagat tungo sa paghahatol sa malaking puting trono (20:13), ang dagat ay hindi na kakailanganin. Buhat noong gawin ang muling-paglalang ng Diyos, ang dagat ay nilayon ng Diyos na alisin, sa pamamagitan ng pagtutuos kay Satanas at sa kanyang mga demonyo. Kaya, ang sabihing ” ang dagat ay wala na” ay tumutukoy na si Satanas at ang kanyang masasamang tagasunod ay natuos nang lahat at hindi na masusumpungan sa bagong langit at bagong lupa."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang pahayag sa aklat na ito ay binubuo ng mga tanda (tingnan ang tala 12 sa kap. 1). Ang mahahalagang bagay sa loob nito ay pawang ginamitan ng mga tanda upang sumagisag, maglarawan (sa kadahilanan ng kahiwagaan, mahirap maipaliwanag sa pamamagitan ng salita ng tao), katulad ng gintung-patungan-ng-ilawan na sumasagisag sa ekklesia at ng bituin na sumasagisag sa mga sugo ng ekklesia (kap. 1); si Jezebel, sumasagisag sa natisod at mapakiapid na Romano Katolisismo (huling bahagi ng kap. 2); ang jaspe at mahalagang bato, sumasagisag sa Diyos na buháy at pagtutubos (4:3); ang leon at kordero, sumasagisag kay Kristo na matagumpay at mapanubos (kap. 5); ang apat na kabayo, sumasagisag sa paglaganap ng ebanghelyo, digmaan, taggutom, at kamatayan (unahan ng kap. 6) ; ang pansansinukob na babae, sumasagisag sa tinubos na bayan ng Diyos sa maraming henerasyon at ang kanyang anak, sumasagisag sa malakas at nanagumpay na bahagi ng tinubos na bayan ng Diyos, at ang dragon at ahas, sumasagisag sa malupit, tusong Satanas-ang Diyablo (kap. 12); ang halimaw na umahon mula sa dagat, sumasagisag sa Antikristo at ang halimaw na bumangon mula sa lupa, sumasagisag sa bulaang propeta (kap. 13); ang ani, sumasagisag sa mga tao na lumago sa bukid na tinamnan ng Diyos, at unang bunga, sumasagisag sa unang nahinog sa gitna ng bukid na tinamnan ng Diyos (kap. 14); ang dakilang Babilonia, sumasagisag sa relihiyon at materyal na panig ng Roma (kap. 17-18); ang kasintahang babae, sumasagisag sa mga gumulang na at nakahanda nang mga banal upang maging kapareha ni Kristo (unang bahagi ng kap. 14); bukod sa nabanggit na ay marami pa; at sa kahuli-hulihan, na siya ring pinakadakilang tanda, ay ang Bagong Herusalem, sumasagisag sa sama-samang kabuuan ng lahat ng banal ng Diyos na isinilang-muli, tinransporma at niluwalhati sa buong itinagal ng kapanahunan; ang Bagong Herusalem ay hindi isang materyal at walang buhay na lunsod kundi isang sama-samang buháy na persona tulad ng kasintahang babae na may Kristo, ang kagila-gilalas na Persona, bilang ang asawang lalake (b. 2). Ang “Bagong Herusalem” ay isang buháy na kabuuan ng lahat ng mga banal na tinubos ng Diyos sa buong itinagal ng lahat ng mga henerasyon. Ito ay ang “kasintahang babae” ni Kristo bilang Kanyang kapareha (Juan 3:29) at ang “banal na lunsod” ng Diyos bilang Kanyang pinananahanang lugar, ang tabernakulo ng Diyos (b. 3). Ito ay ang makalangit na Herusalem (Heb. 12:22), na inihanda ng Diyos para sa atin at siyang pinananabikan nina Abraham. Isaac, at Jacob (Heb. 11:10, 16). Ito rin ang Herusalem na siyang nasa itaas at siyang ina nating lahat (Gal. 4:26). Bilang kasintahang babae ni Kristo, ang Bagong Herusalem ay lumalabas mula kay Kristo, ang “kanyang Asawang Lalake,” at nagiging Kanyang kapareha, gaya ni Eva na lumabas mula kay Adam, ang kanyang asawang lalake, at naging kanyang kapareha (Gen. 2:21-24). Siya ay naihahanda sa pamamagitan ng pakikibahagi sa mga kayamanan ng buhay at kalikasan ni Kristo. Bilang ang banal na lunsod ng Diyos, siya ay buung-buong napabanal tungo sa Diyos at lubusang napuspusan ng banal na kalikasan ng Diyos upang maging Kanyang pinananahanang lugar. Kapwa sa Luma at Bagong Tipan, ay inihahalintulad ng Diyos ang Kanyang piniling bayan sa isang asawa (Isa. 54:6; Jer. 3:1; Ezek. 16:8; Ose. 2:19; 2 Cor. 11:2; Efe. 5:31-32) at sa isang pinananahanang lugar para sa Kanyang Sarili (Exo. 29:45-46; Blg. 5:3; Ezek. 43:7,9; Awit 68:18; 1 Cor. 3:16-17; 6:19; 2 Cor. 6:16; 1 Tim.3:15). Ang asawa ay para sa Kanyang kasiyahan sa pag-ibig, at ang pinananahanang lugar ay para sa Kanyang kapahingahan sa kahayagan. Ang dalawang aspektong ito ay sukdulang mapalulubos sa Bagong Herusalem. Sa kanya, ang Diyos ay magkakaroon ng buung-buong kasiyahan sa pag-ibig at ng sukdulang kapahingahan sa kahayagan magpasawalang-hanggan."
+        },
+        {
+            "id": "2-2",
+            "text": "Pagkatapos maiakyat-na-may-masidhing-kagalakan ang lahat ng mga tinubos na banal ng Diyos, sila ay magiging ang Bagong Herusalem na “bumababa mula sa langit buhat sa Diyos.” Ito ay nagpapakita na hindi langit ang ating pananahanang lugar sa kawalang-hanggan, kundi ang Bagong Herusalem sa bagong lupa."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang Bagong Herusalem ay isang kasintahang babae. Ito ay tumutukoy na hindi ito hindi isang materyal na lunsod, kundi isang sama-samang persona. Kay Kristo, siya ang kasintahang babae para sa Kanyang kasiyahan; sa Diyos, siya ay isang tabernakulo, isang tahanan para sa Diyos, at sa pamamagitan niya ay maihahayag ang Diyos."
+        },
+        {
+            "id": "3-1",
+            "text": "Bilang tirahan ng Diyos, ang Bagong Herusalem ay magiging “ang tabernakulo ng Diyos sa mga tao” hanggang sa kawalang hanggan. Ang tabernakulong ginawa ni Moises ay isang sagisag ng tabernakulong ito (Exo. 25:8-9; Lev. 26:11). Ang sagisag na yaon ay unang naisakatuparan kay Kristo bilang tabernakulo ng Diyos sa gitna ng mga tao (Juan 1:14), at sa katapus-tapusan ay maisasakatuparan sa pinakalubos na paraan sa Bagong Herusalem, na siyang pagpapalaki ni Kristo bilang pinananahanang lugar ng Diyos. Ang tabernakulong ito ay siya ring magiging walang hanggang pinananahanang lugar ng tinubos na bayan ng Diyos. Gagamitin ng Diyos si Kristo upang liliman tayo (tingnan ang tala 15-3 sa kap. 7). Kaya, ang Bagong Herusalem ay magiging isang kapwa tirahan ng Diyos at natin."
+        },
+        {
+            "id": "3-2",
+            "text": "Lit. magtatabernakulo"
+        },
+        {
+            "id": "4-1",
+            "text": "Sa bagong langit at bagong lupa ay magkakaroon ng ganap na kasiyahan at kapahingahan; wala nang magiging sanhi ng mga pagluha."
+        },
+        {
+            "id": "4-2",
+            "text": "Yamang ang kamatayan ay buung-buong lululunin ng buhay (I Cor. 15:54) at ibubulid sa dagat-dagatang apoy (20:14), sa bagong langit at bagong lupa ay wala nang kamatayan."
+        },
+        {
+            "id": "4-3",
+            "text": "Lit. una."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “mga ito” ay tumutukoy sa “mga salitang ito” sa b. 5."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang kahulugan ng “magtagumpay” rito ay naiiba sa kahulugan ng magtagumpay sa mga kapitulo 2 at 3, kung saan ay ginamit ito nang pitong ulit. Dito, ito ay nangangahulugang magtagumpay sa pamamagitan ng pagsampalataya, gaya ng sa 1 Juan 5:4-5. Ang pananagumpay sa mga kapitulo 2 at 3 ay nagpapaging-dapat sa mga mandaraig na mananampalataya na makabahagi sa katamasahan ng isang libong taong kaharian bilang isang partikular na gantimpala sa pampanahunang administrasyon ng Diyos, samantalang ang pananagumpay rito ay nagpapaging-dapat sa lahat ng mga mananampalataya na makabahagi sa Bagong Herusalem, kasama ang lahat ng katamasahan nito, bilang ang pangkalahatang bahagi ng walang hanggang pagliligtas ng Diyos."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang “mga bayan” sa b. 3 ay magiging “ang mga bansa” sa b. 24. Sila ay magiging mga mamamayan ng Diyos sa bagong langit at bagong lupa nguni’t hindi magiging mga anak ng Diyos. Sila ay titira sa bagong lupa sa labas ng Bagong Herusalem at magtatamasa sa mga pangkalahatang pagpapala sa bagong langit at bagong lupa. (Tingnan ang tala 24-1 .) Ang mga “anak na lalake” na gaya ng nabanggit sa bersikulong ito ay tumutukoy sa mga tinubos na banal sa buong itinagal ng panahon. Sila ay maninirahan sa Bagong Herusalem, makikibahagi sa lahat ng katamasahan nito, maglilingkod sa Diyos at sa Kordero, at maghahari magpasawalang-hanggan (22:3-5)."
+        },
+        {
+            "id": "8-1",
+            "text": "Sa lumang langit at lumang lupa ay may dagat na naging resulta ng pagtitipon ng mga tubig upang mapaglagyan ng resulta ng kahatulan ng Diyos, samantalang sa bagong langit at bagong lupa ay magkakaroon ng dagat-dagatang apoy upang halinhan ang dagat. Lahat ng negatibo at maruruming bagay, pagkatapos mahatulan ng Diyos, ay mapapasa dagat-dagatang apoy upang tanggapin ang ikalawang kamatayan, tanggapin ang paghihirap ng pagsunog sa loob ng apoy at asupre hanggang sa kawalang-hanggan (14:10-11). Ayon sa 22:15, ang dagat-dagatang apoy ay magiging nasa labas ng Bagong Herusalem, gaya ng kung paanong ang apoy ng Gehenna na sumasagisag sa apoy ng dagat-dagatang apoy (Mat. 5:22 at tala 8), yaon ay, ang Topheth, na kinaroroonan ng maruruming bagay (Jer. 19:11-13), ay nasa labas ng lumang Herusalem (2 Hari 23:10; Isa. 30:33). Ang dagat-dagatang apoy ay higit pang nahahanggahan kaysa sa dagat ng tubig."
+        },
+        {
+            "id": "9-1",
+            "text": "Ito ay “isa sa pitong anghel” na tumupad ng “pitong huling salot” na nagpapakita ng Bagong Herusalem kay Juan. Ito ay sumasagisag na ang kahatulan ng pitong mangkok ay para sa Bagong Herusalem."
+        },
+        {
+            "id": "9-2",
+            "text": "“Ang kasintahang babae” ay pangunahing para sa araw ng kasal, samantalang “ang asawa” ay para sa buong buhay. Ang Bagong Herusalem sa isang libong taon ay magiging ang kasintahang babae sapagka’t ang isang libong taon ay katulad ng isang araw (2 Ped. 3:8), at pagdating sa bagong langit at bagong lupa, ang Bagong Herusalem ay magiging ang asawang babae hanggang sa kawalang-hanggan magpakailan pa man."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang “malaki at mataas na bundok” ay taliwas sa ilang sa 17:3. Upang makita ang Babilonia, ang dakilang patutot, si Juan ay dinala sa ilang. Upang makita ang kasintahang babae, ang Bagong Herusalem, si Juan ay dinala sa isang malaki at mataas na bundok. Tayo ay kinakailangang madala sa isang “mataas na bundok” upang ating makita ang pinananahanang lugar ng Diyos para sa katuparan ng Kanyang walang hanggang layunin."
+        },
+        {
+            "id": "11-1",
+            "text": "“Ang kaluwalhatian ng Diyos” ay ang kahayagan ng Diyos, ang Diyos na nahayag. Tayo ay itinalaga para sa kaluwalhatiang ito at tinawag sa kaluwalhatiang ito (1 Cor. 2:7; I Ped. 5:10; 1 Tes. 2:12). Tayo ay tinatransporma tungo sa loob ng kaluwalhatiang ito (2 Cor. 3:18) at dadalhin sa loob ng kaluwalhatiang ito (Heb. 2:10). Sa katapus-tapusan tayo ay maluluwalhating kasama ni Kristo (Roma 8:17, 30) upang taglayin ang kaluwalhatian ng Diyos para sa kahayagan ng Diyos sa Bagong Herusalem."
+        },
+        {
+            "id": "11-2",
+            "text": "Lit. luminaryo, o tagadala-ng-liwanag. Sa ngayon ang mga mananampalataya bilang mga anak ng liwanag (Efe. 5:8) ay ang ilaw ng sanlibutan (Mat. 5:14), nagliliwanag sa gitna ng isang liko at masamang henerasyon (Fil. 2:15). Sa katapus-tapusan, ang Bagong Herusalem bilang isang kabuuan ng lahat ng mga banal ay magiging tagadala-ng-liwanag, isinisilay ang Diyos bilang liwanag sa mga bansang nakapalibot sa kanya (b. 24)."
+        },
+        {
+            "id": "11-3",
+            "text": "Ang “mahalagang bato” ay hindi ang liwanag, kundi ang tagadala-ng-liwanag. Sa sarili nito ay wala itong liwanag, subali’t ang Diyos na liwanag ay nailalin sa loob nito at sumisilay palabas sa pamamagitan nito. Ito ay nagpapakita na bilang isang bahagi ng darating na Bagong Herusalem, tayo ay kailangang matransporma tungo sa pagiging mahahalagang bato na kalakip ang Diyos na nailalin tungo sa loob ng ating katauhan bilang ang nagliliwanag na ilaw nang sa gayon, tayo ay maging tagadala-ng-liwanag upang magliwanag bilang kahayagan ng Diyos."
+        },
+        {
+            "id": "11-4",
+            "text": "Ang “jaspe” ay ang nahahayag na anyo ng Diyos. (Tingnan ang tala 3-1 sa kap. 4.) Ang liwanag ng Bagong Herusalem ay katulad ng batong jaspe, tinataglay ang nahahayag na anyo ng Diyos upang ihayag ang Diyos sa pamamagitan ng kanyang pagliliwanag."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “pader” ay para sa paghihiwalay at proteksiyon. Ang Bagong Herusalem ay magiging lubusang nakahiwalay tungo sa Diyos at lubusang magpoprotekta sa kapakanan ng Diyos. Ito ay magiging “malaki at mataas.” Ngayon kinakailangan ng lahat ng mananampalataya ang gayong malaki at mataas na pader para sa paghihiwalay at pagpoprotekta sa kanila."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang mga pintuan ay para sa komunikasyon, pagpasok at paglabas. Ang “labindalawa” ay ang bilang ng sukdulang kasakdalan at walang hanggang kakumpletuhan sa administrasyon ng Diyos. Kaya, ang “labindalawang pintuan” ay nagpapakita na ang komunikasyon sa Bagong Herusalem ay sukdulang sakdal at kumpleto magpasawalanghanggan para sa administrasyon ng Diyos."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang mga anghel ay mga naglilingkod na espiritu sa walang hanggang ekonomiya ng Diyos. Sila ay gumagawa ng paglilingkod para sa mga magmamana ng kaligtasan (Heb. 1:14) at makikibahagi sa walang hanggang pagpapala ng Bagong Herusalem, ang sentro ng bagong langit at bagong lupa. Sila ang magiging mga tagapagbantay ng ating mana, samantalang tayo ang magiging mga tagapagtamasa ng mayamang mana sa walang hanggang ekonomiya ng Diyos."
+        },
+        {
+            "id": "12-4",
+            "text": "Ang “Israel” dito ay kumakatawan sa kautusan ng Lumang Tipan, ipinakikita na sa mga pintuan ng Bagong Herusalem ay may kinatawan ang kautusan. Ang kautusan ay nagbabantay at nagmamasid upang tiyakin na ang lahat ng komunikasyon, ang mga pagpasok at mga paglabas sa banal na lunsod, ay tumutupad sa mga kahilingan ng kautusan. Sa ibabaw ng labindalawang pintuan ay nakasulat ang pangalan ng labindalawang lipi ni Israel, sumasagisag din na ang labindalawang lipi ni Israel ay ang pasukan ng banal na lunsod na sa pamamagitan ng pagpapahayag ng ebanghelyo ay dinadala ang tao papasok sa kayamanan ng Tres-unong Diyos upang tamasahin ang panustos sa loob nito. Ipinakikita rin ng Israel dito ang pagkakayari ng Bagong Herusalem, na ito ay kinabibilangan din ng lahat ng mga tinubos na banal ng Lumang Tipan."
+        },
+        {
+            "id": "13-1",
+            "text": "Lit. mula sa. “Ang pagkatayo ng lunsod ay parisukat” (b.16) na may “tatlong pintuan” sa bawa’t isa ng apat na panig. Ang silangang panig sa harapan, paharap sa kaluwalhatian ng pagsikat-ng-araw, ang unang binanggit; ang hilagang panig na nasa itaas, ang pangalawang binanggit; ang timugang panig na nasa ilalim, ang pangatlo; at ang kanlurang panig sa likod, ang pang-apat. Ang mga pintuan sa apat na panig ay paharap sa apat na direksiyon ng daigdig, sinasagisag ang pagiging laan ng pasukan ng banal na lunsod sa lahat ng mga tao sa lupa. (Ihambing sa apat na sanga ng ilog sa Gen. 2:10-14.) Sinasagisag ng “tatlong pintuan” sa bawa’t panig na ang Tres-unong Diyos – ang Ama, ang Anak, at ang Espiritu – ay sama-samang gumagawa upang dalhin ang mga tao sa loob ng banal na lunsod. Ito ay tinukoy sa tatlong talinghaga sa Lucas 15 at ipinahiwatig sa salita ng Panginoon sa Mat. 28:19. Ang mabautismuhan tungo sa loob ng Ama, ng Anak, at ng Espiritu ay ang tunay na pasukan tungo sa loob ng banal na lunsod. Ang tatlong pintuan na nasa bawa’t isa ng apat na panig, na bumubuo sa bilang na labindalawa, ay nagpapahiwatig din ng paghahalo ng Tres-unong Diyos sa nilalang na tao. (Ang bilang na apat ay sumasagisag sa mga nilalang-4:6.)"
+        },
+        {
+            "id": "14-1",
+            "text": "Ang mga “pundasyon” ay hindi “ang pundasyon” na si Kristo, gaya ng binanggit sa 1 Cor. 3:10-11. Sila ay ang “labindalawang apostol ng Kordero.” Sa ngayon, ang ekklesia ay itinayo sa ibabaw ng pundasyon ng mga apostol at mga propeta (Efe. 2:20). Yamang sa kawalang-hanggan ay wala nang pangangailangan sa mga propeta, ang mga pundasyon ng banal na lunsod ay bubuuin lamang ng mga apostol."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang mga “apostol” dito ay kumakatawan sa biyaya ng Bagong Tipan, sumasagisag na ang Bagong Tipan ay itinayo sa ibabaw ng biyaya ng Diyos. Samantalang ang pasukan sa banal na lunsod ay ayon sa kautusan ng Diyos, ang lunsod ay itinayo sa ibabaw ng biyaya ng Diyos. Ang mga “apostol” dito ay nagpapahiwatig din na ang Bagong Herusalem ay hindi lamang binubuo ng mga banal sa Lumang Tipan, na kinatawan ng Israel, bagkus maging ng mga banal sa Bagong Tipan, na kinatawan ng mga apostol."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang “tambo” ay para sa pagsusukat, at ang pagsusukat ay sumasagisag sa pag-aangkin (Ezek. 40:5; Zac. 2:1-2; Apoc.11:1). Yamang ang ginto ay sumasagisag sa dibinong kalikasan ng Diyos, ang “ginto” rito ay sumasagisag na ang pagsusukat sa lunsod, sa mga pintuan nito at sa mga pader nito, ay ayon sa dibinong kalikasan ng Diyos. Anumang bagay na hindi tumutugma sa dibinong kalikasan ng Diyos ay hindi nabibilang sa Bagong Herusalem. Ang buong lunsod, kasama ang mga pintuan at pader nito, ay pumapasa sa pagsukat at pagsubok ng dibinong kalikasan ng Diyos; kaya, ito ay angkop upang maging pag-aari ng Diyos."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang “parisukat” dito ay sumasagisag na ang Bagong Herusalem ay sakdal at kumpleto sa bawa’t paraan, sukdulang tuwid, at wala ni katiting na pagkatabingi."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang “labindalawang libo” ay isang libong ulit na labindalawa. Yamang ang labindalawa ay sumasagisag sa sukdulang kasakdalan at walang hanggang kakumpletuhan sa administrasyon ng Diyos, ang labindalawang libo ay sumasagisag sa ganitong kasakdalan at kakumpletuhan nang isang libong ulit."
+        },
+        {
+            "id": "16-3",
+            "text": "Tingnan ang tala 20-4 sa kapitulo 14."
+        },
+        {
+            "id": "16-4",
+            "text": "Ang sukat ng Dakong Kabanal-banalan, kapwa sa tabernakulo at sa templo, ay magkakasukat sa haba, luwang, at taas (Exo. 26:2-8; I Hari 6:20). Kaya, na “ang haba at ang luwang at ang taas” ng Bagong Herusalem ay “magkakasingsukat” ay sumasagisag na ang buong Bagong Herusalem ay magiging ang Dakong Kabanal-banalan. Ang lahat ng mga tinubos na tao ng Diyos ay sasamba sa gitna nito, maglilingkod sa Diyos, makikita, mahihipo ang presensiya ng Diyos at mamumuhay, mananahan sa gitna ng presensiya ng Diyos hanggang sa kawalang-hanggan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang “isang daan at apatnapu’t apat” ay labindalawang ulit na labindalawa. Ang labindalawang ulit na labindalawa ay sumasagisag sa sukdulang kasakdalan at walang hanggang kakumpletuhan ng mga sukdulang kasakdalan at ng mga walang hanggang kakumpletuhan. Gaanong kasakdal at kakumpleto ang pader ng banal na lunsod sa walang hanggang administrasyon ng Diyos! Ang lunsod mismo ay katulad sa isang bundok na may taas na labindalawang libong estadio, samantalang ang pader mismo mula sa pinagsasaligan hanggang sa tuktok ay isang daan at apatnapu’t apat na siko."
+        },
+        {
+            "id": "17-2",
+            "text": "Sa pagkabuhay-na-muli, ang tao ay magiging katulad ng mga anghel (Mat. 22:30). Kaya, ang “na sukat ng isang tao, samakatuwid ay, ng isang anghel” ay sumasagisag na ang pader ng lunsod ay hindi natural kundi nasa pagkabuhay-na-muli."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang “jaspe” ay isang mahalagang bato na natransporma (1 Cor. 3:12), sumasagisag sa nahahayag na anyo ng Diyos (tala 3-1 ng kap. 4). Kaya, sinasagisag ang pader na jaspe na ang buong lunsod, bilang ang sama- samang kahayagan ng Diyos magpasawalang-hanggan, ay nagtataglay ng nahahayag na anyo ng Diyos."
+        },
+        {
+            "id": "18-2",
+            "text": "O, malinaw."
+        },
+        {
+            "id": "18-3",
+            "text": "Yamang ang ginto ay sumasagisag sa dibinong kalikasan ng Diyos, ang pagiging “dalisay na ginto” ng lunsod ay sumasagisag na ang Bagong Herusalem ay lubusang mula sa dibinong kalikasan ng Diyos. Ang “dalisay na ginto na katulad ng dalisay na salamin” ay sumasagisag na ang buong lunsod ay naaaninag at wala ni kaunting kalabuan."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang Bagong Herusalem ay isang lunsod na may “mga pundasyon” (Heb. 11:10). Ang mga pundasyong ito ay ang labindalawang apostol ng Kordero (b.14). Bawa’t isa sa kanila ay sinasagisag ng isang “mahalagang bato.” Nang si Pedro, na ang orihinal na pangalan ay Simon, ang una sa labindalawang apostol, ay nadala sa Panginoon, ang kanyang orihinal na pangalan ay pinalitan Niya ng Pedro na nangangahulugang, “isang bato” (Juan 1:42). Paglaon, siya ay tinawag ng Panginoon sa ganitong pangalan nang Siya ay nagsalita tungkol sa pagtatayo ng Kanyang ekklesia (Mat. 16:18). Ang mahahalagang bato ay hindi nilikha kundi mga nilikhang bagay na natransporma. Lahat ng mga apostol ay mga nilikhang piraso ng putik, subali’t sila ay naisilang-na-muli at natransporma tungo sa pagiging mahahalagang bato para sa walang hanggang pagtatayo ng Diyos. Ang bawa’t isang mananampalataya ay kinakailangang dumaan sa ganitong transpormasyon upang maging isang bahagi ng Bagong Herusalem. Ang mga kulay ng labindalawang mahahalagang batong pundasyon, na sumasagisag sa labindalawang apostol, ay gaya ng sumusunod: ang una ay luntian, ang ikalawa at ikatlo ay bughaw, ang ikaapat ay luntian, ang ikalima at ikaanim ay pula, ang ikapito ay dilaw, ang ikawalo ay malabughaw na luntian, ang ikasiyam ay dilaw, ang ikasampu ay malamansanas na luntian, ang ikalabing-isa at ikalabindalawa ay ube. Ang labindalawang suson ng pundasyon na may mga kulay na gaya ng nabanggit sa itaas ay nagbibigay ng kaanyuan ng isang bahaghari, sumasagisag na ang lunsod ay itinayo sa ibabaw ng katapatan ng pagtutupad ng Diyos sa Kanyang tipan at pinagtitibay sa pamamagitan ng katapatang ito ng Diyos (Gen. 9:8-17). Ang pundasyon ng lunsod ay mapapanaligan at maaasahan din."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang unang suson ng pundasyon ng pader, gayundin ang buong pader ng Bagong Herusalem, ay niyari sa jaspe (b.18). Ito ay nagpapakita na ang pangunahing materyal na ginamit sa pagtatayo ng banal na lunsod ay jaspe. Yamang ang jaspe ay sumasagisag sa Diyos na nahahayag sa loob ng Kanyang kaluwalhatiang maaaring mailalin (4:3), ang pangunahing pangsyon ng banal na lunsod ay ang taglayin ang kaluwalhatian ng Diyos upang ihayag ang Diyos (b. 11)."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang mga “perlas” ay ibinunga ng mga kabibe na nasa mga tubig ng kamatayan. Kapag ang kabibe ay nasugatan ng isang maliit na butil ng buhangin, ito ay naglalabas ng katas ng buhay nito sa palibot ng buhangin at ginagawa itong isang mahalagang perlas. Ito ay naglalarawan kay Kristo bilang ang nabubuhay na Isa na tumungo sa mga tubig ng kamatayan, na ating sinugatan, at nagdadaloy ng Kanyang buhay sa atin upang gawin tayong mahahalagang perlas para sa pagtatayo ng walang hanggang kahayagan ng Diyos. Na ang labindalawang pintuan ng banal na lunsod ay “labindalawang perlas” ay sumasagisag na ang pagsisilang-na-muli sa pamamagitan ng nananagumpay-sa-kamatayan at namamahagi-ng-buhay na Kristo ay ang pasukan tungo sa loob ng lunsod. Ito ay tumutugon sa kahilingan ng kautusan na kinatawan ng Israel at pinagmamasdan ng mga nagbabantay na anghel (b.12). Ang Bagong Herusalem ay itinayo sa pamamagitan ng tatlong uri ng mahahalagang materyal, sinasagisag ang pagtatayo sa pamamagitan ng Tres-unong Diyos. Unang-una, ang lunsod mismo kasama ang lansangan nito ay dalisay na ginto (bb.18, 21). Ang ginto, ang simbolo ng dibinong kalikasan ng Diyos, ay sumasagisag sa Ama bilang ang pinagmumulan, na nagbubunga ng elemento para sa praktikal na pag-iral ng lunsod. Ikalawa, ang labindalawang pintuan ng lunsod ay mga perlas, na sumasagisag sa nananagumpay-sa-kamatayan at namamahaging-buhay na pagkabuhay-na-muli ng Anak, na sa pamamagitan nito ay nabuksan ang pasukan sa lunsod. Ikatlo, ang pader ng lunsod at ang pundasyon nito ay yari sa mahahalagang bato. Ito ay sumasagisag sa nagtatranspormang gawain ng Espiritu sa mga tinubos at mga naisilang-na-muling banal tungo sa pagiging mahahalagang bato para sa pagtatayo ng walang hanggang tirahan ng Diyos upang ang Diyos ay kanilang maihayag nang sama-sama sa Kanyang tumatagos na kaluwalhatian. Sa hardin ng Eden itong tatlong uri ng mga kayamanan ay basta mga materyal lamang (Gen. 2:11-12), samantalang sa lunsod ng Bagong Herusalem ang mahahalagang materyal na ito ay itinayo para sa katuparan ng walang hanggang layunin ng Diyos, ang Kanyang sama-samang kahayagan."
+        },
+        {
+            "id": "21-2",
+            "text": "Bawa’t pintuan ng banal na lunsod ay “isang perlas,” sumasagisag na ang pasukan sa lunsod ay namumukod-tangi at minsanan, yaon ay, tangi lamang sa pamamagitan ng minsanang pagkasilang-na-muli sa pamamagitan ng nananagumpay-sa-kamatayan at namamahaging-buhay na pagkabuhay-na-muli ni Kristo."
+        },
+        {
+            "id": "21-3",
+            "text": "Ang mga pintuan ay para sa pagpasok sa loob ng lunsod, samantalang “ang lansangan” ay para sa pang-araw-araw na paglakad, ang pang-araw-araw na pamumuhay. Ang pagpasok sa lunsod ay sa pamamagitan ng kamatayan at pagkabuhay-na-muli ni Kristo, samantalang ang pang-araw-araw na paglakad, ang pang-araw-araw na pamumuhay sa lunsod, ay ayon sa dibinong kalikasan ng Diyos, na sinagisag ng pagiging “dalisay na ginto” ng lansangan. Kasunod ng pasukan ng pagkasilang-na-muli, ang pang-araw-araw na buhay at paglakad ng mga banal ay kinakailangang nasa daan ng dibinong kalikasan ng Diyos. Ang dibinong kalikasan ng Diyos ang kanilang daan."
+        },
+        {
+            "id": "21-4",
+            "text": "Ang dalisay na ginto, na sumasagisag sa lansangan at sa lunsod mismo ng Bagong Herusalem, ay “gaya ng naaaninag na salamin” (b.18), sumasagisag na ang buong lunsod ay naaaninag. Bagama’t ang mga perlas ay hindi maaaninag, bawa’t isa naman sa mga perlas ay isang malaking bukas na pintuan, na hindi isasara sa araw o sa gabi (b.25)."
+        },
+        {
+            "id": "22-1",
+            "text": "Sa Lumang Tipan ang tabernakulo ng Diyos ay isang tagapagpáuna ng templo ng Diyos. Ang Bagong Herusalem, bilang ang tabernakulo ng Diyos (b.3) ay magiging ang templo ng Diyos. Ito ay nagpapakita na sa bagong langit at bagong lupa ang templo ng Diyos ay mapapalaki tungo sa pagiging lunsod. Na ang lapad, haba, at taas ng lunsod ay mag kakasingsukat (b. 16) ay tumutukoy na ang buong lunsod ay magiging ang Dakong Kabanal-banalan, ang panloob na templo. Kaya, wala nang templo sa loob nito."
+        },
+        {
+            "id": "22-2",
+            "text": "Gr. naos, ang panloob na templo. Ang panloob na templong ito ay “ang Panginoong Diyos na Makapangyarihan-sa-lahat at ang Kordero,” sumasagisag na ang Diyos at ang Kordero ay Sila Mismong magiging lugar kung saan natin paglilingkuran ang Diyos at kung saan tayo maninirahan. Ang banal na lunsod bilang ang tabernakulo ng Diyos ay siyang tirahan ng Diyos, at ang Diyos at ang Kordero bilang ang templo ay siyang tirahan ng mga tinubos na banal. Sa bagong langit at bagong lupa, ang Bagong Herusalem ay magiging isang kapwa tirahang lugar para sa Diyos at gayundin sa tao magpasawalang-hanggan."
+        },
+        {
+            "id": "23-1",
+            "text": "Sa isang libong taon ang liwanag ng araw at ng buwan ay mapatitindi (Isa. 30:26). Subali’t sa Bagong Herusalem sa bagong langit at bagong lupa ay “hindi nangangailangan ng araw ni ng buwan.” May araw at buwan sa bagong langit at bagong lupa, subali’t sila ay hindi kakailanganin sa Bagong Herusalem; sapagka’t ang Diyos, ang dibinong liwanag, ay magliliwanag nang lalong higit pa."
+        },
+        {
+            "id": "23-2",
+            "text": "Ang Kordero na “ilawan” ay nagliliwanag sa pamamagitan ng Diyos na ilaw; ginagamit ang kaluwalhatian ng Diyos na siyang kahayagan ng dibinong ilaw upang liwanagan ang lunsod na ito. Yamang ang banal na lunsod ay may ganitong pagliliwanag ng dibinong ilaw, hindi na kinakailangan ang likas na liwanag o ang ilaw na ginawa ng tao (22:5)."
+        },
+        {
+            "id": "24-1",
+            "text": "Sa pagtatapos ng kapanahunang ito, isang malaking bahagi ng mga naninirahan sa lupa ang mapapatay sa panahon ng paghihihip sa ikaanim at ikapitong trumpeta. Ang mga nalalabí ay hahatulan ni Kristo sa luklukan ng Kanyang kaluwalhatian sa Kanyang pagbabalik sa lupa. Ang mga hinatulan, ang mga kambing, ay susumpain upang mapahamak sa dagat-dagatang apoy, samantalang ang mga inaring-matuwid, ang mga tupa, ay pagpapalain upang manahin ang kahariang inihanda para sa kanila mula pa noong itinatag ang sanlibutan (Mat. 25:31-46). Sila ay hindi mangaliligtas at maisisilang-na-muli katulad ng mga Bagong Tipang mananampalataya; sila ay pananauliin lamang sa orihinal na katayuan ng tao bilang nilikha ng Diyos. Sila ang magiging mga bansa bilang mga mamamayan ng isang libong taong kaharian, kung saan ang mga mandaraig na mananampalataya ay magiging mga hari (20:4,6) at ang mga nangaligtas na labí ng Israel ay magiging mga saserdote (Zac. 8:20-23). Pagkatapos ng isang libong taong kaharian, isang bahagi ng mga bansang ito, na nalinlang ng Diyablo, ang maghihimagsik laban sa Panginoon at matutupok ng apoy na nagmumula sa langit (20: 7-9). Ang natitira ay ililipat sa bagong lupa bilang “mga bansa,” namumuhay sa paligid ng Bagong Herusalem at lalakad “sa pamamagitan ng liwanag nito.” Sila ang magiging “mga tao” na binanggit sa mga bersikulo 3 at 4. Sila, bilang ang nilikha subali’t hindi naisilang-na-muling tao, ay pananatilihin upang mabuhay magpakailan man sa kanilang nilikhang katayuan sa pamamagitan ng pagpapagaling ng mga dahon ng puno ng buhay (22:2). Maging sa kanila ay wala nang kamatayan (b.4). Sa ilalim ng pagliliwanag ng Bagong Herusalem na taglay ang dibinong kaluwalhatian, sila ay hindi rin mapapasa kadiliman."
+        },
+        {
+            "id": "24-2",
+            "text": "cf. Isa. 2:5."
+        },
+        {
+            "id": "24-3",
+            "text": "“Ang mga hari sa lupa” rito ay ang mga hari ng mga bansa sa bagong lupa. Ang mga tinubos at mga naisilang-na-muling banal ay magiging mga hari sa mga haring ito (22:5), at si Kristo ang magiging Hari ng mga hari magpasawalang-hanggan."
+        },
+        {
+            "id": "24-4",
+            "text": "Tingnan ang Mat. 5:16, at tala 9-3 sa Hebreo 2."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang lunsod ay ihihiwalay ng pader ng lunsod mula sa mga bansa, subali’t ang mga pintuan ng lunsod ay pananatilihing bukas sa mga bansa."
+        },
+        {
+            "id": "25-2",
+            "text": "Sa bagong langit at bagong lupa ay mayroon pa ring pagkakaiba sa pagitan ng araw at ng gabi, subali’t sa Bagong Herusalem ay walang magiging gayong pagkakaiba, sapagka’t sa gitna nito ay naroroon ang Diyos Mismo bilang higit na matinding liwanag, walang araw at gabi, patuloy na nagliliwanag."
+        },
+        {
+            "id": "26-1",
+            "text": "Tingnan ang tala 24-4 sa kapitulong ito."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang “karangalan” ay tumutukoy sa kahalagahan ng kalagayan at dignidad ng posisyon (cf. Est. 1:4)."
+        },
+        {
+            "id": "27-1",
+            "text": "Yamang ang mga bansang namumuhay sa bagong lupa sa labas ng Bagong Herusalem ay magdadala ng kanilang kaluwalhatian at karangalan sa loob nito, sila ay kasali sa “mga yaong nakasulat sa aklat ng buhay ng Kordero.”"
+        },
+        {
+            "id": "27-2",
+            "text": "Lit. balumbong may sulat."
         }
     ]
 }

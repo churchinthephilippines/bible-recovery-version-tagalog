@@ -1,5 +1,5 @@
 {
-    "chapter": 20,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "naparoong",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -43,7 +43,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -60,7 +60,7 @@
             "footnotes": [
                 {
                     "word": "panyo",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -77,7 +77,7 @@
             "footnotes": [
                 {
                     "word": "bumangon",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -94,7 +94,7 @@
             "footnotes": [
                 {
                     "word": "umiiyak.",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -142,15 +142,15 @@
             "footnotes": [
                 {
                     "word": "nakaaakyat",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "kapatid",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "Ama",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
@@ -167,11 +167,11 @@
             "footnotes": [
                 {
                     "word": "disipulo",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "dumating",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": [
@@ -185,7 +185,7 @@
             "footnotes": [
                 {
                     "word": "nangagalak",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -196,11 +196,11 @@
             "footnotes": [
                 {
                     "word": "pagkasugo",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "isinusugo",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -211,7 +211,7 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -228,11 +228,11 @@
             "footnotes": [
                 {
                     "word": "Didimo,",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "ay",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -249,15 +249,15 @@
             "footnotes": [
                 {
                     "word": "pagkaraan",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "disipulo,",
-                    "note": ""
+                    "id": "26-2"
                 },
                 {
                     "word": "Dumating",
-                    "note": ""
+                    "id": "26-3"
                 }
             ],
             "outlines": [
@@ -276,7 +276,7 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -299,10 +299,100 @@
             "footnotes": [
                 {
                     "word": "Kristo,",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang unang araw ng sanlinggo, o ang kinabukasan ng Sabbath, ay sumasagisag sa isang bagong panimula, isang bagong kapanahunan. Sa Lev. 23:10-11, 15, ang isang bigkis ng mga unang bunga ng pag-aani ay inihandog sa Panginoon bilang isang iniluglog na handog sa kinabukasan ng Sabbath. Ang bigkis na yaon ng mga unang bunga ay isang sagisag ni Kristo bilang unang bunga sa pagkabuhay na muli (I Cor. 15:20, 23). Si Kristo ay eksaktong nabuhay na muli nang sumunod na araw pagkaraan ng Sabbath. Sa pamamagitan ng Kanyang nagpapaloob ng lahat na kamatayan, tinapos Niya ang lumang paglikha; ang lumang paglikha ay ginamitan ng anim na araw upang kumpletuhin at pagkatapos ay may isang araw ng Sabbath. Sa Kanyang pagkabuhay na muli, ibinunga ng Kanyang dibinong buhay ang bagong nilikha. Kaya, ito ang pasimula ng isang bagong “linggo” – isang bagong kapanahunan. Ang araw na ito ng Kanyang pagkabuhay na muli ay itinakda ng Diyos (Awit 118:24), ipinropesiya bilang ang “araw na ito” sa Awit 2:7, ipinropesiya Niya Mismo bilang ang ikatlong araw (Mat. 16:21; Juan 2:19, 22), at pagkatapos ay tinawag ng mga naunang Kristiyano na “araw ng Panginoon” (Apoc. 1:10). Sa araw na ito si Kristo ay isinilang sa loob ng pagkabuhay na muli upang maging ang Panganay na Anak ng Diyos (Gawa 13:33; Heb. 1:5) at “ang Panganay mula sa mga patay” upang maging “ang Ulo ng Katawan, ang ekklesia” (Col. 1:18)."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang pagkabuhay na muli ng Panginoon ay naisakatuparan, subali’t ang pagkatuklas nito ay nangailangan ng naghahanap na pag-ibig ng mga disipulo sa Panginoon. Natuklasan ito sa gayon ni Maria Magdalena at nagtamo siya ng sariwang pagpapakita ng Panginoon at ng pahayag ng kinalabasan ng Kanyang pagkabuhay na muli – na ang Kanyang Ama ay naging Ama ng mga nagsisampalataya tungo sa loob Niya at ang mga nagsisampalataya tungo sa loob Niya ay naging “mga kapatid” (b. 17). (Tingnan ang mga tala 17-2 at 17-3). Nabatid lamang nina Pedro at Juan ang pagkatuklas; natamo ni Maria ang karanasan. Ang mga kapatid na lalakeng ito ay nasiyahan nang may pananampalataya sa katunayan ng pagkabuhay na muli ng Panginoon, subali’t ang kapatid na babaeng ito ay naghangad pa nang higit: ang nabuhay na muling Panginoon Mismo, ang personal na karanasan sa Panginoon. Ang Panginoon ay laging naroon sa lahat ng oras, subali’t hindi nagpakita hanggang sa bersikulo 16."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang lahat ng mga bagay na naalis mula sa nabuhay na muling katawan ng Panginoon at naiwan sa Kanyang libingan ay sumasagisag sa lumang paglikha, na Kanyang isinuot sa panahon ng Kanyang pagpasok sa libingan. Siya ay ipinakong kasama ang lumang nilikha at inilibing kasama nito. Subali’t Siya ay nabuhay na muli mula sa loob ng lumang nilikha, iniwanan ito sa libingan at naging unang bunga ng bagong paglikha. Ang lahat ng mga bagay na naiwan sa libingan ay isang patotoo sa pagkabuhay na muli ng Panginoon. Kung wala ang mga ito na naiwan doon nang maayos, magiging napakahirap para kay Pedro at Juan na manampalataya (b. 8) na ang Panginoon ay hindi kinuha ng sinuman, kundi nabuhay na muli sa Kanyang Sarili. Ang mga bagay na ito ay inialay sa Panginoon at ibinalot sa Kanya ng Kanyang dalawang disipulo, sina Jose at Nicodemo (19:38-42). Ang kanilang ginawa sa Panginoon sa loob ng pag-ibig ay naging malaking tulong sa pagpapatotoo sa Panginoon. Gayundin sa bersikulo 6."
+        },
+        {
+            "id": "7-1",
+            "text": "Tingnan ang tala 5-1."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang Panginoon ay hindi lamang buhay, bagkus pagkabuhay na muli rin (11:25). Kaya hindi Siya kayang pigilan ng kamatayan (Gawa 2:24). Siya ay pumasok sa kamatayan sa Kanyang Sariling kusa upang isagawa ang Kanyang gawain. Nang matapos Niya ang Kanyang gawain, Siya ay lumabas mula sa kamatayan at bumangon mula rito."
+        },
+        {
+            "id": "11-1",
+            "text": "Lit. tumatangis (at gayundin sa bb. 13, 15)."
+        },
+        {
+            "id": "17-1",
+            "text": "Noong araw ng Kanyang pagkabuhay na muli ang Panginoon ay umakyat sa Ama. Ito ang lihim na pag-akyat, ang sukdulang katuparan ng “pagparoon”na ipinropesiya sa 16:7, apatnapung araw bago ang Kanyang pampublikong pag-akyat sa harapan ng mga mata ng mga disipulo (Gawa 1:9-11). Noong araw ng pagkabuhay na muli, maagang-maaga pa, Siya ay umakyat upang bigyang- kasiyahan ang Ama, at sa gabi Siya ay bumalik sa mga disipulo (b. 19). Ang kasariwaan ng Kanyang pagkabuhay na muli ay nararapat munang maging para sa katamasahan ng Ama, kagaya ng pagkasagisag na ang unang bunga ng ani ay inihahandog muna sa Diyos."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang pinakamatalik na katawagan na ginamit noon ng Panginoon upang tawagin ang Kanyang mga disipulo ay “mga kaibigan” (15:14, 15). Subali’t pagkatapos ng Kanyang pagkabuhay na muli, Siya ay nagsimulang tumawag sa kanila ng “mga kapatid”, sapagka’t sa pamamagitan ng Kanyang pagkabuhay na muli, ang Kanyang mga disipulo ay naisilang na muli (I Ped. 1:3) ng dibinong buhay na pinalaya sa pamamagitan ng Kanyang kamatayang namamahagi-ng-buhay, katulad ng ipinakita sa 12:24. Siya ang isang butil ng trigo na nahulog sa lupa at namatay, at lumago upang magbunga ng maraming butil upang makagawa ng isang tinapay na siya Niyang Katawan (I Cor. 10:17). Siya ang bugtong na Anak ng Ama, bilang ang pang-isahang kahayagan ng Ama. Ngayon, sa pamamagitan ng Kanyang kamatayan at pagkabuhay na muli, ang bugtong na Anak ng Ama ay naging ”ang Panganay sa maraming magkakapatid” (Roma 8:29). Ang Kanyang maraming kapatid ay ang “maraming anak” ng Diyos na siyang “ekklesia” (Heb. 2:10-12), bilang isang sama-samang kahayagan ng Diyos Ama sa Anak. Ito ang sukdulang hangarin ng Diyos. Samakatuwid ang maraming kapatid ay ang pagpapalaganap ng buhay ng Ama at ang pagpaparami ng Anak sa dibinong buhay. Kaya, sa pagkabuhay na muli ng Panginoon natupad ang walang hanggang layunin ng Diyos."
+        },
+        {
+            "id": "17-3",
+            "text": "Sa pamamagitan ng Kanyang kamatayan at pagkabuhay na muling namamahagi ng buhay, ginawa ng Panginoong kaisa Niya ang Kanyang mga disipulo. Samakatuwid, ang Kanyang Ama ay ang Ama rin ng Kanyang mga disipulo, at ang Kanyang Diyos ay ang Diyos din ng Kanyang mga disipulo. Sa loob ng Kanyang pagkabuhay na muli, ang mga disipulo ay kapwa nagtataglay ng buhay ng Ama at dibinong kalikasan ng Diyos katulad Niya. Sa paggawa sa Kanyang mga disipulo na maging Kanyang mga kapatid, ibinahagi Niya ang buhay ng Ama at ang dibinong kalikasan ng Diyos sa kanila. Sa paggawa sa Kanyang Ama na maging kanilang Ama at sa Kanyang Diyos na maging kanilang Diyos, dinala Niya sila patungo sa Kanyang katayuan – ang katayuan ng Anak – sa harapan ng Ama at ng Diyos. Sa gayon, sa buhay at kalikasan sa panloob at sa katayuan sa panlabas, sila ay katulad ng Panginoon na nakaisa nila."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang pagtitipon ng mga disipulo rito ay maituturing na unang pagpupulong ng ekklesia bago ang Pentecostes upang matupad ang Awit 22:22, ayon sa Heb. 2:10-12, para sa pagpapahayag ng Anak sa pangalan ng Ama at para sa pagpuri sa Ama sa loob ng ekklesia na binubuo ng Kanyang mga kapatid."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang Panginoon ay dumating na may isang nabuhay na muling katawan (Luc. 24:37-40; I Cor. 15:44) sa loob ng silid na may nakasarang pintuan kung saan naroroon ang mga disipulo. Papaano Siya makapapasok ng may mga buto at laman? Ito ay hindi mauunawaan ng ating nahahanggahang kaisipan, subali’t ito ay isang katotohanan! Kailangang tanggapin natin ito ayon sa dibinong pahayag. Ito ay isang katuparan ng Kanyang pangako sa 16:16, 19, 22."
+        },
+        {
+            "id": "20-1",
+            "text": "Ito ay isang katuparan ng pangako ng Panginoon sa 16:22. Ngayon sila ay nagagalak sapagka’t nakita na nila ang bagong silang na “sanggol” (16:21), na Siyang nabuhay na muling Panginoon, na isinilang sa Kanyang pagkabuhayna- muli bilang Anak ng Diyos (Gawa 13:33). Ang katuparang ito ng Kanyang pagbabalik sa Kanyang mga disipulo ay nagdala sa kanila ng limang pagpapala: 1) ang Kanyang presensiya, 2) ang Kanyang kapayapaan, 3) ang Kanyang pagsusugo, Kanyang pag-aatas (b. 21), 4) ang Espiritu Santo (b. 22), at 5) ang Kanyang awtoridad upang kumatawan sa Kanya (b. 23)."
+        },
+        {
+            "id": "21-1",
+            "text": "Tingnan ang tala 6-1 sa kap. 1."
+        },
+        {
+            "id": "21-2",
+            "text": "Isinusugo ng Panginoon ang Kanyang mga disipulo kasama ang Kanyang Sarili bilang buhay at bilang lahat-lahat sa kanila (Tingnan ang tala 18-1 sa kapitulo 17). Ito ang dahilan kung bakit pagkatapos Niyang masabing “gayundin namang isinusugo Ko kayo,” Kanyang inihinga ang Espiritu Santo tungo sa loob nila. Sa pamamagitan ng Kanyang paghinga, ang Panginoon na Siyang Espiritu ay pumasok sa loob ng Kanyang mga disipulo upang manahan sa loob nila magpakailanman (14:16-17). Kaya, saan man isugo ang Kanyang mga disipulo, Siya ay laging kasama nila, Siya ay kaisa nila."
+        },
+        {
+            "id": "22-1",
+            "text": "Ito ang Espiritung inaasahan sa 7:39 at ipinangako sa 14:16-17, 26; 15:26; 16:7-8, 13. Kaya, ang paghinga ng Panginoon ng Espiritu Santo tungo sa loob ng mga disipulo ay ang katuparan ng Kanyang pangako ng Espiritu Santo bilang ang Mang-aaliw. Ang katuparang ito ay naiiba sa isa na nasa Gawa 2:1-4. Yaon ay ang pagtupad ng Panginoon sa pangako ng Ama sa Luc. 24:49 (tingnan ang tala 17-1 sa kapitulo 14). Sa mga Gawa 2 ang Espiritu bilang “isang humahagibis na hanging malakas” ay dumapo sa mga disipulo bilang kapangyarihan para sa kanilang gawain (Gawa 1:8). Dito, ang Espiritu bilang hininga ay inihinga bilang buhay tungo sa loob ng mga disipulo upang maging kanilang buhay. Sa pamamagitan ng paghinga ng Espiritu tungo sa loob ng mga disipulo, ipinamahagi ng Panginoon ang Kanyang Sarili bilang buhay at lahat-lahat sa loob nila. Sa gayon, ang lahat ng Kanyang sinalita sa mga kapitulo 14-16 ay matutupad. Gaya ng ang pagkahulog sa lupa upang mamatay at ang pagtubo palabas ng lupa ang nagtatransporma sa butil ng trigo tungo sa isang bago at masiglang anyo, ang pagkamatay at pagkabuhay na muli ng Panginoon ang nagbagong-anyo sa Kanya mula sa laman tungo sa Espiritu. Bilang “huling Adam” sa laman, sa pamamagitan ng hakbangin ng kamatayan at pagkabuhay na muli, Siya ay “naging isang Espiritung nagbibigay-buhay” (I Cor. 15:45). Kung papaanong Siya ang pagsasakatawan ng Ama, gayundin naman ang Espiritu ang Kanyang realidad at nagsasanhi sa Kanyang pagiging makatotohanan. Sa Kanyang pagiging “ang Espiritu”, napangyaring Siya ay maihinga tungo sa loob ng mga disipulo. Sa pagiging “ang Espiritu” Siya ay tinanggap tungo sa loob ng Kanyang mga mananampalataya at dumaloy mula sa kanila bilang ang “mga ilog ng tubig na buháy” (7:38-39). Sa pagiging “ang Espiritu”, sa pamamagitan ng Kanyang pagkamatay at pagkabuhay na muli, Siya ay bumalik sa mga disipulo, pumasok sa loob nila bilang kanilang “Mang-aaliw,” at nagsimulang manahan sa loob nila (14:16-17). Sa pagiging “ang Espiritu”, napangyari na Siya ay makapamumuhay sa loob ng mga disipulo at sila ay makapamumuhay sa pamamagitan Niya at kasama Niya (14:19). Sa pagiging “ang Espiritu”, siya ay makapananahan sa loob ng mga disipulo at sila ay makapananahan sa loob Niya (14:20; 15:4-5). Sa pagiging “ang Espiritu”, Siya ay makararating kasama ng Ama sa Kanyang mangingibig at “kasamang gagawa ng tahanan” (14:23). Sa Kanyang pagiging “ang Espiritu”, napangyaring matanto ng Kanyang mga disipulo ang lahat ng kung ano Siya at ang lahat ng kung ano ang mayroon Siya (16:13-16). Sa pagiging “ang Espiritu”, Siya ay dumating upang makipagpulong sa Kanyang “mga kapatid” bilang “ang ekklesia” upang ipahayag ang pangalan ng Ama sa kanila at purihin ang Ama sa kalagitnaan nila (Heb. 2:11-12). Sa pagiging “ang Espiritu”, maisusugo Niya ang Kanyang mga disipulo para sa Kanyang pag-aatas, kasama ang Kanyang Sarili bilang buhay at lahat-lahat nila, sa parehong paraan ng pagsugo ng Ama sa Kanya (b. 21). Sa gayon, sa loob ng pagsasalamuha ng Katawan, ang Kanyang mga disipulo ay napaging-dapat na magkaroon ng awtoridad Niya (b. 23) na kumatawan sa Kanya at isagawa ang Kanyang pag-aatas. Ang Panginoon ang “Salita”, ang Salitang ito ang walang hanggang Diyos (1:1). Para sa pagsasakatuparan ng walang hanggang layunin ng Diyos, dinaanan Niya ang dalawang hakbangin: una, ang hakbangin ng pagiging laman upang maging isang tao sa laman (1:14), naging “ang Kordero ng Diyos” upang isagawa ang pagtutubos para sa tao (1:29), ipinahayag ang Diyos sa tao (1:18), at inihayag ang Ama sa Kanyang mga mananampalataya (14:9-11); ikalawa, ang hakbangin ng kamatayan at pagkabuhay na muli upang magbagong-anyo tungo sa pagiging “ang Espiritu,” upang maibahagi Niya ang Kanyang Sarili tungo sa loob ng Kanyang mga mananampalataya bilang kanilang buhay at kanilang lahat-lahat, at nang Siya ay makapamunga ng maraming anak ng Diyos, ang Kanyang maraming kapatid para sa pagtatayo ng Kanyang Katawan, ang ekklesia, ang tahanan ng Diyos, upang ihayag ang Tres-unong Diyos hanggang sa kawalang-hanggan. Sa gayon, sa orihinal Siya ang walang hanggang Salita; pagkatapos, sa pamamagitan ng Kanyang pagkakatawang-tao, Siya ay naging laman upang isagawa ang pagtutubos ng Diyos, at sa pamamagitan ng Kanyang kamatayan at pagkabuhay na muli, Siya ay naging ang Espiritu upang maging lahat-lahat at gawin ang lahat ng bagay para sa pagkukumpleto ng pagtatayo ng Diyos. Ang Ebanghelyong ito ay nagpapatotoo na ang Panginoon ay: 1) Diyos (1:1-2;5:17-18; 10:30-33; 14:9-11; 20:28); 2) ang buhay (1:4; 10:10; 11:25; 14:6); at 3) ang pagkabuhayna- muli (11:25). Ang mga kapitulo 1-17 ay tao. Ang mga tao ay kaiba sa Diyos. Ang mga kapitulo 18-19 ay nagpapatunay na Siya ang buhay sa kapaligiran ng kamatayan. Ang kamatayan, o ang kapaligiran ng kamatayan, ay kaiba sa Kanya bilang buhay. Ang mga kapitulo 20-21 ay nagpapatunay na Siya ang pagkabuhay na muli sa gitna ng lumang nilikha, sa gitna ng likas na buhay. Ang lumang nilikha, ang likas na buhay, ay ang kabaligtaran Niya bilang pagkabuhay na muli, na ang realidad ay ang Espiritu. Siya bilang pagkabuhay na muli ay matatanto lamang sa Espiritu. Kaya, sa katapusan Siya ang Espiritu sa pagkabuhay na muli. Siya ang Diyos sa gitna ng mga tao (kap. 1-17), Siya ang buhay sa loob ng kamatayan (kap. 18-19), at Siya ang Espiritu sa loob ng pagkabuhay na muli (kap. 20-21)."
+        },
+        {
+            "id": "24-1",
+            "text": "Yaon ay, Kambal."
+        },
+        {
+            "id": "24-2",
+            "text": "Pagkaraan ng Kanyang pagkabuhay na muli, umpisa sa gabi ng unang araw, ang Panginoon ay dumating upang makipagpulong sa Kanyang mga disipulo. Sa gayon, sa pagkabuhay na muli ng Panginoon, ang bagay ukol sa pagpupulong kasama ang mga banal ay napakahalaga. Nakatagpo ni Maria Magdalena ang Panginoon nang personal sa umaga at natamo ang pagpapala (bb. 16-18), subali ‘t siya ay nangangailangan pang magpulong kasama ang mga banal sa gabi upang makipagpulong sa Panginoon sa isang sama-samang paraan upang magtamo ng higit pang marami at higit pang malalaking pagpapala (bb. 19-23). Hindi nakita ni Tomas ang unang pagpupulong na idinaos ng Panginoon kasama ang Kanyang mga disipulo pagkaraan ng Kanyang pagkabuhay na muli at ang lahat ng mga pagpapala. Gayunpaman, napunuan niya ito sa pagdalo sa ikalawang pagpupulong (bb. 25-28)."
+        },
+        {
+            "id": "26-1",
+            "text": "Ito ay sa ikalawang unang araw ng sanlinggo, ang ikalawang araw ng Panginoon pagkaraan ng pagkabuhay na muli ng Panginoon."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang pagtitipon ng mga disipulo rito ay maituturing na ikalawang pagpupulong ng ekklesia na idinaos kasama ang presensiya ng Panginoon bago ang Pentecostes."
+        },
+        {
+            "id": "26-3",
+            "text": "Mula sa unang pagdating ng Panginoon sa bersikulo 19 hanggang bersikulong ito ay walong araw na ang nakararaan subali’t walang salita ni pahiwatig sa talâ ni Juan ang nagpapakita na iniwan ng Panginoon ang mga disipulo, sapagka’t sa katunayan Siya ay nanatili sa kanila, bagama’t hindi namamalayan ang Kanyang presensiya. Kaya, ang Kanyang pagdating sa bersikulong ito, sa katunayan ay ang Kanyang kahayagan, ang Kanyang pagpapakita. (Tingnan ang tala 1-1 sa kap. 21). Bago ang Kanyang kamatayan, ang presensiya ng Panginoon nang Siya ay nasa laman pa ay nakikita. Pagkatapos ng Kanyang pagkabuhay na muli, ang presensiya ng Panginoon sa Espiritu ay hindi nakikita. Ang Kanyang mga paghahayag at pagpapakita pagkaraan ng Kanyang pagkabuhay na muli ay upang sanayin ang mga disipulo na matanto, matamasa, at masanay ang Kanyang di-nakikitang presensiya, na higit na laan, nananaig, mahalaga, mayaman, at tunay. Ang Kanyang kaibig-ibig na presensiya ay “ang Espiritu” na nasa loob ng Kanyang pagkabuhay na muli. Ang Espiritu ay naihinga na Niya tungo sa loob ng mga disipulo at ang Espiritu ay magpapatuloy na kasama nila sa lahat ng oras."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang Ebanghelyong ito ay sadyang nagbibigay ng matibay na patunay na ang Taong si Hesus ay ang Mismong Diyos (1:1-2; 5:17-18; 10:30-33; 14:9- 11)."
+        },
+        {
+            "id": "31-1",
+            "text": "Ang Kristo ang titulo ng Panginoon ayon sa Kanyang katungkulan, Kanyang misyon. Ang Anak ng Diyos ang Kanyang titulo ayon sa Kanyang Persona. Ang Kanyang Persona ay isang bagay na may kaugnayan sa buhay ng Diyos, at ang Kanyang misyon ay isang bagay na may kaugnayan sa gawain ng Diyos. Siya ang Anak ng Diyos upang maging ang Kristo ng Diyos. Siya ay gumagawa para sa Diyos sa pamamagitan ng buhay ng Diyos upang ang tao rin, sa pamamagitan ng pananampalataya sa Kanya, ay magkaroon ng buhay ng Diyos upang maging maraming anak ng Diyos at makagawa sa pamamagitan ng buhay ng Diyos upang maitayo ang sama-samang Kristo (I Cor. 12:12), sa gayon isinasakatuparan ang layunin ng Diyos sa Kanyang walang hanggang pagtatayo."
         }
     ]
 }

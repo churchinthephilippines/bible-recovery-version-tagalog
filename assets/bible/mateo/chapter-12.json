@@ -1,5 +1,5 @@
 {
-    "chapter": 12,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Nang",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -25,7 +25,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -36,11 +36,11 @@
             "footnotes": [
                 {
                     "word": "nabasa",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "David",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -57,7 +57,7 @@
             "footnotes": [
                 {
                     "word": "nabasa",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -68,7 +68,7 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -85,7 +85,7 @@
             "footnotes": [
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -102,7 +102,7 @@
             "footnotes": [
                 {
                     "word": "kamay.",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -125,7 +125,7 @@
             "footnotes": [
                 {
                     "word": "napanumbalik",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -136,7 +136,7 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -169,15 +169,15 @@
             "footnotes": [
                 {
                     "word": "Lingkod",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "paghuhukom",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -194,15 +194,15 @@
             "footnotes": [
                 {
                     "word": "tambong",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "umuusok",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "timsim",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -219,7 +219,7 @@
             "footnotes": [
                 {
                     "word": "bulag",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": [
@@ -233,7 +233,7 @@
             "footnotes": [
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -244,7 +244,7 @@
             "footnotes": [
                 {
                     "word": "Beelzebul",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -261,7 +261,7 @@
             "footnotes": [
                 {
                     "word": "kaharian?",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -278,11 +278,11 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": null
@@ -293,19 +293,19 @@
             "footnotes": [
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "malakas",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "29-3"
                 },
                 {
                     "word": "tatalian",
-                    "note": ""
+                    "id": "29-4"
                 }
             ],
             "outlines": null
@@ -316,7 +316,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -327,7 +327,7 @@
             "footnotes": [
                 {
                     "word": "paglapastangan",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -338,11 +338,11 @@
             "footnotes": [
                 {
                     "word": "magsalita",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "kapanahunang",
-                    "note": ""
+                    "id": "32-2"
                 }
             ],
             "outlines": null
@@ -353,7 +353,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -376,7 +376,7 @@
             "footnotes": [
                 {
                     "word": "salitang",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -387,7 +387,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -398,7 +398,7 @@
             "footnotes": [
                 {
                     "word": "tanda",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": [
@@ -412,7 +412,7 @@
             "footnotes": [
                 {
                     "word": "henerasyong",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -423,7 +423,7 @@
             "footnotes": [
                 {
                     "word": "pusod",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -434,7 +434,7 @@
             "footnotes": [
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -445,7 +445,7 @@
             "footnotes": [
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -456,7 +456,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "43-1"
                 }
             ],
             "outlines": [
@@ -476,7 +476,7 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": null
@@ -502,7 +502,7 @@
             "footnotes": [
                 {
                     "word": "Sino",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -519,10 +519,176 @@
             "footnotes": [
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "50-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “nang panahong yaon” ang nagdurugtong ng kapitulo 12 sa kapitulo 11. Sa eksaktong panahon na tinawag ng Panginoon ang mga tao upang magpahinga mula sa pagsusumikap na tuparin ang kautusan at mga makarelihiyong regulasyon, “sa araw ng Sabbath ay dumaan Siya sa mga bukiran ng trigo,” at ang Kanyang mga disipulo “ay nagsimulang mamitas ng mga uhay at nagsikain,” na para bang nilalabag ang Sabbath."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang Sabbath ay para sa mga Hudyo upang kanilang alalahanin ang kaganapan ng paglikha ng Diyos (Gen. 2:2); upang ipangilin ang tanda ng kasunduan ng Diyos sa kanila (Ezek. 20:12); at upang gunitain ang katubusang ibinigay ng Diyos sa kanila (Deut. 5:15). Kaya, ang lapastanganin ang Sabbath ay isang malubhang bagay sa mga mata ng mga relihiyosong Fariseo. Sa kanila ito ay “hindi naaalinsunod-sa-kautusan,” (lawful) hindi naaalinsunod-sa- kasulatan (scriptural). Subalit sila ay walang sapat na kaalaman tungkol sa Kasulatan. Ayon sa kanilang kakaunting kaalaman, sila ay nag-ukol ng pansin sa ritwal na pagpapatupad ng Sabbath, hindi inalintana ang kagutuman ng mga tao. Anong kahangalan ang tumupad ng isang walang kabuluhang ritwal!"
+        },
+        {
+            "id": "3-1",
+            "text": "Sinabi ng mga Fariseo na ang ginawa ng mga disipulo ng Panginoon na pumitas ng mga uhay sa bukiran ng trigo at kumain, ay hindi naaalinsunod-sa-kautusan at hinatulan sila na ang pagkilos nila ay salungat sa Kasulatan. Subalit ang Panginoon ay sumagot, “Hindi ba ninyo nabasa,” itinuturo sa kanila ang isa pang panig sa Kasulatan na nagbigay-katuwiran sa Kanya at sa Kanyang mga disipulo. Ito ang humatol sa mga Fariseo dahil sa kakulangan ng sapat na kaalaman sa Kasulatan."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang salita ng Panginoon dito ay nagpapahiwatig na Siya ang tunay na David. Noong unang panahon, si David at ang kanyang mga tagasunod, nang tanggihan, ay pumasok sa loob ng templo ng Diyos at kumain ng tinapay na handog (b. 4), tila nilalabag ang kautusang Levitico. Ngayon ang tunay na David at ang Kanyang mga tagasunod ay tinanggihan din at ang mga disipulo ay namitas at kumain sa araw ng Sabbath, na tila baga laban sa regulasyon ng Sabbath. Kung papaanong si David at ang kanyang mga tagasunod ay pinawalang-sala, si Kristo at sinuman sa Kanyang mga disipulo ay hindi dapat mahatulan. Bukod pa roon, ang salita ng Panginoon dito ay nagpapahiwatig din ng pampanahunang pagbabago mula sa pagkasaserdote tungo sa pagkahari. Noong unang panahon, binago ng pagdating ni David ang pamamahagi mula sa kapanahunan ng mga saserdote tungo sa kapanahunan ng mga hari, kung saan ang mga hari ay mataas sa mga saserdote. Sa kapanahunan ng mga saserdote, ang pinuno ng mga tao ay dapat makinig sa mga saserdote (Blg. 27:21-22). Subalit sa kapanahunan ng mga hari, ang saserdote ay dapat pasailalim sa hari (1 Sam. 2:35-36). Kung kaya, ang ginawa ni Haring David kasama ang kanyang mga tagasunod ay hindi labag sa kautusan. Ngayon sa pamamagitan ng pagdating ni Kristo, ang kapanahunan ay nabago rin, mula sa kapanahunan ng kautusan tungo sa kapanahunan ng biyaya, kung saan si Kristo ay nasa ibabaw ng lahat. Anuman ang Kanyang ginawa ay tama."
+        },
+        {
+            "id": "5-1",
+            "text": "Itinuro ng Panginoon sa mga Fariseo ang isa pang pangyayari sa Kasulatan, inihahantad kung gaano kakaunti ang pagkaalam nila sa mga Kasulatan."
+        },
+        {
+            "id": "6-1",
+            "text": "Inihayag ng Panginoon sa mga Fariseo na Siya ang “higit na malaki kaysa sa templo.” Ito ay isa pang pagbaling, isang nagsasakatuparang-sagisag na pagbabago mula sa templo tungo sa isang Tao. Sa kaso ni David, ito ay isang pagbaling mula sa isang kapanahunan tungo sa isa pang kapanahunan. Sa kasong ito, isang kaso hinggil sa mga saserdote, ito ay isang pagbaling mula sa templo tungo sa isang Tao na siyang higit na malaki kaysa sa templo. Yamang ang mga saserdote ay walang kasalanan sa pagkilos sa Sabbath sa loob ng templo, papaanong ang mga disipulo ng Panginoon ay magkakasala sa pagkilos sa araw ng Sabbath sa loob Niyaong higit na malaki kaysa sa templo? Sa unang kaso, ito ang paglabag ng hari sa panlevitikong regulasyon; sa pangalawang kaso, ito ang paglabag ng mga saserdote sa regulasyon ng Sabbath. Sa Kasulatan, wala ni isa sa kanila ang may kasalanan. Kung kaya, ang ginawa rito ng Panginoon ay tama batay sa kasulatan."
+        },
+        {
+            "id": "8-1",
+            "text": "Dito ay ipinakita ng Panginoon ang pangatlong pagbabaling, isang pagbaling ayon sa paninindigan-ng-karapatan mula sa Sabbath tungo sa “Panginoon ng Sabbath.” Bilang Panginoon ng Sabbath, Siya ay may karapatang baguhin ang mga regulasyon tungkol sa Sabbath. Sa gayon ang Panginoon ay nagbigay ng tatlong-ulit na hatol sa mga humahatol na Fariseo. Siya ang tunay na David, ang higit na malaking templo, at ang Panginoon ng Sabbath. Samakatwid, magagawa Niya ang anumang gusto Niyang gawin sa araw ng Sabbath, at anuman ang Kanyang ginawa ay binigyang-katuwiran Niya Mismo. Siya ang pinakamataas sa lahat ng ritwal at mga regulasyon. Yamang Siya ay naririto, hindi dapat mag-ukol ng anumang pansin sa anumang ritwal at mga regulasyon."
+        },
+        {
+            "id": "10-1",
+            "text": "Itinatala ng kapitulong ito ang pagkilos ng Panginoon sa dalawang araw ng Sabbath (Luc. 6:1, 6). Ang Kanyang ginawa sa unang Sabbath ay nagpapakita na Siya ay nag-ukol ng pansin sa Kanyang Sarili bilang Ulo ng Katawan. Bilang Ulo, Siya ay ang lahat-lahat — ang tunay na David, ang higit na malaking templo, at ang Panginoon ng Sabbath. Ang Kanyang ginawa sa ikalawang Sabbath ay sumasagisag na Siya ay nag-ukol ng pansin sa Kanyang mga sangkap. Sa Sabbath na ito Kanyang pinagaling ang “tuyong kamay” ng isang tao, itinutulad ang taong ito sa isang tupa (bb. 11-12). Ang kamay ay isang sangkap ng katawan, at ang tupa ay isang miyembro ng kawan. Gagawin ng Panginoon ang anumang bagay para sa pagpapagaling ng Kanyang mga sangkap, para sa pagliligtas ng Kanyang nahulog na tupa. Sabbath o hindi Sabbath, ang Panginoon ay interesado sa pagpapagaling ng mga patay na sangkap ng Kanyang Katawan. Ang mga regulasyon ay bale-wala, subalit ang pagliligtas sa Kanyang nahulog na tupa ay ang lahat-lahat sa Kanya."
+        },
+        {
+            "id": "13-1",
+            "text": "Ibinigay ng Panginoon sa lalake ang salitang “Iunat mo ang iyong kamay.” Sa loob ng salita ng Panginoon ay ang nagpapasiglang buhay. Sa pamamagitan ng pag-unat ng kanyang kamay, tinanggap ng lalake ang nagbibigay-buhay na salita ng Panginoon, at ang kanyang tuyong kamay ay “napanumbalik” sa pamamagitan ng buhay na nasa Kanyang salita."
+        },
+        {
+            "id": "14-1",
+            "text": "Sa mga mata ng mga relihiyosong Fariseo, ang labagin ng Panginoon ang Sabbath ay ang sirain ang kasunduan ng Diyos sa bansa ng Israel, yaon ay, sirain ang kaugnayan sa pagitan ng Diyos at ng Israel. Kung kaya, sila ay “nagsanggunian laban sa Kanya, kung papaano nila Siya mapupuksa.” Ang paglabag sa Sabbath ay naging sanhi upang tanggihan ng mga Hudyong relihiyonista ang makalangit na Hari."
+        },
+        {
+            "id": "18-1",
+            "text": "Gr. tagapaglingkod na batang lalake."
+        },
+        {
+            "id": "18-2",
+            "text": "Matuwid na paghuhukom, katulad ng kahulugan sa b. 20."
+        },
+        {
+            "id": "18-3",
+            "text": "Maliwanag na tinutukoy nito na dahil sa pagtanggi ng mga Hudyo, ang makalangit na Hari kasama ang Kanyang makalangit na kaharian ay babaling sa mga Hentil, at ang mga Hentil ay tatanggap sa Kanya at magtitiwala sa Kanya (b. 21)."
+        },
+        {
+            "id": "20-1",
+            "text": "Nakaugalian ng mga Hudyo na gumawa ng mga plautang yari sa mga tambo. Kapag ang isang tambo ay nagapok, kanilang binabali ito. Sila ay gumagawa rin ng mga sulo na may timsim upang magningas ang langis. Kapag ang langis ay naubos, ang timsim ay umuusok, at kanilang pinapatay ito. Ang ilan sa mga tao ng Panginoon ay katulad ng “tambong gapok” na hindi makapagbibigay ng himig-pangmusika; ang iba ay katulad ng “umuusok na timsim” na hindi makapagbibigay ng nagliliwanag na ilaw; ngunit hindi “babaliin” ng Panginoon ang mga nagapok na tambo, ni “papatayin” ang mga umuusok na timsim."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang salitang Griyego ay tumutukoy sa isang sulo na yari sa timsim.."
+        },
+        {
+            "id": "22-1",
+            "text": "Sinasagisag ng taong “bulag at pipi” ang isang taong walang paningin upang makita ang Diyos at ang mga bagay na espiritwal; sa ganito hindi siya makapagpupuri sa Diyos at makapagsasalita para sa Diyos. Ito ang tunay na kalagayan ng lahat ng natisod na tao."
+        },
+        {
+            "id": "23-1",
+            "text": "Ito ang pagkakakilala kay Kristo bilang kanilang Mesiyas, ang kanilang Hari."
+        },
+        {
+            "id": "24-1",
+            "text": "Tingnan ang tala 25-1 sa kap. 10."
+        },
+        {
+            "id": "26-1",
+            "text": "Si Satanas ang hari ng sanlibutang ito (Juan 12:31) at ang pinuno ng kapangyarihang nasa hangin (Efe. 2:2). Siya ay may kanyang awtoridad (Gawa 26:18) at kanyang mga anghel (25:41), na kanyang mga nasasakupan bilang mga pamunuan, kapangyarihan, at mga pinuno ng kadiliman dito sa sanlibutan (Efe. 6:12). Kaya, siya ay may “kanyang kaharian,” ang awtoridad ng kadiliman (Col. 1:13)."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang “Espiritu ng Diyos” ay ang kapangyarihan ng “kaharian ng Diyos.” Kung saan may kapangyarihan ang Espiritu ng Diyos, naroroon ang kaharian ng Diyos, at doon ang mga demonyo ay walang lugar."
+        },
+        {
+            "id": "28-2",
+            "text": "Dito ang tinutukoy ay “ang kaharian ng Diyos,” hindi ang kaharian ng mga kalangitan. Kahit magpahanggang ngayon, ang kaharian ng mga kalangitan ay hindi pa dumarating. Ang kaharian ng Diyos, gayon pa man, ay naroroon na."
+        },
+        {
+            "id": "29-1",
+            "text": "“Ang bahay” rito ay sumasagisag sa kaharian ni Satanas."
+        },
+        {
+            "id": "29-2",
+            "text": "“Ang malakas na tao” ay si Satanas, ang masamang isa."
+        },
+        {
+            "id": "29-3",
+            "text": "O mga kasangkapan, kagamitan; kaya, mga kalakal, mga gamit. Ang mga natisod na tao sa ilalim ni Satanas ay kanyang mga sisidlan, kanyang mga kasangkapan para sa kanyang paggamit. Sila ay kanyang mga kalakal na nakatago sa kanyang bahay, sa kanyang kaharian."
+        },
+        {
+            "id": "29-4",
+            "text": "Tinutukoy nito na nang ang Panginoon ay nagpalayas ng mga demonyo, Kanyang ginapos muna si Satanas."
+        },
+        {
+            "id": "30-1",
+            "text": "Tingnan ang tala 40-1 sa Marcos 9"
+        },
+        {
+            "id": "31-1",
+            "text": "Ang paglapastangan sa Espiritu ay kaiba sa pag-insulto sa Espiritu (Heb. 10:29). Ang insultuhin ang Espiritu ay ang sumuway sa Kanya nang sadya. Maraming mananampalataya ang gumagawa nito. Kung kanilang aaminin ang kasalanang ito, sila ay patatawarin at malilinis sa pamamagitan ng dugo ng Panginoon (1 Juan 1:7, 9). Subalit ang lapastanganin ang Espiritu ay ang manirang-puri sa Kanya, katulad ng ginawa ng mga Fariseo sa bersikulo 24. Sa pamamagitan ng Espiritu pinalayas ng Panginoon ang isang demonyo. Ngunit ang mga Fariseo sa pagkakita nito ay nagsabing nagpalayas ang Panginoon ng mga demonyo sa pamamagitan ni Beelzebul, ang pinuno ng mga demonyo. Ito ay paglapastangan sa Espiritu. Sa ganitong paglapastangan, ang pagtanggi ng mga Fariseo sa makalangit na Hari ay umabot sa kasukdulan nito."
+        },
+        {
+            "id": "32-1",
+            "text": "Sa ekonomiya ng Tres-unong Diyos, ang Ama ang nagpanukala ng plano ng pagtutubos (Efe. 1:5, 9), ang Anak ang nagsagawa ng pagtutubos ayon sa plano ng Ama (1 Ped. 2:24; Gal. 1:4), at ang Espiritu ang umaabot sa mga makasalanan upang gamitin ang naisagawang pagtutubos ng Anak (1 Cor. 6:11; 1 Ped. 1:2). Kung nilalapastangan ng makasalanan ang Anak katulad ng ginawa ni Saulo ng Tarso, ang Espiritu ay may puwang pa rin upang gumawa sa kanya at mapagsisi siya at mapanampalataya siya sa Anak upang siya ay mapatawad (tingnan ang 1 Tim. 1:13-16). Ngunit kapag nilalapastangan ng makasalanan ang Espiritu, ang Espiritu ay mawawalan ng lugar upang gumawa sa kanya, at wala nang matitira upang magsanhi sa kanya na magsisi at manampalataya. Kaya, imposible para sa isang gayong tao ang mapatawad. Ito ay hindi lamang lohikal, ayon sa pangangatuwiran, bagkus maging sa pampamahalaan ay naaayon din sa pang-administrasyong prinsipyo ng Diyos, katulad ng pagkahayag dito sa pamamagitan ng salita ng Panginoon."
+        },
+        {
+            "id": "32-2",
+            "text": "Sa pampamahalaang administrasyon ng Diyos, ang Kanyang kapatawaran ay pampanahunan. Para sa Kanyang administrasyon, Kanyang pinlano ang iba’t ibang kapanahunan. Ang panahon mula sa unang pagparito ni Kristo hanggang sa kawalang-hanggan ay nahahati sa tatlong kapanahunan: 1) Ang kapanahunang ito, ang kasalukuyan, mula sa una hanggang sa pangalawang pagdating ni Kristo; 2) ang darating na kapanahunan, ang isang libong taong kaharian, ang isang libong taon para sa pagpapanumbalik at makalangit na paghahari, mula sa pangalawang pagdating ni Kristo hanggang sa katapusan ng lumang langit at lumang lupa; 3) ang kawalang-hanggan, ang walang hanggang kapanahunan ng bagong langit at bagong lupa. Ang kapatawaran ng Diyos “sa kapanahunang ito” ay para sa walang-hanggang kaligtasan ng mga makasalanan. Ang kapatawarang ito ay ibinibigay kapwa sa mga makasalanan at mga mananampalataya. Ang kapatawaran ng Diyos sa darating na kapanahunan ay may kaugnayan sa pampanahunang gantimpala ng mga mananampalataya. Kung ang isang mananampalataya, pagkatapos maligtas, ay nakagagawa ng anumang kasalanan, ngunit hindi gagawa ng paglilinaw sa pamamagitan ng paghahayag at paglilinis ng dugo ng Panginoon (1 Juan 1:7, 9) bago siya mamatay o makabalik ang Panginoon, ang kasalanang ito ay hindi mapatatawad sa kapanahunang ito, kundi mananatiling mahahatulan sa luklukan ng hukuman ni Kristo (2 Cor. 5:10). Siya ay hindi magagantimpalaan ng kaharian upang makilahok sa kaluwalhatian at kagalakan kasama ni Kristo sa pagpapakita ng kaharian ng mga kalangitan, kundi madidisiplina upang gawan ng isang paglilinaw ang kasalanang ito at mapatatawad sa darating na kapanahunan (Mat. 18:23-35). Pananatilihin ng ganitong uri ng kapatawaran ang kanyang walang-hanggang kaligtasan subalit hindi siya mapapaging-dapat sa pakikilahok sa kaluwalhatian at kagalakan ng darating na kaharian."
+        },
+        {
+            "id": "33-1",
+            "text": "Gr. Mula sa."
+        },
+        {
+            "id": "36-1",
+            "text": "Ang salitang Griyego ay nangangahulugang “hindi gumagawa.” Ang isang “salitang walang kabuluhan” ay isang di-gumagawang salita, isang hindi kumikilos na salita, walang positibong pagkilos, walang kabuluhan, walang pakinabang, walang bunga, at tigang. “Sa araw ng paghuhukom,” ang bawat ganitong salita ay “ipagsusulit” ng mga nagsasalita ng mga ganitong salita. Yamang ganito ang pangyayari, gaano pa tayong higit na magbibigay-sulit sa bawat masamang salita!"
+        },
+        {
+            "id": "37-1",
+            "text": "Anong babala ito! Dapat nating pag-aralang pigilan at higpitan ang ating pananalita."
+        },
+        {
+            "id": "38-1",
+            "text": "Ang “tanda” ay isang himala na may kaunting espiritwal na kahalagahan. Ang mga Hudyo ay palaging naghahanap ng mga tanda (1 Cor. 1:22)."
+        },
+        {
+            "id": "39-1",
+            "text": "Ang “kapanahunan” sa bersikulo 32 ay tumutukoy sa panahon; ang “henerasyon” dito ay tumutukoy sa mga tao."
+        },
+        {
+            "id": "40-1",
+            "text": "“Ang pusod ng lupa” ay tinatawag na mga dakong kalalimang bahagi ng lupa (Efe. 4:9) at Hades (Gawa 2:27), kung saan ang Panginoon ay nagpunta pagkatapos ng Kanyang kamatayan. Ang Hades, ay may dalawang bahagi: ang bahagi ng pagdurusa at ang bahagi ng kaginhawahan (Luc. 16:23-26). Ang bahagi ng kaginhawahan ay ang paraiso, kung saan ang Panginoon ay nagpunta kasama ang naligtas na magnanakaw pagkatapos nilang mamatay sa krus (Luc. 23:43). Kaya, ang pusod ng lupa, ang mga dakong kalalimang bahagi ng lupa, ang Hades, at ang paraiso, ay mga katawagang magkakasingkahulugan, tumutukoy sa isang lugar kung saan ang Panginoon ay nanatili nang “tatlong araw at tatlong gabi” pagkatapos ng Kanyang kamatayan at bago ang Kanyang pagkabuhay na muli."
+        },
+        {
+            "id": "41-1",
+            "text": "Gr. pleion, nasa bersikulo 42 rin, nangangahulugang higit sa kantidad at kalidad; kung gayon, higit na dakila. Ito ay naiiba sa meizon, ang salita para sa higit na malaki sa bersikulo 6, na nangangahulugang higit na malaki sa panlabas na laki at sukat. Si Kristo, bilang propeta na ipinadala ng Diyos sa Kanyang mga tao (Deut. 18:15, 18), ay “lalong dakila kaysa kay Jonas” na propeta. Si Jonas ay ang propetang bumaling mula sa Israel patungo sa mga Hentil at inilagay roon sa tiyan ng malaking isda. Nanatili roon nang tatlong araw, siya ay lumabas mula roon upang maging isang tanda sa henerasyong yaon para sa pagsisisi (Jon. 1:2, 17; 3:2-10). Ito ay isang sagisag ni Kristo, na siyang babaling mula sa Israel patungo sa mga Hentil, at siyang ililibing sa pusod ng lupa nang tatlong araw at tatlong gabi at pagkatapos ay mabubuhay na muli, magiging tanda sa henerasyong ito para sa kaligtasan."
+        },
+        {
+            "id": "42-1",
+            "text": "Tingnan ang tala 41-1 . Si Kristo na Anak ni David bilang Hari ay “lalong dakila kaysa kay Salomon” na hari. Si Salomon ay nagtayo ng templo ng Diyos at nagsalita ng salita ng karunungan, kung kanino ang Hentil na reyna ay nagpunta (1 Hari 6:2; 10:1-8). Ito rin ay isang sagisag ni Kristo, na Siyang nagtatayo ng ekklesia upang maging templo ng Diyos at nagsasalita ng salita ng karunungan, kung kanino ang mga Hentil na naghahanap ay babaling. Kapwa tinutukoy ng dalawang sagisag na ito na si Kristo, maging bilang Propetang ipinadala ng Diyos o bilang Haring pinahiran ng Diyos, ay babaling mula sa Israel tungo sa mga Hentil, katulad ng pagkapropesiya sa mga bersikulo 18 at 21. Ayon sa kasaysayan, si Haring Salomon ay nauna kay Jonas, na propeta. Ngunit ayon sa espiritwal na pagkakahulugan, si Jonas ay naunang dumating, katulad ng pagkatala sa Mateo. Nagpapatunay na ang tala sa Mateo ay hindi naaayon sa pagkakasunud-sunod ng kasaysayan, kundi ayon sa pandoktrinang pagkakasunud-sunod (tingnan ang tala 16-1 , talata 2, sa kap. 8). Ayon sa doktrina, si Kristo ay dapat munang mamatay at mabuhay na muli; at pagkatapos Kanyang itatayo ang ekklesia at sasalitain ang salita ng karunungan. Ito ay ang tunay na tanda para sa henerasyong ito, kapwa sa mga Hudyo at mga Hentil (1 Cor. 1:22, 24)."
+        },
+        {
+            "id": "43-1",
+            "text": "“Ang karumal-dumal na espiritu,” na isang demonyo (b. 22), ay naghahanap ng kapahingahan ngunit hindi makasumpong nito sa mga “dakong walang tubig,” sapagkat ang tirahan ng mga demonyo, pagkatapos ng paghahatol ng Diyos sa pamamagitan ng tubig sa Gen. 1:2, ay ang dagat. (Tingnan ang Mensahe 2 ng Pag-aaral-Pambuhay ng Genesis.) Yamang ang demonyo ay hindi makatagpo ng kapahingahan sa mga tuyong lugar, ito ay bumabalik sa loob ng katawan ng tao na dati nitong inalihan at ito ay naninirahan doon (bb. 44-45)."
+        },
+        {
+            "id": "45-1",
+            "text": "Sa pandoktrina, ang kasunod na bersikulo ng bersikulo 22 ay ang bersikulo 43. Sa pagitan ng dalawang bersikulong ito ay may isang tala ng pagtanggi ng mga Hudyo kay Kristo at ang pag-iwan ni Kristo sa kanila. Dito hinahalintulad ng Panginoon ang mga tumatangging Hudyo sa “masamang henerasyon” na ginamit Niya sa talinghaga ng taong inalihan ng demonyo. Sa mga mata ng Panginoon, ang mga tumatangging Hudyo ay katulad ng mga taong inalihan ng demonyo. Ipinahiwatig ng dalawang tanda nina Jonas at Salomon na ang mga Hentil ay magsisisi, ngunit ipinakita ng pangyayari ng taong inalihan ng demonyo na ang mga tumatangging Hudyo ay hindi magsisisi. Sila ay magwawalis lamang ng dumi at magpapalamuti sa sarili sa pamamagitan ng pagdaragdag ng mabubuting bagay upang mapaganda ang kanilang mga sarili, ayaw nilang tanggapin si Kristo at hayaan Siyang punuan sila sa halip, gusto nilang manatiling hungkag at walang laman. Ito ang tunay na kalagayan ng mga Hudyo sa ngayon. Sa paglapit ng pagtatapos ng kapanahunang ito, sila ay makapito pang aaalihan ng mga demonyo, at ang kanilang kalagayan ay magiging higit na malala kaysa noon."
+        },
+        {
+            "id": "48-1",
+            "text": "Ipinakikita nito na tinalikuran ng makalangit na Hari ang Kanyang kaugnayan sa mga Hudyo sa laman. Sa kapitulong ito, ang pagtanggi ng mga Hudyo kay Kristo, na umabot na sa sukdulan, ay nagresulta sa ganap na pagtalikod ni Kristo sa kanila. Sa puntong ito, ang paghihiwalay nila at ni Kristo ay nagsimula, at sila ay naputol mula kay Kristo (Roma 11:17, 19-20)."
+        },
+        {
+            "id": "50-1",
+            "text": "Pagkatapos ng paghiwalay sa mga Hudyo, si Kristo ay bumaling sa mga Hentil. Kaya ang Kanyang kaugnayan sa Kanyang mga tagasunod ay hindi na sa laman, kundi sa espiritu. Ang sinumang gumagawa ng kalooban ng Ama ay Kanyang kapatid na lalake para sa pagtulong, kapatid na babae para sa pagdamay, at ina para sa magiliw na pagmamahal."
         }
     ]
 }

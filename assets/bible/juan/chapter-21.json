@@ -1,5 +1,5 @@
 {
-    "chapter": 21,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Pagkatapos",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "nagpakitang",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -25,7 +25,7 @@
             "footnotes": [
                 {
                     "word": "Didimo,",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -36,11 +36,11 @@
             "footnotes": [
                 {
                     "word": "Mangingisda",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -57,11 +57,11 @@
             "footnotes": [
                 {
                     "word": "makakain?",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Wala.",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -72,7 +72,7 @@
             "footnotes": [
                 {
                     "word": "dami",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -83,7 +83,7 @@
             "footnotes": [
                 {
                     "word": "hubad),",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -94,7 +94,7 @@
             "footnotes": [
                 {
                     "word": "dalawang",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -105,7 +105,7 @@
             "footnotes": [
                 {
                     "word": "isda",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -128,7 +128,7 @@
             "footnotes": [
                 {
                     "word": "Magsiparito",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -139,11 +139,11 @@
             "footnotes": [
                 {
                     "word": "tinapay",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "isda.",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -160,23 +160,23 @@
             "footnotes": [
                 {
                     "word": "Simon,",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "iniibig",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "iniibig",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "Pakainin",
-                    "note": ""
+                    "id": "15-4"
                 },
                 {
                     "word": "kordero.",
-                    "note": ""
+                    "id": "15-5"
                 }
             ],
             "outlines": [
@@ -189,19 +189,19 @@
             "footnotes": [
                 {
                     "word": "iniibig",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "iniibig",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "Ipastol",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "tupa.",
-                    "note": ""
+                    "id": "16-4"
                 }
             ],
             "outlines": null
@@ -212,27 +212,27 @@
             "footnotes": [
                 {
                     "word": "ikatlong",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "iniibig",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "Iniibig",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "iniibig",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -243,7 +243,7 @@
             "footnotes": [
                 {
                     "word": "lumakad",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -254,7 +254,7 @@
             "footnotes": [
                 {
                     "word": "uri",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -277,11 +277,11 @@
             "footnotes": [
                 {
                     "word": "pumarito,",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "Sumunod",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -292,7 +292,7 @@
             "footnotes": [
                 {
                     "word": "pumarito,",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -309,10 +309,132 @@
             "footnotes": [
                 {
                     "word": "maraming",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa katapusan ng kapitulo 20, ang Panginoon ay nakabalik na bilang ang Espiritu, bilang ang Kristo na Espiritu, ang “malahanging” Kristo (the Pneumatic Christ), upang makasama ng mga disipulo bilang lahat-lahat sa kanila. Samakatuwid, ang Ebanghelyong ito ay nagtapos doon (20:30-31). Subali ‘t papaanong magkakaroon ng ikabubuhay ang mga disipulo? Ano ang kanilang gagawin upang isagawa ang Kanyang pag-aatas? Papaano sila susunod sa Kanya pagkaraan ng Kanyang pagkabuhay na muli? Ano ang kanilang magiging kinabukasan? Isang karagdagang kapitulo ang kinailangan upang malutas ang mga suliraning ito."
+        },
+        {
+            "id": "1-2",
+            "text": "Ito ay nagpapatunay na ang Kanyang pagdating sa mga disipulo sa 20:26 sa katunayan, ay isang pagpapakita, sapagka’t dito ay sinasabi na ipinakita Niyang muli ang Kanyang Sarili sa mga disipulo. Kanya na namang sinanay sila na sanayin ang kanilang sarili sa Kanyang di-nakikitang presensiya. Hindi ito ang Kanyang pagdating, kundi ang Kanyang pagpapakita. Namamalayan man nila ang Kanyang presensiya o hindi, Siya ay kasama nila sa lahat ng oras. Para sa kapakanan ng kanilang kahinaan, paminsan-minsan ay ipinapakita Niya ang Kanyang presensiya upang pagtibayin ang kanilang pananampalataya sa Kanya."
+        },
+        {
+            "id": "2-1",
+            "text": "Yaon ay, Kambal."
+        },
+        {
+            "id": "3-1",
+            "text": "Yaon marahil ay dahil sa pagsubok ng pangangailangan ng kanilang pamumuhay kaya si Pedro ay bumalik sa kanyang lumang hanapbuhay, bumalik sa dating gawi palayo sa pagtawag ng Panginoon (Mat. 4:19-20; Luc. 5:3-11)."
+        },
+        {
+            "id": "3-2",
+            "text": "Sina Pedro at ang mga anak ni Zebedeo (Juan at Santiago) ay mga bihasang mangingisda, ang dagat ng Tiberias ay malaki at punô ng isda, at gabi ang tamang oras ng pangingisda, subali’t sa buong magdamag ay wala silang nahuli. Ito ay isang himala! Marahil ay binilinan ng Panginoon ang mga isda na lumayo sa kanilang lambat."
+        },
+        {
+            "id": "5-1",
+            "text": "Sa orihinal ay wala ang salitang “makakain”, nguni’t may kahulugang makakain."
+        },
+        {
+            "id": "5-2",
+            "text": "Nang ang mga disipulo ay nasa tamang kalagayan, tulad sa Luc. 24:41-43, sila ay may—doon sa bahay—higit na maraming isdang makakain kaysa sa kailangan nila; sa gayon sila ay nag-alok ng isang piraso sa Panginoon. Nguni’t dito sila ay nasa kalagayang bumabalik sa dating gawi palayo sa Panginoon; sa gayon—kahit na nasa baybaying-dagat—pagkatapos makapangisda sa buong magdamag, wala silang isda, kahit na isang piraso!"
+        },
+        {
+            "id": "6-1",
+            "text": "Ang umaga (b. 4) ay hindi tamang oras para sa pangingisda, nguni’t nang ihulog nila ang lambat ayon sa salita ng Panginoon, nakahuli sila ng napakaraming isda. Tiyak na ito ay isang himala! Marahil ay pinagsabihan ng Panginoon ang mga isda na pumasok sa kanilang lambat. Sa Luc. 5:3-11, tinawag ng Panginoon si Pedro sa pamamagitan ng isang himala sa pangingisda. Dito ay Kanya ring pinanumbalik si Pedro sa Kanyang pagtawag sa pamamagitan ng isang himala sa pangingisda. Ang layunin ng Panginoon ay hindi pabagu-bago."
+        },
+        {
+            "id": "7-1",
+            "text": "O, mayroon lamang siyang suot na panloob."
+        },
+        {
+            "id": "8-1",
+            "text": "Yaon ay, mahigit nang kaunti sa isang daang yarda."
+        },
+        {
+            "id": "9-1",
+            "text": "Dito ay sinanay ng Panginoon ang pananampalataya ni Pedro sa Kanya para sa kanyang ikabubuhay. Si Pedro at yaong mga kasama niya ay magdamag na nangisda, subali’t walang nahuli. Pagkatapos, ayon sa salita ng Panginoon, inihagis nila ang kanilang lambat at sila ay nakahuli ng napakaraming isda. Nguni’t kung wala ang mga isdang ito, kahit sa lupa na walang isda, ang Panginoon ay naghanda ng isda at tinapay para sa kanila. Ito na naman ay isang himala! Sa ganito, sinanay sila ng Panginoon upang matanto na kung wala ang Kanyang pangunguna, kahit na sila ay tumungo sa dagat na kinaroroonan ng isda at sa gabi, ang tamang oras para sa pangingisda, wala silang mahuhuli; subali’t kung may pangunguna ng Panginoon, kahit na sa lupa na walang isda, ang Panginoon ay makapagbibigay ng isda para sa kanila. Kahit na marami silang nahuling isda ayon sa salita ng Panginoon, hindi ginamit ng Panginoon ang mga ito upang ipakain sa kanila. Ito ay tunay na isang aral kay Pedro. Para sa kanyang ikabubuhay dapat niyang paniwalaan ang Panginoon na “nagpapairal sa mga bagay na hindi umiiral” (Roma 4:17)."
+        },
+        {
+            "id": "12-1",
+            "text": "Ito ay nagsasaad sa mapagbiyayang pagtutustos ng Panginoon sa pangangailangan ng Kanyang mga tinawag."
+        },
+        {
+            "id": "13-1",
+            "text": "Sa loob ng panustos ng Panginoon, ang tinapay ay kumakatawan sa mga kayamanan ng lupa, at ang isda ay kumakatawan sa mga kayamanan ng karagatan."
+        },
+        {
+            "id": "15-1",
+            "text": "Dito ay ipinanunumbalik ng Panginoon ang pag-ibig ni Pedro sa Kanya. May puso nga si Pedrong umiibig sa Panginoon, subali’t lubha siyang nagtiwala sa kanyang sariling lakas, sa kanyang likas na lakas. Ang pag-ibig niya sa Panginoon ay mahalaga, subali’t kinakailangang tanggihan at tuusin ang kanyang likas na lakas. Hinayaan ng Panginoon na siya ay lubusang mabigo sa kanyang pagkakaila sa Panginoon sa harapan ng Panginoon nang tatlong ulit (18:17, 25, 27), upang ang kanyang likas na lakas at ang kanyang tiwala sa sarili ay matuos. Higit pa rito, kapapasimuno pa lamang niya sa panunumbalik sa dating gawi palayo sa pagtawag ng Panginoon. Ang kanyang pag-ibig sa Panginoon na nagmumula sa kanyang kalikasan at sariling pagtitiwala ay kailangang matuos sa pamamagitan ng katisurang ito; sa ganito, siya marahil ay bahagyang nasiraan ng loob. Samakatuwid, dumating ang Panginoon upang panumbalikin ang kanyang pag-ibig sa Kanya, upang atasan siya sa pagpapastol ng Kanyang ekklesia, at upang ihanda siya para sa kanyang daranasing pagkamartir, nang sa gayon hindi siya sumunod sa Kanya nang may anumang tiwala sa kanyang likas na lakas."
+        },
+        {
+            "id": "15-2",
+            "text": "Gr. agapao."
+        },
+        {
+            "id": "15-3",
+            "text": "Gr. phileo."
+        },
+        {
+            "id": "15-4",
+            "text": "Ang pamumunga sa kapitulo 15 ay ang pag-apaw ng kayamanan ng panloob na buhay. Ang pagpapakain dito sa maliliit na kordero ay ang pagkandili sa pamamagitan ng kayamanan ng panloob na buhay. Upang mapakain ang iba, kailangan nating magtamasa sa kayamanan ng maka-Diyos na buhay ng Panginoon. Ito ay humihiling na tayo ay umibig sa Kanya. Ang manampalataya sa Panginoon ay ang tumanggap sa Kanya; ang umibig sa Panginoon ay ang magtamasa sa Kanya. Ang Panginoon ay dumating bilang buhay at panustos ng buhay para sa atin. Kailangan nating magkaroon ng pananampalataya sa Kanya at pag-ibig sa Kanya. Dito sa Ebanghelyo ni Juan ay ipinakikita sa atin na kung ninanais nating magkaroon ng bahagi sa Panginoon, ang dalawang kahilingang ito ay kinakailangan."
+        },
+        {
+            "id": "15-5",
+            "text": "Lit. maliliit na kordero."
+        },
+        {
+            "id": "16-1",
+            "text": "Gr. agapao."
+        },
+        {
+            "id": "16-2",
+            "text": "Gr. phileo."
+        },
+        {
+            "id": "16-3",
+            "text": "Ang pagpapastol ay para sa “kawan” (10:14, 16), na siyang ekklesia (Gawa 20:28), kaya’t yaon ay kaugnay sa pagtatayo ng Diyos (Mat. 16:18). Paglipas ng ilang panahon, isinaad ito ni Pedro sa kanyang sulat sa pagsasabi na ang paglago, sa pamamagitan ng pag-inom sa dalisay na gatas ng salita, ay para sa pagtatayo ng bahay ng Diyos (I Ped. 2:2-5), at sa pagtatagubilin sa mga matanda na ipastol ang kawan ng Diyos (I Ped. 5:1-4)."
+        },
+        {
+            "id": "16-4",
+            "text": "Ang ilang manuskrito ay isinusulat na “maliliit na tupa.” Gayundin sa b. 17."
+        },
+        {
+            "id": "17-1",
+            "text": "Marahil ang pagtatanong ng Panginoon kay Pedro nang makatlong ulit ay nagpapaalala sa kanya kung paano niya Siya ikinaila nang tatlong ulit."
+        },
+        {
+            "id": "17-2",
+            "text": "Gr. phileo."
+        },
+        {
+            "id": "17-3",
+            "text": "Ang unang pagkabanggit sa salitang “nalalaman” sa bersikulong ito ay oida; at ang ikalawa ay ginosko. Tingnan ang tala 55-1 sa kapitulo 8."
+        },
+        {
+            "id": "18-1",
+            "text": "Marahil ito ay tumutukoy sa kanyang pangingisda sa bersikulo 3."
+        },
+        {
+            "id": "19-1",
+            "text": "Makalipas ang ilang panahon, ito ay tinukoy ni Pedro (II Ped. 1:14). Dito ninanais ng Panginoon na ihanda si Pedro sa pagsunod sa Kanya hanggang kamatayan, hindi sa pamamagitan ng kanyang sarili ni nang ayon sa kanyang sariling kalooban."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang Panginoon ay naroon kasama ang mga disipulo. Paano Niya masasabing hanggang sa pumarito Ako? Yamang Siya ay naroroon, hindi na Niya kailangang pumarito pa. Kung ibig Niyang sabihin na iiwan Niya sila at pagkatapos ay babalik sa kanila, paano Niya masasabing, Sumunod ka sa Akin? Papaano nila Siya masusundan? Ang kasagutan sa lahat ng mga katanungang ito ay ang Kanyang di-nakikitang presensiya. Ayon sa Kanyang nakikitang presensiya, Siya ay aalis at babalik pagkatapos. Subali’t ayon sa Kanyang di-nakikitang presensiya, Siya ay makakasama nila sa lahat ng oras. Sa isang banda Siya ay makakasama nila, at sa kabilang banda Siya ay mapapalayo sa kanila. Kaya’t sa isang banda ay makasusunod sila sa Kanya, at sa kabilang banda sila ay dapat maghintay sa Kanyang pagbabalik. Pagkaraan ng Kanyang pagkabuhay na muli, nanatili ang Panginoon kasama ang mga disipulo sa loob ng apatnapung araw (Gawa 1:3-4) upang sanayin silang matanto, masanay, at mamuhay sa pamamagitan ng Kanyang di-nakikitang presensiya. Sa bersikulo 23, ipinahiwatig ng Panginoon na ilan sa Kanyang mga mananampalataya ay susunod sa Kanya hanggang sa kamatayan at ang ilan ay mananatili, mabubuhay hanggang sa pagbabalik Niya."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang nasasakupan ng mga bagay na tinalakay sa huling dalawang kapitulo ng Ebanghelyong ito ay lubhang malawak. Ito ay nagsisimula sa pagkatuklas ng pagkabuhay na muli ng Panginoon at nagtatapos sa pagbabalik Niya. Sa pagitan ng dalawang pangyayaring ito ay ang lahat ng mga bagay na kaugnay sa buhay-Kristiyano sa kapanahunan ng ekklesia: ang paghahanap sa Panginoon na may pag-ibig tungo sa Kanya; ang pagkakita sa Panginoon ng pagkabuhay na muli; ang pagtanggap sa pahayag ng bunga ng pagkabuhay na muli ng Panginoon hinggil sa “mga kapatid” at sa “Ama” sa pamamagitan ng pagdaranas ng Kanyang pagpapakita; ang pakikipagpulong kasama ang mga mananampalataya upang tamasahin ang presensiya ng Panginoon; ang pagiging nahingahan ng Panginoon ng Espiritu Santo at pagiging isinugo ng Panginoon kasama ang Kanyang pag-aatas at awtoridad upang kumatawan sa Kanya; ang matutuhang mamuhay sa pamamagitan ng pananampalataya sa Panginoon at magtiwala sa Kanya para sa pang-araw-araw na pamumuhay; ang ibigin ang Panginoon ng natuos na likas na lakas; ang pagpapastol sa kawan para sa pagtatayo ng ekklesia; ang pagsasanay sa di-nakikitang presensiya ng Panginoon, kung saan ang ilan ay sumusunod sa Panginoon hanggang kamatayan upang luwalhatiin ang Diyos, hindi sa pamamagitan ng sariling kalooban, kundi nang ayon sa Kanyang paggabay, at ang iba naman ay mabubuhay hanggang sa pagparitong muli ng Panginoon."
+        },
+        {
+            "id": "25-1",
+            "text": "Pinagtitibay ng bersikulong ito, kasama ng 20:30-31, na ang Ebanghelyong ito ay talâ ng isang pagpili ng mga bagay na gumaganap ng pagpapatotoo sa buhay at pagtatayo. Sa ikalawang talata ng tala 1 sa Mateo 28 ay tinalakay na hindi binanggit kapwa ng Ebanghelyo ni Mateo 28 at ng Ebanghelyo ni Juan ang pag-akyat sa langit ng Panginoon. Ang dahilan nito ay, nang mabuhay na muli ang Panginoon, ang Panginoon ay nanatiling kasama ng Kanyang mga mananampalataya dito sa lupa hanggang sa katapusan ng kapanahunang ito; ang panahon ng Kanyang pagpapakita sa loob ng kaluwalhatian (I Ped. 1:7; II Tes. 1:6) ay ang panahon din ng Kanyang pagdating dito sa lupa sa loob ng Kanyang nakikitang presensiya (Mat. 16:27) upang itatag ang Kanyang nakikitang kaharian. Ipinahahayag at ipinapatotoo ng Ebanghelyo ni Mateo na ang Panginoon ay ang espirituwal na Hari ng di-nakikitang kaharian; pagkatapos ng Kanyang pagkabuhay na muli, nagpatuloy Siyang maging kasama ang mga tao ng Kanyang makalangit na kaharian dito sa lupa sa pamamagitan ng Kanyang di-nakikitang presensiya na nasa loob ng Kanyang Espiritu ng pagkabuhay na muli. Sa gayon, hindi binanggit ang bagay ng Kanyang paglisan sa lupa upang umakyat sa langit. Ipinahahayag at ipinapatotoo ng Ebanghelyo ni Juan na ang Panginoon ay ang Tres-unong Diyos na naging laman (1:14), naging Kordero ng Diyos (1:29), dahil sa tao nagsakatuparan ng kamatayan na nagtutubos sa kasalanan at nagbagong-anyo sa loob ng pagkabuhay na muli upang maging Espiritung nagbibigay-buhay (I Cor. 15:45), pumasok sa loob ng mga yaong nagsisampalataya tungo sa loob Niya, naging kanilang buhay at kailanman ay hindi na hihiwalay pa sa kanila hanggang sa kawalang-hanggan. Sa gayon, hindi rin maaaring banggitin ang bagay ng Kanyang pag-akyat patungo sa langit. Higit pa rito, ang apat na ebanghelyo ay ang kumpletong pahayag tungkol sa kung papaano kinumpleto ng Tres-unong Diyos ang Kristo. Ang pagkatalâ ng Ebanghelyo ni Juan sa panig na ito ay ubod nang linaw. Ipinakita nito sa atin na: yaong Kristo na pinahiran ng Diyos, tumanggap ng pag-aatas ng Diyos, nagsakatuparan ng walang hanggang layunin ng Diyos, ay kinumpleto sa pamamagitan ng pagiging laman ng Tres-unong Diyos, nakipag-isa sa tao at nagsakatuparan ng pagtutubos sa pamamagitan ng Kanyang kamatayan sa laman, at nagbagong-anyo sa pamamagitan ng pagkabuhay na muli, naging Espiritu upang pumasok sa mga mananampalataya (20:22), at naging kaisa nila upang maipagkaisa sila sa Tres-unong Diyos (17:21). Sa gayon Siya ay naging Kristo na Diyos na nagsakatawan, may kakayahang mag-alis ng mga kasalanan ng tao, pumasok sa loob ng tao bilang buhay upang sila ay gawing mga anak ng Diyos, maging Kanyang mga sangkap na bumubuo ng Kanyang Katawan bilang ang kumpletong kahayagan ng Tres-unong Diyos; sa loob nila, Siya ang naging lahat ng realidad nila at kasa-kasama nila sa di-nakikitang presensiya hanggang sa matubos ang kanilang katawan at mabagong-anyo, makapasok sa loob ng Kanyang nakikitang presensiya, lubusang makaisa Niya, makatulad Niya maging ang matutupad sa darating na panahon na Bagong Herusalem na siyang pinananahanang lugar ng isa’t isa, ng Tres-unong Diyos at ng Kanyang mga tinubos na tao hanggang sa kawalang-hanggan."
         }
     ]
 }

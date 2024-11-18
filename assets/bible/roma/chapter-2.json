@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,10 +7,12 @@
             "footnotes": [
                 {
                     "word": "humahatol;",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "B. Sa Partikular-sa mga Nagmamatuwid-sa-sarili\n 2:1-16"
+            ]
         },
         {
             "id": "2",
@@ -18,11 +20,11 @@
             "footnotes": [
                 {
                     "word": "hatol",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -33,7 +35,7 @@
             "footnotes": [
                 {
                     "word": "humahatol",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -62,7 +64,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -73,7 +75,7 @@
             "footnotes": [
                 {
                     "word": "katotohanan,",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -114,7 +116,7 @@
             "footnotes": [
                 {
                     "word": "likas",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -125,7 +127,7 @@
             "footnotes": [
                 {
                     "word": "budhi,",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -142,14 +144,16 @@
             "footnotes": [
                 {
                     "word": "Nguni’",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "nagmamapuri",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "C. Sa Natatangi-sa mga Relihiyoso\n 2:17-3:8"
+            ]
         },
         {
             "id": "18",
@@ -157,7 +161,7 @@
             "footnotes": [
                 {
                     "word": "pagkabatid",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -174,7 +178,7 @@
             "footnotes": [
                 {
                     "word": "bata,",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -185,7 +189,7 @@
             "footnotes": [
                 {
                     "word": "Ikaw",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -232,7 +236,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -243,26 +247,96 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "29-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "29-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "O namimintas, katulad ng sa sumunod na teksto."
+        },
+        {
+            "id": "2-1",
+            "text": "Tumutukoy sa walang hanggang paghahatol ng Diyos, na pangunahing isasagawa sa malaking puting luklukan, na binanggit sa Apoc. 20:11-15. Tingnan ang tala 10-1 sa kap. 14."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang katotohanan dito at sa mga bersikulo 8 at 20 ay tumutukoy sa realidad ng Diyos, ng sansinukob, ng tao, na ukol sa kaugnayan ng tao sa Diyos, sa kaugnayan ng tao sa tao, sa responsabilidad ng tao sa Diyos, atbp. na inihayag sa pamamagitan ng mga nilikha at ng Bibliya; ito rin ay tumutukoy sa aktuwal na kondisyon at situwasyon ng sangkatauhan; ito marahil ang mga kondisyon o kahilingan ng paghahatol ng Diyos sa tao na binanggit sa nilalaman ng mga kasunod na bersikulo (bb. 6-15). Ayon sa mga kondisyong ito ay matuwid na isasagawa ng Diyos ang Kanyang paghahatol."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 2-1 ng bersikulo 2. Gayundin ang mga bersikulo 5, 16."
+        },
+        {
+            "id": "7-1",
+            "text": "Mula sa bersikulo 7 hanggang bersikulo 10 ay ang mga pangunahing kondisyon o kahilingan ng walang hanggang paghahatol ng Diyos."
+        },
+        {
+            "id": "8-1",
+            "text": "Tingnan ang tala 2-2 ."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang kalikasan ng taong nilikha ng Diyos ay katutubong mabuti, ito ay tumutugon sa Diyos at sa kautusan ng Diyos; bagama’t ito ay nalason sa pamamagitan ng pagkatisod, ang mabuting kalikasang ito ay nananatili pa rin sa loob ng tao. Kaya nga, kung ang tao ay namumuhay nang ayon sa kanyang kalikasan at sumusunod sa mga kautusan sa pamamagitan ng kanyang kalikasan, ang masamang nasa kanyang loob ay kanyang masasawata."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang budhi ng tao ay tumutugma sa kalikasang nilikha ng Diyos, napagkikilala niya ang mga bagay na inaaring matuwid ng Diyos at ang mga bagay na hinahatulan ng Diyos."
+        },
+        {
+            "id": "17-1",
+            "text": "Sa talatang ito, kung saan ay tinutuligsa ni Pablo ang mga relihiyoso, una niyang tinukoy na ang mga Hudyo, na mga kinatawan ng mga relihiyoso, ay kaawa-awa. Sila ay mayroon lamang mga makarelihiyong rituwal at kahungkagan ng titik at kaalaman, nguni’t walang Diyos bilang kanilang realidad."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang pagkakilala ng relihiyong Hudyo sa Diyos ay sa panlabas lamang, sa pang-obhektibo, hindi sa panloob, hindi sa pang-subhektibo. Ipinakikita nito na ang relihiyon ay walang kabuluhan; *kaya, hindi sila dapat magmapuri.*"
+        },
+        {
+            "id": "18-1",
+            "text": "Pinahahalagahan ang mga bagay na higit na ekselente o napagkikilala ang mabuti, ang tama sa mali."
+        },
+        {
+            "id": "20-1",
+            "text": "Sa Griyego kasing kahulugan ng sa Efe. 4:14, mga bata at sa Gal. 4:1, bata."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang isinasagawa ng mga relihiyosong tao ay kasing sama niyaong mga isinasagawa ng mga taong walang relihiyon. Inihahantad nito ang kawalang-kabuluhan ng kanilang relihiyon. Tingnan ang tala 17-1 ."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang makarelihiyong gawain, katulad ng pagtutuli, ay “sa labas lamang” na anyo, hindi realidad. Tingnan ang tala 17-1 ."
+        },
+        {
+            "id": "29-1",
+            "text": "Nakakubli sa loob."
+        },
+        {
+            "id": "29-2",
+            "text": "Lahat ng kung ano tayo at mayroon tayo ay kinakailangang nasa espiritu, ito ang mag-iingat sa atin, magliligtas sa atin mula sa kawalang kabuluhan ng relihiyon. Tingnan ang tala 9-2 sa kapitulo 1. Lahat ng realidad ng espirituwal na bagay ay nasa Espiritu ng Diyos at ang Espiritu ng Diyos ay nasa ating espiritu; kaya nga, lahat ng realidad ng espirituwal na bagay ay nararapat na nasa loob ng ating espiritu, walang anumang bagay na realidad ang nasa labas ng ating espiritu. Yamang ito ay pawang nasa loob ng ating espiritu, ang anumang bagay na wala sa loob ng ating espiritu ay walang kabuluhan. Lahat ng kung ano ang Diyos ay nasa loob ng ating espiritu."
+        },
+        {
+            "id": "29-3",
+            "text": "Lit. mula sa."
         }
     ]
 }

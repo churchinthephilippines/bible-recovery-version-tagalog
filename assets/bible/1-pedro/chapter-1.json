@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,27 +7,27 @@
             "footnotes": [
                 {
                     "word": "Pedro,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "apostol",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "hinirang",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "nakikipamayang",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "pangangalat",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "Ponto,",
-                    "note": ""
+                    "id": "1-6"
                 }
             ],
             "outlines": [
@@ -40,39 +40,39 @@
             "footnotes": [
                 {
                     "word": "Ayon",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "paunang-",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "pagpapabanal",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "pagtalima",
-                    "note": ""
+                    "id": "2-5"
                 },
                 {
                     "word": "pagwiwisik",
-                    "note": ""
+                    "id": "2-6"
                 },
                 {
                     "word": "Biyaya",
-                    "note": ""
+                    "id": "2-7"
                 },
                 {
                     "word": "kapayapaan",
-                    "note": ""
+                    "id": "2-8"
                 },
                 {
                     "word": "maparami.",
-                    "note": ""
+                    "id": "2-9"
                 }
             ],
             "outlines": null
@@ -83,31 +83,31 @@
             "footnotes": [
                 {
                     "word": "Pagpalain",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "awa",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "nagsilang",
-                    "note": ""
+                    "id": "3-4"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "3-5"
                 },
                 {
                     "word": "buháy",
-                    "note": ""
+                    "id": "3-6"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "3-7"
                 }
             ],
             "outlines": [
@@ -121,19 +121,19 @@
             "footnotes": [
                 {
                     "word": "Tungo",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "manang",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "inilaan",
-                    "note": ""
+                    "id": "4-4"
                 }
             ],
             "outlines": null
@@ -144,27 +144,27 @@
             "footnotes": [
                 {
                     "word": "iniingatan",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "5-4"
                 },
                 {
                     "word": "kaligtasan",
-                    "note": ""
+                    "id": "5-5"
                 },
                 {
                     "word": "huling",
-                    "note": ""
+                    "id": "5-6"
                 }
             ],
             "outlines": null
@@ -175,11 +175,11 @@
             "footnotes": [
                 {
                     "word": "saan",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "pagsubok,",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -190,23 +190,23 @@
             "footnotes": [
                 {
                     "word": "pagsubok",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "mahalaga",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "7-4"
                 },
                 {
                     "word": "paghahayag",
-                    "note": ""
+                    "id": "7-5"
                 }
             ],
             "outlines": null
@@ -217,15 +217,15 @@
             "footnotes": [
                 {
                     "word": "iniibig;",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "sinasampalatayanan,",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "puspos",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -236,11 +236,11 @@
             "footnotes": [
                 {
                     "word": "Na",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "kaluluwa",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -251,11 +251,11 @@
             "footnotes": [
                 {
                     "word": "propeta,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "biyayang",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": [
@@ -268,27 +268,27 @@
             "footnotes": [
                 {
                     "word": "nagsisiyasat",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "kailan",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "ni",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "pagbabatá",
-                    "note": ""
+                    "id": "11-4"
                 },
                 {
                     "word": "ni",
-                    "note": ""
+                    "id": "11-5"
                 },
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "11-6"
                 }
             ],
             "outlines": null
@@ -299,15 +299,15 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "nagsipahayag",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "mamasdan",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -318,15 +318,15 @@
             "footnotes": [
                 {
                     "word": "Kaya’t",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "mahinahon",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "pag-asa",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": [
@@ -339,7 +339,7 @@
             "footnotes": [
                 {
                     "word": "mapawangis",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -350,11 +350,11 @@
             "footnotes": [
                 {
                     "word": "Banal",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "magpakabanal",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -371,19 +371,19 @@
             "footnotes": [
                 {
                     "word": "Ama",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "humahatol",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "gawa",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "pagkatakot,",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -394,11 +394,11 @@
             "footnotes": [
                 {
                     "word": "pilak",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -409,7 +409,7 @@
             "footnotes": [
                 {
                     "word": "mahalagang",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -420,11 +420,11 @@
             "footnotes": [
                 {
                     "word": "nakilala",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "huling",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -435,15 +435,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "nagbigay",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "21-3"
                 }
             ],
             "outlines": null
@@ -454,23 +454,23 @@
             "footnotes": [
                 {
                     "word": "nilinis",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "kaluluwa",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "22-3"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "22-4"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "22-5"
                 }
             ],
             "outlines": null
@@ -481,11 +481,11 @@
             "footnotes": [
                 {
                     "word": "Yamang",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "binhing",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -496,7 +496,7 @@
             "footnotes": [
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -507,18 +507,360 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "ebanghelyo.",
-                    "note": ""
+                    "id": "25-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tinutukoy ang kanyang naisilang na muli at espiritwal na tao, hindi bilang si Simon na tinutukoy ang kanyang likas na tao sa kapanganakan sa laman (Juan 1:42; Mat. 16:17-18)."
+        },
+        {
+            "id": "1-2",
+            "text": "Isang apostol sa mga Hudyo (Gal. 2:8)."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang dalawang Sulat ni Pedro (2 Ped. 3:1) ay nahihinggil sa pamahalaan ng Diyos. Ang pamahalaan ng Diyos ay pansansinukob, tumutuos sa lahat ng Kanyang mga nilikha upang Siya ay magkaroon ng isang malinis at dalisay na sansinukob (2 Ped. 3:13) nang sa gayon ay maihayag ang Kanyang Sarili. Sa kapanahunan ng Bagong Tipan, ang pagtutuos na ito ay nagsisimula sa Kanyang hinirang na bayan, ang Kanyang pinili, ang Kanyang sambahayan (4:17), lalo na sa Kanyang mga hinirang na nakikipamayang nasa pangangalat at naglalakbay sa mga bansa, sa mga Hentil, bilang Kanyang patotoo. Kaya, ang dalawang aklat na ito ay nagbibigay-diin na ang mga mananampalataya ay hinirang (2:9; 5:13; 2 Ped. 1:10). Bilang lahing hinirang ng Diyos, pili ng Diyos, natatanging mana ng Diyos, kailangang makita ng mga nasa pangangalat na mga hinirang na nakikipamayan na sila ay nasa ilalim ng pampamahalaang pagtutuos ng Diyos para sa isang positibong layunin, anuman ang situwasyon at kapaligirang kinaroroonan nila. Anumang bagay at lahat ng bagay na nangyayari sa kanila, maging pag-uusig o anumang uri ng pagsubok at pagdurusa (b. 6; 5:9), ay bahagi lamang ng mahalagang pampamahalaang pagtutuos ng Diyos. Ang gayong pangitain ay magpapasakdal, magpapatibay, magpapalakas, at magtatatag ng saligan sa kanila (5:10) upang sila ay lumago sa biyaya (2 Ped. 3:18)."
+        },
+        {
+            "id": "1-4",
+            "text": "O, mga manlalakbay. Sa mahigpit na pagsasalita, sa aklat na ito, ang katawagang ito ay tumutukoy sa mga mananampalatayang Hudyong manlalakbay, mga banyagang nakakalat sa daigdig ng mga Hentil (2:11-12). Gayunpaman, ang prinsipyo ng mga manlalakbay ay magagamit sa lahat ng mananampalataya, kapwa sa Hudyo at sa Hentil, sapagkat ang lahat ng mananampalataya ay pawang mga makalangit na manlalakbay na naglalakbay bilang mga banyaga sa lupang ito. Ang mga manlalakbay na ito ay pinili ng Diyos, hinirang ng Diyos mula sa lahi ng tao, mula sa lahat ng mga bansa (Apoc. 5:9-10), ayon sa Kanyang paunang-kaalaman (b. 2)."
+        },
+        {
+            "id": "1-5",
+            "text": "Isang katawagang karaniwan sa lahat ng mga Hudyong nakakalat sa mga bansa, nagpapakita na ang Sulat na ito ay isinulat sa mga mananampalatayang Hudyo. Ito ay mula sa salitang Griyego na nangangahulugang ikalat o ipalaganap sa ibang bansa, na may ugat na nangangahulugang ihasik. Ito ay nagpapakita na ang mga Hudyong nakakalat ay inihasik gaya ng mga binhi sa mga Hentil."
+        },
+        {
+            "id": "1-6",
+            "text": "Ang limang lalawigan na binanggit dito ay pawang nasa Asia Menor na nasa pagitan ng Dagat na Itim at ng Dagat Mediteraneo."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang pariralang ito ay tumutukoy sa “mga hinirang” sa bersikulo 1. Dito, ang dibinong ekonomiya sa pamamagitan ng paggawa ng Trinidad ng Pamunuang Diyos para sa pakikibahagi ng mga mananampalataya sa Tres-unong Diyos ay ipinakita. Ang pagpili ng Diyos Ama ay ang pasimula; ang pagpapabanal ng Diyos Espiritu ay ang pagsasagawa ng pagpili ng Diyos Ama; at ang katubusang sinasagisag ng dugong iwinisik ng Diyos Anak ay ang pagkukumpleto. Sa pamamagitan ng mga hakbanging ito ang mga mananampalataya ay pinili, pinabanal, at tinubos tungo sa loob ng pagtatamasa sa Tres-unong Diyos – ang Ama, ang Anak, at ang Espiritu—na kung Kanino sila ay naipaloob sa pagkabautismo sa kanila (Mat. 28:19) at kung ang Kaninong katangian ay kanilang tinatamasa. (2 Cor. 13:14)."
+        },
+        {
+            "id": "2-2",
+            "text": "Hinirang tayo ng Diyos bago pa itatag ang sanlibutan, sa kawalang-hanggang lumipas (Efe. 1:4). Kaya, ang Kanyang dibinong paunang-kaalaman ay nagamit."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang pagpapabanal ng Espiritu rito ay hindi tumutukoy sa pagpapabanal ng Espiritu pagkaraan ng pagkaaring-matuwid sa pamamagitan ng pagtutubos ni Kristo, katulad ng ipinahayag sa Roma 6:19, 22; 15:16. Dito, ang pagpapabanal ng Espiritu, bilang ang pangunahing binibigyang-diin sa kapitulong ito, isang pagdidiin ukol sa kabanalan (bb. 15-16), ay nauna pang nangyari sa pagtalima kay Kristo, sa pananampalataya sa pagtutubos ni Kristo, yaon ay, nauna pang nangyari sa pagkakaaring-matuwid sa pamamagitan ng pagtutubos ni Kristo (1 Cor. 6:11), nagpapakita na ang pagtalima ng mga mananampalataya tungo sa pananampalataya kay Kristo ay nagreresulta mula sa pagpapabanal na gawain ng Espiritu. Ang pagpapabanal ng Espiritu sa dalawang aspekto nito ay pangkalahatang ipinahayag sa 2 Tes. 2:13, na para sa ganap na pagliligtas ng Diyos sa Kanyang hinirang na bayan. Ang ganap na pagliligtas ng Diyos ay isinasagawa sa kinasasaklawan ng pagpapabanal ng Espiritu."
+        },
+        {
+            "id": "2-4",
+            "text": "Tatlong iba’t ibang pang-ukol ang ginamit para sa tatlong hakbangin na ginawa ng Tres-unong Diyos upang madala ang Kanyang mga hinirang tungo sa pakikibahagi sa Kanyang ganap na pagliligtas: kata, ayon sa, tinutukoy ang batayan, ang tuntungan; en, sa, ang kinasasaklawan; at eis, hanggang, tungo sa, ang katapusan, ang resulta. Ang pagtalima ng mga mananampalataya sa pananampalataya (Roma 1:5; 16:26) sa pagtubos ni Kristo at ang paggamit ng pagwiwisik ng dugo sa kanila ay ang resulta ng pagpapabanal ng Espiritu batay sa pagpili ng Diyos Ama."
+        },
+        {
+            "id": "2-5",
+            "text": "Sa Bagong Tipang kapanahunan ay nariyan ang dugo ni Hesus na laban sa dugo ng mga haing hayop sa Lumang Tipang kapanahunan. Ang mga mananampalatayang Hudyo ay bihasa na sa pagsunod sa Lumang Tipang kapanahunan at sa pagwiwisik ng dugo ng haing hayop, gayunpaman, dapat nilang malaman ngayon na ang kapanahunan ay nagbago na; ang kautusan ni Moises at ang dugo ng mga haing hayop ay nahalinhan sa Bagong Tipang kapanahunan ng persona ni Kristo at ng Kanyang dugo. Ang pagkatantong ito ay nagbubunga ng pagsunod ng mga banal kay Hesu-Kristo, at ng pagwiwisik ng Kanyang dugo sa kanila."
+        },
+        {
+            "id": "2-6",
+            "text": "Sa tipolohiya, ang pagwiwisik ng nagbabayad na dugo ay nagdadala sa mga nawisikang tao patungo sa lumang tipan (Exo. 24:6-8). Gayundin, ang pagwiwisik ng nagtutubos na dugo ni Kristo ay nagdadala sa mga nawisikang mananampalataya tungo sa pagpapala ng bagong tipan, yaon ay, tungo sa buong katamasahan sa Tres-unong Diyos (Heb. 9:13-14). Ito ay isang kapansin-pansing palatandaan na naghihiwalay sa mga nawisikang tao mula sa mga pangkaraniwang taong walang Diyos."
+        },
+        {
+            "id": "2-7",
+            "text": "Tingnan ang tala 2-1 sa Efeso 1."
+        },
+        {
+            "id": "2-8",
+            "text": "Tingnan ang tala 2-2 sa Efeso 1."
+        },
+        {
+            "id": "2-9",
+            "text": "Ang pinaraming biyaya ay tumutugma sa iba’t ibang biyaya (4:10) at sa buong biyaya (5:10). Ang mga mananampalataya ay nakatanggap ng pangunang biyaya, gayunpaman ang biyayang ito ay kinakailangang maparami sa kanila upang sila ay makabahagi sa buong biyaya."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 3-1 sa Efe. 1."
+        },
+        {
+            "id": "3-2",
+            "text": "Tingnan ang mga tala 3-2 at 17-1 sa Efe. 1."
+        },
+        {
+            "id": "3-3",
+            "text": "Tingnan ang tala 13-3 sa 1 Tim. 1."
+        },
+        {
+            "id": "3-4",
+            "text": "Ang pagsisilang na muli, katulad ng pagtutubos at pag-aaring matuwid, ay isang aspekto ng ganap na pagliligtas ng Diyos. Nilulutas ng pagtutubos at ng pag-aaring matuwid ang ating suliranin sa Diyos at ipinagkakasundo tayo sa Diyos; binibigyang buhay naman tayo ng pagsisilang na muli sa pamamagitan ng buhay ng Diyos, dinadala tayo paloob sa pambuhay na kaugnayan, yaon ay, sa isang organikong pakikipagkaisa sa Diyos. Kaya, ito ay naghahatid at nagreresulta sa isang buháy na pag-asa. Ang gayong pagkasilang na muli ay nangyayari sa pamamagitan ng pagkabuhay na muli ni Kristo mula sa mga patay. “Ang pagkabuhay na muli ni Kristo na nagdadala ng buhay at ng kaloob ng Espiritung nagbibigay buhay, ay yaong nagpapalakas sa bagong pagsilang tungo sa loob ng isang buháy na pag-asa”-Alford."
+        },
+        {
+            "id": "3-5",
+            "text": "Humahantong sa, nagreresulta sa, na may isang pananaw sa."
+        },
+        {
+            "id": "3-6",
+            "text": "Isang pag-asa sa ating paglalakbay ngayon para sa hinaharap, hindi pag-asa ukol sa mga bagay na obhektibo, subali’t isang pag-asa ukol sa buhay, maging ang buhay na walang hanggan, na kasama ang lahat ng mga dibinong bagay na walang katapusan. Ito ay ang pag-asang dapat nating pagtuunan nang lubos ukol sa darating na biyaya (b. 13). Ang pag-asa na buháy at ng buhay na inihatid ng pagsilang na muli sa mga naisilang na muling mananampalataya, ay itinulad sa iba’t ibang pag-asang dinala ng mga bagong silang na sanggol sa kanilang mga magulang hinggil sa kanilang hinaharap. Ang lahat ng ito ay nababatay sa buhay ng bagong silang na sanggol. Gayundin, ang buhay na natamo ng mananampalataya mula sa kanyang pagkasilang na muli, ay nagsasanhi rin sa mananampalataya na magkaroon ng iba’t iba at malalawig na pag-asa sa panahon ngayon, sa darating na panahon, at sa kawalang-hanggan. Para sa panahon ngayon, ang ilan sa iba’t iba at malalawig na pag-asa ay ang paglago at paggulang sa buhay, ang kahayagan ng mga kaloob, ang kakayahang magpangsyon, matransporma, manaig, matubos ang katawan, at makapasok sa kaluwalhatian; sa darating na panahon ay ang pagpasok sa kaharian, ang pagiging mga kasamang-hari ni Kristo, at ang pagtatamasa sa pagpapala at kagalakan ng buhay na walang hanggan sa katuparan ng kaharian ng mga langit; sa walang hanggang panahon ay ang masaganang pakikibahagi sa sukdulang pagpapala at kagalakan ng walang hanggang buhay ng Diyos sa sukdulang kahayagan nito. Ang lahat ng pag-asang ito na buháy at ng buhay ay nasa buhay na walang hanggan na natamo ng mananampalataya sa pagkasilang na muli. Ang dibinong buhay lamang na ito ang makapagpapalago sa mga mananampalataya sa buhay na ito, hanggang ang paglago ay umabot sa realidad ng pag-asang dinadala ng buhay na ito, sa gayon ay nagsasanhi sa mga mananampalataya na matamo ang nabanggit na pagpapala at kagalakan, upang kanilang maging manang di-nasisira at walang dungis at hindi kumukupas at walang hanggan (bb. 3-4)."
+        },
+        {
+            "id": "3-7",
+            "text": "Nang si Kristo ay nabuhay na muli, tayo, ang Kanyang mga mananampalataya, ay nakabilang na lahat sa Kanya. Kaya, tayo rin ay nabuhay na muli kasama Niya (Efe. 2:6). Sa Kanyang pagkabuhay na muli, ipinamahagi Niya ang dibinong buhay tungo sa loob natin at ginawa tayong katulad Niya (tingnan ang tala 17-3 sa Juan 20). Ito ang pangunahing salik ng ating pagkasilang na muli.,"
+        },
+        {
+            "id": "4-1",
+            "text": "Ang “tungo sa isang manang di-nasisira” rito ay isang pagpapaliwanag sa “tungo sa isang buháy na pag-asa” sa b. 3. Ang buháy na pag-asa na nagreresulta mula sa pagkasilang na muli ay ang ating inaasahang pagpapala sa darating na kapanahunan; ang mana ay ang katuparan ng ating pag-asa sa darating na kapanahunan at sa kawalang-hanggan."
+        },
+        {
+            "id": "4-2",
+            "text": "Tingnan ang tala 32-3 sa Gawa 20 at tala 18-6 sa Gawa 26. Ang mana rito ay binubuo ng darating na kaligtasan ng ating mga kaluluwa sa bb. 5 at 9, ang biyaya na matatanggap sa pagpapakita ng Panginoon sa b. 13, ang kaluwalhatiang ihahayag sa 5:1, ang di-kumukupas na putong ng kaluwalhatian sa 5:4, at ang walang hanggang kaluwalhatian sa 5:10. Ang lahat ng bagay na ito ng ating walang hanggang mana ay nauugnay sa dibinong buhay na ating tinanggap sa pamamagitan ng pagkasilang na muli at siyang ating nararanasan at natatamasa sa buong buhay-Kristiyano natin. “Ang manang ito ay ang ganap na pagtatamo ng ipinangako kay Abraham at sa lahat ng mananampalataya (Gen. 12:3; tingnan ang Gal. 3:6), isang mana, na higit na mataas kaysa pagkaangkin ng mga anak ni Israel sa Canaan. Gayundin naman higit na mataas ang pagka-anak ng mga isinilang na muli sa pagka-anak ng mga Israelita; sapagkat ang mga naisilang na muli ay nakatanggap na ng pangako ng Espiritu sa pamamagitan ng pananampalataya bilang garantiya ng kanilang mana. Ihambing sa Gal. 3:18, 29; 1 Cor. 6:9; Efe. 5:5; Heb. 9:15”-Wiesinger, sinipi ni Alford."
+        },
+        {
+            "id": "4-3",
+            "text": "“Di-nasisira” sa substansiya, di-nagigiba, hindi nabubulok;”walang dungis” sa kadalisayan, walang mantsa; “di-kumukupas sa ganda” at kaluwalhatian, hindi nalalanta. Ang mga ito ay ang mga nangingibabaw na katangian ng ating walang hanggang mana sa buhay. Ang mga katangiang ito ay dapat na maiugnay sa dibinong Trinidad: “di-nasisira” sa kalikasan ng Ama katulad ng ginto, “walang dungis” sa kalagayang iniingatan ng nagpapabanal na gawain ng Espiritu, at “di-kumukupas” sa maluwalhating kahayagan ng Anak."
+        },
+        {
+            "id": "4-4",
+            "text": "Inilaan bilang resulta ng pagkakaingat."
+        },
+        {
+            "id": "5-1",
+            "text": "Isang katawagang pangmilitar. Lit. ginagarison."
+        },
+        {
+            "id": "5-2",
+            "text": "Lit. sa, sa katangian ng; kaya, sa pamamagitan ng."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang kapangyarihan ng Diyos ay ang sanhi kung bakit tayo naiingatan. Ang pananampalataya ay ang pangalawang paraan kaya ang kapangyarihan ng Diyos ay nagiging mabisa sa pag-iingat sa atin."
+        },
+        {
+            "id": "5-4",
+            "text": "Tatlong pang-ukol ang ginamit dito hinggil sa ating darating na kaligtasan; ng, sa pamamagitan, at tungo sa. Ang “ng” ay tumutukoy sa sanhi, ang “sa pamamagitan” ay tumutukoy sa paraan, at ang “tungo sa” ay tumutukoy sa resulta."
+        },
+        {
+            "id": "5-5",
+            "text": "Hindi kaligtasan mula sa walang hanggang kapahamakan, kundi kaligtasan ng ating mga kaluluwa mula sa pampanahunang pagpaparusa ng pampamahalaang pagtutuos ng Panginoon (b. 9 at tala 2). Ang ganap na pagliligtas ng Tres-unong Diyos ay binubuo ng maraming bagay sa tatlong hakbangin: 1) Ang simulang yugto, ang yugto ng pagsilang na muli, na binubuo ng pagtutubos, pagpapabanal, (pamposisyon—b. 2; 1 Cor. 6:11), pag-aaring-matuwid, pakikipagkasundo, at pagsilang na muli. Sa yugtong ito, inaring-matuwid tayo ng Diyos sa pamamagitan ng pagtutubos ni Kristo (Roma 3:24-26), at tayo ay isinilang na muli sa ating espiritu ng Kanyang buhay sa pamamagitan ng Kanyang Espiritu (Juan 3:3-6). Sa gayon, tayo ay nakatanggap ng walang hanggang kaligtasan ng Diyos (Heb. 5:9) at ng Kanyang walang hanggang buhay (Juan 3:15), at naging Kanyang mga anak (Juan 1:12-13), na hindi na mapapahamak kailanman (Juan 10:28-29). Ang pangunang kaligtasang ito ang nagligtas sa atin mula sa paghahatol ng Diyos at mula sa walang hanggang kapahamakan (Juan 3:18, 16). 2) Ang umuunlad na yugto, ang yugto ng transpormasyon, na binubuo ng kalayaan mula sa kasalanan, pagpapabanal (sa pangunahin ay pandisposisyon—Roma 6:19, 22), paglago sa buhay, transpormasyon, pagtatayo, at paggulang. Sa yugtong ito, pinalalaya tayo ng Diyos mula sa kapangyarihan ng nananahanang kasalanan-ang kautusan ng kasalanan at kamatayan—sa pamamagitan ng kautusan ng Espiritu ng buhay, sa pamamagitan ng bisa ng kamatayan ni Kristo na gumagawa sa atin nang pansubhektibo (Roma 6:6-7; 7:16-20; 8:2); pinababanal tayo ng Kanyang Espiritu Santo (Roma 15:16), na kasama ang Kanyang banal na kalikasan, sa pamamagitan ng Kanyang disiplina (Heb. 12:10) at ng Kanyang paghatol sa Kanyang Sariling sambahayan (4:17); sinasanhi tayong lumago sa Kanyang buhay (1 Cor. 3:6-7); tinatransporma tayo sa pagbabago ng mga panloob na bahagi ng ating kaluluwa sa pamamagitan ng Espiritung nagbibigay-buhay (2 Cor. 3:6, 17-18; Roma 12:2; Efe. 4:23) sa pamamagitan ng paggawa ng lahat ng bagay (Roma 8:28); itinatayo tayo nang sama-sama tungo sa isang espiritwal na templo para sa Kanyang pananahan (2:5; Efe. 2:22); at pinagugulang tayo sa Kanyang buhay (Apoc. 14:15 at mga tala) para sa pagsasakatuparan ng Kanyang ganap na pagliligtas. Sa gayon, tayo ay unti-unting naliligtas mula sa kapangyarihan ng kasalanan, sanlibutan, laman, sarili, kaluluwa (ang likas na buhay), at pagiging mapag-isa, tungo sa paggulang sa dibinong buhay para sa katuparan ng walang hanggang layunin ng Diyos. 3) ang nagkukumpletong yugto, ang yugto ng pagluluwalhati, na binubuo ng katubusan (pagbabagong-anyo) ng ating katawan, pagwawangis sa anyo ng Panginoon, pagluluwalhati, pagmamana ng kaharian ng Diyos, pakikilahok sa pagkahari ni Kristo, at ang pinakamataas na katamasahan sa Panginoon. Sa yugtong ito, tutubusin ng Diyos ang ating natisod at nasirang katawan (Roma 8:23) sa pagbabagong-anyo nito tungo sa katawan ng kaluwalhatian ni Kristo (Fil. 3:21); ihuhubog tayo sa maluwalhating larawan ng Kanyang panganay na Anak (Roma 8:29), ginagawa tayong buo at ganap na katulad Niya sa ating naisilang na muling espiritu, natranspormang kaluluwa, at nabagong-anyong katawan; at luluwalhatiin tayo (Roma 8:30), ibinababad tayo sa Kanyang kaluwalhatian (Heb. 2:10) upang tayo ay makapasok sa Kanyang makalangit na kaharian (2 Tim. 4:18; 2 Ped. 1:11), na kung saan tayo ay tinawag Niyang paloob (1 Tes. 2:12), at manahin ang kahariang ito bilang ang pinakamataas na bahagi ng Kanyang pagpapala (Sant. 2:5; Gal. 5:21), maging ang magharing kasama ni Kristo, upang maging Kanyang mga kasamang-hari, nakikilahok sa Kanyang pagkahari at paghahari sa mga bansa (2 Tim. 2:12; Apoc. 20:4, 6; 2:26-27; 12:5), at nakikibahagi sa Kanyang maharlika, makaharing kagalakan sa Kanyang dibinong pamahalaan (Mat. 25:21, 23). Sa gayon, ang ating katawan ay mapapalaya mula sa pagkaalipin ng kabulukan ng lumang paglikha tungo sa kalayaan ng kaluwalhatian ng bagong paglikha ng Diyos (Roma 8:21), at ang ating kaluluwa ay mapapalaya mula sa kinasasaklawan ng mga pagsubok at pagdurusa (b. 6; 4:12; 3:14; 5:9) tungo sa isang bagong kinasasaklawan na punung-puno ng kaluwalhatian (4:13; 5:10), nakikibahagi at tinatamasa ang lahat ng kung ano ang Tres-unong Diyos, at kung ano ang taglay Niya, at kung ano ang nagawa, natamo, at nakamit Niya. Ito ang kaligtasan, ang pagkaligtas ng ating mga kaluluwa, na handang mahayag sa atin sa huling panahon, ang biyayang dadalhin sa atin sa pagpapakita ni Kristo sa kaluwalhatian (b. 13; Mat. 16:27; 25:31). Ito ang resulta ng ating pananampalataya. Kaya tayong ingatan ng kapangyarihan ng Diyos na humantong sa pagtatamo ng resulta ng ating pananampalataya (b. 9). Dapat tayong maging sabik na umaasa sa gayong kamangha-manghang kaligtasan (Roma 8:23), at dapat nating ihanda ang ating mga sarili sa kagila-gilalas na paghahayag na ito (Roma 8:19)."
+        },
+        {
+            "id": "5-6",
+            "text": "Tumutukoy sa panahon ng pagdating ng Panginoon (b. 7)."
+        },
+        {
+            "id": "6-1",
+            "text": "Tumutukoy sa huling panahon sa b. 5."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang mga pagdurusang naging mga pagsubok upang subukin ang katangian. Ang layunin ng aklat na ito ay ang patatagin at palakasin ang mga nagdurusang mananampalataya na hinirang ng Diyos, pinabanal ng Espiritu mula sa sanlibutan tungo sa Diyos, winisikan ng nagtutubos na dugo ni Kristo, at isinilang na muli ng Diyos Ama tungo sa isang buháy na pag-asa, tungo sa isang mana na inilaan sa mga kalangitan para sa kanila (bb. 1-4), gayunpaman, sila ay mga nakikipamayang naglalakbay pa rin sa mundong ito (b. 1, 17; 2:11). Sa kanilang paglalakbay, ang mga pagdurusa ay hindi maiiwasan. Ang mga ito ay ginagamit ng Diyos upang subukin at patunayan ang kanilang pananampalataya (b. 7), upang makita kung sila ay susunod kay Kristo sa pagdurusa para sa paggawa ng mabuti (2:19-23; 3:14-18). Ang mga pagdurusa ay ginamit upang sandatahan sila ng isang isip na laban sa laman, upang sila ay hindi mabuhay sa mga pita ng mga tao, kundi sa kalooban ng Diyos (4:1-2), upang makabahagi sila sa mga pagdurusa ni Kristo at magalak sa paghahayag ng Kanyang kaluwalhatian (4:12-19), upang sila ay maging mga saksi ng mga pagdurusa ni Kristo (5:1), at upang sila ay mapasakdal, mapatatag, mapalakas, at masanay na mabuti para sa walang hanggang kaluwalhatian na kung saan sila tinawag paloob ng Diyos (5:8-10). Ito ay lubusang nasa ilalim ng pamahalaan ng Diyos upang mahatulan Niya ang Kanyang mga hinirang na tao (b. 17), upang simulan ang Kanyang paghatol sa Sarili Niyang sambahayan (4:17). Kaya, ang aklat na ito ay maaaring ituring ding isang aklat hinggil sa pamahalaan ng Diyos."
+        },
+        {
+            "id": "7-1",
+            "text": "Pagsubok para sa pagpapatunay o pag-aapruba. Ito ay ang pag-aapruba hindi sa pananampalataya mismo, kundi sa pagsubok na dinanas ng inyong pananampalataya sa ikapupuri at ikaluluwalhati at ikararangal. (Ito ay katulad ng pagsusulit sa paaralan sa mga araling pinag-aralan ng estudyante; hindi mismo ang aralin ng estudyante ang inaaprubahan kundi ang pagsusulit ang inaaprubahan). Tunay nga, ang subhektibong pananampalataya ay naaaprubahan dahil sa may wastong obhektibong pananampalataya. Ang binibigyang-diin dito ay hindi ang inyong obhektibong pananampalataya, kundi ang inyong subhektibong pananampalataya na inaprubahan sa pamamagitan ng mga pagdurusa na siyang ginamit sa pagsubok nito."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang “lalong mahalaga kaysa sa ginto… ng apoy” ay hindi tumutukoy sa inyong pananampalataya, kundi sa pagsubok sa inyong pananampalataya."
+        },
+        {
+            "id": "7-3",
+            "text": "Si Pedro sa kanyang dalawang Sulat ay naglalahad sa atin ng limang mahahalagang bagay: 1) ang mahalagang bato na Siyang Panginoon Mismo (2:4, 6-7); 2) ang mahalagang dugo (b. 19); 3) ang mga mahalagang pangako (2 Ped. 1:4); 4) ang mahalagang pananampalataya (2 Ped. 1:1); at 5) ang mahalagang pagsubok (b. 7)"
+        },
+        {
+            "id": "7-4",
+            "text": "Ang iba’t ibang pagsubok sa b. 6 ay yaong ang pagsubok sa ating pananampalataya ay maaaring magresulta sa papuri, kaluwalhatian, at karangalan sa pagpapakita ng Panginoon."
+        },
+        {
+            "id": "7-5",
+            "text": "Sa ngayon, ang presensiya ng Panginoon na sumasaatin (Mat. 28:20) ay nakakubli at natatakpan. Ang Kanyang pagbabalik ay magiging ang Kanyang pagpapakita. Sa panahong yaon, Siya ay hayagang makikita ng lahat. Sa panahong yaon, hindi lamang Siya ang mahahayag, maging ang pagsubok na dinaanan ng ating pananampalataya ay mahahayag din."
+        },
+        {
+            "id": "8-1",
+            "text": "Ito ay isang kababalaghan at isang hiwaga na ang mga mananampalataya ay umiibig sa Isa na hindi nila nakikita."
+        },
+        {
+            "id": "8-2",
+            "text": "Siya na hindi natin nakikita ay ating iniibig dahil sa pananampalataya, dahil sa mismong pananampalatayang nailalin sa atin sa pamamagitan ng pakikinig sa buháy na salita (Gal. 3:2). Kaya, ang pananampalatayang nabanggit sa b. 7 ay nasa ilalim ng pagsubok, nasa ilalim ng pagpapatunay."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang puspos ng niluwalhating kagalakan ay kagalakang naibabad sa kaluwalhatian; kaya, puspós ng kaluwalhatian, yaon ay, puspos ng Panginoong naihayag."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang salitang ito ayon sa balarila ay karugtong ng b. 8 subali’t sa aktuwalidad ito ay karugtong ng b. 7. Ang pagsubok sa ating pananampalataya upang masumpungan sa ikapupuri, sa ikaluluwalhati, at sa ikararangal ay nagbubunga ng pagtatamo natin ng resulta ng pananampalataya, ang pagkaligtas ng ating kaluluwa."
+        },
+        {
+            "id": "9-2",
+            "text": "Tayo ay may tatlong bahagi: espiritu, kaluluwa, at katawan (tingnan ang tala 23-5 sa 1 Tes. 5 at tala 12-2 sa Heb. 4). Ang ating espiritu ay naligtas sa pamamagitan ng pagsilang na muli (Juan 3:5-6). Ang ating katawan ay maliligtas, matutubos, sa pamamagitan ng darating na pagbabagong-anyo (Roma 8:23; Fil. 3:21). Ang ating kaluluwa ay maliligtas mula sa mga pagdurusa tungo sa loob ng buong pagtatamasa sa Panginoon sa Kanyang paghahayag, sa Kanyang pagbabalik. Dahil dito kinakailangan nating itatwa ang ating kaluluwa, ang ating pangkaluluwang buhay, kasama ang lahat ng mga kalayawan nito sa kapanahunang ito, upang matamo natin ito sa pagtatamasa sa Panginoon sa darating na kapanahunan (Mat. 10:37-39; 16:24-27; Luc. 17:30-33; Juan 12:25). Sa paghahayag ng Panginoon, ang ilang mananampalataya, pagkaraan sa Kanyang luklukan ng paghahatol, ay papasok sa kagalakan ng Panginoon (Mat. 25:21, 23; 24:45-46), at ang ilan ay magdurusa sa pagtatangis at pagngangalit ng mga ngipin (Mat. 25:30; 24:51). Ang makapasok upang tamasahin ang kagalakan ng Panginoon ay ang maligtas sa ating mga kaluluwa (Heb. 10:39 at tala 3). Ang kaligtasang ito ay higit na mahalaga kaysa sa kaligtasan ng katawan, na inaasahang matanggap ng mga anak ni Israel."
+        },
+        {
+            "id": "10-1",
+            "text": "Katulad ng Panginoon, binanggit ni Pedro ang mga propeta ng Lumang Tipan upang patunayan ang kanyang pagtuturo tungkol sa Bagong Tipang kaligtasan (Luc. 24:25-27, 44-46)."
+        },
+        {
+            "id": "10-2",
+            "text": "Sa bersikulong ito, ang salitang biyaya ay sing-kahulugan ng salitang kaligtasan. Tingnan ang tala 13-4 . Para sa kahulugan ng salitang biyaya, tingnan ang tala 14-6 sa Juan 1 at tala 10-1 sa 1 Corinto 15."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang pagsisiyasat ng mga propeta ay ang paunang paggamit ng Espiritu sa Lumang Tipan hinggil sa pagliligtas ng Diyos."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang mga propeta sa Lumang Tipan ay nagsisiyasat kung kailan at anong uri ng panahon ginawang malinaw sa kanila ng Espiritung nasa loob nila, ang hinggil sa kamangha-manghang pagsasagawa ni Kristo sa pamamagitan ng Kanyang mga pagbabatá at mga kaluwalhatian. Sa kalaunan, natanggap din nila ang pahayag na ang mga kamangha-manghang bagay na yaon ay hindi inihahain para sa kanilang sarili kundi para sa mga mananampalataya sa Bagong Tipan (b. 12)."
+        },
+        {
+            "id": "11-3",
+            "text": "Hindi isinasama ng mataas na pinagpipitagang manuskrito ng Vaticanus ang “ni Kristo.” Ang hindi pagsasamang ito ay tumutugma sa pahayag ng Bagong Tipan hinggil sa Espiritu. Gayunpaman, ang ibang manuskrito na may sangguniang mapaniniwalaan ay may “ni Kristo” sa kanilang teksto. Sa Bagong Tipang pahayag ang Espiritu ni Kristo ay tumutukoy sa Espiritu ni Kristo pagkatapos mangyari ang pagkabuhay na muli (Roma 8:9-11). Bago nangyari ang Kanyang pagkabuhay na muli, ang Espiritu na hindi lamang ang Espiritu ng Diyos, bagkus ang Espiritu rin ni Kristo, ay hindi pa (Juan 7:39). Ang Espiritu ni Kristo ay ang Espiritu ng Diyos na nabuo sa pamamagitan ng at sa paggamit sa kamatayan at pagkabuhay na muli ni Kristo para sa paggamit at pagbabahagi ng kamatayan at pagkabuhay na muli ni Kristo sa Kanyang mga mananampalataya. Bagama’t ang kabuuan ng Espiritu ni Kristo ay pampanahunan, pampanahunang nabuuan sa pamamagitan ng at sa paggamit sa kamatayan at pagkabuhay na muli ni Kristo sa panahon ng Bagong Tipan, ang Kanyang bisa ay pangwalang-hanggan, sapagkat Siya ay ang walang hanggang Espiritu (Heb. 9:14). Ito ay katulad ng krus ni Kristo: ang pangyayari nito ay natupad sa panahon ng kamatayan ni Kristo, gayunpaman ang bisa nito ay pangwalang-hanggan; kaya, sa walang hanggang paningin ng Diyos, si Kristo ay pinatay bago pa itinatag ang sanlibutan (Apoc. 13:8). Sa panahon ng Lumang Tipan, ginawang malinaw ng Espiritu ng Diyos, na Siyang Espiritu ni Kristo, sa mga propetang naghahanap at nagsisiyasat sa mga pagbabatá at mga kaluwalhatian ni Kristo kung kailan at anong uri ng panahon mangyayari ang kamatayan at pagkabuhay na muli ni Kristo."
+        },
+        {
+            "id": "11-4",
+            "text": "Si Kristo ay nagbatá muna at pagkatapos ay pumasok sa kaluwalhatian (Luc. 24:26). Tayo ay dapat sumunod sa Kanya sa gayunding mga yapak (4:13; Roma 8:17). Ang mga pagbabatá ni Kristo, na ipinahayag sa mga propeta at naipropesiya sa kanila sa Awit 22:1, 6-8, 12-18; Isa. 53:2-10a, 12b; Dan. 9:26; at Zac. 12:10b; 13:6-7, ay para sa pagsasagawa ng pagtutubos ng Diyos, na lumutas sa lahat ng mga suliranin sa pagitan ng tao at Diyos at nagtapos sa lumang paglikha, sa negatibong panig, at nagpalaya sa walang hanggang buhay ng Diyos para sa katuparan ng Kanyang walang hanggang layunin, sa positibong panig. Ang mga kaluwalhatian ni Kristo (tingnan ang tala 6) ay para sa Kanyang pagluluwalhati, na hiniling Niya sa Ama bago ang Kanyang pagkapako sa krus (Juan 17:1), at para sa pagpapatupad ng Bagong Tipang ekonomiya para sa pagsasagawa ng walang hanggang layunin ng Diyos. Ang mga pagdurusa ni Kristo at ang kaluwalhatian ni Kristo na may mga kaluwalhatian sa iba’t ibang yugto-ang mga batayan ng buong pagtutubos at pagliligtas ng Diyos – na ginagamit at nararanasan natin, ay katumbas ng kaligtasang binanggit sa bb. 5, 9, 10. Ito ang hinanap at siniyasat ng mga propeta sa Lumang Tipan, na inihayag sa kanila ng Espiritu ni Kristo, na ipinahayag ng mga apostol sa Bagong Tipan sa pamamagitan ng Espiritu Santo, at ninanasang mamasdan ng mga anghel (b. 12)."
+        },
+        {
+            "id": "11-5",
+            "text": "Lit. tungo kay. Ang mga pagbabatáng tiniis ni Kristo ay mga pagbabatáng itinakda para sa Kanya ng Diyos (Isa. 53:10); kaya, ang mga pagbabatá ay kay Kristo, nabibilang kay Kristo."
+        },
+        {
+            "id": "11-6",
+            "text": "Ang mga kaluwalhatian sa iba’t ibang yugto: ang kaluwalhatian sa Kanyang pagkabuhay na muli (Luc. 24:26; Gawa 3:13), ang kaluwalhatian sa Kanyang pag-akyat sa langit (Gawa 2:33; Heb. 2:9), ang kaluwalhatian sa Kanyang pagbabalik (Apoc. 18:1; Mat. 25:31), at ang kaluwalhatian sa Kanyang paghahari (2 Tim. 2:12; Apoc. 20:4, 6), na ipinahayag sa Awit 16:8-10; 22:21-22; 118:22-24; 110:1, 4; 118:26; Zac. 14:4-5; Dan. 7:13-14; at Awit 24:7-10; 72:8-11."
+        },
+        {
+            "id": "12-1",
+            "text": "Tumutukoy sa mga pagbabatá ni Kristo at sa Kanyang mga kaluwalhatian sa b. 11."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang pagpapahayag ng mga apostol ay ang praktikal na paggamit ng Espiritu sa pagliligtas ng Diyos sa Bagong Tipan."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang salitang Griyego ay naglalarawan ng isang pagyuko at panghahaba ng leeg upang masdan ang isang kagila-gilalas na panoorin. Ito ay nagpapakita kung gaano nasasabik ang mga anghel sa pagmamasid sa mga bagay hinggil kay Kristo para sa pagliligtas ng Diyos. Sila ay nagpahayag at nagdiwang sa kapanganakan ng Tagapagligtas (Luc. 2:8-14), naggalak sa isang makasalanan na nagsisi upang tanggapin ang kaligtasan (Luc. 15:10), at sila ay masasayang naglilingkod sa mga tagapagmana ng kaligtasan (Heb. 1:14; Gawa 12:15; Mat. 18:10)."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang bb. 3-12 ay isang mahabang pangungusap ng pagpapala (mabuting pagsasalita) ng Diyos Ama, ipinakikita sa atin ang Kanyang kamangha-mangha at mahusay na kaligtasan, nagsisimula sa pagkasilang na muli ng ating espiritu (b. 3) at nagtatapos sa pagkaligtas ng ating kaluluwa (b. 9), isinagawa sa pamamagitan ng mga pagbabatá at mga kaluwalhatian ni Kristo (b. 11), at inilapat sa atin sa pamamagitan ng Espiritu Santo (b. 12). Batay rito, ang bersikulong ito ay nagsisimula ng isang panghihikayat doon sa mga nakikilahok sa ganap na pagliligtas na pinamahalaan ng Tres-unong Diyos ayon sa Kanyang ekonomiya."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang maging mahinahon at malinaw sa kaisipan, may kakayahang matanto ang ekonomiya ng Diyos sa Kanyang pagliligtas, na ipinahayag sa bb. 3-12, nang hindi nagagambala ng pagkatakot, pagkabalisa, at anumang pag-aalala."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang buháy na pag-asa na nanggaling sa pagkasilang na muli (b. 3)."
+        },
+        {
+            "id": "13-4",
+            "text": "Yaon ay, ang kaligtasan ng kaluluwa (bb. 5, 9-10), na magiging kaganapan ng ganap na pagliligtas ng Diyos. Ang biyaya ay dinala na sa atin sa pamamagitan ng unang pagparito ng Panginoon (Juan 1:17). Ang biyayang ito ay madadala sa lubos na kaganapan sa Kanyang ikalawang pagparito. Sa gayong biyaya natin dapat ituon ang ating pag-asa."
+        },
+        {
+            "id": "14-1",
+            "text": "Katulad sa Roma 12:2. Ang mapawangis dito ay tumutukoy sa isang kalagayan bilang landas na hindi dapat lakaran ng mga hinirang ng Diyos bilang mga manlalakbay."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang Banal na Isa ay ang Tres-unong Diyos—ang humihirang na Ama, ang nagtutubos na Anak, at ang nagpapabanal na Espiritu (b. 2). Isinilang na muli ng Ama ang Kanyang mga hinirang, ibinabahagi ang Kanyang banal na kalikasan sa loob nila (b. 3); tinubos sila ng Anak ng Kanyang dugo upang humiwalay sa walang kabuluhang uri ng pamumuhay (bb. 18-19); at pinabanal sila ng Espiritu ayon sa banal na kalikasan ng Ama, inihihiwalay sila sa anumang bagay na hindi sa Diyos (b. 2), upang sila, sa pamamagitan ng banal na kalikasan ng Ama, ay maging banal sa lahat ng uri ng pamumuhay, maging kasing banal ng Diyos Mismo (bb. 15-16)."
+        },
+        {
+            "id": "15-2",
+            "text": "Sa pamamagitan ng pagpapabanal ng Espiritu (b. 2), batay sa pagkasilang na muli (b. 3), na nagdadala sa atin ng banal na kalikasan ng Diyos at namumunga ng isang banal na buhay."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang Banal na Isa na tumawag sa atin ay ang Ama na Siyang nagsilang na muli sa atin upang magbunga ng isang banal na pamilya—isang banal na Ama na may mga banal na anak. Bilang mga banal na anak, tayo ay dapat lumakad sa isang banal na uri ng pamumuhay. Kung hindi, ang Ama ay magiging ang Hukom (4:17) na tutuos sa ating pagiging di-banal. Sa loob natin, Kanyang ginamit ang buhay sa pagsisilang sa atin; upang tayo ay makabahagi ng Kanyang banal na kalikasan; sa labas natin, Kanyang ginagamit ang paghatol sa pagdidisiplina sa atin upang tayo ay makabahagi ng Kanyang kabanalan (Heb. 12:9-10). Ang Kanyang paghatol ay naaayon sa ating gawain, ating ugali, nang walang pagtatangi sa mga tao. Kaya, dapat nating palipasin ang panahon ng ating paglalakbay sa takot. Kung tayo ay tumatawag sa Kanya bilang ating Ama, dapat din tayong matakot sa Kanya bilang ating Hukom, at mamuhay ng isang banal na buhay sa pagkatakot."
+        },
+        {
+            "id": "17-2",
+            "text": "Si Pedro “ay hindi nagsasalita ukol sa pangkatapusang paghatol sa kaluluwa. Sa ganoong kahulugan ‘ang Ama ay hindi humahatol sa kaninuman, kundi ibinigay Niya ang lahat ng paghahatol sa Anak’ (Juan 5:22). Ang bagay na sinalita rito ay ang pang-araw-araw na paghahatol ng pamahalaan ng Diyos sa sanlibutang ito, na ipinatutupad sa Kanyang mga anak. Kaya sinasabing ‘ang panahon ng inyong paglalakbay’ rito”-Darby. Ito ay ang paghatol ng Diyos sa Kanyang Sariling sambahayan (4:17). Yamang ang dalawang Sulat na ito ay tungkol sa pamahalaan ng Diyos, tinukoy nang paulit-ulit ang paghahatol ng Diyos at ng Panginoon (2:23; 4:5, 6, 17; 2 Ped. 2:3, 4, 9; 3:7), bilang isa sa mga pangunahing bagay. Ang paghahatol na ito ay sinimulan sa mga anghel (2 Ped. 2:3-4), at nagdaan sa mga salinlahi ng tao sa Lumang Tipan (2 Ped. 2:5-9). Pagkatapos, sa kapanahunan ng Bagong Tipan, ito ay sinisimulan sa bahay ng Diyos (b. 17; 2:23; 4:6, 17) at ipinagpapatuloy hanggang sa pagdating ng araw ng Panginoon (2 Ped. 3:10), na magiging isang araw ng paghatol sa mga Hudyo, sa mga mananampalataya, at sa mga Hentil bago ang isang libong taon (tingnan ang tala 12-3 sa 2 Ped. 3). Pagkatapos ng isang libong taon, ang lahat ng mga patay, kabilang ang mga tao at mga demonyo, ay hahatulan at mapapahamak (4:5; 2 Ped. 3:7), at ang mga kalangitan at ang lupa ay masusunog (2 Ped. 3:10b, 12). Ang mga resulta ng iba’t ibang paghahatol ay hindi magkakatulad. Ang ilang paghahatol ay magreresulta sa isang pandisiplinang pagtutuos, ang ilan ay sa isang pampanahunang pagpaparusa, at ang ilan ay sa walang hanggang kapahamakan (tingnan ang tala 1-6 , ikalawang punto sa 2 Ped. 2). Gayunpaman, sa pamamagitan ng lahat ng mga paghahatol na ito, lilinisin at dadalisayin ng Panginoong Diyos ang buong sansinukob, upang Siya ay magkaroon ng isang bagong langit at isang bagong lupa para sa isang bagong sansinukob na punô ng Kanyang katuwiran (2 Ped. 3:13) para sa Kanyang kaluguran."
+        },
+        {
+            "id": "17-3",
+            "text": "Yaon ay, ugali, gawi, katulad sa Roma 3:20; Gal. 2:16."
+        },
+        {
+            "id": "17-4",
+            "text": "Isang banal na pagkatakot, katulad sa Fil. 2:12; yaon ay isang malusog, maselan na babala sa atin upang kumilos na may kabanalan. Ang gayong pagkatakot ay binanggit nang ilang ulit sa aklat na ito (tingnan ang mga sanggunian sa titik e), sapagkat ang pagtuturo ng aklat na ito ay nahihinggil sa pamahalaan ng Diyos."
+        },
+        {
+            "id": "18-1",
+            "text": "Lit. salaping pilak o salaping ginto."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang walang kabuluhang paraan ng pamumuhay ay salungat sa banal na uri ng pamumuhay sa b. 15. Bilang prinsipyo, ang dugo ni Kristo ay nagtutubos sa atin mula sa mga kasalanan, mga pagsalangsang, mga kalikuan, at sa lahat ng bagay na makasalanan (Efe. 1:7; Heb. 9:15; Tito 2:14). Narito ang isang halimbawang naiiba sa prinsipyo: ang dugo ni Kristo ay nagtubos sa atin mula sa ating luma at walang kabuluhang paraan ng pamumuhay, sapagkat ang binibigyang-diin dito ay hindi ang pagiging makasalanan, kundi ang paraan ng pamumuhay. Ang binibigyang-diin ng buong kapitulo ay ang banal na paraan ng pamumuhay na dapat taglayin ng hinirang na bayan ng Diyos sa panahon ng kanilang pakikipamayan. Ang pagpapabanal ng Espiritu ay hindi lamang para rito, maging ang pagtubos ni Kristo ay para rito—upang ihiwalay tayo sa ating walang kabuluhang paraan ng pamumuhay na minana mula sa ating mga ninuno. Yamang nalalaman natin na ito ay naisagawa sa pamamagitan ng pagbabayad ng pinakamataas na halaga, ang mahalagang dugo ni Kristo, dapat nating palipasin ang mga araw ng ating paglalakbay sa pagkatakot (b. 17). Ang ating lumang pamamaraan ng pamumuhay, isang pamumuhay na nasa mga pita (b. 14), ay walang kahulugan at walang layunin; kaya’t ito ay walang kabuluhan. Subali’t ngayon, ang mabuhay ng isang banal na buhay, ang maghayag ng Diyos sa Kanyang kabanalan, ay ang ating layunin (bb. 15-16)."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang dugo ni Kristo, na iwinisik sa atin at iminarka sa atin upang tayo ay maibukod mula sa mga karaniwang tao, ay higit na mahalaga kaysa sa pilak at ginto. Ang pinakamataas na halaga ay binayaran ni Kristo para sa ating katubusan, upang tayo ay matubos mula sa walang kabuluhang paraan ng pamumuhay tungo sa pinabanal na pamumuhay (bb. 18, 15). Dahil dito, tayo ay dapat magkaroon ng isang banal na pagkatakot, isang malusog, maselang pag-iingat sa harapan ng Diyos upang, bilang hinirang na tinubos sa isang mataas na halaga, hindi natin maiwala ang layunin ng pinakamataas na pagtutubos ni Kristo."
+        },
+        {
+            "id": "20-1",
+            "text": "Si Kristo, bago pa man naitatag ang sanlibutan, ay unang itinalaga, inihanda, ng Diyos upang maging Kanyang nagtutubos na Kordero (Juan 1:29) para sa Kanyang hinirang ayon sa Kanyang paunang-kaalaman. Ito ay ginawa ayon sa walang hanggang layunin at plano ng Diyos, hindi isang aksidente. Kaya, sa walang hanggang pananaw ng Diyos, mula sa pagkakatatag ng sanlibutan, yaon ay, magmula pa sa pagkatisod ng tao bilang bahagi ng sanlibutan, si Kristo ay pinatay na (Apoc. 13:8)."
+        },
+        {
+            "id": "20-2",
+            "text": "Tumutukoy sa iba’t ibang panahon ng Lumang Tipan. Tingnan ang tala 2-1 sa Hebreo 1."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang ating pagsampalataya tungo sa loob ni Kristo ay nagdala sa atin paloob sa isang organikong pakikiisa sa Kanya (Gal. 3:26-27). Pagkatapos, sa pamamagitan Niya, tayo ay nanampalataya tungo sa loob ng Diyos upang maging kaisa Niya, nakikibahagi sa lahat ng Kanyang mga kayamanan."
+        },
+        {
+            "id": "21-2",
+            "text": "Ito ay ang luwalhatiin Siya sa pamamagitan ng kaluwalhatian (b. 11)—ang sagot ng Ama sa Kanyang panalangin (Juan 17:1)."
+        },
+        {
+            "id": "21-3",
+            "text": "Tingnan ang tala 13-1 sa 1 Corinto 13."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang paglilinis ng ating mga kaluluwa ay ang pagpapabanal ng Espiritu sa ating kalikasan, upang tayo ay makapamuhay ng isang banal na buhay sa banal na kalikasan ng Diyos (bb. 15-16). Ito ay higit na malalim kaysa sa paglilinis ng ating mga kasalanan (Heb. 1:3) at sa paglilinis ng kasalanan (1 Juan 1:7). Ang huling dalawa ay ang paglilinis ng ating panlabas na gawi; ang nauna ay ang paglilinis ng ating panloob na katauhan—ang kaluluwa. Ito ay katulad ng paghuhugas ng salita sa Efe. 5:26 (tingnan ang tala 3 doon)."
+        },
+        {
+            "id": "22-2",
+            "text": "Ang ating kaluluwa ay binubuo ng kaisipan, damdamin, at kapasiyahan, na mga bahagi rin ng ating puso. Ang linisin ang ating kaluluwa ay ang gawin ang ating kaisipan, damdamin, at kapasiyahan, ang mga bahagi ng ating puso, na malinis mula sa anumang uri ng karungisan at pagkakahawa (Gawa 15:9; Sant. 4:8). Ito, sa katunayan, ay nangangahulugang iligtas ang ating kaisipan, damdamin, at kapasiyahan mula sa mga bagay na maliban sa Diyos, at ituon sa Diyos bilang tanging bagay na pinagtutuunan at namumukod-tanging layunin. Ang ganitong uri ng paglilinis ay isinasagawa sa pamamagitan ng ating pagtalima sa katotohanan na nilalaman at realidad ng ating pananampalataya (tingnan ang tala 1-1 , ikalawang punto, sa 1 Timoteo 1). Kapag tayo ay tumatalima sa katotohanan, ang nilalaman at realidad ng ating pananampalataya kay Kristo, ang ating buong kaluluwa ay natutuon sa Diyos at kung gayon ay nalilinis mula sa lahat ng mga bagay na maliban sa Diyos. Ito ay ang maligtas ang ating mga kaluluwa mula sa lahat ng mga karumihan sa pamamagitan ng pagtanggap ng naitanim na salita (Sant. 1:21), na siyang nagpapabanal na katotohanan (Juan 17:17)."
+        },
+        {
+            "id": "22-3",
+            "text": "Ang nagpapabanal na katotohanan, na siyang salita ng realidad (katotohanan) ng Diyos (Juan 17:17 at mga tala)."
+        },
+        {
+            "id": "22-4",
+            "text": "Yaon ay, nagreresulta sa."
+        },
+        {
+            "id": "22-5",
+            "text": "Yamang ang paglilinis ng ating mga kaluluwa ay nagtutuon ng ating buong katauhan sa Diyos upang ibigin natin Siya nang buo nating puso, ng buo nating kaluluwa, at ng buo nating kaisipan (Mar. 12:30), ito ay nagreresulta sa pag-ibig na hindi pakunwari sa mga kapatid, minamahal ng buong ningas mula sa puso ang mga iniibig ng Diyos. Unang-una, ang pagsisilang na muli ng Diyos ay namumunga ng isang banal na buhay (bb. 15-16), pagkatapos ang Kanyang pagpapabanal (paglilinis) ay namumunga ng pag-ibig sa mga kapatid."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang bersikulong ito ay tumuturing sa b. 22. Yamang tayo ay naisilang nang muli, nalinis na natin ang ating mga kaluluwa na humahantong sa pag-ibig sa mga kapatid. Ang pagkasilang na muli sa pamamagitan ng dibinong buhay ay ang tuntungan, batayan, para sa paglilinis, pagpapabanal, ng ating mga kaluluwa tungo sa pag-ibig sa mga kapatid na hindi pakunwari. Ang seksiyong ito ng Salita ay kapwa nagsisimula at nagtatapos sa pagkasilang na muli, na nagreresulta sa isang banal na buhay patungkol sa Diyos at sa pag-ibig sa mga kapatid patungkol sa mga banal."
+        },
+        {
+            "id": "23-2",
+            "text": "Ang isang binhi ay isang sisidlan ng buhay. Ang salita ng Diyos bilang isang walang kasiraang binhi ay nagtataglay ng buhay ng Diyos. Kaya, ito ay buháy at namamalagi. Sa pamamagitan ng Salitang ito tayo ay naisilang na muli. Ito ay ang buháy at namamalaging salita ng buhay na naghahatid ng buhay ng Diyos sa ating espiritu upang tayo ay maisilang na muli."
+        },
+        {
+            "id": "24-1",
+            "text": "Tumutukoy sa natisod na tao. Ang lahat ng natisod na lahi ng tao ay katulad ng natutuyong damo, at ang kaluwalhatian nito ay katulad ng nalalantang bulaklak ng damo. Ang mga mananampalataya ay katulad nito, subali’t ang buháy at namamalaging salita ng Panginoon, bilang binhing naihasik tungo sa loob nila sa pamamagitan ng pagkasilang na muli, ay nagpabago sa kanilang kalikasan, ginagawa silang buháy at namamalagi magpakailanman."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang salita sa b. 23 ay logos , tumutukoy sa palagiang salita; ang salita rito ay rhema (dalawang ulit), tumutukoy sa kagyat na salita. Kapag ang logos ay sinalita sa atin, ito ay nagiging rhema ."
+        },
+        {
+            "id": "25-2",
+            "text": "Tumutukoy sa Diyos sa b. 23, nagpapakita na ang Panginoong Hesus ay Diyos."
+        },
+        {
+            "id": "25-3",
+            "text": "Ang salitang ipinangaral ng mga apostol ay ang ebanghelyong nagsisilang na muli sa mga mananampalataya."
         }
     ]
 }

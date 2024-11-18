@@ -1,5 +1,5 @@
 {
-    "chapter": 14,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,14 +7,16 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "c. Sa Iconio\n 14:1-5"
+            ]
         },
         {
             "id": "2",
@@ -22,7 +24,7 @@
             "footnotes": [
                 {
                     "word": "kaisipan",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -33,11 +35,11 @@
             "footnotes": [
                 {
                     "word": "biyaya,",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "tanda",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -58,7 +60,9 @@
             "id": "6",
             "text": "At sa pagkaalam nito, nagsitakas sila patungo sa mga lunsod ng Licaonia, Listra at Derbe,  at sa lupaing nasa palibot;",
             "footnotes": [],
-            "outlines": null
+            "outlines": [
+                "d. Sa Listra at Derbe ng Licaonia\n 14:6-21a"
+            ]
         },
         {
             "id": "7",
@@ -78,7 +82,7 @@
             "footnotes": [
                 {
                     "word": "ikagagaling,",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -101,15 +105,15 @@
             "footnotes": [
                 {
                     "word": "Zeus",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "Hermes",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "pinunong",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -132,7 +136,7 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -179,22 +183,27 @@
             "footnotes": [
                 {
                     "word": "kaluluwa",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "magsipanatili",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "22-3"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "22-4"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "e. Pinagtitibay ang mga Disipulo",
+                "at Nagtatalaga ng mga Matanda sa bawa’t Ekklesia,",
+                "habang nasa Daan Pabalik sa Perga\n 14:21b-25a",
+                "sila ay nagsibalik sa <sup>c</sup>Listra at sa <sup>d</sup>Iconio at sa <sup>e</sup>Antioquia,"
+            ]
         },
         {
             "id": "23",
@@ -202,11 +211,11 @@
             "footnotes": [
                 {
                     "word": "matanda",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -223,7 +232,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -234,10 +243,13 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "f. Nagbalik sa Antioquia, Tinatapos ang Unang Paglalakbay\n 14:25b-28",
+                "sila ay nagsilusong sa Atalia;"
+            ]
         },
         {
             "id": "27",
@@ -245,11 +257,11 @@
             "footnotes": [
                 {
                     "word": "magsidating",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "matipon",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -259,6 +271,88 @@
             "text": "At sila ay tumira kasama ng mga disipulo nang hindi kakaunting panahon.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 5-1 sa kap. 13."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 2-1 sa Sant. 2."
+        },
+        {
+            "id": "2-1",
+            "text": "Lit. mga kaluluwa."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 23-1 sa kap. 11."
+        },
+        {
+            "id": "3-2",
+            "text": "Tingnan ang tala 43-1 sa kap. 2."
+        },
+        {
+            "id": "9-1",
+            "text": "O, ikaliligtas."
+        },
+        {
+            "id": "12-1",
+            "text": "Sa Latin, Jupiter (tingnan ang mga tala 35-1 sa kapitulo 19 at 11-1 sa kapitulo 28)."
+        },
+        {
+            "id": "12-2",
+            "text": "Sa Latin, Mercurio."
+        },
+        {
+            "id": "12-3",
+            "text": "Lit. ang namumuno sa isang diskurso."
+        },
+        {
+            "id": "15-1",
+            "text": "Tumutukoy sa diyos-diyosan at sa pagsamba sa diyos-diyosan."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang kaluluwa ng tao ay binubuo ng kaisipan, damdamin, at pagpapasiya ng tao. Ang pagtibayin ang mga kaluluwa ng mga disipulo ay tumutukoy na pagtibayin sila mismo:"
+        },
+        {
+            "id": "22-2",
+            "text": "Lit. matibay na manatili, yaon ay, tumindig nang matibay, hindi hihiwalay sa pananampalatayang pinasukan na."
+        },
+        {
+            "id": "22-3",
+            "text": "Tingnan ang tala 7-2 sa kap. 6."
+        },
+        {
+            "id": "22-4",
+            "text": "Tingnan ang tala 3-4 sa kap. 1."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang mga ekklesia kung saan ang mga matanda ay itinalaga ng mga apostol ay naitatag sa loob ng wala pang isang taon. Kaya, ang mga itinalagang matanda sa mga ekklesiang ito ay maaaring hindi pa sapat ang pagkagulang. Maaari silang itinuring na mga matanda, sapagka’t kung ihahambing sila sa ibang mananampalataya, sila ang pinakamagulang. Sila ay hindi inihalal ng kanilang kongregasyon, kundi itinalaga ng mga apostol ayon sa antas ng kanilang paggulang sa buhay kay Kristo. Sila ay inatasan ng mga apostol upang pangalagaan ang pamumuno at pagpapastol sa kani-kanilang ekklesia (tingnan ang mga tala 2-1 sa I Tim. 3 at 3-3 sa 1 Ped. 5)."
+        },
+        {
+            "id": "23-2",
+            "text": "Ang “sa bawa’t ekklesia” ay katumbas ng “sa bawa’t lunsod” sa Tito 1:5 (tingnan ang tala roon)."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag, ng Panginoon."
+        },
+        {
+            "id": "26-1",
+            "text": "Tingnan ang mga tala 10-1 at 10-2 sa 1 Corinto 15."
+        },
+        {
+            "id": "27-1",
+            "text": "Ito ang katapusan ng unang paglalakbay ni Pablo sa kanyang ministeryo, na nagsimula sa 13:4."
+        },
+        {
+            "id": "27-2",
+            "text": "Para sa pagsasalamuha ukol sa pagkilos ng Diyos sa pagpapalaganap ng Kanyang ebanghelyo, hindi para sa isang pag-uulat ng tungkulin."
         }
     ]
 }

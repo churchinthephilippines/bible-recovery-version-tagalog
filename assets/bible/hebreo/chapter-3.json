@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "makalangit",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "Apostol",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -38,11 +38,11 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "Nagtayo",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -59,11 +59,11 @@
             "footnotes": [
                 {
                     "word": "lingkod,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "patotoo",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -74,7 +74,7 @@
             "footnotes": [
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -85,7 +85,7 @@
             "footnotes": [
                 {
                     "word": "Kaya",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": [
@@ -112,15 +112,15 @@
             "footnotes": [
                 {
                     "word": "nawalan",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "nagkakamali",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "pamamaraan;",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -131,7 +131,7 @@
             "footnotes": [
                 {
                     "word": "Kung",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -142,7 +142,7 @@
             "footnotes": [
                 {
                     "word": "naghihiwalay",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -159,7 +159,7 @@
             "footnotes": [
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -176,7 +176,7 @@
             "footnotes": [
                 {
                     "word": "Moises?",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -187,7 +187,7 @@
             "footnotes": [
                 {
                     "word": "katawan",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -198,7 +198,7 @@
             "footnotes": [
                 {
                     "word": "nagsisuway?",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -208,6 +208,84 @@
             "text": "At nakikita natin na sila ay hindi nakapasok dahil sa kawalan ng pananampalataya.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang banal ay nangangahulugang maihiwalay tungo sa Diyos na may isang tiyak na layunin (tingnan ang tala 2-3 sa Roma 1). Dito, sa pamamagitan ng pagtawag sa mga tumanggap ng aklat na mga banal na kapatid, nilalayon ng manunulat na paalalahanan sila na hindi sila dapat manatiling mga pangkaraniwang tao para sa Hudaismo, kundi maihiwalay bilang mga banal tungo sa Diyos para sa Kanyang layunin."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 14-1 ."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang konsepto ng aklat na ito ay nakatuon sa makalangit na kalikasan ng mga positibong bagay. Una sa lahat, tinutukoy nito sa atin na si Kristo ngayon ay nakaupo sa mga kalangitan (1:3). Siya ay pumasok na sa mga kalangitan (9:24). Siya ay nagdaan sa mga kalangitan (4:14) at naging lalong mataas pa kaysa sa mga kalangitan (7:26). Pagkaraan ay inihahayag sa atin ng aklat na ito ang makalangit na pagtawag (b. 1), ang mga makalangit na kaloob (6:4), ang mga makalangit na bagay (8:5), ang makalangit na bayan (11:16), at ang makalangit na Herusalem (12:22). Sinasabi rin nito sa atin na ang ating mga pangalan ay naitala na sa mga kalangitan (12:23) at yaong ang Diyos ay nagbababala sa atin ngayon buhat sa langit (12:25). Ang lahat ng mga bagay sa Lumang Tipan na pinanghawakan sa Hudaismo ay pawang sa makalupang kalikasan. Sa aklat na ito, ang layunin ng manunulat ay ang ipakita sa mga Kristiyanong Hebreo ang kaibhan ng makalangit na kalikasan ng Bagong Tipan sa makalupang kalikasan ng Lumang Tipan upang kanilang matalikuran ang mga makalupang bagay at maiugpong ang kanilang mga sarili sa makalangit."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang Apostol ay ang Isang isinugo sa atin mula sa Diyos at kasama ang Diyos (Juan 6:46; 8:16, 29). Ang Mataas na Saserdote ay ang Isang bumalik sa Diyos mula sa atin at kasama natin (Efe. 2:6). Bilang Apostol, si Kristo ay dumating sa atin na kasama ang Diyos upang ibahagi ang Diyos sa atin nang sa gayon ay makabahagi tayo sa Kanyang dibinong buhay, kalikasan, at kapuspusan. Bilang Mataas na Saserdote, si Kristo ay nagtungo sa Diyos kasama tayo upang iharap tayo sa Diyos nang sa gayon tayo at ang lahat ng ating usapin ay mapangalagaan Niya nang lubusan. Bilang Apostol, Siya ay isinasalarawan ni Moises, na dumating mula sa Diyos upang paglingkuran ang sambahayan ng Diyos (bb. 2-6), at bilang Mataas na Saserdote, Siya ay isinasalarawan ni Aaron, na nagtungo sa Diyos kasama ang sambahayan ni Israel at ang kanilang mga usapin (4:14-7:28)."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 9-3 sa kap. 2."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang pagka-tao ni Moises ay angkop para sa gusali ng Diyos, subali’t wala siyang taglay na dibinong kalikasan na magbibigay-kakayahan sa kanya upang maging angkop na tagapagtayo. Taliwas dito, si Kristo, sa Kanyang pagka-tao, ay ang mabuting materyal para sa gusali ng Diyos (bilang ang batong patibayan -Isa. 28:16, ang batong panulok-Mat. 21:42; Gawa 4:11, ang pangulong bato-Zac. 4:7, at ang buháy na bato-I Ped. 2:4, upang tayo ay maibunga, ang mga buháy na bato-I Ped. 2:5) at sa Kanyang pagka-Diyos Siya ang Tagapagtayo."
+        },
+        {
+            "id": "5-1",
+            "text": "*Gr. therapön ; miminsan lamang ginamit sa buong Bagong Tipan.* Ang salitang ito na ginamit para sa lingkod ay isang katawagan ng dignidad at kalayaan."
+        },
+        {
+            "id": "5-2",
+            "text": "O, sagisag. Ang sagisag ng apostol na isinugo mula sa Diyos ay praktikal, klasikal, at tunay."
+        },
+        {
+            "id": "6-1",
+            "text": "Sa panahon ng Lumang Tipan, ang bahay ng Diyos ay ang sambahayan ni Israel (Lev. 22:18; Blg. 12:7), na sinasagisag ng tabernakulo o ng templo na nasa kanila (Exo. 25:8; Ezek. 37:26-27). Ngayon ang bahay ng Diyos sa katunayan ay ang ekklesia (I Tim. 3:15; I Ped. 4:17). Ang mga anak ni Israel, bilang bayan ng Diyos, ay isang sagisag natin, ang Bagong Tipang mananampalataya (I Cor. 9:24 -10:11). Ang kanilang buong kasaysayan ay isang sagisag ng ekklesia."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang bahay ng Diyos sa b. 6 ay idinurugtong ng pariralang ito sa Sabbath na kapahingahan sa 4:9. Ito ay nagpapakita na ang dalawa ay tumutukoy sa magkaparehong bagay. Ang bahay ng Diyos ay tumutukoy sa kasalukuyang buhay-ekklesia na siyang ating Sabbath na kapahingahan."
+        },
+        {
+            "id": "10-1",
+            "text": "*Gr. prosokthizo o, nainis, nayamot, dadalawang beses lamang ginamit sa buong Bagong Tipan, dito at sa b. 17."
+        },
+        {
+            "id": "10-2",
+            "text": "O, nangadadaya sa kanilang puso."
+        },
+        {
+            "id": "10-3",
+            "text": "Ang mga pamamaraan ng Diyos ay naiiba sa Kanyang mga gawa. Ang Kanyang mga gawa ay ang Kanyang mga gawain; ang Kanyang mga pamamaraan ay ang mga prinsipyong pinagbabatayan ng Kanyang paggawa. Nalalaman lamang ng mga anak ni Israel ang Kanyang mga gawa, nguni’t batid ni Moises ang Kanyang mga pamamaraan (Awit 103:7)."
+        },
+        {
+            "id": "11-1",
+            "text": "Isang kawikaang Hebreo na kinapapalooban ng isang malakas na negatibo. Gayundin sa 4:3, 5."
+        },
+        {
+            "id": "12-1",
+            "text": "O, naglalayo, nag-iiwan, naglilisan, nakatayong malayo sa Diyos na buháy."
+        },
+        {
+            "id": "14-1",
+            "text": "Gr. metochos , parehong salitang ginamit para sa salitang “mga may bahagi” sa 3:1; “mga nakabahagi” sa 6:4 at “nabahagi” sa 12:8. Sa tatlong lugar na yaon, ito ay nangangahulugang tayo ay nakikibahagi sa makalangit na pagtawag, sa Espiritu Santo, at sa disiplina; sa gayon ginagamit natin ang mga salitang mga kabahagi. Dito at sa 1:9, ito ay nangangahulugang tayo ay nakikibahagi kasama ni Kristo; sa gayon ay ginagamit natin ang salitang mga kasama. Tayo ay mga kabahagi sa mga makalangit, banal, at espirituwal na bagay, nakikibahagi sa makalangit na pagtawag, Espiritu Santo, at espirituwal na disiplina. Tayo ay mga kasama ni Kristo, nakikibahagi kasama Niya sa espirituwal na pagpapahid (1:9) gaya nang kung paanong ang mga sangkap ng katawan ay nakikibahagi sa Ulo na Espiritu, at nakikibahaging kasama Niya sa makalangit na kapahingahan gaya nang kung paanong nakibahagi si Caleb kasama si Josue sa kapahingahan sa mabuting lupa (Blg. 14:30)."
+        },
+        {
+            "id": "16-1",
+            "text": "Nadala ni Moises ang mga anak ni Israel palabas ng Ehipto, nguni’t hindi niya sila naipasok sa mabuting lupa ng Canaan. Si Josue na kanyang kapalit ang gumawa niyaon (4:8)."
+        },
+        {
+            "id": "17-1",
+            "text": "*Gr. kolon , lit. katawang patay, miminsan lamang ginamit sa buong Bagong Tipan. Isinaling carcass sa Ingles na may negatibong pakahulugan, naiiba sa soma na nangangahulugang “katawan” nguni’t walang negatibong pakahulugan (halimbawa sa Mat. 27:58; Efe. 1:23). Hindi rin natin isinaling “bangkay”, sapagka’t sa Griyego ang salitang “bangkay” ay ptoma (halimbawa sa Mat. 24:28; Mar. 6:29; Apoc. 11:8, 9)."
+        },
+        {
+            "id": "18-1",
+            "text": "O, di-nahihikayat, matitigas ang ulo, di-naniniwala."
         }
     ]
 }

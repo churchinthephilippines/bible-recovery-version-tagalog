@@ -1,5 +1,5 @@
 {
-    "chapter": 12,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,7 +21,7 @@
             "footnotes": [
                 {
                     "word": "dinala",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -32,15 +32,15 @@
             "footnotes": [
                 {
                     "word": "nagsasalita",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "Si",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -51,15 +51,15 @@
             "footnotes": [
                 {
                     "word": "Bagama’",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "iba’",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "kaloob,",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": [
@@ -73,7 +73,7 @@
             "footnotes": [
                 {
                     "word": "ministeryo,",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -84,11 +84,11 @@
             "footnotes": [
                 {
                     "word": "kinalabasan",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -99,11 +99,11 @@
             "footnotes": [
                 {
                     "word": "kahayagan",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "upang",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -114,11 +114,11 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -129,11 +129,11 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -144,23 +144,23 @@
             "footnotes": [
                 {
                     "word": "gawa",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "propesiya,",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "pagkilala",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "wika,",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "pagpapaliwanag",
-                    "note": ""
+                    "id": "10-5"
                 }
             ],
             "outlines": null
@@ -177,11 +177,11 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "Kristo;",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -195,23 +195,23 @@
             "footnotes": [
                 {
                     "word": "iisang",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "iisang",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "Hudyo",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "alipin",
-                    "note": ""
+                    "id": "13-4"
                 },
                 {
                     "word": "pinainom",
-                    "note": ""
+                    "id": "13-5"
                 }
             ],
             "outlines": null
@@ -286,7 +286,7 @@
             "footnotes": [
                 {
                     "word": "hinusay",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -297,11 +297,11 @@
             "footnotes": [
                 {
                     "word": "pagkakabaha-bahagi",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "magkakatulad",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -324,39 +324,39 @@
             "footnotes": [
                 {
                     "word": "ekklesia:",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "28-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "28-3"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "28-4"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "28-5"
                 },
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "28-6"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "28-7"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "28-8"
                 },
                 {
                     "word": "wika.",
-                    "note": ""
+                    "id": "28-9"
                 }
             ],
             "outlines": [
@@ -376,11 +376,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "Lahat",
-                    "note": ""
+                    "id": "30-2"
                 }
             ],
             "outlines": null
@@ -391,18 +391,200 @@
             "footnotes": [
                 {
                     "word": "masidhi",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "31-2"
                 },
                 {
                     "word": "daang",
-                    "note": ""
+                    "id": "31-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa mga kapitulo 12 hanggang 14, tinutuos ni Pablo ang ikasiyam na suliranin sa gitna ng mga taga-Corinto, ang suliranin ng mga espiritwal na kaloob na may kaugnayan sa pangangasiwa at pagsasagawa ng Diyos."
+        },
+        {
+            "id": "2-1",
+            "text": "Lit. inihatid. Noong panahong yaon sa gitna ng mga Griyego ay may nag-eengganyo sa mga tao na sumamba sa diyos-diyosan. Dahil sa nakahihibang na pag-eengganyo, ang mga tao ay natatangay tulad ng pagtangay ng malakas na hangin. Sinasabi ng apostol dito na ang mga mananampalatayang taga-Corinto noong sila ay mga Hentil pa ay natatangay sa harap ng lahat ng uri ng diyos-diyosan, maging anuman ang paraang gamitin ng mga nahihibang na tao sa pagdala sa kanila."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang kaisipan ng apostol dito ay yaong ginagawa ng mga pipi at walang tinig na diyos-diyosan sa bersikulo 2 ang mga sumasamba sa kanila na pipi at walang tinig. Subali’t ang Diyos na buháy ay nagsasanhi sa mga sumasamba sa Kanya na magsalita sa loob ng Kanyang Espiritu. Ang ganitong uri ng pagsasalita ay may kaugnayan sa mga espiritwal na kaloob. Walang sinumang nagsasalita sa loob ng Espiritu ng Diyos ang magsasabi, si Hesus ay isinumpa; nais niyang magsabi, at may kakayahan siyang magsabing, Panginoong Hesus. Walang sumasamba sa Diyos na dapat maging tahimik, kundi sa loob ng Espiritu ng Diyos ay magpalabas ng tinig na nagsasabi: Panginoong Hesus! Ang ganitong pagsasalita ng “Panginoong Hesus!” ang pangunahing pangsyon ng lahat ng mga espiritwal na kaloob."
+        },
+        {
+            "id": "3-2",
+            "text": "Lit. Anathema Hesus. Para sa anathema, tingnan ang tala 22-1 sa kapitulo 16."
+        },
+        {
+            "id": "3-3",
+            "text": "Ito ay nagsasaad na kapag sinasabi natin nang may wastong espiritu, Panginoong Hesus, tayo ay nasa loob ng Espiritu Santo. Sa gayon, ang tumawag sa Panginoong Hesus ay ang daan upang makabahagi, makatamasa, at makaranas sa Espiritu Santo."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang “bagama’t” dito ay nagsasaad ng pagkakaiba ng bersikulo 3 sa bersikulo 4. Ang bersikulo 3 ay nagsasabi na kapag tayo ay naglilingkod sa pamamagitan ng pagsasalita sa loob ng Espiritu ng Diyos, tayong lahat ay nagsasabi ng Panginoong Hesus, itinataas si Hesus bilang ang Panginoon “bagama’t” ang mga kaloob para sa kahayagan ng Espiritu ay magkakaiba sa uri."
+        },
+        {
+            "id": "4-2",
+            "text": "O, iba’t ibang uri, pagkakaiba-iba, pagkakakilanlan. Gayundin sa mga bersikulo 5 at 6."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang mga kaloob dito ay tumutukoy sa mga panlabas na kaloob, ang mga kakayahan para maglingkod. Ang ilan sa mga ito ay mahimala, at ang ilan ay napaunlad mula sa mga nauunang kaloob na binanggit sa 1:7 (tingnan ang tala roon). Lahat ng mga ito ay iba mula sa mga nauunang kaloob."
+        },
+        {
+            "id": "5-1",
+            "text": "Mga paglilingkod. Ang mga kaloob sa bersikulo 4 ay para sa mga paglilingkod na ito at ang mga paglilingkod ay para sa mga kinalabasan ng paggawa sa bersikulo 6."
+        },
+        {
+            "id": "6-1",
+            "text": "*Mga “kinalabasan ng paggawa.” Gr. energēma . Lit. ang mga kinalabasan ng enerhiya ng Diyos sa loob ng isang mananampalataya. Sa katunayan, ito ay tumutukoy sa mga kinalabasan ng binigyang lakas ng biyaya ng Diyos. Ang salitang energēma ay ginamit sa Bagong Tipan nang dalawang beses lamang. Dito at sa bersikulo 10."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang mga kaloob ay sa pamamagitan ng Espiritu; ang mga ministeryo, ang mga paglilingkod, ay sinimulan ng Panginoon at para sa Panginoon; at ang pinagmulan ng mga kinalabasan ng paggawa ay ang Diyos. Dito, ang Tres-unong Diyos ay may kinalaman sa tatlong bagay na ito – mga kaloob, mga ministeryo, at mga kinalabasan ng paggawa. Ang mga kaloob sa pamamagitan ng Espiritu ay upang isagawa ang mga ministeryo, mga paglilingkod, para sa Panginoon, at ang mga ministeryo para sa Panginoon ay upang maisakatuparan ang mga kinalabasan ng paggawa, ang mga gawain, ng Diyos. Ito ang Tres-unong Diyos na kumikilos sa loob ng mga mananampalataya para sa pagsasakatuparan ng Kanyang walang hanggang layunin upang itayo ang ekklesia, ang Katawan ni Kristo, bilang kahayagan ng Diyos."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang lahat ng iba’t ibang kaloob ay ang paghahayag ng Espiritu, yaon ay, ang Espiritu ay nahahayag sa mga mananampalatayang nakatanggap ng mga kaloob. Ang gayong paghahayag ng Espiritu ay para sa kapakinabangan ng ekklesia, ang Katawan ni Kristo."
+        },
+        {
+            "id": "7-2",
+            "text": "Yaon ay, para sa paglago sa buhay ng mga sangkap ng Katawan ni Kristo at para sa pagtatayo ng Katawan ni Kristo."
+        },
+        {
+            "id": "8-1",
+            "text": "Ayon sa nilalaman ng aklat na ito, ang salita ng karunungan ay ang salita ukol kay Kristo bilang ang malalalim na bagay ng Diyos na itinalaga noong una pa ng Diyos upang maging ating bahagi (1:24, 30; 2:6-10). Ang salita ng kaalaman ay ang salitang nagbabahagi ng pangkalahatang kaalaman ng mga bagay ukol sa Diyos at sa Panginoon (8:1-7). Ang salita ng karunungan ay pangunahing nagmumula sa ating espiritu at sa pamamagitan ng pahayag; ang salita ng kaalaman ay pangunahing nagmumula sa ating pang-unawa at sa pamamagitan ng pagtuturo. Ang nauuna ay higit na malalim kaysa sa nahuhuli. Gayunpaman, ang dalawang ito (hindi ang pagsasalita sa mga wika ni anupamang ibang mahimalang kaloob) ay nakatala bilang mga pangunahing kaloob at pinakamataas na kahayagan ng Espiritu sapagka’t ang dalawang ito ang may pinakamalalaking kapakinabangan na ministeryo o mga paglilingkod sa pagpapatibay ng mga banal at sa pagtatayo ng ekklesia upang isagawa ang pagsasagawa ng Diyos."
+        },
+        {
+            "id": "9-1",
+            "text": "Tulad ng pananampalataya na makapag-aalis ng mga bundok gaya ng binanggit sa 13:2 at Mar. 11:22-24."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang mahimalang kapangyarihan para sa pagpapagaling ng iba’t ibang karamdaman."
+        },
+        {
+            "id": "10-1",
+            "text": "Mga himala, mga gawain ng mahimalang kapangyarihan, tulad ng ginawa ni Pedro sa pagbabangon kay Dorcas mula sa kamatayan (Gawa 9:36-42), hindi kabilang ang pagpapagaling ng mga karamdaman."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang magsalita para sa Diyos at ang salitain ang Diyos, kasama ang pagsasabi ng mga bagay bago pa mangyari. Ang magsalita para sa Diyos at ang salitain ang Diyos ay mula sa kaloob ng buhay at yaon ay napaunlad dahil sa paglago ng buhay; samantalang ang pagsasabi ng mga bagay bago pa ito mangyari o panghuhula ay mahimalang kaloob na walang kaugnayan sa buhay (tingnan ang tala 5)."
+        },
+        {
+            "id": "10-3",
+            "text": "Ang kilalanin ang kaibhan ng Espiritu na sa Diyos mula roon sa mga hindi sa Diyos (1 Tim. 4:1; 1 Juan 4:1-3)."
+        },
+        {
+            "id": "10-4",
+            "text": "Isang wastong wika o salita (Gawa 2:4, 6, 8, 11) maging sa tao o sa mga anghel (13:1), hindi mga walang kabuluhang tinig o mga tunog. Ang tunay at wastong pagsasalita sa mga wika ay isa sa maraming kaloob ng Espiritu (b. 4), isa sa maraming aspekto ng kahayagan ng Espiritu (b. 7). Ang ilan ay nag-aakala na ang pagsasalita sa mga wika unang-una ay ang nauunang katibayan ng pagkabautismo sa Espiritu, nguni’t pagkatapos ay nagiging isang kaloob ng Espiritu: sinasabi nila na bilang ang nauunang katibayan, ang bawa’t mananampalataya ay dapat magtaglay nito; at bilang isang kaloob, ang bawa’t mananampalataya ay hindi kinakailangang magtaglay nito. Subali’t ang ganitong uri ng pagtuturo ay walang saligan sa Bagong Tipan. Ginagawang higit pa sa malinaw ng Bagong Tipan na ang pagsasalita sa mga wika ay isa lamang sa maraming kaloob ng Espiritu, at hindi lahat ng mga mananampalataya ay nagtataglay nito."
+        },
+        {
+            "id": "10-5",
+            "text": "Ang isalin ang hindi naiintindihang wika upang maintindihan, maunawaan (14:13). Ito ang ikasiyam na aytem ng kahayagan ng Espiritu na itinala rito. Gayunpaman, ang kahayagan ng Espiritu sa pamamagitan ng mga mananampalataya ay higit pa sa siyam na aytem. Ang pagka-apostol, mga pagtulong, at mga pangangasiwa na ibinunga ng Espiritu na nakatala sa bersikulo 28, pagkakaroon ng mga pangitain at ang pananaginip ng mga panaginip sa pamamagitan ng Espiritu gaya ng nabanggit sa Gawa 2:17, ang mga tanda at mga kababalaghan na tinutukoy sa Heb. 2:4, at ang tatlo sa limang mahihimalang gawa na ipinropesiya sa Mar. 16:17-18, ay pawang hindi nakatala rito. Ang apostol ay nagtala lamang rito ng siyam na aytem ng kahayagan ng Espiritu bilang halimbawa. Sa siyam na ito, ang pagsasalita sa mga wika at pagpapaliwanag ng mga wika ay ang dalawang huling bagay na itinala, sapagka’t ang dalawang ito ay hindi kasing kapaki-pakinabang ng ibang aytem para sa pagtatayo ng ekklesia (14:2-6, 18-19). Sa siyam na aytem na ito at yaong mga nakatala sa mga bersikulo 28-30, ang pagpopropesiya ng propesiya, ang pananampalataya, mga kaloob na pagpapagaling, mga gawain ng kapangyarihan, pagsasalita sa mga wika, at pagpapaliwanag ng mga wika ay mahimala. Ang lahat ng natitira, isang salita ng karunungan (gaya ng salita ng mga apostol), isang salita ng kaalaman (gaya ng salita ng mga tagapagturo), at pagsasalita para sa Diyos at pagsasalita ng Diyos sa pagpopropesiya sa pamamagitan ng mga propeta, pagkilala ng mga espiritu, mga pagtulong, at mga pangangasiwa, ay mga kaloob na napaunlad ng paglago sa buhay (3:6-7), gaya ng mga nakatala sa Roma 12:6-8, mula sa mga panloob, na nauunang kaloob na binanggit sa 1:7 (tingnan ang tala roon). Ang mga mahimalang kaloob, lalo na ang pagsasalita sa mga wika at ang pagpapaliwanag ng mga wika, ay hindi nangangailangan ng anumang paglago sa buhay. Ang mga taga-Corinto ay nagsagawa ng maraming pagsasalita sa mga wika nguni’t sila ay nanatili pa rin sa pagkasanggol (3:1-3). Gayunpaman, ang mga kaloob na napaunlad sa buhay ay nangangailangan ng paglago sa buhay, maging ng pagkagulang, para sa pagtatayo ng ekklesia. Isinulat sa kanila ang Sulat na ito para sa layuning ito."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “sapagka’t” ay nagsasaad na ang bersikulong ito ay isang pagpapaliwanag ng bersikulo 11. Sinasabi ng bersikulo 11 na ang iisang Espiritu ang nagsasagawa ng lahat ng iba’t ibang aspekto ng kahayagan ng Espiritu, ibinabahagi ang mga yaon sa maraming mananampalataya nang isahan. Ito ay tulad lamang ng ating pisikal na katawan na iisa nguni’t may maraming sangkap."
+        },
+        {
+            "id": "12-2",
+            "text": "Sa Griyego, may tiyak na pantukoy na “ang”, kaya, “ang Kristo.” Ang Kristong ito ay tumutukoy sa sama-samang Kristo na binubuo ni Kristo Mismo bilang ang Ulo at ng ekklesia bilang Kanyang Katawan, kasama ang lahat ng mga mananampalataya bilang sangkap nito. Ang lahat ng mananampalataya ni Kristo ay organikong kaisa Niya at nabubuuan ng Kanyang buhay at elemento upang maging Kanyang Katawan na isang organismo, upang ihayag Siya. Kaya, Siya ay hindi lamang ang Ulo, bagkus ang Katawan din. Gaya nang kung paanong ang ating pisikal na katawan ay may maraming sangkap nguni’t iisa pa ring katawan, gayundin si Kristo."
+        },
+        {
+            "id": "13-1",
+            "text": "Yamang ang Espiritu ang kinasasaklawan at elemento ng ating espiritwal na bautismo at sa gayong Espiritu ay nabautismuhan tayong lahat sa isang organikong entidad, ang Katawan ni Kristo, tayong lahat dapat, anuman ang ating lipi, lahi, at katayuan sa lipunan, ay maging ang iisang Katawang ito. Si Kristo ang buhay at nilalaman ng Katawang ito, at ang Espiritu ang realidad ni Kristo. Tayong lahat ay binautismuhan sa loob ng Espiritung ito upang maging ang buháy na Katawang ito upang ihayag si Kristo."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang mga mananampalataya ni Kristo ay nabautismuhan sa pamamagitan ng tubig at ng Espiritu tungo: 1) kay Kristo, 2) sa kamatayan ni Kristo (Roma 6:3), 3) sa pangalan ng Tres-unong Diyos-ang Persona ng Tres-unong Diyos (Mat. 28:19), at 4) sa Katawan ni Kristo. Inihahatid ng pagbabautismo ang mga mananampalataya sa loob ng organikong pakikipagkaisa kay Kristo at sa Tres-unong Diyos upang sila ay maging mga buháy na sangkap ng Katawan ni Kristo. Lahat ng mga kaloob, bilang ang kahayagan ng Espiritu na ibinahagi sa mga indibiduwal na mananampalataya sa pamamagitan ng Espiritu, ay para sa kapakinabangan, sa ikatatayo, ng Katawang ito. Ang apostol ay may matinding damdamin ukol sa bagay na ito. Siya ay may matinding damdamin ukol sa Katawan, ginagawang sentro ang Katawan, hindi katulad ng mga taga-Corinto at marami pang ibang mananampalataya sa mga nagdaang siglo na tungkol sa mga espiritwal na kaloob ay nakatuon lagi sa sarili, ginagawang sentro ang sarili. Kaya, kasunod ng bersikulong ito, sila ay binigyan niya ng mahabang pagtatalakay tungkol sa Katawan. Ang kanyang layunin ay ang iligtas sila mula sa paghahangad para sa sarili pabalik sa pagbibigay-pansin sa Katawan, upang sila ay hindi na maging para sa kanilang indibiduwal na kapakinabangan kundi para sa pagtatayo ng Katawan ni Kristo."
+        },
+        {
+            "id": "13-3",
+            "text": "Tumutukoy sa mga lahi at mga nasyonalidad."
+        },
+        {
+            "id": "13-4",
+            "text": "Tumutukoy sa mga katayuan sa lipunan."
+        },
+        {
+            "id": "13-5",
+            "text": "Ang mabautismuhan sa Espiritu ay ang makapasok sa Espiritu at ang mawala sa loob Niya; ang inumin ang Espiritu ay ang tanggapin ang Espiritu at hayaan ang ating katauhan na mababaran Niya. Sa pamamagitan ng dalawang hakbanging ito tayo ay nahahalo sa Espiritu. Ang mabautismuhan sa Espiritu ay ang pasimula ng paghahalo at ito ay minsan para sa lahat. Ang inumin ang Espiritu ay ang pagpapatuloy at pagsasakatuparan ng paghahalo at ito ay patuloy, walang patid hanggang sa walang hanggan. Ito ay nangangailangan ng ating walang patid na pagtawag sa Panginoon upang umigib ng tubig nang may kagalakan sa balon ng buháy na tubig (Isa. 12:3-4; Juan 4:10, 14)."
+        },
+        {
+            "id": "24-1",
+            "text": "Lit. pinaghalo; kaya, pinagsama, tinimpla, ibinagay. Pinaghalo ng Diyos ang lahat ng iba’t ibang sangkap ni Kristo nang sama-sama paloob sa iisang Katawan. Para rito kailangan natin ang malaking transpormasyon (Roma 12:2), mula sa likas na buhay tungo sa espiritwal na buhay sa pamamagitan ng iisang Espiritu para sa praktikal na buhay-Katawan."
+        },
+        {
+            "id": "25-1",
+            "text": "Gr. schisma ; pagkakahati-hati."
+        },
+        {
+            "id": "25-2",
+            "text": "Sa buhay-Katawan, pare-parehong pangangalaga ang dapat ibigay sa lahat ng iba’t ibang sangkap. Ang pagkakaiba-iba sa pangangalaga ay nagsasanhi ng pagkakahati-hati."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang ekklesia rito ay tumutukoy kapwa sa pansansinukob at lokal na aspekto nito. Mula sa bersikulo 12 hanggang 27, ang ekklesia ay ang Katawan ni Kristo. Sa pansansinukob na aspekto, ang ekklesia bilang Katawan ay isang organismo upang mapalago at maihayag ni Kristo ang Kanyang Sarili bilang buhay ng mga mananampalataya. Sa panlokal na aspekto, ang ekklesia bilang isang kongregasyon ay para sa pagsasagawa ng Diyos ng Kanyang pangangasiwa."
+        },
+        {
+            "id": "28-2",
+            "text": "Yaong mga tinawag at isinugo ng Diyos (1:1; Roma 1:1): 1) upang ipahayag ang ebanghelyo nang ang mga makasalanan ay maligtas upang maging mga materyal para sa pagtatayo ng ekklesia; 2) upang itatag ang mga ekklesia (Gawa 14:21-23); at 3) upang ituro ang dibinong katotohanan (tingnan ang tala 1-3 sa kapitulo 9). Ang kanilang ministeryo ay pansansinukob, yaon ay, para sa lahat ng mga ekklesia."
+        },
+        {
+            "id": "28-3",
+            "text": "Yaong mga nagsasalita para sa Diyos at sinasalita ang Diyos sa pamamagitan ng pahayag ng Diyos, at kung minsan ay nagsasalita ukol sa bagay na mangyayari dahil sa inspirasyon na natanggap (Gawa 11:27-28). Para sa pagpapatibay sa mga banal at pagtatatag ng ekklesia, ang mga propeta ay pumapangalawa sa mga apostol."
+        },
+        {
+            "id": "28-4",
+            "text": "Yaong mga nagtuturo ng mga katotohanan ayon sa pagtuturo ng mga apostol (Gawa 2:42) at ng pahayag ng mga propeta. Kapwa ang mga propeta at mga guro ay pansansinukob at panlokal (Efe. 4:11; Gawa 13:1)."
+        },
+        {
+            "id": "28-5",
+            "text": "Tingnan ang tala 10-1 ."
+        },
+        {
+            "id": "28-6",
+            "text": "Tingnan ang tala 9-2 ."
+        },
+        {
+            "id": "28-7",
+            "text": "O, mga katulong, mga tulong. Ang mga ito ay tiyak na tumutukoy sa mga paglilingkod ng mga diyakono at mga diyakonesa (1 Tim. 3:8-13)."
+        },
+        {
+            "id": "28-8",
+            "text": "O, mga tagapangasiwa, tumutukoy sa tungkulin ng mga matanda sa ekklesia."
+        },
+        {
+            "id": "28-9",
+            "text": "Tingnan ang tala 10-4 . Sa ikalawang pagkakataon, ang pagsasalita sa mga wika ay itinalang huli sa mga aspekto ng pagsasagawa ng Diyos sa ekklesia."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang pagsasalita sa mga wika at pagpapaliwanag ng mga wika ay muling itinala nang huli sa ikatlong pagkakataon sa sulat ni Pablo sapagka’t nagbibigay sila ng pinakakaunting pakinabang sa ekklesia (14:4-6, 19)."
+        },
+        {
+            "id": "30-2",
+            "text": "Tiyak na ang kasagutan sa pitong katanungang ito ay pawang “hindi.”"
+        },
+        {
+            "id": "31-1",
+            "text": "O, masigasig, malugod."
+        },
+        {
+            "id": "31-2",
+            "text": "Ito ay nagsasaad na ang ilang kaloob, gaya ng pagsasalita sa mga wika at pagpapaliwanag ng mga wika, ay higit na maliit sapagka’t ang mga ito ay di-gaanong kapaki-pakinabang sa ekklesia, at ang dapat nating nasain nang masidhi ay ang mga lalong dakilang kaloob, katulad ng pagpopropesiya at pagtuturo, na higit na kapaki-pakinabang para sa pagtatayo ng ekklesia (14:1-6). Upang mataglay ang mga lalong dakilang kaloob na ito, kailangan nating lumago sa buhay tungo sa pagkagulang. Ang mga ito ay napauunlad, sa pamamagitan ng paglago sa buhay, mula sa nauunang kaloob (1:7) na ating tinanggap nang tayo ay maisilang na muli."
+        },
+        {
+            "id": "31-3",
+            "text": "Ang daan upang magkaroon ng mga lalong dakilang kaloob ay ang pag-ibig, na ganap na binigyang kahulugan sa kasunod na kapitulo."
         }
     ]
 }

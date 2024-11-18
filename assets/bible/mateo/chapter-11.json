@@ -1,5 +1,5 @@
 {
-    "chapter": 11,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -24,7 +24,7 @@
             "footnotes": [
                 {
                     "word": "Ikaw",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -41,27 +41,27 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-4"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-5"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-6"
                 }
             ],
             "outlines": null
@@ -72,7 +72,7 @@
             "footnotes": [
                 {
                     "word": "matitisod",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -83,15 +83,15 @@
             "footnotes": [
                 {
                     "word": "hinggil",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "mamasdan?",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "tambo",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": [
@@ -105,11 +105,11 @@
             "footnotes": [
                 {
                     "word": "makita?",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -120,7 +120,7 @@
             "footnotes": [
                 {
                     "word": "lalo",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -137,11 +137,11 @@
             "footnotes": [
                 {
                     "word": "pinaka-",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -152,7 +152,7 @@
             "footnotes": [
                 {
                     "word": "karahasan,",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -163,7 +163,7 @@
             "footnotes": [
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -174,11 +174,11 @@
             "footnotes": [
                 {
                     "word": "ito,",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Elias,",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -205,11 +205,11 @@
             "footnotes": [
                 {
                     "word": "Tinugtugan",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "nanambitan",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -220,11 +220,11 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "demonyo.",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -235,19 +235,19 @@
             "footnotes": [
                 {
                     "word": "kumakain",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "kaibigan",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "karunungan",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "19-4"
                 }
             ],
             "outlines": null
@@ -270,7 +270,7 @@
             "footnotes": [
                 {
                     "word": "Higit",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -281,7 +281,7 @@
             "footnotes": [
                 {
                     "word": "Hades.",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -292,7 +292,7 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -303,27 +303,27 @@
             "footnotes": [
                 {
                     "word": "sumagot",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "Pinupuri",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "25-3"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "25-4"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "25-5"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "25-6"
                 }
             ],
             "outlines": [
@@ -337,7 +337,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -348,15 +348,15 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "nakakikilala",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "nakakikilala",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -367,11 +367,11 @@
             "footnotes": [
                 {
                     "word": "nagpapagal",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "kapahingahan.",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": [
@@ -385,23 +385,23 @@
             "footnotes": [
                 {
                     "word": "Pasanin",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "pamatok",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "maamo",
-                    "note": ""
+                    "id": "29-3"
                 },
                 {
                     "word": "mapagpakumbabang",
-                    "note": ""
+                    "id": "29-3"
                 },
                 {
                     "word": "kaluluwa;",
-                    "note": ""
+                    "id": "29-4"
                 }
             ],
             "outlines": null
@@ -412,18 +412,208 @@
             "footnotes": [
                 {
                     "word": "pamatok",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "kalugud-",
-                    "note": ""
+                    "id": "30-2"
                 },
                 {
                     "word": "pasanin",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "3-1",
+            "text": "Ang salita ni Juan Bautista rito ay hindi nangangahulugang siya ay nagduda tungkol kay Kristo. Siya ay nagtanong nang ganito kay Kristo upang pukawin si Kristo na iligtas siya. Nalaman niya na si Kristo ay ang “darating na Isa,” at Siya ay matibay niyang inirekomenda sa mga tao (Juan 1:26-36). Pagkaraan niyaon, siya ay nabilanggo (4:12) at naghintay, umaasang si Kristo ay gagawa ng isang bagay upang mailabas siya mula sa bilangguan. Gayon pa man, si Kristo ay hindi gumawa ng anuman para sa kanya, kahit na Siya ay gumawa nang marami upang tumulong sa iba. Nang marinig ito ni Juan, maaaring siya ay malapit nang matisod (b. 6). Kaya, isinugo niya ang kanyang mga disipulo kay Kristo na may gayong pumupukaw na katanungan."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang Panginoon ay unang bumanggit ng “ang mga bulag ay nakatatanggap ng paningin,” sapagkat walang gayong himala sa Lumang Tipan. Sa pamamagitan nito, Siya ay nagbigay ng malinaw na katibayan kay Juan na walang ibang makagagawa ng gayong himala kundi ang Mesiyas (Isa. 35:5). Sa espiritwal na pakahulugan, ang mga bulag na tumatanggap ng paningin ay una rin. Sa pagliligtas ng Panginoon, una, binubuksan Niya ang ating mga paningin (Gawa 26:18); pagkatapos matatanggap natin Siya at makalalakad tayo upang sumunod sa Kanya."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang “mga pilay” ay sumasagisag sa mga hindi nakalalakad sa paraan ng Diyos. Pagkatapos na maligtas, sila ay makalalakad sa pamamagitan ng bagong buhay (9:5-6; Juan 5:8-9)."
+        },
+        {
+            "id": "5-3",
+            "text": "Tingnan ang tala 2-1 sa kap. 8."
+        },
+        {
+            "id": "5-4",
+            "text": "Ang “mga bingi” ay sumasagisag sa mga hindi nakaririnig sa Diyos. Pagkatapos na maligtas, sila ay makaririnig ng tinig ng Panginoon (Juan 10:27)."
+        },
+        {
+            "id": "5-5",
+            "text": "Ang “mga patay” ay sumasagisag sa mga patay sa mga kasalanan (Efe. 2:1, 5), hindi nakakaugnay ang Diyos. Pagkatapos maisilang na muli, sila ay makapagsasalamuha na sa Diyos sa pamamagitan ng kanilang naisilang na muling espiritu."
+        },
+        {
+            "id": "5-6",
+            "text": "Ang “mga dukha” ay sumasagisag sa bawat isa na walang Kristo, walang Diyos, na walang pag-asa sa sanlibutan (Efe. 2:12). Sa pagkatanggap sa ebanghelyo, sila ay napayaman kay Kristo (2 Cor. 8:9; Efe. 3:8)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang salitang ito ay nagpapahiwatig na si Juan Bautista ay maaaring “matisod” dahil sa Panginoon, sapagkat ang Panginoon ay hindi gumawa para sa kanyang kapakanan nang naaayon sa kanyang paraan. Dito hinikayat siya ng Panginoon na tahakin ang landas na itinalaga ng Panginoon para sa kanya upang siya ay maging “pinagpala.” Ang pagpapalang ito ay may malaking kaugnayan sa pakikibahagi sa kaharian ng mga kalangitan."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang kasagutan ng Panginoon kay Juan ay pahapyaw na tumutukoy sa kamalian ni Juan. Gayon pa man, ang Kanyang mga salita “sa mga kalipunan hinggil kay Juan” ay nagpapatotoo nang hayagan kay Juan."
+        },
+        {
+            "id": "7-2",
+            "text": "Gr. Tingnan nang masinsinan."
+        },
+        {
+            "id": "7-3",
+            "text": "“Ang tambo” ay sumasagisag sa isang mahina at marupok na tao (12:20; 1 Hari 14:15). Nang si Juan Bautista ay nagpapatotoo para kay Kristo sa ilang, siya ay hindi katulad ng tambo, isang mahinang tao."
+        },
+        {
+            "id": "8-1",
+            "text": "Gr. mapansin. Gayundin sa susunod na bersikulo."
+        },
+        {
+            "id": "8-2",
+            "text": "Si Juan Bautista, pagkatapos magpatotoo nang may katapangan para kay Kristo sa ilang, ay nabilanggo nang napakahabang panahon kaya siya ay nanghina. Ang ilan ay maaaring mag-isip na siya ay nagnanais na “magsuot ng malambot na pananamit sa mga bahay ng mga hari,” ngunit ang Panginoon ay nagpatotoo na siya ay hindi isang tambo na inuuga ng hangin ni hindi isang tao na nadaramitan ng malambot na pananamit."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang Panginoon ay nagpatotoo na si Juan ay “lalo pang higit kaysa isang propeta.”"
+        },
+        {
+            "id": "11-1",
+            "text": "Gr. higit na maliit. Ang lahat ng propeta bago kay Juan ay nagpropesiya lamang na si Kristo ay darating, subalit si Juan ay nagpatotoo na si Kristo ay dumating na. Ang mga propeta ay umaasang makita si Kristo, subalit nakita ni Juan si Kristo. Kaya, si Juan ay higit na dakila kaysa sa lahat ng propeta. Bagama’t nakita ni Juan ang nagkatawang-taong Kristo at ipinakilala Siya sa mga tao, siya ay hindi nagkaroon ng nabuhay na muling Kristo na nananahanan sa kanya. Ang mga tao ng kaharian ay mayroon. Si Juan ay nakapagsabi lamang ng “si Kristo ay narito,” ngunit ang mga tao ng kaharian ay makapagsasabi ng, “Sa ganang akin ang mabuhay ay si Kristo” (Fil. 1:21). Kaya, ang “pinakamaliit sa kaharian ng mga kalangitan ay higit kaysa sa kanya.” Ang pagiging higit na dakila o higit na maliit ng isa ay nababatay sa kanyang kaugnayan kay Kristo. Si Kristo ang nagpapasiyang batayan. Lalong malapit ang isang tao kay Kristo, lalo siyang dakila."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang salitang ito ay nagpapakita na hanggang sa kapanahunang ito “ang kaharian ng mga kalangitan” ay hindi pa dumarating at si Juan Bautista ay wala sa loob nito."
+        },
+        {
+            "id": "12-1",
+            "text": "“Mula sa mga araw ni Juan Bautista hanggang ngayon,” marahas na binibigo ng mga Fariseo ang mga tao sa pagpasok sa kaharian ng mga kalangitan. Kaya, yaong mga nagnanais na pumasok ay kinakailangang pumasok “sa pamamagitan ng karahasan.”"
+        },
+        {
+            "id": "13-1",
+            "text": "Ito ay nagpapatunay na ang Lumang Tipang pamamahagi ay tinapos ng pagdating ni Juan."
+        },
+        {
+            "id": "14-1",
+            "text": "O, siya."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang Malakias 4:5 ay nagpropesiya na si Elias ay darating. Nang si Juan Bautista ay ipinaglihi, nasabi na siya ay mauuna sa Panginoon sa espiritu at kapangyarihan ni Elias (Luc. 1:17). Kaya, sa isang pakahulugan, si Juan ay maituturing na “Elias, na siyang darating” (cf. 17:10-13). Gayon pa man, ang propesiya sa Malakias 4:5 sa katunayan ay matutupad sa matinding kapighatian, kapag ang tunay na Elias, na isa sa dalawang saksi, ay darating upang magbigay-kalakasan sa bayan ng Diyos (Apoc. 11:3-12)."
+        },
+        {
+            "id": "17-1",
+            "text": "Si Kristo at si Juan Bautista “ay tumugtog ng plauta” upang ipangaral ang ebanghelyo ng kaharian, subalit ang mga maka-Hudaismo “ay hindi sumayaw” para sa kagalakan ng kaligtasan; si Juan at si Kristo “ay nanambitan” upang ipangaral ang pagsisisi, subalit “hindi nila dinagukan ang kanilang dibdib” dahil sa kahapisan ng kasalanan. Ang katuwiran ng Diyos ay nag-uutos sa kanila na magsisi, ngunit sila ay hindi sumunod; ang biyaya ng Diyos ay nagbigay ng kaligtasan sa kanila, ngunit sila ay hindi tumanggap nito."
+        },
+        {
+            "id": "18-1",
+            "text": "Si Juan, na dumarating upang dalhin ang mga tao sa pagsisisi (Marc. 1:4) at sinasanhi silang mangahapis para sa kasalanan, ay walang panlasa para sa pagkain at pag-inom (Luc. 1:15-17); samantalang si Kristo, na dumarating upang dalhin ang kaligtasan sa mga makasalanan at sinasanhi silang mangagalak dito ay nagkaroon ng kagalakan sa pagkain at pag-inom na kasama sila (9:10-11). Sinusunod ng mga tao ng kaharian, sa ilalim ng walang regulasyon, ang dibinong karunungan, itinutuon ang kanilang pansin sa Kristong nananahanan sa kanila, na Siya nilang karunungan (1 Cor. 1:30), hindi sa panlabas na pamamaraan ng buhay."
+        },
+        {
+            "id": "18-2",
+            "text": "Sapagkat si Juan Bautista ay namuhay sa isang mahiwaga at kakatwang paraan, na hindi kumakain ni umiinom sa karaniwang paraan, ang mga tagasalungat ay nagsabi, “Siya ay may isang demonyo” — Siya ay inalihan ng demonyo."
+        },
+        {
+            "id": "19-1",
+            "text": "Tingnan ang tala 18-1 ."
+        },
+        {
+            "id": "19-2",
+            "text": "Si Kristo ay hindi lamang ang Tagapagligtas, bagkus ang “Kaibigan” din ng mga makasalanan, nakikiramay sa kanilang mga suliranin at dinarama ang kanilang mga kalungkutan."
+        },
+        {
+            "id": "19-3",
+            "text": "Ang “karunungan” ay si Kristo (1 Cor. 1:24, 30). Anuman ang ginawa ni Kristo ay naisagawa sa pamamagitan ng karunungan ng Diyos, na Siyang si Kristo Mismo. Ang karunungang ito ay “nabigyang-katuwiran,” napanindigan, sa pamamagitan ng Kanyang matatalinong “gawa,” ng Kanyang matatalinong gawain."
+        },
+        {
+            "id": "19-4",
+            "text": "Ang ilang awtoridad ay isinalin na “mga anak” (tingnan ang Luc. 7:35). Inaaring makatuwiran ng mga tao ng kaharian, ang “mga anak ng karunungan,” si Kristo at ang Kanyang mga gawa, at sila ay sumusunod sa Kanya bilang kanilang karunungan."
+        },
+        {
+            "id": "22-1",
+            "text": "Tingnan ang tala 15-1 sa kap. 10. Gayundin sa b.24."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang Hades, na katumbas ng Seol sa Lumang Tipan (Gen. 37:35; Awit 6:5) ay ang lugar kung saan ang mga kaluluwa at mga espiritu ng mga namatay ay nakalagak (Luc. 16:22-23; Gawa 2:27)."
+        },
+        {
+            "id": "24-1",
+            "text": "Tingnan ang tala 15-1 sa kap. 10."
+        },
+        {
+            "id": "25-1",
+            "text": "Habang pinagagalitan ng Panginoon ang mga tao ng mga lunsod, Siya ay nakipagsalamuha sa Ama. “Sa oras na yaon,” nang “sumagot” Siya sa Ama, Kanyang sinalita ang sumusunod na papuri sa Kanya sa bb. 25-26."
+        },
+        {
+            "id": "25-2",
+            "text": "Gr. kilalanin nang may papuri. Kinilala ng Panginoon ang pamamaraan ng Ama sa pagpapatupad ng Kanyang ekonomiya nang may papuri. Bagama’t siniraan Siya ng mga tao sa halip na tumugon sa Kanyang ministeryo (bb. 16-19), at tinanggihan Siya ng mga punong lunsod (bb. 20-24), Kanyang pinapurihan ang Ama, kinikilala ang kalooban ng Ama. Siya ay hindi naghanap ng kaunlaran sa Kanyang gawa, kundi ng kalooban ng Ama; Siya ay hindi nasiyahan at nagpahinga sa loob ng pag-unawa at pagtanggap ng tao, kundi sa pagkaalam ng Ama (bb. 26-27)."
+        },
+        {
+            "id": "25-3",
+            "text": "Sa nagpupuring pagbati ng Panginoon, ang “Ama” ay tumutukoy sa relasyon ng Ama sa Kanya, ang Anak; samantalang ang “Panginoon ng langit at ng lupa” ay tumutukoy sa relasyon ng Diyos sa sansinukob. Nang ang bayan ng Diyos ay nagapi ng Kanyang kaaway, Siya ay tinawag na Diyos ng langit (Ezra 5:11-12; Dan. 2:18; 2:37). Subalit nang may isang taong tumatayo para sa Diyos sa lupa, Siya ay tinawag na May-ari ng langit at lupa (Gen. 14:19, 22). Ngayon, ang Panginoon, bilang ang Anak ng Tao, ay tumawag din sa Ama ng “Panginoon ng langit at ng lupa,” nagpapakita na Siya ay tumatayo sa lupa para sa kapakanan ng Diyos."
+        },
+        {
+            "id": "25-4",
+            "text": "Ang mga bagay tungkol sa kaalaman ng Anak at ng Ama (b. 27)."
+        },
+        {
+            "id": "25-5",
+            "text": "“Ang mga pantas at matatalino” ay tumutukoy sa mga tao ng tatlong lunsod na hinatulan sa kanilang mga kasalanan sa mga bersikulo 20-24, na mga pantas at matatalino sa kanilang sariling paningin. Ang kalooban ng Ama ay ang ikubli ang kaalaman tungkol sa Anak at Ama mula sa mga gayong tao."
+        },
+        {
+            "id": "25-6",
+            "text": "Ang “mga sanggol” ay tumutukoy sa mga disipulo, na mga anak ng karunungan. (Tingnan ang tala 19-4 ). Nalulugod ang Ama na ihayag kapwa ang Anak at Ama sa kanila."
+        },
+        {
+            "id": "26-1",
+            "text": "Gr. sa harapan Mo."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang “lahat” ay tumutukoy sa lahat ng nalabi na ibinigay ng Ama sa Anak (Juan 3:27; 6:37, 44, 65; 18:9). Ang salitang ito ay nagpapahiwatig na tinanggihan ng mga pantas at matatalino ang Anak sapagkat hindi nalulugod ang Ama na ibigay sila sa Anak."
+        },
+        {
+            "id": "27-2",
+            "text": "Ganap na kaalaman, hindi lamang obhektibong pagkakilala. Tungkol sa Anak, tangi lamang ang Ama ang may gayong kaalaman; at tungkol sa Ama, tangi lamang ang Anak ang may gayong kaalaman. Kaya upang makilala ang Anak ay nangangailangan ng pahayag ng Ama (16:17), at upang makilala ang Ama ay nangangailangan ng pahayag ng Anak (Juan 17:6, 26)."
+        },
+        {
+            "id": "28-1",
+            "text": "Ito ay hindi lamang tumutukoy sa pagpapagal ng pagsisikap na matupad ang mga batas ng kautusan at mga makarelihiyong regulasyon, bagkus sa pagpapagal ng pagpupunyagi na maging matagumpay sa anumang gawain. Kung gayon sinumang nagpapagal ay laging nangabibigatang lubha. Matapos purihin ng Panginoon ang Ama, kinikilala ang daan ng Ama at hinahayag ang dibinong ekonomiya, Kanyang tinawag ang ganitong uri ng mga tao na “pumarito” upang makamtan ang kapahingahan."
+        },
+        {
+            "id": "28-2",
+            "text": "Ang “kapahingahan” ay hindi lamang tumutukoy sa pagiging malaya mula sa pagpapagal at pasanin sa ilalim ng kautusan at relihiyon o sa ilalim ng alinmang gawain at responsabilidad, bagkus tumutukoy rin sa perpektong kapayapaan at lubos na kasiyahan."
+        },
+        {
+            "id": "29-1",
+            "text": "Gr. buhatin."
+        },
+        {
+            "id": "29-2",
+            "text": "Ang “pamatok” ng Panginoon ay ang kunin ang kalooban ng Ama. Ito ay hindi ang mapangasiwaan o makontrol ng anumang mga obligasyon ng kautusan o relihiyon, ni maging alipin ng anumang gawa, kundi ang mapilit ng kalooban ng Ama. Ipinamuhay ng Panginoon ang isang gayong buhay, na walang pinag-uukulan ng pansin maliban sa kalooban ng Kanyang Ama (Juan 4:34; 5:30; 6:38). Kanyang isinuko ang Kanyang Sarili nang lubusan sa kalooban ng Ama (26:39, 42). Dahil dito, nais Niyang “matuto” tayo mula sa Kanya."
+        },
+        {
+            "id": "29-3",
+            "text": "Ang maging “maamo” ay nangangahulugang huwag lumaban sa anumang pagsalungat, at ang maging “mapagpakumbaba” ay nangangahulugang huwag maging palalo. Sa lahat ng pagsalungat ang Panginoon ay maamo, at sa lahat ng pagtanggi Siya ay may mapagpakumbabang puso. Isinuko Niya nang lubusan ang Kanyang Sarili sa kalooban ng Kanyang Ama, hindi ninanais na gumawa ng kahit ano para sa Kanyang Sarili ni umaasang magkamit ng isang bagay para sa Kanyang Sarili. Dahil dito, anuman ang kalagayan, Siya ay nagkaroon ng kapahingahan sa Kanyang puso; Siya ay lubusang nasiyahan sa kalooban ng Kanyang Ama."
+        },
+        {
+            "id": "29-4",
+            "text": "Ang kapahingahan na ating natatagpuan sa pamamagitan ng pagpasan ng pamatok ng Panginoon at pagkatuto sa Kanya ay para sa kapahingahan ng ating mga “kaluluwa.” Ito ay isang panloob na kapahingahan, hindi basta anumang bagay na panlabas sa kalikasan."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang “pamatok” ng Panginoon ay ang kalooban ng Ama, at ang Kanyang “pasanin” ay ang gawain upang isakatuparan ang kalooban ng Ama. Ang gayong pamatok ay “kalugud-lugod,” hindi mapait, at ang gayong pasanin ay “magaan,” hindi mabigat."
+        },
+        {
+            "id": "30-2",
+            "text": "Gr. sumasagisag na angkop para gamitin; samakatwid, mabuti, mabait, mahinahon, mayumi, madali, kalugud-lugod, na pawang salungat sa matigas, mabagsik, matalim, mapait."
         }
     ]
 }

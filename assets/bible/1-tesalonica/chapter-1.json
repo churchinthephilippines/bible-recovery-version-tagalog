@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Tesalonica",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -38,19 +38,19 @@
             "footnotes": [
                 {
                     "word": "gawa",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "pagpapagal",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "pagtitiis",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": null
@@ -61,7 +61,7 @@
             "footnotes": [
                 {
                     "word": "pagkapili",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": [
@@ -74,7 +74,7 @@
             "footnotes": [
                 {
                     "word": "kung",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -85,11 +85,11 @@
             "footnotes": [
                 {
                     "word": "tagatulad",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -100,7 +100,7 @@
             "footnotes": [
                 {
                     "word": "tularan",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -111,7 +111,7 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -122,15 +122,15 @@
             "footnotes": [
                 {
                     "word": "nangagbalik",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "mangaglingkod",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "buháy",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -141,14 +141,88 @@
             "footnotes": [
                 {
                     "word": "hintayin",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "kapootang",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang Sulat na ito at ang ikalawa ay kapwa sinulat para sa ekklesia-lokal na nasa Tesalonica, na binubuo ng lahat ng mga mananampalataya kay Kristo sa lunsod na yaon. Ang isang gayong ekklesia-lokal ay sa mga mananampalataya at nasa Diyos Ama at Panginoong Hesu-Kristo. Ito ay nagpapakita na ang isang gayong ekklesia-lokal ay isinilang ng Diyos Ama na taglay ang Kanyang buhay at kalikasan at kaisa ng Panginoong Hesu-Kristo nang organiko sa lahat ng kung ano Siya at Kanyang nagawa. Kaya nga, ang ekklesia ay sa mga tao (katulad ng mga taga-Tesalonica) subalit sa pang-organiko, ito ay nasa Diyos at nasa Panginoon. Ang isang gayong organikong pakikipag-isa sa dibinong buhay at kalikasan ay ang napakahalagang saligan upang ang mga mananampalataya ay makapamuhay ng isang pinabanal na pamumuhay para sa buhay-ekklesia, na siyang pangunahing paksa ng dalawang Sulat."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang Tesalonica ay isang lunsod ng Emperyong Romano sa lalawigan ng Macedonia, hilaga ng lalawigan ng Acaya. Ito ang sumunod na lunsod na dinalaw ni Apostol Pablo at ng kanyang kamanggagawang si Silvano pagkatapos ng Filipos kasunod ng Macedoniang pagtawag na kanyang natanggap sa kanyang ikalawang pangministeryong paglalakbay (Gawa 16:9-12; 17:1-4). Ang apostol ay namalagi at gumawa roon sa isang maikling panahon lamang, marahil ay kulang sa isang buwan (Gawa 17:2)."
+        },
+        {
+            "id": "1-3",
+            "text": "Ipinahayag ng kapitulong ito sa atin ang Tres-unong Diyos upang tamasahin natin sa Kanyang pagliligtas ang Kanyang tres-unong paggawa sa atin—ang paghirang ng Ama (bb. 1, 3-4), ang pagliligtas ng Anak (b. 10) at ang paglaganap, pamamahagi at paglalalin ng Espiritu Santo ng Tres-unong Diyos sa loob natin (bb. 5-6)."
+        },
+        {
+            "id": "3-1",
+            "text": "Lit. pagkilos, paggawa."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang pananampalataya rito ay tumutukoy sa kalikasan ng paggawa at kalakasan sa paggawa: ang pag-ibig ay tumutukoy sa motibo at katangian ng pagpapagal; at ang pag-asa ay tumutukoy sa pinagmumulan ng pagtitiis. Ito ay naglalarawan sa pagkakayari ng tunay na buhay-Kristiyano, na yari sa pananampalataya, pag-ibig, at pag-asa (tingnan ang tala 13-1 sa 1 Corinto 13). Ang isang gayong buhay ay hindi nagmumula sa kakayahan ng likas na katauhan ng mga mananampalataya, kundi mula sa paglalalin ng kung ano ang Diyos, na kanilang sinasampalatayanan. Nagkakaroon ng ganitong uri ng pamumuhay sa pamamagitan ng kanilang nagsasakripisyong pag-ibig—ang pag-ibig na patungkol sa kanilang mapagmahal na Panginoon, na umibig sa kanila at ibinigay ang Kanyang sarili para sa kanila, at pag-ibig na patungkol sa Kanyang mga sangkap, na Kanyang tinubos sa pamamagitan ng Kanyang kamatayan sa loob ng pag-ibig. Ang ganitong pamumuhay ay tumatagal at hindi nagbabago sa pamamagitan ng nagtutustos na kapangyarihan ng pag-asa na tumitingin sa kanilang minamahal na Panginoon, na nangakong Siya ay babalik upang sila ay kunin. Ang ganitong uring pamumuhay ang nilalaman ng Sulat. Kagila-gilalas na ang mga mananampalataya sa Tesalonica ay makapamuhay ng isang gayong buhay sa pamamagitan ng maikling ministeryo ng apostol na kulang pa sa isang buwan! Ito ay nanghihikayat sa atin na ipahayag, na may buong katiyakan ng pananampalataya, ang kumpletong ebanghelyo sa mga tipikal na di-mananampalataya, at itustos ang malalalim na katotohanan hinggil sa buhay-Kristiyano sa mga bagong mananampalataya. Sa dalawang Sulat patungkol sa batang ekklesia sa Tesalonica ay ipinahayag ang tunay na buhay-Kristiyano para sa wastong buhay-ekklesia sa isang payak at maikling paraan. Sa ilalim ng liwanag ng pagbabalik ng Panginoon, ito ay isang buhay na may tatlong panig: ang pananampalataya bilang ang simula, ang saligan; ang pag-ibig bilang ang hakbangin, ang pagkakayari; ang pag-asa bilang ang kaganapan, ang pagsasakatuparan. Ang pananampalataya ay patungkol sa Diyos (b. 8); ang pag-ibig ay patungkol sa mga banal (3:12; 4:9-10); at ang pag-asa ay nasa pagdating ng Panginoon (2:19). Ang unang Sulat ay para sa pagpapalakas-loob at pag-aaliw; ang ikalawa ay para sa pagwawasto at pagbabalanse. Ang mga mananampalataya ay dapat mamuhay, lumakad, at gumawa sa pamamagitan ng pananampalataya at pag-ibig sa pag-asa sa pagbabalik ng Panginoon; subalit tayo ay hindi dapat magkaroon ng maling haka-haka na kaagad darating ang Panginoon, sa gayon ay hindi na tayo kailangang gumawa ng anumang bagay sa pangmatagalan. Ang seksyon ng mga sulat ni Apostol Pablo ukol sa “pamumuhay-kristiyano para sa buhay-ekklesia” ay sinimulan sa aklat ng mga Taga-Roma at tinapos sa dalawang Sulat na ito. Kaya ang dalawang Sulat na ito ay maaaring ituring na pagtatapos ng tala tungkol sa pamumuhay-kristiyano para sa buhay-ekklesia."
+        },
+        {
+            "id": "3-3",
+            "text": "O, pagpapakapagod."
+        },
+        {
+            "id": "3-4",
+            "text": "Yaon ay ang pagtitiis na ating tinataglay dahil sa pag-asa natin sa Panginoon."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang paghirang ng Diyos bago ang pagkatatag ng sanlibutan para sa Kanyang walang hanggang layunin (Efe. 1:4). Nalalaman ng mga apostol na ang mga kapatid na minamahal ng Diyos ay hinirang ng Diyos sa gayong paraan para sa pagsasakatuparan ng naisin ng Kanyang puso."
+        },
+        {
+            "id": "5-1",
+            "text": "Hindi lamang ipinahayag ng mga apostol ang ebanghelyo bagkus ipinamuhay nila ito. Ang kanilang paghahain ng ebanghelyo ay hindi lamang sa pamamagitan ng pagsasalita, bagkus sa pamamagitan din ng isang buhay na nagtatanghal ng kapangyarihan ng Diyos, isang buhay na nasa loob ng Espiritu Santo at nasa loob ng katiyakan ng kanilang pananampalataya. Sila ang mga huwaran ng mabuting balita na kanilang ipinamamalita."
+        },
+        {
+            "id": "6-1",
+            "text": "Yamang ang mga tagapagpahayag ng ebanghelyo ay naging huwaran ng ebanghelyo, ang mga mananampalataya ay naging mga tagatulad nila. Ito sa gayon ay naggabay sa mga mananampalataya na sundan ang Panginoon, kinukuha Siya bilang kanilang huwaran (Mat. 11:29)."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang salitang ipinahayag ni Pablo ay ang pagsasakatawan ng Tres-unong Diyos; inihahatid at inilalalin ang Ama, Anak, at Espiritu Santo sa loob ng mga mananampalataya kay Kristo. Ito ang salita ng ebanghelyo ng Diyos na tinanggap ng mga Hentil na taga-Tesalonica."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang mga tagatulad ng mga apostol (b. 6) ay naging tularan ng lahat ng iba pang mananampalataya."
+        },
+        {
+            "id": "8-1",
+            "text": "Tumutukoy sa pananampalataya ng mananampalataya sa Diyos na nabansag kasama ang salita ng Panginoon; ito ay hindi lamang tumutukoy sa obhektibong salita ng Panginoon bagkus maging sa subhektibong pananampalataya ng mga mananampalataya na pawang naipahayag."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang mangagbalik sa Diyos mula sa mga diyos-diyosan, ang mangaglingkod sa Diyos na buháy at tunay, at ang mangaghintay sa Kanyang Anak mula sa mga kalangitan ay ang tatlong pangunahing sangkap ng buhay-Kristiyano na tinatanaw sa iba pang anggulo. Ang magbalik sa Diyos mula sa mga diyos-diyosan ay hindi lamang ang lumayo sa mga huwad na diyos, na may Diyablo at mga demonyo sa kanilang likuran, bagkus pati na rin ang lumayo sa lahat ng bagay maliban sa Diyos. Ito ay sa pamamagitan ng pananampalataya na nailalin tungo sa loob ng mga bagong mananampalataya sa pamamagitan ng pakikinig sa salita ng ebanghelyo. Ang maglingkod sa Diyos na buháy at tunay ay ang paglingkuran ang mismong Diyos na Tres-uno-ang Ama, ang Anak, at ang Espiritu-na dumaan-sa-iba’t-ibang hakbangin upang maging buhay at panustos ng buhay ng mga mananampalataya para sa kanilang pagtatamasa. Siya ay kinakailangang matamasa nila hindi lamang bilang Isa na pagtutuunan ng kanilang pagsamba, bagkus bilang ang nagpapaloob-ng-lahat na Tagatustos na nananahan sa loob nila. Ito ay isinasagawa ng pag-ibig na naibunga sa kalooban nila ng matamis na lasa ng mayamang panustos ng Ama sa pamamagitan ng Anak sa loob ng Espiritu. Ang maghintay sa Kanyang Anak mula sa mga kalangitan ay ang hintayin nang may pag-asa ang Isa na dumaan sa pagiging laman, pantaong pamumuhay, at pagkapako sa krus, pumasok tungo sa pagkabuhay na muli at umakyat sa mga kalangitan, at Siyang babalik upang tanggapin ang Kanyang mga mananampalataya tungo sa loob ng kaluwalhatian. Ito ang pag-asa na nagpapalakas sa mga mananampalataya na tumayong matatag sa kanilang pananampalataya."
+        },
+        {
+            "id": "9-2",
+            "text": "Lit. maglingkod gaya ng isang alipin."
+        },
+        {
+            "id": "9-3",
+            "text": "Ang Diyos na buháy at tunay ay salungat sa mga patay at huwad na diyos-diyosan. Sa ating pang-araw-araw na buhay, ang Diyos para sa atin at sa loob natin ay nararapat maging buháy at tunay, upang sa pamamagitan ng ating pangkasalukuyang pamumuhay ay maipatotoo natin na ang Diyos ay hindi lamang buháy bagkus tunay pa."
+        },
+        {
+            "id": "10-1",
+            "text": "Sa dahilang hinihintay natin ang pagdating ng Anak ng Diyos mula sa mga kalangitan, ang ating kinabukasan ay nakasentro sa Kanya, ang ating pamumuhay ay nagpapakita na wala tayong pag-asa rito sa lupa, at sa pangkasalukuyang panahon ay walang positibong kapalaran. Ipinakikita rin na ang ating pag-asa ay ang darating na Panginoon; Siya ang ating walang hanggang kapalaran. Ito ang nagkokontrol, nagpapanatili, at nag-iingat sa ating pagbubuhay ng buhay-Kristiyano para sa buhay-ekklesia."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang kapootan ng darating na paghuhukom ng Diyos (Roma 2:5-6, 8-9)."
         }
     ]
 }

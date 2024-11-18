@@ -1,5 +1,5 @@
 {
-    "chapter": 6,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Helenista",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Hebreo,",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -24,7 +24,7 @@
             "footnotes": [
                 {
                     "word": "marapat",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -35,11 +35,11 @@
             "footnotes": [
                 {
                     "word": "puspos",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "karunungan,",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -50,7 +50,7 @@
             "footnotes": [
                 {
                     "word": "pananalangin,",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -61,7 +61,7 @@
             "footnotes": [
                 {
                     "word": "naakit",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -72,11 +72,11 @@
             "footnotes": [
                 {
                     "word": "ipinatong",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "kanila.",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -87,11 +87,11 @@
             "footnotes": [
                 {
                     "word": "lumago,",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "pananampalataya.",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": [
@@ -104,7 +104,7 @@
             "footnotes": [
                 {
                     "word": "kababalaghan",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": [
@@ -119,11 +119,11 @@
             "footnotes": [
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "Libertino,",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -146,7 +146,7 @@
             "footnotes": [
                 {
                     "word": "Sanedrin.",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -157,7 +157,7 @@
             "footnotes": [
                 {
                     "word": "dakong",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -168,7 +168,7 @@
             "footnotes": [
                 {
                     "word": "Wawasakin",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -179,10 +179,84 @@
             "footnotes": [
                 {
                     "word": "mukha",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Mga Hudyo na nagsasalita ng Griyego. Sa pasimula ng pamumuhay-ekklesia ang pagkakaroon ng iba’t ibang wika ay nagsanhi ng kaguluhan; ang nararapat na pangangalaga ay ginamit upang malutas ito."
+        },
+        {
+            "id": "1-2",
+            "text": "Mga Hudyong nagsasalita ng Hebreo."
+        },
+        {
+            "id": "2-1",
+            "text": "O, nakalulugod."
+        },
+        {
+            "id": "3-1",
+            "text": "Gr. pleres, isang pang-uring anyo ng pleroo, ayon sa gamit dito at sa 6:5; 7:55; 11:24; at Luc. 4:1. Ang puspos ng Espiritu ay ang kalagayan matapos mapuspusan ng Espiritu sa panloob at sa pang-esensiya, tulad ng binanggit sa 13:52. Ito ay tumutukoy sa buhay, hindi sa gawain."
+        },
+        {
+            "id": "3-2",
+            "text": "Ito ay patunay na ang mapuspusan ng Espiritu ay para sa buhay, tulad sa Luc. 2:52."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang manalangin ay hindi lamang ang magsumamo sa Panginoon na gawin ang mga bagay para sa Kanyang pagkilos, bagkus ang masanay rin sa ating espiritu at mapalakas. Kaya, ang pananalangin ay kailangang mauna sa ministeryo ng salita tulad ng isinagawa ng mga apostol. Kung walang gayong pananalangin, ang salita ng ministeryo ay hindi maaaring mapasigla at mabigyan ng kapangyarihan."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 10-1 sa kap. 2."
+        },
+        {
+            "id": "6-1",
+            "text": "Tingnan ang tala 14-4 sa 1 Timoteo 4."
+        },
+        {
+            "id": "6-2",
+            "text": "Sa dahilang sila ay pinili upang maghain sa mga hapag, sila ay maaaring ibilang na mga diyakono, tulad ng mga di-lumaon na mga hinirang nina Pablo at ng kanyang mga kamanggagawa sa mga ekklesia (Roma 16:1; Fil. 1:1; 1 Tim. 3:8)."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang lumago ay tumutukoy sa paglago sa buhay, nagsasaad na ang salita ng Diyos ay isang bagay na ukol sa buhay na lumalago bilang binhing naihasik sa puso ng tao (Mar. 4:14)."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang obhektibong pananampalataya, tumutukoy sa mga pinaniniwalaan ukol kay Kristo ng mga mananampalataya (tingnan ang tala 1-1 , tal. 2, 1 Tim. 1). Ang buong pahayag ng Bagong Tipan ukol sa Persona ni Kristo at sa Kanyang nagtutubos na gawain ay ibinibilang na pananampalataya ng Bagong Tipang ekonomiya ng Diyos (Roma 16:26)."
+        },
+        {
+            "id": "8-1",
+            "text": "Tingnan ang tala 43-1 sa kap. 2."
+        },
+        {
+            "id": "9-1",
+            "text": "Nagsasaad na may ilang sinagoga sa Herusalem na binubuo ng mga nagsibalik na Hudyo ayon sa mga wikang kanilang natutunan mula sa kanilang pangangalat (cf. 2:9-11). Tingnan ang tala 2-1 sa Santiago 2."
+        },
+        {
+            "id": "9-2",
+            "text": "Nangangahulugang mga taong napalaya na sa pagiging alipin."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 5-1 sa kap. 4."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang templo (Mat. 24:15 at tala 4)."
+        },
+        {
+            "id": "14-1",
+            "text": "Ito ay tumutukoy na roon ay maaaring may mga salitang kumakalat sa gitna ng mga mananampalataya hinggil sa pagkagiba ng templo, katulad ng pinropesiya ng Panginoon sa Mat. 23:37-39 at 24:2, at mga salitang hinggil sa katapusan ng kapanahunan ng kautusan, katulad ng sinalita ng Panginoon sa Mat. 11:13. Binaligtad ng mga sumasalungat na Hudyo ang mga salita ng mga mananampalataya, katulad ng ginawa nila sa Mat. 27:40 tungkol sa salita ng Panginoon sa Juan 2:19 nang ipako nila ang Panginoon sa krus. Walang alinlangan na ang pagsalungat ng mga Hudyo ay sinulsulan ni Satanas upang hadlangan ang Bagong Tipang ekonomiya ng Diyos. Subali’t ang batayang ginamit ni Satanas para sa kanyang pagsulsol ay ang pagbabago ng kapanahunan, na laban sa mga maka-Hudyong tradisyon. Ang Bagong Tipang ekonomiya ng Diyos ay ang pagkakaroon ng isang bagong kapanahunang ganap na hiwalay sa Hudaismo. Ito ay nakapagpagalit sa mga Hudyo sa pamamagitan ng paghipo sa mga tradisyong kanilang minana sa maraming henerasyon at nagpainit ng kanilang pagsalungat, na nagsimula sa ministeryo ng Panginoon sa mga Ebanghelyo at lalong tumindi laban sa ministeryo ng mga apostol sa aklat na ito, sa panahon na ang pagkilos ng Bagong Tipan ng Panginoon ay dumaraan sa isang panahon ng pagbabago-ng-kalagayan. Ayon sa pagsasalaysay ni Lucas sa aklat na ito, ang ekklesia sa gitna ng mga Hudyo, kabilang ang mga naunang apostol, ay hindi dumaan nang matagumpay sa pagbabago-ng-kalagayan dahil sa pananatili ng impluwensiya ng kanilang kinamulatan at ng nagtataling pagsalungat mula sa kanilang maka-Hudyong kamag-anakan. Sa aklat na ito ang suliraning ito ay paulit-ulit na gumugulo sa kanila (11:1-3; 15:1-5; 21:18-26). Maging si Apostol Pablo ay nalagay sa panganib na bumalik sa mga maka-Hudyong pangingilin sa kanyang huling pagdalaw sa Herusalem (21:20-26). Tingnan ang mga tala 10-1 sa Santiago 2 at 11-1 sa Santiago 1."
+        },
+        {
+            "id": "15-1",
+            "text": "Nagsasagisag ng makalangit na anyo. Si Esteban ay isang tao sa lupa, nguni’t siya ay nagtaglay ng isang makalangit na anyo habang siya ay inuusig."
         }
     ]
 }

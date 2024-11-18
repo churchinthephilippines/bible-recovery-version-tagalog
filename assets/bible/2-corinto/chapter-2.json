@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "ipinasiya",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -26,7 +26,7 @@
             "footnotes": [
                 {
                     "word": "isinulat",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -43,7 +43,7 @@
             "footnotes": [
                 {
                     "word": "makapagsalita",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -60,7 +60,7 @@
             "footnotes": [
                 {
                     "word": "patawarin",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -71,7 +71,7 @@
             "footnotes": [
                 {
                     "word": "papagtibayin",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -82,11 +82,11 @@
             "footnotes": [
                 {
                     "word": "makilala",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pagiging",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -97,23 +97,23 @@
             "footnotes": [
                 {
                     "word": "pinatatawad",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "pinatatawad",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "pinatawad",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "nakapagpatawad",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "katauhan",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -124,11 +124,11 @@
             "footnotes": [
                 {
                     "word": "Satanas,",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "lalang.",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -139,11 +139,11 @@
             "footnotes": [
                 {
                     "word": "Higit",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -157,11 +157,11 @@
             "footnotes": [
                 {
                     "word": "espiritu,",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Macedonia.",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -172,23 +172,23 @@
             "footnotes": [
                 {
                     "word": "nangunguna",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "atin",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "natin",
-                    "note": ""
+                    "id": "14-4"
                 },
                 {
                     "word": "samyo",
-                    "note": ""
+                    "id": "14-5"
                 }
             ],
             "outlines": null
@@ -199,7 +199,7 @@
             "footnotes": [
                 {
                     "word": "ay",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -210,15 +210,15 @@
             "footnotes": [
                 {
                     "word": "ikamamatay,",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "ikabubuhay.",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "makasasapat",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -229,18 +229,128 @@
             "footnotes": [
                 {
                     "word": "kinakalakal",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "katapatan,",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "nagsasalita",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa Griyego ang mga salitang “ipinasiya” at “hatol” ay magkapareho."
+        },
+        {
+            "id": "3-1",
+            "text": "Sa unang Sulat."
+        },
+        {
+            "id": "5-1",
+            "text": "Yaon ay, makapanggipit nang labis o makapagsalita nang labis. Sinasabi ng apostol na ang nagkasala ay nagsanhi sa isang paraan ng lahat ng kalumbayan ng ekklesia. Sinasabi niya na sa “isang paraan”, upang hindi siya lumabis sa pagsasalita. Ito ay nagpapakita na siya ay isang pino, maingat, at maunawaing tao."
+        },
+        {
+            "id": "7-1",
+            "text": "O, pakitunguhan nang may biyaya."
+        },
+        {
+            "id": "8-1",
+            "text": "Gamitin ang tunay na katibayan upang pormal na patunayan."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang “makilala ang pagiging aprubado ninyo” ay nangangahulugang “ilagay kayo sa pagsubok.”"
+        },
+        {
+            "id": "9-2",
+            "text": "Nasubok na kalidad, aprubadong pag-uugali."
+        },
+        {
+            "id": "10-1",
+            "text": "O, pakitunguhan nang may biyaya."
+        },
+        {
+            "id": "10-2",
+            "text": "O, pinakitunguhan nang may biyaya."
+        },
+        {
+            "id": "10-3",
+            "text": "Lit. mukha, tulad sa 4:6; ang bahagi sa paligid ng mga mata, ang tingin bilang palatandaan ng mga panloob na kaisipan at damdamin upang ipakahulugan ang pagpapakilala sa buong katauhan. Ipinakikita nito na ang apostol ay isa na namumuhay at kumikilos sa presensiya ni Kristo, ayon sa palatandaan ng Kanyang buong katauhan na naihayag sa Kanyang mga mata. Ang kapitulo 1:1 hanggang 2:11, bilang unang bahagi, ay isang mahabang pambungad sa Sulat na ito, na sumusunod sa kanyang unang Sulat sa magugulong mananampalataya sa Corinto. Pagkatapos makatanggap ng balita ng kanilang pagsisisi (7:6-13) sa pamamagitan ng kanilang pagtanggap ng kanyang mga pagwiwika sa unang Sulat, siya ay naaliw at napalakas ang loob. Kaya kanyang isinulat ang aklat na ito upang maaliw sila at mapalakas ang loob nila sa isang napakapersonal, magiliw, at mapagmahal na paraan, sa paraan na ang Sulat na ito ay maaaring ituring na talambuhay niya. Dito natin nakikita ang isang tao na nagbubuhay ng Kristo, ayon sa kung ano ang kanyang isinulat ukol sa Kanya sa kanyang unang Sulat, sa pinakamatalik at pinakamalapit na pakikipag-ugnay sa Kanya, kumikilos ayon sa palatandaan ng Kanyang mga mata; isang taong kaisa ni Kristo, puspos ng Kristo, at tigmak ng Kristo; isa na nabasag na at natapos na sa kanyang likas na buhay. Naririto rin ang isang taong may kapasiyahang napalambot na at naibabagay sa pangyayari, may damdaming mapagmahal gayunpaman ay may pagpipigil, may kaisipang maunawain at mahinahon, at may espiritung dalisay at tunay tungo sa mga mananampalataya para sa kanilang kapakanan, upang kanilang maranasan at matamasa rin si Kristo gaya ng pagdaranas at pagtatamasa niya para sa pagsasakatuparan ng walang hanggang layunin ng Diyos sa pagtatayo ng Katawan ni Kristo."
+        },
+        {
+            "id": "11-1",
+            "text": "Ibinubunyag nito na yaong masamang si Satanas, ay nasa likuran ng mga pangyayari sa lahat ng mga bagay at gumagawa sa lahat ng mga bagay."
+        },
+        {
+            "id": "11-2",
+            "text": "Yaon ay, mga plano, mga masamang balak, mga paraan, mga pakana, mga hangarin, mga pandaraya, mga layunin, mga tangka."
+        },
+        {
+            "id": "12-1",
+            "text": "Bilang karagdagan sa kanilang mga binanggit sa mga bersikulo 10 at 11, ang apostol higit pa roon ay nagsasabi sa mga mananampalatayang taga-Corinto ng kanyang pagmamalasakit para sa kanila. Bagaman ang isang pintuan ay binuksan sa kanya sa Troas, maging ito ay nabuksan sa pamamagitan ng Panginoon, wala siyang kapahingahan sa kanyang espiritu nang hindi niya natagpuan si Tito roon, na siya niyang pinananabikang makatagpo upang makakuha ng balita tungkol sa kinalabasan ng kanyang unang Sulat sa mga mananampalatayang taga-Corinto. Kaya nga siya ay lumisan doon at nagtungo sa Macedonia (b. 13), na nananabik na makatagpo si Tito para sa balita dahilan sa kanyang malaking pagmamahal para sa kanila. Ang kanyang pagmamalasakit para sa ekklesia ay higit kaysa sa paghahayag ng ebanghelyo."
+        },
+        {
+            "id": "12-2",
+            "text": "Lit . sa loob ng Panginoon. Sa pamamagitan ng Panginoon, hindi sa pamamagitan ng pagpupunyagi ng tao."
+        },
+        {
+            "id": "13-1",
+            "text": "Ito ay nagpapakita na ang apostol ay isa na namumuhay at kumikilos sa loob ng kanyang espiritu, tulad ng ipinakita sa I Cor. 16:18."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang Sulat na ito ay isinulat sa Macedonia pagkaraan ng kanyang pamamalagi sa Efeso sa kanyang ikatlong pangministeryong paglalakbay (8:1; Gawa 20:1)."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang pandiwang ginamit dito ay nangangahulugan na pangunahan ang isang tao bilang bihag sa isang matagumpay na parada; ang buong parirala ay nangangahulugan na, “ang pangunahan ang bihag sa isang tagumpay laban sa mga kaaway ni Kristo…ipinagbubunyi ng Diyos ang Kanyang tagumpay laban sa mga kaaway ni Kristo; si Pablo (na naging pinakamalaking kalaban ng ebanghelyo) ay isang bihag na sumusunod sa mahabang hanay ng matagumpay na paradang ito, gayunpaman (ayon sa metapora) siya rin ay isang tagapagdala ng kamangyan, nagsasabog ng kamangyan (na laging ginagawa sa mga pagkakataong may parada) habang ang parada ay nagpapatuloy. Sa ganitong parada, pagdating sa Romanong kapitolyo, ilan sa mga nagaping kaaway ay pinapatay, kaya para sa kanila, ang amoy ng kamangyan ay isang samyo ng kamatayan sa ikamamatay; sa natitirang mapapatawad, ang amoy ng kamangyan ay isang samyo ng buhay sa ikabubuhay” (Conybeare). (Ang parehong metapora ay ginagamit sa Col. 2:15). Laging inihahatid ng Diyos ang mga apostol sa gayong matagumpay na daan para sa kanilang ministeryo. Sa ikalawang bahagi ng Sulat na ito, mula sa b.12 hanggang 7:16, ang apostol ay nagsasabi tungkol sa ministeryo niya at ng kanyang mga kamanggagawa. Kanya munang inihahalintulad ang kanilang ministeryo sa isang pagdiriwang ng tagumpay ni Kristo. Ang kanilang kilos sa kanilang ministeryo para kay Kristo ay tulad ng isang parada ng pananagumpay mula sa isang lugar tungo sa iba sa ilalim ng pangunguna ng Diyos. Siya at ang kanyang mga kamanggagawa ay mga bihag ni Kristo, nagdadala ng mabangong kamangyan ni Kristo, para sa Kanyang matagumpay na kaluwalhatian. Sila ay nagapi ni Kristo at naging mga bihag Niya sa mahabang hanay ng Kanyang tagumpay, isinasabog ang mabangong samyo ni Kristo mula sa isang lugar tungo sa ibang lugar. Ito ang kanilang ministeryo para kay Kristo."
+        },
+        {
+            "id": "14-2",
+            "text": "Tumutukoy sa mga nagapi at mga nabihag na bihag sa mahabang hanay ng tagumpay ni Kristo, nagdiriwang at nakikibahagi sa tagumpay ni Kristo. Ang mga apostol ay gayong uri ng mga bihag; ang kanilang kilos bilang bihag ni Kristo sa kanilang ministeryo para sa Kanya ay ang pagdiriwang ng Diyos ng tagumpay ni Kristo laban sa Kanyang mga kaaway."
+        },
+        {
+            "id": "14-3",
+            "text": "Tingnan ang tala 5-2 sa kap. 1."
+        },
+        {
+            "id": "14-4",
+            "text": "Tumutukoy sa mga tagapagdala ng kamangyan, isinasabog ang samyo ng pagkakilala kay Kristo sa Kanyang matagumpay na ministeryo tulad sa isang parada ng pananagumpay. Ang mga apostol ay gayong uri ng mga tagapagdala ng kamangyan sa ministeryo ni Kristo at mga bihag din sa mahabang hanay ng Kanyang parada ng pananagumpay."
+        },
+        {
+            "id": "14-5",
+            "text": "“Ayon sa pagkagamit sa Griyego, ang ‘samyo’ at ‘pagkakilala’ ay tumutukoy sa iisang bagay, kaya ang pagkakilala kay Kristo ay isinasagisag bilang isang samyo na naghahatid ng kalikasan at bisa nito sa pamamagitan ng gawain ng apostol” (Vincent)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang mga apostol, na nababaran ng Kristo, ay naging mabangong samyo ni Kristo. Sila ay hindi lamang matamis na samyo na ibinunga ni Kristo, bagkus si Kristo Mismo ang mabangong samyo na inihahain sa Diyos sa loob ng kanilang buhay at gawain, kapwa sa mga yaong naililigtas, bilang isang samyo ng buhay sa ikabubuhay, at sa mga yaong napapahamak, bilang isang samyo ng kamatayan sa ikamamatay."
+        },
+        {
+            "id": "16-1",
+            "text": "Ikamamatay na nagtatapos sa kamatayan; ikabubuhay na nagtatapos sa buhay, tumutukoy sa dalawang magkaibang bunga ng ministeryo ng mga apostol sa iba’t ibang uri ng tao. Ito ay isang bagay ng buhay at kamatayan! Tangi lamang ang mga bihag ng Diyos kay Kristo, na nababad kay Kristo sa pamamagitan ng Espiritu, ang karapat-dapat at may kasapatan para sa bagay na ito (3:5-6)."
+        },
+        {
+            "id": "16-2",
+            "text": "O, may kakayahan, kwalipikado, angkop, karapat-dapat. Sa Griyego tulad ng sa 3:5."
+        },
+        {
+            "id": "17-1",
+            "text": "O, nagtitingi, naglalako, nagbibili ng mga bagay na mababa ang uri sa mataas na halaga na ginagawa ng mabababang uring manlalako sa madayang paraan. Marami ang sumasali sa ganitong uri ng paglalako, pinipilipit ang salita ng Diyos para sa kanilang pakinabang. Subali’t ang mga apostol ay hindi ganito, sapagka’t ang kanilang ministeryo ay mula sa katapatan at mula sa Diyos na sinasalita sa loob ni Kristo ang salita ng Diyos sa paningin ng Diyos. Gaano katapat at katunay ang ministeryo ng apostol!"
+        },
+        {
+            "id": "17-2",
+            "text": "*Gr. ilikrinia ; Ing. sincerity , o sinseridad."
+        },
+        {
+            "id": "17-3",
+            "text": "Yaon ay, nagtutustos ng salita ng Diyos."
         }
     ]
 }

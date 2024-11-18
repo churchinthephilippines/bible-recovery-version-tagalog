@@ -1,5 +1,5 @@
 {
-    "chapter": 15,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "tunay",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "magsasaka.",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -37,7 +37,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -54,7 +54,7 @@
             "footnotes": [
                 {
                     "word": "matatapong",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -65,11 +65,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "hingin",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -80,7 +80,7 @@
             "footnotes": [
                 {
                     "word": "naluluwalhati",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -97,7 +97,7 @@
             "footnotes": [
                 {
                     "word": "tinutupad",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -108,7 +108,7 @@
             "footnotes": [
                 {
                     "word": "kagalakan",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -128,7 +128,7 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -145,7 +145,7 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -156,15 +156,15 @@
             "footnotes": [
                 {
                     "word": "magsiyaon",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "upang",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "hingin",
-                    "note": ""
+                    "id": "16-3"
                 }
             ],
             "outlines": null
@@ -175,7 +175,7 @@
             "footnotes": [
                 {
                     "word": "mangag-",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -194,11 +194,11 @@
             "footnotes": [
                 {
                     "word": "taga",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "taga",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -221,7 +221,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -244,7 +244,7 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -255,11 +255,11 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "nagbubuhat",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -269,6 +269,84 @@
             "text": "At kayo naman ay magpapatotoo, sapagka’t kayo ay nangakasama Ko buhat pa nang una.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang tunay na puno ng ubas na ito, ang Anak, na kasama ang mga sanga nito, ang mga mananampalataya sa Anak, ay ang organismo ng Tres-unong Diyos sa ekonomiya ng Diyos upang lumago sa pamamagitan ng Kanyang mga kayamanan at upang ihayag ang Kanyang dibinong buhay."
+        },
+        {
+            "id": "1-2",
+            "text": "Lit. tagapaglinang ng lupa, mambubungkal ng lupa, ang magsasaka (2 Tim. 2:6; Sant. 5:7; Mat. 21:33). Ang Ama, bilang ang magsasaka, ay ang pinagmulan, ang may-akda, ang tagapagplano, ang tagapagtanim, ang buhay, ang substansiya, ang lupa, ang tubig, ang hangin, ang sinag ng araw, ang lahat-lahat sa puno ng ubas. Ang Anak bilang ang puno ng ubas ay ang sentro ng ekonomiya ng Diyos at ang pagsasakatawan ng lahat ng kayamanan ng Ama. Ang Ama, sa pamamagitan ng paglilinang sa Anak, ay nagsasagawa ng Kanyang Sarili kasama ang lahat ng mga Kanyang kayamanan tungo sa loob ng puno ng ubas na ito, at sa katapusan ay inihahayag ng puno ng ubas ang Ama sa pamamagitan ng mga sanga nito sa isang sama-samang paraan. Ito ang ekonomiya ng Ama sa sansinukob."
+        },
+        {
+            "id": "4-1",
+            "text": "Lit. mula sa."
+        },
+        {
+            "id": "6-1",
+            "text": "Para sa isang sanga na maitapon ay nangangahulugang ito ay maputol mula sa pakikilahok sa mga kayamanan ng buhay ng puno ng ubas."
+        },
+        {
+            "id": "7-1",
+            "text": "Gr. rhema . Tingnan ang tala 63-3 sa kapitulo 6."
+        },
+        {
+            "id": "7-2",
+            "text": "Kapag tayo ay nananatili sa Panginoon at hinahayaan natin ang Kanyang mga salita na manatili sa atin, sa katunayan tayo ay kaisa Niya, at Siya ay gumagawa sa loob natin. Sa gayon, anuman ang ating hingin, hindi lamang tayo ang nananalangin, bagkus Siya rin ay nananalangin sa ating pananalangin. Ang ganitong uri ng panalangin ay may kaugnayan sa pamumunga (b. 8) at tiyak na matutupad. Tingnan ang tala 16-2 ."
+        },
+        {
+            "id": "8-1",
+            "text": "Dahil sa pamumunga ng mga sanga ng puno ng ubas ang dibinong buhay ng Ama ay naihahayag; kaya Siya ay naluluwalhati."
+        },
+        {
+            "id": "10-1",
+            "text": "Kapag tayo ay nananatili sa Panginoon, sasabihin Niya ang Kanyang kagyat na salita (b. 7 at tala 1) sa loob natin. Ang mga salitang ito ay ang Kanyang mga utos sa atin. Kung ito ay susundin natin, nangangahulugan lamang na iniibig natin Siya; sa gayon, tayo ay mananatili sa Kanyang pag-ibig."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang maging mga sanga ng dibinong puno ng ubas at ang mamunga upang ihayag ang dibinong buhay ay isang bagay ng kagalakan-isang pamumuhay na puno ng kagalakan."
+        },
+        {
+            "id": "13-1",
+            "text": "Gr. psuche , kaluluwa, pangkaluluwang buhay."
+        },
+        {
+            "id": "15-1",
+            "text": "Gr. para . Ang kahulugan dito ay “tuwirang mula.”"
+        },
+        {
+            "id": "16-1",
+            "text": "Ang salitang magsiyaon sa 14:4 at 16:5 ay magkatulad sa Griyego. Ang ganitong bunga na ibinunga sa pagyaon ay hindi ang bunga ng magaling na pag-uugali na katulad ng binanggit sa Gal. 5:22-23 na siyang bunga ng Espiritu sa loob ng pamumuhay ng mga mananampalataya kundi ang mga mananampalataya na ibubunga ng mga mamumunga. Ito ay tumutugma sa paksa ng seksiyon mula 12:20 – 17:26 na tungkol sa pagpaparami ni Kristo. Ang ating pananatili sa loob ng Panginoon at pagkakaroon ng mga kagalingan ay hindi maaaring ibilang na pagpaparami ni Kristo; ang mga mananampalataya na ibinubunga natin sa loob ng Panginoon ay ang kongkretong pagpaparami ni Kristo. Ang tahanan ng Ama sa kapitulo 14, ang tunay na puno ng ubas sa kapitulong ito, at ang bata sa kapitulo 16, ay pawang may kaugnayan sa pagpaparami ni Kristo."
+        },
+        {
+            "id": "16-2",
+            "text": "Tayo ay yumayaon sa loob ng Panginoon upang mamunga ng mga mananampalataya. Karugtong nito ay kinakailangang alagaan sila. Ang pinakamahusay na paraan ay ang magtatag ng pagpupulong sa kanilang tahanan upang maging kanilang proteksiyon nang sa gayon matanggap nila ang pag-aaruga na kalakip ang pagpapakain at pagtuturo upang maging nananatiling bunga. Ang resulta ay magiging mga sangang nabubuhay sa loob ng tunay na puno ng ubas, na ang ibig sabihin ay nabubuhay sa gitna ng Katawan ni Kristo upang maging pagpaparami ni Kristo."
+        },
+        {
+            "id": "16-3",
+            "text": "Ang paghingi sa pangalan ng Panginoon ay nangangailangan na manatili tayo sa Panginoon at hayaan natin Siya at ang Kanyang mga salita na manatili sa atin upang sa katunayan tayo ay maging kaisa Niya. Sa gayon ang paghingi natin ay magiging ang Kanyang paghingi sa loob ng ating paghingi. Ang ganitong uri ng paghingi ay may kaugnayan sa pamumunga at tiyak na sasagutin ng Ama. Tingnan ang tala 7-2 ."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay ang pag-iibigan sa isa’t isa sa loob ng dibinong buhay ng Panginoon, sa loob ng pag-ibig ng Panginoon, at sa loob ng pag-aatas ng Panginoon sa pamumunga. Ang buhay ay ang pinagmulan, ang pag-ibig ay ang kondisyon, at ang pamumunga ay ang layunin. Kung tayong lahat ay mamumuhay sa pamamagitan ng pinagmulan ng buhay ng Panginoon, sa kondisyon ng pag-ibig ng Panginoon, at para sa layunin ng pamumunga, tiyak na tiyak na mag-iibigan tayo sa isa’t isa. Ang iba’t ibang pinagmumulan ng buhay, iba’t ibang kondisyon o iba’t ibang layunin ay maglalayo sa atin mula sa pag-iibigan sa isa’t isa."
+        },
+        {
+            "id": "19-1",
+            "text": "Lit. mula sa."
+        },
+        {
+            "id": "22-1",
+            "text": "Lit. tungkol sa."
+        },
+        {
+            "id": "25-1",
+            "text": "Lit. walang batayan o dahilan."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang kahulugan sa Griyego ay “mula sa, kasama ng” (tingnan ang 14-4 ng kapitulo 1). Ang Espiritu ng realidad ay isinugo mula sa Ama, ng Anak hindi lamang mula sa Ama bagkus kasama pa ng Ama. Ang Mang-aaliw ay pumarito mula sa Ama at kasama ng Ama. Ang Ama ay ang pinagmulan. Kapag ang Espiritu ay pumaparito mula sa pinagmulan, hindi nangangahulugang iniiwan Niya ang pinagmulan kundi ang pinagmulan ay pumaparito kasama Niya. Itong Espiritu na isinugo ng Anak na pumaparitong kasama ng Ama ay magpapatotoo hinggil sa Anak. Samakatuwid, ang Kanyang patotoo hinggil sa Anak ay isang bagay na tungkol sa Tres-unong Diyos."
         }
     ]
 }

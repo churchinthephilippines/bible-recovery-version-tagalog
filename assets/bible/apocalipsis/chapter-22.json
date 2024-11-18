@@ -1,5 +1,5 @@
 {
-    "chapter": 22,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,27 +7,27 @@
             "footnotes": [
                 {
                     "word": "niya",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "ilog",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "tubig",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "kristal,",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "trono",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "gitna",
-                    "note": ""
+                    "id": "1-6"
                 }
             ],
             "outlines": [
@@ -41,23 +41,23 @@
             "footnotes": [
                 {
                     "word": "punong-",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "bunga,",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "bawa’",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "buwan,",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "dahon",
-                    "note": ""
+                    "id": "2-5"
                 }
             ],
             "outlines": [
@@ -70,19 +70,19 @@
             "footnotes": [
                 {
                     "word": "anumang",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "trono",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "paglilingkuran",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": [
@@ -98,7 +98,7 @@
             "footnotes": [
                 {
                     "word": "makikita",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": [
@@ -113,23 +113,23 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "liwanag",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "liliwanagan",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "Panginoong",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "maghahari",
-                    "note": ""
+                    "id": "5-4"
                 }
             ],
             "outlines": [
@@ -143,15 +143,15 @@
             "footnotes": [
                 {
                     "word": "niya",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "Panginoon,",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": [
@@ -164,11 +164,11 @@
             "footnotes": [
                 {
                     "word": "madaling",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "aklat",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -185,7 +185,7 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -196,7 +196,7 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -207,7 +207,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -218,11 +218,11 @@
             "footnotes": [
                 {
                     "word": "madaling",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "gantimpala",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -233,11 +233,11 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -248,23 +248,23 @@
             "footnotes": [
                 {
                     "word": "Pinagpala",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "nangaghuhugas",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "sila",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "karapatan",
-                    "note": ""
+                    "id": "14-4"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "14-5"
                 }
             ],
             "outlines": null
@@ -275,7 +275,7 @@
             "footnotes": [
                 {
                     "word": "labas",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -286,19 +286,19 @@
             "footnotes": [
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "ekklesia.",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "Ugat",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "Tala",
-                    "note": ""
+                    "id": "16-4"
                 }
             ],
             "outlines": null
@@ -309,23 +309,23 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "Halika!",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "Halika!",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "pumarito",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -336,11 +336,11 @@
             "footnotes": [
                 {
                     "word": "Aking",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "salot",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -351,7 +351,7 @@
             "footnotes": [
                 {
                     "word": "punong-",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -362,11 +362,11 @@
             "footnotes": [
                 {
                     "word": "madaling",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "Pumarito",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -377,18 +377,236 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "ay",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "banal.",
-                    "note": ""
+                    "id": "21-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “niya” ay tumutukoy sa anghel sa 21:9."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “ilog,” gaya ng sinagisag ng mga ilog sa Gen. 2:10-14, Awit 46:4, at Ezek. 47:5-9, ay sumasagisag sa kasaganaan ng buhay sa agos nito. Ito ay isang ilog na umaagos sa apat na direksiyon ng banal na lunsod katulad ng apat na ulo ng isang ilog sa Gen. 2:10-14. Ang isang ilog na ito, kasama ang mga kayamanan nito, ay nagiging maraming ilog sa ating karanasan ng iba’t ibang panig na kayamanan ng Espiritu ng buhay ng Diyos (Roma 8:2; 15:30; I Tes. 1:6; II Tes. 2:13; Gal. 5:22-23), gaya ng tinukoy sa Juan 7:38."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang “tubig ng buhay” na ito ay sumasagisag sa Diyos na nasa loob ni Kristo na naging ang Espiritu, iniaagos ang Kanyang Sarili tungo sa loob ng Kanyang mga tinubos na tao upang maging kanilang buhay at panustos ng buhay. Ito ay sinagisag ng tubig na lumabas mula sa hinampas na bato (Exo. 17:6; Blg. 20:11) at sinagisag ng tubig na dumaloy palabas mula sa tinulos na tagiliran ng Panginoong Hesus (Juan 19:34). Dito, ang tubig ng buhay na ito ay naging isang ilog na “lumalabas mula sa trono ng Diyos at ng Kordero,” upang tustusan at puspusan ang buong Bagong Herusalem. Sa gayon, ang lunsod na ito ay puspos ng dibinong buhay upang ihayag ang Diyos sa loob ng kaluwalhatian ng buhay ng Diyos."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang tubig ng buhay ay “maningning na gaya ng kristal” na walang kalabuan, ni bahagi na di-naaaninag. Kapag ang tubig ng buhay na ito ay umaagos sa atin, tayo ay pinadadalisay nito at ginagawa tayong mga naaaninag gaya ng kristal."
+        },
+        {
+            "id": "1-5",
+            "text": "Ang “trono ng Diyos at ng Kordero,” yamang iisang trono para sa Diyos at sa Kordero, ay sumasagisag na ang Diyos at ang Kordero ay iisa – Siya ay ang Kordero-Diyos, ang nagtutubos na Diyos, ang Diyos na Manunubos. Sa kawalang-hanggan, ang mismong Diyos na nakaupo sa trono ay ang ating nagtutubos na Diyos, mula sa Kaninong trono ay lumalabas ang ilog ng tubig ng buhay upang maging ating panustos at kasiyahan. Ito ay naglalarawan kung paano ipinamamahagi ng Tres-unong Diyos – ang Diyos, ang Kordero, at ang Espiritu, na sinagisag ng tubig ng buhay – ang Kanyang Sarili sa Kanyang mga tinubos sa ilalim ng Kanyang pagka-ulo (ipinahiwatig ng awtoridad ng trono) magpasawalang-hanggan."
+        },
+        {
+            "id": "1-6",
+            "text": "Ang lansangan ng banal na lunsod ay dalisay na ginto (21:21), na sumasagisag sa dibinong kalikasan. Ang ilog ng tubig ng buhay na lumalabas “sa gitna ng lansangan nito” ay sumasagisag na ang dibinong buhay ay umaagos sa dibinong kalikasan bilang ang namumukod-tanging daan para sa pang-arawaraw na buhay ng tinubos na bayan ng Diyos. Kung nasaan ang pag-agos ng dibinong buhay ay naroroon ang dibinong kalikasan bilang ang pinabanal na daan na sa pamamagitan nito ay lumalakad ang Kanyang bayan; at kung saan naroroon ang pinabanal na daan ng dibinong kalikasan ay roon umaagos ang dibinong buhay. Ang dibinong buhay at ang dibinong kalikasan bilang ang pinabanal na daan ay palaging magkasama. Kaya ang ilog ng tubig ng buhay ng Diyos ay laan sa paggamit ng mga sumusunod sa dibinong daan. Tayo ay nakapagtatamasa nitong ilog ng tubig ng buhay sa pamamagitan ng paglakad sa landas ng buhay."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang nag-iisang “punong-kahoy ng buhay” na lumalago sa magkabilang tabi ng ilog ay sumasagisag na ang punong-kahoy ng buhay ay isang baging, lumalaganap at nagpapatuloy kasabay ng agos ng tubig ng buhay upang matanggap at matamasa ng bayan ng Diyos. Anumang nilayon ng Diyos mula sa pasimula ay isinasakatuparan ng punong-kahoy ng buhay magpasawalang-hanggan (Gen. 2:9). Ang punong-kahoy ng buhay ay isinara sa tao dahil sa kanyang pagkatisod (Gen. 3:22-24), subali’t binuksan sa mga mananampalataya sa pamamagitan ng pagtutubos ni Kristo (Heb.10:19-20). Ngayon ang katamasahan kay Kristo bilang ang punong-kahoy ng buhay ay ang bahagi ng lahat ng mananampalataya (Juan 6:35, 57). Si Kristo bilang ang punong-kahoy ng buhay ay tatamasahin ng mga mandaraig na mananampalataya sa isang libong taong kaharian bilang ang kanilang pampanahunang gantimpala (2:7). Sa katapustapusan, si Kristo bilang ang punong-kahoy ng buhay ay tatamasahin ng lahat ng mga tinubos ng Diyos sa bagong langit at bagong lupa, magpasawalang-hanggan, bilang kanilang walang-hanggang bahagi (bb. 14,19). Si Kristo, bilang ang punong-kahoy ng buhay, ay ang panustos ng buhay na laan sa paggamit kasabay ng pag-agos ng Espiritu bilang ang tubig ng buhay. Ang panustos ng buhay ni Kristo ay masusumpungan kung saan umaagos ang Espiritu. Lahat ng ito ay nasa at sumasa dibinong kalikasan bilang ating pinabanal na daan, gaya ng sinagisag ng lansangan. Ito ay ang panustos ng banal na lunsod, at ito ang daan kung paano natutustusan ang lunsod."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang mga “bunga” ng punong-kahoy ng buhay ang siyang magiging pagkain ng mga tinubos ng Diyos magpasawalang-hanggan. Ang mga bungang ito ay palaging sariwa, ibinubunga bawa’t buwan, labindalawang bunga bawa’t taon. Ang pamumunga ng punong-kahoy ng buhay ng labindalawang uri ng bunga ay nangangahulugang ang bunga ng punong-kahoy ng buhay ay mayaman, sapat sa paggamit sa pagsasakatuparan ng walang hanggang administrasyon ng Diyos."
+        },
+        {
+            "id": "2-3",
+            "text": "Lit. ayon sa bawa’t buwan."
+        },
+        {
+            "id": "2-4",
+            "text": "Ang “buwan” ay nagpapakita na ang buwan ay naroroon pa rin sa bagong langit at bagong lupa upang hatiin ang labindalawang buwan; naroroon pa rin ang araw upang paghiwalayin ang araw at gabi sa tiglalabindalawang oras. Kung ang bilang na pito ay kumakatawan sa ekklesia, sumasagisag na ang Diyos ay idinagdag sa Kanyang nilikhang tao sa Kanyang pangkasalukuyang ekonomiya, ang labindalawa naman ay ang bilang ng Bagong Herusalem, sumasagisag na ang Diyos ay nakahalo sa Kanyang nilikhang tao sa Kanyang walang-hanggang administrasyon. Sa Bagong Herusalem ay may labindalawang pundasyon na taglay ang mga pangalan ng labindalawang apostol; may labindalawang pintuan, na siyang labindalawang perlas, na taglay ang mga pangalan ng labindalawang lipi, at may labindalawang uri ng bunga ng punong-kahoy ng buhay. Ayon sa espasyo, ang haba, lapad, at taas ng mismong lunsod ay labindalawang libong estadia, isang libong ulit na labindalawa, at ang mga pader nito ay isang daan at apatnapu’t apat na siko, na labindalawang ulit na labindalawa. Ayon sa panahon, sa bagong langit at bagong lupa ay may labindalawang buwan bawa’t taon, labindalawang oras sa araw at labindalawang oras sa gabi."
+        },
+        {
+            "id": "2-5",
+            "text": "Ang “mga dahon” ng puno ng buhay ay “pampagaling sa mga bansa.” Sa Bibliya, ang mga dahon ay isang sagisag ng mga gawa ng tao (Gen. 3:7). Ang mga dahon ng punong-kahoy ng buhay ay sumasagisag sa mga gawa ni Kristo. Ang mga naisilang-na-muling mananampalataya ay kumakain ng bunga ng punong-kahoy ng buhay, tinatanggap si Kristo bilang kanilang buhay at panustos ng buhay sa panloob, upang kanilang matamasa ang dibinong buhay magpasawalang-hanggan; samantalang ang mga napanauling bansa ay pinagagaling ng mga dahon ng punong-kahoy ng buhay, kinukuha ang mga gawa ni Kristo bilang kanilang gabay at regulasyon sa panlabas, upang kanilang maipamuhay ang pantaong buhay magpakailanman."
+        },
+        {
+            "id": "3-1",
+            "text": "O anumang bagay na isinumpa. Ang “sumpa” ay pumasok dahil sa pagkatisod ni Adam (Gen. 3:17), subali’t tinuos na ng pagtutubos ni Kristo (Gal. 3:13). Yamang sa bagong langit at bagong lupa ay wala nang pagkatisod, wala na ring anumang sumpa."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang trono ng Diyos at ng Kordero ay isa sa mga pagpapala na magpasawalang-hanggang tatamasahin ng mga tinubos ng Diyos. Sila ay hindi na magdurusa pa ng anumang sumpa, bagkus ang trono ng Diyos at ng Kordero ang kanilang magiging walang hanggang bahagi."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang salitang paglilingkod dito, sa Griyego, ay tumutukoy sa paglilingkod ng mga saserdote. Ang paglingkuran ang Diyos at ang Kordero ay magiging isa ring pagpapala sa mga tinubos ng Diyos magpasawalang-hanggan."
+        },
+        {
+            "id": "3-4",
+            "text": "Ang “Siya” ay tumutukoy sa Diyos at sa Kordero; ang Diyos at ang Kordero ay iisa magpasawalang-hanggan. Ito ay katulad din ng “Kanya” sa b. 4."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang makita ang mukha ng Diyos at ng Kordero at ang taglayin ang Kanyang pangalan sa kanilang noo ay magiging mga pagpapala ng pagtatamasa sa Tres-unong Diyos ng mga tinubos ng Diyos magpasawalang-hanggan."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 25-2 sa kapitulo 21."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang “liwanag ng ilawan” ay gawa ng tao, at ang “liwanag ng araw” ay nilikha ng Diyos."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang “liliwanagan sila ng Panginoong Diyos” ay isa pang pagpapala sa mga tinubos ng Diyos magpasawalang-hanggan."
+        },
+        {
+            "id": "5-4",
+            "text": "Ang “maghari magpakailanman” ay ang magiging huling pagpapala sa mga tinubos ng Diyos magpasawalang-hanggan."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “niya” ay tumutukoy sa anghel sa 21:9."
+        },
+        {
+            "id": "6-2",
+            "text": "“Ang Panginoon, ang Diyos,” na nagsugo ng Kanyang anghel upang ipakita ang mga bagay sa aklat na ito, ay ang Panginoong Hesus (1:1; 22:16)."
+        },
+        {
+            "id": "6-3",
+            "text": "Sa aklat na ito, ang Panginoong Diyos ay “ang Diyos ng mga espiritu ng mga propeta.” Ito ay tumutukoy na ang lahat ng mga propesiya sa aklat na ito ay binigyang-inspirasyon ng mismong Diyos na nagbigay-inspirasyon sa mga espiritu ng mga propeta kapwa sa Lumang Tipan at sa Bagong Tipan. Ito rin ay tumutukoy na ang mga propesiya ng aklat na ito ay may kaugnayan sa mga propesiya na nasa Lumang Tipan at Bagong Tipan, na sinalita lahat ng mga propeta sa kanilang espiritu sa ilalim ng inspirasyon ng Diyos. Kaya, upang maunawaan ang mga propesiyang ito, tayo ay kailangan ding nasa ating espiritu sa ilalim ng pagpapahid ng Diyos."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang “Ako ay madaling pumaparito” ay ang babala ng Panginoon. Kung ang babalang ito ay ating isasaalang-alang, tayo ay pagpapalain; kung hindi, ang pagpapala ay maiwawala."
+        },
+        {
+            "id": "7-2",
+            "text": "Lit. balumbon na may sulat. Gayundin sa bb. 9-10, 18-19."
+        },
+        {
+            "id": "9-1",
+            "text": "Lit. Tingnan, huwag!"
+        },
+        {
+            "id": "10-1",
+            "text": "Ang mga propesiya ni Daniel ay natatatakan, sapagka’t ang mga propesiyang yaon ay ibinigay nang malayung-malayo pa sa wakas ng panahon; samantalang ang mga propesiya ng aklat na ito ay hindi nararapat tatakan sapagka’t malapit na ang panahon."
+        },
+        {
+            "id": "11-1",
+            "text": "Maging anupaman ang isa, maging liko o matuwid, maging marumi o banal, ay isang seryosong bagay sa kapanahunan ng aklat na ito. Ang maging matuwid ay ang lumakad nang ayon sa matuwid na pamamaraan ng Diyos sa panlabas, samantalang ang maging banal ay ang mamuhay nang ayon sa banal na kalikasan ng Diyos sa panloob. Sa kapanahunan ng aklat na ito ay kailangan nating lumakad at mamuhay sa ganitong paraan upang ating matanggap ang gantimpala; kung hindi, tayo ay hahatulan bilang liko at marumi at tatanggap ng parusa sa pagbabalik ng Panginoon (b.12)."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “Ako ay madaling pumaparito” ay ang paulit-ulit na babala ng Panginoon upang ating isaalang-alang ang Kanyang “gantimpala” sa Kanyang pagbabalik."
+        },
+        {
+            "id": "12-2",
+            "text": "Lit. mga kabayaran. Sa pagbabalik ng Panginoon, ang “gantimpalang” ito ay ibibigay sa “bawa’t isang” mananampalataya, pagkatapos ng kanilang pag-akyat-na-may-masidhing-kagalakan, sa luklukan ng paghahatol ni Kristo (II Cor. 5:10; I Cor. 4:5; Roma 14:10; Mat. 16:27)."
+        },
+        {
+            "id": "13-1",
+            "text": "Ito ang deklarasyon ng Panginoon sa pagsasara ng aklat na ito na tumutugma sa idineklara ng Diyos sa pagbubukas ng aklat na ito (1:8). Ito ay tumutukoy na ang Panginoong Hesus ay ang Diyos mismo."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang Panginoong Hesus ay hindi lamang “ang Una” bagkus “ang Pasimula,” hindi lamang “ang Huli” bagkus maging “ang Wakas.” Ang una ay tumutukoy na walang nauuna sa Kanya, at ang huli ay tumutukoy na pagkatapos Niya ay wala na; samantalang ang pasimula ay nangangahulugang Siya ang pinagmumulan ng lahat ng bagay, at ang wakas ay nangangahulugang Siya ang kaganapan ng lahat ng bagay. Kaya nga, ang pagpapahiwatig dito ay hindi lamang yaong walang nasa unahan ni nasa hulihan ng Panginoong Hesus, bagkus yaong wala ring pinagmumulan ni kaganapan kung wala Siya."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang bersikulong ito ay maaaring ituring na isang pangako para sa pagtatamasa sa punong-kahoy ng buhay, na si Kristo kasama ang lahat ng mga kayamanan ng buhay; at ang ikalawang bahagi ng b. 17 ay maaaring ituring na isang pagtawag upang kunin ang tubig ng buhay, na siyang Espiritung nagbibigay-buhay. Kaya, ang aklat na ito ay nagwawakas sa isang pangako at sa isang pagtawag; ito ay kapwa para sa pagkain at pag-inom sa nagpapaloob-ng-lahat na Kristo bilang ang Espiritung nagbibigay-buhay."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang mga balabal dito ay sumasagisag sa gawi ng buhay o ugali ng mga mananampalataya. Ang hugasan ang kanilang balabal ay ang panatilihing malinis ang kanilang gawi ng buhay o ugali sa pamamagitan ng paghuhugas na ginagawa ng dugo ng Kordero (7:14; I Juan 1:7). Ito ay nagbibigay sa mga mananampalataya ng karapatang tamasahin ang punong-kahoy ng buhay at pumasok sa loob ng lunsod. Sa kawalang-hanggan, kapwa ang punong-kahoy ng buhay at ang lunsod ay magiging katamasahan para sa kanila."
+        },
+        {
+            "id": "14-3",
+            "text": "Lit. ito ay maging kanilang awtoridad doon sa punong-kahoy ng buhay."
+        },
+        {
+            "id": "14-4",
+            "text": "Pagkatapos lalangin ng Diyos ang tao, siya ay inilagay sa harapan ng punong-kahoy ng buhay (Gen. 2:8-9), tumutukoy na siya ay may pribilehiyong tamasahin ang punong-kahoy na ito. Subali’t dahil sa pagkatisod ng tao, ginamit ng Diyos ang Kanyang kaluwalhatian, kabanalan, at katuwiran upang sarhan ang daan patungo sa punong-kahoy ng buhay (Gen.3:24). Ang daan patungo sa punong-kahoy ng buhay ay muling binuksan sa mga mananampalataya (Heb.10:19-20) sa pamamagitan ng pagtutubos ni Kristo, na siyang tumupad sa lahat ng mga kahilingan ng kaluwalhatian, kabanalan, at katuwiran ng Diyos. Kaya, ang mga mananampalataya na naghugas ng kanilang mga balabal sa nagtutubos na dugo ni Kristo ay may karapatang tamasahin ang punong-kahoy ng buhay bilang kanilang walang-hanggang bahagi sa banal na lunsod, ang paraiso ng Diyos sa magpasawalang-hanggan (2:7)."
+        },
+        {
+            "id": "14-5",
+            "text": "Ang “makapasok sa lunsod sa pamamagitan ng mga pintuan” ay ang pumasok sa Bagong Herusalem, na siyang kinasasaklawan ng walang-hanggang pagpapala ng Diyos, sa pamamagitan ng nananagumpay-sa-kamatayan at namamahagi-ng-buhay na Kristo upang maisilang-na-muli (Tingnan ang tala 21-2 sa kapitulo 21)."
+        },
+        {
+            "id": "15-1",
+            "text": "Sa labas ng lunsod ay may dagat-dagatang apoy na siyang kinalalagyan ng lahat ng mga napahamak na makasalanan (Tingnan ang tala 8-1 sa kap. 21)."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit. sa ibabaw, o sa itaas."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang patotoo ng aklat na ito ay ginawa ng Panginoong Hesus “para sa mga ekklesia.” Kaya, tayo ay kailangang nasa mga ekklesia at para sa mga ekklesia, upang ang patotoong ito ay maunawaan at matupad."
+        },
+        {
+            "id": "16-3",
+            "text": "Sa Kanyang pagka-Diyos, si Kristo ay ang “Ugat ni David,” ang kanyang pinagmulan; sa Kanyang pagka-tao, Siya ay ang “Supling ni David,” ang kanyang bunga. Kaya, Siya ay kapwa ang Panginoon bilang ang Ugat, at ang binhi, ang sanga ni David, bilang ang Supling (Mat. 22: 42-45; Roma 1:3; Jer. 23:5)."
+        },
+        {
+            "id": "16-4",
+            "text": "Sa Kanyang pagbabalik, si Kristo ay magiging ang sumisikat na Araw sa Kanyang bayan sa pangkalahatan (Mal. 4:2), subali’t “ang Tala sa umaga” naman sa Kanyang mga nagbabantay na mangingibig sa partikular. Ito ay magiging isang gantimpala sa mga mandaraig (2:28). Si Kristo bilang ang Ugat at Supling ni David ay may kaugnayan sa Israel at sa kaharian, samantalang ang Kanyang pagiging maningning na Tala sa umaga ay may kaugnayan sa ekklesia at sa pag-akyat-na-may-masidhing-kagalakan. Ang tala sa umaga ay nagpapakita bago ang pinakamadil im na oras, nauuna sa pagbubukang-liwayway. Ang matinding kapighatian ay ang magiging pinakamadilim na panahong ito, pagkatapos nito, ang araw ng kaharian ay magbubukang-liwayway. Sa kaharian, ang Panginoon ay hayag na magpapakita sa Kanyang bayan bilang ang Araw, subali’t Siya ay palihim na magpapakita sa Kanyang mga mandaraig bago ang matinding kapighatian bilang ang Tala sa umaga."
+        },
+        {
+            "id": "17-1",
+            "text": "Sa mga kapitulo 2 at 3, ang Espiritu ang nagsasalita sa mga ekklesia; dito, sa wakas ng aklat, “ang Espiritu at ang kasintahang babae,” ang ekklesia, ang magkasamang nagsasalita bilang isa. Ito ay tumutukoy sa pagsulong ng ekklesia sa Kanyang pagdaranas sa Espiritu hanggang sa lubusan siyang makaisa ng Espiritu na Siyang sukdulang kahayagan ng Tres-unong Diyos. Ipinakikita sa atin ng buong pahayag ng Bibliya ang kasaysayan ng pag-ibig ng pansansinukob na mag-asawa, yaon ay, ang Kataas-taasang Makapangyarihang lumikha ng sansinukob at ng lahat, dumaan sa mga hakbangin ng pagiging laman, pantaong pamumuhay, kamatayan sa pagkapako-sa-krus, pagkabuhay-na-muli, pag-akyat-sasangkalangitan, na Siyang Ama, Anak, Espiritu, ang Tres-unong Diyos, sa sukdulan ay naging Espiritung nagbibigay-buhay, na nakipag-isang dibdib sa taong may tatlong bahagi na espiritu, kaluluwa, katawan, na dumaan sa pagkalikha, pagkatubos, pagkasilang-na-muli, pagkatransporma, pagkaluwalhati, upang mabuuang ekklesia na siyang kahayagan ng Diyos sa loob ng kawalang-hanggan, na namumuhay nang nangingibabaw at umaapaw sa kagalakan sa loob ng dibino, walang hanggan, maluwalhati at di-mapaparisang buhay na siyang paghahalo ng Diyos at tao bilang isang espiritu."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang “Halika” ay ang pagtugon ng Espiritu at ng kasintahang babae sa salita ng Panginoon sa b. 16 at sa Kanyang paulit-ulit na babala sa mga bersikulo 7 at 12. Ito ay ang masidhing pagnanais para sa pagparito ng Panginoon. Ang sinumang nakikinig sa pagtugon na ito ay dapat ding magsabi ng, “Halika!” Sa ganito ay ipinahahayag ang isang sama-samang naisin para sa pagparito ng Panginoon. Lahat ng mananampalataya na nagsisiibig sa pagpapakita ng Panginoon (II Tim. 4:8) ay nararapat magpahayag ng gayong isang sama-samang naisin."
+        },
+        {
+            "id": "17-3",
+            "text": "Ang Espiritu at ang kasintahang babae, sa isang banda, ay nagnanais na ang Panginoon ay pumarito, at sa kabilang banda, ay nananabik na ang “nauuhaw” na makasalanan ay pumarito rin upang kumuha ng tubig ng buhay nang walang bayad para sa kanyang kasiyahan. Kapag tayo ay may isang taimtim na naisin para sa pagparito ng Panginoon, tayo rin ay may isang masigasig na pagmamalasakit para sa kaligtasan ng makasalanan."
+        },
+        {
+            "id": "17-4",
+            "text": "Tingnan ang tala 14-2 1 sa kapitulong ito."
+        },
+        {
+            "id": "18-1",
+            "text": "Ayon sa mga bersikulo 16 at 20, ang “Aking” ay tumutukoy sa Panginoong Hesus, at ayon sa 1:2 ay maaaring tumutukoy rin kay Juan. Sa anumang kaso, si Juan ay kaisang espiritu ng Panginoon sa taimtim na babalang ito."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang mga pangunahing aytem ng “mga salot” na inilantad sa aklat na ito ay ang tatlong pighati ng matinding kapighatian at ang ikalawang kamatayan, yaon ay, ang pagkapahamak ng buong tao – espiritu, kaluluwa, at katawan – sa dagat-dagatang apoy. Ang mga namumukod-tanging katangian ng pagpapalang inihayag sa aklat na ito ay ang “punong-kahoy ng buhay” at ang “banal na lunsod.” Kung ang isa ay magdurusa ng mga salot o makikibahagi sa pagpapala ay nakasalalay kung paano niya pakikitunguhan ang propesiya ng aklat na ito. Tayo ay hindi dapat magdagdag dito ni mag-alis ng anuman mula rito. Ito ay dapat nating tanggapin nang naaayon sa pagkasulat nito."
+        },
+        {
+            "id": "19-1",
+            "text": "Tingnan ang tala 18-2 ."
+        },
+        {
+            "id": "20-1",
+            "text": "Ito ang pangatlong ulit sa kapitulong ito na nagbabala ang Panginoon sa atin tungkol sa Kanyang madaling pagparito."
+        },
+        {
+            "id": "20-2",
+            "text": "Ito ang panalangin ni Apostol Juan at pagtugon sa babala ng Panginoon. Ito rin ang huling panalangin sa Bibliya. Pagkatapos makinig sa aklat na ito, tayong lahat ay nararapat magkaroon ng gayong isang panalangin at pagtugon – “Pumarito Ka, Panginoong Hesus!” Ang buong Bibliya ay nagtatapos sa ating matindig pag-asam sa pagbabalik ng Panginoon na ipinahayag sa pamamagitan ng isang panalangin."
+        },
+        {
+            "id": "21-1",
+            "text": "Pagkatapos makita ang lahat ng mga pangitain at marinig ang lahat ng mga propesiya ng aklat na ito, ang kailangan natin ay ang “biyaya” pa rin ng Panginoon. Tangi lamang “ang biyaya ng Panginoong Hesus” ang makapagbibigay-kakayahan sa atin upang mamuhay at lumakad nang ayon sa mga pangitain at mga propesiyang ito. Hindi lamang ang aklat na ito, bagkus maging ang buong Bibliya rin ay nagtatapos sa ganitong biyaya, ang biyaya upang maranasan ang nagpapaloobng-lahat na Kristo at upang makilahok sa Tres-unong Diyos upang tayo ay maging Kanyang walang hanggang sama-samang kahayagan para sa katuparan ng Kanyang walang hanggang layunin, sa gayon Siya at tayo ay parehong makapagtamasa ng lubos na kasiyahan at kumpletong kapahingahan magpasawalang-hanggan."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang ilang mga sinaunang manuskrito ay nagdadagdag ng, Kristo."
+        },
+        {
+            "id": "21-3",
+            "text": "Sa ilang mga sinaunang manuskrito ay inalis ang, ng mga banal. Ang Bagong Herusalem, ay huling mayoriyang aytem na pinahayag sa aklat na ito ay hindi lamang ang konklusyon ng buong Bibliya bagkus ang sukdulang kaganapan pa ng lahat na importanteng aytem na pinahayag sa Bibliya. Ang Tres-unong Diyos, ang ekonomiya ng Tres-unong Diyos, ang katubusan ni Kristo, ang mga mananampalataya, ang ekklesia, at ang kaharian ay pawang napapasukdol sa Bagong Herusalem bilang ang napasukdol na aytem. Kaya hindi lohikal ang sabihin na ang Bagong Herusalem ay isang pisikal na lungsod; hindi ito tumutugma sa prinsipyo ng aklat na ito na gumagamit ng mga tanda para sa pahayag ng mahihiwagang bagay. Ayon sa buong pahayag ng kompletong Bibliya, ang Bagong Herusalem, ang konklusyon ng kumpletong Bibliya ay isang dibinong paghahalo ng dumaan-sa-iba’t-ibang hakbaging Tres-unong Diyos kasama ng natubos at natranspormang taong may tatlong bahagi isang paghahalo ng pagka-Diyos at pagka-tao, na nagbubunga sa isang pansansinukob, samasama, mahiwagang persona. Ang personang ito ay: (1) Ang asawa ng Kordero(21:9); (2) ang sukdulang kaganapan ng tabernakulo at templo ng Diyos bilang ang walang hanggang tahanan kapwa ng Diyos at tao sa isa’t isa (21:3,22); (3) ang sukdulang kaganapan ng gawa ng Diyos ng bagong nilikha sa lumang nilikha sa simula hanggang huling henerasyon (Gawa 4:11; Juan 2:19; Mat. 16:18; ICor. 3:9-12; IPed 2:4-5); at (4) ang sukdulang kaganapan ng walang hanggang ekonomiya ng Diyos at ng mga dibinong natupad na gawain."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -32,11 +32,11 @@
             "footnotes": [
                 {
                     "word": "magligtas",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -47,11 +47,11 @@
             "footnotes": [
                 {
                     "word": "galit,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "nanumbalik",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -62,7 +62,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -88,7 +88,7 @@
             "footnotes": [
                 {
                     "word": "daong",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -99,15 +99,15 @@
             "footnotes": [
                 {
                     "word": "pinagaling,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "sinisiksik",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -124,7 +124,7 @@
             "footnotes": [
                 {
                     "word": "binalaan",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -135,7 +135,7 @@
             "footnotes": [
                 {
                     "word": "nagsilapit",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": [
@@ -148,19 +148,19 @@
             "footnotes": [
                 {
                     "word": "humirang",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "labindalawa,",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "magpahayag,",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": null
@@ -171,7 +171,7 @@
             "footnotes": [
                 {
                     "word": "magpalayas",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -182,11 +182,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "idinagdag",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -197,7 +197,7 @@
             "footnotes": [
                 {
                     "word": "Boanerges,",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -214,7 +214,7 @@
             "footnotes": [
                 {
                     "word": "nagkanulo",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -225,11 +225,11 @@
             "footnotes": [
                 {
                     "word": "pumasok",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": [
@@ -242,7 +242,7 @@
             "footnotes": [
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -253,19 +253,19 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "Beelzebub,",
-                    "note": ""
+                    "id": "22-3"
                 },
                 {
                     "word": "pinuno",
-                    "note": ""
+                    "id": "22-4"
                 }
             ],
             "outlines": [
@@ -284,7 +284,7 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -307,11 +307,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "gapusin",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -328,11 +328,11 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "29-2"
                 }
             ],
             "outlines": null
@@ -349,7 +349,7 @@
             "footnotes": [
                 {
                     "word": "ina",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": [
@@ -368,7 +368,7 @@
             "footnotes": [
                 {
                     "word": "Sino",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -385,14 +385,160 @@
             "footnotes": [
                 {
                     "word": "gumaganap",
-                    "note": ""
+                    "id": "35-1"
                 },
                 {
                     "word": "Aking",
-                    "note": ""
+                    "id": "35-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa mga bb. 1-6, tingnan ang mga tala sa Mat. 12:9-14."
+        },
+        {
+            "id": "4-1",
+            "text": "Ito ay nagpapahiwatig na ang Aliping-Tagapagligtas ay ang Tagapagpalaya, na nagpalaya sa isang nagdurusa mula sa pagkagapos sa makarelihiyong ritwal."
+        },
+        {
+            "id": "4-2",
+            "text": "Lit. kaluluwa."
+        },
+        {
+            "id": "5-1",
+            "text": "Tungo sa mga sumasalungat, ang galit ng Tagapagligtas ay naibuhos, at lubha Niyang ikinalumbay ang kanilang pagmamatigas, ngunit tungo sa maysakit, ang Kanyang habag ay naibuhos, at ipinanumbalik Niya ang natuyong bahagi. Ang Kanyang galit at kalungkutan ay maituturing na kahayagan ng pagiging tunay ng Kanyang pagkatao; samantalang ang Kanyang pagkahabag at pagpapagaling ay isang pagsasama ng Kanyang pantaong kagalingan at Kanyang maka-Diyos na kapangyarihan. Kaya ang Kanyang pagka-Diyos ay muling naihayag sa kanyang pagkatao. Tingnan ang tala 14-1 sa kap. 10."
+        },
+        {
+            "id": "5-2",
+            "text": "Tingnan ang tala 31-1 sa kap. 1. Ang pagpapanumbalik ng natuyong kamay ay nagpakita ng kapangyarihan ng pagka-Diyos ng Aliping-Tagapagligtas."
+        },
+        {
+            "id": "6-1",
+            "text": "Tingnan ang tala 6-1 sa kap. 2."
+        },
+        {
+            "id": "9-1",
+            "text": "Unang-una ay kinailangan ng Aliping-Tagapagligtas ang dagat (b. 7) at pagkaraan ay isang maliit na daong upang maiwasan ang panggigitgit ng maraming tao, nagpapakita na ang maraming tao na gumigitgit sa Kanya ay isang hadlang sa Kanyang pang-ebanghelyong paglilingkod."
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang tala 31-1 sa kap. 1."
+        },
+        {
+            "id": "10-2",
+            "text": "Lit. binabagsakan."
+        },
+        {
+            "id": "10-3",
+            "text": "Lit. mga latay, peste."
+        },
+        {
+            "id": "13-1",
+            "text": "Lit. lumisan patungo sa."
+        },
+        {
+            "id": "14-1",
+            "text": "Ito ay para sa pagpapalaganap ng pang-ebanghelyong paglilingkod ng Aliping-Tagapagligtas."
+        },
+        {
+            "id": "14-2",
+            "text": "Tingnan ang tala 12-2 sa Apocalipsis 21."
+        },
+        {
+            "id": "14-3",
+            "text": "Tinatanggal ng ilang manuskrito ang, na tinawag Niyang mga apostol."
+        },
+        {
+            "id": "14-4",
+            "text": "Tingnan ang tala 14-2 sa kap. 1."
+        },
+        {
+            "id": "15-1",
+            "text": "Tingnan ang tala 23-1 sa kap. 1. Ang magpahayag (b. 14) ng ebanghelyo ay ang maghain ng Diyos sa mga tao; ang magpalayas ng mga demonyo ay ang itaboy si Satanas mula sa mga tao. Ang mga ito ang bumuo sa pangunahing layunin ng pang-ebanghelyong paglilingkod ng Aliping-Tagapagligtas."
+        },
+        {
+            "id": "16-1",
+            "text": "Para sa mga bb. 16-19, tingnan ang mga tala sa Mat. 10:2-4."
+        },
+        {
+            "id": "16-2",
+            "text": "Lit. inilagay ang o ipinatong ang. Kasingkahulugan nito yaong nasa b. 17."
+        },
+        {
+            "id": "17-1",
+            "text": "Gr. mula sa Aramaiko, isang pangalang idinagdag kay Santiago at Juan dahil sa kanilang karahasan (cf. Luc. 9:54-55; Marc. 9:38 at tala)."
+        },
+        {
+            "id": "19-1",
+            "text": "Lit. nagbigay. Pareho ang kahulugan sa buong aklat. *(Nagbigay sa Kanya sa mga Hudyo).*"
+        },
+        {
+            "id": "20-1",
+            "text": "Ang ilang manuskristo ay binabasang, sila ay dumating."
+        },
+        {
+            "id": "20-2",
+            "text": "Ito ay nagpapakita sa kaabalahan, kasipagan, at katapatan ng Aliping-Tagapagligtas bilang ang Alipin ng Diyos sa Kanyang pang-ebanghelyong paglilingkod."
+        },
+        {
+            "id": "21-1",
+            "text": "Ito ay isang pagbubulalas na nagpapahayag ng natural na pagmamalasakit ng mga kamag-anakan ng Aliping-Tagapagligtas sa Kanya. Ito ay nagbukas ng daan para sa mga eskriba upang Siya ay lapastanganin (b. 22)."
+        },
+        {
+            "id": "22-1",
+            "text": "Para sa bb. 22-30, tingnan ang mga tala sa Mat. 12:24-32."
+        },
+        {
+            "id": "22-2",
+            "text": "Tingnan ang tala 6-1 sa kap. 2."
+        },
+        {
+            "id": "22-3",
+            "text": "Ito ay isang salita ng paglalapastangan na sinanhi ng pagbubulalas ng natural na pagmamalasakit sa b. 21."
+        },
+        {
+            "id": "22-4",
+            "text": "Ang Aliping-Tagapagligtas ay nagpalayas ng mga demonyo, ang mga masasamang manggagawa para sa madilim na kaharian ni Satanas, datapuwa’t sinabi ng mga sumasalungat na ginawa Niya ito “sa pamamagitan ng pinuno ng mga demonyo.” Anong katusuhan ng masamang isa, na siyang nagsulsol sa mga masasamang sumasalungat upang sabihin ito! Sila ay kanyang mga kamanggagawa at mga kaisa niya."
+        },
+        {
+            "id": "24-1",
+            "text": "Ito ay nagpapakita na si Satanas ay hindi lamang mayroong bahay bagkus mayroon pang kaharian. Ang kanyang bahay ay isang bahay ng kasalanan (1 Juan 3:8, 10), at ang kanyang kaharian ay kaharian ng kadiliman (Col. 1:13). Ang mga makasalanan ay pag-aari kapwa ng kanyang bahay at ng kanyang kaharian. Ang mga demonyo ay pag-aari ng kanyang kaharian at umaali sa mga tao para sa kanyang kaharian."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang mga makasalanang nakakulong sa bahay ni Satanas para sa kanyang kaharian. Iginapos ng Aliping-Tagapagligtas si Satanas, “ang malakas na isa,” at pumasok sa kanyang bahay upang samsamin ang mga makasalanan nang sa gayon ay madala sila sa tahanan ng Diyos (Efe. 2:19) sa pamamagitan ng pagsilang na muli para sa kaharian ng Diyos (Juan 3:5)."
+        },
+        {
+            "id": "27-2",
+            "text": "Ito ay nagpapakita na habang ang Aliping-Tagapagligtas ay gumagawa ng pang-ebanghelyong paglilingkod, tinatalian Niya “ang malakas na isa,” si Satanas. Ang pang-ebanghelyong paglilingkod ay isang pakikibaka upang wasakin si Satanas at ang kanyang kaharian ng kadiliman."
+        },
+        {
+            "id": "29-1",
+            "text": "Ito ay nagsasabi na ang pang-ebanghelyong paglilingkod ng Aliping-Tagapagligtas, lalung-lalo na sa pagpapalayas ng mga demonyo upang wasakin ang madilim na kaharian ni Satanas, ay sa pamamagitan ng Espiritu Santo, na kung kanino Siya ay pinahiran at sa kaninong pamamagitan Siya ay ginagabayan nang patuloy sa Kanyang pagkilos (Luc. 4:18, 1; Marc. 1:12)."
+        },
+        {
+            "id": "29-2",
+            "text": "Isang kasalanan na hindi patatawarin magpakailanman."
+        },
+        {
+            "id": "31-1",
+            "text": "Pagkatapos ng paglapastangan ng mga sumasalungat, na sinulsulan ni Satanas, ang mga kamag-anak ng Aliping-Tagapagligtas ay muling dumating upang bagabagin Siya ng kanilang natural na pag-aalala sa Kanya. Walang pagaalinlangan na ito ay pagsusulsol din ng masamang isa."
+        },
+        {
+            "id": "33-1",
+            "text": "Tingnan ang tala 48-1 sa Mateo 12. Ito ay tumutukoy sa pagtanggi ng Aliping-Tagapagligtas sa natural na pag-aalala ng Kanyang mga kamag-anak. Upang matalo ang mga pamamaraan ng masamang isa at matupad ang Kanyang pang-ebanghelyong paglilingkod, Siya ay hindi mananatili sa kaugnayan ng likas na buhay. Ito ay nagpakita ng Kanyang pagiging ganap para sa Diyos sa Kanyang pagkatao."
+        },
+        {
+            "id": "35-1",
+            "text": "Tingnan ang tala 50-1 sa Mat. 12."
+        },
+        {
+            "id": "35-2",
+            "text": "Sa pamamagitan ng Kanyang pang-ebanghelyong paglilingkod, ginawa ng Aliping-Tagapagligtas ang mga nananampalatayang makasalanan na maging Kanyang mga espiritwal na kamag-anak, na naging Kanyang maraming kapatid (Roma 8:29; Heb. 2:11) sa bahay ng Diyos (Heb. 3:5), at Kanyang maraming sangkap para sa pagtatayo ng Kanyang mistikong Katawan (Efe. 5:30; 1 Cor. 12:12) upang gawin ang kalooban ng Diyos."
         }
     ]
 }

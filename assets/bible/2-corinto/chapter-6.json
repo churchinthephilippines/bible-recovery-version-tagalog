@@ -1,5 +1,5 @@
 {
-    "chapter": 6,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "ipinamamanhik",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -33,11 +33,11 @@
             "footnotes": [
                 {
                     "word": "lubhang",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "kaligtasan.",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -48,11 +48,11 @@
             "footnotes": [
                 {
                     "word": "Na",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "ministeryo",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": [
@@ -65,11 +65,11 @@
             "footnotes": [
                 {
                     "word": "pagtitiis,",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "pangangailangan,",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -80,11 +80,11 @@
             "footnotes": [
                 {
                     "word": "pagpupuyat,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -95,15 +95,15 @@
             "footnotes": [
                 {
                     "word": "kaalaman,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "espiritu,",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -114,11 +114,11 @@
             "footnotes": [
                 {
                     "word": "sandata",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -129,15 +129,15 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "masamang",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "mandaraya",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -148,15 +148,15 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "nangaghihingalo,",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "dinidisiplina,",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -167,15 +167,15 @@
             "footnotes": [
                 {
                     "word": "nangalulungkot,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "dukha,",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -186,11 +186,11 @@
             "footnotes": [
                 {
                     "word": "bukás",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "napalawak;",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -201,19 +201,19 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "nasisikipan",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "panloob",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -224,15 +224,15 @@
             "footnotes": [
                 {
                     "word": "ganti",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "anak,",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "malawak",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -243,15 +243,15 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "samahan",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": [
@@ -270,7 +270,7 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -281,15 +281,15 @@
             "footnotes": [
                 {
                     "word": "magsihiwalay",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "tatanggapin;",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
@@ -300,14 +300,180 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “at” dito ay nagpapakita ng isang pagpapatuloy. Sa huling bahagi ng kapitulo 5 (bb. 16-21), sinabi sa atin ng apostol na tinanggap nila, bilang mga tagapaghain ng bagong tipan, ang pag-aatas ng ministeryo ng pakikipagkasundo alang-alang sa bagong nilalang ng Panginoon. Mula sa bersikulong ito hanggang sa katapusan ng kapitulo 7, siya ay nagpapatuloy sa pamamagitan ng pagsasabi sa atin kung paano sila gumawa. Sila ay gumagawang kasama ang Diyos hindi sa pamamagitan ng anumang kaloob kundi sa pamamagitan ng isang buhay na sapat na sapat at ganap na magulang, kayang umangkop sa lahat ng mga sitwasyon, kayang magtiis ng anumang uri ng pakikitungo, tumanggap ng anumang uri ng kapaligiran, gumawa sa ilalim ng anumang uri ng kondisyon, at kumuha ng anumang uri ng pagkakataon, para sa pagsasagawa ng kanilang ministeryo."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang mga apostol ay hindi lamang tumanggap ng pag-aatas ng Diyos at nagkaroon ng kanilang ministeryo, bagkus gumawa ring kasama Siya. Sila ay mga kamanggagawa ng Diyos (1 Cor. 3:9)."
+        },
+        {
+            "id": "1-3",
+            "text": "Ito ang gawain ng pakikipagkasundo, katulad ng nabanggit sa 5:20."
+        },
+        {
+            "id": "1-4",
+            "text": "Tingnan ang tala 10-1 sa 1 Corinto 15. Ang biyaya ng Diyos ay palaging nagdadala sa atin pabalik sa Kanya. Ayon sa nilalaman, ang huwag tanggapin ang biyaya ng Diyos nang walang kabuluhan ay nangangahulugang huwag manatili sa anumang kagambalaan na maghihiwalay sa atin sa Diyos, kundi ang madala pabalik sa Kanya."
+        },
+        {
+            "id": "2-1",
+            "text": "Ito ay tumutukoy sa panahon ng ating pagiging naipagkasundo sa Diyos, kung kailan malugod Niya tayong tinatanggap."
+        },
+        {
+            "id": "2-2",
+            "text": "Ayon sa nilalaman, ang “kaligtasan” dito ay tumutukoy sa pakikipagkasundo na ipinagpatuloy mula sa katapusan ng kapitulo 5."
+        },
+        {
+            "id": "3-1",
+            "text": "Mula rito hanggang sa katapusan ng kapitulo 7 ang apostol ay naglalarawan ng isang buhay na umaangkop-sa-lahat para sa pagsasagawa ng kanilang ministeryo."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang ministeryo ng Bagong Tipan (3:8-9; 4:1)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pagtitiis ay ang pangunahing kwalipikasyon ng umaangkop-sa-lahat na buhay ng mga bagong tipang tagapaglingkod. Ito ay hindi lamang tumutukoy sa matiising puso, bagkus lalung-lalo nang tumutukoy sa kakayahang pagtiisan ang lahat ng kahirapan maging ito ay mga pagdagan, pang-iipit, pag-uusig, pangangailangan o anumang pagsubok sa gitna ng kapighatian."
+        },
+        {
+            "id": "4-2",
+            "text": "Lit. kagipitan o kakulangan sa pang-araw-araw na pangangailangan tulad ng pagkain, damit, o tirahan. Ang ganitong kagipitan ay nagiging mabigat na pandagan sa tao."
+        },
+        {
+            "id": "5-1",
+            "text": "Yaon ay, walang pagtulog, katulad ng naganap sa Gawa 16:25; 20:7-11, 31; 2 Tes. 3:8."
+        },
+        {
+            "id": "5-2",
+            "text": "Dahil sa kakulangan ng pagkain. Tingnan ang tala 27-2 sa kapitulo 11."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang kaalaman ay isang bagay na ukol sa pag-iisip; ang pag-ibig naman ay isang bagay na ukol sa puso."
+        },
+        {
+            "id": "6-2",
+            "text": "Tumutukoy sa naisilang na muling espiritu ng mga apostol. Sa mga latay sa katawan (b. 5), at kaalaman ng pag-iisip at pag-ibig ng puso (b. 6), ang buong katauhan ng mga apostol, kabilang ang katawan, kaluluwa, at espiritu, ay ineensayo sa kanilang pamumuhay para sa pagsasagawa ng kanilang ministeryo."
+        },
+        {
+            "id": "7-1",
+            "text": "Ito ay nagpapakita na ang buhay ng mga apostol para sa kanilang ministeryo ay isang buhay ng pakikipagdigma, nakikipaglaban para sa kaharian ng Diyos. Ang mga sandata ng katuwiran ay ginagamit upang makipaglaban nang sa gayon ay maging wasto tayo sa Diyos at sa mga tao nang ayon sa katuwiran ng Diyos (Mat. 6:33; 5:6, 10, 20)."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang mga sandata sa kanang kamay, katulad ng tabak, ay pansalakay, at yaong mga nasa kaliwang kamay, katulad ng kalasag, ay pananggalang."
+        },
+        {
+            "id": "8-1",
+            "text": "Kaluwalhatian mula sa Diyos at sa mga nagmamahal sa Kanya; kasiraang-puri mula sa diyablo at sa mga sumusunod sa kanya."
+        },
+        {
+            "id": "8-2",
+            "text": "Masamang ulat na nanggagaling sa mga tagasalungat at sa mga tagapag-usig (Mat. 5:11); mabuting ulat na nanggagaling sa mga mananampalataya at sa mga tumatanggap ng katotohanang ipinangaral at itinuro ng mga apostol."
+        },
+        {
+            "id": "8-3",
+            "text": "Bilang mga mandaraya sa mga mata ng mga maka-Hudaismo at ng mga kasapi sa ibang relihiyon at mga pilosopiya, subali’t tapat sa mga mata niyaong mga nagmamahal sa katotohanan ng Diyos."
+        },
+        {
+            "id": "9-1",
+            "text": "Waring hindi mga kilala dahil sa hindi idinidispley ang kanilang mga sarili, subali’t mga kilalang-kilala sa paraan ng pagsaksi sa katotohanan ng Diyos."
+        },
+        {
+            "id": "9-2",
+            "text": "Tulad sa naghihingalo sa pagdanas ng mga pag-uusig (1:8-10; 4:11; 1 Cor. 15:31), subali’t nabubuhay sa loob ng pagkabuhay na muli ng Panginoon (4:10-11)."
+        },
+        {
+            "id": "9-3",
+            "text": "Sa mababaw na pagkatanto ng mga tagasalungat, para bang ang mga apostol ay dinidisiplina, subali’t sa makapangyarihang pangangalaga ng Panginoon, sila ay hindi pinapatay."
+        },
+        {
+            "id": "10-1",
+            "text": "Tulad sa nangalulungkot dahil sa mga negatibong kondisyon ng mga ekklesia (11:28), gayunman ay palaging nangagagalak sa sapat na biyaya at sa loob ng pagkabuhay na muling buhay ni Kristo (12:9-10)."
+        },
+        {
+            "id": "10-2",
+            "text": "Tulad sa mga dukha sa mga materyal na bagay, gayunman ay nangagpapayaman sa marami sa mga espiritwal na kayamanan (Efe. 3:8)."
+        },
+        {
+            "id": "10-3",
+            "text": "Gaya ng walang anumang pag-aari sa panig ng tao, subali’t nagmamay-ari ng lahat ng mga bagay sa loob ng dibinong ekonomiya."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang lahat ng mga apostol ay pawang magulang na at naaangkop-sa-lahat katulad ng inilarawan sa mga bersikulo 3 hanggang 10. Tungo sa mga mananampalataya, sila ay bukás sa kanilang bibig at napalawak sa kanilang puso. Sa pamamagitan ng napalawak na puso, nakaya nilang mayakap ang lahat ng mga mananampalataya maging anupaman ang kanilang kondisyon, at sa pamamagitan ng isang bukás na bibig, malaya silang nakapagsalita sa lahat ng mga mananampalataya nang tahasan hinggil sa tunay na sitwasyon kung saan sila ay nailigaw. Ang ganitong uri ng pagkabukás at pagkalawak ay kinakailangan upang maipagkasundo at madala pabalik sa Diyos ang mga naligaw o mga naguluhang mananampalataya."
+        },
+        {
+            "id": "12-1",
+            "text": "O, Hindi kami ang nagpapasikip sa inyo, kundi kayo ay pinasikip ng inyong mga panloob na bahagi."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang mga mananampalatayang taga-Corinto, sa pagiging parang mga bata (b. 13), ay nangasikipan, napaliit, sa kanilang mga panloob na bahagi tungo sa mga apostol. Ang mga bata ay lubhang makitid sa kanilang panloob na pagmamahal at madaling masaktan ng mga nagwawasto sa kanila."
+        },
+        {
+            "id": "12-3",
+            "text": "Gaya ng “pag-ibig” sa 7:15. Tingnan ang tala 8-1 sa Filipos 1."
+        },
+        {
+            "id": "13-1",
+            "text": "Nais ng apostol na gantihan siya ng mga mananampalatayang taga-Corinto ng gayunding uri ng pinalawak na puso, upang kanilang tanggapin siya sa loob ng pag-ibig."
+        },
+        {
+            "id": "13-2",
+            "text": "Ito ay nagpapakita na: 1) ang mga mananampalatayang taga-Corinto, sa turing ng apostol ay parang mga bata, at 2) ang apostol sa pakikitungo sa kanila ay nagsalita bilang isang ama sa kanyang mga anak."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang maging malawak ay nangangailangan ng paglago at paggulang sa buhay. Ito ang kakulangan ng mga mananampalatayang taga-Corinto (1 Cor. 3:1, 6; 14:20). Nagpapagal ang apostol sa kanila upang mapunuan ang kakulangang ito. Ayon sa nilalaman ng teksto na nagpapatuloy mula sa katapusan ng kapitulo 5, ang mapalawak sa pamamagitan ng paglago at paggulang sa buhay ay katumbas ng pagiging ganap na naipagkasundo sa Diyos. Sa ganitong pagsulat ng apostol, ang ministeryo ng pakikipagkasundo ay isinagawa niya para sa mga mananampalataya, sapagka’t ang pagiging naipagkasundo sa Diyos ng mga mananampalataya ay nasa kalahatian pa lamang."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang salitang ito ay isinalita ng apostol batay sa kanyang bibig na nabuksan at sa kanyang puso na napalawak tungo sa mga mananampalataya sa bersikulo 11."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang “kabilan” ay nangangahulugang iba’t iba, magkaiba sa uri. Tinutukoy nito ang Deut. 22:10, na nagbabawal na ipamatok ang dalawang magkaibang hayop nang magkasama. Ang mga mananampalataya at mga di-mananampalataya ay magkaibang uri ng tao. Sila ay hindi dapat magkasamang ipamatok, dahil sa dibinong kalikasan at banal na katayuan ng mga mananampalataya. Ang prinsipyong ito ay dapat iangkop sa lahat ng malalapit na kaugnayan ng mga mananampalataya at mga di-mananampalataya hindi lamang sa kanilang pag-aasawa at pagnenegosyo."
+        },
+        {
+            "id": "14-3",
+            "text": "Ang apostol ay gumagamit ng limang pagsasalarawan upang ipakita ang kaibhan ng mga mananampalataya sa mga di-mananampalataya: 1) walang samahan o pakikisama, walang pakikibahagi, sa pagitan ng katuwiran at kalikuan; 2) walang pakikisalamuha, walang pagkakaisa, sa pagitan ng liwanag at kadiliman; 3) walang pakikipagkasundo, walang pagkakaunawaan, sa pagitan ni Kristo at Belial; 4) walang parte, walang bahagi, ang isang mananampalataya sa isang di-mananampalataya; 5) walang pakikipagkaisa, walang pagsang-ayon, sa pagitan ng templo ng Diyos at mga diyos-diyosan. Ang mga pagsasalarawang ito ay naghahayag din ng katotohanan na ang mga mananampalataya ay katuwiran, liwanag, si Kristo, at ang templo ng Diyos; at ang mga di-mananampalataya ay kalikuan, kadiliman, si Belial (si Satanas na Diyablo), at mga diyos-diyosan."
+        },
+        {
+            "id": "16-1",
+            "text": "Bilang ang Diyos na buháy, ang Diyos ay nananahan sa atin at lumalakad sa atin upang maging Diyos natin sa isang subhektibong paraan nang sa gayon tayo ay makabahagi sa Kanya (tingnan ang tala 15-3 sa 1 Timoteo 3) at maging Kanyang bayan, nararanasan Siya sa isang buháy na paraan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay ang maipagkasundo, ang madala pabalik sa Diyos (5:20) sa isang praktikal na paraan. Kung ninanais na maibaling sa Diyos at maipagkasundo sa Diyos nang lubusan sa isang praktikal na paraan, kinakailangan nating magsihiwalay sa lahat ng tao at mga pangyayari na hindi sa Diyos."
+        },
+        {
+            "id": "17-2",
+            "text": "Mga bagay na pag-aari ng kalikuan, kadiliman, ni Belial, at ng mga diyos-diyosan, gaya ng nakatala sa bersikulo 14 hanggang 16."
+        },
+        {
+            "id": "17-3",
+            "text": "Ito ay ang malugod na pagtanggap ng Diyos sa mga mananampalatayang lubusang naipagkasundo at nadala pabalik sa Kanya."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang maging isang Ama at ang maging mga anak na lalake at mga anak na babae ay mga bagay na ukol sa buhay. Ito ay higit na malalim kaysa sa Kanyang pagiging Diyos sa atin at sa ating pagiging bayan sa Kanya tulad ng binanggit sa bersikulo 16."
+        },
+        {
+            "id": "18-2",
+            "text": "Ito ang natatanging pagkakataon na ang Bagong Tipan ay nagpapakita na ang Diyos ay may mga anak na babae. Sa higit na maraming pagkakataon, ito ay nagsasabi sa atin na ang mga mananampalataya ay mga anak na lalake ng Diyos."
         }
     ]
 }

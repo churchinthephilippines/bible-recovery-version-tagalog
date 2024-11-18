@@ -1,5 +1,5 @@
 {
-    "chapter": 7,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "patayin.",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -22,7 +22,7 @@
             "footnotes": [
                 {
                     "word": "kapistahan ng mga Tabernakulo.",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -47,7 +47,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -58,7 +58,7 @@
             "footnotes": [
                 {
                     "word": "panahon,",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": [
@@ -89,7 +89,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": [
@@ -126,11 +126,11 @@
             "footnotes": [
                 {
                     "word": "karunungan,",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "gayong",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -183,7 +183,7 @@
             "footnotes": [
                 {
                     "word": "pinagaling",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -194,7 +194,7 @@
             "footnotes": [
                 {
                     "word": "anyo,",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -226,15 +226,15 @@
             "footnotes": [
                 {
                     "word": "nakikilala",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "nakikilala.",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -245,11 +245,11 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "isinugo",
-                    "note": ""
+                    "id": "29-2"
                 }
             ],
             "outlines": null
@@ -266,7 +266,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -289,7 +289,7 @@
             "footnotes": [
                 {
                     "word": "makaparoroon.",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -312,7 +312,7 @@
             "footnotes": [
                 {
                     "word": "huling",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": [
@@ -325,19 +325,19 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "kaibuturan",
-                    "note": ""
+                    "id": "38-2"
                 },
                 {
                     "word": "aagos",
-                    "note": ""
+                    "id": "38-3"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "38-4"
                 }
             ],
             "outlines": null
@@ -348,11 +348,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "39-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "39-2"
                 }
             ],
             "outlines": null
@@ -371,7 +371,7 @@
             "footnotes": [
                 {
                     "word": "Galilea",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -418,7 +418,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -435,7 +435,7 @@
             "footnotes": [
                 {
                     "word": "pumaroon",
-                    "note": ""
+                    "id": "50-1"
                 }
             ],
             "outlines": null
@@ -458,7 +458,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "53-1"
                 }
             ],
             "outlines": [
@@ -466,6 +466,108 @@
                 "ng Gapos ng Kasalanan-ang Pagpapalaya ng Buhay\n 7:53-8:59",
                 "a. Sino ang Walang Kasalanan?\n 7:53-8:9"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Kahit na ang Panginoon ay ang Diyos na Tagapaglikha, Siya ay namuhay sa lupa bilang isang tao at nagdusa sa kamay ng Kanyang mga nilikha."
+        },
+        {
+            "id": "2-1",
+            "text": "Sa tagpo ng nakaraang kaso sa kapitulo anim ay may kapistahan ng Paskua. Sa tagpo ng kasong ito sa kapitulo pito ay may kapistahan ng mga Tabernakulo. Ang kapistahan ng Paskua ay ang unang pantaunang kapistahan ng mga Hudyo, at ang kapistahan ng mga Tabernakulo ay ang huli (Lev. 23:5, 34). Ang kapistahan ng Paskua, bilang ang nauunang kapistahan ng taon, ay nagpapahiwatig ng panimula ng buhay ng tao (cf. Exo. 12:2-3, 6), na kinapapalooban ng paghahanap ng tao ng kasiyahan at nagtatapos sa kagutuman ng tao. Ang kapistahan ng mga Tabernakulo, bilang ang huling kapistahan ng taon, ay nagpapahiwatig ng kaganapan at tagumpay ng buhay ng tao (cf. Exo. 23:16), na magtatapos at magreresulta sa pagkauhaw ng tao. Sa tagpo ng kapistahan ng Paskua, itinanghal ng Panginoon ang Kanyang Sarili bilang ang tinapay ng buhay, na nagbibigay-kasiyahan sa kagutuman ng tao. Sa tagpo ng kapistahan ng mga Tabernakulo, ipinangako ng Panginoon na Siya ay mag-aagos ng tubig ng buhay, na pumapatid sa kauhawan ng tao."
+        },
+        {
+            "id": "5-1",
+            "text": "Lit. tungo sa loob Niya."
+        },
+        {
+            "id": "6-1",
+            "text": "Bagama’t ang Panginoon ay ang walang hanggan, di-natatapos, walang hangganang Diyos, Siya ay nabuhay rito bilang isang tao, na nalilimitahan pa ng oras."
+        },
+        {
+            "id": "10-1",
+            "text": "Bagama’t ang Panginoon ay ang Makapangyarihang Diyos, Siya, bilang isang taong nasa ilalim ng pag-uusig, ay natatakdaan sa Kanyang pagkilos."
+        },
+        {
+            "id": "15-1",
+            "text": "*Lit. letra."
+        },
+        {
+            "id": "15-2",
+            "text": "Bagama’t ang Panginoon ay Diyos na nakaaalam sa lahat, Siya, bilang isang mababang tao, ay nagmukhang walang pinag-aralan."
+        },
+        {
+            "id": "23-1",
+            "text": "O, binuo, pinalusog."
+        },
+        {
+            "id": "24-1",
+            "text": "O, pagmumukha, mukha, nakikita."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang “nakikilala” at “nalalaman” ay pareho sa salitang Griyego na tumutukoy sa panloob at subhektibong pagkaunawa."
+        },
+        {
+            "id": "29-1",
+            "text": "Tingnan ang tala 14-5 sa kap. 1."
+        },
+        {
+            "id": "29-2",
+            "text": "Tingnan ang tala 6-1 sa kap. 1."
+        },
+        {
+            "id": "31-1",
+            "text": "Lit. tungo sa loob Niya."
+        },
+        {
+            "id": "34-1",
+            "text": "*Lit. makaparirito. Gayundin sa bersikulo 36, 8:21, 22, at 13:33."
+        },
+        {
+            "id": "37-1",
+            "text": "Ang “huling araw” rito ay sumasagisag na ang lahat ng pagtatamasa ng anumang tagumpay sa pantaong buhay ay magtatapos. May “huling araw” sa bawa’t uri ng materyal na bagay ng pisikal na buhay."
+        },
+        {
+            "id": "38-1",
+            "text": "Lit. tungo sa loob Ko."
+        },
+        {
+            "id": "38-2",
+            "text": "Lit. tiyan."
+        },
+        {
+            "id": "38-3",
+            "text": "Sa prinsipyong inilahad sa kapitulo dalawa, ito rin ay ang pagpapalit ng kamatayan tungo sa buhay. Ang kamatayan ay nanggagaling sa puno ng kaalaman, at ang buhay ay nanggagaling sa puno ng buhay. Sa aklat na ito ay ipinakikita sa atin na ang buhay ay laban sa kamatayan (5:24-25; 8:24; 11:25-26)."
+        },
+        {
+            "id": "38-4",
+            "text": "Ang “mga ilog ng buhay na tubig” ay ang maraming pagdaloy ng iba’t ibang aspekto ng buhay (cf. Roma 15:30; I Tes. 1:6, II Tes. 2:13; Gal. 5:22-23) ng namumukod-tanging “ilog ng tubig ng buhay” (Apoc. 22:1), na Siyang “Espiritu ng buhay” ng Diyos (Roma 8:2)."
+        },
+        {
+            "id": "39-1",
+            "text": "Lit. tungo sa loob Niya."
+        },
+        {
+            "id": "39-2",
+            "text": "Ang Espiritu ng Diyos ay naroroon na mula pa sa simula (Gen. 1:1-2), subali’t ang Espiritu bilang “ang Espiritu ni Kristo” (Roma 8:9), “ang Espiritu ni Hesu-Kristo” (Fil. 1:19), ay wala pa sa panahong sinabi ng Panginoon ang salitang ito, sapagka’t Siya ay hindi pa naluwalhati. Si Hesus ay niluwalhati nang Siya ay nabuhay na muli (Luc. 24:26). Pagkatapos ng Kanyang pagkabuhay na muli, ang Espiritu ng Diyos ay naging Espiritu ng naging laman, naipako sa krus, at nabuhay na muling Hesu-Kristo, na naihinga sa mga disipulo ni Kristo noong gabi nang Siya ay nabuhay na muli (20:22). Ngayon, ang Espiritu ay ang “iba pang Mang-aaliw,” na Siyang “Espiritu ng realidad” na ipinangako ni Kristo bago ang Kanyang kamatayan (14:16-17). Nang ang Espiritu ay ang Espiritu pa lamang ng Diyos, Siya ay mayroon lamang dibinong elemento. Datapuwa’t nang Siya ay naging Espiritu ni Hesu-Kristo sa pamamagitan ng pagkakatawang tao, pagkapako sa krus, at pagkabuhay na muli ni Kristo, mayroon Siyang kapwa dibino at pantaong elemento, kalakip ang lahat ng esensiya at realidad ng pagkakatawang tao, pagkapako sa krus at pagkabuhay na muli ni Kristo. Kaya, Siya ngayon ay ang nagpapaloob ng lahat na Espiritu ni Hesu-Kristo bilang buháy na tubig upang ating matanggap (bb. 38-39)."
+        },
+        {
+            "id": "41-1",
+            "text": "Ang Panginoon ay isinilang sa Betlehem (Luc. 2:4-7), nguni’t Siya ay lumaki sa Nazaret ng Galilea, na hinahamak ng mga tao sa panahong yaon. Siya ang binhi ni David, subali’t Siya ay dumating bilang isang Nazareno (Mat. 2:23). Siya ay tumubo “gaya ng isang ugat mula sa tuyong lupa,” na “walang anyo ni kagandahan man,” “walang kagandahang mananais tayo sa Kanya. Siya ay hinamak at itinakwil ng mga tao” (Isa. 53:2-3). Sa gayon ay hindi natin Siya dapat kilalanin ayon sa laman (II Cor. 5:16), kundi ayon sa Espiritu."
+        },
+        {
+            "id": "48-1",
+            "text": "Lit. tungo sa loob Niya."
+        },
+        {
+            "id": "50-1",
+            "text": "*Lit. pumarito."
+        },
+        {
+            "id": "53-1",
+            "text": "Ang 7:53-8:11 ay hindi kasama sa maraming matatandang manuskrito."
         }
     ]
 }

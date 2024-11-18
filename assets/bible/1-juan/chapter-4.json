@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "bawa’t",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "subukin",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "bulaang",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -32,11 +32,11 @@
             "footnotes": [
                 {
                     "word": "espiritung",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -47,11 +47,11 @@
             "footnotes": [
                 {
                     "word": "espiritung",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "antikristo,",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -62,23 +62,23 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "mumunting",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "sila,",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "Siyang",
-                    "note": ""
+                    "id": "4-4"
                 },
                 {
                     "word": "siyang",
-                    "note": ""
+                    "id": "4-5"
                 }
             ],
             "outlines": null
@@ -89,11 +89,11 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "nagsasalita",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -104,27 +104,27 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "Mula",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "6-5"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "6-4"
                 }
             ],
             "outlines": null
@@ -135,23 +135,23 @@
             "footnotes": [
                 {
                     "word": "mangag-",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "umiibig",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "ipinanganak",
-                    "note": ""
+                    "id": "7-4"
                 },
                 {
                     "word": "nakakikilala",
-                    "note": ""
+                    "id": "7-5"
                 }
             ],
             "outlines": [
@@ -164,11 +164,11 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -179,15 +179,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "sanlibutan",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "mabuhay",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -198,11 +198,11 @@
             "footnotes": [
                 {
                     "word": "Narito",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "pampalubag-",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -213,7 +213,7 @@
             "footnotes": [
                 {
                     "word": "mangag-",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -224,19 +224,19 @@
             "footnotes": [
                 {
                     "word": "nakakita",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "nangag-",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "napasasakdal",
-                    "note": ""
+                    "id": "12-4"
                 }
             ],
             "outlines": null
@@ -247,15 +247,15 @@
             "footnotes": [
                 {
                     "word": "ganito",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -266,11 +266,11 @@
             "footnotes": [
                 {
                     "word": "isinugo",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "sanlibutan.",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -281,7 +281,7 @@
             "footnotes": [
                 {
                     "word": "nagpapahayag",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -292,27 +292,27 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "16-5"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "16-6"
                 }
             ],
             "outlines": null
@@ -323,23 +323,23 @@
             "footnotes": [
                 {
                     "word": "Dito",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "naging",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "lakas",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "paghahatol,",
-                    "note": ""
+                    "id": "17-4"
                 },
                 {
                     "word": "Isang",
-                    "note": ""
+                    "id": "17-5"
                 }
             ],
             "outlines": null
@@ -350,15 +350,15 @@
             "footnotes": [
                 {
                     "word": "Walang",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "sakdal",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -369,7 +369,7 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -380,7 +380,7 @@
             "footnotes": [
                 {
                     "word": "napopoot",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -390,6 +390,236 @@
             "text": "At ang utos na ito na mula sa Kanya ay nasa atin, na ang umiibig sa Diyos ay dapat umibig din sa kanyang kapatid.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang bb. 1-6 ay isang bahaging isiningit, binabalaan ang mga mananampalataya na kilalanin ang mga espiritu (sapagka’t binanggit sa nauunang bersikulo, 3:24, ang Espiritu; kaya nalalaman natin na ang Diyos ay nananahan sa loob natin sa pamamagitan ng Espiritu) upang makilala nila ang mga bulaang propeta. Isa ring parehong babala ang ibinigay sa 2:18-23. Ang mga katawagang “bawa’t espiritu” at “ang mga espiritu” ay maaaring tumutukoy sa mga espiritu ng mga propeta (1 Cor. 14:32) na pinakilos ng Espiritu ng katotohanan, o sa mga espiritu ng mga bulaang propeta na inudyukan ng espiritu ng daya. Kaya, may pangangailangang kilalanin ang mga espiritu sa pamamagitan ng pagsubok sa kanila upang makita kung sila nga ay mula sa Diyos."
+        },
+        {
+            "id": "1-2",
+            "text": "Yaon ay, ang kilalanin ang mga espiritu (1 Cor. 12:10) sa pamamagitan ng pagsubok sa kanila."
+        },
+        {
+            "id": "1-3",
+            "text": "Sa Mat. 24:24, ang mga bulaang propeta ay naiiba sa huwad na Kristo. Subalit dito ang mga bulaang propeta ay ang mga antikristo (b. 3), yaong mga nagtuturo ng erehiya hinggil sa Persona ni Kristo (2:18 at tala 2; 2:22-23)."
+        },
+        {
+            "id": "2-1",
+            "text": "Tumutukoy sa espiritu ng isang tunay na propeta na pinakilos ng Espiritu Santo ng katotohanan, na nagpapahayag ng dibinong paglilihi kay Hesus, nagpapatunay na Siya ay isinilang bilang ang Anak ng Diyos. Ang bawa’t gayong espiritu ay tiyak na nagmula sa Diyos. Dahil dito, napagkikilanlan natin ang Espiritu ng Diyos."
+        },
+        {
+            "id": "2-2",
+            "text": "Si Hesus ay ipinaglihi sa pamamagitan ng Espiritu (Mat. 1:18). Ang ipahayag na si Hesus ay naparito sa laman ay ang aminin ng may pagpapahayag na ang paglilihi sa Kanya ay dibino at Siya ay isinilang na Anak ng Diyos (Luc. 1:31-35). Yamang Siya ay ipinaglihi sa pamamagitan ng Espiritu upang maisilang sa laman, hindi kailanman itatatwa ng Espiritu na Siya ay naparito sa laman sa pamamagitan ng dibinong paglilihi."
+        },
+        {
+            "id": "3-1",
+            "text": "Tumutukoy sa espiritu ng isang bulaang propeta na inudyukan ng espiritu ng daya, na hindi nagpapahayag na si Hesus ay naparito sa laman. Ito ay ang espiritu ng mga kamalian ng mga Docetista (Docetes). Ang pangalang ito ay hinango mula sa Griyegong dokein, “tila,” “parang gayon.” Ang erehiya ng mga Docetista ay yaong si Hesu-Kristo ay hindi isang tunay na tao, kundi kung titingnan ay tila ganoon nga; Siya ay isa lamang malikmata. Ang Docetismo ay nahaluan ng Gnosticismo na nagturo na ang lahat ng materyal na bagay ay masama sa pang-esensiya. Kaya, inakala ng mga Docetista na yamang si Kristo ay banal, Siya ay hindi kailanman magkakaroon ng karumihan ng pantaong laman; ang Kanyang katawan ay hindi tunay na laman at dugo, kundi isang madaya at pansamantalang guni-guni, kaya Siya ay hindi nagdusa, hindi namatay, at hindi nabuhay na muli. Hindi lamang sinisira nang palihim ng gayong erehiya ang pagiging laman ng Panginoon, bagkus sinisira rin ang Kanyang pagtutubos at pagkabuhay na muli. Ang Docetismo ay isang tampok na katangian ng mga unang antikristo na siyang tinatalakay rito ni Juan at sa 2 Juan 7. Ang espiritu ng mga gayong gumagawa ng kamalian ay tiyak na hindi mula sa Diyos. Ito ay ang espiritu ng mga antikristo."
+        },
+        {
+            "id": "3-2",
+            "text": "Tingnan ang tala 18-2 sa kapitulo 2."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang mga mananampalataya ay mula sa Diyos, dahil sila ay ipinanganak ng Diyos (b. 7; 2:29; 3:9)."
+        },
+        {
+            "id": "4-2",
+            "text": "Tingnan ang tala 1-1 sa kapitulo 2."
+        },
+        {
+            "id": "4-3",
+            "text": "Tumutukoy sa mga bulaang propeta (b. 1), sa mga antikristo (b.3), na mga guro ng erehiya hinggil sa Persona ni Kristo. Nadaig sila ng mga mananampalataya sa pamamagitan ng pananahan sa katotohanan hinggil sa pagka-Diyos ni Kristo at hinggil sa Kanyang pagkataong natamo sa pamamagitan ng dibinong paglilihi; itong pananahan sa katotohanan ay ayon sa pagtuturo ng dibinong pagpapahid (2:27)."
+        },
+        {
+            "id": "4-4",
+            "text": "Tumutukoy sa Tres-unong Diyos, na nananahan sa loob ng mga mananampalataya bilang ang nagpapaloob-ng-lahat, nagbibigay-buhay, nagpapahid na Espiritu, at nagpapalakas sa atin mula sa kaloob na kasama ang lahat ng mayamang elemento ng Tres-unong Diyos (Efe. 3:16-19). Ang gayong Isa ay lalong dakila at lalong malakas kaysa kay Satanas, ang masamang espiritu."
+        },
+        {
+            "id": "4-5",
+            "text": "Tumutukoy sa natisod na anghel na si Satanas, na siyang masamang espiritung kumakamkam sa natisod na sangkatauhan, at nagpapakilos sa masasamang tao na siyang mga bumubuong sangkap ng kanyang makasanlibutang sistema. Ang isang ito ay higit na mababa at higit na mahina kaysa sa Tres-unong Diyos."
+        },
+        {
+            "id": "5-1",
+            "text": "Kapwa ang mga erehe at ang mga erehiya hinggil sa Persona ni Kristo ay mula sa makasatanas na sistema ng sanlibutan. Kaya, ang mga tao na siyang mga bumubuong sangkap ng masamang sistemang ito ay nakikinig sa kanila at sumusunod sa kanila."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang mga apostol, ang mga mananampalataya, at ang katotohanan na kanilang pinaniniwalaan at itinuturo hinggil kay Kristo ay mula sa Diyos. Kaya, ang mga taong nakakikilala sa Diyos, na ipinanganak ng Diyos (b. 7), ay nakikinig sa atin at nananatiling kasama natin."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang mga makasanlibutan ay hindi mula sa Diyos, dahil hindi sila ipinanganak ng Diyos. Kaya, hindi sila nakikinig sa atin."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang “rito” ay tumutukoy sa binanggit sa bb. 5 at 6. Batay sa katunayan na ang mga erehe at ang kanilang sinasabi mula sa kanilang espiritung inudyukan ng espiritu ng panlilinlang ay pawang mula sa sanlibutan, at yaong tayo at ang ating sinasabi mula sa ating espiritung pinakilos ng Espiritu ng katotohanan ay pawang mula sa Diyos, napagkikilanlan natin ang Espiritu ng katotohanan at ang espiritu ng panlilinlang. Ito ay nagpapakita na ang Espiritu Santo ng katotohanan ay kaisa ng ating espiritung nagsasalita ng katotohanan, at ang masamang espiritu ng panlilinlang ay kaisa ng nagsasalitang espiritu ng panlilinlang ng mga erehe."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang Espiritu ng katotohanan ay ang Espiritu Santo, ang Espiritu ng realidad (Juan 14:17; 15:26; 16:13); ang espiritu ng panlilinlang ay si Satanas, ang masamang espiritu, ang espiritu ng kasinungalingan (Efe. 2:2)."
+        },
+        {
+            "id": "6-5",
+            "text": "Tumutukoy sa dibinong realidad na inihayag sa Bagong Tipan (tingnan ang tala 6-6 sa kap. 1), lalo nang tinutukoy rito ang hinggil sa dibinong pagiging laman ng Panginoong Hesus, na ipinapatotoo ng Espiritu ng Diyos (b. 2). Ang realidad na ito ay laban sa pandaraya ng masamang espiritu, ang espiritu ng antikristo na nagtatatwa sa dibinong pagiging laman ni Hesus (b. 3)."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang mga bb. 7-21 ay karugtong ng seksiyong mula sa 2:28-3:24, na higit pang nagbibigay-diin sa pangkapatirang pag-iibigan na tinalakay na sa 3:10-24, bilang isang higit na mataas na kondisyon ng pamumuhay na nananahan sa loob ng Panginoon."
+        },
+        {
+            "id": "7-2",
+            "text": "Tingnan ang tala 5-3 sa kapitulo 2."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang mga mananampalatayang ipinanganak ng Diyos at nakakikilala sa Diyos, ay nangag-iibigan sa isa’t isa nang palagian sa pamamagitan ng pag-ibig na siyang kahayagan ng Diyos at nagmumula sa Diyos."
+        },
+        {
+            "id": "7-4",
+            "text": "Ang binibigyang-diin dito ng apostol ay ang dibinong kapanganakan pa rin, kung saan sa pamamagitan ng dibinong kapanganakang ito ay naipamahagi na sa loob ng mga mananampalataya ang dibinong buhay na nagbibigay sa kanila ng kakayahan sa buhay na makilala ang Diyos. Ang dibinong kapanganakang ito ay ang pangunahing salik ng pag-ibig sa kapatiran bilang isang higit na mataas na kondisyon ng pamumuhay na nananahan sa loob ng Panginoon. Tingnan ang tala 29-6 sa kapitulo 2."
+        },
+        {
+            "id": "7-5",
+            "text": "Tumutukoy sa pagkakilala sa pamamagitan ng dibinong buhay (Juan 17:3) na natanggap mula sa dibinong kapanganakan."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang hindi nakakikilala sa Diyos ay walang kakayahang makakilala sa dibinong buhay na tinanggap mula sa dibinong kapanganakan. Hindi ginagamit ng isang gayon, na hindi ipinanganak ng Diyos at walang Diyos bilang kanyang buhay, ang Diyos bilang pag-ibig upang umibig, yamang hindi niya nakikilala ang Diyos na siyang pag-ibig."
+        },
+        {
+            "id": "8-2",
+            "text": "Tingnan ang tala 5-3 sa kapitulo 2. Ang Sulat na ito ay nagsasabi muna na ang Diyos ay liwanag (1:5), at pagkatapos ay yaong ang Diyos ay pag-ibig. Ang pag-ibig, bilang kalikasan ng esensiya ng Diyos, ay ang pinagmumulan ng biyaya, at ang liwanag, bilang kalikasan ng kahayagan ng Diyos, ay ang pinagmumulan ng katotohahan. Kapag ang dibinong pag-ibig ay nagpapakita sa atin, ito ay nagiging biyaya; kapag ang dibinong liwanag ay sumisilay sa atin, ito ay nagiging katotohanan (tingnan ang tala 6-6 , huling talata, sa kap. 1). Ang dalawang ito ay naihayag sa ganitong paraan sa Ebanghelyo ni Juan. Tinanggap natin kapwa ang biyaya at katotohanan sa Ebanghelyo ni Juan sa pamamagitan ng pagpapakita ng Anak (Juan 1:14, 16-17). Ngayon, sa Sulat na ito, tayo ay lumalapit sa loob ng Anak patungo sa Ama at hinihipo ang mga pinagmumulan ng kapwa biyaya at katotohanan. Ang mga pinagmumulang ito, ang pag-ibig at liwanag, ay ang Diyos Ama Mismo para sa ating higit na malalim at higit na pinong katamasahan sa pagsasalamuha sa dibinong buhay sa Ama sa loob ng Anak (1:3-7) sa pamamagitan ng ating pananahanan sa loob ng Anak (2:5, 27-28; 3:6, 24). Tingnan ang tala 5-3 sa kapitulo 1."
+        },
+        {
+            "id": "9-1",
+            "text": "Lit. sa loob natin, yaon ay, sa ating kalagayan o tungkol sa atin. Sa gayon isinugo ng Diyos ang Kanyang Anak sa sanlibutan upang sa pamamagitan Niya ay matamo natin ang buhay at mabuhay tayo. Dito ay ipinakita sa atin ng Diyos ang higit na mataas at higit na dakilang pag-ibig."
+        },
+        {
+            "id": "9-2",
+            "text": "Tumutukoy sa lugar na kinalalagyan ng natisod na sangkatauhan, gayundin sa 1 Tim. 1:15."
+        },
+        {
+            "id": "9-3",
+            "text": "Tayo, ang mga natisod na tao, ay hindi lamang makasalanan sa kalikasan at kilos (Roma 7:17-18; 1:28-32), bagkus patay rin sa ating espiritu (Efe. 2:1, 5; Col. 2:13). Isinugo ng Diyos ang Kanyang Anak sa sanlibutan hindi lamang upang maging isang pampalubag-loob na handog hinggil sa ating mga kasalanan upang tayo ay mapatawad (b. 10), bagkus upang maging buhay rin natin upang tayo ay mabuhay sa pamamagitan Niya. Sa loob ng pag-ibig ng Diyos, hindi lamang ginamit ng Anak ng Diyos ang Kanyang dugo upang iligtas tayo sa mga kasalanan (Efe. 1:7; Apoc. 1:5), bagkus ginamit din Niya ang buhay upang iligtas tayo sa kamatayan (3:14-15; Juan 5:24). Siya ay hindi lamang ang Kordero ng Diyos na nag-aalis ng ating kasalanan (Juan 1:29); Siya rin ang Anak ng Diyos na nagbibigay sa atin ng buhay na walang hanggan (Juan 3:36). Siya ay namatay para sa ating mga kasalanan (1 Cor. 15:3) upang tayo ay magkaroon ng buhay na walang hanggan sa loob Niya (Juan 3:14-16) at mabuhay nang dahil sa Kanya (Juan 6:57; 14:19). Sa ganito ang pag-ibig ng Diyos, na siyang esensiya Niya, ay naihahayag."
+        },
+        {
+            "id": "10-1",
+            "text": "Tumutukoy sa sumusunod na katunayan: hindi sa tayo ay umibig sa Diyos, kundi Siya ang umibig sa atin, at nagsugo ng Kanyang Anak na pampalubag-loob na handog hinggil sa ating mga kasalanan. Nasa ganitong katunayan ang higit na mataas at higit na dakilang pag-ibig ng Diyos."
+        },
+        {
+            "id": "10-2",
+            "text": "Tingnan ang tala 2-1 sa kapitulo 2."
+        },
+        {
+            "id": "11-1",
+            "text": "Tumutukoy sa paggamit ng pag-ibig ng Diyos sa pag-ibig sa iba katulad ng pag-ibig ng Diyos sa atin."
+        },
+        {
+            "id": "12-1",
+            "text": "Ito ay nagpapakita na kung tayo ay nag-iibigan sa isa’t isa na ginagamit ang pag-ibig ng Diyos katulad ng Kanyang pag-ibig sa atin, naihahayag natin Siya sa Kanyang esensiya, sa gayon, mamamasdan ng iba sa atin ang kung ano Siya sa Kanyang esensiya."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang mag-ibigan sa isa’t isa ay isang kondisyon o kahilingan ng ating pananahan sa loob ng Diyos (b. 13); ang ating pananahan sa loob ng Diyos ay isang kondisyon ng Kanyang pananahan sa loob natin (Juan 15:4). Kaya, kapag tayo ay nag-iibigan sa isa’t isa, ang Diyos ay nananahan sa atin, at ang Kanyang pag-ibig ay nagiging sakdal sa atin at dahil dito ay naihahayag."
+        },
+        {
+            "id": "12-3",
+            "text": "“Ang pag-ibig ng Diyos” sa 2:5 ay ang pag-ibig ng Diyos na nasa loob natin na nagiging ating pag-ibig sa Kanya; ginagamit natin ang pag-ibig na ito upang ibigin Siya. Ang “Kanyang pag-ibig” dito ay ang pag-ibig ng Diyos sa loob natin na nagiging ating pag-ibig sa isa’t isa; ginagamit natin ang pag-ibig na ito upang mag-ibigan sa isa’t isa. Ito ay nagpapakita na kailangan nating kunin ang pag-ibig ng Diyos bilang ating pag-ibig upang ibigin ang Diyos at mag-ibigan sa isa’t isa."
+        },
+        {
+            "id": "12-4",
+            "text": "Gr. teleioö, ganapin, gawin, tapusin. Ang pag-ibig mismo ng Diyos ay sakdal at ganap sa Kanyang Sarili. Gayunpaman, ang pag-ibig ng Diyos sa loob natin ay kinakailangang mapasakdal at makumpleto sa kahayagan nito. Ito ay naihayag sa atin sa pagsusugo ng Diyos ng Kanyang Anak upang maging kapwa isang pampalubag-loob na handog at buhay sa atin (bb. 9-10). Gayunpaman, kung tayo ay hindi mag-iibigan sa isa’t isa sa ganitong pag-ibig na katulad ng inihayag sa atin, yaon ay, kung hindi natin gagamitin ang pag-ibig ng Diyos na ipinang-ibig sa atin upang mag-ibigan sa isa’t isa at ihayag ang pag-ibig na ito, ang pag-ibig na ito ay hindi maihahayag nang sakdal at kumpleto. Ang pag-ibig na ito ay napasasakdal at nakukumpleto sa kahayagan nito kapag inihahayag natin ang pag-ibig na ito sa ating pamumuhay sa pamamagitan ng palagiang pag-iibigan sa isa’t isa. Ang ating pamumuhay ng pag-iibigan sa isa’t isa sa loob ng pag-ibig ng Diyos ay ang pagpapasakdal at pagkukumpleto nito sa kahayagan nito sa loob natin. Sa gayon, mamamasdan ng iba na ang Diyos ay naihahayag sa Kanyang esensiya ng pag-ibig sa pamamagitan ng ating pamumuhay sa loob ng Kanyang pag-ibig."
+        },
+        {
+            "id": "13-1",
+            "text": "Sa katunayang ibinigay ng Diyos sa atin ang Kanyang Espiritu, nalalaman natin na tayo ay nananahan sa Kanya at Siya sa atin. Ang Espiritung ibinigay ng Diyos upang manahan sa loob natin (Sant. 4:5; Roma 8:9, 11) ay ang saksi na nasa ating espiritu (Roma 8:16) na sumasaksi na tayo ay nananahan sa loob ng Diyos at ang Diyos ay nananahan sa loob natin. Ang Espiritung nananahan, yaon ay, ang Espiritung tumitira-sa-loob, ay ang elemento at kinasasaklawan ng ating pananahan sa Diyos at ng Kanyang pananahan sa atin. Sa pamamagitan Niya tayo ay may katiyakan na tayo at ang Diyos ay nagkakaisa, nananatili sa isa’t isa, nananahan sa isa’t isa. Ito ay napapatunayan sa pamamagitan ng ating pamumuhay na ginagamit nang palagian ang Kanyang pag-ibig upang mag-ibigan sa isa’t isa (b. 12)."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang pananahan sa loob ng Diyos ay ang pagtira sa loob Niya, nananatili sa loob ng ating pakikipagsalamuha sa Kanya, upang maranasan at matamasa natin ang Kanyang pananahan sa loob natin. Ito ay ang isagawa ang ating pakikipagkaisa sa Diyos ayon sa dibinong pagpapahid (2:27) sa pamamagitan ng isang pamumuhay na nagsasagawa ng Kanyang katuwiran at ng Kanyang pag-ibig. Ito ay lubusang sa pamamagitan ng pagkilos ng nagpapaloob-ng-lahat na timpladang Espiritu, na nananahan sa ating espiritu at siyang pangunahing elemento ng dibinong pagpapahid."
+        },
+        {
+            "id": "13-3",
+            "text": "Lit. mula sa. Ang Diyos ay nagbigay sa atin mula sa Kanyang Espiritu. Ito ay nakakatulad ng at inuulit ang salita sa 3:24, na nagpapatunay na hindi nangangahulugang nagbigay ang Diyos sa atin ng isang bagay, katulad ng iba’t ibang kaloob ng Kanyang Espiritu na nakatala sa 1 Cor. 12:4, kundi nagbigay ang Diyos ng Kanyang Espiritu Mismo na siyang nagpapaloob-ng-lahat na kaloob (Gawa 2:38). Ang “mula sa Kanyang Espiritu” ay isang katagang nagpapahiwatig na ang Espiritu ng Diyos, na Kanyang ibinigay sa atin, ay masagana at walang sukat (Fil. 1:19; Juan 3:34). Sa pamamagitan ng gayong masaganang hindi masukat na Espiritu, ating nalalaman nang may buong katiyakan na tayo ay kaisa ng Diyos, at yaong tayo at ang Diyos ay nananahan sa isa’t isa."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang pagsusugo ng Ama sa Anak upang maging ating Tagapagligtas ay isang panlabas na gawa, na sa pamamagitan ng ating pagpapahayag sa Anak, Siya ay makapanahan sa loob natin at tayo sa Kanya (b. 15). Nakita at pinatotohanan ng mga apostol ang bagay na ito; ito ay ang panlabas na patotoo. Bilang karagdagan dito, sinugo ng Diyos ang Kanyang Espiritu upang manahan sa atin bilang panloob na pagkilos upang maging panloob na katibayan na tayo ay nananahan sa Kanya at Siya sa atin (b. 13)."
+        },
+        {
+            "id": "14-2",
+            "text": "Tumutukoy sa natisod na sangkatauhan, katulad ng nasa Juan 3:16."
+        },
+        {
+            "id": "15-1",
+            "text": "Isinugo ng Diyos Ama ang Kanyang Anak upang maging Tagapagligtas ng sanlibutan (b. 14) na may layuning manampalataya sa Kanya ang mga tao sa pamamagitan ng pagpapahayag na si Hesus ay ang Anak ng Diyos, upang ang Diyos ay makapanahan sa kanila at gayundin sila sa Diyos. Subali’t ang mga ereheng Cerinto ay hindi nagpapahayag nito; kung kaya, wala silang Diyos na nananahan sa kanila at hindi rin sila nananahan sa loob ng Diyos. Sinumang nagpapahayag nito, nananahan sa kanya ang Diyos at siya sa Diyos. Siya ay nagiging kaisa ng Diyos sa dibinong buhay at kalikasan."
+        },
+        {
+            "id": "16-1",
+            "text": "Sa bagay ng pagsusugo sa Anak upang maging ang ating Tagapaligtas (b. 14)."
+        },
+        {
+            "id": "16-2",
+            "text": "Tingnan ang tala 9-1 ."
+        },
+        {
+            "id": "16-3",
+            "text": "Tingnan ang tala 8-2 . Sa Kanyang pagsusugo ng Kanyang Anak upang maging ating Tagapagligtas at buhay, ang Diyos ay nahayag na pag-ibig (bb. 9-10, 14)."
+        },
+        {
+            "id": "16-4",
+            "text": "Ang manahan sa pag-ibig ay ang mamuhay ng isang buhay na umiibig sa iba nang palagian na may pag-ibig na siyang ang Diyos Mismo, upang ang Diyos ay maihayag sa pamamagitan natin."
+        },
+        {
+            "id": "16-5",
+            "text": "Ang manahan sa Diyos ay ang mamuhay ng isang buhay na siyang Diyos Mismo bilang ating panloob na nilalaman at panlabas na kahayagan, upang tayo ay maging lubusang kaisa Niya."
+        },
+        {
+            "id": "16-6",
+            "text": "Ang pananahan ng Diyos sa loob natin ay ang pagiging ating buhay sa panloob at ating pamumuhay sa panlabas. Sa ganito, Siya ay maaaring maging praktikal na kaisa natin."
+        },
+        {
+            "id": "17-1",
+            "text": "Sa ating pananahan sa pag-ibig na siyang Diyos Mismo (b. 16), ang pag-ibig ng Diyos ay napasasakdal sa atin, yaon ay, nahahayag nang sakdal sa atin, upang tayo ay magkaroon ng lakas ng loob (b. 18) sa araw ng paghahatol."
+        },
+        {
+            "id": "17-2",
+            "text": "Tingnan ang tala 12-4 ."
+        },
+        {
+            "id": "17-3",
+            "text": "Tingnan ang tala 21-1 sa kapitulo 3. Doon, ang lakas ng loob ay upang makaugnay natin ang Diyos sa ating pakikipagsalamuha sa Kanya. Dito, ang lakas ng loob ay upang maharap natin ang kahatulan sa luklukan ng paghatol ni Kristo."
+        },
+        {
+            "id": "17-4",
+            "text": "Tumutukoy sa kahatulan sa luklukan ng paghahatol ni Kristo (2 Cor. 5:10) sa Kanyang pagbabalik (1 Cor. 3:13; 4:5; 2 Tim. 4:8)."
+        },
+        {
+            "id": "17-5",
+            "text": "Katulad ng nasa 3:3, 7, tumutukoy kay Kristo, na namuhay rito sa lupa ng isang pamumuhay na ang Diyos ay pag-ibig; sa ngayon, Siya ang ating buhay upang maipamuhay rin natin dito sa lupa ang gayunding pamumuhay ng pag-ibig at maging katulad ng kung ano Siya."
+        },
+        {
+            "id": "18-1",
+            "text": "Lit. Ang takot ay wala sa pag-ibig. Ang “takot” ay hindi tumutukoy sa takot na magkasala sa Diyos at mahatulan ng Diyos (1 Ped. 1:17; Heb. 12:28), kundi sa takot na nagkasala na tayo sa Diyos at mahahatulan Niya. Ang “pag-ibig” ay tumutukoy sa napasakdal na pag-ibig na binanggit sa naunang bersikulo, ang pag-ibig ng Diyos na ating ipinang-iibig sa iba."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang sakdal na pag-ibig ay ang pag-ibig na napasakdal (b. 17) sa atin dahil sa ipinang-ibig natin ang pag-ibig ng Diyos sa iba. Ang gayong pag-ibig ay nagpapalayas ng takot at walang pagkatakot na maparusahan ng Panginoon sa Kanyang pagdating (Luc. 12:46-47)."
+        },
+        {
+            "id": "18-3",
+            "text": "Yaon ay, hindi namuhay sa pag-ibig ng Diyos upang lubusang maihayag ito sa pamamagitan niya. Tingnan ang tala 12-4 ."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang Diyos ang unang umibig sa atin at Kanyang nilalinan tayo ng Kanyang pag-ibig at pinasibol sa loob natin ang pag-ibig na siyang ipinang-iibig natin sa Kanya at sa mga kapatid (bb. 20-21)."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang palagiang pagkapoot sa kapatid ay nagpapatunay na siya ay hindi nananahan sa dibinong pag-ibig ni sa dibinong liwanag (2:9-11). Kapag tayo ay nananahan sa loob ng Panginoon, tayo ay nananahan kapwa sa dibinong pag-ibig at sa dibinong liwanag; hindi natin kinamumuhian ang mga kapatid, bagkus iniibig sila sa paraang kinagawian na, ipinamumuhay ang dibinong buhay sa loob ng dibinong liwanag at sa loob ng dibinong pag-ibig."
         }
     ]
 }

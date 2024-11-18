@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Kaya",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "matangay",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
-                "(Ang Unang Babala—Bigyang-pansin ang ipinangusap\nna salita tungkol sa Anak 2:1-4)"
+                "(Ang Unang Babala—Bigyang-pansin ang ipinangusap\nna salita tungkol sa Anak\n 2:1-4)"
             ]
         },
         {
@@ -30,11 +30,11 @@
             "footnotes": [
                 {
                     "word": "makatatakas",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "kaligtasan;",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -45,7 +45,7 @@
             "footnotes": [
                 {
                     "word": "ipinamahaging",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -56,7 +56,7 @@
             "footnotes": [
                 {
                     "word": "sanlibutang",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": [
@@ -69,7 +69,7 @@
             "footnotes": [
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -80,7 +80,7 @@
             "footnotes": [
                 {
                     "word": "mababa",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -97,19 +97,19 @@
             "footnotes": [
                 {
                     "word": "mababa",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "kaysa",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "9-4"
                 }
             ],
             "outlines": null
@@ -120,23 +120,23 @@
             "footnotes": [
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "maraming",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "kaluwalhatian,",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "sakdal",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "Pinuno",
-                    "note": ""
+                    "id": "10-5"
                 }
             ],
             "outlines": null
@@ -147,11 +147,11 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "iisa,",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -162,15 +162,15 @@
             "footnotes": [
                 {
                     "word": "Ipapahayag",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "aawit",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -187,7 +187,7 @@
             "footnotes": [
                 {
                     "word": "malipol",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -198,7 +198,7 @@
             "footnotes": [
                 {
                     "word": "mapalaya",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -209,11 +209,11 @@
             "footnotes": [
                 {
                     "word": "tinutulungan",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "tinutulungan",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -224,15 +224,15 @@
             "footnotes": [
                 {
                     "word": "matulad",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "maawain",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "pampalubag-loob",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
@@ -242,6 +242,120 @@
             "text": "Sapagka’t sa binatá Niyang gayon, sa pagkatukso,  Siya ay makasasaklolo sa mga tinutukso.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa aklat na ito, ang bawat pangunahing punto ay may kasamang isang babala. May limang gayong babala sa buong aklat. Ang unang pangunahing punto tungkol kay Kristo bilang nakahihigit sa mga anghel na ipinahayag sa 1:4-2:18, ay kasama ang unang babala na nasa bb. 1-4."
+        },
+        {
+            "id": "1-2",
+            "text": "O, mapadpad nang palayo."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang makatatakas dito, sa prinsipyo, ay ang makatakas sa ilang parusang kabayaran gaya ng nabanggit sa b. 2. Kung pababayaan natin ang ganitong kadakilang kaligtasan, tama at dapat lamang na tumanggap tayo ng isang uri ng parusang kabayaran."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang kaligtasan dito ay tumutukoy pabalik doon sa nabanggit na sa 1:14. Ito ay ang ganap na pagliligtas ng Diyos, mula sa kapatawaran ng kasalanan hanggang sa pakikibahagi sa darating na kaharian at sa kaluwalhatian. Hindi lamang ito tumutukoy sa kung ano ang nagawa na ni Kristo para sa atin at kung ano ang gagawin Niya para sa atin, bagkus tumutukoy rin kay Kristo Mismo na Siyang makapagliligtas sa atin nang lubusan (7:25 at ang tala roon). Siya, bilang ang Anak ng Diyos-bilang Diyos, at bilang ang Anak ng Tao-bilang Tao, ay ang kaligtasan natin. Ang Kanyang kahanga-hangang Persona na dinagdagan pa ng Kanyang pambihirang gawain ay ang ganitong kadakilang kaligtasan, isang kaligtasang hindi dapat pabayaan ng kahit sinuman sa atin. Ang ating kapabayaan ang magsasanhi sa atin na mawaglit ang dalawang bahagi ng ganitong kadakilang kaligtasan: 1) pinakamahalagang bahagi-ang pagtatamasa kay Kristo bilang ating nagliligtas na buhay at kapahingahan sa kapanahunang ito, at 2) pinakamaluwalhating bahagi-ang pagmamana sa kaharian ni Kristo at sa kaluwalhatian sa darating na kapanahunan. Ang dalawang puntong ito ay lubusang pinaunlad at tinalakay sa loob ng mga sumusunod na kapitulo ng aklat na ito."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang mga ipinamahaging kaloob ng Espiritu Santo ay ang mga bagay na kabilang ang Espiritu Santo Mismo na ipinamamahagi ng Espiritu Santo sa mga nakatanggap ng kaligtasan sa pamamagitan ng pananampalataya."
+        },
+        {
+            "id": "5-1",
+            "text": "Lit. pinananahanang lupa, yaon ay, ang lupang magiging kaharian ng Panginoon sa darating na kapanahunan (Awit 2:8; Dan. 2:35; Apoc. 11:15)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang unang taong si Adam, na nilikha ng Diyos sa Genesis 1, ay bumigo sa Diyos sa Kanyang layunin sa tao. Pagkatapos ipinahihiwatig ng Awit 8 sa paraan ng pagpopropesiya ang isa pang tao na papalit sa unang tao upang isakatuparan ang layunin ng Diyos. Sinasabi sa atin ng kapitulong ito na ang isa pang Taong ito, ang ikalawang Tao, na Siyang si Hesus, ay dumating, at lubhang marami ang Kanyang naisagawa para sa pagsasakatuparan ng naisin ng Diyos sa tao gaya ng nahayag sa Gen. 1:26, 28, at ipinahiwatig sa Awit 8:4-8. Kaya, saanmang bagay nabigo ang unang taong si Adam, pinagtagumpayan naman ng ikalawang taong si Kristo na Siyang humalili sa unang tao. Ang kapitulong ito ay ang katuparan ng mga propesiya sa Awit 8 at 22 tungkol sa mga pangunahing hakbangin ni Kristo bilang ang Taong magsasakatuparan ng layunin ng Diyos. Sa pagiging laman, Siya ay nakibahagi ng pantaong kalikasan (b. 14). Sa pagkapako sa krus, Siya ay nagbata ng kamatayan para sa lahat ng mga bagay (b. 9) at t inapos ang Diyablo (b. 14). Sa pagkabuhay na muli, ibinunga Niya ang maraming anak ng Diyos, ang Kanyang mga kapatid, upang buuin ang ekklesia (bb. 10-12). Sa pagdakila sa Kanya, Siya ay pinutungan ng karangalan at kaluwalhatian. Ang lahat ng mga hakbanging ito ay ang mga kwalipikasyon upang Siya ay maging Mataas na Saserdote natin (b. 17)."
+        },
+        {
+            "id": "7-1",
+            "text": "Mababa nang kaunti kaysa sa mga anghel sa pansamantala."
+        },
+        {
+            "id": "9-1",
+            "text": "O mababa nang kaunti kaysa sa mga anghel sa pansamantala."
+        },
+        {
+            "id": "9-2",
+            "text": "Sa kawalang-hanggan, si Kristo na Manlilikha ay hindi nalilimitahan, hindi nasusukat at nasa lahat ng dako; subalit Siya ay naging isang tao sa loob ng panahon, at Siya ay nalimitahan upang isang araw ay makaakyat Siya sa krus upang tuusin ang suli ranin ng sansinukob-ang kamatayan, upang Siya ay mamatay, nang sa gayon ay malipol at mapawalang-bisa ang kamatayan. Siya ay kinailangang maging isang tao, pansamantalang maalisan ng kalayaan sa loob ng 33 1/2 taon. Sa gayong pangyayari, sa loob ng panahong yaon, Siya ay mababa nang kaunti sa mga anghel. Siya ay namatay, nang ikatlong araw, Siya ay nabuhay-na-muli, at napalaya sa Kanyang abang katayuan. Ngayon Siya ay nakahihigit sa lahat ng mga anghel."
+        },
+        {
+            "id": "9-3",
+            "text": "Ang kaluwalhatian ay ang karilagan na may kaugnayan sa Persona ni Hesus; ang karangalan ay ang kahalagahan na may kaugnayan sa halaga ni Hesus (I Ped. 2:7, ang salitang “mahalaga” sa Griyego ay katulad ng salitang “karangalan” dito), at ang dignidad ni Hesus na may kaugnayan sa Kanyang katayuan (2 Ped. 1:17; cf. 1 Ped. 2:17; Roma 13:7)."
+        },
+        {
+            "id": "9-4",
+            "text": "O, sa lahat ng tao. Ang pagtutubos ng Panginoong Hesus ay isinakatuparan hindi lamang para sa mga tao bagkus para sa lahat ng mga bagay na nilikha ng Diyos. Kaya, maaaring ipakipagkasundo ng Diyos ang lahat ng mga bagay sa Kanyang sarili sa pamamagitan Niya (Col. 1:20). Ito ay malinaw ring isinasalarawan ng pagtutubos ng arka ni Noe, kung saan hindi lamang walong katao, bagkus lahat ng iba pang nabubuhay na bagay na nilikha ng Diyos ang naligtas (Gen. 7:13-23)."
+        },
+        {
+            "id": "10-1",
+            "text": "Tumutukoy sa Diyos na lumikha ng lahat ng mga bagay."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang maraming anak di to ay ang maraming kapatid sa Roma 8:29 at ang maraming butil sa Juan 12:24."
+        },
+        {
+            "id": "10-3",
+            "text": "Ang huling hakbang ng dakilang pagliligtas ng Diyos ay ang dalhin ang Kanyang maraming anak tungo sa kaluwalhatian. Sinasabi sa atin ng Roma 8 na ang gawa ng biyaya ng Diyos sa atin ay nagsimula sa Kanyang paunangpagkakilala ( foreknowing ) sa pamamagitan ng Kanyang pagtatalaga, pagtawag, at pag-aaring-matuwid, at ito ay magtatapos sa Kanyang pagluluwalhati sa atin (Roma 8:29-30). Sinasabi rin sa atin ng Roma 8 na ang sangnilikha ay marubdob na naghihintay sa paghahayag (pagluluwalhati) sa mga anak ng Diyos, umaasa na ang nilikha mismo ay makakasama sa pagtatamasa sa kalayaan ng kaluwalhatian ng mga anak ng Diyos (Roma 8:19-21). Ito ay maisasakatuparan sa pamamagitan ng pagbabalik ng Panginoon (Fil. 3:21), na sa oras na yaon tayo ay mahahayag na kasama Niya sa kaluwalhatian (Col. 3:4); ito ang ating pag-asa (Col. 1:27). Ang pagluluwalhating ito sa mga anak ng Diyos, bilang layunin ng pagliligtas ng Diyos, ay magpapatuloy hanggang sa isang libong taong kaharian at maihahayag sa kapuspusan sa Bagong Herusalem magpasawalang hanggan (Apoc. 21:11, 23)."
+        },
+        {
+            "id": "10-4",
+            "text": "Ang gawing sakdal ay ang dalhin sa katapusan o kaganapan sa pamamagitan ng pagkukumpleto o pagbubuo. Ang gawin si Hesus na sakdal ay hindi nagpapahiwatig na may anumang depekto sa kagalingan at katangiang na kay Hesus, kundi tumutukoy lamang sa pagkukumpleto ng Kanyang karanasan ng mga pantaong paghihirap na nagpapaging-dapat sa Kanya upang maging Pinuno, ang Lider ng kaligtasan ng Kanyang mga tagasunod. Ang Panginoong Hesus ay ang sa-ganang- Kanyang-sariling-umiiral at palagiang-umiiral na Diyos na sakdal mula sa kawalang-hanggan hanggang magpasawalang hanggan, subalit Siya ay kinakailangang maging laman, upang kunin ang pagka-tao, upang dumanas ng pantaong pamumuhay, pagkapako sa krus, pagkabuhay na muli, pag-akyat sa langit, at makumpleto sa mga hakbanging ito, sa gayon Siya ay sapat na maging kwalipikado upang maging ang Kristo ng Diyos at ating Tagapagligtas."
+        },
+        {
+            "id": "10-5",
+            "text": "O, Maykatha, May-akda, Tagapanimula, Tagapasinaya, Lider, ang Una. *Gr. archegos , matatagpuan lamang sa Gawa 3:15; 5:31; Heb. 2:10 at 12:2.* Ang kaligtasang binanggit sa bersikulong ito at tinutukoy sa b. 3 at 1:14 ay ang maligtas tayo mula sa ating natisod na kalagayan tungo sa kaluwalhatian. Si Hesus, bilang ang Una, ang Tagapagpauna (6:20), ay nangunang pumasok tungo sa kaluwalhatian at tayo bilang Kanyang mga tagasunod ay nasa parehong landas na madadala paloob sa gayunding kaluwalhatian na itinalaga ng Diyos para sa atin (1 Cor. 2:7; 1 Tes. 2:12). Binuksan na Niya ang daan, at atin na ngayong tinatahak ang daan. Kaya, Siya ay hindi lamang ang Tagapagligtas na nagligtas sa atin mula sa ating natisod na kalagayan, bagkus ang Pinuno ring nakapasok bilang ang Una tungo sa kaluwalhatian upang tayo ay madala sa loob ng gayunding kalagayan."
+        },
+        {
+            "id": "11-1",
+            "text": "Siya na nagpapabanal ay si Kristo bilang panganay na Anak ng Diyos, at yaong mga pinapaging-banal ay ang mga mananampalataya ni Kristo bilang ang maraming anak ng Diyos. Kapwa ang panganay na Anak at ang maraming anak ng Diyos ay ipinanganak ng parehong Amang Diyos sa loob ng pagkabuhay na muli (Gawa 13:33; 1 Ped. 1:3). Kapwa ang panganay na Anak at ang maraming anak ay magkatulad sa dibinong buhay at kalikasan. Kaya, Siya ay hindi nahihiyang tawagin silang mga kapatid."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang Nagpapabanal at ang pinapagingbanal ay pawang iisa ang pinagmulan, iisang Ama."
+        },
+        {
+            "id": "12-1",
+            "text": "Ipinahayag ng panganay na Anak ang pangalan ng Ama sa Kanyang mga kapatid pagkatapos Niyang mabuhay na muli mula sa mga patay at makipagkita sa maraming anak ng Ama (Juan 20:17, 19-23)."
+        },
+        {
+            "id": "12-2",
+            "text": "Sa aklat na ito, dalawang ulit na binanggit ang tungkol sa ekklesia, sa bersikulong ito at sa 12:23. Dito, ang ekklesia ay ang sama-samang kabuoan ng maraming kapatid ng panganay na Anak ng Diyos."
+        },
+        {
+            "id": "12-3",
+            "text": "Ito ang pagpuri ng Panganay na Anak sa Ama sa loob ng maraming anak ng Ama sa mga pagpupulong ng ekklesia. Kapag tayo, ang maraming anak ng Diyos, ay nagpupulong bilang ang ekklesia at nagpupuri sa Ama, ang panganay na Anak ay nagpupuri sa Ama sa ating pagpupuri. Ito ay hindi yaong pinupuri Niya ang Ama na hiwalay sa atin at nag-iisa, kundi sa loob natin at kasama natin sa pamamagi tan ng ating pagpupuri. Siya ay umaawit ng mga himno ng papuri sa Ama sa ating pag-awit. Kung tayo nga ay hindi umaawit, papaano Siyang makaaawit? Lalo tayong umaawit sa Ama, lalo tayong nagtatamasa sa Kanyang presensiya, sa Kanyang pagkilos, sa Kanyang pagpapahid, at sa Kanyang pamamahagi ng buhay sa loob natin. Sa gayon, lalago tayo sa Kanya at higit sa lahat ay madadala tayo paloob sa Kanyang pagluluwalhati."
+        },
+        {
+            "id": "14-1",
+            "text": "O, mabale-wala, mapawalang-bisa, tapusin, mabigyang-wakas, mapawalang-saysay, itapon. Pagkatapos rahuyuin ng Diyablong ahas ang tao sa pagkatisod, ipinangako ng Diyos na ang binhi ng babae ay darating upang durugin ang ulo ng ahas (Gen. 3:15). Sa kapuspusan ng panahon, ang Anak ng Diyos ay dumating, ipinanganak ng isang birhen (Gal. 4:4), upang maging laman (Juan 1:14; Roma 8:3), nang sa gayon Kanyang malipol ang Diyablo na nasa laman ng tao sa pamamagitan ng Kanyang kamatayan sa laman sa krus. (Tingnan ang tala 14-1 sa Juan 3, tala 31-1 sa Juan 12, at tala 3-3 sa Roma 8). Ito ay ang bigyang-wakas si Satanas, ang dalhin siya sa wala. Aleluya, winakasan at tinapos na si Satanas!"
+        },
+        {
+            "id": "15-1",
+            "text": "Yamang nalipol na ng Panginoon ang Diyablo na may kapangyarihan ng kamatayan, tayo na nasa ilalim ng pagkaalipin dahil sa takot sa kamatayan ay napalaya na Niya. Noon ang kamatayan ay naghari sa atin (Roma 5:14), at napasailalim tayo ng pagkaalipin nito na taglay ang takot sa kamatayan sa lahat ng sandali. Yamang nalipol na ng Panginoon ang Diyablo at naalis na Niya ang kamatayan (2 Tim. 1:10), tayo ngayon ay wala nang takot sa kamatayan at napalaya na mula sa pagkaalipin nito."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang salitang “tinutulungan” dito ay nangangahulugang magbigay ng tulong, iligtas. Binigyan tayo – mga tao, hindi mga anghel – ng tulong ni Hesus upang iligtas tayo mula sa pagkaalipin ng kamatayan sa ilalim ng kapangyarihan ng Diyablo sa pamamagitan ng pagkuha ng ating kalikasan (nasa loob ng ating kalikasan ang Diyablo) at pinawalang-bisa ito sa krus sa pamamagitan ng Kanyang nagpapaloob ng lahat na kamatayan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang Anak ng Diyos ay ginawang katulad nat in, na Kanyang mga kapatid, upang makibahagi sa dugo at laman (b. 14) para sa dalawang layunin. Ang isa ay negatibo, ang isa ay positibo. Ang negatibong layunin ay ang lipulin para sa atin ang Diyablo na nasa laman. Ang positibong layunin ay upang Siya ay maging ating maawain at tapat na Mataas na Saserdote na may pantaong kalikasan nang sa gayon Siya ay makapagbigay ng simpatiya sa atin sa lahat ng bagay."
+        },
+        {
+            "id": "17-2",
+            "text": "Si Kristo bilang ang Mataas na Saserdote ay nagtutustos sa atin ng Diyos Mismo at ng mga kayamanan ng buhay ng Diyos. Siya ay Diyos at Siya ay tao, lubusang kwalipikado upang maging Mataas na Saserdote natin. Dito, ang “maawain” ay tumutugma sa Kanya bilang tao; ang “tapat” ay tumutugma sa Kanya bilang Diyos."
+        },
+        {
+            "id": "17-3",
+            "text": "Si Hesus ay gumagawa ng pampalubag-loob para sa ating mga kasalanan upang mabigyang-kasiyahan ang kahilingan ng katuwiran ng Diyos, upang papaglubagin ang ating relasyon sa Diyos, sa gayon ay mabiyaya tayong pakitunguhan ng Diyos. Tingnan ang tala 252 sa Roma 3 at tala 131 sa Luc. 18."
         }
     ]
 }

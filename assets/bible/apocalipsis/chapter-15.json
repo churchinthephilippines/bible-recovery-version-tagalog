@@ -1,5 +1,5 @@
 {
-    "chapter": 15,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,15 +21,15 @@
             "footnotes": [
                 {
                     "word": "malasalaming",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "yaong",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "nangakatayo",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": [
@@ -42,23 +42,23 @@
             "footnotes": [
                 {
                     "word": "awit",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "awit",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "gawa,",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "daan,",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "bansa.",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": null
@@ -69,7 +69,7 @@
             "footnotes": [
                 {
                     "word": "banal;",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -80,11 +80,11 @@
             "footnotes": [
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "patotoo",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": [
@@ -97,7 +97,7 @@
             "footnotes": [
                 {
                     "word": "nararamtan",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -114,10 +114,64 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "“Ang pitong salot” ay ang matinding galit ng Diyos na nakapaloob sa pitong mangkok (16:1). Ito ang magiging ikatlong pighati (11:14), na isinagawa sa paghihihip ng ikapitong trumpeta (11:15, 18)."
+        },
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 6-1 sa kapitulo 4."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang mga taong ito ay ang mga huling mandaraig na makararanas ng bahagi ng matinding kapighatian at makapananaig sa Antikristo at sa pagsamba sa kanya. Sila ay mamamartir sa ilalim ng pag-uusig ng Antikristo, pagkatapos ay bubuhaying muli upang magharing kasama ni Kristo sa isang libong taon (20:4)."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang “nangakatayo sa ibabaw ng malasalaming dagat” ay sumasagisag na: 1) sila ay nabuhay na muli mula sa mga patay; 2) sila ay naiakyat ng may masidhing kagalakan, nangingibabaw sa dagat-dagatang apoy na tinutukoy ng malasalaming dagat, na siyang ikalawang kamatayan (tala 1 sa 4:6; 20:14) na siya ring pangingibabaw sa walang hanggang malaapoy na kahatulan ng Diyos (14:9-11)."
+        },
+        {
+            "id": "3-1",
+            "text": "“Ang awit ni Moises” na nakatala sa Exo. 15:1-18 ay nagpupuri sa Diyos dahil sa pagsasagawa ng matagumpay na pagliligtas ng Diyos laban sa mga hukbo ni Faraon sa pamamagitan ng naghahatol na tubig ng Dagat na Pula. Ang awit na yaon ay inawit ni Moises at ng mga Israelita sa dalampasigan ng Dagat na Pula. Ngayon inaawit muli ng mga huling mandaraig na ito ang awit sa ibabaw ng malasalaming dagat, nagpapahiwatig na sila ay matagumpay laban sa kapangyarihan ng Antikristo. Ang Antikristo ay hinatulan na ng Diyos ng apoy ng malasalaming dagat (19:20)."
+        },
+        {
+            "id": "3-2",
+            "text": "“Ang awit ni Moises” ay tumutukoy sa matagumpay na paghatol ng Diyos laban sa kaaway ng Kanyang bayan, sa negatibong panig ay nagpupuri sa Diyos dahil sa kahatulan ng Diyos; samantalang ang “awit ng Kordero” ay tumutukoy sa pagtutubos ni Kristo na naranasan ng bayan ng Diyos sa presensiya ng kanilang kaaway, sa positibong panig ay nagpupuri sa Diyos dahil sa pagtutubos ni Kristo. Ang mga huling mandaraig ay nasa posisyong tumayo sa malasalaming dagat na nagpupuri sa Diyos dahil sa dalawang katunayan: 1) hinatulan na ng Diyos ang kaaway, at 2) tinubos na ni Kristo ang Kanyang bayan."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang “mga daan” ng Diyos ay ang Kanyang mga namamahalang prinsipyo, samantalang ang Kanyang “mga gawa” ay ang Kanyang “mga pagkilos” (b. 4). Alam ni Moises ang mga daan (prinsipyo) ng Diyos subali’t ang alam lamang ng mga Israelita ay ang Kanyang mga gawa (Awit 103:7). Ang mga daan ng Diyos ay “matuwid” sa Kanyang mga prinsipyo at “tunay” sa Kanyang mga pangako, samantalang ang Kanyang mga gawa ay “dakila” sa kahayagan at “kagilagilalas sa kalikasan.” Ang gawa ng Diyos dito, sa pangunahin, ay tumutukoy sa kahatulan at prinsipyo ng Diyos sa Antikristo at sa mga nagsisisunod sa Antikristo (14:17-20)."
+        },
+        {
+            "id": "3-4",
+            "text": "Ang ilang manuskrito ay binabasang, mga kapanahunan."
+        },
+        {
+            "id": "4-1",
+            "text": "Gr. hosios . Ang salitang ito ay tumutukoy sa kabuuan ng mga katangian na bumabagay at bumubuo sa dibinong pag-uugali. Kaya, ang “banal” ay tumutukoy sa kalikasan ng Diyos, samantalang ang “matuwid” ay tumutukoy sa mga prinsipyo ng Diyos."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 19-1 sa kapitulo 11."
+        },
+        {
+            "id": "5-2",
+            "text": "“Ang patotoo” ay ang kautusan ng Diyos na nagpapatotoo sa Diyos at inilagay sa loob ng kaban (Exo. 25:16). Yamang ang kaban ay inilagay sa loob ng tabernakulo, ang tabernakulo ay tinawag na “tabernakulo ng patotoo”. Ang binabanggit dito na tabernakulo ay yaong nasa langit."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang pitong anghel ay “nararamtan” katulad ng mga saserdote (Ezek. 44:17)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ito ay nangangahulugan na walang sinumang makapapasok sa templo para manalangin upang mapawi ang matinding galit ng Diyos hanggang sa ito ay lubusang naibuhos sa mga mapanghimagsik na tao na sinulsulan ni Satanas at naimpluwensiyahan ng Antikristo."
         }
     ]
 }

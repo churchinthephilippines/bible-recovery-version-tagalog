@@ -1,5 +1,5 @@
 {
-    "chapter": 11,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,23 +7,23 @@
             "footnotes": [
                 {
                     "word": "tambong",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "pamalo,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "sukatin",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "dambana,",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -36,19 +36,19 @@
             "footnotes": [
                 {
                     "word": "loobang",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "apatnapu’",
-                    "note": ""
+                    "id": "2-4"
                 }
             ],
             "outlines": null
@@ -59,15 +59,15 @@
             "footnotes": [
                 {
                     "word": "dalawang",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "magagaspang",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": [
@@ -80,11 +80,11 @@
             "footnotes": [
                 {
                     "word": "punong",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "patungan-",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -107,11 +107,11 @@
             "footnotes": [
                 {
                     "word": "patotoo,",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "halimaw",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -122,11 +122,11 @@
             "footnotes": [
                 {
                     "word": "dakilang",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "Sodoma",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -149,15 +149,15 @@
             "footnotes": [
                 {
                     "word": "tatlo",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "hininga",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "tumayo",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -168,11 +168,11 @@
             "footnotes": [
                 {
                     "word": "malakas",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "umakyat",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -183,11 +183,11 @@
             "footnotes": [
                 {
                     "word": "lunsod;",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "pangalan",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": [
@@ -200,7 +200,7 @@
             "footnotes": [
                 {
                     "word": "ikatlong",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": [
@@ -213,19 +213,19 @@
             "footnotes": [
                 {
                     "word": "nagtrumpeta",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "ikapitong",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "maghahari",
-                    "note": ""
+                    "id": "15-4"
                 }
             ],
             "outlines": null
@@ -248,23 +248,23 @@
             "footnotes": [
                 {
                     "word": "poot,",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "mahatulan",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "gantimpala",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "natatakot",
-                    "note": ""
+                    "id": "18-4"
                 },
                 {
                     "word": "puksain",
-                    "note": ""
+                    "id": "18-5"
                 }
             ],
             "outlines": null
@@ -275,20 +275,166 @@
             "footnotes": [
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "lindol",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": [
                 "i. Tagpo sa Langit matapos ang Pagtrumpeta ng Ikapitong Trumpeta-Nabuksan ang Templo at Nakita ang Kaban\n 11:19"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “isang tambo” gaya ng sa 21:15 at Ezek. 40:3; 42:16-19 ay para ipanukat, samantalang ang “isang pamalo” ay nagpapahiwatig ng parusa (Kaw. 10:13; Isa. 10:5; 11:4). Kaya, ang “isang tambong katulad ng isang pamalo” rito ay tumutukoy sa pagsukat na may parusa."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “sukatin” ay ang pabanalin, ipreserba, at angkinin (Blg. 35:2,5; Ezek. 45:1-3; 42:15, 20; 48:8, 12,15). Yaong sukatin ang nasa langit na templo ng Diyos at ang dambana ng insenso ay nagpapakita na sa kapanahunan ng matinding kapighatian, ang langit ay maiingatan mula sa pagkawasak sapagka’t sa tatlo at kalahating taong yaon, si Satanas ay ibabagsak mula sa langit patungo sa lupa."
+        },
+        {
+            "id": "1-3",
+            "text": "Gr. naos, ang panloob na templo."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang “dambana” rito ay tumutukoy sa gintong dambana ng insenso, sapagka’t ito ay kasama ng templo, hindi tumutukoy sa tansong dambana ng hain na nasa “loobang nasa labas ng templo” (b. 2)."
+        },
+        {
+            "id": "2-1",
+            "text": "“Ang looban” ay nasa lupa. Ang templo na nasa lupa at ang Herusalem na nasa lupa ay ibibigay sa Antikristo at sa mga bansa upang yurakan."
+        },
+        {
+            "id": "2-2",
+            "text": "Tingnan ang tala 13."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang banal na lunsod dito ay tumutukoy sa Herusalem na nasa lupa (Isa. 52:1; Mat. 27:53)."
+        },
+        {
+            "id": "2-4",
+            "text": "Sa pagtatapos ng kapanahunang ito ay gagawa ang Antikristo ng isang matibay na kasunduan sa mga Hudyo sa loob ng isang linggo (pitong taon), na siyang magiging huling sanlinggo ng pitumpung linggo na itinalaga ng Diyos sa bansa ng mga Hudyo sa Dan. 9:24-27. Sa kalagitnaan ng huling sanlinggo (yaon ay, pagkatapos ng unang kalahati ng pitong taon) ay sisirain ng Antikristo ang kasunduan at wawasakin ang bagay ng pagsamba sa Diyos (Dan. 9:27). Pagkaraan ay kanyang lalapastanganin ang Diyos at uusigin ang Kanyang bayan sa loob ng tatlo at kalahating taon (13:5-7; Dan. 7:25; 12:7). Ang tatlo at kalahating taong yaon ay ang “apatnapu’t dalawang buwan” na binabanggit dito na siya ring huling kalahati ng huling pito na binanggit sa Dan. 9:27, kung kailan ay wawasakin din ng Antikristo ang banal na lunsod ng Herusalem. Ayon sa Mat. 24:15 at 21, itong huling tatlo at kalahating taon ay tiyak na ang panahon ng “matinding kapighatian” na susubok sa lahat ng nananahan dito sa lupa (3:10)."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang “dalawang saksi” ay nagbibigay ng isang sapat na patotoo (Deut. 17:6; 19:15; Mat. 18:16). Ang dalawang saksi rito ay sina Moises at Elias. Anuman ang kanilang ginawa sa bb. 5 at 6 ay katulad ng mga gawa nina Moises at Elias (Exo. 7:17,19; 9:14; 11:1; II Hari 1:10-12; I Hari 17:1). Sila ay nagpakita sa harapan ng Panginoon doon sa bundok ng pagbabagong-anyo (Mat. 17:1-3). Si Moises, kumakatawan sa kautusan, at si Elias, kumakatawan sa mga propeta (Luc. 16:16), ay kapwa nagpapatotoo para sa Diyos. Naipropesiya ng Bibliya ang misyon ni Elias (Mal. 4:5; Mat. 17:11). Sila ang dalawang puno ng olibo, ang dalawang anak ng langis, sa Zak. 4:3, 11-14 (Tingnan ang tala 9-2 sa Mateo 25)."
+        },
+        {
+            "id": "3-2",
+            "text": "Ito ang apatnapu’t dalawang buwan na binanggit sa b. 2, ang haba ng panahon na lalapastanganin ng Antikristo ang Diyos (13:5-6) at pag-uusigin ang Kanyang bayan (12:6, 14). Sa ilalim ng kanyang masamang kapangyarihan at pag-uusig, ang dalawang saksi ay magpopropesiya, magsasalita para sa Diyos, at magpapatotoo laban sa masasamang gawa ng Antikristo."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang “magagaspang na kayo” ay isang sagisag ng pagluluksa (II Sam. 3:31). Ang dalawang saksi ay magsusuot ng damit panluksa, bilang isang babala sa mga naninirahan sa lupa, upang sila ay mapalaya mula sa pagsamba sa Antikristo, nang sa gayon ay hindi sila mahatulan ng Diyos."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang mga “punong olibo” ay nagbubunga ng langis para sa mga ilawan. Ang langis ay sumasagisag sa Espiritu Santo. Ang Zac. 4:14 ay tumutukoy sa dalawang saksi bilang mga anak ng langis (isinalin ito ng Pagsasalin sa Intsik bilang ang dalawang pinahirang isa), sumasagisag na sila ay punung-puno ng Espiritu Santo."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang mga “patungan-ng-ilawan” ay nagbibigay ng liwanag sa pamamagitan ng langis ng mga punong olibo. Sa kapanahunan ng ekklesia, ang mga ekklesia ang mga patungan-ng-ilawan para sa patotoo ng Diyos (1:20), samantalang sa huling tatlo at kalahating taon ng kapanahunang ito, ang dalawang saksi ang magiging mga patungan-ng-ilawan para sa patotoo ng Diyos."
+        },
+        {
+            "id": "7-1",
+            "text": "Sa panahon ng matinding kapighatian, gagawa ng sapat na patotoo ang dalawang saksi para sa Diyos (b. 4) at sasalansangin ang Antikristo."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang halimaw dito ay ang Antikristo, na aahon mula sa kailalimang-walang-hanggan (17:8) at mula sa dagat (13:1) at makikipagdigma sa dalawang saksi at sa mga banal (13:7)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang “dakilang lunsod” ay tumutukoy sa “banal na lunsod” sa b. 2, na siyang panlupang Herusalem."
+        },
+        {
+            "id": "8-2",
+            "text": "Noong 1948, nang nanumbalik ang bansang Israel, ang mga Hudyong bumalik sa bansa ng kanilang mga ninuno ay hindi pa rin sumampalataya. Sila ay magiging kasinsama ng “Sodoma” (cf. Isa. 1:9-10; 3:9; Jer. 23:14) at kasing makasanlibutan ng “Ehipto” (cf. Ezek. 23:3, 8, 19, 27) hanggang sa pagbabalik ni Kristo, ang kanilang Mesiyas, kung kailan ang buong Israel ay maliligtas (Roma 11:26)."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang tatlo at kalahating araw ay kinakailangan nakapaloob sa isang libo dalawang daan at animnapu’t araw kung kailan sila ay nagpropesiya at nagpasan ng patotoo para sa Panginoon; kung hindi, ang mga araw na yaon ay lalampas sa matinding kapighatian."
+        },
+        {
+            "id": "11-2",
+            "text": "O, Espiritu ng buhay."
+        },
+        {
+            "id": "11-3",
+            "text": "Ang “tumayo sa kanilang mga paa” ay tumutukoy na sila ay nabuhay-na-muli. Ang kanilang pagkabuhay- na-muli ay hiwalay roon sa pagkabuhay-na-muling ipinropesiya sa I Tes. 4:16."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. malaki."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang “sila ay umakyat sa langit” ay tumutukoy na sila ay umakyat-sa-langit-na-may-masidhing-kagalakan. Ang kanilang pag-akyat-sa-langit-na-may-masidhing-kagalakan ay hiwalay rin doon sa ipinropesiya sa I Tes. 4:17."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang “lunsod” ay tumutukoy sa dakilang lunsod sa b. 8, ang Herusalem. Ang ikasampung bahagi ng lunsod ng Herusalem ay nagiba dahil sa lindol na binanggit sa bersikulong ito. Ang lunsod ay mahahati sa tatlong bahagi sa huling lindol sa 16:19."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang “mga pangalan ng mga tao” ay nagpapahiwatig ng mga bantog na tao."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang ikatlong pighati ay isang bahagi ng mga negatibong nilalaman ng ikapitong trumpeta (tingnan ang tala 15-2 ), na binubuo ng pitong mangkok ng kapootan ng Diyos (kap. 16). Yamang ang paghihip ng ikapitong trumpeta ay itinala pagkatapos ng pangitain hinggil sa pagkawasak ng Herusalem sa huling tatlo at kalahating taon (b. 2), at yamang ang pitong mangkok ang magiging mga huling salot ng kaganapan ng kapootan ng Diyos (15:1; 16:1), ang pighati ng ikapitong trumpeta ay tiyak na ang wakas ng matinding kapighatian (Mat. 24:21). Tingnan ang tala 12-1 sa kapitulo 9 at tala 2-4 sa kapitulong ito."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang paghihip ng ikapitong trumpeta ay tatagal ng isang panahon ng “mga araw.” Kapag ang ikapitong trumpeta ay hinipan, hindi lamang ang matinding kapighatian ang magtatapos, ang kapanahunan ding ito ay magtatapos, at ang hiwaga ng Diyos ay magtatapos (10:7). Isa pang kapanahunan, ang kapanahunan ng kaharian (ang isang libong taong kaharian) ay magsisimula."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang ikapitong trumpeta, bilang pinakahuli (I Cor. 15:52), ay binubuo ng kapwa mga negatibo at positibong bagay. Ang mga negatibong bagay ay: (1) Ang kapootan ng Diyos, na binubuo ng mga huling salot ng pitong mangkok (15:1; 16:1-21), bilang ang huling pighati na darating sa mga nananahan sa lupa (8:13; 9:12; 11:14) -b. 18; at (2) Ang pagkapuksa sa mga mamumuksa ng lupa, na magaganap sa pagbabalik ng Panginoon sa lupa (17:14; 18:1-2; 19:19 -20:3) -b.18. Ang mga positibong bagay ay : (1) Ang walang-hanggang kaharian ni Kristo, dili’t iba kundi ang kaharian sa pagpapakita nito – bb. 15, 17; (2) Ang paghuhukom sa mga patay (tingnan ang tala 18-2 ) na magaganap bago ang pagkabuhay-na-muli ng mga banal – b.18; at (3) Ang pagbibigay ng gantimpala sa mga propeta at sa mga banal, na magaganap sa luklukan ng paghahatol ni Kristo (II Cor. 5:10) pagkatapos ng pagkabuhay-na-muli at pag-akyat-na-may-masidhing-kagalakan ng mga banal (I Cor. 15:23,52; I Tes. 4:16-17), at doon sa mga may takot sa pangalan ng Diyos (14:6-7) sa trono ng kaluwalhatian ni Kristo (Mat. 25:31-34) – b. 18. Kaya nga, ang ikapitong trumpeta ay binubuo ng lahat ng mga bagay mula sa wakas ng matinding kapighatian hanggang sa kawalang-hanggang hinaharap katulad ng mga sumusunod: ang mga huling salot ng pitong mangkok (kap. 16); ang pagkabuhay-na-muli at pag-akyat-namay-masidhing-kagalakan ng mga banal; ang pagbibigay ng gantimpala o paggagawad ng disiplina sa mga banal; ang pagbabalik ni Kristo sa lupa; ang pagkawasak ng dakilang Babilonia (17:1-19:4); ang kasal ng Kordero (19: 7-9); ang pagkalipol ng Antikristo, ng bulaang propeta, ng kanilang mga tagasunod, at ni Satanas (19: 11- 20:3); ang isang libong taong kaharian (20:4-6); ang huling kahatulan sa lupa at kay Satanas (20:7-10); ang huling kahatulan sa mga patay (20:11-15); at ang bagong langit at bagong lupa kasama ang Bagong Herusalem magpasawalanghanggan (21:1-22:5)."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang kaharian ng sanlibutan ay naging kaharian ni Kristo sa Kanyang pagbabalik pagkatapos ng Kanyang paghahatol sa mga bansa (Dan. 7:13-14; 2:44-45)."
+        },
+        {
+            "id": "15-4",
+            "text": "Ang paghahari ng Panginoon magpakailanman ay tumutukoy sa paghahari ng Panginoon magpasawalang-hanggan sa bagong langit at bagong lupa (22:5). Tinutukoy nito na sinasaklaw ng ikapitong trumpeta ang bagong langit at bagong lupa kasama ang Bagong Herusalem."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang “poot” dito ay tumutukoy sa poot ng pitong mangkok sa kapitulo 16 na isang bahagi ng mga negatibong nilalaman ng ikapitong trumpeta."
+        },
+        {
+            "id": "18-2",
+            "text": "Yamang ang “mahatulan ang mga patay” ay binanggit bago ang “bigyan Mo ng gantimpala ang Iyong mga alipin…,” ito ay hindi tumutukoy sa kahatulan ng mga patay sa malaking puting trono pagkatapos ng isang libong taong kaharian (Apoc. 20:11-15). Ito ay nangangahulugan na sa pagtatapos ng kapanahunang ito bago ang isang libong taong kaharian, ayon sa sinasabi sa Juan 5:27-29, ang mga patay ay hahatulan kung sino ang nararapat na makibahagi sa pagkabuhay-na-muli ng buhay bago ang isang libong taong kaharian (I Cor. 15:23; Apoc. 20: 4-6) at kung sino ang maiiwan sa pagkabuhay-na-muli ng kahatulan pagkatapos ng isang libong taong kaharian (Apoc. 20:11-12)."
+        },
+        {
+            "id": "18-3",
+            "text": "Ang “gantimpala” ay ibibigay ng Panginoon sa mga matapat sa Kanya sa Kanyang pagbabalik (22:12; Mat. 16:27). Pagkatapos na mabuhay-na-muli at maiakyat-na-may-may masidhing-kagalakan ang mga banal (I Cor. 15:23, 52; I Tes. 4:16-17), lahat ng mga propeta at lahat ng mga banal ay hahatulan sa harapan ng luklukan ng paghahatol ni Kristo (II Cor. 5:10), na magtatalaga kung sino sa gitna ng mga nangaligtas ang karapat-dapat na magantimpalaan at kung sino ang nararapat pang disiplinahin."
+        },
+        {
+            "id": "18-4",
+            "text": "Yaong mga may takot sa pangalan ng Diyos ay ang “mga tupa” na binanggit sa Mat. 25:33-40. Kanilang tinanggap ang walang hanggang ebanghelyo, kinatakutan ang Diyos, at sinamba ang Diyos sa halip na ang Antikristo at ang kanyang larawan (14:6-7). Sa panahon ng matinding kapighatian sila ay magmamalasakit sa mga nangangailangang tao ng Panginoon, na Kanyang maliliit na kapatid (ang mga mananampalataya at mga Hudyong may takot sa Diyos na pinag-uusig sa panahon ng matinding kapighatian). Kaya, sila ay ililipat sa isang libong taong kaharian, upang maging mga bansa nito sa lupa (2:26; 12:5)."
+        },
+        {
+            "id": "18-5",
+            "text": "Ang mga mamumuksa ng lupa ay tumutukoy sa dakilang Babilonia (18:3), sa Antikristo (13:3), sa bulaang propeta (13:14), kay Satanas (20:7-9), at sa mga tao na sumusunod sa kanila (17:12-14; 19:19; 20:8-9). Silang lahat ay pupuksain sa panahon ng ikapitong trumpeta."
+        },
+        {
+            "id": "19-1",
+            "text": "Gr. naos, ang panloob na templo. Ang bersikulong ito ay ipinagpapatuloy ng 15:5. Ang luklukan, kasama ang bahaghari sa kapitulo 4:2-3, ay ang sentro ng lahat ng kahatulan na iginawad sa lupa sa mga kapitulo 6 hanggang 11, sa negatibong panig; samantalang “ang templong” may “kaban” ay ang sentro ng lahat ng mga naisagawa na ng Diyos sa sansinukob na isinagawa sa mga kapitulo 12 hanggang 22, sa positibong panig."
+        },
+        {
+            "id": "19-2",
+            "text": "Apat na lindol ang ipinropesiya sa aklat na ito. Ang una ay nasa 6:12 ng ikaanim na tatak, ang ikalawa ay nasa 8:5 bago ang ikapitong trumpeta, ang ikatlo ay nasa 11:13 sa pagitan ng ikaanim at ikapitong trumpeta, at ang ikaapat ay parehong naririto sa b. 19 ng panahon ng ikapitong trumpeta at sa 16:17-20 ng panahon ng ikapitong mangkok (na bumubuo ng pagtatapos ng mga negatibong nilalaman ng ikapitong trumpeta)."
         }
     ]
 }

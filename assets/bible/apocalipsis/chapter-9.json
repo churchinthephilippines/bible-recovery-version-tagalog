@@ -1,5 +1,5 @@
 {
-    "chapter": 9,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "bituin",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "kailalimang-",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": []
@@ -28,7 +28,7 @@
             "footnotes": [
                 {
                     "word": "balang",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -39,7 +39,7 @@
             "footnotes": [
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -62,7 +62,7 @@
             "footnotes": [
                 {
                     "word": "anyo",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -91,15 +91,15 @@
             "footnotes": [
                 {
                     "word": "anghel",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "Abaddón,",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "Apolyón.",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -110,11 +110,11 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "dalawang",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -130,7 +130,7 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -147,7 +147,7 @@
             "footnotes": [
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -158,7 +158,7 @@
             "footnotes": [
                 {
                     "word": "hukbong-kabayuhan",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -181,7 +181,7 @@
             "footnotes": [
                 {
                     "word": "ahas",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -192,11 +192,11 @@
             "footnotes": [
                 {
                     "word": "nagsipagsisi",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "nangakakakita,",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -206,6 +206,72 @@
             "text": "At sila ay  nagsipagsisi sa kanilang mga pagpatay, maging sa kanilang pangkukulam,  maging sa kanilang pakikiapid,  maging sa kanilang pagnanakaw.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “bituin” dito ay tumutukoy kay Satanas na ihahagis sa lupa mula sa langit. Ang mga anghel ay inihalintulad sa mga bituin (Job 38:7; Apoc. 12:4). Si Satanas, bilang ang arkanghel, ay dating ang tala sa umaga (Isa. 14:12). Sa Luc. 10:18, siya ay nakatanggap na ng kahatulan. Dito, at sa 12:9-10, ay ang pagpapaganap ng kahatulang yaon."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “kailalimang-walang-hanggan” ay ang lugar na tinatahanan ng mga demonyo (Luc. 8:31)."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang “mga balang” dito ay hindi katulad ng mga balang sa Exo. 10:12-15, sapagka’t ang mga ito ay may mga buntot na katulad sa mga alakdan at may mga tibo at nananakit ng mga tao (b.10). Ang mga ito ay tiyak na mga inalihan ng demonyo, sapagka’t ang mga ito ay lumalabas mula sa usok na nagmumula sa lugar na tinatahanan ng mga demonyo (b.2)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang mga salot ng unang apat na trumpeta ay hindi tuwirang dumadapo sa mga tao, samantalang ang mga pighati ng huling tatlong trumpeta ay tuwirang dumadapo sa tao. Yaong mga hindi masasaktan ng mga balang na inalihan ng demonyo ay ang mga Israelitang may tatak ng Diyos sa kanilang mga noo (7:3-8)."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang mga bersikulo 7 at 9 ay lubhang katulad ng Joel 2:4-5,25, at 1:6, mga salitang sinasalita tungkol sa Israel. Ito, kalakip ang katunayan na ang mga Israelita ay kinakailangang matatakan ng Diyos (7:3-8) upang matakasan ang pananakit ng mga balang, ay malamang na tumutukoy na ang pighati ng ikalimang trumpeta ay lalo’t higit na para sa mga Israelita."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang “anghel ng kailalimang-walang- hanggan” ay “ang halimaw,” ang Antikristo, na aahon mula sa hukay ng kailalimang-walang-hanggan (11:7; 17:8)."
+        },
+        {
+            "id": "11-2",
+            "text": "Heb. kapahamakan, gaya ng ginamit sa Job 28:22; Kaw. 15:11; sa Job 26:6, Abaddon ang ginamit."
+        },
+        {
+            "id": "11-3",
+            "text": "Lit. manlilipol. Ang Antikristo ay manlilipol, gagawa ng maraming panlilipol (Dan. 8:23-25)."
+        },
+        {
+            "id": "12-1",
+            "text": "“Ang unang pighati,” na nagbubuhat sa ikalimang trumpeta, ay yaong si Satanas ay mahuhulog sa lupa mula sa langit at ang Antikristo ay aahon mula sa hukay ng kailalimang-walang-hanggan, at magkasamang gagawa upang pahirapan ang mga tao. Yamang sa ikalimang trumpeta mahuhulog si Satanas mula sa langit upang pinsalain ang lupa at usigin ang bayan ng Diyos sa loob ng tatlo at kalahating taon (12:10,12-17,6), at aahon ang Antikristo mula sa kailalimang- walang-hanggan upang makipagsabwatan kay Satanas na pahirapan ang mga tao, usigin ang mga banal at lapastanganin ang Diyos sa parehong panahon (ang huling tatlo at kalahating taon-13:5-7; 11:7), at yamang sa pareho ring huling tatlo at kalahating taon ibibigay sa mga Hentil ang banal na lunsod ng Herusalem upang wasakin (11:2), ang pighati ng ikalimang trumpeta ay tiyak na ang pasimula ng “matinding kapighatian” (Mat. 24:21. Tingnan ang tala 2-4 sa Apoc. 11). Ang ikalawang pighati ng ikaanim na trumpeta at ang ikatlong pighati ng ikapitong trumpeta (8:13; 9:12; 11:14) ay tiyak na mga mayoriyang bahagi ng matinding kapighatian. Ang tatlong uri ng pighati kasama ng mga pinsala na sinanhi ng ikaanim na tatak at ng unang apat na trumpeta, ay magiging ang pagsubok sa lahat ng mga nananahanan sa lupa (3:10)."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang “dalawang pighati” ay nagbubuhat sa ikaanim at ikapitong trumpeta (bb. 13-21; 11:14-15)."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang dugo ng pagtutubos sa kasalanan ay ipinahid sa apat na sungay ng dambanang ginto, yaon ay, ang dambana ng insenso, para sa pagtutubos sa kasalanan, yaon ay, para sa katubusan (Lev. 16:18). Ang tinig na “mula sa apat na sungay ng dambanang ginto” ay tumutukoy na ang kahatulan ng Diyos sa tao ay batay sa pagtutubos ni Kristo; ito ay sapagka’t ang mga tao ay hindi sumasampalataya sa pagtutubos ni Kristo."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang “para sa oras at araw at buwan at taon” ay nangangahulugang ang apat na anghel ay nangakahanda na para sa oras, dagdagan ng araw, dagdagan ng buwan, at dagdagan ng taon lahat lahat ay labintatlong buwan, isang araw, at isang oras para sa pagpatay ng mga tao. Ang pagpatay ay tatagal muna ng isang oras, pagkaraan ay isang araw, pagkaraan ay isang buwan, at sa huling-huli ay isang taon."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang dalawang daang milyong hukbong-kábayuhán ay nagmula sa sinisikatan ng araw, upang sumali sa digmaan sa Armagedon (16:12-16; 19:17-21)."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang mga buntot ng mga kabayo rito na katulad ng mga ahas ay higit na makamandag kaysa sa mga buntot ng balang, na parang mga alakdan (b.10). Pahihirapan lamang ng mga balang ang mga tao nang limang buwan (bb. 5,10), samantalang papatayin naman ng mga kabayo “ang ikatlong bahagi ng mga tao” (bb. 15, 18). Ito ay nangangahulugang ang pighati ng ikaanim na trumpeta ay higit na malubha kaysa sa yaong sa ikalima."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang intensiyon ng kahatulan ng Diyos ay yaong mangagsisi ang mga tao."
+        },
+        {
+            "id": "20-2",
+            "text": "Dito ay hindi sinasabi na ang mga diyos-diyosan ay hindi makapagsalita, gaya ng sa Awit 115:5 at 135:16, sapagka’t ang larawan ng Antikristo ay nagsasalita (13:15)."
         }
     ]
 }

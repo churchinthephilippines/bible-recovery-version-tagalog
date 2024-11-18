@@ -1,5 +1,5 @@
 {
-    "chapter": 12,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "babae",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -22,15 +22,15 @@
             "footnotes": [
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "sumigaw,",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "nagdaramdam-",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -41,15 +41,15 @@
             "footnotes": [
                 {
                     "word": "dragon",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": [
@@ -62,11 +62,11 @@
             "footnotes": [
                 {
                     "word": "bituin",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "tumayo",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -77,15 +77,15 @@
             "footnotes": [
                 {
                     "word": "nanganak",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "lalakeng-",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "inagaw",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": [
@@ -98,7 +98,7 @@
             "footnotes": [
                 {
                     "word": "ilang",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": [
@@ -111,15 +111,15 @@
             "footnotes": [
                 {
                     "word": "digmaan",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "Miguel",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "kanyang",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": [
@@ -138,19 +138,19 @@
             "footnotes": [
                 {
                     "word": "inihagis",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "antigong",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "Diyablo",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "Satanas,",
-                    "note": ""
+                    "id": "9-4"
                 }
             ],
             "outlines": null
@@ -161,11 +161,11 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "tagapag-",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": [
@@ -178,23 +178,23 @@
             "footnotes": [
                 {
                     "word": "kanilang",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "dugo",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "11-4"
                 },
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "11-5"
                 }
             ],
             "outlines": null
@@ -205,15 +205,15 @@
             "footnotes": [
                 {
                     "word": "nagsisipanahan",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "malaking",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "maikling",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -224,7 +224,7 @@
             "footnotes": [
                 {
                     "word": "inusig",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": [
@@ -237,11 +237,11 @@
             "footnotes": [
                 {
                     "word": "agila",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "panahon,",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -252,7 +252,7 @@
             "footnotes": [
                 {
                     "word": "tubig",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -263,7 +263,7 @@
             "footnotes": [
                 {
                     "word": "binuka",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -274,7 +274,7 @@
             "footnotes": [
                 {
                     "word": "nalabi",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": [
@@ -287,14 +287,168 @@
             "footnotes": [
                 {
                     "word": "siya",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "dagat.",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tinatalakay sa unang bahagi ng aklat na ito, na binubuo ng unang labing-isang kapitulo, ang lahat ng bagay mula sa pag-akyat ni Kristo sa langit hanggang sa kawalang-hanggan. Ang ikalawang bahagi, na binubuo ng huling labing-isang kapitulo, ay nagbibigay ng mga detalye ng mga importanteng bagay at ng mahahalagang bagay mula sa huling tatlo at kalahating taon ng kasalukuyang kapanahunan, na magiging panahon ng matinding kapighatian, hanggang sa kawalang-hanggang kapanahunan ng bagong langit at bagong lupa. Ang una sa mga importanteng bagay at mahahalagang bagay na ito na inihayag sa bahaging ito ay ang “isang babae” na nagdadalang-tao ng isang lalakeng-anak. Ang babaeng ito ay “nararamtan ng araw, at ang buwan ay nasa ilalim ng kanyang mga paa, at sa kanyang ulo ay may isang putong na labindalawang bituin.” Sa Gen. 37:9, nakita ni Jose sa kanyang panaginip ang araw, ang buwan, at ang labing-isang bituin, sumasagisag sa kanyang ama, sa kanyang ina, at sa kanyang labing-isang kapatid. Doon ang araw, ang buwan, at ang labing-isang bituin, idagdag pa si Jose, ay sumagisag sa panlahatang kabuuan ng bayan ng Diyos sa lupa. Batay sa prinsipyo ng panaginip na yaon, ang araw, ang buwan, at ang labindalawang bituin dito ay tiyak na sumasagisag sa kalahatan ng bayan ng Diyos sa lupa, na sinasagisag dito ng isang babae. Ang kanyang buong katawan ay halos nabibihisan ng araw. Ang araw ay sumasagisag sa bayan ng Diyos sa kapanahunan ng Bagong Tipan. Bago naparito si Kristo sa sanlibutan, yaon ang madilim na gabi ng Lumang Tipang kapanahunan. Nang si Kristo ay dumating na, ito ang pagsikat ng araw buhat sa kaitaasan (Luc. 1:78), ang pasimula ng kapanahunan ng araw. Bago nito ay ang kapanahunan ng buwan, na sumasagisag sa bayan ng Diyos sa kapanahunan ng Lumang Tipan. Ang buwan ay nasa ilalim ng mga paa ng babae, sapagka’t ang kapanahunan ng buwan ay ang kapanahunan ng kautusan, na hindi dapat itaas gaya ng mga bituin. Ang mga bituin, na sumasagisag sa mga patriyarka, ang bayan ng Diyos bago ibinigay ang kautusan, ay nasa kanyang ulo bilang isang putong. Lahat ng bayan ng Diyos sa tatlong kapanahunang ito, na sama-samang bumubuo sa babaeng ito, ay mga tagadala-ng-ilaw. Kaya, siya ang maningning na babae na nagliliwanag sa buong itinagal ng lahat ng henerasyon."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang nasa sinapupunan ng babae ay isang lalakeng-anak (b.5), sumasagisag sa higit na malakas na bahagi ng bayan ng Diyos. Sa buong itinagal ng mga henerasyon ay may higit na malalakas sa gitna ng bayan ng Diyos. Ang mga ito ay itinuturing sa Bibliya bilang isang sama-samang yunit na nakikipaglaban para sa Diyos at nagdadala ng kaharian ng Diyos pababa sa lupa."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang “sumigaw” ay sumasagisag sa nanalangin."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang “nagdaramdam-sa-panganganak, at sa hirap upang manganak” ay sumasagisag na sa buong itinagal ng lahat ng mga henerasyon ay naghihirap ang bayan ng Diyos sa pagdaramdam ng panganganak (Isa. 26:17-18; Jer. 6:24; 13:21; 30:6; Mik. 4:9-10; 5:3; Gal. 4:19) para maisilang ang lalakeng-anak upang makipagbaka para sa kaharian ng Diyos."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang “dragon” ay sumasagisag kay Satanas (b.9). Sa Genesis 3, si Satanas ay isang ahas, isang higit na maliit at tusong nilalang; pagdating dito, siya ay naging isang dragon, lubhang higit na malaki at mabangis kaysa sa isang ahas. Kaya, siya ay tinawag na “isang malaking pulang dragon.” Ang “pula” rito ay sumasagisag sa pagdanak ng dugo na sinanhi ng mga pagpatay ni Satanas (Juan 8:44)."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang “pitong ulo at sampung sungay” ay yaong sa halimaw, ang Antikristo (13:1). Ipinakikita nito na ang dragon at ang halimaw ay iisa; isinasaad na ang Antikristo ay ang pagsasakatawan ni Satanas."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang “pitong diadema” ay tumutukoy sa kaluwalhatian ng ekstra – ordinaryong pagkahari ng pitong Cesar, yamang sa gitna ng pitong Cesar, bawa’t isa sa kanila ay kaisa ni Satanas. Silang lahat ay nangangamkam ng pagka-Diyos, inaaring sila ay Diyos, at namimilit ng mga tao na sambahin sila bilang Diyos."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang “mga bituin sa langit” ay sumasagisag sa mga anghel (Job 38:7; Isa. 14:12). “Ang ikatlong bahagi ng mga bituin sa langit” ay nararapat na tumukoy sa mga natisod na anghel na sumunod kay Satanas sa kanyang pagrerebelde laban sa Diyos. Silang lahat ay kinakaladkad ni Satanas palayo, at bilang mga anghel ni Satanas, sila ay ihahagis sa lupa kasama ni Satanas (b.9). Kaya sa panahong yaon, ang lupa ay mapupunuan nitong mga natisod na anghel; wawasakin din nila ang lupa na tinitirahan ng mga taong nagsipagrebelde sa Diyos. Sa gayon, ang lupa ay magiging isang nakatatakot na lugar."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang pagtayo ng dragon sa harapan ng babaeng malapit nang manganak ay sumasagisag na si Satanas ay palaging laban sa bayan ng Diyos. Mula pa noong panahon ng Gen. 3:15 hanggang sa araw na ito, patuloy na tumutuligsa sa babaeng ito ang ahas na si Satanas na may layuning kainin ang kanyang anak."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “nanganak” dito ay sumasagisag sa pagkabuhay na muli, gaya ng sa Gawa 13:33-34. Ang lalakeng-anak ay binubuo ng mga namatay na mandaraig na banal na nabuhay na muli. Ito ay pinatunayan ng salitang “hanggang sa kamatayan” sa b. 11."
+        },
+        {
+            "id": "5-2",
+            "text": "Gr. lalake. Sa Biblia ang babae ay sumasagisag sa higit na mahina at ang lalake sa higit na malakas (I Ped. 3:7). Kaya, ang “lalakeng-anak” dito ay sumasagisag sa higit na malakas na bahagi ng bayan ng Diyos. Na ang lalakeng-anak na ito ay “magpapastol sa lahat ng mga bansa na may panghampas na bakal” ay tumutukoy na ang lalakeng-anak ay binubuo ng mga mandaraig (gaya ng binanggit sa 2:26-27)."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang “inagaw paitaas” ay ang maiakyat na may masidhing kagalakan. Ang pag-akyat na may masidhing kagalakan ng lalakeng-anak ay naiiba sa pag-akyat na may masidhing kagalakan ng karamihan sa mga mananampalataya, gaya ng binanggit sa I Tes. 4:17 (tingnan ang tala 17-1 sa I Tes. 4:17). Doon, ang pag-akyat na may masidhing kagalakan ng karamihan sa mga mananampalataya ay magiging: 1) sa himpapawid, at 2) sa huling trumpeta (I Cor. 15:52; I Tes. 4:16), na siyang panahon ng ikapitong trumpeta (11:15). Subali’t dito, ang pag-akyat-na-may-masidhing-kagalakan ng lalakeng-anak ay magiging: 1) sa harapan ng trono ng Diyos, at 2) bago dumating ang “isang libo dalawang daan at animnapung araw,” na siyang magiging panahon ng matinding kapighatian ng tatlo at kalahating taon (apatnapu’t dalawang buwan, b. 14; 13:5; 11:2), yaon ay, sa unahan ng ikalimang trumpeta, na magsisimula sa ikaanim na tatak (9:1)."
+        },
+        {
+            "id": "6-1",
+            "text": "Pagkatapos ng pag-akyat na may masidhing kagalakan ng lalakeng-anak, ang babae ay maiiwan sa lupa upang maghirap ng pag-uusig (b.13). Sa panahon ng matinding kapighatian ay maghahanda ang Diyos ng isang lugar upang siya ay kandilihin sa loob ng isang libo dalawang daan at animnapung araw bago Niya dalhin ang Kanyang bayan sa loob ng isang libong taong kaharian. Ito ay katulad noong panahon na pinag-usig ni Faraon ang mga anak ni Israel at dinala ng Diyos ang Kanyang bayan sa ilang, kung saan ay kinandili Niya sila bago sila dinala sa loob ng mabuting lupa."
+        },
+        {
+            "id": "7-1",
+            "text": "Pagkatapos na pagkatapos na maiakyat na may masidhing kagalakan ang lalakeng-anak, isang digmaan ang magsisimula kay Miguel at sa kanyang mga anghel laban kay Satanas. Ito ay tumutukoy na ang lalakeng-anak, ang higit na malakas na bahagi ng bayan ng Diyos, ay palaging nasa pakikipaglaban sa kaaway ng Diyos na si Satanas. Sila ay patuloy na nakikipaglaban kay Satanas sa lupa. Sa ngayon, ang langit ay naghihintay na sila ay dumating na roon nang sa gayon ay isang digmaan ang maisagawa upang ibagsak si Satanas mula sa langit."
+        },
+        {
+            "id": "7-2",
+            "text": "Inihahayag ng Bibliya ang mga pangalan ng dalawang anghel -si Miguel at si Gabriel. Si Gabriel ay isang tagapagbalita na nagdadala ng mabubuting balita sa bayan ng Diyos ( Dan. 8:16; 9:21-22; Luc. 1:19, 26), samantalang si Miguel ay isang mandirigma na nakikipaglaban para sa bayan ng Diyos (Dan. 10:13, 21; 11:1; 12:1; Jud. 9; Apoc. 12:7)."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang “kanyang mga anghel” ay ang mga natisod na anghel na nagsisisunod kay Satanas upang magrebelde laban sa Diyos (Mat. 25:41). Tingnan ang tala 4-1 ."
+        },
+        {
+            "id": "9-1",
+            "text": "Si Satanas, ang kaaway ng Diyos, ay hinatulan na ng Panginoong Hesus sa krus (Juan 12:31; 16:11). Kasunod nito, may pangangailangang isagawa ng mga mandaraig na mananampalataya ang kahatulang yaon, upang isakatuparan ang sentensiyang yaon. Ang paglaban na ginawa ng mga mandaraig na mananampalataya laban kay Satanas, sa katunayan, ay ang pagsasagawa ng iginawad na kahatulan ng Panginoon sa kanya. Sa katapus-tapusan, sa pamamagitan ng kanilang pakikipaglaban, si Satanas ay inihagis mula sa langit. Tingnan ang tala 1-1 sa kapitulo 9."
+        },
+        {
+            "id": "9-2",
+            "text": "Pagdating sa Apocalipsis kapitulo 12, si Satanas ay lumuma’t tumanda na, kaya, siya ay naging ang antigong ahas."
+        },
+        {
+            "id": "9-3",
+            "text": "Tingnan ang tala 10-1 sa kapitulo 2."
+        },
+        {
+            "id": "9-4",
+            "text": "Lit. ang Satanas, na nangangahulugang katunggali. Si Satanas ay hindi lamang ang kaaway ng Diyos sa labas ng kaharian ng Diyos, bagkus ang katunggali rin ng Diyos na nagmula sa loob ng kaharian ng Diyos, na nagrerebelde laban sa Diyos."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang pakikipaglaban ng mga mandaraig na banal laban kay Satanas ay upang maipasok ang “kaharian” ng Diyos. Tinuturuan tayo ng Panginoon na manalangin para sa pagdating ng kaharian (Mat. 6:10). Ang ating pananalangin para sa pagdating ng kaharian ay kinakailangang sabayan natin ng pakikipaglaban para sa kaharian. Ang pagdating ng kaharian ay may dalawang aspekto: ang isa ay ang realidad ng kaharian (Mat. 5:3), na nasa wastong buhay-ekklesia ngayon (Roma 14:17); ang isa pa ay ang pagpapakita ng kaharian sa isang libong taong kaharian, na maipapasok sa pamamagitan ng mga mandaraig na mananampalataya. Kapag ang pagpapakita ng kaharian ay dumating na, ang “kaligtasan ng Diyos” ay lubusang darating kasama ng kaharian. Ang kaligtasan ng Diyos ay nahayag na sa atin ngayon, subali’t lubusang darating ito sa kapanahunan ng kaharian. Ito ay katulad sa “kapangyarihan ng Diyos” at sa “awtoridad ng Kanyang Kristo.” Ngayon, tayo ay nakabahagi na sa kapangyarihan ng Diyos at sa awtoridad ni Kristo, subali’t ang ating lubos na pagtatamasa sa mga ito ay magiging sa kapanahunan ng kaharian."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang “tagapag-akusa” ay ang Diyablo na nag-akusa kay Job (Job 1:9; 2:4-5) at kay Josue (Zac. 3: 1-2) at ngayon ay nag-aakusa sa mga mananampalataya “sa harapan ng Diyos” maging “araw at gabi.”"
+        },
+        {
+            "id": "11-1",
+            "text": "Ang “kanila” ay tumutukoy sa mga kapatid sa b. 10, ang mga mandaraig na mananampalataya na bumubuo sa lalakeng-anak sa b. 5."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang “dugo ng Kordero,” na para sa ating katubusan, ang sumasagot sa harapan ng Diyos sa lahat ng mga akusasyon ng Diyablo laban sa atin at nagbibigay sa atin ng tagumpay laban sa kanya. Kailangan nating gamitin ang dugong ito sa tuwing nararamdaman natin ang akusasyon ng Diyablo."
+        },
+        {
+            "id": "11-3",
+            "text": "Ang “salita ng kanilang patotoo” ay ang kanilang salita na nagpapatotoo na ang Diyablo ay nahatulan na ng Panginoon. Sa tuwing nararamdaman natin ang akusasyon ng Diyablo, tayo ay kailangang berbal na magpatotoo kung paanong siya ay tinuos na ng Panginoon. Kailangan nating ideklara ang tagumpay ng Panginoon laban sa kanya sa pamamagitan ng binigkas na salita."
+        },
+        {
+            "id": "11-4",
+            "text": "Dahil sa pagkatisod ni Adam, iniugpong ni Satanas ang kanyang sarili sa pangkaluluwang-buhay ng tao- ang sarili ng tao (Mat. 16: 23-24). Kaya, upang madaig siya, huwag nating ibigin ang ating pangkaluluwang- buhay, bagkus ay kamuhian ito at itakwil ito (Luc. 14:26; 9:23)."
+        },
+        {
+            "id": "11-5",
+            "text": "Ang “hanggang sa kamatayan” ay tumutukoy sa pagkamartir. Ang mga mandaraig na mananampalataya na bumubuo sa lalakeng-anak ay hindi umibig sa kanilang pangkaluluwang-buhay maging hanggang sa kamatayan."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. nagtatabernakulo."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang dragon ay may “malaking galit,” sapagka’t sa pagkabagsak sa lupa, siya ay nalimitahan na at nawala na sa kanya ang kinasasaklawan sa kalangitan at sa himpapawid."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang “maikling panahon” dito ay ang tatlo at kalahating taon ng matinding kapighatian (b.14; 13:5; 11:2)."
+        },
+        {
+            "id": "13-1",
+            "text": "Pagbubuntunan ng matinding poot ng nagagalit na dragong Satanas ang bayan ng Diyos."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang “malaking agila” ay sumasagisag sa Diyos, at ang “dalawang pakpak” ay sumasagisag sa Kanyang kalakasang magligtas (Exo. 19:4; Deut. 32: 11-12). Kagaya ng ginawa Niyang pagpapalabas sa mga anak ni Israel mula sa pag-uusig ni Faraon, gayundin Niya ilalayo ang Kanyang bayan mula sa pag-uusig ni Satanas sa panahon ng matinding kapighatian."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang “isang panahon, at mga panahon, at kalahati ng isang panahon” ay tumutukoy sa tatlo at kalahating taon.."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang “tubig” dito ay sumasagisag sa mga hukbo (tingnan ang mga reperensiya) na isusugo ni Satanas upang wasakin ang bayan ng Diyos."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang lupa ay bubuka, katulad ng nasa Blg. 16:31-33, at lululunin ang mga hukbong isinugo ni Satanas."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang “nalabi sa kanyang binhi” ay sumasagisag sa bayan ng Diyos bukod pa sa lalakeng-anak; ang nalabi sa kanyang binhi ay ang higit na mahinang bahagi ng babae na ang ilan ay ang mga Hudyong nagsisitupad ng mga utos ng Diyos, at ang ilan ay ang mga mananampalatayang may patotoo ni Hesus. Ang dalawang ito ay pawang daraan sa matinding kapighatian at pag-uusigin at tutuligsain ng dragon."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang “siya” ay tumutukoy sa dragon."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang “dagat” ay katulad ng nasa 13:1, ang Dagat Mediteraneo. Ang “buhanginan ng dagat” dito ay tumutukoy sa dalampasigan ng Banal na Lupa, na kinaroroonan ng bansang Israel. Ang dragon ay nakatayo sa buhanginan ng dagat at ang banal na lunsod, ang Herusalem, ay yuyurakan sa loob ng apatnapu’t dalawang buwan (11:2); ang dalawang puntong ito ay nagpapakita na sa kapanahunan ng matinding kapighatian, ang pag-uusig ni Satanas ay pangunahing isasagawa sa lupain ng Israel."
         }
     ]
 }

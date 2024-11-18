@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "lawa",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,7 +21,7 @@
             "footnotes": [
                 {
                     "word": "nakakita",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -32,7 +32,7 @@
             "footnotes": [
                 {
                     "word": "Simon,",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -49,7 +49,7 @@
             "footnotes": [
                 {
                     "word": "Guro,",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -84,11 +84,11 @@
             "footnotes": [
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "huhuli",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -105,7 +105,7 @@
             "footnotes": [
                 {
                     "word": "lalakeng",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -138,7 +138,7 @@
             "footnotes": [
                 {
                     "word": "nananalangin.",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -149,7 +149,7 @@
             "footnotes": [
                 {
                     "word": "sumasa",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": [
@@ -164,7 +164,7 @@
             "footnotes": [
                 {
                     "word": "lalakeng",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -223,7 +223,7 @@
             "footnotes": [
                 {
                     "word": "maniningil",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": [
@@ -244,7 +244,7 @@
             "footnotes": [
                 {
                     "word": "bahay;",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -273,7 +273,7 @@
             "footnotes": [
                 {
                     "word": "disipulo",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -314,10 +314,68 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Isang karaniwang pangalan para sa Dagat ng Galilea (Mat. 4:18; Marc. 1:16)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang bb. 2-10a ay wala sa talaan ng Mat. 4:18-22 at Marc. 1:16-20."
+        },
+        {
+            "id": "3-1",
+            "text": "Si Simon ay nadala na sa Panginoon ng kanyang kapatid na si Andres bago pa ito (Juan 1:40-42)."
+        },
+        {
+            "id": "5-1",
+            "text": "Isang nagsasagawa ng anumang uri ng pangangasiwa."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang salita rito ay nagpapakita ng isang malapít na samahan, upang kapwa ay makinabang."
+        },
+        {
+            "id": "10-2",
+            "text": "Ito ang pagtawag ng Panginoon kay Pedro sa pamamagitan ng isang himala sa pamamalakaya. Tingnan ang tala 6-1 , talata 2, sa Juan 21. Ang salitang Griyego para sa paghuli ay zōgreō tambalan ng zoōs , buháy, at agreuō , hulihin, kaya hulihin nang buháy, hulihin ang bihag na buháy sa digmaan, sa halip na patayin. Ang mga karaniwang mamamalakaya ay namamalakaya ng isda tungo sa kamatayan. Datapuwa’t si Pedro ay tinawag ng Panginoon upang maging isang mamamalakaya ng mga tao (Mat. 4:19), yaon ay, ang mamalakaya ng mga tao tungo sa buhay (Gawa 2:38; 11:18)."
+        },
+        {
+            "id": "12-1",
+            "text": "Para sa bb. 12-15 tingnan ang mga tala sa Mat. 8:2-4 at Marc.1:40-45."
+        },
+        {
+            "id": "16-1",
+            "text": "Tingnan ang tala 35-1 sa Marc. 1."
+        },
+        {
+            "id": "17-1",
+            "text": "Sa ibang manuskrito ay mababasang, naroon upang magpagaling sa kanila."
+        },
+        {
+            "id": "18-1",
+            "text": "Para sa bb. 18-26, tingnan ang mga tala sa Mat. 9:2-8 at Marc. 2:3-12."
+        },
+        {
+            "id": "27-1",
+            "text": "Para sa bb. 27-32, tingnan ang mga tala sa Mat. 9:9-13 at Marc. 2:13-17."
+        },
+        {
+            "id": "29-1",
+            "text": "Nararapat na buksan ng mga taong nabiyayaan ang mga sarili nilang bahay upang matamasa ng Panginoon."
+        },
+        {
+            "id": "33-1",
+            "text": "Para sa bb. 33-39, tingnan ang mga tala sa Mat. 9:14-17 at Marc. 2:18-22."
+        },
+        {
+            "id": "39-1",
+            "text": "O, nakawiwili."
         }
     ]
 }

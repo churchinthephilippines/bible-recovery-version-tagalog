@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Kaya",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "ministeryong",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "kaawaan,",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -30,11 +30,11 @@
             "footnotes": [
                 {
                     "word": "binabantuan",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -45,7 +45,7 @@
             "footnotes": [
                 {
                     "word": "natatalukbungan",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -56,23 +56,23 @@
             "footnotes": [
                 {
                     "word": "binulag",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "diyos",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "kaisipan",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "sumilay",
-                    "note": ""
+                    "id": "4-4"
                 },
                 {
                     "word": "liwanag",
-                    "note": ""
+                    "id": "4-5"
                 }
             ],
             "outlines": null
@@ -83,15 +83,15 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Panginoon,",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "alipin",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -102,23 +102,23 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "aming",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "upang",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "mukha",
-                    "note": ""
+                    "id": "6-5"
                 }
             ],
             "outlines": null
@@ -129,15 +129,15 @@
             "footnotes": [
                 {
                     "word": "Nguni’t",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "kayamanang",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "kahigtan",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": [
@@ -153,19 +153,19 @@
             "footnotes": [
                 {
                     "word": "nangagigipit",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "nagsisikip;",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "nangatitilihan,",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "nangawawalan",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": null
@@ -176,15 +176,15 @@
             "footnotes": [
                 {
                     "word": "Pinag-",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pinababayaan;",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "nangasisira;",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -195,15 +195,15 @@
             "footnotes": [
                 {
                     "word": "paglalagay",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "upang",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -214,11 +214,11 @@
             "footnotes": [
                 {
                     "word": "Hesus",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "lamang",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -229,7 +229,7 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -240,11 +240,11 @@
             "footnotes": [
                 {
                     "word": "gayunding",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -255,7 +255,7 @@
             "footnotes": [
                 {
                     "word": "magbabangon",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -266,7 +266,7 @@
             "footnotes": [
                 {
                     "word": "biyaya,",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -277,19 +277,19 @@
             "footnotes": [
                 {
                     "word": "panlabas",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "nasisira,",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "panloob",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "napapabago",
-                    "note": ""
+                    "id": "16-3"
                 }
             ],
             "outlines": null
@@ -300,19 +300,19 @@
             "footnotes": [
                 {
                     "word": "kapighatian",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "lalu’t",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "kaluwalhatiang",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -323,14 +323,208 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa 3:12-18 ay inilalarawan ng apostol kung paano binubuuan ang mga tagapaghain ng bagong tipan. Sa kapitulong ito, siya ay nagpatuloy sa pagsasabi, mula sa bersikulo 1 hanggang 6, kung paano sila kumikilos nang wasto bilang mga tagapaghain ng bagong tipan para sa pagsasagawa ng kanilang ministeryo, at, mula sa bersikulo 7 hanggang 18, kung anong uri ng buhay ang kanilang ipinamumuhay. Sa kapitulong ito ay binanggit ang ilang karanasan ng mga apostol na tumutugma at nagpapatunay sa ministeryo ng bagong tipan na binanggit sa kapitulo 3:1) sa mga bersikulo 8-9 ay binanggit na ang kapayapaang naranasan ng mga apostol sa gitna ng mga kaguluhan ay resulta ng kahayagan ng buhay, tumutugma sa 3:9 na bumabanggit sa kapayapaan na naging bunga ng katuwiran (Sant. 3:18) na siyang larawan ng Diyos na naghahayag sa kawastuhan at kaayusan; 2) ang buhay na binanggit sa mga bersikulo 10-12 ay tumutugma sa Espiritu sa 3:6, 8, 17-18; 3) ang pagbabago sa bersikulo 16 ay tumutugma sa transpormasyon sa 3:18; 4) ang lalu’t lalong bigat ng kaluwalhatiang walang hanggan sa bersikulo 17 ay tumutugma sa hindi magkaparehong antas ng kaluwalhatian sa 3:18."
+        },
+        {
+            "id": "1-2",
+            "text": "Tumutukoy sa ministeryong inilarawan sa 2:12 hanggang 3:18. Ang “ito” ay tumutukoy na “tayo,” ang lahat ng mga apostol ni Kristo, bagama’t marami, ay may isang namumukod tanging ministeryo – ang ministeryo ng bagong tipan para sa pagsasagawa ng Bagong Tipang ekonomiya ng Diyos. Ang lahat ng mga gawa ng mga apostol ay para sa pagsasakatuparan ng namumukod-tanging ministeryong ito ng paghahain ng Kristo sa mga tao upang maitayo ang Kanyang Katawan."
+        },
+        {
+            "id": "1-3",
+            "text": "Tingnan ang tala 13-3 sa I Timoteo 1."
+        },
+        {
+            "id": "2-1",
+            "text": "Gr. doloö ; sa literal ay pangunahing nangangahulugang mambitag; nangangahulugan ding pasamain *o pinabababa ang uri* katulad sa pagbabanto sa ginto, alak, atbp. Ang kahulugan ng doloö ay higit na makitid ang sakop kaysa sa kapeelüo na isinaling kinakalakal sa 2:17 *sapagka’t ang doloö ay basta makapagbanto lamang ay sapat na nguni’t ang kapeelüo ay hindi lamang basta gumagawa ng pagbabanto bagkus* nakapaloob din sa salitang ito ang kahulugang ginagawa ito para makinabang."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang “katotohanan” ay isa pang terminolohiyang ginagamit upang tukuyin ang “salita ng Diyos” (Juan 17:17 at mga tala). Ito ay nangangahulugang “realidad”, nagsasaad ng lahat ng mga tunay na bagay na inihayag sa salita ng Diyos, na ang pangunahin ay si Kristo bilang ang realidad ng lahat ng mga bagay ng Diyos. Ang paghahayag ng katotohanan ay tumutukoy sa pamumuhay ng mga apostol kay Kristo. Kapag si Kristo, na Siyang katotohanan (Juan 14:6), ay kanilang ipinamumuhay, ang katotohanan ay kanilang naihahayag. Habang si Kristo ay ibinubuhay nila, ang katotohanan ay nahahayag mula sa kanila. Sa pamamagitan nito, kanilang ipinagkakapuri ang kanilang mga sarili sa bawa’t budhi ng tao sa harapan ng Diyos. Iginawi ng mga apostol ang kanilang mga sarili hindi sa paraan ng pagbabanto ng salita ng Diyos, kundi sa paraan ng paghahayag ng katotohanan para sa pagsilay ng ebanghelyo ng kaluwalhatian ni Kristo, sa pamamagitan ng humihigit na kapangyarihan ng walang katumbas na halagang kayamanan, ang mismong Kristo na pumasok tungo sa loob nila at naging nilalaman nila (b. 7) sa pamamagitan ng pagliliwanag ng pagsilay ng Diyos (b. 6)."
+        },
+        {
+            "id": "3-1",
+            "text": "Natatalukbungan ng mga lumang konsepto, lalung-lalo na ng konseptong nauukol sa kautusan (3:14-15). Sa prinsipyo, anumang bagay katulad ng pilosopiya, relihiyon, mga pangkulturang tradisyon, atbp., na humahadlang sa mga tao upang maunawaan ang ebanghelyo ni Kristo ay isang talukbong. Kaya nga, ang pagpapahayag kay Kristo ay kinakailangang mag-alis ng talukbong sa kanila, katulad ng sa potograpiya kung saan inaalis natin ang takip sa lente upang makuha nito ang tanawin."
+        },
+        {
+            "id": "4-1",
+            "text": "Yaon ay, tinalukbungan ang pang-unawa ng mga tao."
+        },
+        {
+            "id": "4-2",
+            "text": "Si Satanas, ang manlilinlang, ang pinuno ng kasalukuyang kapanahunan, na nagdodomina sa pangkasalukuyang sanlibutan upang makuha ang pagsamba ng mga tao sa pamamagitan ng pagbulag sa kanilang pag-iisip at sa kanilang mga kaisipan."
+        },
+        {
+            "id": "4-3",
+            "text": "O, pang-unawa, pag-iisip. Tingnan ang tala 14-1 sa kapitulo 3."
+        },
+        {
+            "id": "4-4",
+            "text": "Lit . 1) makakita nang malinaw, makaaninaw; 2) masilayan."
+        },
+        {
+            "id": "4-5",
+            "text": "Si Kristo ang larawan ng Diyos. Siya ang ningning ng kaluwalhatian ng Diyos (Heb. 1:3). Kaya, ang ebanghelyo ni Kristo ay ang ebanghelyo ng kaluwalhatian ng Diyos na lumiliwanag at sumisilay. Binulag ni Satanas, ang diyos ng kapanahunang ito, ang mga pag-iisip at mga kaisipan ng mga hindi nagsisisampalataya, upang ang pagliliwanag ng ebanghelyo ng kaluwalhatian ni Kristo ay hindi sumilay tungo sa loob ng kanilang mga puso. Ito ay katulad ng pagtatakip sa lente ng isang kamera upang ang liwanag ay hindi sumilay tungo sa loob ng kamera at ang tanawin na kukunin ay hindi rin makapasok sa pilm."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “sapagka’t” ay nagpapaliwanag kung bakit ang ebanghelyo ng mga apostol, na siyang ebanghelyo ng kaluwalhatian ni Kristo, ay hindi dapat natatakluban, sapagka’t hindi nila ipinangangaral, itinataas, ang kanilang mga sarili, kundi si Kristo Hesus bilang Panginoon ng lahat, at iginagawi nila ang kanilang mga sarili bilang mga alipin ng mga mananampalataya dahil kay Hesus."
+        },
+        {
+            "id": "5-2",
+            "text": "Si Kristo Hesus bilang Panginoon ay nagpapaloob kay Kristo bilang ang lalo sa lahat, Diyos na maluwalhati magpakailanman (Roma 9:5), ang walang hanggang Salita na naging laman upang maging isang Tao (Juan 1:14), si Hesus na napako sa krus bilang isang Tao upang maging Tagapagligtas natin (Gawa 4:10-12) at nabuhay na muli upang maging Anak ng Diyos (Gawa 13:33), at si Kristo na itinaas upang maging ang Panginoon (Gawa 2:36), maging ang Panginoon ng lahat ng mga tao (Roma 10:12; Juan 20:28; I Cor. 12:3) at ang Panginoon ng lahat ng mga bagay (Gawa 10:36), na Siyang larawan ng Diyos, ang ningning ng kaluwalhatian ng Diyos (Heb. 1:3). Ito ang pinakanilalaman ng ebanghelyo. Kaya, ang ebanghelyo ay ang ebanghelyo ng kaluwalhatian ni Kristo, na lumiliwanag, nagniningning, at sumisilay sa puso ng tao (b. 6). Kung ang puso ng tao ay hindi natatakluban ng anuman, hindi nabubulag ni Satanas, ang diyos ng kapanahunang ito, ang pagliliwanag ng ebanghelyo ay makikita ng tao (b. 4)."
+        },
+        {
+            "id": "5-3",
+            "text": "Kabaligtaran ng Panginoon. Itinataas ng mga apostol si Kristo bilang Panginoon, subali’t itinuturing ang kanilang mga sariling mga alipin lamang upang paglingkuran ang mga mananampalataya."
+        },
+        {
+            "id": "6-1",
+            "text": "Ipinaliliwanag nito ang binanggit sa nauunang bersikulo. Si Kristo ay ipinangangaral ng mga apostol bilang Panginoon at ang kanilang mga sarili bilang mga alipin ng mga mananampalataya, sapagka’t ang mismong Diyos na nag-utos sa liwanag na sumilay sa kadiliman ay sumilay sa kanilang mga puso. Ang Kanyang pagsilay sa sansinukob ay nagbunga ng lumang nilikha. Ngayon, ginawa silang isang bagong nilikha ng Kanyang pagsilay sa kanilang mga puso. Samakatuwid, nakakaya nilang itaas si Kristo bilang ang Panginoon sa kanilang pangangaral at ipakumbaba ang kanilang mga sarili bilang mga alipin sa mga mananampalataya sa kanilang paglilingkod. Ang kanilang ginagawa para kay Kristo at ang kung ano sila sa mga mananampalataya ang bunga ng pagsilay ng Diyos. Ang pagsilay ng Diyos ay nagbubunga ng mga bagong tipang tagapaghain at ng kanilang ministeryo."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang mga salitang “sa aming mga puso” ay lubhang higit na malalim kaysa nasa balat ng mukha ni Moises (3:7; Exo. 34:29-30). Ito ay nagpapakita ng pagkakaiba ng kaluwalhatian ng apostolikong ministeryo ng ebanghelyo sa ministeryo ng kautusan ni Moises. Ang “sa puso” ay may kaugnayan sa panloob na buhay, samantalang ang “sa balat ng mukha” ay walang kinalaman sa panloob na buhay. Ang kaluwalhatian ng lumang tipan ay nasa ibabaw, subali’t ang kaluwalhatian ng bagong tipan ay puspos ng kalaliman."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang “aming” ay tumutukoy sa mga puso ng mga apostol. Kinakatawan nila ang lahat ng mga mananampalataya ng bagong tipan."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang liwanag dito ay tumutukoy sa liwanag ng Diyos na nagmumula sa puso ng mga taong niliwanagan ng Diyos at nagliliwanag upang magliwanag sa mga tao. Ito ay umaangkop sa “paghahayag” sa bersikulo 2 at sa “lumiwanag” sa Mat. 5:16 at sa “lumiliwanag” sa Fil. 2:15. Sumisilay ang Diyos sa loob ng ating mga puso upang masilayan ang iba nang sa gayon ay makilala nila ang kaluwalhatiang inihayag ng Diyos sa mukha ni Kristo. Ito ay katumbas ng pagkakilala sa Kristo na Siyang naghahayag sa Diyos (Juan 1:18)."
+        },
+        {
+            "id": "6-5",
+            "text": "Ang mukha ni Kristo ay inihahambing sa mukha ni Moises (3:7). Ang kaluwalhatian ng ebanghelyo sa mukha ni Kristo ay lubusang superyor kaysa sa kaluwalhatian ng kautusan sa mukha ni Moises. Ang una ay sumisilay sa mukha ng Isa kung saan sa pamamagitan Niya ay dumating ang biyaya at realidad, na nagreresulta sa katuwiran at sa Espiritu – buhay (3:8-9); ang huli ay sumilay sa mukha ng isa na kung saan sa pamamagitan niya ay ibinigay ang kautusan (Juan 1:17), na nagreresulta sa kondenasyon at kamatayan (3:7, 9). Ang pagsilay ng Diyos sa ating mga puso ay hindi ang liwanagan tayo upang makilala natin ang kaluwalhatian sa mukha ni Moises, kundi ang makilala natin ang kaluwalhatian sa mukha ni Kristo; ito ay hindi ang liwanagan tayo upang makilala natin ang kautusan ni Moises ng lumang tipan, kundi ang ebanghelyo ni Kristo ng bagong tipan. Ang kaluwalhatian ng Diyos na nahayag sa mukha ni Hesu-Kristo ay walang iba kundi ang maluwalhating Diyos na inihahayag ni Hesu-Kristo. Gayundin, ito ang maluwalhating ningning ng Diyos na si Hesu-Kristo (Heb. 1:3); ang makilala Siya ay katumbas ng pagkakilala sa Diyos na maluwalhati."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang pagsilay ng Diyos sa ating mga puso ay nagdadala sa loob natin ng isang kayamanan, ang Kristo ng kaluwalhatian, na Siyang pagsasakatawan ng Diyos upang maging ating buhay at ating lahat-lahat, subali’t tayong nagtataglay ng kayamanang ito ay mga sisidlang-lupa, walang kabuluhan at marupok. Isang walang katumbas na halagang kayamanan ang nakalaman sa mga walang halagang sisidlan! Ginawa nito ang mga walang kabuluhang sisidlan na maging mga tagapaghain ng bagong tipan kalakip ang isang ministeryong di-matumbasan ng halaga. Ito ay sa pamamagitan ng dibinong kapangyarihan na nasa loob ng pagkabuhay na muli. Ang kahigtan ng kapangyarihan ay tiyak na mula sa Diyos at hindi mula sa ating mga sarili. Sa pagsasalita ng mga apostol tungkol sa kanilang ministeryo para sa bagong tipan ng Diyos, limang napakamakahulugan at malamang metapora ang ginagamit upang ilarawan kung paanong sila, bilang mga tagapaghain ng bagong tipan, at ang kanilang ministeryo ay binuuan, kung paano sila kumikilos at namumuhay, at kung paano isinasagawa ang kanilang ministeryo: 1) Mga bihag sa isang matagumpay na parada para sa pagdiriwang ng tagumpay ni Kristo (2:14a); 2) Mga tagapagdala ng kamangyan upang ikalat ang mabangong samyo ni Kristo (2:14b- 16); 3) Mga sulat na isinulat kalakip si Kristo bilang nilalaman (3:1-3); 4) Mga salaming tumitingin at umaaninag sa kaluwalhatian ni Kristo upang matransporma tungo sa Kanyang maluwalhating larawan (3:18); 5) Mga sisidlang lupa upang ilaman ang Kristo ng kaluwalhatian bilang ang humihigit na kayamanan (b. 7). Ang mga sisidlang ito ay katulad ng kamera ngayon, tungo sa loob nito ay pumapasok ang pigurang si Kristo sa pamamagitan ng kislap ng pagsilay ng Diyos (bb. 4, 6)."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang kayamanang ito, ang Kristong nananahanan sa atin na mga sisidlang lupa, ay ang dibinong pinagmumulan ng panustos para sa buhay-Kristiyano. Sa pamamagitan ng humihigit na kapangyarihan ng kayamanang ito, ang mga apostol bilang mga tagapaghain ng bagong tipan ay may kakayahang mamuhay ng isang naipako sa krus na buhay upang ang pagkabuhay na muling buhay ni Kristo na kanilang itinutustos ay maihayag. Kaya, kanilang inihahayag ang katotohanan para sa pagsilay ng ebanghelyo."
+        },
+        {
+            "id": "7-3",
+            "text": "O, lumalampas na pangingibabaw, lubos na kadakilaan."
+        },
+        {
+            "id": "8-1",
+            "text": "O, iniipit sa bawa’t panig. Ang paglalarawan ng kanilang buhay, mula sa bersikulong ito hanggang bersikulo 18, ay nagpapakita na ang mga apostol ay namumuhay ng isang naipako sa krus na buhay sa loob ng pagkabuhay na muli, o ng pagkabuhay na muling buhay sa ilalim ng pagpatay ng krus, para sa pagsasakatuparan ng kanilang ministeryo."
+        },
+        {
+            "id": "8-2",
+            "text": "O, nangalilimitahan."
+        },
+        {
+            "id": "8-3",
+            "text": "Lit. hindi kayang makasumpong ng isang daan palabas."
+        },
+        {
+            "id": "8-4",
+            "text": "Lit. lubusang hindi kayang makasumpong ng isang daan palabas, yaon ay, ang daan ay lubusang sarado."
+        },
+        {
+            "id": "9-1",
+            "text": "O, hinahabol (ng mga kaaway)."
+        },
+        {
+            "id": "9-2",
+            "text": "O, itinatakwil, iniiwanan. Lit. iniiwanan (sa ilang masamang kalagayan)."
+        },
+        {
+            "id": "9-3",
+            "text": "Lit. napapahamak, katulad ng sa bersikulo 3, yaon ay, pinatay."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang pagpatay, ang pagpapatay, yaon ay, ang paggawa ng kamatayan, ang paggawa ng krus, na dinanas at dinaanan ng Panginoong Hesus. Sa ating karanasan, ito ay tumutukoy sa mga kahirapan, pag-uusig, at pagtutuos na dumarating sa atin nang dahil kay Hesus, dahil sa Katawan ni Kristo, at dahil sa Bagong Tipang ekonomiya. Ito ay hindi tumutukoy sa kapighatian, suliranin tulad ng karamdaman o kalamidad na natatanggap ng sangkatauhan sa loob ng lumang paglikha, ni hindi tumutukoy sa kaparusahan, pagwawasto o disiplina na natatanggap ng isang nagkasala, nagkamali o hindi gumanap ng kanyang tungkulin. Ang paglalagay sa kamatayan kay Hesus ang nagwasak sa ating likas na tao, panlabas na tao, at laman, upang mabigyan ng pagkakataon ang ating panloob na tao na mapaunlad at mapabago (b. 16)."
+        },
+        {
+            "id": "10-2",
+            "text": "O, nang sa gayon nagreresulta sa. Ang pagpatay ng krus ay nagreresulta sa paghahayag ng pagkabuhay na muling buhay. Ang araw-araw na pagpatay na ito ay upang palayain ang dibinong buhay sa loob ng pagkabuhay na muli."
+        },
+        {
+            "id": "10-3",
+            "text": "Ang pagkabuhay na muling buhay, na ibinuhay at inihayag ng Panginoong Hesus sa pamamagitan ng paggawa ng krus."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang titulong Hesus sa dalawang bersikulong ito ay nagpapahiwatig na ang mga apostol ay namuhay ng isang buhay na katulad nang ipinamuhay ng Panginoong Hesus sa lupa. Ito ay isang buhay na nasa ilalim ng pagpatay ng krus upang maihayag ang pamumuhay ng pagkabuhay na muling buhay. Ginagawa ng ganitong pamumuhay ang Panginoon na kaisa ng Kanyang ministeryo; ang Kanyang pamumuhay ay ang Kanyang ministeryo (Juan 6:14-15; 12:13, 19, 23-24)."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang palit-palitang paggamit ng “laman” at “katawan” sa mga bersikulo 10 at 11 ay nagsasaad na ang “lamang may kamatayan” ay ang ating natisod na katawan."
+        },
+        {
+            "id": "12-1",
+            "text": "Kapag tayo ay nasa ilalim ng pagpatay ng kamatayan ng Panginoon, ang Kanyang pagkabuhay na muling buhay ay naibabahagi tungo sa iba sa pamamagitan natin. Ang pamamahagi ng buhay tungo sa loob ng iba ang siyang laging kinalalabasan ng ating pagtanggap sa pagpatay ng krus."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang mga salitang ipinahayag sa bersikulong ito ay nagpapakita ng magkatulad na espiritu."
+        },
+        {
+            "id": "13-2",
+            "text": "“Hindi hayagang Espiritu Santo—subali’t hindi lamang basta isang pantaong disposisyon, kundi ang nananahanang Espiritu Santo na tumatagos sa buong binagong tao at ang buong binagong tao ay nakikilala dahil sa Espiritu Santo” (Al ford). “Espiritu ng pananampalataya: hindi hayagang ang Espiritu Santo, ni isang pantaong kakayahan o disposisyon lamang, kundi ang paghahalo ng dalawa” (Vincent). Ito ang paghahalo ng Espiritu Santo sa ating pantaong espiritu. Dapat nating sanayin ang gayong espiritu upang sampalatayanan at salitain, katulad ng ginawa ng mga manunulat ng Mga Awit, ang mga bagay na naranasan natin tungkol sa Panginoon, lalung-lalo na ang tungkol sa Kanyang kamatayan at pagkabuhay na muli. Ang pananampalataya ay wala sa ating isipan kundi nasa ating espiritu, ang espiritung naihalo sa Espiritu Santo. Ang mga pag-aalinlangan ay nasa isipan. Ang “espiritu” rito ay nagpapakita na sa pamamagitan ng pinaghalong espiritu, ang mga apostol ay namuhay ng isang naipako sa krus na buhay sa loob ng pagkabuhay na muli para sa pagsasagawa ng kanilang ministeryo."
+        },
+        {
+            "id": "14-1",
+            "text": "Ito ay nagpapakita na itinuturing ng mga apostol ang kanilang mga sarili bilang mga patay na tao (1:9), sapagka’t sila ay palaging dinadala tungo sa kamatayan para sa layunin ng Panginoon (b. 11)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang biyaya, ayon sa ibig sabihin ng nilalaman, ay ang mismong Kristo na nabubuhay sa loob ng mga apostol bilang kanilang buhay at panustos ng buhay upang kanilang maipamuhay ang isang naipako sa krus na buhay para sa paghahayag ng pagkabuhay na muling buhay, sa gayon ay kanilang maisasagawa ang kanilang ministeryo para sa bagong tipan ng Diyos. Tingnan ang tala 10-1 sa I Corinto 15."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang panlabas na tao ay ang ating katawan bilang sangkap (organ) nito kalakip ng ating kaluluwa bilang buhay at persona nito. Ang panloob na tao ay ang ating naisilang na muling espiritu bilang buhay at persona nito kalakip ng ating napabagong kaluluwa bilang sangkap (organ) nito. Ang pangkaluluwang buhay ay dapat itatwa (Mat. 16:24-25), subali’t ang mga pangsyon ng kaluluwa, ang kaisipan, pagpapasiya, at damdamin, ay dapat mapabago at maitaas sa pamamagitan ng pagiging nasupil (10:4-5) upang magamit ng espiritu na siyang persona ng panloob na tao."
+        },
+        {
+            "id": "16-2",
+            "text": "O, nauubos, nasasaid. Sa pamamagitan ng patuloy na pagpatay, ang paggawa ng kamatayan, ang ating panlabas na tao, yaon ay, ang ating materyal na katawan na may kanyang kaluluwang may buhay (I Cor. 15:44 at tala ), ay unti-unting nauubos at nasisira."
+        },
+        {
+            "id": "16-3",
+            "text": "Tayo ay napapabago sa araw-araw sa pamamagitan ng pagiging nasustansiyahan ng sariwang panustos ng pagkabuhay na muling buhay. Habang ang ating katawang may kamatayan, ang ating panlabas na tao, ay nauubos sa pamamagitan ng pagpatay na gawain ng kamatayan, ang ating panloob na tao, yaon ay, ang ating naisilang na muling espiritu kasama ang mga panloob na bahagi ng ating katauhan (Jer. 31:33; Heb. 8:10; Roma 7:22, 25), ay metabolikong napapabago araw-araw ng panustos ng pagkabuhay na muling buhay."
+        },
+        {
+            "id": "17-1",
+            "text": "Tumutukoy sa paglalagay sa kamatayan, ang paggawa ng krus (b. 10)."
+        },
+        {
+            "id": "17-2",
+            "text": "Lit. humihigit hanggang lumabis."
+        },
+        {
+            "id": "17-3",
+            "text": "Ang kahayagan ng Diyos bilang pagkabuhay na muling buhay. Ang kaluwalhatian ay kabaligtaran ng kapighatian."
+        },
+        {
+            "id": "17-4",
+            "text": "Kabaligtaran ng panandaliang kagaanan."
+        },
+        {
+            "id": "18-1",
+            "text": "Tumutukoy sa mga bagay ng pansamantalang kapighatian."
+        },
+        {
+            "id": "18-2",
+            "text": "Tumutukoy sa mga bagay ng walang hanggang kaluwalhatian."
         }
     ]
 }

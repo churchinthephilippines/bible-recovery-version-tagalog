@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "mayayaman,",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -32,11 +32,11 @@
             "footnotes": [
                 {
                     "word": "hibik",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -47,7 +47,7 @@
             "footnotes": [
                 {
                     "word": "pinataba",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -58,7 +58,7 @@
             "footnotes": [
                 {
                     "word": "matuwid;",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -69,11 +69,11 @@
             "footnotes": [
                 {
                     "word": "mapagtiyaga",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "pagparito",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": [
@@ -87,11 +87,11 @@
             "footnotes": [
                 {
                     "word": "Kayo",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "pagparito",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -102,7 +102,7 @@
             "footnotes": [
                 {
                     "word": "Hukom",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -113,15 +113,15 @@
             "footnotes": [
                 {
                     "word": "pagbabata",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "pagtitiis",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -132,11 +132,11 @@
             "footnotes": [
                 {
                     "word": "nagtitiis.",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "pagtitiis",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -147,19 +147,19 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "oo",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "12-4"
                 }
             ],
             "outlines": [
@@ -172,11 +172,11 @@
             "footnotes": [
                 {
                     "word": "manalangin.",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Awitin",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": [
@@ -189,19 +189,19 @@
             "footnotes": [
                 {
                     "word": "Mahina",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Ipatawag",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "pahiran",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": null
@@ -212,15 +212,15 @@
             "footnotes": [
                 {
                     "word": "panalangin",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "nagkasala",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": null
@@ -231,7 +231,7 @@
             "footnotes": [
                 {
                     "word": "mabisa.",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -242,7 +242,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -253,7 +253,7 @@
             "footnotes": [
                 {
                     "word": "namunga",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -264,7 +264,7 @@
             "footnotes": [
                 {
                     "word": "nadayang",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -275,26 +275,172 @@
             "footnotes": [
                 {
                     "word": "makasalanan",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "magliligtas",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "kamatayan,",
-                    "note": ""
+                    "id": "20-3"
                 },
                 {
                     "word": "magtatakip",
-                    "note": ""
+                    "id": "20-4"
                 },
                 {
                     "word": "kasalanan.",
-                    "note": ""
+                    "id": "20-5"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang bb. 1-6 ay maaaring ituring na isang bahaging nasa loob ng panaklong, at ayon sa nilalaman nito, ito ay maaaring ipinatungkol sa mayayamang nasa gitna ng mga Hudyo sa pangkalahatan, yamang itinuring ni Santiago ang mga tumanggap ng kanyang sulat bilang ang labindalawang lipi ng mga Hudyo (1:1). Tingnan ang mga tala 1-3 sa kapitulo 1 at 2-1 sa kapitulo 2."
+        },
+        {
+            "id": "4-1",
+            "text": "O, pagsamo."
+        },
+        {
+            "id": "4-2",
+            "text": "Ito, katulad ng nasa Roma 9:29, ay isang katumbas ng dibinong titulo sa Hebreo, Jehovah-Sabaoth (si Jehovah ng mga hukbo – 1 Sam. 1:3). Ang ganitong titulo ay nagdadala ng isang maka-Hudyong katangian."
+        },
+        {
+            "id": "5-1",
+            "text": "Yaon ay, maging sa araw ng patayan (Jer. 12:3), na siyang araw ng paghuhukom, nang sila ay papatayin katulad ng mga hayop sa pamamagitan ng paghatol ng Diyos, nanatili pa rin sila sa kanilang matakaw na pagnanasa sa pagpapakasasa. Ito ay nagpapahiwatig na sila ay mga lango, hindi batid ang kanilang darating na mga kahirapan, ang kanilang miserableng kahihinatnan (b. 1)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang salitang ito sa balarila ay palansak na pang-isahang may pantukoy. Ito ay ginamit para sa uri ng mga matuwid, hindi tumutukoy nang tuwiran sa alinmang indibidwal kundi inilalarawan ang kamatayan ng Panginoong Hesus na siyang Matuwid (Gawa 7:52; 3:14)."
+        },
+        {
+            "id": "7-1",
+            "text": "Tingnan ang tala 10-2 ."
+        },
+        {
+            "id": "7-2",
+            "text": "Gr. parousia , presensiya (tingnan ang tala 3-3 sa Mateo 24)."
+        },
+        {
+            "id": "8-1",
+            "text": "Tingnan ang tala 10-2 . Habang hinihintay natin ang pagparito ng Panginoon ng may matiyagang pagtitiis, Siya, bilang ang tunay na Magsasaka (Mat. 13:3), ay naghihintay rin ng may pagtitiis sa ating paggulang sa buhay bilang unang bunga at ani ng Kanyang bukirin (Apoc. 14:4, 14-15). Ang ating paggulang sa buhay ay makapagpapaikli sa panahon ng ating matiyagang pagtitiis at sa Kanyang pagtitiis."
+        },
+        {
+            "id": "8-2",
+            "text": "Tingnan ang tala 7-2 ."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang Panginoon ay babalik hindi lamang bilang Kasintahang Lalake upang salubungin ang kasintahang babae (Mat. 25:1, 6; Apoc. 19:7-8), bagkus bilang Hukom upang hatulan ang lahat ng mga tao, hinahatulan muna ang Kanyang mga mananampalataya sa Kanyang luklukan ng paghahatol (1 Cor. 4:4-5; 2 Cor. 5:10). Kinakailangan natin ang maghabol sa paggulang sa buhay upang salubungin ang Panginoon at maging handa sa Kanyang paghahatol."
+        },
+        {
+            "id": "10-1",
+            "text": "Ito ay isang higit na pagpapaunlad ng bb. 7-8 hinggil sa pagdurusa at matiyagang pagtitiis ng mga tapat na mananampalataya."
+        },
+        {
+            "id": "10-2",
+            "text": "Gr. makrothumia , pangngalan, gaya ng sa Heb. 6:12; Roma 2:4; 2 Tim. 4:2; 1 Ped. 3:20, at makrothumeö , pandiwa, gaya ng sa mga bersikulo 7, 8, inihahayag ang pagtitiis sa mga tao, katulad ng pagtitiis na inihayag ng mga propeta sa mga yaong nagsisipag-usig sa kanila."
+        },
+        {
+            "id": "10-3",
+            "text": "Ang pagsasalita sa pangalan ng Panginoon ay nagpapakita na ang mga propeta ay kaisa ng Panginoon. Kaya, ang kanilang pagdurusa at matiyagang pagtitiis ay kasama ng Panginoon at para sa Panginoon. Ang pagdurusa at matiyagang pagtitiis ng mga tapat na mananampalataya ay nararapat na maging katulad nito."
+        },
+        {
+            "id": "11-1",
+            "text": "Gr. hupomenö , pandiwa, at hupomonë , pangngalan, gaya ng nasa Roma 5:3 at 2 Cor. 1:6, ipinapahayag ang pagtitiis sa mga bagay, katulad ng mga bagay na nagpahirap kay Job."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. bago ang lahat."
+        },
+        {
+            "id": "12-2",
+            "text": "Huwag tayong sumumpa, sapagkat tayo ay balewala, at walang kahit anuman ang nasa ilalim ng ating kontrol o nasa ating pagpapasiya (Mat. 5:34-36). Ang pagsumpa ay nagpapakita ng ating pagkilos sa ating sariling pagpapasiya at sa ating paglimot sa Diyos. Subali’t ang hayaan ang ating oo na maging oo at ang ating hindi na maging hindi ay ang kumilos ayon sa ating dibinong kalikasan, sa loob ng kamalayan ng presensiya ng Diyos, na may pagtatatwa sa ating sariling pagpapasiya at makasalanang kalikasan."
+        },
+        {
+            "id": "12-3",
+            "text": "Tingnan ang tala 37-1 sa Mateo 5."
+        },
+        {
+            "id": "12-4",
+            "text": "Ang ating tunay na katapatan at sinseridad sa ating mga pananalita ayon sa kalikasan nd Diyos na ating nababahagi ay magliligtas sa atin mula sa paghahatol ng Diyos (cf. Mat. 12:36)."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang pananalangin ay nagdadala sa atin ng kalakasan ng Panginoon upang matiis ang pagdurusa, at ang pag-awit ng papuri ay nagpapanatili sa atin sa loob ng kagalakan ng Panginoon."
+        },
+        {
+            "id": "13-2",
+            "text": "O, umawit siya ng mga salmo; tumugtog ng pangmusikang instrumentong de-kwerdas. Maging tayo ay nananalangin o umaawit ng papuri, tayo ay nakikipag-ugnay sa Diyos. Sa anumang kapaligiran at sa ilalim ng anumang pangyayari; mapababa o mapataas, malungkot o masaya, kailangan nating makaugnay ang Panginoon."
+        },
+        {
+            "id": "14-1",
+            "text": "Mahina dahil sa karamdaman. Ang kahinaan ay humahantong sa karamdaman (1 Cor. 11:30), at ang karamdaman ay nagsasanhi ng higit na kahinaan."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang ipatawag ang mga matanda ng ekklesia upang manalangin para sa kahinaan na sinasanhi ng karamdaman ay nagpapahiwatig na: 1) walang suliranin sa pagitan ng nagpapatawag at ng ekklesiang kinakatawan ng mga matanda; 2) kung ang karamdaman ay sinanhi ng pagkakasala niya sa ekklesia (cf. 1 Cor. 11:29-32) sa panahong ito, tiyak na napanumbalik na ang wastong relasyon niya sa ekklesia; at 3) nagkaroon na ng lubusang pagpapahayag ng mga kasalanan sa isa’t isa ang maysakit at ang mga matanda (b. 16). Kinakailangang malutas ang anumang hadlang sa loob ng ekklesia nang sa gayon ang mga matanda ay maaaring maging kinatawan ng ekklesia upang ipanalangin ang mahinang maysakit."
+        },
+        {
+            "id": "14-3",
+            "text": "Dalawang Griyegong salita ang isinaling pahiran: aleipho , ang salitang ginamit dito at sa Juan 12:3, ay ang pangkaraniwang katawagan para sa pagpahid ng langis; chrio , nangangahulugang pahiran nang opisyal para sa katungkulan bilang saserdote (Gawa 10:38), hari (Heb. 1:9), at propeta (Luc. 4:18). Ang chrio kaugnay sa Christos (Kristo) ay ginagamit para sa pagpapahid ng Ama sa Anak (Gawa 10:38). Ang pahiran ng langis ang maysakit ay sumasagisag sa pamamahagi ng Espiritu ng buhay, na ibinuhos sa Katawan ni Kristo bilang pampahid na langis (Awit 133:2), sa maysakit na sangkap ng Katawan, sa pamamagitan ng pagkatawan ng mga matanda sa ekklesia, para sa pagpapagaling ng maysakit (cf. 1 Juan 5:16 at mga tala 3, 4)."
+        },
+        {
+            "id": "14-4",
+            "text": "Ang “sa pangalan ng Panginoon” ay sumasagisag sa pakikipag-isa sa Panginoon. Ang pagpapahid ng langis ay hindi sa pamamagitan ng mga matanda lamang, bagkus sa pamamagitan ng kani lang pagiging kaisa ng Panginoon, kumakatawan kapwa sa Katawan at sa Ulo sa pagsasagawa nila ng pagpapahid ng langis."
+        },
+        {
+            "id": "15-1",
+            "text": "Hindi ang pangkaraniwang anyo ng salitang panalangin. Ito ay isinaling panata sa Gawa 18:18 at 21:23."
+        },
+        {
+            "id": "15-2",
+            "text": "O, pagod."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang pagkakasala, kadalasan, ay ang sanhi ng sakit (Juan 5:14). Sa mga gayong kaso, ang kapatawaran ang palaging sanhi ng pagpapagaling (Mat. 9:2, 5-7; Mar. 2:5)."
+        },
+        {
+            "id": "16-1",
+            "text": "O, epektibo."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay nagpapakita na may isang panalangin mula sa Panginoon na ibinigay kay Elias, at ito ang kanyang ipinanalangin. Hindi siya nanalangin sa kanyang damdamin, pag-iisip, intensiyon, naisin, o sa anumang uri ng pag-uudyok mula sa mga pangyayari o mga situwasyon para sa pagsasakatuparan ng kanyang sariling layunin. Siya ay nanalangin sa panalanging ibinigay sa kanya ng Panginoon para sa pagsasakatuparan ng Kanyang layunin."
+        },
+        {
+            "id": "18-1",
+            "text": "Lit. nagsibol."
+        },
+        {
+            "id": "19-1",
+            "text": "Ito ay maaaring nagpapahiwatig na ang maysakit sa b. 14 ay nalihis sa katotohanan at nangailangang mapanumbalik."
+        },
+        {
+            "id": "20-1",
+            "text": "Ayon sa ibig sabihin ng nilalaman ng dalawang bersikulong ito, ito ay hindi isang di-nanampalatayang makasalanan kundi isang nanampalatayang kapatid na nalihi s sa katotohanan at napanumbalik sa katotohanan mula sa kanyang pagkakamali. Kaya, ang kaligtasan ng kanyang kaluluwa ay hindi tumutukoy sa walang hanggang kaligtasan ng isang tao, kundi sa pampanahunang kaligtasan ng kanyang kaluluwa mula sa pagdurusa ng pisikal na kamatayan sa ilalim ng disiplina ng Diyos. Lahat ng mga kagalingang binanggit sa bb. 7-20 ay maaaring itinuring din ni Santiago na mga iba’t ibang aspekto ng praktikal na pang-Kristiyanong kasakdalan."
+        },
+        {
+            "id": "20-2",
+            "text": "Tingnan ang mga tala 21-2 sa kapitulo 1, tala 5-5 sa 1 Pedro 1 at tala 39-3 sa Hebreo 10."
+        },
+        {
+            "id": "20-3",
+            "text": "Hindi ang walang hanggang kapahamakan kundi ang pampanahunang disiplina sa pamamagitan ng pisikal na kamatayan (tingnan ang tala 16-5 sa 1 Juan 5). Ang “mula sa kamatayan” dito ay katumbas ng “ibabangon” sa b. 15."
+        },
+        {
+            "id": "20-4",
+            "text": "Isang Lumang Tipang kasabihan (Awit 32:1; 85:2; Kaw. 10:12) na ginamit ni Santiago upang ipakita na ang mapanumbalik ang isang nagkakamaling kapatid ay ang magtakip ng kanyang mga kasalanan upang sa gayon ay hindi siya makondena. Ang “magtatakip ng… kasalanan” dito ay maaring katumbas ng “nagkasala… ipatatawad” sa b. 15, katulad ng nasa Awit 32:1; 85:2."
+        },
+        {
+            "id": "20-5",
+            "text": "Ang mga pagkakasala ng nagkamaling kapatid, na nagbubunga ng kamatayan sa kanya (1:15)."
         }
     ]
 }

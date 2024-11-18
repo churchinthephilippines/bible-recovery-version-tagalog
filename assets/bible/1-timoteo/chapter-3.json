@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "nagnanais",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "mangasiwa,",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -25,35 +25,35 @@
             "footnotes": [
                 {
                     "word": "episkopo",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "asawa",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "mapagpigil,",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "mahinahon",
-                    "note": ""
+                    "id": "2-5"
                 },
                 {
                     "word": "maayos,",
-                    "note": ""
+                    "id": "2-6"
                 },
                 {
                     "word": "bukas",
-                    "note": ""
+                    "id": "2-7"
                 },
                 {
                     "word": "makapagtuturo,",
-                    "note": ""
+                    "id": "2-8"
                 }
             ],
             "outlines": null
@@ -64,23 +64,23 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "3-4"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "3-5"
                 }
             ],
             "outlines": null
@@ -91,11 +91,11 @@
             "footnotes": [
                 {
                     "word": "Namamahalang",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "kahinahunan",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -112,15 +112,15 @@
             "footnotes": [
                 {
                     "word": "bago",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "pagkabulag",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "kahatulan",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -131,19 +131,19 @@
             "footnotes": [
                 {
                     "word": "mabuting",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "nangasa",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "mahulog",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "Diyablo.",
-                    "note": ""
+                    "id": "7-4"
                 }
             ],
             "outlines": null
@@ -154,23 +154,23 @@
             "footnotes": [
                 {
                     "word": "diyakono",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "mahinahon",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "8-4"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "8-5"
                 }
             ],
             "outlines": null
@@ -181,11 +181,11 @@
             "footnotes": [
                 {
                     "word": "hiwaga",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "dalisay",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -196,15 +196,15 @@
             "footnotes": [
                 {
                     "word": "subukin",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "maglingkod.",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -215,23 +215,23 @@
             "footnotes": [
                 {
                     "word": "babae",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "mahinahon",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "mapagpigil,",
-                    "note": ""
+                    "id": "11-4"
                 },
                 {
                     "word": "tapat",
-                    "note": ""
+                    "id": "11-5"
                 }
             ],
             "outlines": null
@@ -242,11 +242,11 @@
             "footnotes": [
                 {
                     "word": "iisang",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "pinamamahalaang",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -257,15 +257,15 @@
             "footnotes": [
                 {
                     "word": "mabuting",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "ibayong",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -286,27 +286,27 @@
             "footnotes": [
                 {
                     "word": "paano",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "haligi",
-                    "note": ""
+                    "id": "15-4"
                 },
                 {
                     "word": "saligan",
-                    "note": ""
+                    "id": "15-5"
                 },
                 {
                     "word": "katotohanan.",
-                    "note": ""
+                    "id": "15-6"
                 }
             ],
             "outlines": null
@@ -317,38 +317,272 @@
             "footnotes": [
                 {
                     "word": "hiwaga",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "nahayag",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "inaring-",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "nakita",
-                    "note": ""
+                    "id": "16-5"
                 },
                 {
                     "word": "ipinangaral",
-                    "note": ""
+                    "id": "16-6"
                 },
                 {
                     "word": "sinampalatayanan",
-                    "note": ""
+                    "id": "16-7"
                 },
                 {
                     "word": "tinanggap",
-                    "note": ""
+                    "id": "16-8"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Isang pagnanais na may isang dalisay na motibo na naiiba sa ambisyon na may isang hindi dalisay na motibo."
+        },
+        {
+            "id": "1-2",
+            "text": "*Tingnan ang tala 1-3 sa Filipos 1.* Gr. episkope, mula sa epi na nangangahulugang nasa itaas at skope na nangangahulugang pagtingin; kaya, nasa itaas na pagtingin, nagpapakilala ng gawain ng isang tagapangasiwa."
+        },
+        {
+            "id": "2-1",
+            "text": "Gr. episkopos, mula sa epi na nangangahulugang, nasa itaas at skopos na nangangahulugang, ang tumitingin; kaya, tagapangasiwa (obispo, mula sa Latin na episcopus). Ang isang tagapangasiwa sa isang ekklesia lokal ay isang matanda (Gawa 20:17, 28). Ang dalawang titulong ito ay tumutukoy sa iisang tao: ang matanda, na tumutukoy sa isang taong may paggulang; at ang tagapangasiwa, na tumutukoy sa gawain ng isang matanda. Si Ignatius nga, noong ikalawang siglo, ang nagturo na ang isang tagapangasiwa, ang isang obispo, ay higit na mataas kaysa isang matanda. Mula sa maling pagtuturong ito ay dumating ang herarkiya ng mga obispo, arsobispo, kardinal, at papa. Ang pagtuturo ring ito ang pinagmulan ng episkopalyang sistema ng pamahalaan ng ekklesia. Ang herarkiya at ang sistema ay pawang kasuklam-suklam sa mga mata ng Diyos."
+        },
+        {
+            "id": "2-2",
+            "text": "Ito ay hindi nangangahulugang kasakdalan sa mga mata ng Diyos, kundi isang kalagayang walang maipipintas sa mga mata ng tao."
+        },
+        {
+            "id": "2-3",
+            "text": "Ito ay nagpapahiwatig ng pagpipigil sa laman, na isang mataas na kahilingan para sa isang matanda. Iniingatan nito ang isang matanda sa isang payak at dalisay na buhay may-asawa, na malaya sa mga salimuot ng isang magulo at nakalilitong pag-aasawa."
+        },
+        {
+            "id": "2-4",
+            "text": "Mapagpigil sa sarili, mapagtimpi."
+        },
+        {
+            "id": "2-5",
+            "text": "Hindi lamang matino, bagkus may maingat-na-katalinuhan din sa pag-unawa."
+        },
+        {
+            "id": "2-6",
+            "text": "Disente."
+        },
+        {
+            "id": "2-7",
+            "text": "Ang maging bukas ang tahanan sa mga panauhin ay nangangailangan ng pag-ibig, pangangalaga sa mga tao, at pagtitiis. Upang mapaging-dapat ang isa sa pagiging matanda, kinakailangan niya ang lahat ng mga katangiang ito."
+        },
+        {
+            "id": "2-8",
+            "text": "Ang magturo rito ay katulad sa mga magulang na nagtuturo sa kanilang mga anak. Ang isang matanda ay nararapat na maging angkop upang magbigay ng ganitong uri ng pantahanang pagtuturo sa mga banal ng isang ekklesia-lokal."
+        },
+        {
+            "id": "3-1",
+            "text": "Ito ay nangangailangan ng isang malakas na pagpipigil sa sarili."
+        },
+        {
+            "id": "3-2",
+            "text": "Ito ay humihiling ng isang malakas na pagpipigil sa pagkagalit."
+        },
+        {
+            "id": "3-3",
+            "text": "Mapagbigay, mabait, maamo, makatuwiran, at maunawain sa pakikitungo sa iba, na walang kabagsikan."
+        },
+        {
+            "id": "3-4",
+            "text": "Hindi palaaway, mapayapa."
+        },
+        {
+            "id": "3-5",
+            "text": "Ang salapi ay isang pagsubok sa lahat ng mga tao. Ang isang matanda ay nararapat na maging dalisay sa bagay ng pananalapi, yamang ang pondo ng ekklesia higit sa lahat ay nasa ilalim ng pamamahala ng mga matanda (Gawa 11:30)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ito ay nagpapatunay na ang isang yaon ay karapat-dapat na mangasiwa ng isang ekklesia lokal."
+        },
+        {
+            "id": "4-2",
+            "text": "Tingnan ang tala 2-3 sa kapitulo 2."
+        },
+        {
+            "id": "6-1",
+            "text": "Lit. isang bagong halaman. Tumutukoy sa taong bago pa lamang sa pagtanggap ng buhay ng Panginoon, hindi pa napaunlad at napalago sa buhay ng Panginoon."
+        },
+        {
+            "id": "6-2",
+            "text": "Lit. naulapan ng usok. Ang kapalaluan dito ay itinulad sa usok na umuulap sa kaisipan, ginagawang bulag ang kaisipan, nahihibang sa kataasan ng sariling kapalaluan."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang kahatulan na inihatol kay Satanas dahil sa kanyang kapalaluan sa kanyang mataas na posisyon (Ezek. 28:13-17)."
+        },
+        {
+            "id": "7-1",
+            "text": "Tumutukoy sa pagkatao at pamumuhay na naipakikita dahil sa ipinamumuhay si Kristo at inihahayag si Kristo, sa gayon pinahahalagahan at pinupuri ng tao."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang isang matanda ay dapat na maging matuwid sa kanyang sarili, sa kanyang pamilya, sa ekklesia, at sa nangasa labas – ang lipunan. At, ayon sa nilalaman, ang isang matanda ay dapat maging matuwid sa kanyang hangarin, motibo, ugali, saloobin, mga pananalita, at mga gawa."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang mahulog sa kahatulan ng Diyablo ay dahil sa kapalaluan mismo ng matanda; ang mahulog sa silo ng Diyablo ay nangyari sa pamamagitan ng paninira ng mga nangasa labas. Ang isang matanda ay dapat na maging alisto na hindi maging palalo sa isang panig, at hindi napipintasan sa kabilang panig, upang maiwasan niya ang pagsasalabid na ginagawa ng Diyablo."
+        },
+        {
+            "id": "7-4",
+            "text": "Tingnan ang tala 10-1 sa Apocalipsis 2."
+        },
+        {
+            "id": "8-1",
+            "text": "Yaon ay, ang mga tagapaglingkod. Ang mga episkopo na tagapangasiwa ay nangangalaga ng ekklesia; ang mga diyakono ay naglilingkod sa ekklesia sa ilalim ng pamamahala ng mga matanda. Ang dalawang ito lamang ang mga katungkulan sa isang ekklesia lokal."
+        },
+        {
+            "id": "8-2",
+            "text": "Tingnan ang tala 2-3 sa kap. 2."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang ahas ay may dalawang dila. Ang mga diyakono sa isang ekklesia lokal, na naglilingkod sa lahat ng mga banal, ay maaaring madaling magkaroon ng dalawang dila sa pakikiugnay sa mga banal. Sa gayon ay ipinamumuhay nila ang kalikasan ng Diyablo at nagdadala ng kamatayan sa loob ng buhay-ekklesia."
+        },
+        {
+            "id": "8-4",
+            "text": "Ang pagiging sugapa sa alak ay isang tanda ng walang pagpipigil sa sarili. Ang isang diyakono, sa paglilingkod sa ekklesia lokal, ay kinakailangang magsanay ng pagpipigil sa sarili sa isang ganap na paraan."
+        },
+        {
+            "id": "8-5",
+            "text": "Ang isang diyakono ay hindi dapat na maghangad ng kapakinabangan sa paglilingkod na ibinibigay sa mga banal. Ito ay ang “pagiging sakim sa mahahalay na kapakinabangan” (cf. 6:5b)."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang pananampalataya rito, na katulad sa 1:19 at 2 Tim. 4:7, ay obhektibo, tumutukoy sa mga bagay na ating pinaniniwalaan, na bumubuo sa ebanghelyo. Ang hiwaga ng pananampalataya, sa pangunahin, ay si Kristo bilang hiwaga ng Diyos (Col. 2:2) at ang ekklesia bilang hiwaga ni Kristo (Efe.3:4). Dapat ingatan nang may buong pagkaunawa ng isang diyakono sa isang ekklesia lokal ang hiwagang ito sa isang dalisay na budhi para sa patotoo ng Panginoon."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang isang dalisay na budhi ay isang budhing pinadalisay mula sa anumang paghahalo. Sa pag-iingat sa hiwaga ng pananampalataya, ang patotoo ng Panginoon ay nangangailangan ng gayong napadalisay na budhi."
+        },
+        {
+            "id": "10-1",
+            "text": "Ito ay maaaring nagpapahiwatig ng pagdaan sa isang panahon ng pag-aaral upang matutuhan."
+        },
+        {
+            "id": "10-2",
+            "text": "O, walang kakulangan."
+        },
+        {
+            "id": "10-3",
+            "text": "Ang gawain ng isang diyakono."
+        },
+        {
+            "id": "11-1",
+            "text": "Tumutukoy sa mga diyakonesa (Roma 16:1)."
+        },
+        {
+            "id": "11-2",
+            "text": "Tingnan ang tala 2-3 sa kap. 2."
+        },
+        {
+            "id": "11-3",
+            "text": "Tumutugma sa “hindi nagdadalawangdila” sa bersikulo 8. Ang Diyablo ay isang maninirang-puri (Apoc. 12:10). Ang manirangpuri ay ang ipamuhay ang kalikasan ng masamang maninirang-puri. Ang isang kapatid na babae na isang diyakonesa, isang tagapaglingkod sa isang ekklesia lokal, sa gitna ng maraming kapatid na babae, ay dapat na umiwas sa paninirang-puri, ang masamang gawa ng Diyablo."
+        },
+        {
+            "id": "11-4",
+            "text": "Tingnan ang tala 2-4 ."
+        },
+        {
+            "id": "11-5",
+            "text": "Tumutugma sa “hindi mga sakim sa mahahalay na kapakinabangan” sa bersikulo 8. Ang isang kapatid na babae na isang diyakonesa ay kinakailangang maging tapat, mapagkakatiwalaan, sa lahat ng mga bagay, lalo na sa mga bagay hinggil sa materyal na pakinabang."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 2-3 ."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang pamahalaang mabuti ang mga anak at ang sariling sambahayan ay nagpapatunay sa kakayahan ng isang kapatid na lalake na maglingkod sa ekklesia."
+        },
+        {
+            "id": "13-1",
+            "text": "Tumutukoy sa isang matibay at matatag na katayuan bilang isang mananampalataya at isang banal sa harapan ng Diyos at tao. Ang maglingkod sa ekklesia nang mabuti bilang isang diyakono ay nagpapatibay sa katayuan bilang Kristiyano."
+        },
+        {
+            "id": "13-2",
+            "text": "O, malaking tiwala. Ang maglingkod nang mabuti sa ekklesia ay nagpapalakas din sa katapangan, sa pagtitiwala, ng Kristiyanong pananampalataya."
+        },
+        {
+            "id": "13-3",
+            "text": "Tumutukoy sa ating subhektibong pananampalataya."
+        },
+        {
+            "id": "15-1",
+            "text": "Ito ay nagpapahiwatig na ang aklat na ito ay nagbibigay ng mga tagubilin kung paano pangangalagaan ang isang ekklesia lokal."
+        },
+        {
+            "id": "15-2",
+            "text": "O, sambahayan, gayunding salita sa Griyego ang isinaling sambahayan sa mga bersikulo 4, 5, at 12. Ang sambahayan, ang pamilya, ng Diyos ay ang bahay ng Diyos. Ang bahay at ang sambahayan ay iisang bagay-ang katipunan ng mga mananampataya (Efe. 2:19; Heb. 3:6). Ang realidad ng bahay na ito bilang tahanan ng Diyos na buháy ay nasa ating espiritu (Efe. 2:22). Kinakailangan tayong mamuhay at kumilos sa ating espiritu upang ang Diyos ay mahayag sa bahay na ito bilang Diyos na buháy."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang Diyos na buháy na nananahan sa ekklesia ay kinakailangang maging subhektibo sa ekklesia, hindi obhektibo. Ang diyos-diyosan sa templo ng mga pagano ay walang buhay. Ang Diyos na hindi lamang nananahan bagkus gumaganap, kumikilos, at gumagawa sa Kanyang buháy na templo, ang ekklesia, ay buháy. Dahil siya ay buháy, ang ekklesia ay nabubuhay rin sa Kanya, sa pamamagitan Niya, at kasama Niya. Ang buháy na Diyos at ang buháy na ekklesia ay nabubuhay, kumikilos, at gumagawa nang magkasama. Ang buháy na ekklesia ay ang bahay at ang sambahayan ng buháy na Diyos. Kung kaya, ito ay nagiging kahayagan ng Diyos sa laman."
+        },
+        {
+            "id": "15-4",
+            "text": "Ito ay isang pangmetaporang pagsasalita. Ang haligi ang nagsusuporta sa gusali, at ang saligan ang siyang naghahawak sa haligi. Ang ekklesia ay isang ganoong nagsusuportang haligi at nagtataguyod na saligan ng katotohanan."
+        },
+        {
+            "id": "15-5",
+            "text": "*Gr. hedraiöma lit., suporta; kaya basehan, batayán, saligan. Ang salitang ito ay nagmula sa salitang hezomai na may kahulugang hindi natitinag. Ang salitang hedraiöma ay miminsan lamang ginamit sa buong Bagong Tipan."
+        },
+        {
+            "id": "15-6",
+            "text": "Ang katotohanan dito ay tumutukoy sa mga tunay na bagay na inihayag sa Bagong Tipan hinggil kay Kristo at sa ekklesia ayon sa Bagong Tipang ekonomiya ng Diyos. Ang ekklesia ay ang nagsusuportang haligi at nagtataguyod na saligan ng lahat ng mga realidad na ito. Ang isang ekklesia lokal ay dapat na maging isang ganitong gusali na nagtataguyod, nagdadala, at nagpapatotoo ng katotohanan, ng realidad, ukol kay Kristo at sa ekklesia."
+        },
+        {
+            "id": "16-1",
+            "text": "Ayon sa ibig sabihin ng nilalaman, ang pagkamakadiyos dito ay hindi lamang tumutukoy sa kabanalan, bagkus sa Diyos na ipinamumuhay bilang buhay sa ekklesia. Ito ang dakilang hiwaga na ipinahayag sa sansinukob ng mga mananampalatayang nasa loob ni Kristo."
+        },
+        {
+            "id": "16-2",
+            "text": "Ayon sa sinasabi ng kasaysayan, ang anim na linyang tula ay isang paboritong awitin ng mga banal sa sinaunang ekklesia. Ang “Siya” ay si Kristo na Siyang Diyos na nahayag sa laman bilang hiwaga ng pagkamakadiyos. Ang pagpapalit ng “Siya” sa “ang hiwaga ng pagkamakadiyos” ay nagpapahiwatig na si Kristo bilang ang kahayagan ng Diyos sa laman ay ang hiwaga ng pagkamakadiyos (Col. 1:27; Gal. 2:20). Ang hiwagang ito ng pagkamakadiyos ay ang pamumuhay ng isang wastong ekklesia, at ang gayong pamumuhay ay ang kahayagan din ng Diyos sa laman."
+        },
+        {
+            "id": "16-3",
+            "text": "Ang pagkahayag sa laman ay sa pamamagitan ng pagkakatawang-tao at ng pantaong pamumuhay (Juan 1:1, 14). Ang “sa laman” ay nangangahulugang katulad sa anyo ng tao (Roma 8:3; Fil. 2:7-8). Si Kristo ay nagpakita sa mga tao sa anyo ng tao (2 Cor. 5:16), gayunpaman, Siya ay ang Diyos na nahayag sa isang tao."
+        },
+        {
+            "id": "16-4",
+            "text": "O, pinatunayan. Ang naging laman na Kristo sa Kanyang pantaong pamumuhay ay hindi lamang pinatunayan ng Espiritu bilang ang Anak ng Diyos (Mat. 3:16-17; Roma 1:3-4), bagkus inaring-matuwid, pinatotohanan at inaprubahan bilang wasto at matuwid ng Espiritu (Mat. 3:15-16; 4:1). Siya ay nahayag sa laman, subali’t pinatunayan at inaring-matuwid sa Espiritu. Siya ay nagpakita sa laman, subali’t Siya ay namuhay sa Espiritu (Luc. 4:1, 14; Mat. 12:28) at nag-alay ng Kanyang Sarili sa Diyos sa pamamagitan ng Espiritu (Heb. 9:14). Ang Kanyang pagbabagong-anyo (Mat. 17:2) at ang Kanyang pagkabuhay na muli ay pawang mga pag-aaring-matuwid ng Espiritu. Higit pa roon, sa pagkabuhay na muli Siya ay naging ang Espiritung nagbibigay-buhay (1 Cor. 15:45; 2 Cor. 3:17) upang manahan at mabuhay sa atin (Roma 8:9-10) nang sa gayon, ang Diyos ay mahayag sa laman bilang hiwaga ng pagkamakadiyos. Kung kaya ngayon, nakikilala natin Siya at ang Kanyang mga sangkap hindi ayon sa laman, kundi ayon sa Espiritu (2 Cor. 5:16). Yamang ang pagpapakita ng Diyos sa laman ay inaring-matuwid sa Espiritu, at ang Espiritu ay kaisa sa ating espiritu (Roma 8:16), kinakailangan tayong mamuhay at kumilos sa ating espiritu upang ang pag-aaring-matuwid na ito ay maisakatuparan."
+        },
+        {
+            "id": "16-5",
+            "text": "Nakita ng mga anghel ang pagiging laman, ang pantaong pamumuhay, at ang pag-akyat sa langit ni Kristo (Luc. 2:9-14; Mat. 4:11; Gawa 1:10-11; Apoc. 5:6, 11-12)."
+        },
+        {
+            "id": "16-6",
+            "text": "Si Kristo bilang kahayagan ng Diyos sa laman ay ipinangaral bilang ebanghelyo sa mga bansa, kabilang na ang bansa ng Israel, mula noong araw ng Pentecostes (Roma 16:26; Efe. 3:8)."
+        },
+        {
+            "id": "16-7",
+            "text": "Si Kristo bilang pagsasakatawan ng Diyos sa laman ay sinampalatayanan, tinanggap bilang Tagapagligtas at buhay, ng mga tao sa sanlibutan (Gawa 13:48)."
+        },
+        {
+            "id": "16-8",
+            "text": "Ito ay tumutukoy sa pag-akyat-sa-langit ni Kristo patungo sa kaluwalhatian (Mar. 16:19; Gawa 1:9-11; 2:33; Fil . 2:9). Ayon sa pagkakasunud-sunod ng mga pangkasaysayang pangyayari, ang pag-akyat sa langit ni Kristo ay nauna sa pangangaral hinggil sa Kanya sa mga bansa. Gayunpaman, ito ay itinala rito bilang huling pangyayari kay Kristo bilang kahayagan ng Diyos sa laman. Lumalabas na ang tinutukoy dito na tinanggap sa itaas sa kaluwalhatian ay ang ekklesia. Kaya, ito ay nagpapahiwatig na hindi lamang si Kristo mismo bilang Ulo, bagkus ang ekklesia rin bilang Katawan, ang kahayagan ng Diyos sa laman. Kapag ang isang ekklesia ay naaalagaan nang mabuti nang naaayon sa mga tagubilin na ibinigay sa unang dalawang kapitulo, at sumusunod sa pahayag na nasa kapitulo tatlo na itatag nang lubos ang pangangasiwa ng mga matanda at ang paglilingkod ng mga diyakono, ang ekklesia ay magpapangsyon bilang bahay at sambahayan ng buháy na Diyos para sa Kanyang pagkilos sa lupa, at bilang nagsusuportang haligi at nagtataguyod na saligan ng katotohanan, nagdadala ng dibinong realidad ni Kristo at ng Kanyang Katawan bilang isang patotoo sa sanlibutan. Sa gayon, ang ekklesia ay nagiging ang pagpapatuloy ng kahayagan ni Kristo na Siyang Diyos sa laman. Ito ay ang dakilang hiwaga ng pagkamakadiyos-si Kristo na ipinamumuhay ng ekklesia bilang kahayagan ng Diyos sa laman!"
         }
     ]
 }

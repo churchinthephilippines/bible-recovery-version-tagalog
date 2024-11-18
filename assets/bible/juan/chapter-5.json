@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -17,15 +17,15 @@
             "footnotes": [
                 {
                     "word": "pintuan",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "Betesda,",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "limang",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -36,11 +36,11 @@
             "footnotes": [
                 {
                     "word": "Na",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -51,15 +51,15 @@
             "footnotes": [
                 {
                     "word": "anghel",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "makalawkaw",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "gumagaling",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -70,7 +70,7 @@
             "footnotes": [
                 {
                     "word": "lalake,",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -81,11 +81,11 @@
             "footnotes": [
                 {
                     "word": "sinabi",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "gumaling?",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -96,11 +96,11 @@
             "footnotes": [
                 {
                     "word": "Ginoo,",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -111,7 +111,7 @@
             "footnotes": [
                 {
                     "word": "higaan,",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -122,11 +122,11 @@
             "footnotes": [
                 {
                     "word": "gumaling",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "binuhat",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -137,11 +137,11 @@
             "footnotes": [
                 {
                     "word": "at",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": [
@@ -172,7 +172,7 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -189,7 +189,7 @@
             "footnotes": [
                 {
                     "word": "at",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -200,7 +200,7 @@
             "footnotes": [
                 {
                     "word": "Hanggang",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": [
@@ -214,11 +214,11 @@
             "footnotes": [
                 {
                     "word": "pinagsikapan",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "nakikipantay",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -259,11 +259,11 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "kamatayan",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -274,11 +274,11 @@
             "footnotes": [
                 {
                     "word": "patay",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "mangabubuhay.",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -295,7 +295,7 @@
             "footnotes": [
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -306,7 +306,7 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -317,15 +317,15 @@
             "footnotes": [
                 {
                     "word": "pagkabuhay",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "nagsigawa",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "pagkabuhay",
-                    "note": ""
+                    "id": "29-3"
                 }
             ],
             "outlines": null
@@ -358,7 +358,7 @@
             "footnotes": [
                 {
                     "word": "katotohanan.",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -381,7 +381,7 @@
             "footnotes": [
                 {
                     "word": "isinugo",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": [
@@ -394,7 +394,7 @@
             "footnotes": [
                 {
                     "word": "nagpatotoo",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": [
@@ -413,7 +413,7 @@
             "footnotes": [
                 {
                     "word": "Sinasaliksik",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": [
@@ -426,7 +426,7 @@
             "footnotes": [
                 {
                     "word": "magsilapit",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -449,7 +449,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "43-1"
                 }
             ],
             "outlines": null
@@ -477,6 +477,156 @@
             "text": "Nguni’t kung hindi kayo nagsisipaniwala sa kanyang mga sulat, paanong magsisisampalataya kayo sa Aking mga salita?",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Ang relihiyon na nagnanais sa mga tao na sumunod sa mga kautusan ay ang kulungan ng mga tupa (10:1). Ang pintuan ng mga tupa ay sumasagisag sa pintuan ng ganitong relihiyon (ang kulungan ng mga tupa)."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang Betesda ay nangangahulugang bahay ng awa, sumasagisag na ang mga taong sumusunod sa kautusan ay nakatatanto na kailangan nila ang awa ng Diyos, dahil sila ay mga inutil, mahina, at aba, tulad ng inilarawan sa Roma 7:7-24."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang mga portiko ay sumasagisag sa relihiyon bilang silungan, katulad ng isang kulungan ng tupa. Ang lima ay tumutukoy sa bilang ng responsabilidad."
+        },
+        {
+            "id": "3-1",
+            "text": "Ito ay sumasagisag na sa ilalim ng silungan ng pagsunod sa kautusan, sa kulungan ng relihiyon, ay maraming taong bulag, hindi makakita; maraming mga lumpo, hindi makalakad; at maraming mga tuyo, kulang sa panustos ng buhay."
+        },
+        {
+            "id": "3-2",
+            "text": "Inaalis ng ilang manuskrito ang huling bahaging ito ng bersikulo 3 at ang buong bersikulo 4."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang anghel dito ay sumasagisag sa mensaherong pinagdaanan ng naibigay na kautusan, ang kautusang hindi nakapagbibigay ng buhay sa tao (Gal. 3:19, 21)."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang pagkalawkaw ng tubig upang pagalingin ang mga tao ay sumasagisag sa pagsunod ng mga tao sa kautusan, tinatangkang pasakdalin ang mga tao."
+        },
+        {
+            "id": "4-3",
+            "text": "O, nagiging buo, nagiging malusog."
+        },
+        {
+            "id": "5-1",
+            "text": "Para sa maysakit at inutil na lalake, maging sa masayang araw ng kapistahan (b. 1) ay walang kaligayahan; maging sa araw ng Sabbath (b. 9) ay walang kapahingahan."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang tandang ito ay nangangahulugan ng ganito: nang ang pagsasagawa ng Hudaismo ng pagtupad sa kautusan ay hindi umubra dahil sa kahinaan ng tao (Roma 8:3), ang Anak ng Diyos ay dumating upang buhayin ang taong patay (b. 25); ang kautusan ay hindi makapagbibigay-buhay sa tao (Gal. 3:21), ngunit ang Anak ng Diyos ay makapagbibigay ng buhay sa tao, binubuhay ang patay (b. 21). “Sapagkat nang tayo ay mahihina pa” (Roma 5:6) Siya ay dumating upang buhayin tayo."
+        },
+        {
+            "id": "6-2",
+            "text": "O, mabuo, maging malusog."
+        },
+        {
+            "id": "7-1",
+            "text": "O, Panginoon."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang relihiyon na humihiling sa tao na sumunod sa kautusan ay may paraan ng pagpapagaling. Sa loob ng relihiyon na sumusunod sa kautusan. Ngunit ito ay hindi napakinabangan ng taong inutil, sapagkat siya ay walang kakayahan upang tupdin ang hinihiling niyaon. Ang relihiyon ay umaasa sa kakayahan, gawain, at kalagayan ng tao upang masunod ang kautusan nito. Sa dahilang inutil ang tao, ang pagsunod sa kautusan ng relihiyon ay nagiging di-sapat. Ang banal na lunsod, ang banal na templo, ang kapistahan, ang Sabbath, ang mga anghel, si Moises, at ang mga kasulatan, lahat ay mabubuting bagay ng relihiyon, ngunit walang magawa para sa taong ito na inutil. Sa mga mata ng Panginoon, siya ay isang patay na tao (b. 25), nangangailangan hindi lamang ng pagpapagaling bagkus ng pagbibigay-buhay rin. Ang pagbibigay-buhay ng Panginoon ay walang kalakip na anumang kahilingan. Narinig ng inutil ang tinig ng Panginoon at siya ay nabuhay (b. 25)."
+        },
+        {
+            "id": "8-1",
+            "text": "Maliit na matres o sapin; at gayundin ang nasa bb. 9, 10, 11, at 12."
+        },
+        {
+            "id": "9-1",
+            "text": "Ayon sa mga bersikulo 24-25, ito ay ang lumipat mula sa kamatayan tungo sa buhay at ang mabuhay. Sa prinsipyong ipinakita sa kapitulo 2, ito ang pagpapalit ng kamatayan tungo sa buhay."
+        },
+        {
+            "id": "9-2",
+            "text": "Noon, ang higaan ang nagdadala sa lalakeng inutil, ngayon, ang nabigyang-buhay na lalake ang nagdadala ng higaan."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang pagbibigay-buhay ng buhay ay sumisira sa ritwal ng relihiyon. Sinaktan ng buhay ang relihiyon at nagsimulang sumalungat ang relihiyon sa buhay mula sa puntong ito (bb. 16, 18)."
+        },
+        {
+            "id": "10-2",
+            "text": "*Lit., hindi naaayon sa kautusan."
+        },
+        {
+            "id": "14-1",
+            "text": "Ipinakikita nito na ang karamdaman ng lalakeng ito ay sanhi sa kanyang pagkakasala."
+        },
+        {
+            "id": "16-1",
+            "text": "Inaalis ng ilang manuskrito ang mga salitang “at pinag-isipan Siyang patayin.”"
+        },
+        {
+            "id": "17-1",
+            "text": "Ang gawain ng Diyos sa paglikha ay tapos na (Gen. 2:1-3), subalit ang Ama at ang Anak ay gumagawa pa rin para sa pagtutubos at pagtatayo."
+        },
+        {
+            "id": "18-1",
+            "text": "Sa isang banda ipinangilin ng mga relihiyosong tao ang Sabbath, ngunit sa kabilang banda ay pinag-isipang patayin si Hesus. Papaano sila magkakaroon ng kapahingahan? Ang kanilang relihiyosong kaisipan ay nagsanhi sa kanila upang isipin na ang patayin yaong mga hindi tumutupad sa ritwal ng relihiyon ay isang paglilingkod sa Diyos (16:2). Ito ay ang paggamit ni Satanas sa relihiyon upang lasunin ang tao, inuutusan ang tao na pumatay, katulad ng kanyang paggamit sa kasalanan upang lasunin ang tao."
+        },
+        {
+            "id": "18-2",
+            "text": "Sa katunayan, ang Anak at ang Ama ay iisa (10:30)."
+        },
+        {
+            "id": "24-1",
+            "text": "Tingnan ang tala 15-1 sa kap. 3."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang pinagmumulan ng kamatayan ay ang puno ng kaalaman, at ang pinagmumulan ng buhay ay ang puno ng buhay (cf. Gen. 2:9, 17). Kaya nga, ang lumipat mula sa kamatayan tungo sa buhay ay ang palitan ang pinagmumulan ng pamumuhay."
+        },
+        {
+            "id": "25-1",
+            "text": "Hindi yaong mga patay sa pisikal, kundi yaong mga patay sa espiritu, ayon sa Efe. 2:1, 5 at Col. 2:13. Kaya, ang mabuhay sa bersikulong ito ay nangangahulugang maging buháy sa espiritu. Hindi yaon ang pagkabuhay na muli sa pisikal na katawan tulad ng nabanggit sa mga bersikulo 28-29."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang Panginoon ay ang Anak ng Diyos (b. 25); sa gayon ay makapagbibigay Siya ng buhay sa tao (b. 21); at Siya ay ang Anak ng Tao, kaya makapaghahatol Siya."
+        },
+        {
+            "id": "28-1",
+            "text": "Tumutukoy sa yaong mga patay sa pisikal at nakalibing sa libingan. Kaya, ang kanilang paglabas sa libingan sa bersikulo 29 ay ang pagkabuhay na muli sa pisikal na katawan."
+        },
+        {
+            "id": "29-1",
+            "text": "Ito ang pagkabuhay na muli ng mga naligtas na mananampalataya bago ang isang libong taong kaharian (Apoc. 20:4, 6; 1 Cor. 15:23, 52; 1 Tes. 4:16). Ang mga patay na mananampalataya ay mabubuhay muli upang magtamasa sa walang hanggang buhay sa pagbalik ng Panginoong Hesus. Kaya, ito ay tinatawag na pagkabuhay na muli ng buhay."
+        },
+        {
+            "id": "29-2",
+            "text": "Ang salitang “nagsigawa” ay nangangahulugang ito ay nakasanayan. Tingnan ang tala 20-1 sa kapitulo 3."
+        },
+        {
+            "id": "29-3",
+            "text": "Ito ay ang pagkabuhay na muli ng mga napahamak na di-mananampalataya pagkatapos ng isang libong taong kaharian (Apoc. 20:5, 12). Lahat ng mga patay na di-mananampalataya ay mabubuhay na muli pagkatapos ng isang libong taon upang mahatulan sa malaking puting trono (Apoc. 20:11-15). Kaya, ito ay tinawag na pagkabuhay na muli ng kahatulan."
+        },
+        {
+            "id": "33-1",
+            "text": "Sa Griyego, ang katotohanan dito ay katulad ng realidad sa 1:14, 17. Sinabi ng naunang bersikulo na si Juan ay nagpatotoo para kay Kristo, sa bersikulong ito sinasabi naman na si Juan ay nagpatotoo para sa katotohanan. Ito ay nagpapatunay na ang katotohanan ay tumutukoy kay Kristo (14:6). Ayon sa pananaw ng pahayag ng buong ebanghelyong ito, ang katotohanan dito ay tumutukoy sa dibinong realidad na naihayag sa loob ng Anak ng Diyos na si Kristo. Tingnan ang tala 6-6 sa 1 Juan 1."
+        },
+        {
+            "id": "36-1",
+            "text": "Tingnan ang tala 6-1 sa kap. 1; gayundin sa b. 38."
+        },
+        {
+            "id": "37-1",
+            "text": "Tumutukoy sa patotoo na ginawa ng Ama para sa Kanya nang ang Panginoon ay binautismuhan (Mat. 3:17). Sa panahong yaon, napakinggan na ng mga Hudyo ang Kanyang tinig at nakita ang anyo ng Espiritu Santo (Luc. 3:22), ngunit bago ang panahong yaon ay hindi nila narinig ang Kanyang tinig ni nakita ang Kanyang anyo."
+        },
+        {
+            "id": "39-1",
+            "text": "Ang “sinasaliksik ninyo ang mga Kasulatan” ay maaaring hiwalay sa “magsilapit sa Akin.” Ang mga relihiyosong Hudyo ay nagsaliksik sa mga Kasulatan, ngunit ayaw pumaroon sa Panginoon. Ang dalawang ito ay dapat na magkasama, yamang ang mga Kasulatan ay nagpapatotoo hinggil sa Panginoon, hindi ito nararapat na mahiwalay sa Panginoon. Maaaring mangyari na makaugnay natin ang mga Kasulatan, nang hindi nakakaugnay ang Panginoon. Tangi lamang ang Panginoon ang makapagbibigay ng buhay."
+        },
+        {
+            "id": "40-1",
+            "text": "Tingnan ang tala 39-1 ."
+        },
+        {
+            "id": "43-1",
+            "text": "Ang Anak na nasa pangalan ng Ama ay katumbas ng Ama, kaya nga tinawag na Ama (Isa. 9:6). Ito ay nagpapatunay rin na ang Ama at ang Anak ay iisa (10:30). Tingnan ang tala 26-2 sa kapitulo 14."
         }
     ]
 }

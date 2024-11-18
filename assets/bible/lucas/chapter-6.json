@@ -1,5 +1,5 @@
 {
-    "chapter": 6,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -45,11 +45,11 @@
             "footnotes": [
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "nagturo;",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -72,7 +72,7 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -89,7 +89,7 @@
             "footnotes": [
                 {
                     "word": "galit,",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -100,11 +100,11 @@
             "footnotes": [
                 {
                     "word": "manalangin,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "pananalangin",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -117,7 +117,7 @@
             "footnotes": [
                 {
                     "word": "tinawag",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -140,7 +140,7 @@
             "footnotes": [
                 {
                     "word": "kapatid",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -172,15 +172,15 @@
             "footnotes": [
                 {
                     "word": "Pinagpala",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "dukha,",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": null
@@ -209,11 +209,11 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "tinanggap",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -236,7 +236,7 @@
             "footnotes": [
                 {
                     "word": "Ibigin",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -271,7 +271,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -294,7 +294,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -311,7 +311,7 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -322,7 +322,7 @@
             "footnotes": [
                 {
                     "word": "dibdib;",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -333,11 +333,11 @@
             "footnotes": [
                 {
                     "word": "Maaari",
-                    "note": ""
+                    "id": "39-1"
                 },
                 {
                     "word": "bulag",
-                    "note": ""
+                    "id": "39-2"
                 }
             ],
             "outlines": null
@@ -354,7 +354,7 @@
             "footnotes": [
                 {
                     "word": "tinitingnan",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -365,7 +365,7 @@
             "footnotes": [
                 {
                     "word": "Mapagkunwari,",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -382,7 +382,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "44-1"
                 }
             ],
             "outlines": null
@@ -405,7 +405,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "47-1"
                 }
             ],
             "outlines": null
@@ -421,6 +421,108 @@
             "text": "Nguni’t siyang nakaririnig at hindi gumagawa ay katulad ng isang taong nagtatayo ng isang bahay sa ibabaw ng lupang walang pundasyon, na nasalpok ng ilog, at agad-agad ito ay nagiba;  at ang lagapak ng bahay na yaon ay malakas.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa bb. 1-5 tingnan ang mga tala sa Mat. 12:1-8 at Marc. 2:23-28."
+        },
+        {
+            "id": "6-1",
+            "text": "Para sa bb. 6-11 tingnan ang mga tala sa Mat. 12:9-14 at Marc. 3:1-6."
+        },
+        {
+            "id": "6-2",
+            "text": "Tingnan ang tala 21-2 sa Marc. 1."
+        },
+        {
+            "id": "9-1",
+            "text": "Lit. kaluluwa; tumutukoy sa pangkaluluwang buhay."
+        },
+        {
+            "id": "11-1",
+            "text": "O, kahangalan, nagpapahiwatig ng walang saysay na pagkapoot. Itong tanda ng pagsubok ng Tagapagligtas sa tao ay naghantad sa tao (2:34-35), may mga pusong mapagkumbaba na tumatanggap ng biyaya at may mga galit na palalo."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 35-1 sa Marc. 1."
+        },
+        {
+            "id": "12-2",
+            "text": "Lit. panalangin ng Diyos."
+        },
+        {
+            "id": "13-1",
+            "text": "Para sa bb. 13-16 tingnan ang mga tala sa Mat. 10:1-4."
+        },
+        {
+            "id": "16-1",
+            "text": "O, anak."
+        },
+        {
+            "id": "20-1",
+            "text": "Anuman ang nakaatas sa Mateo 5-7, bilang saligang-batas ng kaharian ng kalangitan, ay bumubuo sa realidad ng kaharian ng kalangitan. Anuman ang binanggit dito sa bb. 20-49, bilang mga alituntunin ng pagkatao ng mga anak ng Diyos, ay namamahala at sumusukat sa kilos ng mga mananampalataya, na naisilang ng Diyos at nagtataglay ng Kanyang buhay at kalikasan. Sa panahon ng pagsasalita ng Panginoon, sa bahaging ito, maliban sa bb. 24-26 at 39, ang prinsipyo ay tumutugma sa natitirang mananampalatayang Hudyo. Ang prinsipyong ito na ayon sa pamantayan ng pag-uugali at pagkatao ay humihigit kaysa kautusan na natanggap nila mula kay Moises."
+        },
+        {
+            "id": "20-2",
+            "text": "Para sa bb. 20-23 tingnan ang mga tala sa Mat. 5:3-12."
+        },
+        {
+            "id": "20-3",
+            "text": "Tingnan ang tala 43-2 sa kap. 4."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang bb. 24-26, sa panahon ng pagsasalita ng Panginoon, ay maaaring ipatungkol sa mga di-nananampalatayang Hudyo, na nagmatigas ng kanilang mga puso upang tanggihan ang Tagapagligtas."
+        },
+        {
+            "id": "24-2",
+            "text": "Sa Griyego ang salitang ito ay ginamit na may pangkalakal na pakahulugan upang ipagbigay-alam ang pagkatanggap ng buong kabayaran."
+        },
+        {
+            "id": "27-1",
+            "text": "Para sa bb. 27-36, tingnan ang mga tala sa Mat. 5:38-48."
+        },
+        {
+            "id": "32-1",
+            "text": "Sa literal ang “pasasalamat” ay “biyaya.” Ang mga pasasalamat ay umaayon sa gantimpala, at ang “ano” ay tumutukoy sa katangian ng gantimpala, sa gayon ang “anong mga pasasalamat” ay tumutukoy sa kung anong uri ng gantimpala."
+        },
+        {
+            "id": "35-1",
+            "text": "O, hindi nagtuturing ng kalugihan."
+        },
+        {
+            "id": "37-1 Para sa bb. 37-38, tingnan ang mga tala sa Mat. 7:1-2.",
+            "text": "Para sa bb. 37-38, tingnan ang mga tala sa Mat. 7:1-2."
+        },
+        {
+            "id": "38-1",
+            "text": "“Ang pinagpileges na tiklop ng maluwang na damit pang-itaas, na tinaling sama-sama sa pamamagitan ng bigkis, at sa gayon ay bumubuo ng isang supot” (Vincent)."
+        },
+        {
+            "id": "39-1",
+            "text": "Sa panahon nang pagsasalita, ang salitang ito ay maaaring ipatungkol sa mga namumuno sa mga Hudyo."
+        },
+        {
+            "id": "39-2",
+            "text": "Tingnan ang tala 14-1 sa Mat. 15."
+        },
+        {
+            "id": "41-1",
+            "text": "Para sa bb. 41-42 tingnan ang mga tala sa Mat. 7:3-5."
+        },
+        {
+            "id": "42-1",
+            "text": "Tingnan ang tala 2-3 sa Mateo 6."
+        },
+        {
+            "id": "44-1",
+            "text": "Lit. mula sa."
+        },
+        {
+            "id": "47-1",
+            "text": "Para sa bb. 47-49 tingnan ang mga tala sa Mat. 7:24-27."
         }
     ]
 }

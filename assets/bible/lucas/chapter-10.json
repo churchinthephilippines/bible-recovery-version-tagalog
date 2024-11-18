@@ -1,5 +1,5 @@
 {
-    "chapter": 10,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "pitumpu",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "dala-",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -24,11 +24,11 @@
             "footnotes": [
                 {
                     "word": "magsumamo",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "aanihin.",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -45,7 +45,7 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -56,7 +56,7 @@
             "footnotes": [
                 {
                     "word": "Kapayapaan",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -67,11 +67,11 @@
             "footnotes": [
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -94,7 +94,7 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -117,7 +117,7 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -140,7 +140,7 @@
             "footnotes": [
                 {
                     "word": "Hades!",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -163,7 +163,7 @@
             "footnotes": [
                 {
                     "word": "nahulog",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -174,19 +174,19 @@
             "footnotes": [
                 {
                     "word": "awtoridad",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "kapangyarihan",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -203,7 +203,7 @@
             "footnotes": [
                 {
                     "word": "Nang",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -232,11 +232,11 @@
             "footnotes": [
                 {
                     "word": "ano",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "magmana",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": [
@@ -255,11 +255,11 @@
             "footnotes": [
                 {
                     "word": "buong",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "buong",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -276,7 +276,7 @@
             "footnotes": [
                 {
                     "word": "kanyang",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -287,35 +287,35 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "bumababa",
-                    "note": ""
+                    "id": "30-2"
                 },
                 {
                     "word": "Herusalem",
-                    "note": ""
+                    "id": "30-3"
                 },
                 {
                     "word": "Jerico,",
-                    "note": ""
+                    "id": "30-3"
                 },
                 {
                     "word": "tulisan,",
-                    "note": ""
+                    "id": "30-4"
                 },
                 {
                     "word": "samsaman",
-                    "note": ""
+                    "id": "30-5"
                 },
                 {
                     "word": "hampasin,",
-                    "note": ""
+                    "id": "30-6"
                 },
                 {
                     "word": "iniwanan",
-                    "note": ""
+                    "id": "30-7"
                 }
             ],
             "outlines": null
@@ -326,7 +326,7 @@
             "footnotes": [
                 {
                     "word": "saserdote",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -337,7 +337,7 @@
             "footnotes": [
                 {
                     "word": "Levita",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -348,7 +348,7 @@
             "footnotes": [
                 {
                     "word": "Samaritano,",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -359,7 +359,7 @@
             "footnotes": [
                 {
                     "word": "tinalian",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -370,7 +370,7 @@
             "footnotes": [
                 {
                     "word": "denario,",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -381,7 +381,7 @@
             "footnotes": [
                 {
                     "word": "nagpakilala",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -392,7 +392,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -403,11 +403,11 @@
             "footnotes": [
                 {
                     "word": "nayon;",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "Marta",
-                    "note": ""
+                    "id": "38-2"
                 }
             ],
             "outlines": [
@@ -420,7 +420,7 @@
             "footnotes": [
                 {
                     "word": "Maria,",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -431,7 +431,7 @@
             "footnotes": [
                 {
                     "word": "naligalig",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -448,10 +448,168 @@
             "footnotes": [
                 {
                     "word": "mabuting",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang ilang manuskrito ay binabasang, pitumpu’t dalawa (gayundin sa b. 17). Ang Tagapagligtas ay humirang ng pitumpung disipulo upang makibahagi sa Kanyang ministeryo, katulad ni Moises na humirang ng pitumpung matatanda upang makibahagi sa pasanin tulad ng iniutos sa kanya ng Diyos (Blg. 11:16-17; Exo. 24:1,9)."
+        },
+        {
+            "id": "1-2",
+            "text": "Bilang mga saksi (Deut. 17:6; 19:15; Mat. 18:16)."
+        },
+        {
+            "id": "2-1",
+            "text": "Tingnan ang 38-1 sa Mat. 9"
+        },
+        {
+            "id": "2-2",
+            "text": "Tingnan ang 38-3 sa Mat. 9"
+        },
+        {
+            "id": "4-1",
+            "text": "Tingnan ang 9-1 sa Mateo 10."
+        },
+        {
+            "id": "5-1",
+            "text": "Lit. nawa mapasatahanan na ito ang kapayapaan."
+        },
+        {
+            "id": "6-1",
+            "text": "Nang inatasan ng Panginoon ang Kanyang mga disipulo upang magpahayag ng ebanghelyo, ninais Niya na sa pamamagitan ng pagkatok-sa-pintuan ay dalawin ang mga tao sa bawat lunsod at bawat lugar. Ito ay isang pagpapatibay ng ating paghayo sa pangkasalukuyang panahon upang dumalaw sa tao at magpahayag ng ebanghelyo sa pamamagitan ng pagkatok-sa-pintuan ng bawat bahay. Ang pag-aatas ng Panginoon sa mga disipulo ay katulad ng mga tupang pumapasok sa loob ng grupo ng mga lobo (b. 3); ngunit sa gitna ng mga lobo ay may pinili ang Diyos na mga anak ng kapayapaan na siyang tupang pinagmamalasakitan ng Panginoon (Mat. 9:36) at ani na nais Niyang anihin (b. 2; Mat. 9:37-38). Ang mga tupa at aanihing ito ng Panginoon ay kalat na nakahalo sa grupo ng mga lobo; kaya kinakailangan ng Panginoon ang mga disipulo na humayo sa gitna ng mga lobo, hanapin sa mga bahay at maani ang mga ito. Gayundin sa pangkasalukuyang panahon. Ang ganitong uri ng pagpapahayag ng ebanghelyo sa pamamagitan ng paghayo, pagkatok-sa-pintuan at pagdalaw sa mga tao ang siyang itinalaga ng Diyos. Ito ay naiiba sa relihiyosong paraan ng paghahayag ng ebanghelyo sa isang malakihang pagtitipon."
+        },
+        {
+            "id": "6-2",
+            "text": "O, sa bahay na yaon."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 43-2 sa kap. 4."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang 15-1 sa Mateo 10."
+        },
+        {
+            "id": "15-1",
+            "text": "Tingnan ang 23-1 sa Mateo 11."
+        },
+        {
+            "id": "18-1",
+            "text": "Sa panahon ng kanyang pagrerebelde sa Diyos bago pa lalangin ang tao, si Satanas ay hinatulan at sinintensyahang itapon sa Sheol (Hades), sa kaila-ilaliman ng hukay (Isa. 14:15; Ezek. 28:17). Pagkatapos, pinasimulan ng Diyos na isagawa ang sintensya sa kanya sa iba’t ibang okasyon sa iba’t ibang antas, tulad ng Kanyang isinagawa sa pamamagitan ng pitumpung disipulo sa kapitulong ito, sa pamamagitan ni Kristo sa krus (Heb. 2:14; Juan 12:31), sa pamamagitan ng anak-na-lalake at ni Miguel bago ang matinding kapighatian nang siya ay ibagsak sa lupa (Apoc. 12:5, 7-10, 13), at sa pamamagitan ng anghel bago ang isang libong taong kaharian nang siya ay ibagsak sa kailalimang-walang-hanggan (Apoc. 20:1-3), hanggang sa katapus-tapusan, siya ay itatapon sa dagat-dagatang apoy pagkatapos ng isang libong taong kaharian (Apoc. 20:10) hanggang sa kawalang-hanggan."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang ibinigay ng Panginoon sa Kanyang mga disipulo ay awtoridad; ang taglay ng kalaban ay kapangyarihan. Nalulupig ng awtoridad ang kapangyarihan."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang mga ahas ay sumasagisag kay Satanas at sa kanyang mga anghel (Efe. 2:2; 6:11-12); ang mga alakdan ay sumasagisag sa mga demonyo (bb. 17, 20). Pinasuko ng mga disipulo ang kanilang masamang kapangyarihan sa pamamagitan ng awtoridad ng Panginoon."
+        },
+        {
+            "id": "21-1",
+            "text": "Para sa bb. 21-22, tingnan ang mga tala sa Mat. 11:25-27."
+        },
+        {
+            "id": "25-1",
+            "text": "Lit. ano ang nagawa ko, upang magmana ako ng walang hanggang buhay?"
+        },
+        {
+            "id": "25-2",
+            "text": "Tingnan ang mga tala 29-3 at 17-3 sa Mateo 19."
+        },
+        {
+            "id": "27-1",
+            "text": "O, nang lubusan o nang nagmumula sa iyong puso."
+        },
+        {
+            "id": "27-2",
+            "text": "O, nang lubusan. Lit. sa loob ng iyong buong kaluluwa, buong kalakasan, at buong pag-iisip."
+        },
+        {
+            "id": "29-1",
+            "text": "Siya ay tiyak na isa sa mga Fariseo na nagmamatuwid sa sarili (16:14-15; 18:9-10)."
+        },
+        {
+            "id": "30-1",
+            "text": "Ito ay isa sa mga namumukod-tanging talinghaga na isinalaysay ni Lucas na naghahatid ng prinsipyo ng mataas na moralidad na nasa ganap na pagliligtas ng Tagapagligtas. Ang taong yaon, sa hangarin ng Tagapagligtas, ay sumasagisag sa nagmamatuwid-sa-sariling tagapagtanggol ng kautusan (b. 29) bilang makasalanang bumagsak mula sa pundasyon ng kapayapaan (Herusalem) tungo sa kalagayan ng sumpa (Jerico)."
+        },
+        {
+            "id": "30-2",
+            "text": "Tumutukoy sa pagbagsak mula sa lunsod ng pundasyon ng kapayapaan tungo sa lunsod ng sumpa."
+        },
+        {
+            "id": "30-3",
+            "text": "Herusalem, nangangahulugang pundasyon ng kapayapaan (cf. Heb. 7:2), at ang Jerico, bilang isang lunsod ng sumpa (Jos. 6:26; 1 Hari 16:34)."
+        },
+        {
+            "id": "30-4",
+            "text": "Sumasagisag sa mga mahigpit na guro ng kautusang Hudaismo (Juan 10:1) na siyang gumamit ng kautusan (1 Cor. 15:56) upang pagnakawan ang mga nagsisisunod sa mga kautusan katulad ng nagmamatuwid-sa-sariling tagapagtanggol ng kautusan."
+        },
+        {
+            "id": "30-5",
+            "text": "Sumasagisag sa pagsamsam sa tao ng kautusan na ginamit sa maling paraan ng mga maka-Hudaismo."
+        },
+        {
+            "id": "30-6",
+            "text": "Lit. pagbubugbugin, sumasagisag sa pagpatay sa pamamagitan ng kautusan (Roma 7:9-10)."
+        },
+        {
+            "id": "30-7",
+            "text": "Sumasagisag sa pag-iwan na ginawa ng mga maka-Hudaismo sa tagasunod ng kautusan sa loob ng patay na kalagayan (Roma 7:11, 13)."
+        },
+        {
+            "id": "31-1",
+            "text": "Ang saserdote na siyang dapat mangalaga sa bayan ng Diyos sa pamamagitan ng pagtuturo sa kanila ng kautusan ng Diyos (Deut. 33:10; 2 Cron. 15:3) ay bumababa rin sa parehong daan na walang magawang tulong sa nabugbog."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang Levita na siyang tumutulong sa bayan ng Diyos sa kanilang pagsamba sa Diyos (Blg. 1:50; 3:6-7; 8:19) ay dumating din sa parehong lugar at hindi rin siya nakapagbigay ng anumang tulong sa naghihingalo."
+        },
+        {
+            "id": "33-1",
+            "text": "Sumasagisag sa Taong-Tagapagligtas, na wari bang isang karaniwang tao na may mababang kalagayan, hinamak at siniraang-puri bilang isang mababa at hamak na Samaritano (Juan 8:48; 4:9 at tala 1) ng mga Fariseong nagtataas-sa-sarili at nag-aaring-matuwid-sa-sarili, kabilang ang kausap Niya rito (bb. 25, 29). Ang isang gayong Taong-Tagapagligtas, sa Kanyang pangministeryong paglalakbay sa paghahanap sa nawawalang isa at pagliligtas sa makasalanan (19:10), ay dumating sa kinaroroonan ng sugatang biktima ng mga tulisang mainit para sa Hudaismo sa kanyang kahabag-habag at nag-aagaw-buhay na kalagayan. Nang Kanyang makita siya, Siya ay nagdalang-habag sa loob ng Kanyang pagkatao kasama ang Kanyang pagka-Diyos, at dinulutan siya ng maingat na paggamot at nagliligtas na pag-aruga, ganap na tinutugon ang kanyang mahigpit na pangangailangan (bb. 34-35)."
+        },
+        {
+            "id": "34-1",
+            "text": "Sa bb. 34-35, ang lahat ng punto ng pag-aaruga ng mabuting Samaritano para sa isang nag-aagaw-buhay ay inilarawan, sa Kanyang pagkatao kasama ang Kanyang pagka-Diyos, ang maawain, maingat, at mayamang pag-aaruga ng Taong-Tagapagligtas para sa isang makasalanang hinatulan sa ilalim ng kautusan, ipinakikitang ganap ang Kanyang mataas na antas ng moralidad sa Kanyang nagliligtas na biyaya: 1) Kanyang tinalian ang kanyang mga sugat- pinagaling siya; 2) Kanyang binuhusan ng langis at alak ang kanyang mga sugat — binigyan siya ng Espiritu Santo at ng dibinong buhay (Mat. 9:17 at tala 1; Juan 2:9 at tala 1); 3) Kanyang inilagay siya sa kanyang sariling hayop (asno) — dinala siya sa isang mapagmababang paraan sa isang mapagmababang daan (Zac. 9:9). 4) Kanyang dinala siya sa isang bahay-tuluyan — dinala siya sa ekklesia; 5) Kanyang inalagaan siya — inalagaan siya sa pamamagitan ng ekklesia; 6) Kanyang binayaran ang bahay-tuluyan para sa kanya-pinagpapala ang ekklesia para sa kanya; 7) Anumang nagugol ng bahay-tuluyan ay kanyang babayaran sa kanyang pagbabalik — anumang nagugol sa pangkasalukuyang kapanahunan ng ekklesia para sa mga taong iniligtas ng Panginoon ay tiyak na babayaran ng Tagapagligtas sa Kanyang pagbabalik."
+        },
+        {
+            "id": "35-1",
+            "text": "Tingnan ang tala 7-1 sa Juan 6."
+        },
+        {
+            "id": "36-1",
+            "text": "Inakala ng nag-aaring-matuwid-sa-sariling tagapagtanggol ng kautusan na kaya niyang magmahal sa iba bilang kanyang kapwa (b. 29), hindi nalalaman, sa ilalim ng pagkabulag ng pag-aaring-matuwid-sa-sarili, na siya mismo ay nangangailangan ng isang kapwa, ang Taong-Tagapagligtas, na magmahal sa kanya."
+        },
+        {
+            "id": "37-1",
+            "text": "O, Ang isang naging maawain sa kanya. Ang nag-aaring-matuwid-sa-sariling isa ay natulungang makaalam na kailangan niya ng isang mapagmahal na kapwa (katulad ng mabuting Samaritano, na isang sagisag ng Taong-Tagapagligtas) upang mahalin siya, hindi isang kapwa na kanyang mamahalin. Nilayon ng Tagapagligtas na ilantad sa kanya sa pamamagitan ng salaysay na ito: 1) na siya ay hinatulan ng kamatayan sa ilalim ng kautusan, walang kakayahang alagaan ang kanyang sarili, hindi na kailangang sabihin pang magmahal sa iba; 2) na ang Taong-Tagapagligtas ang Isang maaaring magmahal sa kanya at magdulot sa kanya ng ganap na kaligtasan."
+        },
+        {
+            "id": "38-1",
+            "text": "Betania (Juan 12:1 at tala 1; Marc. 11:1; Mat. 21:17 at tala 1)."
+        },
+        {
+            "id": "38-2",
+            "text": "Maaaring mula sa Caldeo, nangangahulugang “siya ay mapanghimagsik.”"
+        },
+        {
+            "id": "39-1",
+            "text": "Gr. Maria; Heb. Miriam, nangangahulugang “ang kanilang panghihimagsik” (Blg. 12:1, 10-15). Ang kahulugan ng Marta at Maria ay naghahatid ng diwa ng paghihimagsik. Ito ay maaaring nagpapakita ng kanilang likas na buhay. Ang pagliligtas ng Panginoon ay makapagtatransporma sa mga mapanghimagsik tungo sa pagiging masunurin, katulad ng inilalarawan sa salaysay na ito. Ang isang katulad ng mapanghimagsik na Miriam sa Lumang Tipan ay nagiging isang katulad ng masunuring Maria sa Bagong Tipan."
+        },
+        {
+            "id": "40-1",
+            "text": "Nangangahulugang mabatak sa iba’t ibang direksiyon."
+        },
+        {
+            "id": "42-1",
+            "text": "Higit na gusto ng Panginoon na ang Kanyang mga iniligtas na nagmamahal sa Kanya ay makinig sa Kanya (b. 39) upang malaman nila ang Kanyang naisin, sa halip na gumawa ng mga bagay para sa Kanya nang hindi nalalaman ang Kanyang kalooban (cf. 1 Sam. 15:22; Ecc. 5:1). Napakahalaga na ang salaysay na ito tungkol kina Marta at Maria ay sumunod kaagad pagkatapos ng talinghaga ng mabuting Samaritano. Ang una ay nagpapakita ng pagkahabag at pag-ibig ng Tagapagligtas, na Siya ay isang Tao bilang kapwa ng mga makasalanan; ang pangalawa ay nagpapakita ng naisin at higit na kagustuhan ng Panginoon, na Siya ang Diyos bilang Panginoon ng mga mananampalataya. Ang pagkahabag at pag-ibig ng Tagapagligtas ay para sa ating kaligtasan sa pamamagitan Niya; ang naisin at higit na kagustuhan ng Panginoon ay para sa paglilingkod natin sa Kanya. Pagkatapos nating matanggap ang kaligtasan mula sa Tagapagligtas, dapat tayong magdulot ng paglilingkod sa Panginoon. Para sa ating kaligtasan, kailangan nating matanto ang pagkahabag at pag-ibig ng Tagapagligtas; para sa ating paglilingkod, kailangan nating malaman ang naisin at higit na kagustuhan ng Panginoon."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 18,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -21,15 +21,15 @@
             "footnotes": [
                 {
                     "word": "balo,",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "Ipaghiganti",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "katunggali.",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -52,7 +52,7 @@
             "footnotes": [
                 {
                     "word": "likong",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -69,11 +69,11 @@
             "footnotes": [
                 {
                     "word": "pagdating",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -84,7 +84,7 @@
             "footnotes": [
                 {
                     "word": "Niya",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": [
@@ -104,7 +104,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -115,7 +115,7 @@
             "footnotes": [
                 {
                     "word": "nag-",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -126,7 +126,7 @@
             "footnotes": [
                 {
                     "word": "maglubag-",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -151,11 +151,11 @@
             "footnotes": [
                 {
                     "word": "pagbawalan",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -166,7 +166,7 @@
             "footnotes": [
                 {
                     "word": "maliit",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -177,11 +177,11 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "ano",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": [
@@ -230,7 +230,7 @@
             "footnotes": [
                 {
                     "word": "karayom",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -241,7 +241,7 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -264,7 +264,7 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -275,7 +275,7 @@
             "footnotes": [
                 {
                     "word": "panahong",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -294,7 +294,7 @@
             "footnotes": [
                 {
                     "word": "ibibigay",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -317,7 +317,7 @@
             "footnotes": [
                 {
                     "word": "papalapit",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": [
@@ -342,7 +342,7 @@
             "footnotes": [
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -365,7 +365,7 @@
             "footnotes": [
                 {
                     "word": "Ano",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -376,7 +376,7 @@
             "footnotes": [
                 {
                     "word": "nagpagaling",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -386,6 +386,104 @@
             "text": "At kapagdaka ay tinanggap niya ang kanyang paningin at sumunod sa Kanya, na niluluwalhati ang Diyos. At ang lahat ng mga tao, nang makita ito, ay nagbigay ng papuri sa Diyos.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "3-1",
+            "text": "Ang mga mananampalataya kay Kristo, sa isang pakahulugan ay isang balo sa pangkasalukuyang kapanahunan dahil ang kanilang Asawang Lalake na si Kristo (2 Cor. 11:2), ay wala sa piling nila."
+        },
+        {
+            "id": "3-2",
+            "text": "O, ihanap mo ako ng katarungan."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang mga mananampalataya kay Kristo ay mayroon ding isang katunggali, yaon ay, si Satanas, ang Diyablo. Sa katunggaling ito, kinakailangan natin ang paghihiganti ng Diyos. Dapat tayong manalangin nang walang lubay para sa paghihiganting ito (cf. Apoc. 6:9-10) at huwag panghinaan ng loob."
+        },
+        {
+            "id": "6-1",
+            "text": "Lit. hukom ng kawalang-katuwiran."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang paghihiganti ng Diyos sa ating kaaway ay mangyayari sa pagbabalik ng Tagapagligtas (2 Tes. 2:6-9)."
+        },
+        {
+            "id": "8-2",
+            "text": "Lit. ang pananampalataya, ang walang lubay na pananampalataya para sa walang lubay na pananalangin, katulad ng nasa balo. Kaya, ito ay ang subhektibong pananampalataya, hindi ang obhektibong pananampalataya."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang kinapapalooban ng bb. 9-30 ay maaaring ibilang na mga kondisyon at kahilingan para sa pagpasok sa kaharian ng Diyos: (1) ang maging mapagpakumbaba sa harap ng Diyos, nalalaman na ang sarili ay isang makasalanan, nauunawaan na kailangan ang pagpapalubag-loob ng Diyos (bb. 9-14); (2) ang maging katulad ng isang maliit na bata, na walang taglay na anumang nakaaabalang konsepto (bb. 15-17); at (3) ang pagsunod sa Tagapagligtas, dinadaig ang pagiging okupado na sinasanhi ng kayamanan at lahat ng materyal na bagay (bb. 18-30)."
+        },
+        {
+            "id": "11-1",
+            "text": "Ito ay parang hindi isang panalangin kundi isang pag-aakusa sa ibang tao."
+        },
+        {
+            "id": "12-1",
+            "text": "Ito ay parang hindi isang panalangin kundi isang palalong pagmamalaki sa Diyos."
+        },
+        {
+            "id": "13-1",
+            "text": "Nauunawaan ng maniningil ng buwis kung paano ang kanyang pagkamakasalanan ay nakapagpapagalit sa Diyos; kaya, hiniling niya sa Diyos na maglubag-loob sa kanya, na huwag magalit sa kanya sa pamamagitan ng isang pampalubag-loob na handog, upang ang Diyos ay maging maawain at mapagbiyaya sa kanya (tingnan ang mga tala 25-1 sa Roma 3, 17-3 sa Heb. 2, at 2-1 sa 1 Juan 2)."
+        },
+        {
+            "id": "16-1",
+            "text": "O, hadlangan, pigilan."
+        },
+        {
+            "id": "16-2",
+            "text": "Tingnan ang tala 43-2 sa kapitulo 4."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang isang maliit na bata, na hindi punô at hindi naookupahan ng mga lumang konsepto, ay madaling makatatanggap ng isang bagong kaisipan. Sa gayon, kailangang tanggapin ng mga tao ang kaharian ng Diyos bilang isang bagong bagay, sa pamamagitan ng isang pusong di-okupado kagaya ng puso ng isang maliit na bata."
+        },
+        {
+            "id": "18-1",
+            "text": "Para sa bb. 18-30, tingnan ang mga tala sa Mat. 19:16-29."
+        },
+        {
+            "id": "18-2",
+            "text": "Tingnan ang tala 25-1 sa kap. 10."
+        },
+        {
+            "id": "25-1",
+            "text": "Naiibang salita para sa karayom na nasa Mateo at Marcos. Ito ay tumutukoy sa isang karayom ng maninistis."
+        },
+        {
+            "id": "26-1",
+            "text": "Lit. at."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang Mateo 19:29 ay nagsasabi, dahil sa Aking pangalan. Ito ay nagpapakita na ang Tagapagligtas ay katumbas ng kaharian ng Diyos (tingnan ang tala 21-1 sa kap. 17)."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang pangkasalukuyang kapanahunan."
+        },
+        {
+            "id": "32-1",
+            "text": "Tingnan ang mga tala 18-1 sa Mat. 20 at 33-1 sa Marc. 10."
+        },
+        {
+            "id": "35-1",
+            "text": "Ito ay nangangahulugang pinagaling ng Tagapagligtas ang lalakeng bulag bago Siya pumasok sa Jerico. Nguni’t sinasabi ng Mat. 20:29 at Marc. 10:46, na ang pagpapagaling ay nangyari sa Kanyang paglabas sa Jerico. Ang pagsasalaysay ni Lucas ay may isang espirituwal na kahulugan. Ang pagtanggap ng paningin ng lalakeng bulag ay sinundan ng pagkaligtas ni Zaqueo sa 19:1-9. Ito ay nagpapakita na sa pagtanggap ng kaligtasan kailangan muna ang paningin upang makita ang Tagapagligtas. Ang dalawang pangyayaring ito, na naganap sa Jerico sa walang patid na pagkakasunod, ay dapat ibilang na isang buong espirituwal na pangyayari. Ang isang makasalanan sa kadiliman ay kinakailangang makatanggap ng paningin upang kanyang maunawaan ang kanyang pangangailangan ng kaligtasan (Gawa 26:18)."
+        },
+        {
+            "id": "38-1",
+            "text": "Tingnan ang 30-1 sa Mat. 20."
+        },
+        {
+            "id": "41-1",
+            "text": "Tingnan ang 51-1 sa Marc. 10."
+        },
+        {
+            "id": "42-1",
+            "text": "Lit. nagligtas."
         }
     ]
 }

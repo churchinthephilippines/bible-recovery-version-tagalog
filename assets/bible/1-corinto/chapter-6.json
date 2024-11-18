@@ -1,5 +1,5 @@
 {
-    "chapter": 6,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "kaso",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -26,11 +26,11 @@
             "footnotes": [
                 {
                     "word": "magsisihatol",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "magsihatol",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -41,7 +41,7 @@
             "footnotes": [
                 {
                     "word": "hahatulan",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -52,7 +52,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -75,23 +75,23 @@
             "footnotes": [
                 {
                     "word": "pagkatalo",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "bagkus",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "bagkus",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "padaya?",
-                    "note": ""
+                    "id": "7-4"
                 }
             ],
             "outlines": null
@@ -108,7 +108,7 @@
             "footnotes": [
                 {
                     "word": "magsisipagmana",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": [
@@ -127,15 +127,15 @@
             "footnotes": [
                 {
                     "word": "nangahugasan",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "napabanal",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "naaring-",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -146,23 +146,23 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "matuwid",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "kapaki-",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "matuwid",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "pasasakop",
-                    "note": ""
+                    "id": "12-4"
                 }
             ],
             "outlines": [
@@ -176,15 +176,15 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "kapwa",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "katawan",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": [
@@ -197,7 +197,7 @@
             "footnotes": [
                 {
                     "word": "ibabangon",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -208,7 +208,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -219,7 +219,7 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -230,11 +230,11 @@
             "footnotes": [
                 {
                     "word": "nakaugpong",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "kaisang",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -245,7 +245,7 @@
             "footnotes": [
                 {
                     "word": "kasalanang",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -256,7 +256,7 @@
             "footnotes": [
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -267,14 +267,128 @@
             "footnotes": [
                 {
                     "word": "halaga;",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "luwalhatiin",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang ikatlong suliranin na tinatalakay ng Sulat na ito ay ang bagay ukol sa isang kapatid na naghahabla laban sa isa (bb. 1-11). Hindi ito isang kasalanan katulad ng pagkakabahagi-bahagi na ang pinagmulan ay ang kaluluwa, ni isang mahalay na kasalanan katulad ng pakikiapid sa madrasta na isinagawa ng mapagpitang katawan. Ito ay isang pangyayari ng isang kumukuha ng kanyang mga karapatan na naaayon sa batas, ayaw magparaya, hindi handang matutuhan ang aral ng krus."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang mga di-mananampalataya, na hindi matuwid, hindi makatuwiran, sa harapan ng Diyos."
+        },
+        {
+            "id": "2-1",
+            "text": "Sa darating na kapanahunan ng kaharian ang mga banal na mandaraig ay mamumuno sa mga bansa ng sanlibutan (Heb. 2:5-6; Apoc. 2:26-27)."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang “magsihatol kayo sa mga bagay na pinakamaliit”ay literal na nangangahulugang “maging pinakamaliit na hukuman kayo.” Tinutukoy nito na ang kaso sa gitna nila ay ipinahahatol sa ilang banal. Ang paghahatol na ito ay di hamak na higit na maliit na bagay kung ihahambing sa pamumuno sa mga bansa ng sanlibutan."
+        },
+        {
+            "id": "3-1",
+            "text": "“Ang mga bagay na nauukol sa buhay na ito” ay nagpapahayag na ang paghatol ng mga banal sa mga anghel ay magiging sa hinaharap, hindi sa kapanahunang ito. Ito malamang ay tumutukoy sa paghatol sa mga anghel na ipinahayag sa II Ped. 2:4 at Jud. 6. Ang mga anghel na binanggit sa mga bersikulong ito at yaong mga nasa Efe. 2:2; 6:12, at Mat. 25:41 ay tiyak na ang masasamang anghel. Sa gayon, hindi lamang hahatulan ng mga mananampalataya ni Kristo ang daigdig ng mga tao bagkus maging ang daigdig ng mga anghel din sa hinaharap."
+        },
+        {
+            "id": "4-1",
+            "text": "Tumutukoy sa mga di-mananampalataya; ang mga di-mananampalataya ay hindi pinahahalagahan sa ekklesia."
+        },
+        {
+            "id": "7-1",
+            "text": "O, kabiguan, nagpapahiwatig ng kamalian, kakulangan, pagkawala, hindi pagkaabot (sa pagmamana ng kaharian ng Diyos – b. 9)."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang salitang-ugat nito sa Griyego ay pareho ng sa “nakikipaghablahan” na nasa b. 6."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang “bagkus tiisin ang mga kalikuan” at “padaya” ay ang matamising malugi matutunan lamang ang aral ng krus, magbabayad ng isang halaga upang panatilihin ang kagalingan ni Kristo."
+        },
+        {
+            "id": "7-4",
+            "text": "O, paipit."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang manahin ang kaharian sa susunod na kapanahunan ay isang gantimpala sa mga banal na naghahanap ng katuwiran (Mat. 5:10, 20; 6:33). Tingnan ang mga tala 10-2 sa Mateo 5, 21fnz2 sa Galacia 5, 5fnz3 sa Efeso 5, at 28fnz1 sa Hebreo 12."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang paghuhugas, pagpapabanal, at pag-aaring-matuwid rito ay hindi sa pamamagitan ng dugo sa isang obhektibong paraan katulad ng sa I Juan 1:7, Heb. 10:29, at Roma 3:24-25. Ang mga ito ay ang pansubhektibong paghuhugas ng muling-pagsilang katulad ng sa Tito 3:5, ang pansubhektibong pagpapabanal ng Espiritu katulad ng sa Roma 15:16, at ang pansubhektibong pag-aaring-matuwid ng Espiritu rito. Ang lahat ng mga bagay na ito ng pagliligtas ng Diyos ay nangyari sa atin sa loob ng pangalan ng Panginoong Hesu-Kristo, yaon ay, sa Persona ng Panginoon, sa organikong pakikipag-isa sa Panginoon sa pamamagitan ng pananampalataya, at sa Espiritu ng Diyos, yaon ay, sa kapangyarihan at pagkatanto sa Espiritu Santo. Unang-una, nahugasan mula sa mga bagay na makasalanan; ikalawa, napabanal, naibukod tungo sa Diyos, natransporma ng Diyos; at ikatlo, naaring-matuwid, tinanggap ng Diyos."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang ikaapat na bagay na tinutuos ng Sulat na ito ay ang pagmamalabis sa kalayaan sa mga pagkain at sa katawan (bb. 12-20). Ang mga pagkain para mabuhay ang tao at ang seks (patungkol sa katawan) para magparami ang tao ay kapwa kinakailangan at itinalaga ng Diyos. Ang tao ay may karapatang gamitin ang mga ito. Gayunpaman, hindi siya dapat magmalabis, ni magpasailalim sa kapangyarihan ng mga ito, nakokontrol at naaalipin ng mga ito. Ang pagmamalabis sa pagkain, katulad ng pagkain sa mga inihahain sa mga diyos-diyosan, ay nagpapatisod sa mahihinang kapatid (8:9-13; 10:28-30, 32), at ang labis na pagkain ay sumisira sa ating katawan. Kapwa ang mga pagkain at ang ating tiyan ay mawawalang lahat: dadalhin ng Diyos kapwa sa wala. Ang pagmamalabis sa seks ay pakikiapid. Ito ay hindi lamang hinatulan ng Diyos; ito rin ay sumisira sa ating katawan (b. 18) na para sa Panginoon."
+        },
+        {
+            "id": "12-2",
+            "text": "Lit. nasa ilalim ng aking kapangyarihan (aking mapagpapasiyahan); kaya, pinapayagan, hinahayaan, legal."
+        },
+        {
+            "id": "12-3",
+            "text": "May kapakinabangan (hindi lamang basta kumbinyente), makagagaling, mabuti, may halaga."
+        },
+        {
+            "id": "12-4",
+            "text": "Lit.pasasailalim ng awtoridad. Ang lahat ng bagay ay nasa ilalim ng aking kapangyarihan, subali’t hindi ako padadala sa ilalim ng kapangyarihan (awtoridad) ng anumang bagay. Ang lahat ng mga bagay ay pinahihintulutan ko, hinahayaan ko, at legal sa akin, subali’t hindi ako pasasakop (paaalipin) o padadala sa ilalim ng awtoridad, ng kontrol, ng anuman. Ang bersikulong ito ay maituturing na isang salawikaing namamahala sa pakikipagtuos ng apostol sa ilang suliranin sa susunod na bahaging ito, mula sa bersikulo 13 hanggang 11:1."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang mga pagkain at ang tiyan ay para sa pagpapanatili ng katawan. Sa kanilang mga sarili ang mga ito ay walang kabuluhan: dadalhin ng Diyos ang mga ito sa wala."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang ”kapwa” ay tumutukoy sa tiyan at sa mga pagkain."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang ating katawan ay nilikha para sa Panginoon, at ang Panginoon sa ating loob ay para sa ating katawan. Pinakakain Niya ito ng materyal na pagkain (Awit 103:5) at binibigyan ito ng Kanyang pagkabuhay na muling buhay (Roma 8:11), na lumululon ng elemento ng kamatayan nito kasama na ang mga kahinaan at mga karamdaman nito. Sa kahuli-hulihan, babaguhing anyo Niya ang ating katawan upang maiwangis ito sa Kanyang maluwalhating Katawan. Hindi natin dapat abusuhin ito sa pamamagitan ng pakikiapid."
+        },
+        {
+            "id": "14-1",
+            "text": "Binuhay na muli ng Diyos ang katawan ng Panginoon. Ang ating mga katawan ay itinalagang magkaroon ng bahagi sa maluwalhating katawan ng Panginoon sa pagkabuhay na muli ng Panginoon (Fil. 3:21) at ibabangon upang maging katawang walang kasiraan (15:52), yaon ang katubusan ng ating katawan (Roma 8:23). Maging sa ngayon, ang Espiritu ng binuhay na muling Kristo na nananahan sa ating loob ay nagbibigay rin ng buhay sa ating katawan (Roma 8:11), upang ito ay maging sangkap ni Kristo (b. 15) at templo ng Diyos, upang mapanahanan ng Kanyang Espiritu Santo (b. 19)."
+        },
+        {
+            "id": "15-1",
+            "text": "Dahil sa tayo ay organikong kaisa ni Kristo (b. 17), at dahil si Kristo ay nananahanan sa ating espiritu (II Tim. 4:22) at gumagawa ng Kanyang tahanan sa ating mga puso (Efe. 3:17), ang ating buong katauhan, kabilang ang ating pinadalisay na katawan, ay naging isang sangkap Niya. Kaya, upang maging gayong sangkap sa praktikal na paraan, kinakailangan nating ihandog ang ating katawan sa Kanya (Roma 12:1, 4-5)."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit. tungo sa loob ng iisang laman."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay tumutukoy sa organikong pakikipag-isa ng mga mananampalataya sa Panginoon sa pamamagitan ng pagsampalataya tungo sa loob Niya (Juan 3:15-16). Ang pakikipag-isang ito ay inilalarawan ng mga sanga sa puno ng ubas (Juan 15:4-5). Ito ay hindi lamang isang bagay ng buhay, bagkus isang bagay na nasa loob ng buhay (ang dibinong buhay). Ang gayong pakikipag-isa sa binuhay na muling Panginoon ay mapangyayari lamang sa loob ng ating espiritu."
+        },
+        {
+            "id": "17-2",
+            "text": "Ipinakikita nito ang paghahalo ng Panginoong Espiritu sa ating espiritu. Ang ating espiritu ay naisilang na muli ng Espiritu ng Diyos (Juan 3:6) na nasa ating loob na ngayon (b. 19) at kaisa ng ating espiritu (Roma 8:16). Ito ang pagkatanto sa Panginoon na naging Espiritung nagbibigay-buhay sa pamamagitan ng pagkabuhay na muli (15:45; II Cor. 3:17), at nasa ating espiritu ngayon (II Tim. 4:22). Ang pinaghalong espiritung ito ay madalas na tinutukoy sa mga Sulat ni Pablo, katulad ng sa Roma 8:4-6."
+        },
+        {
+            "id": "18-1",
+            "text": "Lit. ang resulta ng pagkakasala (sa Gingrich’s Shorter Lexicon). Gayundin sa Mar. 3:28; Roma 3:25."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang Espiritu Santo ay nasa ating espiritu (Roma 8:16), at ang ating espiritu ay nasa loob ng ating katawan. Kaya, ang ating katawan ay nagiging isang templo, isang tirahan ng Espiritu Santo."
+        },
+        {
+            "id": "20-1",
+            "text": "Tumutukoy sa mahalagang dugo ni Kristo (Gawa 20:28; I Ped. 1:18-19; Apoc. 5:9)."
+        },
+        {
+            "id": "20-2",
+            "text": "Ito ay nangangahulugang hayaan ang Diyos na manahan sa atin (I Juan 4:13), okupahan at babaran ang ating katawan at ihayag ang Kanyang Sarili sa pamamagitan ng ating katawan bilang Kanyang templo, lalo na sa dalawang bagay na ukol sa pagkain at pag-aasawa, ayon sa pakahulugan ng nilalaman ng bahaging ito mula sa bersikulo 13 hanggang 11:1. Sa ganito, kinakailangan nating magsanay ng isang masidhi at mahigpit na pagpipigil sa ating katawan, dinadala ito sa pagsupil (9:27) at inihahandog ito sa Diyos bilang isang buháy na hain (Roma 12:1)."
         }
     ]
 }

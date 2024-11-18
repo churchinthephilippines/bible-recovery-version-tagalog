@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "magsitulad",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": []
@@ -18,27 +18,27 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "atin,",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "handog",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "hain",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "masarap",
-                    "note": ""
+                    "id": "2-5"
                 }
             ],
             "outlines": null
@@ -49,11 +49,11 @@
             "footnotes": [
                 {
                     "word": "pakikiapid",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "banal;",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -64,7 +64,7 @@
             "footnotes": [
                 {
                     "word": "pagpapasalamat.",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -75,15 +75,15 @@
             "footnotes": [
                 {
                     "word": "talastas",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -106,19 +106,19 @@
             "footnotes": [
                 {
                     "word": "kadiliman,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "liwanag;",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "magsilakad",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -129,7 +129,7 @@
             "footnotes": [
                 {
                     "word": "kabutihan",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -146,11 +146,11 @@
             "footnotes": [
                 {
                     "word": "walang-",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "ihantad;",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -173,11 +173,11 @@
             "footnotes": [
                 {
                     "word": "patay,",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Kristo.",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -188,7 +188,7 @@
             "footnotes": [
                 {
                     "word": "Mag-",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -199,11 +199,11 @@
             "footnotes": [
                 {
                     "word": "tubusin",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -214,7 +214,7 @@
             "footnotes": [
                 {
                     "word": "unawain",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -225,11 +225,11 @@
             "footnotes": [
                 {
                     "word": "mangagsipaglasing",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "mangapuspos",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -240,11 +240,11 @@
             "footnotes": [
                 {
                     "word": "mangagsalitaan",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -255,11 +255,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -270,15 +270,15 @@
             "footnotes": [
                 {
                     "word": "Magpasakop",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "isa’",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "takot",
-                    "note": ""
+                    "id": "21-3"
                 }
             ],
             "outlines": null
@@ -289,15 +289,15 @@
             "footnotes": [
                 {
                     "word": "Mga",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "pasakop",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "inyu-",
-                    "note": ""
+                    "id": "22-3"
                 }
             ],
             "outlines": [
@@ -312,11 +312,11 @@
             "footnotes": [
                 {
                     "word": "ulo",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "Tagapagligtas",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": [
@@ -329,11 +329,11 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -344,11 +344,11 @@
             "footnotes": [
                 {
                     "word": "ibigin",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "gaya",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -359,19 +359,19 @@
             "footnotes": [
                 {
                     "word": "pakabanalin",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "paghuhugas",
-                    "note": ""
+                    "id": "26-2"
                 },
                 {
                     "word": "tubig",
-                    "note": ""
+                    "id": "26-3"
                 },
                 {
                     "word": "salita,",
-                    "note": ""
+                    "id": "26-4"
                 }
             ],
             "outlines": null
@@ -382,23 +382,23 @@
             "footnotes": [
                 {
                     "word": "maiharap",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "maluwalhati,",
-                    "note": ""
+                    "id": "27-3"
                 },
                 {
                     "word": "dungis",
-                    "note": ""
+                    "id": "27-4"
                 },
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "27-5"
                 }
             ],
             "outlines": null
@@ -415,7 +415,7 @@
             "footnotes": [
                 {
                     "word": "kinakandili",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -432,7 +432,7 @@
             "footnotes": [
                 {
                     "word": "iiwan",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -443,7 +443,7 @@
             "footnotes": [
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -454,10 +454,228 @@
             "footnotes": [
                 {
                     "word": "igalang",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Kay luwalhating katunayan na yamang tayo ay Kanyang mga minamahal na anak, tayo ay maaaring magsitulad sa Diyos! Bilang mga anak ng Diyos, taglay natin ang kanyang buhay at kalikasan. Tinutularan natin Siya, hindi sa pamamagitan ng ating likas na buhay, kundi sa pamamagitan ng Kanyang dibinong buhay. Sa pamamagitan ng dibinong buhay ng ating Ama, tayo, na Kanyang mga anak, ay mapasasakdal katulad Niya (Mat. 5:48)."
+        },
+        {
+            "id": "2-1",
+            "text": "Kung papaanong ang biyaya at katotohanan ay ang mga batayang elemento sa 4:17-32, gayundin naman ang pag-ibig at liwanag (bb. 8, 9, 13) ay ang batayang elemento sa pagpapayo ng apostol sa 5:1-33. Ang biyaya ay ang kahayagan ng pag-ibig, at ang pag-ibig ay ang pinagmumulan ng biyaya. Ang katotohanan ay ang pagkakahayag ng liwanag at ang liwanag ay ang pinagmumulan ng katotohanan. Ang Diyos ay pag-ibig at liwanag (1 Juan 4:8; 1:5). Nang ang Diyos ay nahayag at nakita sa Panginoong Hesus, ang Kanyang pag-ibig ay naging biyaya, at ang Kanyang liwanag ay naging katotohanan. Pagkatapos nating matanggap ang Diyos sa loob ng Panginoon bilang biyaya at matanto Siya bilang katotohanan, dumudulog tayo sa Kanya at tinatamasa natin ang Kanyang pag-ibig at liwanag. Ang pag-ibig at liwanag ay higit na malalim kaysa biyaya at katotohanan. Kaya nga, unang kinuha ng apostol ang biyaya at katotohanan bilang ang batayang elemento ng kanyang pagpapayo, at pagkatapos ay sinundan ng pag-ibig at liwanag. Ito ay nagpapahiwatig na ninanais Niyang lumago tayo nang higit na malalim sa ating pang-araw-araw na paglakad, mula sa mga panlabas na elemento tungo sa mga panloob na elemento. Ang pag-ibig ay ang panloob na esensiya ng Diyos, samantalang ang liwanag ay ang nahayag na elemento ng Diyos. Ang panloob na pag-ibig ng Diyos ay nadarama, at ang panlabas na liwanag ng Diyos ay nakikita. Ang ating paglakad sa loob ng pag-ibig ay nararapat na mabuuan kapwa ng umiibig na substansiya at nagliliwanag na elemento ng Diyos. Ito ang nararapat na maging panloob na pinagmumulan ng ating paglakad. Ito ay higit na malalim kaysa biyaya at katotohanan."
+        },
+        {
+            "id": "2-2",
+            "text": "Sa 4:32 inilalahad ng apostol ng Diyos bilang tularan ng ating pang-araw-araw na paglakad. Dito, kanyang ipinaalam na si Kristo bilang ating tularan, yamang sa bahaging yaon ang biyaya at katotohanan ng Diyos na nahayag sa pamumuhay ni Hesus ang kinuha bilang ang batayang elemento. Subali’t dito ay si Kristo Mismo bilang ating halimbawa, yamang sa bahaging ito, ang pag-ibig ay inihayag ni Kristo sa atin kinuha bilang batayang elemento."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang ilang sinaunang awtoridad ay binabasang, inyo."
+        },
+        {
+            "id": "2-4",
+            "text": "Ang isang handog ay para sa pakikipagsalamuha sa Diyos, samantalang ang isang hain ay para sa pagtutubos mula sa kasalanan. Ibinigay ni Kristo ang Kanyang Sarili para sa atin bilang handog upang tayo ay magkaroon ng pagsasalamuha sa Diyos at bilang hain upang tayo ay matubos sa ating kasalanan."
+        },
+        {
+            "id": "2-5",
+            "text": "Sa pagmamahal ni Kristo sa atin, ibinigay Niya ang Kanyang Sarili para sa atin. Bagama’t ito ay para sa atin, ito ay isa ring masarap na samyo sa Diyos. Sa pagsunod sa Kanyang halimbawa, ang ating paglakad sa loob ng pag-ibig ay nararapat na hindi lamang isang bagay na para sa iba, bagkus ay isa ring masarap na samyo sa Diyos."
+        },
+        {
+            "id": "3-1",
+            "text": "Walang ibang bagay na makasisira sa isang tao nang higit kaysa sa pakikiapid lalung-lalo na sa pagsira ng layunin ng paglikha ng Diyos sa tao at sa buhay ekklesia ng mga banal sa loob ng Katawan ni Kristo. Ito ay ayon sa 1 Corinto 5."
+        },
+        {
+            "id": "3-2",
+            "text": "Mga taong inihiwalay tungo sa Diyos at nababaran ng Diyos, namumuhay ng isang buhay ayon sa banal na kalikasan ng Diyos."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang magpasalamat sa Diyos ay ang salitain ang Diyos bilang katotohanan, samantalang ang mangmang na pagsasalita o ang magaspang na pagbibiro ay ang salitain ang Diyablo bilang kasinungalingan."
+        },
+        {
+            "id": "5-1",
+            "text": "Talastas, Gr. oida , subhektibong kaalaman."
+        },
+        {
+            "id": "5-2",
+            "text": "Nalalaman, Gr. ginosko , obhektibong kaalaman."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang kaharian ni Kristo ay ang isang libong taong kaharian (Apoc. 20:4, 6; Mat. 16:28) at gayundin ang kaharian ng Diyos (Mat. 13:41, 43 at mga tala). Ang mga mananampalataya ay naisilang na muli at pumasok sa loob ng kaharian ng Diyos (Juan 3:5) at nasa buhay ekklesia, nabubuhay sa kaharian ng Diyos ngayon (Roma 14:17). Hindi lahat ng mananampalataya, tangi lamang ang mga mandaraig, ang makababahagi sa isang libong taong kaharian. Ang marurumi, ang mga nadaig ay walang mamanahin sa kaharian ni Kristo at ng Diyos sa darating na kaharian. Tingnan ang tala 20-2 sa Mateo 5 at 28-1 sa Hebreo 12."
+        },
+        {
+            "id": "8-1",
+            "text": "Tayo noon ay hindi lamang madilim, kundi kadiliman mismo. Ngayon, tayo ay hindi lamang mga anak ng liwanag kundi liwanag mismo (Mat. 5:14). Kung papaanong ang liwanag ay ang Diyos, gayundin naman ang kadiliman ay si Satanas. Noon tayo ay kadiliman sapagka’t tayo ay kaisa ni Satanas. Ngayon, tayo ay liwanag sapagka’t tayo ay kaisa ng Diyos sa loob ng Panginoon."
+        },
+        {
+            "id": "8-2",
+            "text": "Sa bersikulo 2, sinabihan tayo na lumakad sa loob ng pag-ibig. Dito naman ay sinabihan tayo na lumakad gaya ng anak ng liwanag."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang Diyos ay liwanag, kaya tayo na mga anak ng Diyos ay mga anak din ng liwanag."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang kabutihan ay ang kalikasan ng bunga ng liwanag; ang katuwiran ay ang daan o ang hakbangin upang maibunga ang bunga ng liwanag; at ang katotohanan ay ang realidad, ang tunay na kahayagan (Diyos Mismo), ng bunga ng liwanag. Ang bunga ng liwanag ay tiyak na mabuti sa kalikasan, matuwid sa hakbangin, at tunay sa kahayagan, upang ang Diyos ay maihayag bilang realidad ng ating pang-araw-araw na paglakad. Ang bunga ng liwanag na nasa loob ng kabutihan, katuwiran at katotohanan ay may kaugnayan sa Tres-unong Diyos. Ang kabutihan ay tumutukoy sa Diyos Ama sapagka’t iisa lang ang mabuti, yaon ay, ang Diyos (Mat. 19:17). Ang katuwiran ay tumutukoy sa Diyos Anak sapagka’t si Kristo, ayon sa hakbangin ng katuwiran ng Diyos, ang nagsakatuparan ng Kanyang layunin (Roma 5:17-18, 21). Ang katotohanan ay tumutukoy sa Diyos Espiritu sapagka’t Siya ang Espiritu ng katotohanan (Juan 14:17). Ito ay tumutukoy rin sa kahayagan ng bunga sa gitna ng liwanag."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang mga walang bungang gawa ng kadiliman ay walang kabuluhan, samantalang ang bunga ng liwanag ay katotohanan, realidad (b. 9)."
+        },
+        {
+            "id": "11-2",
+            "text": "O, pagwikaan o isiwalat."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang natutulog na nangangailangan ng paghahantad na binanggit sa mga bersikulo 11 at 13 ay ang taong patay rin. Kailangan niyang magising mula sa pagkatulog at magbangon mula sa kamatayan."
+        },
+        {
+            "id": "14-2",
+            "text": "Kapag ating inihahantad o pinagwiwikaan ang sinumang natutulog at patay sa kadiliman, si Kristo ay nagliliwanag sa kanya. Ang ating paghahantad o pagwiwika sa liwanag ay ang pagliliwanag ni Kristo."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang ikalimang aytem ng paglakad na angkop sa pagtawag ng Diyos ay ang mapuspusan ng Espiritu at mamuhay sa loob ng Espiritu (bb. 15-21). Ang apat na naunang aytem ng ganitong paglakad na angkop sa pagtawag ng Diyos ay: panatilihin ang pagkakaisa, lumago tungo sa loob ng Ulo, matuto kay Kristo, at mamuhay sa loob ng pag-ibig at liwanag. Kung taglay natin ang apat na aytem na ito, ang resulta ay tiyak na kusang pagkapuspos sa Espiritu. Mula sa ganitong pagkapuspos sa loob ay maibubunga ang pagpapasakop sa isa’t isa, pag-ibig, pagiging masunurin, pagmamalasakit sa kapwa, at wastong buhay-Kristiyano, buhay ekklesia, buhay-pamilya, maging ang lahat ng mga kagalingan sa buhay-lipunan. Anong galing ng ating pamumuhay sa panahong maihayag ang limang aytem sa paglakad na umaangkop sa pagtawag ng Diyos!"
+        },
+        {
+            "id": "16-1",
+            "text": "Gr. exagorazo , Lit. tubusin, iligtas mula sa pagkalugi. Yaon ay, sinusunggaban ang bawa’t makabubuting pagkakataon. Ito ay ang maging marunong sa ating paglakad (b. 15)."
+        },
+        {
+            "id": "16-2",
+            "text": "Sa ganitong masamang kapanahunan (Gal. 1:4), bawa’t araw ay isang masamang araw, puno ng mga nakapipinsalang bagay na nagwawasak, nananakit, at sumasayang ng ating oras. Kaya, tayo ay nararapat lumakad ng may karunungan upang matubos natin ang panahon, sinasamantala ang bawa’t pagkakataon."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang maunawaan ang kalooban ng Panginoon ay ang pinakamahusay na paraan upang matubos ang ating panahon (b. 16). Halos lahat ng ating panahon ay nasasayang sa pamamagitan ng hindi pagkaalam sa kalooban ng Panginoon."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang mangagsipaglasing sa alak ay ang mapunuan sa katawan, samantalang ang mapuspusan sa espiritu (ang ating naisilang na muling espiritu, hindi ang Espiritu ng Diyos) ay ang mapuspusan ni Kristo (1:23), tungo sa kapuspusan ng Diyos (3:19). Ang malasing sa alak sa katawan ay nagsasanhi sa ating maging magulo, subali’t ang mapuspusan ng Kristo, ang kapuspusan ng Diyos, ay nagsasanhi sa ating mag-umapaw ng Kristo sa Kanya sa pagsasalita, pag-awit, pagsasalmo, at pagpapasalamat sa Diyos (b. 19-20) at ipasakop ang ating mga sarili sa isa’t isa (b. 21)."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang mga bersikulo 19-21 ay tumutukoy sa “mapuspusan sa espiritu” sa bersikulo 18. Ang mga salmo, mga himno, at mga espirituwal na awitin ay hindi lamang para sa pag-awit at pagsasalmo, bagkus para rin sa pagsasalitaan sa isa’t isa. Ang gayong pagsasalitaan sa isa’t isa, pag-awit, pagsasalmo, pagpapasalamat sa Diyos (b. 20), at pagpapasakop sa ating mga sarili sa isa’t isa (b. 21), ay hindi lamang ang pag-apaw ng pagiging napuspusan sa espiritu, kundi ang daan din upang mapuspusan sa espiritu."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang mga salmo ay mahahabang tula, ang mga himno ay higit na maiikli, at ang mga espirituwal na awitin ang pinakamaikli. Lahat ng ito ay kinakailangan upang tayo ay mapuspusan ng Panginoon at mag-umapaw sa Kanya sa ating buhay Kristiyano."
+        },
+        {
+            "id": "20-1",
+            "text": "Tayo ay nararapat magpasalamat sa Diyos Ama, hindi lamang sa mabubuting panahon, kundi sa lahat ng panahon, at hindi lamang para sa mabubuting bagay, kundi sa lahat ng bagay. Maging sa masasamang panahon, dapat tayong magpasalamat para sa mga hindi maiinam na bagay sa Diyos na ating Ama."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang realidad ng pangalan ng Panginoon ay ang Kanyang Persona. Ang mapasa Kanyang pangalan ay ang mapasa Kanyang Persona na Siya Mismo. Ito ay nagpapahiwatig na tayo ay nararapat maging kaisa ng Panginoon sa pagpapasalamat sa Diyos."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang pagpapasakop sa isa’t isa ay ang paraan din upang mapuspusan ng Panginoon sa espiritu (b.18) at ang pag-apaw ng pagiging napuspusan. Ito ay ang mapuspusan sa loob ng espiritu ng lahat ng kayamanan ni Kristo upang maging pamumuhay at kapuspusan ng Diyos."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang ating pagpapasakop ay nararapat na sa isa’t isa, hindi lamang ang mga nakababata sa mga nakatatanda, bagkus maging ang nakatatanda sa mga nakababata (1 Ped. 5:5)."
+        },
+        {
+            "id": "21-3",
+            "text": "Ayon sa ibig sabihin ng nilalaman ng mga sumusunod na bersikulo, ang matakot kay Kristo ay ang matakot na mapagalit Siya bilang ulo. Ito ay may kaugnayan sa Kanyang pagka-Ulo (b. 23) at kinapapalooban ng ating pagpapasakop sa isa’t isa. Tingnan ang tala 33-1 ."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang relasyon ng mag-asawa ay nakaugnay sa pagiging napuspusan sa loob ng espiritu. Tangi lamang ang mag-asawang napuspusan sa espiritu ang magkakaroon ng wastong buhay may asawa. Sa gayon, ang ganitong relasyon ay makapagsasagisag sa relasyon ng ekklesia kay Kristo."
+        },
+        {
+            "id": "22-2",
+            "text": "Ito ay isang uri ng pagpapasakop na ipinahiwatig sa bersikulo 21. Sa pagpapayo hinggil sa buhay may asawa, unang tinutuos ng apostol ang mga asawang babae, yamang ang mga asawang babae, katulad ni Eva sa Genesis 3, ay higit na madaling malihis kaysa sa mga asawang lalake. Sinasabi sa 1 Ped. 3:7 na ang asawang babae ay mahinang sisidlan. Sa panghihikayat na ginagawa ni Pablo hinggil sa mag-asawa, mga anak at mga magulang, mga alipin at mga panginoon, pawang inuuna niya ang panig ng mahina, at pagkatapos ay ang panig ng malakas."
+        },
+        {
+            "id": "22-3",
+            "text": "Pinahahalagahan at iginagalang ng karamihan sa mga asawang babae ang mga asawang lalake ng iba; kaya nga, hinihikayat ng apostol ang mga asawang babae na magpasakop sa kani-kanilang sariling asawa. Nagsalita rin si Pablo sa mga asawang lalake sa gayon ding prinsipyo. Hinihikayat niya sila na ibigin ang kani-kanilang sariling asawang babae (bb. 28, 33). Kung ninanais nating mamuhay ayon sa katotohanan sa pamamagitan ng biyaya at sa loob ng pag-ibig at liwanag, hindi natin maaring ihambing ang ating mga asawa sa mga asawa ng iba."
+        },
+        {
+            "id": "23-1",
+            "text": "Bilang ulo ng asawang babae, isinasagisag ng isang asawang lalake si Kristo bilang Ulo ng ekklesia."
+        },
+        {
+            "id": "23-2",
+            "text": "Bilang karagdagan sa Tagapagligtas ng Katawan, si Kristo ay ulo rin ng ekklesia. Ang Tagapagligtas ay isang bagay ng pag-ibig, samantalang ang Ulo ay isang bagay ng awtoridad. Iniibig natin Siya Tagapagligtas, subali’t tayo ay nararapat din magpasakop sa Kanya bilang ating Ulo."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang kaisipan dito ay ito: bagama’t ang mga asawang lalake ay hindi ang tagapagligtas ng kanilang mga asawang babae katulad ni Kristo sa ekklesia, ang mga asawang babae ay kinakailangan pa ring magpasakop sa kani-kanilang asawang lalake katulad ng pagpapasakop ng ekklesia kay Kristo."
+        },
+        {
+            "id": "24-2",
+            "text": "Ayon sa dibinong pagtatalaga, ang pagpapasakop ng mga asawang babae sa kanilang asawang mga lalake ay nararapat na sa sukdulan, walang anumang pamimili. Ito ay hindi nangangahulugang dapat nilang sundin ang kanilang mga asawang lalake sa lahat ng bagay. Ang sumunod ay naiiba sa pagpapasakop. Sa mga makasalanang bagay, mga bagay na laban sa Diyos at sa Panginoon, hindi dapat sundin ng mga asawang babae ang kanilang mga asawang lalake. Gayunpaman, sila ay nararapat pa ring magpasakop sa kanilang mga asawang lalake, katulad ng tatlong kaibigan ni Daniel na hindi sumunod sa utos ng hari ng Babilonia na sumamba sa imahen nguni’t nagpasakop sa awtoridad ng hari ng Babilonia (Dan. 3:13-23)."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang kabaligtaran ng magpa-sakop ay ang pagkontrol; gayunpaman hindi hinihikayat ng apostol ang mga asawang lalake na kontrolin ang mga asawang babae, kundi ang mahalin sila. Sa buhay may asawa, ang obligasyon ng asawang babae ay ang magpasakop, at ang obligasyon naman ng asawang lalake ay ang umibig. Ang pagpapasakop ng asawang babae dagdag pa ang pag-ibig ng asawang lalake, ang bumubuo sa wastong buhay may asawa at sumasagisag sa normal na buhay- ekklesia, kung saan ang ekklesia ay nagpapasakop kay Kristo at si Kristo ay umiibig sa ekklesia. Ang pag-ibig ay ang elemento ng Diyos. Ito ang panloob na esensiya ng Diyos (I Juan 4:8-16). Ang layunin ng aklat na ito ay ang dalhin tayo papasok sa panloob na esensiya ng Diyos, tamasahin ang Diyos ng pag-ibig, tamasahin ang presensiya ng Diyos sa loob ng matamis na pag-ibig ng Diyos, at ibigin ang mga tao katulad ng pag-ibig ni Kristo sa mga tao."
+        },
+        {
+            "id": "25-2",
+            "text": "Ang pag-ibig ng asawang lalake sa asawang babae ay nararapat maging gaya ng pag-ibig ni Kristo sa ekklesia, na minatamis ang magbayad ng isang halaga, maging ang mamatay, nang dahil sa asawang babae."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang layunin ni Kristo sa pagbibigay ng Kanyang Sarili para sa ekklesia ay ang pakabanalin ang ekklesia, hindi lamang inihihiwalay ang ekklesia tungo sa Kanyang Sarili mula sa anumang bagay na karaniwan, bagkus pinupuspusan din ang ekklesia ng Kanyang Sarili Mismo upang ang ekklesia ay maging Kanyang kapareha. Ito ay isinasagawa sa pamamagitan ng paglilinis sa ekklesia ng paghuhugas ng tubig na nasa Salita."
+        },
+        {
+            "id": "26-2",
+            "text": "Lit. hugasan (ang kagamitan para sa paghuhugas). Sa Lumang Tipan, hinugasan ang mga saserdote sa hugasan mula sa mga panlupang karumihan (Exo. 30:18-21). Ngayon ang hugasang ito na siyang “paghuhugas ng tubig” ay naghuhugas sa atin mula sa karumihan."
+        },
+        {
+            "id": "26-3",
+            "text": "Ayon sa dibinong kaisipan, ang tubig dito ay tumutukoy sa umaagos na buhay ng Diyos na sinasagisag ng umaagos na tubig (Exo. 17:6; I Cor. 10:4; Juan 7:38-39; Apoc. 21:6; 22:1, 17). Ang paghuhugas ng gayong tubig ay naiiba sa paghuhugas ng nagtutubos na dugo ni Kristo. Inaalis ng nagtutubos na dugo ang ating mga kasalanan (I Juan 1:7; Apoc. 7:14), samantalang inaalis ng tubig ng buhay ang mga kapintasan ng likas na buhay ng ating lumang tao, katulad ng “dungis o kulubot o anumang gayong mga bagay” (b. 27). Sa pagpapabanal sa ekklesia, una munang inaalis ng Panginoon ang ating mga kasalanan sa pamamagitan ng Kanyang dugo (Heb. 13:12) at pagkatapos ay inaalis ang ating mga likas na kapintasan sa pamamagitan ng Kanyang buhay. Tayo ngayon ay nasa gayong hakbangin ng paghuhugas upang ang ekklesia ay maging `banal at walang kapintasan” (b. 27)."
+        },
+        {
+            "id": "26-4",
+            "text": "Gr. rhema , kagyat na salita. Ang nananahanang Kristo ay ang Espiritung nagbibigay-buhay na laging nagsasalita ng kagyat, pangkasalukuyan, at buhay na salita. Sa ganito ay inaalis ang kalumaan sa metabolikong paraan at pinababago nang sa gayon ay maibunga ang panloob na transpormasyon. Ang paglilinis na napangyayari sa paghuhugas ng tubig ng buhay ay nasa loob ng salita ni Kristo. Tinutukoy nito na sa loob ng salita ni Kristo ay may tubig ng buhay na siyang sinasagisag ng hugasan na nasa pagitan ng dambana at ng tabernakulo (Exo. 38:8; 40:7)."
+        },
+        {
+            "id": "27-1",
+            "text": "Sa nakaraan, si Kristo ang Manunubos na nagbigay ng Kanyang Sarili para sa ekklesia (b. 25) upang magtubos at mamahagi ng buhay (Juan 19:34); sa pangkasalukuyan, Siya ang Espiritung nagbibigay-buhay na nagpapabanal sa ekklesia sa pamamagitan ng pagpapabanal, pagbababad, pagtatransporma, pagpapalago at pagtatayo; at sa hinaharap Siya ang Kasintahang Lalake na maghaharap sa ekklesia sa Kanyang Sarili bilang Kanyang kapareha para sa Kanyang kasiyahan. Kaya, ang pag-ibig ni Kristo sa ekklesia ay upang ihiwalay ang ekklesia mula sa lahat ng bagay na karaniwan at pakabanalin ang ekklesia. Ang Kanyang paghihiwalay sa ekklesia mula sa lahat ng bagay na karaniwan at ang Kanyang pagpapabanal sa ekklesia ay may layuning iharap ang ekklesia sa Kanyang Sarili."
+        },
+        {
+            "id": "27-2",
+            "text": "Sa bahaging ito ng panghihikayat, ipinakikita ng apostol ang isa pang aspekto ng ekklesia, yaong pagiging kasintahang babae. Ang aspektong ito ay nagpapakita na ang ekklesia ay nagmumula kay Kristo, katulad ni Eva na nagmula kay Adam (Gen. 2:21-22), taglay ang parehong buhay at kalikasan katulad ng kay Kristo, at nagiging kaisa Niya, katulad ni Eva na naging kaisang laman ni Adam (Gen. 2:24), bilang Kanyang kapareha. Ang ekklesia bilang ang bagong tao ay isang bagay ng biyaya at realidad, samantalang ang ekklesia bilang ang kasintahang babae ni Kristo ay isang bagay ng pag-ibig at liwanag. Ang panghihikayat ng apostol sa kapitulo 4 ay nakatuon sa bagong tao kasama ang biyaya at realidad bilang mga batayang elemento nito, subali’t ang kanyang panghihikayat sa kapitulo 5 ay nakatuon sa kasintahang babae ni Kristo kasama ang pag-ibig at liwanag bilang mga batayang esensiya nito. Sa biyaya at realidad dapat tayong mamuhay katulad ng bagong tao, at sa pag-ibig at liwanag nararapat tayong kumilos bilang kasintahang babae ni Kristo."
+        },
+        {
+            "id": "27-3",
+            "text": "Ang kaluwalhatian ay ang Diyos na nahayag. Kaya nga, ang maging maluwalhati ay ang maging kahayagan ng Diyos. Sa katapus-tapusan, ang ekklesia na iniharap kay Kristo ay magiging isang ekklesia na naghahayag ng Diyos."
+        },
+        {
+            "id": "27-4",
+            "text": "Ang dungis dito ay nauukol sa likas na buhay, at ang kulubot ay isang bagay ng katandaan. Tangi lamang ang tubig ng buhay ang metabolikong makaaalis ng mga gayong depekto sa pamamagitan ng pagtatransporma ng buhay."
+        },
+        {
+            "id": "27-5",
+            "text": "Ang maging banal ay ang mababaran at matransporma ng Kristo, at ang maging walang kapintasan ay ang maging walang dungis at walang kulubot, walang bagay na ukol sa likas na buhay ng ating lumang tao."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang magkandili ay ang magpakain sa atin ng buhay sa salita ng Panginoon. Ang magmahal ay ang kumalinga nang may magiliw na pag-ibig at magpalaki nang may magiliw na pag-aaruga. Ito ang paraan ng pangangalaga ni Kristo sa Kanyang ekklesia bilang Kanyang Katawan."
+        },
+        {
+            "id": "31-1",
+            "text": "Ito ay itinalaga ng Diyos ayon sa Kanyang ekonomiya (Gen. 2:24; Mat. 19:5)."
+        },
+        {
+            "id": "32-1",
+            "text": "Si Kristo at ang ekklesia na magkaisang espiritu (I Cor. 6:17), na sinasagisag ng mag-asawa na naging isang laman, ay ang dakilang hiwaga."
+        },
+        {
+            "id": "33-1",
+            "text": "*Gr. phobeomai *. Lit. matakot. Dahilan sa nararapat igalang ng asawang babae ang kanyang asawang lalake bilang ulo, na siyang sumasagisag kay Kristo bilang Ulo ng ekklesia, siya ay nararapat matakot sa kanyang asawang lalake sa loob ng pagkatakot kay Kristo (b. 21)."
         }
     ]
 }

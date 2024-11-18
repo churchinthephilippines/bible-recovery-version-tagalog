@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "nabuksan",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "tinig",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -31,15 +31,15 @@
             "footnotes": [
                 {
                     "word": "ay",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "espiritu;",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "tronong",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -50,19 +50,19 @@
             "footnotes": [
                 {
                     "word": "jaspe",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "sardio,",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "bahaghari",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "esmeralda.",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": null
@@ -73,19 +73,19 @@
             "footnotes": [
                 {
                     "word": "dalawampu’t",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "dalawampu’",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "matanda,",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "puting",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -96,11 +96,11 @@
             "footnotes": [
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -111,15 +111,15 @@
             "footnotes": [
                 {
                     "word": "malasalaming",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "apat",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "punô",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -130,7 +130,7 @@
             "footnotes": [
                 {
                     "word": "katulad",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -141,11 +141,11 @@
             "footnotes": [
                 {
                     "word": "Banal,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "nakaraan,",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -156,7 +156,7 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -167,7 +167,7 @@
             "footnotes": [
                 {
                     "word": "maglalagay",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -178,14 +178,112 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "kalooban",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang plano ng Diyos ay natatago sa langit. Kapag ang Diyos ay nakasusumpong ng isang tao sa lupa na katugon ng Kanyang puso, ang langit ay bukas sa kanya. Ito ay bukas kay Jacob (Gen. 28:12-17), kay Ezekiel (Ezek. 1:1), kay Hesus (Mat. 3:16), kay Esteban (Gawa 7:56), at kay Pedro (Gawa 10:11).Dito at sa 19:11 ito ay nabuksan kay Juan, ang sumulat ng aklat na ito, at sa kawalang-hanggan, ito ay bubuksan sa lahat ng mananampalatayang nasa loob ni Kristo (Juan 1:51)."
+        },
+        {
+            "id": "1-2",
+            "text": "Tumutukoy sa tinig na narinig sa 1:10."
+        },
+        {
+            "id": "2-1",
+            "text": "Lit. ay naging nasa espiritu."
+        },
+        {
+            "id": "2-2",
+            "text": "Tingnan ang tala 10-2 sa kapitulo 1."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang “trono” ng Diyos sa aklat na ito ay ang sentro ng administrasyon ng Diyos. Ang trono sa mga Sulat ay ang trono ng biyaya; mula sa tronong ito tayo ay nakatatanggap ng awa at nakasusumpong ng biyaya (Heb. 4:16). Ang trono sa aklat na ito ay ang trono ng paghahatol. Mula sa tronong ito ay tatanggap ng paghahatol ang sanlibutan. Sa katapus-tapusan, pagkaraan na maigawad ang lahat ng paghahatol ng Diyos, ang tronong ito ng Diyos ay magiging ang trono ng walang hanggang panustos ng buhay. Mula sa tronong ito ay aagos ang buháy na tubig ng buhay kasama ang puno ng buhay na tumutubo rito bilang panustos ng tinubos na bayan ng Diyos sa kawalang-hanggan."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang “jaspe,” ayon sa 21:11 ay “isang napakahalagang bato…malinaw na gaya ng kristal.” Ang kulay nito ay matingkad na berde, sumasagisag sa buhay sa loob ng kasaganaan nito. Ang jaspe rito, gaya ng tinutukoy ng 21:11, ay sumasagisag sa natatalastas na kaluwalhatian ng Diyos sa Kanyang mayamang buhay (Juan 17:22,2). Ito ang anyo ng Diyos, na siya ring magiging anyo ng banal na lunsod, ang Bagong Herusalem (21:11). Ang pader at ang unang pundasyon ng lunsod ay yari sa jaspe (21:18-19)."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang “sardio” ay isa ring napakahalagang bato na ang kulay ay pula, sumasagisag sa katubusan. Ang jaspe ay tumutukoy sa Diyos bilang ang Diyos ng kaluwalhatian sa Kanyang mayamang buhay; ang sardio naman ay sumasagisag sa Diyos bilang ang Diyos ng katubusan. Ang unang bato sa pektoral ng mataas na saserdote sa Lumang Tipan ay sardio at ang huli ay jaspe (Exo. 28: 17,20). Sinasagisag nito na ang mga taong tinubos ng Diyos ay nagsimula sa katubusan ng Diyos at magtatapos sa kaluwalhatian ng buhay ng Diyos."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang “bahaghari” ay isang tanda ng kasunduan ng Diyos sa tao at sa mga nilalang na buháy na sila ay hindi na Niya muling pupuksain sa pamamagitan ng baha (Gen. 9:8-17). Sa aklat na ito, hahatulan ng Diyos ang lupa kasama ang lahat ng mga naninirahan dito. Ang bahaghari sa palibot ng Kanyang trono ay sumasagisag na ang Diyos ay ang nakikipagtipang Diyos, ang tapat na Diyos, na tutupad ng Kanyang kasunduan habang ipinapataw ang Kanyang paghahatol sa lupa, sapagka’t hindi na Niya muling hahatulan ang sangkatauhan ng baha, ni lilipulin ang buong sangkatauhan, kundi iingatan ang ilan upang maging mga bansa sa bagong lupa para sa Kanyang kaluwalhatian (21:24,26)."
+        },
+        {
+            "id": "3-4",
+            "text": "Ang bahaghari sa palibot ng trono ng Diyos ay nasa anyong katulad ng “isang esmeralda.” Ang esmeralda ay isang mahalagang bato na kakulay ng luntiang damo, na sumasagisag sa mga buhay na nasa lupa. Ito ay nagpapakita na habang ipinapataw ng Diyos ang Kanyang kahatulan sa lupa ay maaalala pa rin Niya ang Kanyang kasunduan at magtitira ng ilang mga may buhay sa lupa, katulad ng tinukoy sa Gen. 9: 11."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang dalawampu’t apat ay dalawang ulit na labindalawa. Ang labindalawa ay tumutukoy sa kakumpletuhan ng administrasyon ng Diyos (Mat. 19:28). Ang mga saserdote at mga Levita ay hinati ni David sa dalawampu’t apat na pangkat, upang gawin ang mga katungkulan sa administrasyon ng Diyos. Kaya, bago mahalinhan ng ekklesia ang dalawampu’t apat na matanda ng mga anghel *(tingnan muna ang tala 4-2 )*, sila, ang dalawampu’t apat na matanda ay magsasagawa muna ng administrasyon ng Diyos. Ang dalawang ulit ng labindalawa ay nagpapakita ng dobleng kalakasan, ipinakikita na ang dibinong administrasyon na isinagawa ng dalawampu’t apat na matanda ay malakas."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang “mga matanda” rito ay hindi yaong mga matanda ng ekklesia, kundi ang mga matanda ng mga anghel, sapagka’t dito, bago pa ang ikalawang pagdating ng Panginoon ay nangakaupo na sila sa “mga trono” (ihambing ang Mat. 19:28; Apoc.20:4). Sa mga nilalang ng Diyos, ang pinakasinauna ay ang mga anghel. Ang mga matanda ng mga anghel ay ang mga matanda ng buong kinapal ng Diyos. Ang kanilang pagkakaupo “sa mga trono” na may “mga putong na ginto sa kanilang mga ulo” ay nagpapakita na sila ang mga pinuno ng sansinukob hanggang sa isang libong taong kaharian, kung kailan ay ibibigay sa mga mandaraig na banal ang awtoridad upang pamunuan ang lupa (Heb. 2:5-9; Apoc. 2:26-27; 20:4). Na sila ay “nadaramtan ng mga puting damit” at “ang bawa’t isa ay may alpa, at mga mangkok na ginto na punó ng insenso” (5:8) ay tumutukoy na ngayon sila rin ay mga saserdote sa harapan ng Diyos; samantalang, sa isang libong taong kaharian, ang mga maghaharing mandaraig ang magiging mga saserdote ng Diyos at ni Kristo (20:6). Ang kanilang mga gintong putong ay nagpapakita na sila ay mga tagapamuno. Kaya, sila ang mga saserdote na naglilingkod sa Diyos, at mga hari rin na nangangasiwa sa mga nilikha ng Diyos."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang “mga puting damit” dito ay tumutukoy na ang mga matanda ng mga anghel na ito ay walang kasalanan, hindi nangangailangan ng paghuhugas ng dugo ng Kordero na kinailangan ng mga tinubos na banal (7:14)."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “pitong ilawan” dito ay tumutukoy sa pitong ilawan ng patungan-ng- ilawan sa Exo. 25:37 at sa pitong ilawan ng patungan-ng-ilawan sa Zac. 4:2. Ang “pitong ilawang apoy” na siyang “pitong Espiritu ng Diyos” ay sumasagisag sa pagbibigay-liwanag at pananaliksik ng makapitong pinatinding Espiritu ng Diyos.Sa Exodo 25 at Zacarias 4, ang pitong ilawan, na sumasagisag sa pagbibigay-liwanag ng Espiritu ng Diyos sa pagkilos ng Diyos, ay para sa pagtatayo ng Diyos, maging ito man ay para sa pagtatayo ng tabernakulo o sa muling- pagtatayo ng templo. Dito ang pitong ilawan ay para sa paghahatol ng Diyos, na hahantong din sa pagtatayo ng Diyos – ang pagtatayo ng Bagong Herusalem."
+        },
+        {
+            "id": "5-2",
+            "text": "Tingnan ang tala 4-5 sa kapitulo 1."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “malasalaming dagat” na ito ay walang tubig nguni’t may apoy (15:2). Pagkaraan ng dilubyo, ang Diyos, alinsunod sa Kanyang pangako na hindi na Niya muling hahatulan ang lupa at ang mga buháy na nilalang sa pamamagitan ng tubig (Gen. 9:15), ay palaging nagpapataw ng Kanyang kahatulan sa tao sa pamamagitan ng apoy (Gen.19:24;Lev. 10:2; Blg. 11:1; 16:35; Dan.7:11; Apoc. 14:10; 18:8; 19:20; 20:9-10; 21:8). Ang trono ng paghahatol ng Diyos ay katulad ng naglalagablab na apoy kung saan nagmumula ang isang agos ng apoy (Dan. 7:9-10). Ang lahat ng negatibong bagay sa buong sansinukob ay winawalis ng lagablab ng naghahatol na apoy ng Diyos patungo sa loob ng malasalaming dagat na ito, na sa katapus-tapusan ay magiging ang dagatdagatang apoy (20:14). Ang “malasalaming dagat,” bilang kalahatan ng lahat ng maapoy na paghahatol ng Diyos, ay “gaya ng kristal,” sumasagisag na ang bawa’t negatibong bagay na nasa ilalim ng paghahatol ng Diyos ay kasinlinaw ng kristal. Dito, nakikita natin ang bahaghari sa palibot ng trono ng Diyos, sumasagisag na tutuparin ng Diyos ang Kanyang pangako sa Gen. 9:8-17. Dito ay mayroon din tayong kaliliyab pa lamang na malasalaming dagat, nagpapakita na hahatulan pa rin ng Diyos ang lahat ng mga negatibong bagay sa pamamagitan ng apoy."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang dalawampu’t apat na matandang nasa palibot ng trono ng Diyos ay kumakatawan sa lahat ng mga anghel, samantalang ang “apat na nilalang na buháy” ay kumakatawan sa lahat ng iba pang mga nilalang na buháy. Ang una, katulad ng isang leon, ay kumakatawan sa mga halimaw (mababangis na hayop); ang ikalawa, katulad ng isang guya, ay kumakatawan sa mga baka (maaamong hayop); ang ikatlo, katulad ng isang tao, ay kumakatawan sa sangkatauhan; at ang ikaapat, katulad ng isang agila, ay kumakatawan sa mga hayop na lumilipad (b. 7). Sa anim na kategoriya ng mga bagay na nilalang na buháy ng Diyos (Gen.1:20-28), dalawa ang hindi ikinatawan dito – ang mga nilalang na nagsisiusad sa lupa at ang mga buháy na nilalang sa tubig. Ang pinuno ng mga nagsisiusad na nilalang ay ang ahas, isang sagisag ng kaaway ng Diyos na si Satanas, na pagkatapos maihagis sa dagat-dagatang apoy ay hindi na magkakaroon ng puwang sa bagong langit at sa bagong lupa; at ang mga buháy na nilalang sa tubig ay nasa tubig na hinatulan ng Diyos; sa bagong langit at bagong lupa, wala na rin ang tubig na ito (21:1). Kaya, hindi ikinatawan ang dalawang kategoriyang ito sa harapan ng Diyos magpakailanman."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang “mga mata” ay para makatanggap ang mga buháy na nilalang ng liwanag at pangitain. Ang apat na nilalang na buháy ay “punô ng mga mata,” hindi lamang “sa harapan at sa likuran,” bagkus maging sa “palibot at sa loob,” tumutukoy na sila ay lubusang hindi malabo, kundi kasinlinaw ng kristal sa bawa’t aspekto. Sa presensiya ng Diyos, tayo, ang mga tinubos na tao, ay nararapat maging ganito."
+        },
+        {
+            "id": "7-1",
+            "text": "Sa panlabas na anyo, ang apat na nilalang na buháy ay nakakatulad ng kerubin sa Ezek. 1:5-10 at sa 10:14-15. Ayon sa kanilang anim na pakpak (b.8), sila ay katulad ng serapin sa Isa. 6:2. (Ang kerubin sa Exo. 25: 20 at sa 1 Hari 6:27 ay may dalawang pakpak, at ang kerubin sa Ezek. 1:6 ay may apat na pakpak.) Ang apat na nilalang na buháy ay tiyak na isang kumbinasyon ng kerubin at ng serapin. Bilang serapin sila ay para sa kabanalan ng Diyos (Isa. 6:3), tumutukoy sa kalikasan ng Diyos, at bilang kerubin sila ay para sa kaluwalhatian ng Diyos (Ezek. 10:18-19; Heb. 9:5), tumutukoy sa kahayagan ng Diyos. Kaya nga, ang apat na nilalang na buháy ay kumakatawan sa kalikasan at kahayagan ng Diyos."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang pagbanggit ng “banal” nang tatlong ulit, katulad sa Isa. 6:3, ay nagpapahiwatig na ang Diyos ay tres-uno."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang pagbanggit sa pag-iral ng Diyos na may tatlong panahunan ay nagpapahiwatig din ng pagiging tres-uno ng Diyos. Tingnan ang tala 43 sa kapitulo 1."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang mga papuri ng apat na nilalang na buháy sa bersikulong ito at gayundin ng dalawampu’t apat na matanda sa b. 11 ay binubuo ng tatlong bagay, nagpapahiwatig na sila ay nagpupuri sa Tres-unong Diyos. Ang naunang dalawang bagay, “kaluwalhatian at karangalan,” ay magkatulad; subali’t ang panghuli ay naiiba; ang panghuli sa mga papuri ng apat na nilalang na buháy ay “pasasalamat,” sapagka’t sila ay mga tinubos at nangagpapasalamat dahil sa pagtutubos ng biyaya ng Diyos; samantalang, ang panghuli sa mga papuri ng dalawampu’t apat na matanda ay “kapangyarihan,” sapagka’t, bilang ang mga pinuno ng sansinukob at hindi mga tinubos na nilalang, kanilang pinahahalagahan ang kapangyarihan ng Diyos na sa pamamagitan nito ay namumuno sila."
+        },
+        {
+            "id": "10-1",
+            "text": "Ayon sa nilalaman ng teksto sa unahan ng bersikulong ito, ang bahaging ito ng dibinong salita ay nagpapahiwatig na kapag ang mga tinubos na banal, na siyang sinasagisag ng tinubos na tao sa apat na nilalang na buháy, ay lubusang napasakdal at naluwalhati upang maging mga opisyal na saserdote at mga hari (20:6), ang dalawampu’t apat na matanda ng mga anghel na pansamantalang mga saserdote at mga hari ay magbibitiw naman sa kanilang mga katungkulan, gaya ng ipinahiwatig ng paglalagay nila ng kanilang mga putong sa harapan ng trono."
+        },
+        {
+            "id": "11-1",
+            "text": "Tingnan ang tala 9-1 ."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang Diyos ay isang Diyos ng layunin, nagtataglay ng isang “kalooban” na Kanyang kinalulugdan. Nilikha Niya ang lahat ng mga bagay para sa Kanyang kalooban upang Kanyang maisagawa at maisakatuparan ang layuning ito. Sa paglalahad ng pansansinukob na administrasyon ng Diyos, ipinakikita ng aklat na ito ang layunin ng Diyos. Kaya nga, sa papuri ng dalawampu’t apat na matanda sa Diyos hinggil sa Kanyang paglikha, ang Kanyang paglikha ay iniugnay sa Kanyang kalooban."
         }
     ]
 }

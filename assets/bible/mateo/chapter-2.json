@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Betlehem",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -28,11 +28,11 @@
             "footnotes": [
                 {
                     "word": "Hari",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "bituin",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -49,7 +49,7 @@
             "footnotes": [
                 {
                     "word": "saserdote",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -66,7 +66,7 @@
             "footnotes": [
                 {
                     "word": "gobernador",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -94,7 +94,7 @@
             "footnotes": [
                 {
                     "word": "tala",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -111,15 +111,15 @@
             "footnotes": [
                 {
                     "word": "bahay,",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "nagsisamba",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -130,7 +130,7 @@
             "footnotes": [
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -158,11 +158,11 @@
             "footnotes": [
                 {
                     "word": "matupad",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "Anak.",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -173,7 +173,7 @@
             "footnotes": [
                 {
                     "word": "ipinapatay",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": [
@@ -195,7 +195,7 @@
             "footnotes": [
                 {
                     "word": "Raquel",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -217,7 +217,7 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -234,7 +234,7 @@
             "footnotes": [
                 {
                     "word": "Galilea,",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -245,18 +245,100 @@
             "footnotes": [
                 {
                     "word": "Nazaret,",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "propeta",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "Nazareno.",
-                    "note": ""
+                    "id": "23-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “Betlehem” ay nangangahulugang bahay ng tinapay."
+        },
+        {
+            "id": "1-2",
+            "text": "Yaon ay, mga lalakeng marurunong; sa pagkakataong ito, malamang na mga astrologo."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang talâ ni Lucas hinggil sa kabataan ni Hesus ay nagpapatunay na Siya ay isang wastong tao (Luc. 2:15-52); samantalang ang talâ ni Mateo, na tunay na naiiba kay Lucas, ay nagpapatotoo na si Kristo ang wastong Hari, ang Kristo na napropesiya sa mga Kasulatan."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang mga Hudyo ay may mga Kasulatang tumatalakay kay Kristo, samantalang nakita ng mga magong nagmula sa silangan ang “tala” ni Kristo (Blg. 24:17). Ang mga Hudyo ay may kaalaman lamang sa mga patay na titik hinggil kay Kristo, samantalang ang mga mago ay tumanggap ng isang buháy na pangitain hinggil sa Kanya. Pagkatapos matanggap ang buháy na pangitain, ang mga mago ay iniligaw ng kanilang pantaong kaisipan upang pumunta sa Herusalem, ang kapital ng bansang Hudyo, ang inakalang kinaroroonan ng hari nito. Ang pagkaligaw na ito ang naging sanhi ng pagkitil ng buhay ng maraming bata (b. 16). Nang sila ay iwinasto ng Kasulatan (bb. 4-6), sila ay nagtungo sa Betlehem (bb. 8-9), at ang tala ay nagpakitang muli sa kanila at ginabayan sila sa lugar na kinaroroonan ni Kristo (bb. 9-10)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang mga “saserdote” ay yaong mga nagtuturo ng kautusan sa mga tao (Mal. 2:7), ang mga “eskriba” ay yaong mga nakaaalam ng mga Kasulatan (Ezra 7:6). Kapwa ang mga saserdote at mga eskriba ay may kaalaman hinggil sa kapanganakan ni Kristo (bb. 5-6), subalit hindi nila nakita ang pangitain, ni nagkaroon ng pusong hanapin ang Kristo katulad ng ginawa ng mga mago buhat sa silangan."
+        },
+        {
+            "id": "6-1",
+            "text": "Nagpapahiwatig sa mga lunsod."
+        },
+        {
+            "id": "9-1",
+            "text": "Nang ang mga mago ay iwinasto ng Kasulatan at pinanumbalik sa wastong landas, ang “tala” ay nagpakitang muli sa kanila. Ang buháy na pangitain ay laging sumasang-ayon sa mga Kasulatan."
+        },
+        {
+            "id": "11-1",
+            "text": "Nang matagpuan ng mga pastol ang Sanggol na si Hesus, Siya ay nasa sabsaban pa rin (Luc. 2:16); pagkatapos nito, nakita ng mga mago ang Bata, nang panahong yaong Siya ay nasa bahay na."
+        },
+        {
+            "id": "11-2",
+            "text": "“Nagsisamba sa Kanya” katulad ng kanilang pagsamba sa Diyos (4:10)."
+        },
+        {
+            "id": "11-3",
+            "text": "Ang “mga kaloob” na inihandog kay Kristo ng mga mago ay “ginto, kamangyan, at mira.” Sa simbolo, ang ginto ay sumasagisag sa dibinong kalikasan; ang kamangyan ay sumasagisag sa kabanguhan ng pagkabuhay-na-muli; at ang mira ay sumasagisag sa kabanguhan ng kamatayan. Ang mga kaloob na ito na inihandog ng mga mago ay walang alinlangang nasa ilalim ng inspirasyon ng Espiritu ng Diyos, ipinakikita ang kahalagahan ng dibinong kalikasan ni Kristo at ang kahalagahan ng Kanyang pagkabuhay-na-muli at kamatayan. Sa apat na Ebanghelyo, na mga talambuhay ni Hesus, ang “ginto,” ang “kamangyan,” at ang “mira” ay palaging nakikita sa buhay ni Hesus. Marahil ang mga mamahaling kayamanang ito na inihandog ng mga mago ang nagtustos sa paglalakbay ng Panginoon buhat sa Judea hanggang sa Ehipto at buhat sa Ehipto hanggang sa Nazaret."
+        },
+        {
+            "id": "12-1",
+            "text": "Minsang nakita natin si Kristo, tayo kailanman ay hindi na tatahak sa parehong landas, sa halip ay sa “ibang daan.”"
+        },
+        {
+            "id": "15-1",
+            "text": "Ang katuparan ng propesiyang ito hinggil kay Kristo sa Ose. 11:1 ay isinakatuparan ng Diyos sa pamamagitan ng pagkakamali ng mga mago sa pagtungo sa Herusalem. Ang Diyos ay may kataas-taasang kapangyarihan, maging sa ating mga pagkakamali."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang propesiyang ito ay nag-uugnay kay Kristo sa Israel."
+        },
+        {
+            "id": "16-1",
+            "text": "Ito ang unang pagmamartir sa Bagong Tipan na may kaugnayan kay Kristo."
+        },
+        {
+            "id": "18-1",
+            "text": "Si “Raquel” ay inilibing sa daang patungo sa Betlehem (Gen. 35:19; 48:7). Ang “Rama,” na nasa teritoryo ni Benjamin (Jos. 18:21-28), ang anak ni Raquel (Gen. 35:15-18), ay hindi malayo sa pinaglibingan kay Raquel. Ang mga batang lalakeng pinatay ni Herodes ay itinuturing na mga anak ni Raquel sa patulang propesiyang ito."
+        },
+        {
+            "id": "20-1",
+            "text": "Gr. kaluluwa."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang “Galilea” ay sa mga Hentil (4:15), hinamak ng mga tao (Juan 7:41, 52). Si Kristo ay isinilang sa iginagalang na Judea, subalit pinalaki sa hinahamak na Galilea."
+        },
+        {
+            "id": "23-1",
+            "text": "Sa ilalim ng pagsasaayos ng kataas-taasang kapangyarihan ng Diyos, iniutos ni Augusto Cesar ang unang senso ng Emperyong Romano (Luc 2:1-3). Dahil sa sensong yaon ay naisilang si Kristo sa Betlehem (Luc. 2:4-7) upang matupad ang propesiya hinggil sa Kanyang kapanganakan (Mik. 5:2). Siya ay namalagi roon nang hindi matagal. Pagkatapos, dahil sa pag-uusig ni Herodes, Siya ay tumakas patungong Ehipto (bb. 13-15) at bumalik sa lupain ng Israel (bb. 19-21). Dahil sa paghahari ni Arquelao sa Judea sa puwesto ng kanyang amang si Herodes, si Kristo ay dinala sa “Nazaret,” isang hamak na lunsod ng Galilea (bb. 22-23; Juan 1:45-46), at pinalaki roon. Siya ay isinilang sa Betlehem na iginagalang ng tao, subalit lumaki sa Nazaret na hinahamak ng tao. Kaya nga, Siya ay tinawag na isang Nazareno. Ang sundan si Kristo ay humihiling ng pagsunod hindi lamang sa mga Kasulatan hinggil sa Kanya bagkus gayundin sa mga kagyat na pangunguna, katulad ng kay Jose sa kanyang mga panaginip. Ang bigyang-pansin lamang ang mga Kasulatan na walang mga kagyat na pangunguna ay maaaring magsanhi sa ating mawaglit si Kristo, katulad ng mga Hudyong saserdote at mga eskriba. Upang mabigyang-pansin ang kagyat na pangunguna, kinakailangang may pusong naghahanap."
+        },
+        {
+            "id": "23-2",
+            "text": "Tingnan ang tala 22-1 sa kapitulo 1."
+        },
+        {
+            "id": "23-3",
+            "text": "Ang salitang “mga propeta,” sa pangmaramihan, ay nagsasaad na ito ay hindi isang partikular na propesiya, kundi isang buod ng kahulugan ng ilang mga propesiya, katulad ng Awit 22:6-7. Ang titulong “Nazareno” ay maaaring tumutukoy sa “Sanga” sa Isa. 11:1, na sa Hebreo ay netzer. Ang Sanga roon, na sumasagisag kay Kristo, ay “isang usbong (o supang) ng sanga ni Isai,” ang ama ni David. Noong panahong isinilang si Hesus, ang trono ni David ay naibagsak na. Ito ay nangangahulugang ang maharlikang sanga ni David ay naputol na. Ngayon isang bagong usbong ang sumusupang mula sa puno ni Isai at lumalaki buhat sa kanyang mga ugat. Ang pagsupang at paglaki ng usbong na ito ay nasa isang sitwasyon ng paghamak. Si Hesus ay hindi isinilang sa isang kinikilala at iginagalang na maharlikang tahanan, ni hindi rin Siya lumaki sa isang bantog na lunsod katulad ng Herusalem. Siya ay isinilang sa isang dukhang tahanan at lumaki sa isang hamak na bayan. Ang lahat ng ito ay ginawa Siyang isang Nazareno, isang sanga — hindi isang matayog na sanga ng isang marangal na puno, kundi isang sa wari ay hindi mahalagang usbong mula sa puno ni Isai."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 9,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -16,7 +16,7 @@
             "footnotes": [
                 {
                     "word": "daan,",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -27,7 +27,7 @@
             "footnotes": [
                 {
                     "word": "sumilay",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -38,7 +38,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -49,7 +49,7 @@
             "footnotes": [
                 {
                     "word": "Panginoon?",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -60,7 +60,7 @@
             "footnotes": [
                 {
                     "word": "sasabihin",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -77,7 +77,7 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -102,7 +102,7 @@
             "footnotes": [
                 {
                     "word": "pumaroon",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -113,7 +113,7 @@
             "footnotes": [
                 {
                     "word": "makatanggap",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -130,7 +130,7 @@
             "footnotes": [
                 {
                     "word": "nagsisitawag",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -141,7 +141,7 @@
             "footnotes": [
                 {
                     "word": "hinirang",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -158,11 +158,11 @@
             "footnotes": [
                 {
                     "word": "ipinatong",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "mapuspos",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -173,11 +173,11 @@
             "footnotes": [
                 {
                     "word": "tinanggap",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "binautismuhan;",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -194,7 +194,7 @@
             "footnotes": [
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": [
@@ -267,23 +267,23 @@
             "footnotes": [
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "kapayapaan,",
-                    "note": ""
+                    "id": "31-2"
                 },
                 {
                     "word": "palibhasa",
-                    "note": ""
+                    "id": "31-3"
                 },
                 {
                     "word": "pagkatakot",
-                    "note": ""
+                    "id": "31-4"
                 },
                 {
                     "word": "kaaliwan",
-                    "note": ""
+                    "id": "31-5"
                 }
             ],
             "outlines": [
@@ -296,7 +296,7 @@
             "footnotes": [
                 {
                     "word": "Lidda.",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": [
@@ -328,7 +328,7 @@
             "footnotes": [
                 {
                     "word": "Dorcas);",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": [
@@ -347,7 +347,7 @@
             "footnotes": [
                 {
                     "word": "naroroon,",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -381,6 +381,100 @@
             "text": "At nangyari na siya ay nanahan nang maraming araw sa Joppe kasama si Simong tagakulti ng balat.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Tumutukoy sa ganap na pagliligtas ng Panginoon sa Bagong Tipang ekonomiya ng Diyos. Ito ang daan ng pamamahagi ng Diyos ng Kanyang Sarili sa loob ng mga mananampalataya sa pamamagitan ng pagtutubos ni Kristo at ng pagpapahid ng Espiritu; ito ang daan ng mga mananampalataya sa pakikibahagi sa Diyos at pagtatamasa sa Diyos; ito ang daan ng pagsamba ng mga mananampalataya sa Diyos sa kanilang espiritu sa pamamagitan ng pagtatamasa sa Kanya at pagsunod sa pinag-uusig na Hesus sa pamamagitan ng pagiging kaisa Niya; at ito ang daan na ang mga mananampalataya ay madadala sa loob ng ekklesia at maitatayo sa loob ng Katawan ni Kristo upang magdala ng patotoo ni Hesus (cf. mga tala 2-2 , 15-1 , at 21-1 sa 2 Pedro 2)."
+        },
+        {
+            "id": "3-1",
+            "text": "O, kumislap."
+        },
+        {
+            "id": "4-1",
+            "text": "Isang sama-samang Ako, binubuo ni Hesus na Panginoon at ng lahat ng Kanyang mga mananampalataya. Hindi taglay ni Saulo ang ganitong pahayag, iniisip na pinag-uusig niya si Esteban at ang ibang tagasunod ni Hesus sa isang paraan ng pagtuturing niya sa taliwas na pagtuturo (24:14), hindi nalalaman na nang kanyang inusig ang mga ito kanyang inusig si Hesus, sapagka’t sila ay kaisa Niya sa pamamagitan ng pagsampalataya at pakikipag-isa sa Kanya. Itinuturing niya na kanyang pinag-uusig ang mga tao sa lupa, hindi kailanman inisip na may nasasaktan sa langit. Sa kanyang malaking pagkabigla, isang tinig na galing sa langit ang nagsabi sa kanya na Siya ang Isa na pinag-uusig niya, at ang Kanyang pangalan ay Hesus. Para kay Saulo ito ay namumukod-tanging pangitain sa buong sansinukob! Sa pamamagitan nito kanyang nasimulang makita na ang Panginoong Hesus at ang Kanyang mga mananampalataya ay isang dakilang tao—ang kagila-gilalas na “Ako”. Tiyak na ito ang nakintal at nakaantig sa kanya para sa kanyang panghinaharap na ministeryo tungkol kay Kristo at sa ekklesia bilang dakilang hiwaga ng Diyos (Efe. 5:32), at naglagak ng isang matibay na pundasyon para sa kanyang namumukod-tanging ministeryo."
+        },
+        {
+            "id": "5-1",
+            "text": "Siya ay tinawag ni Saulo na Panginoon, kahit hindi Siya nakikilala (cf. Roma 10:13)."
+        },
+        {
+            "id": "6-1",
+            "text": "Kaagad-agad, nang bumaling si Saulo sa Diyos, hindi tuwirang sinabi ng Panginoon sa kanya kung ano ang gusto Niyang gawin niya, sa dahilan na kailangan niya ang isang sangkap ng Kanyang Katawan upang ipakilala siya tungo sa loob ng pakikipag-isa sa Kanyang Katawan, dahil siya ay naligtas at nadala ng Panginoon nang tuwiran sa Kanya, hindi sa pamamagitan ng anumang daan. Kung walang isinugo ang Panginoon na isang sangkap mula sa Kanyang Katawan upang kaugnayin siya, magiging mahirap sa kaninumang sangkap ng Kanyang Katawan ang tanggapin siya (cf. b. 26). Ito ay may kaugnayan sa kanyang pagkakilala sa Katawan ni Kristo at sa di-lalaon sa pagmiministeryo niya sa Katawan ni Kristo (Col. 1:24)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ito ang pagtutuos ng Panginoon kay Saulo. Bago nangyari ito, itinuturing niya ang kanyang sarili na kagila-gilalas na nakaaalam, nalalaman ang lahat ng mga bagay tungkol sa tao at sa Diyos. Ngayon ginawa siyang bulag ng Panginoon upang wala siyang makitang anuman hanggang sa buksan ng Panginoon ang kanyang mga mata, lalung-lalo na ang kanyang panloob na mga mata, at inatasan siya na buksan ang mga mata ng iba (26:18)."
+        },
+        {
+            "id": "11-1",
+            "text": "Isinugo ng Panginoon si Ananias, isang sangkap ng Kanyang Katawan, upang puntahan si Saulo nang sa gayon si Saulo ay maipakilala tungo sa loob ng pakikipag-isa sa Katawan ni Kristo. Tiyak na ito rin ang kumintal kay Saulo sa kahalagahan ng Katawan ni Kristo, nakatulong sa kanya na matanto na kinakailangan ng isang naligtas na mananampalataya ang mga sangkap ng Katawan ni Kristo."
+        },
+        {
+            "id": "12-1",
+            "text": "Para sa nabulag na si Saulo ang makatanggap ng paningin ay ang maligtas nang ganap. Matindi ang kahulugan nito para sa kanya, lalung-lalo na nang mabuksan ang kanyang mga panloob na mata, upang makita ang mga bagay ng Diyos hinggil sa Kanyang mga hiwaga at Kanyang ekonomiya. Gayundin sa b. 18."
+        },
+        {
+            "id": "14-1",
+            "text": "Tumutukoy na ang pagtawag sa pangalan ng Panginoon noong mga unang araw ay isang tanda ng mga tagasunod ng Panginoon (1 Cor. 1:2). Ang ganitong pagtawag ay tiyak na yaong maaaring marinig ng iba; kaya ito ay naging isang tanda."
+        },
+        {
+            "id": "15-1",
+            "text": "Dahil si Saulo ay ang hinirang na sisidlan ng Panginoon, siya ay ibinukod mula sa sinapupunan ng kanyang ina at tinawag ng Panginoon (Gal. 1:15). Ang Panginoon ay makapangyarihan at may kakayahan, ayon sa Kanyang paghirang noong kawalang-hanggan, na gawin ang pinakamabangis sa lahat ng Kanyang mang-uusig na isang sisidlan, isang nangungunang apostol, upang isagawa ang Kanyang pag-aatas na ipahayag ang ebanghelyo at tanggapin ang daan na dati niyang tinuligsa at inusig. Sa katapus-tapusan, ang tumutuligsang si Saulo, sa kanyang matagumpay na ministeryo ng ebanghelyo, ay naging nalupig na bihag ni Kristo sa matagumpay na prusisyong nagdiriwang ng tagumpay ni Kristo sa lahat ng Kanyang mga kaaway (2 Cor. 2:14 at mga tala 1 at 2). Ang ganitong pagpapasakdal ng Panginoon sa Kanyang hinirang na sisidlan ay nangingibabaw sa lahat at maluwalhati."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang kaso ni Saulo ay isa ring natatangi, sapagka’t, bilang isang pangunahing tagapagusig, siya ay iniligtas nang tuwiran ng Panginoon mula sa kalangitan habang siya ay nasa daan upang pag-usigin ang mga mananampalataya. Sa gayon nangangailangan siya, katulad ng ginawa sa mga Samaritanong mananampalataya (8:14-17 at tala 17-1 ) at sa labindalawang disipulo sa Efeso (19:1-7), ng isang sangkap ng Katawan ni Kristo upang ipakilala siya tungo sa loob ng pakikipag-isa sa Katawan ni Kristo sa pamamagitan ng pagpapatong ng mga kamay."
+        },
+        {
+            "id": "17-2",
+            "text": "Mapuspusan sa panlabas (tingnan ang mga tala 4-2 sa kap. 2). Ayon sa prinsipyo ng kaligtasan sa Bagong Tipang ekonomiya ng Diyos, si Saulo ay tumanggap, sa pang-esensiya, ng Espiritu Santo ng buhay sa panahon ng kanyang pagbaling, bago pa ang pagdating at pagpapatong ng mga kamay ni Ananias sa kanya. Bago dumating si Ananias, siya ay nananalangin sa Panginoon (b. 11), tumutukoy na siya ay nanampalataya na sa Panginoon at tumatawag sa Kanya (cf. Roma 10:13-14) katulad ng mga mananampalataya na kanyang pininsala at darakpin sana (bb. 21, 14). Yamang hindi siya naligtas sa pamamagitan ng alinmang sangkap ng Katawan ni Kristo, ang Espiritu Santo sa pang-ekonomiya ay hindi dumapo sa kanya (2:17 at tala 2) hanggang sa dumating si Ananias, bilang kinatawan ng Katawan, upang ipagkaisa siya sa Katawan ni Kristo."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang tala 12-1 ."
+        },
+        {
+            "id": "18-2",
+            "text": "Sa pamamagitan ng tubig (tingnan ang mga tala 36-1 sa kap. 8 at 16-1 sa Marcos 16)."
+        },
+        {
+            "id": "20-1",
+            "text": "Tingnan ang tala 2-1 sa Sant. 2."
+        },
+        {
+            "id": "31-1",
+            "text": "Yamang sa panahong ito, ang ekklesia ay nakakalat lamang sa mga lalawigan ng Judea, Galilea, at Samaria, at ang salitang “buong” ay sumasaklaw sa lahat ng mga lugar na kinaroroonan ng ekklesia, ang “ekklesia” na pang-isahan ay ginamit sa pansansinukob na pagpapakahulugan, bagama’t may ilang bilang ng mga ekklesia sa iba’t ibang lunsod sa tatlong lalawigang ito at tinatawag na mga ekklesia sa lokal na pagpapakahulugan."
+        },
+        {
+            "id": "31-2",
+            "text": "Ito ay panloob na kapayapaan, bagama’t may pag-uusig sa panlabas. Ang ekklesia ay hindi natatakot sa panlabas na pag-uusig. Ang kanyang kinatatakutan ay ang mawala ang panloob na kapayapaan sapagka’t kung may kapayapaan ay may pagtatayo."
+        },
+        {
+            "id": "31-3",
+            "text": "Ang pagtatayo ay patuloy pagkatapos ng pagtatatag ng ekklesia."
+        },
+        {
+            "id": "31-4",
+            "text": "Hindi pagkatakot sa mga tao, bagama’t may mga pag-uusig, kundi sa pagkatakot sa Panginoon baka ang ekklesia ay makapagbigay ng sama ng loob sa Panginoon sa pagiging bagsak o pagiging talo dahil sa pag-uusig, at baka siya ay magkasala sa ibang mga bagay."
+        },
+        {
+            "id": "31-5",
+            "text": "Tumutukoy na ang ekklesia ay nagdurusa sa pagdadalamhati dahil sa mga pag-uusig. Sa gitna ng ganitong kalagayan siya ay may takot sa Panginoon at nagtatamasa sa kaaliwan ng Espiritu Santo."
+        },
+        {
+            "id": "32-1",
+            "text": "Isang bayan na humigit-kumulang labing-isang milya ang layo sa bandang timog-silangan ng Joppe, tinatawag sa Lumang Tipan, na Lod (1 Cron. 8:12; Ezra 2:33)."
+        },
+        {
+            "id": "36-1",
+            "text": "Ang Griyegong katumbas ng Aramaikong Tabita, nangangahulugang isang maliit, magandang kumilos at mabilis na usa."
+        },
+        {
+            "id": "38-1",
+            "text": "Lit. nasa loob noon."
         }
     ]
 }

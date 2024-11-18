@@ -1,5 +1,5 @@
 {
-    "chapter": 18,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -16,7 +16,7 @@
             "footnotes": [
                 {
                     "word": "Claudio",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -33,19 +33,19 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "Sabbath,",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "Griyego.",
-                    "note": ""
+                    "id": "4-4"
                 }
             ],
             "outlines": null
@@ -56,11 +56,11 @@
             "footnotes": [
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "lubusang",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": [
@@ -74,7 +74,7 @@
             "footnotes": [
                 {
                     "word": "paroroon",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -91,7 +91,7 @@
             "footnotes": [
                 {
                     "word": "sambahayan",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -102,7 +102,7 @@
             "footnotes": [
                 {
                     "word": "pangitain,",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -119,7 +119,7 @@
             "footnotes": [
                 {
                     "word": "tumira",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -160,7 +160,7 @@
             "footnotes": [
                 {
                     "word": "Sostenes,",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -171,7 +171,7 @@
             "footnotes": [
                 {
                     "word": "panata.",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": [
@@ -184,7 +184,7 @@
             "footnotes": [
                 {
                     "word": "pumasok",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -207,11 +207,11 @@
             "footnotes": [
                 {
                     "word": "umahon",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "lumusong",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": [
@@ -225,7 +225,7 @@
             "footnotes": [
                 {
                     "word": "umalis",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": [
@@ -248,11 +248,11 @@
             "footnotes": [
                 {
                     "word": "daan",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "lamang",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -269,7 +269,7 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -279,6 +279,88 @@
             "text": "Sapagka’t malakas niyang pinabulaanan ang mga Hudyo nang hayagan, ipinakikita sa pamamagitan ng mga Kasulatan na si Hesus ay ang Kristo.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Isang Cesar ng Emperyo Romano. Ang ginawa niya rito ay ginamit ng Panginoon para sa Kanyang ministeryo upang itayo ang Kanyang ekklesia, tulad ng ginawa ni Augusto Cesar na ginamit ng Diyos para sa pagsasakatuparan ng propesiya tungkol sa lugar ng kapanganakan ni Kristo (Luc. 2:1-7)."
+        },
+        {
+            "id": "4-1",
+            "text": "Tingnan ang tala 5-1 sa kap. 13."
+        },
+        {
+            "id": "4-2",
+            "text": "Tingnan ang tala 2-1 sa Santiago 2. Gayundin sa mga bersikulo 19 at 26."
+        },
+        {
+            "id": "4-3",
+            "text": "Tingnan ang tala 14-1 sa kap. 13."
+        },
+        {
+            "id": "4-4",
+            "text": "Ipinakikita na ang ilang Griyego ay dumadalo rin sa sinagoga ng mga Hudyo upang makinig ng salita ng Diyos (Mar. 1:21 at tala 1)."
+        },
+        {
+            "id": "5-1",
+            "text": "Sa panahong ito sa Corinto, matapos makarating sina Silas at Timoteo mula sa Macedonia na may dalang impormasyon tungkol sa ekklesia sa Tesalonica (I Tes. 3:6 at tala), isinulat ni Pablo ang kanyang unang Sulat sa ekklesia roon (I Tes. 1:1)."
+        },
+        {
+            "id": "5-2",
+            "text": "O, nabigatan dahil sa salita, napilit dahil sa salita."
+        },
+        {
+            "id": "6-1",
+            "text": "Tingnan ang tala 47-1 sa kap. 13."
+        },
+        {
+            "id": "8-1",
+            "text": "Tingnan ang tala 31-1 sa kap. 16."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 10-3 sa kap. 10."
+        },
+        {
+            "id": "11-1",
+            "text": "Lit. naupo."
+        },
+        {
+            "id": "17-1",
+            "text": "Tingnan ang tala 1-3 sa I Cor. 1."
+        },
+        {
+            "id": "18-1",
+            "text": "Isang pansariling panata na isinasagawa ng mga Hudyo sa kahit saang lugar para sa pagpapasalamat sa Diyos, na may kasamang paggugupit ng buhok. Ito ay kaiba sa panata ng Nazareo, na kinakailangang sa Herusalem isagawa na may kasamang pag-aahit ng ulo (21:24 at tala 3; Blg. 6:1-5, 18; cf. I Cor. 11:6 kung saan ang pagkakaiba ng paggugupit at pag-aahit ay ipinakikita). Si Pablo ay isang Hudyo at tinupad niya ang panata, subali’t ayaw niya at hindi niya ito ipinapataw sa mga Hentil. Ayon sa prinsipyo ng kanyang itinuturo tungkol sa Bagong Tipang ekonomiya ng Diyos, dapat sana ay binitiwan na ni Pablo ang lahat ng mga kaugaliang Hudyo na kabilang sa Lumang Tipang kapanahunan. Gayunpaman, mayroon pa rin siyang ganoong pansariling panata, at tila baga hinahayaan ito ng Diyos, maaaring sa dahilan na ito ay isang pansariling panata na isinagawa sa isang lugar na iba sa Herusalem, at hindi magkakaroon ng gaanong epekto sa mga mananampalataya."
+        },
+        {
+            "id": "19-1",
+            "text": "Tingnan ang tala 5-1 sa kap. 13."
+        },
+        {
+            "id": "22-1",
+            "text": "Yaon ay, sa Herusalem (cf. 21:15)."
+        },
+        {
+            "id": "22-2",
+            "text": "Ito ang pagtatapos ng pangalawang pangministeryong paglalakbay ni Pablo, na nagsimula sa 15:40."
+        },
+        {
+            "id": "23-1",
+            "text": "Ito ang simula ng pangatlong pangministeryong paglalakbay ni Pablo, na natapos sa 21:17."
+        },
+        {
+            "id": "25-1",
+            "text": "Hindi ang doktrina tungkol sa Panginoon, kundi ang praktikal na paraan na dapat lakaran ng mga mananampalataya sa Bagong Tipan. Tingnan ang tala 2-1 sa kapitulo 9."
+        },
+        {
+            "id": "25-2",
+            "text": "Ito ay nagpapakita na si Apolos ay walang kumpletong pahayag ng Bagong Tipang ekonomiya ng Diyos, bagama’t siya ay naturuan sa daan ng Panginoon. Kaya’t, may kakulangan sa resulta ng kanyang ministeryo (19:2 at tala 2)."
+        },
+        {
+            "id": "27-1",
+            "text": "Lit. ang biyaya, ipinakikita ang partikular na biyaya na tinamasa ni Apolos sa loob ng Panginoon. Ang biyayang ito ay ang Diyos Mismo na nasa loob ni Kristo bilang bahagi ng mga mananampalataya kay Kristo (tingnan ang mga tala 14-6 sa Juan 1 at 10-1 sa I Cor. 15)."
         }
     ]
 }

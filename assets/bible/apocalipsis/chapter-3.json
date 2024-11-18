@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "Sardis",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "pangalan",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -32,11 +32,11 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "kumpleto",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -47,7 +47,7 @@
             "footnotes": [
                 {
                     "word": "magnanakaw,",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -58,11 +58,11 @@
             "footnotes": [
                 {
                     "word": "nangagdungis",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "puti,",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -73,23 +73,23 @@
             "footnotes": [
                 {
                     "word": "magtagumpay",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "daramtang",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "buburahin",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "aklat",
-                    "note": ""
+                    "id": "5-4"
                 },
                 {
                     "word": "ipahahayag",
-                    "note": ""
+                    "id": "5-5"
                 }
             ],
             "outlines": null
@@ -106,15 +106,15 @@
             "footnotes": [
                 {
                     "word": "Filadelfia",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "Banal",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "susi",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": [
@@ -127,19 +127,19 @@
             "footnotes": [
                 {
                     "word": "inilagay",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "pintuang",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "kaunting",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": null
@@ -150,19 +150,19 @@
             "footnotes": [
                 {
                     "word": "gagawin",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "pasasambahin",
-                    "note": ""
+                    "id": "9-4"
                 }
             ],
             "outlines": null
@@ -173,11 +173,11 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "iingatan",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -188,11 +188,11 @@
             "footnotes": [
                 {
                     "word": "dumarating",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "putong.",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -203,15 +203,15 @@
             "footnotes": [
                 {
                     "word": "magtagumpay",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "haligi",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "pangalan",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -228,15 +228,15 @@
             "footnotes": [
                 {
                     "word": "Laodicea",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Amen,",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "pasimula",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": [
@@ -249,11 +249,11 @@
             "footnotes": [
                 {
                     "word": "mainit",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "mainit.",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -264,7 +264,7 @@
             "footnotes": [
                 {
                     "word": "isuka",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -275,11 +275,11 @@
             "footnotes": [
                 {
                     "word": "sinasabi",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "baba",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -290,19 +290,19 @@
             "footnotes": [
                 {
                     "word": "bumili",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "gintong",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "damit",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "pamahid-",
-                    "note": ""
+                    "id": "18-4"
                 }
             ],
             "outlines": null
@@ -313,7 +313,7 @@
             "footnotes": [
                 {
                     "word": "magsikap,",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -324,15 +324,15 @@
             "footnotes": [
                 {
                     "word": "pintuan",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "magbukas",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "kakaing",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": null
@@ -343,11 +343,11 @@
             "footnotes": [
                 {
                     "word": "magtagumpay",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "umupong",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -358,10 +358,208 @@
             "footnotes": [
                 {
                     "word": "ekklesia.",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “Sardis” sa Griyego ay nangangahulugang ang mga labí, ang nalalabí, o, ang pagpapanumbalik. Bilang isang tanda, ang ekklesia sa Sardis ay paunang-naglalarawan sa Protestantismo mula sa panahon ng Repormasyon hanggang sa ikalawang pagdating ni Kristo. Ang Repormasyon ay ang reaksiyon ng Diyos sa Relihiyong Romano Katolikong tumalikod-sa-katotohanan, na sinagisag ng napababáng ekklesia sa Tiatira. Ito ay isinagawa ng isang maliit na bilang ng mga mananampalataya, ang “nalalabí.” Kaya nga, ito ay “ang pagpapanumbalik” na dinala ng “mga nalalabí.”"
+        },
+        {
+            "id": "1-2",
+            "text": "Ang pitong Espiritu ng Diyos ay upang maging buháy na buháy ang ekklesia, at ang pitong bituin ay upang magningning siya nang matindi. Sa ekklesia sa Efeso, si Kristo ay ang Isang may hawak ng pitong bituin at lumalakad sa gitna ng pitong gintong patungan-ng-ilawan. Kailangan ng pasimulang ekklesia ang pangangalaga ni Kristo, at kailangan ng kanyang mga tagapanguna ang Kanyang nag-iingat na biyaya. Sa ekklesia sa Esmirna, si Kristo ay ang Isang namatay at muling-nabuhay. Kailangan ng nagdurusang ekklesia ang pagkabuhay-na-muling buhay ni Kristo. Sa ekklesia sa Pergamo, si Kristo ay ang Isang may matalas na tabak na may dalawang talim. Kailangan ng napababà at makasanlibutang ekklesia ang Kanyang naghahatol at pumapatay na salita. Sa ekklesia sa Tiatira, Siya ang Isang may mga matang gaya ng ningas ng apoy at mga paang katulad ng tansong binuli. Kailangan ng tumalikod-sa-katotohanang ekklesia ang Kanyang pagsasaliksik at paghahatol. Ngayon, sa ekklesia sa Sardis, si Kristo ay ang Isang may pitong Espiritu ng Diyos at pitong bituin. Kailangan ng patay at narepormang ekklesia ang makapitong pinatinding Espiritu ng Diyos at ang mga nagniningning na tagapanguna. Itong makapitong pinatinding Espiritu ay buháy, na kailanman ay hindi maaaring halinhan ng mga patay na titik ng kaalaman (2 Cor. 3:6)."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang repormadong Protestantismo ay itinuring ng marami na buháy, subali’t sinasabi ng Panginoon na siya ay patay. Kaya nga, sa gitna ng kanyang patay na kalagayan ay kailangan niya ang mga buháy na “Espiritu” at ang mga nagniningning na “bituin.”"
+        },
+        {
+            "id": "2-1",
+            "text": "Ang mga bagay na nalalabí ay ang mga bagay na naiwala at napanumbalik ng Repormasyon, gaya ng pag-aaring-matuwid sa pamamagitan ng pananampalataya, ang bukas na Biblia, atbp. Bagama’t ang mga bagay na ito ay napanumbalik, sila ay malapit nang mamatay. Kaya nga, kai langan nila ang mga muling-pagpapasigla (sa Ingles, revivals ). Ito ang aktuwal na situwasyon ng Protestantismo."
+        },
+        {
+            "id": "2-2",
+            "text": "Walang bagay na sinimulan sa Repormasyon ang nakumpleto. Kaya, ang ekklesia sa Filadelfia ay kailangan upang isagawa ang pagkukumpleto."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang isang magnanakaw ay dumarating upang nakawin ang mahahalagang bagay sa oras na hindi alam ng tao. Yamang ang repormadong Protestantismo ay patay, hindi nila mamamalayan ang pagdating ng Panginoon na gaya ng isang magnanakaw sa Kanyang lihim na pagpapakita sa mga naghahanap sa Kanya. Kaya nga, kailangan ang pagbabantay."
+        },
+        {
+            "id": "4-1",
+            "text": "Sa Biblia, ang mga damit ay sumasagisag sa kung ano tayo sa ating paglakad at pamumuhay. Ang dungisan ang mga damit ay partikular na nangangahulugang marungisan ng kamatayan. Sa harapan ng Diyos, ang kamatayan ay higit na nakarurungis kaysa sa kasalanan (Lev. 11:24-25; Blg. 6:6-7, 9)."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang puti ay hindi lamang sumasagisag sa kadalisayan, bagkus sa pagiging aprubado rin ng Panginoon. Ang mga puting damit dito ay sumasagisag sa paglakad at pamumuhay na hindi narungisan ng kamatayan at siyang aaprubahan ng Panginoon. Ito ay isang kwalipikasyon para sa paglakad na kasama ng Panginoon, lalung-lalo na sa paglakad na kasama ng Panginoon sa darating na kaharian."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang magtagumpay rito ay tumutukoy sa pananagumpay sa patay na kalagayan ng Protestantismo, yaon ay, ang panagumpayan ang patay na Protestantismo."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang “daramtang gayon ng mga puting damit” sa pangakong ito ay magiging isang gantimpala sa mga mandaraig sa isang libong taong kaharian. Ang anumang kanilang inugali sa panahong ito ay magiging gantimpala sa kanila sa darating na kapanahunan. Ang bawa’t mananampalataya ay nangangailangan ng dalawang damit: ang unang damit ay para sa ikaaaring-matuwid para sa ating kaligtasan, ipinakikita na si Kristo, ang Kristo na ating tinanggap, sa obhektibong panig, ay naging ating katuwiran (Luc. 15:22; I Cor. 1:30); ang ikalawang damit ay para sa ikaaapruba ng pagkatanggap sa atin, ipinakikita na si Kristo, yaon ay, ang Kristo na ating ipinamuhay, sa subhektibong panig, ay naging ating katuwiran (Fil. 1:21; 3:9). Ang damit na binanggit dito ay tumutukoy sa ikalawang damit para sa darating na gantimpalang igagawad sa atin sa pagpasok sa kaharian at para makasama sa paglakad ang Panginoon, yaon ay, maghari na kasama ang Panginoon (2 Tim. 2:11-12). Tingnan ang tala 8-2 sa kapitulo 19."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang buong bersikulo ay ang pangako ng Panginoon sa mga mandaraig. Ito ay matutupad sa isang libong taong kaharian pagkatapos ng Kanyang pagbabalik. Ang pangalan na buburahin sa aklat ng buhay ay tumutukoy na ang pangalan ay nakasulat na sa aklat ng buhay. Ang aklat ng buhay ay isang dibinong tala ng mga pangalan niyaong may bahagi sa mga pagpapala ng Diyos na inihanda ng Diyos para sa kanila. Ang mga pangalan ng lahat ng mga banal na pinili ng Diyos at itinalagang makibahagi sa mga pagpapalang ito ay nakasulat sa aklat na ito (Luc. 10:20). Ang mga pagpapalang ito ay nasa tatlong yugto: 1) ang ekklesia, 2) ang isang libong taong kaharian, at 3) ang kawalang-hanggan. Ang mga pagpapala sa yugto ng ekklesia, gaya ng kapatawaran ng kasalanan, katubusan, pagsilang-na-muli, buhay na walang hanggan, dibinong kalikasan, atbp., ay ang mga pasimulang bahagi. Lahat ng mga pinili ng Diyos na nakatala ang mga pangalan sa aklat ng buhay ay may bahagi sa mga pasimulang bahaging ito upang pasimulan ang kanilang espirituwal na buhay. Kung sila ay makikipagtulungan sa nagtutustos na biyaya ng Diyos, sila ay gugulang sa buhay sa kapanahunan ng ekklesia, at itong higit na maagang paggulang sa buhay ay magbubuo ng isang premyo na igagantimpala sa kanila ng Panginoon sa Kanyang pagbabalik. Ang premyong yaon ay ang pagpasok sa isang libong taong kaharian at ang pakikilahok sa mga dibinong pagpapala sa yugtong yaon, gaya ng pagtatamasa sa kagalakan at kapahingahan ng Panginoon (Mat. 25: 21,23; Heb. 4:9-11), ang paghahari sa mga bansa (2:26-27; 20:4,6), atbp., na inihanda ng Diyos bilang isang pangganyak para sa Kanyang mga pinili na magpatuloy sa Kanya sa kapanahunan ng ekklesia. Gayunpaman, marami sa Kanyang mga pinili ang hindi makikipagtulungan sa Kanyang biyaya at hindi magpapatuloy sa Kanya pagkatapos nilang matanggap ang pagpapatawad ng Diyos, katubusan, buhay na walang hanggan, dibinong kalikasan, atbp.. Kaya, hindi sila gugulang sa buhay sa kapanahunan ng ekklesia at sa gayon ay hindi magiging handa sa pagbabalik ng Panginoon upang makapasok sa isang libong taong kaharian at upang makibahagi sa mga dibinong pagpapala ng kapanahunang yaon bilang isang gantimpala. Kaya, sa panahon ng isang libong taong kaharian ang kanilang mga pangalan ay buburahin sa aklat ng buhay. Pagkatapos madisiplina ng Panginoon at lumago sa buhay tungo sa paggulang sa panahon ng isang libong taong kaharian, sila ay makikibahagi sa mga dibinong pagpapala sa yugto ng kawalang-hanggan, gaya ng walang hanggang pagkasaserdote kasama ang walang hanggang presensiya ng Diyos, ang walang hanggang pagkahari (22:3-5), ang Bagong Herusalem, ang puno ng buhay (22:14), ang tubig ng buhay (22:17), atbp.. Pagkaraan ay muling isusulat ang kanilang mga pangalan sa aklat ng buhay. Ito ay nangangahulugan na ang lahat ng mga pinili ng Diyos na nakasulat ang mga pangalan sa aklat ng buhay at nadala sa loob ng pakikilahok sa mga dibinong pagpapala sa yugto ng ekklesia ay hindi mapapahamak magpakailanman (Juan 10:28), yaon ay, sa anumang paraan ay hindi mawawala sa kanila ang mga dibinong pagpapala ng kawalang-hanggan; subali’t ang ilan, na hindi makikipagtulungan sa Panginoon sa kapanahunan ng ekklesia, ay pampanahunang didisiplinahin ng Panginoon sa panahon ng isang libong taong kaharian at maiwawaglit nila ang mga dibinong pagpapala sa yugtong yaon."
+        },
+        {
+            "id": "5-4",
+            "text": "Lit. balumbon ng papel na may sulat."
+        },
+        {
+            "id": "5-5",
+            "text": "Ipahahayag ng Panginoon ang pangalan ng isang mandaraig sa darating na kaharian, sapagka’t ang kanyang pangalan ay nakatala pa rin sa aklat ng buhay, at hindi nabura. Ito ay nagpapahiwatig na kung ang mga mananampalataya ay hindi mga mandaraig, ang kanilang mga pangalan ay buburahin sa aklat ng buhay sa kapanahunan ng isang libong taong kaharian (tingnan ang tala 5-3 ), at hindi rin ipahahayag ng Panginoon ang kanilang mga pangalan."
+        },
+        {
+            "id": "7-1",
+            "text": "Sa Griyego, ang “Filadelfia” ay nangangahulugang pagmamahalan ng mga kapatid. Bilang isang tanda, ang ekklesia sa Filadelfia ay paunang-naglalarawan sa wastong buhay-ekklesia na binawi ng mga kapatid na ibinangon ng Panginoon sa Inglatera noong unang bahagi ng ikalabinsiyam na siglo. Kung paanong ang repormadong ekklesia, na paunang-inilarawan ng ekklesia sa Sardis, ay isang reaksiyon sa Relihiyong Katolikong tumalikod-sa-katotohanan, na paunang inilarawan ng ekklesia sa Tiatira, gayundin ang ekklesia ng pagmamahalan ng mga kapatid ay isang reaksiyon sa patay na repormadong ekklesia. Ang reaksiyong ito ay magpapatuloy bilang isang patotoong-laban kapwa sa taliwas-na-pananampalatayang Katolisismo at napababang Protestantismo hanggang sa pagbabalik ng Panginoon."
+        },
+        {
+            "id": "7-2",
+            "text": "Sa ekklesia ng pagmamahalan ng mga kapatid, ang Panginoon ay “ang Banal na Isa, ang Totoong Isa.” Ang ekklesia na nasa pagbabawi ay maaaring maging banal, nakahiwalay sa sanlibutan, at maaaring maging totoo at tapat sa Diyos sa pamamagitan Niya at dahil taglay Siya bilang elemento ng ekklesia."
+        },
+        {
+            "id": "7-3",
+            "text": "Sa ekklesia na nasa pagbabawi, ang Panginoon ay ang Isa rin na may “susi ni David,” ang susi ng kaharian, na may awtoridad na magbukas at magsara. Ito ang susing ginagamit ng Panginoon sa pakikitungo sa ekklesia na nasa pagbabawi."
+        },
+        {
+            "id": "8-1",
+            "text": "Lit. ibinigay, isang Hebraismo."
+        },
+        {
+            "id": "8-2",
+            "text": "Bilang ang Isa na may susi ni David at Siyang nagbubukas at walang makapagsasara, ang ekklesia na nasa pagbabawi ay binigyan ng Panginoon ng “isang pintuang bukas na di-maisasara ng sinuman.” Mula nang magsimula ang pagbabawi ng wastong buhay-ekklesia, sa unang bahagi ng ikalabinsiyam na siglo, hanggang ngayon, isang pintuan ang palaging maluwang na nakabukas sa pagbabawi ng Panginoon. Lalong sinisikap isara ng organisadong Kristiyanismo ang pintuan, lalo namang lumuluwang ang bukas nito. Sa kabila ng maraming pagsalungat, ang pintuan ngayon ay bukas sa buong daigdig. Ang susi ay nasa kamay ng Ulo ng ekklesia; ito ay wala sa kamay ng mga sumasalungat."
+        },
+        {
+            "id": "8-3",
+            "text": "Ito ay nagpapakita na ang nagbibigay-kasiyahan sa Panginoon ay hindi ang dami ng ating nagagawa para sa Panginoon, kundi, sa ating paggawa ba ay ibinuhos na natin o hindi ang lahat ng ating magagawa at makakaya."
+        },
+        {
+            "id": "8-4",
+            "text": "Ang salita ay ang pagpapahayag ng Panginoon, at ang pangalan ay ang Panginoon Mismo. Ang tumaliwas-sa-pananampalatayang ekklesia ay lumihis mula sa salita ng Panginoon at naging maka-erehe. Ang repormadong ekklesia, bagama’t nabawi tungo sa salita ng Panginoon sa ilang sukat, ay nagkaila sa pangalan ng Panginoon sa pamamagitan ng pagbibigay-pangalan sa kanyang sarili ng marami pang ibang pangalan, gaya ng Lutheran, Wesleyan, Anglican, Presbyterian, Baptist, atbp.. Ang ekklesia na nasa pagbabawi ay hindi lamang bumalik sa salita ng Panginoon sa isang ganap na paraan, kundi tumalikod din sa lahat ng mga pangalan liban sa pangalan ng Panginoong Hesus-Kristo. Ang ekklesia na nasa pagbabawi ay lubusang pag-aari ng Panginoon, na walang kinalaman sa alinmang denominasyon (alinmang pangalan). Ang lumihis sa salita ng Panginoon ay taliwas-sa-katotohanan, at ang bigyan ng pangalan ang ekklesia ng alinmang ibang pangalan maliban sa pangalan ng Panginoon ay espirituwal na pakikiapid. Ang ekklesia bilang ang dalisay at malinis na birhen na ipinagkasundo kay Kristo (2 Cor. 11:2) ay hindi dapat magkaroon ng alinmang pangalan maliban sa kanyang Asawang-lalake. Lahat ng iba pang pangalan ay pawang kasuklam-suklam sa mga mata ng Diyos. Sa loob ng buhay-ekklesia na nasa pagbabawi ay wala tayong mga pagtuturo ni Balaam (2:14), walang mga pagtuturo ng mga Nikolaita (2:15), walang mga pagtuturo ni Jezebel (2:20), at walang mahihiwagang bagay ni Satanas (2:24), kundi mayroon lamang dalisay na salita ng Panginoon. Amen! Ang ekklesia na nasa pagbabawi ay walang mga denominasyon (mga pangalan), kundi may namumukod-tanging pangalan ng Panginoong Hesu-Kristo. Ang paglihis mula sa salita tungo sa mga erehiya at ang pagtataas ng napakaraming pangalan maliban doon sa pangalan ni Kristo ay ang mga lubhang kapansin-pansing tanda ng napababang Kristiyanidad. Ang pagbabalik tungo sa dalisay na salita mula sa lahat ng mga erehiya at mga tradisyon at ang pagtataas sa pangalan ng Panginoon sa pamamagitan ng pag-iwan sa bawa’t ibang pangalan ay ang mga lubhang nagpapasiglang patotoo sa ekklesia na nasa pagbabawi. Ito ang dahilan kung bakit sa pagbabawi ng Panginoon ay masusumpungan ang pahayag at presensiya ng Panginoon at naihahayag ang Panginoon sa isang buháy na paraan, puspos ng liwanag at ng mga kayamanan ng buhay."
+        },
+        {
+            "id": "9-1",
+            "text": "Lit. bibigyan, isang Hebraismo."
+        },
+        {
+            "id": "9-2",
+            "text": "Tingnan ang tala 9-6 sa kapitulo 2."
+        },
+        {
+            "id": "9-3",
+            "text": "Tingnan ang tala 9-5 sa kapitulo 2."
+        },
+        {
+            "id": "9-4",
+            "text": "Pinanghahawakan ng maka-Hudyong sinagoga ang Hudaismo, na binubuo ng mga namamagitang saserdote, ng mga ordinansa ng mga titik, ng materyal na templo, at ng mga panlupang pangako. Dinaig ng ekklesia na nasa pagbabawi ang Hudaismo sa pamamagitan ng paghahantad ng mga kamalian nito at ng katigasan ng ulo nito sa paghawak sa apat na bagay na unang nabanggit at ipinaalam sa mga Hudyo na inibig na ng Panginoon ang ekklesia."
+        },
+        {
+            "id": "10-1",
+            "text": "“Ang salita ng Aking pagtitiis” ay ang salita ng paghihirap ng Panginoon. Sa ngayon, ginagamit pa rin ng Panginoon ang Kanyang pagtitiis upang batahin ang paghihirap ng pagtatakwil at pag-uusig. Tayo ay mga kabahagi, hindi lamang sa Kanyang kaharian, bagkus maging sa Kanyang pagtitiis (1:9). Kaya nga, ang Kanyang salita sa atin ngayon ay ang salita ng pagtitiis. Upang matupad ang salita ng Kanyang pagtitiis, kailangan nating batahin kung ano ang pagtatakwil at pag-uusig sa Kanya."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang “pagsubok” dito ay walang alinlangang tumutukoy sa matinding kapighatian (Mat. 24:21) “na malapit nang dumating sa buong pinananahanang lupa,” katulad ng ipinakikita ng ikalima, ikaanim, at ikapitong trumpeta kasama ng pitong mangkok (8:13-9:21; 11:14-15; 15:1; 16:1-21) . Malamang na kasama rin sa “pagsubok” ang mga sobrenatural na kalamidad ng ikaanim na tatak at ng naunang apat na trumpeta. Ipinangangako ng Panginoon sa ekklesia na nasa pagbabawi na siya ay iingatan Niya “sa panahon ng pagsubok” (hindi lamang mula sa pagsubok, kundi sa panahon ng pagsubok) sapagka’t kanyang tinupad ang salita ng pagtitiis ng Panginoon. Ang pangakong ito ng Panginoon,katulad ng Kanyang pangako sa Luc. 21:36, ay tumutukoy na ang mga banal na tumupad sa salita ng pagtitiis ng Panginoon ay iaakyat-na-may- masidhing kagalakan bago dumat ing ang malaking “pagsubok,” nagpapahiwatig na yaong mga hindi tumupad sa salita ng Kanyang pagtitiis ay maiiwanan sa gitna ng “pagsubok.”"
+        },
+        {
+            "id": "11-1",
+            "text": "Sa sulat na ito, pinapatnubayan ng Panginoon ang Kanyang ekklesia na nasa pagbabawi na pumasok sa loob ng pandama ng Kanyang pagdating sapagka’t siya ay umiibig sa Kanya."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang “putong” ay natamo na ng ekklesia na nasa pagbabawi. Gayunpaman, kung hindi niya panghahawakang matibay hanggang sa pagbabalik ng Panginoon ang anumang mayroon siya sa loob ng Pagbabawi ng Panginoon, ang kanyang putong ay maaaring makuha ng iba."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “magtagumpay” rito ay nangangahulugang “hawakan nang matibay” ang anumang mayroon tayo sa ekklesia na nasa pagbabawi."
+        },
+        {
+            "id": "12-2",
+            "text": "Sa 2:17, ang mandaraig ay nagiging isang natranspormang bato para sa gusali ng Diyos. Dito, ang mandaraig ay gagawing “isang haligi” na itinayo sa loob ng templo ng Diyos. Sapagka’t siya ay naitayo sa loob ng gusali ng Diyos, “sa anumang paraan ay hindi na siya lalabas pa roon.” Ang pangakong ito ay matutupad sa isang libong taong kaharian bilang isang gantimpala sa mandaraig."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang pangalan ng Diyos, ang pangalan ng Bagong Herusalem, at ang bagong pangalan ng Panginoon na nakasulat sa mandaraig ay tumutukoy na ang mandaraig ay pag-aari ng Diyos, ng Bagong Herusalem, at ng Panginoon; na ang Diyos Mismo, ang Kanyang lunsod, ang Bagong Herusalem, at ang Panginoon Mismo, ay pag-aari niya lahat; at yaong siya ay kaisa ng Diyos, ng Bagong Herusalem, at ng Panginoon. Ang pangalan ng Diyos ay nangangahulugang ang Diyos Mismo, ang pangalan ng Bagong Herusalem ay nangangahulugang ang lunsod mismo, at ang pangalan ng Panginoon ay nangangahulugang ang Panginoon Mismo. Ang isulat ang pangalan ng Diyos, ang pangalan ng Bagong Herusalem, at ang pangalan ng Panginoon sa mandaraig ay tumutukoy na nailalin nang lahat tungo sa loob ng mandaraig ang kung ano ang Diyos, ang kalikasan ng Bagong Herusalem, at ang Persona ng Panginoon. Ang pagbanggit sa Bagong Herusalem bilang isang gantimpala sa mandaraig ay tumutukoy na ang pangakong ito ay matutupad sa isang libong taong kaharian. Ang Bagong Herusalem sa isang libong taong kaharian ay magiging isang gantimpala sa mga mandaraig na banal lamang, samantalang ang Bagong Herusalem sa bagong langit at bagong lupa ay magiging pangkalahatang bahagi ng lahat ng mga tinubos magpasawalang-hanggan."
+        },
+        {
+            "id": "14-1",
+            "text": "Sa Griyego, ang “Laodicea” ay nangangahulugang ang opinyon, ang paghahatol ng mga pangkaraniwang tao (pangkaraniwang mananampalataya). Ang ekklesia sa Laodicea, bilang isang tanda, ay paunang-naglalarawan sa ekklesia na matapos mabawi ay napababà. Matapos na mabawi ng Panginoon ang wastong ekklesia sa naunang bahagi ng ikalabinsiyam na siglo, hindi na humigit sa isang siglo, may ilan sa mga nabawing ekklesia (tinaguriang Brethren Assemblies ) ang napababa. Itong nabawing ekklesia na napababa ay naiiba sa narepormang ekklesia, na sinagisag ng ekklesia sa Sardis, at naiiba rin sa wastong nabawing ekklesia, na sinagisag ng ekklesia sa Filadelfia. Ito ay iiral hanggang sa pagbabalik ng Panginoon."
+        },
+        {
+            "id": "14-2",
+            "text": "Sa bawa’t isa sa pitong ekklesia, tinutukoy ng Panginoon ang kung ano Siya at kung ano ang Kanyang ginagawa alinsunod sa pagkakabanggit ayon sa kanilang situwasyon at kondisyon. Dito, sa ekklesia sa Laodicea, tinutukoy Niya ang Kanyang Sarili bilang ang Amen, ang Saksing tapat at totoo, ang Pasimula ng paglalang ng Diyos. Sa Griyego, ang Amen ay nangangahulugang matatag, di-natitinag, o mapagkakatiwalaan. Ang Panginoon ay ang matatag, di-natitinag, at mapagkakatiwalaang Isa. Kaya nga, Siya ang Saksing tapat at totoo. Ito ay tumutukoy na ang napababang ekklesia sa Laodicea ay hindi matatag, hindi di-natitinag, hindi mapagkakatiwalaan, ni tapat at totoo bilang saksi ng Panginoon. “Ang pasimula ng paglalang ng Diyos” ay tumutukoy sa Panginoon bilang ang pinagbubuhatan o pinagmumulan ng paglalang ng Diyos, nagpapahiwatig na ang Panginoon ay ang di-nagbabago at palagiang-umiiral na pinagmumulan ng gawain ng Diyos. Tinutukoy nito na ang nabawing ekklesia na napababà ay nagbabago dahil sa paglisan sa Panginoon bilang ang pinagmumulan."
+        },
+        {
+            "id": "14-3",
+            "text": "O, pinagbubuhatan, pinagmumulan, yaon ay, ang pinagbubuhatang pinagmumulan."
+        },
+        {
+            "id": "15-1",
+            "text": "Lit. kumukulo. Gayundin sa susunod na bersikulo."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang maisuka mula sa bibig ng Panginoon ay ang maitakwil ng Panginoon at ang hindi na muling makapagtamasa ng kung ano ang Panginoon sa Kanyang ekklesia."
+        },
+        {
+            "id": "17-1",
+            "text": "Pinagmamapuri ng nabawing ekklesia na napababà ang kanyang pagiging mayaman (pangunahing sa kaalaman ng doktrina). Hindi niya nalalaman na sa buhay siya ay dukha, sa paningin siya ay bulag, at sa pag-uugali siya ay hubad. Kaya, kailangan niyang bumili ng ginto upang siya ay yumaman at ng mga puting damit upang takpan ang kanyang kahubaran, at ng pamahid sa mata upang mapagaling ang kanyang kabulagan, gaya ng binanggit sa sumusunod na bersikulo."
+        },
+        {
+            "id": "17-2",
+            "text": "Sa mga mata ng Panginoon, ang nabawing ekklesia na napababà ay: (1) aba, sapagka’t ipinagmamapuri niya ang mga kayamanan ng kanyang hungkag na kaalaman sa mga doktrina, samantalang sa katotohanan siya ay pobreng-pobre sa kanyang karanasan sa mga kayamanan ni Kristo; (2) miserable, sapagka’t siya ay hubad, bulag, puno ng kahihiyan at kadiliman; (3) dukha, sapagka’t siya ay pobre sa karanasan kay Kristo at sa espirituwal na realidad ng ekonomiya ng Diyos; (4) bulag, sapagka’t siya ay kulang sa tunay at espirituwal na paningin sa loob ng mga tunay at espirituwal na bagay; (5) hubad, sapagka’t siya ay hindi nabubuhay sa pamamagitan ni Kristo, hindi ipinamumuhay si Kristo bilang kanyang subhektibong katuwiran, na siyang pangalawang damit sa kanyang pang-araw-araw na pamumuhay."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang “bumili” ay humihiling ng pagbabayad ng isang halaga. Kinakailangan ng nabawing ekklesia na napababà na magbayad ng isang halaga para sa ginto, mga puting damit, at pamahid-sa-mata, na kanyang kailangangkailangan."
+        },
+        {
+            "id": "18-2",
+            "text": "Sa Biblia, ang ating pananampalataya na gumagawa (Gal. 5:6) ay inihalintulad sa “ginto” (1 Ped. 1:7), at ang dibinong kalikasan ng Diyos, na siyang pagka-Diyos ni Kristo, ay sinasagisag din ng “ginto” (Exo. 25:11). Tayo ay nakikibahagi sa dibinong kalikasan ng Diyos sa pamamagitan ng pananampalataya (2 Ped. 1:1,4-5). Ang nabawing ekklesia na napababà ay may kaalaman sa mga doktrina hinggil kay Kristo, subali’t walang gaanong buháy na pananampalataya upang makibahagi sa dibinong elemento ni Kristo. Kailangan niyang magbayad ng halaga upang makamit ang gintong pananampalataya sa pamamagitan ng mga maapoy na pagsubok, sa gayon ay makabahagi siya sa tunay na “ginto,” na si Kristo Mismo bilang ang elemento ng buhay sa Kanyang Katawan. Sa gayon ay maaari siyang maging isang dalisay na gintong patungan-ng-ilawan (1:20) para sa pagtatayo ng gintong Bagong Herusalem (21:18)."
+        },
+        {
+            "id": "18-3",
+            "text": "Sa tipolohiya, ang “mga damit” ay sumasagisag sa pag-uugali (sa Ingles, conduct ). Ang “mga puting damit” dito ay tumutukoy sa pag-uugaling aprubado ng Panginoon, na siyang Panginoon Mismo na ipinamuhay ng ekklesia, at siyang kinakailangan ng nabawing ekklesia na napababà upang matakpan ang kanyang kahubaran."
+        },
+        {
+            "id": "18-4",
+            "text": "Ang “pamahid-sa-mata” na kinakailangan upang “pahiran” ang kanilang mga mata ay tiyak na tumutukoy sa nagpapahid na Espiritu (1 Juan 2:27), na siya ring Panginoon Mismo bilang ang Espiritung nagbibigay-buhay (I Cor. 15:45). Kailangan din ng nabawing ekklesia na napababà ang ganitong uri ng pamahid-sa-mata upang mapagaling ang kanyang kabulagan. Para sa lahat ng tatlong aytem na ito ay kailangan niyang magbayad ng halaga."
+        },
+        {
+            "id": "19-1",
+            "text": "Lit. kumukulo. Sinanhi ng patay, hungkag na kaalaman at makadoktrinang porma na maging malahininga ay nabawing ekklesia na mapababa. Kinakailangan niyang magsisi sa kanyang pagiging malahininga at maging masikap, kumukulo, maningas, nang sa gayon matamo niya muli ang katamasahan sa realidad ni Kristo."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang “pintuan” ay hindi ang pintuan ng mga indibiduwal, kundi ang pintuan ng ekklesia. Ang Panginoon bilang ang Ulo ng ekklesia ay nakatayo sa labas ng napababang ekklesia, kumakatok sa kanyang pinto. Ito ay kailangang matanto ng nabawing ekklesia na napababà!"
+        },
+        {
+            "id": "20-2",
+            "text": "Ang pinto ay ang pintuan ng ekklesia, subali’t kinakailangang mga indibiduwal na mananampalataya ang magbubukas ng pintuan. Sa ekklesia sa Laodicea ay may kaalaman subali’t wala ang presensiya ng Panginoon. Ang tinutuos ng Panginoon ay ang buong ekklesia, subali’t ang pagtanggap sa pagtutuos ng Panginoon ay kinakailangang maging isang personal na bagay. Ang pagtutuos ng Panginoon ay obhektibo, subali’t ang pagtanggap ng mga mananampalataya ay kinakailangang maging subhektibo."
+        },
+        {
+            "id": "20-3",
+            "text": "Tumutukoy sa pinakapangunahing kainan sa buong maghapon yaon ay, ang hapunan. Tingnan ang tala 7-5 sa kapitulo 2."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang “magtagumpay” rito ay nangangahulugang pagtagumpayan ang pagkamalahininga at pagpapalalo ng nabawing ekklesia na napababà, magbayad ng isang halaga upang bilhin ang mga kinakailangang bagay, at buksan ang pinto upang makapasok ang Panginoon."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang maupong kasama ng Panginoon sa Kanyang trono ay magiging isang gantimpala sa mandaraig upang siya ay makabahagi sa awtoridad ng Panginoon at naging kasamang Hari Niya sa darating na isang libong taong kaharian."
+        },
+        {
+            "id": "22-1",
+            "text": "Hindi lamang isinasagisag ng pitong ekklesia sa mapropesiyang paraan ang pagsulong ng ekklesia sa pitong yugto, katulad ng nakita na natin, bagkus isinasagisag din ang pitong uri ng ekklesia sa kasaysayan ng ekklesia: ang pasimulang ekklesia, ang nagdurusang ekklesia, ang makasanlibutang ekklesia, ang ekklesiang tumalikod-sa-katotohanan, ang narepormang ekklesia, ang nabawing ekklesia, at ang nabawing ekklesia na napababà. Ang pasimulang ekklesia ay ipinagpatuloy sa nagdurusang ekklesia; ang nagdurusang ekklesia ay pumihit tungo sa makasanlibutang ekklesia; ang makasanlibutang ekklesia ay naging ekklesiang tumalikod-sa-katotohanan. Kaya nga, ang naunang apat na ekklesia, sa katapus-tapusan, ay nagresulta sa isang uri ng ekklesia, yaon ay, ang ekklesiang tumalikod-sa-katotohanan, ang Relihiyong Romano Katoliko. Pagkaraan, ang narepormang ekklesia, bilang isang reaksiyon sa ekklesiang tumalikod-sa-katotohanan, ay naging isa pang uri ng ekklesia, isang ekklesiang hindi lubusang nabawi. Kaya nga, kasunod nito, ang nabawing ekklesia ay ibinangon bilang isang lubos na pagbabawi ng wastong buhay-ekklesia. Ito ay maaaring ituring na ikatlong uri ng ekklesia. Sa pagbabà ng nabawing ekklesia, lumitaw ang nabawing ekklesia na napababà. Ito ay maaaring ibilang na ikaapat na uri ng ekklesia. Ang apat na uri ng ekklesiang ito ay mananatili hanggang sa pagbabalik ng Panginoon. Walang alinlangan, tanging ang ekklesiang nasa pagbabawi ang makatutupad sa walang hanggang layunin ng Diyos, at tanging siya lamang ang hinahangad ng Panginoon. Kinakailangan nating kunin ang pinili ng Diyos."
         }
     ]
 }

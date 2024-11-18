@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’t",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "huling",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "darating",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "mahihirap",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -34,23 +34,23 @@
             "footnotes": [
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "mangingibig",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "mapagmalaki,",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "manlalait,",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "2-5"
                 }
             ],
             "outlines": null
@@ -61,7 +61,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -72,19 +72,19 @@
             "footnotes": [
                 {
                     "word": "traydor",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "binulag",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "mangingibig",
-                    "note": ""
+                    "id": "4-4"
                 }
             ],
             "outlines": null
@@ -95,11 +95,11 @@
             "footnotes": [
                 {
                     "word": "anyo",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "kapangyarihan",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -116,7 +116,7 @@
             "footnotes": [
                 {
                     "word": "lubos",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -127,19 +127,19 @@
             "footnotes": [
                 {
                     "word": "Janes",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "katotohanan,",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "itinakwil",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "pananampalataya.",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": null
@@ -150,11 +150,11 @@
             "footnotes": [
                 {
                     "word": "kamangmangan,",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "yaon.",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -165,11 +165,11 @@
             "footnotes": [
                 {
                     "word": "pag-uugali",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "layunin,",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -180,7 +180,7 @@
             "footnotes": [
                 {
                     "word": "Listra;",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -191,11 +191,11 @@
             "footnotes": [
                 {
                     "word": "nagnanais",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "mabuhay",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -206,7 +206,7 @@
             "footnotes": [
                 {
                     "word": "mandaraya",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -217,11 +217,11 @@
             "footnotes": [
                 {
                     "word": "manatili",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": [
@@ -235,11 +235,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "pananampalatayang",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -250,23 +250,23 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "inihinga",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "pagsasansala,",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "pagwawasto,",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "ikatututo",
-                    "note": ""
+                    "id": "16-5"
                 }
             ],
             "outlines": null
@@ -277,18 +277,184 @@
             "footnotes": [
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "kumpleto,",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "nasangkapang",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Salungat sa pag-asang kapapahayag pa lamang sa hulihan ng nauunang kapitulo."
+        },
+        {
+            "id": "1-2",
+            "text": "Tumutukoy sa pangkasalukuyang kapanahunan (2 Ped. 3:3; Judas 18), nagsisimula sa unang pagdating ni Kristo (1 Ped. 1:20) at tatagal hanggang sa Kanyang ikalawang pagpapakita. Ang mahabang pagitan ng panahong ito ay hindi inihayag sa mga apostol (Mat. 24:36); inaasam nilang bumalik ang Panginoon sa kanilang henerasyon."
+        },
+        {
+            "id": "1-3",
+            "text": "O, magsisimula, mangyayari."
+        },
+        {
+            "id": "1-4",
+            "text": "O, mahihirap tiisin na panahon, mapapanganib na panahon."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang propetikong larawan na inilahad sa mga bersikulo 2 hanggang 5 ay hindi naglalarawan ng masamang kondisyon ng lipunan ng mga di-Kristiyano, kundi ng masamang kalagayan ng “malaking bahay” na binanggit sa 2:20, ang napababang kalagayan ng napasamang Kristiyanidad. Ang pariralang “may anyo ng pagkamakadiyos” sa bersikulo 5 ay nagpapatunay sa puntong ito. Sa mga di-Kristiyano, kahit na ang anyo ng pagkamakadiyos ay wala."
+        },
+        {
+            "id": "2-2",
+            "text": "Sa tatlong Sulat, pitong uri ng mangingibig ang binanggit: 1) mangingibig ng sarili, 2) mangingibig ng salapi (b. 2; 1 Tim. 6:10), 3) mangingibig ng kalayawan, 4) mangingibig ng Diyos (b. 4), 5) mangingibig ng kabutihan (Tito 1:8), 6) mangingibig ng mga asawang lalake, at 7) mangingibig ng mga anak (Tito 2:4). Mayroon ding dalawang uri ng mga di-mangingibig: 1) di-mangingibig ng kabutihan, 2) di-mangingibig ng Diyos (bb. 3-4). Maging anumang uri ng mangingibig ang isang tao, ang kanyang buong puso, maging ang kanyang buong katauhan, ay inilalagak doon at naookupahan at naaangkin niyaon. Napakahalaga nito! Kung magkakaroon man ng isang araw ng kaluwalhatian dahil sa pagtatagumpay ng ekklesia o ng mahihirap tiising araw dahil sa pagbaba ng ekklesia ay lubusang nakasalalay sa kung anong uri tayo ng mangingibig. Ang kasaysayan ay nagsasabi sa atin na ang ugat ng pagbaba ng ekklesia ay ang pagkawala ng kanyang unang pag-ibig sa Panginoon (Apoc. 2:4). Upang mapanatili ang matagumpay na pamantayan ng ekklesia, kinakailangan nating maging mangingibig ng Diyos at mangingibig ng kabutihan na may kaugnayan sa ekonomiya ng Diyos."
+        },
+        {
+            "id": "2-3",
+            "text": "O, palalo."
+        },
+        {
+            "id": "2-4",
+            "text": "Lit. mga manlalapastangan, katulad sa 1 Tim. 1:13. Gayunpaman, dito, ito ay hindi tumutukoy sa mga manlalapastangan sa Diyos, kundi sa mga manlalait o mapang-upasala, mga nagsasalita ng masasama at mga nakasasakit na salita sa mga tao."
+        },
+        {
+            "id": "2-5",
+            "text": "O, hindi marunong tumanaw ng utang na loob."
+        },
+        {
+            "id": "3-1",
+            "text": "O, ayaw makipagkasundo."
+        },
+        {
+            "id": "4-1",
+            "text": "O, mga taksil."
+        },
+        {
+            "id": "4-2",
+            "text": "O, mga sutil."
+        },
+        {
+            "id": "4-3",
+            "text": "Tingnan ang tala 6-2 sa 1 Tim. 3."
+        },
+        {
+            "id": "4-4",
+            "text": "Sa larawang ito, may tatlong uri ng mangingibig: mangingibig ng sarili, mangingibig ng salapi, at mangingibig ng kalayawan; at dalawang uri ng di-mangingibig: di-mangingibig ng kabutihan, at di-mangingibig ng Diyos."
+        },
+        {
+            "id": "5-1",
+            "text": "Isang hawig lamang sa panlabas na walang pang-esensiyang realidad."
+        },
+        {
+            "id": "5-2",
+            "text": "Tumutukoy sa tunay at praktikal na kagalingan ng isang pamumuhay na nakaiimpluwensiya upang ihayag ang Diyos."
+        },
+        {
+            "id": "7-1",
+            "text": "Tingnan ang tala 4-2 sa 1 Tim. 2."
+        },
+        {
+            "id": "8-1",
+            "text": "Ayon sa tradisyon ng mga Hudyo, sila ay ang mga Ehipciong salamangkero na sumalungat kay Moises, na binanggit sa Exo. 7:11, 22."
+        },
+        {
+            "id": "8-2",
+            "text": "Tingnan ang tala 15-6 sa 1 Timoteo 3. Sa pagbaba ng mga ekklesia, ang katotohanan ang inaasinta ng kaaway. Kaya, ang katotohanan din ang lunas at kaligtasan mula sa maysakit at nasirang kalagayan."
+        },
+        {
+            "id": "8-3",
+            "text": "O, tinanggihan."
+        },
+        {
+            "id": "8-4",
+            "text": "Tingnan ang tala 1-4 sa 1 Tim. 4."
+        },
+        {
+            "id": "9-1",
+            "text": "Tumutukoy sa kamangmangan at kawalang-kabuluhan ng kanilang gawain."
+        },
+        {
+            "id": "9-2",
+            "text": "Tumutukoy kina Janes at Jambres, na natalo at nawala (Exo. 8:18; 9:11)."
+        },
+        {
+            "id": "10-1",
+            "text": "Pagkatao."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang salitang Griyegong ito ay ginamit sa mga Sulat ni Pablo na may kaugnayan sa layunin ng Diyos (Roma 9:11)."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang lunsod kung saan tumira si Timoteo (Gawa 16:1-2), malapit sa Iconio at Antioquia sa Pisidia."
+        },
+        {
+            "id": "12-1",
+            "text": "O, determinadong."
+        },
+        {
+            "id": "12-2",
+            "text": "Tingnan ang mga tala 2-2 sa 1 Timoteo 2, at 16-1 , 16-2 sa 1 Timoteo 3."
+        },
+        {
+            "id": "13-1",
+            "text": "Mga manlilinlang. Ipinakikita ng bersikulong ito na ang pagbaba ng ekklesia ay lalong lalala."
+        },
+        {
+            "id": "14-1",
+            "text": "O, mamuhay."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang mga bagay na natutuhan ni Timoteo sa apostol at napatunayan ay ang mahahalagang bahagi ng nilalaman ng Bagong Tipan, na kumumpleto sa dibinong pahayag (Col. 1:25). Kaya, siya ay nagkaroon ng isang praktikal na pagkaunawa sa malaking bahagi ng Bagong Tipan."
+        },
+        {
+            "id": "15-1",
+            "text": "Bilang karagdagan sa kaalaman sa Bagong Tipan, nagkaroon din si Timoteo, mula sa pagkabata, ng isang mabuting pundasyon sa kaalaman sa Lumang Tipan. Siya ay isa na ganap na napasakdal at nasangkapan upang ihain ang salita ng Diyos, hindi lamang sa pag-aalaga ng isang ekklesia-lokal, bagkus maging sa pakikiharap din sa lumalalang pagbaba ng ekklesia."
+        },
+        {
+            "id": "15-2",
+            "text": "Sumangguni sa tala 22-1 sa Roma 3."
+        },
+        {
+            "id": "16-1",
+            "text": "O, Ang bawat Kasulatan na inihinga ng Diyos ay kapaki-pakinabang din sa pagtuturo, sa pagsasansala, sa pagwawasto, sa ikatututo na nasa katuwiran. Upang maharap ang kamatayan, kabulukan, at kaguluhan sa pagbaba ng ekklesia, ang buhay na walang hanggan na kung saan ibinatay ang kapitulo 1 (1:1, 10), ang dibinong katotohanan na binigyang-diin sa kapitulo 2 (2:15, 18, 25), at ang banal na Kasulatan na iginagalang sa kapitulo 3 (3:14-17) ay pawang kinakailangan. Hindi lamang nilululon ng buhay na walang hanggan ang kamatayan, bagkus nagbibigay rin ng panustos ng buhay; ang realidad ng lahat ng mga dibinong kayamanan ang ipinanghalili ng dibinong katotohanan sa kawalang-kabuluhan ng kabulukan; at hindi lamang pinapawi ng banal na Kasulatan ang kaguluhan, bagkus nagbibigay rin ng dibinong liwanag at pahayag. Kaya, binibigyang-diin ng apostol ang tatlong bagay na ito sa aklat na ito."
+        },
+        {
+            "id": "16-2",
+            "text": "Ipinakikita nito na ang Kasulatan, ang salita ng Diyos, ay ang hininga ng Diyos. Ang pagsasalita ng Diyos ay ang paghinga ng Diyos. Kaya, ang Kanyang salita ay espiritu (Juan 6:63), pneuma, o hininga. Sa gayon, ang Kasulatan ay ang nadaramang-pahayag-ng-pinakadiwa ng Diyos bilang Espiritu. Ang Espiritu, samakatwid, ay ang pinaka-esensiya, ang substansiya, ng Kasulatan, katulad ng kung papaanong ang phosphorus ay ang pinaka-esensiyang substansiya ng mga posporo. Kinakailangan nating ikiskis ang Espiritu ng Kasulatan sa ating espiritu upang masindihan ng dibinong apoy. Yamang ang Bibliya (ang Salita ng Diyos) ay ang nadaramang-pahayag-ng-pinakadiwa ng Diyos na Espiritu, ito rin ay ang nadaramang-pahayag-ng-pinakadiwa ni Kristo. Si Kristo ang buhay na Salita ng Diyos (Apoc. 19:13), at ang Bibliya ang isinulat na salita ng Diyos (Mat. 4:4)."
+        },
+        {
+            "id": "16-3",
+            "text": "Paghahatol, pagsasawata."
+        },
+        {
+            "id": "16-4",
+            "text": "Itinatakda nang wasto kung ano ang mali, ibinabaling ang isa sa tamang daan, ibinabalik sa isang tamang katayuan."
+        },
+        {
+            "id": "16-5",
+            "text": "Ang pagdidisiplina o pagpaparusa na nasa katuwiran; ang magdisiplina o magparusa sa elemento at kondisyon ng katuwiran."
+        },
+        {
+            "id": "17-1",
+            "text": "Tingnan ang tala 11-1 sa 1 Timoteo 6."
+        },
+        {
+            "id": "17-2",
+            "text": "Kumpleto at sakdal sa mga kwalipikasyon."
+        },
+        {
+            "id": "17-3",
+            "text": "O, naitugma, naiayos, naihanda."
         }
     ]
 }

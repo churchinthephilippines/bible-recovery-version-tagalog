@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -45,15 +45,15 @@
             "footnotes": [
                 {
                     "word": "Pilak",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "Nazareno",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "lumakad",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -104,15 +104,15 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Isaac",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "nagluwalhati",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -129,15 +129,15 @@
             "footnotes": [
                 {
                     "word": "Maykatha",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "ibinangon",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": null
@@ -148,11 +148,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "pangalan",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -169,7 +169,7 @@
             "footnotes": [
                 {
                     "word": "inihayag",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -180,11 +180,11 @@
             "footnotes": [
                 {
                     "word": "kaginhawahan",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "Panginoon,",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": [
@@ -205,11 +205,11 @@
             "footnotes": [
                 {
                     "word": "panahon",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -220,7 +220,7 @@
             "footnotes": [
                 {
                     "word": "Propeta",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -243,7 +243,7 @@
             "footnotes": [
                 {
                     "word": "binhi",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -254,10 +254,92 @@
             "footnotes": [
                 {
                     "word": "Kanya",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 46-1 sa kapitulo 2. Hindi lamang ang mga naunang mananampalataya ang hindi malinaw hinggil sa Bagong Tipang ekonomiya ng Diyos tungkol sa templo ng Hudaismo; maging ang mga naunang apostol ay walang malinaw na pangitain hinggil sa paglisan ng Diyos sa mga bagay ng Hudaismo. Kaya nga, maging pagkatapos ng pagbubuhos ng Diyos ng Espiritu sa kanila sa araw ng Pentecostes upang masimulan ang isang bagong kapanahunan, sila ay hindi pa rin humiwalay sa templo ng Hudaismo. Sa pasimulang hakbang ay pinabayaan ng Diyos ang kanilang di-pagkakaalam sa bagay na ito. Subali’t ito ay humantong sa isang paghahalo ng ekklesia sa Hudaismo, na hindi kinondena ng naunang ekklesia sa Herusalem (cf. 21:20-26). Sa katapus-tapusan ang templo ay giniba sa pamamagitan ni Tito kasama ang kanyang hukbong Romano noong A.D. 70, katulad ng pagkapropesiya ng Panginoon sa Mat. 23:38 at 24:2. Ang pagwasak na yaon ang naglinis sa makarelihiyong paghahalo."
+        },
+        {
+            "id": "6-1",
+            "text": "Si Pedro ay walang pilak at ginto, subali’t ang Katedral ni San Pedro sa Roma ay itinayo na lubhang sagana sa ginto. Siya ay walang pilak at ginto, subali’t siya ay may pangalan, may Persona, ni Hesu-Kristo. Siya ay dukha sa pilak at ginto, subali’t mayaman kay Kristo. Ang Iglesya Romana ay punô ng ginto, nguni’t hindi ng Persona ni Kristo. Siya ay mayaman sa ginto subali’t dukha kay Kristo."
+        },
+        {
+            "id": "6-2",
+            "text": "Tinutukoy ang Isa na hinamak ng mga Hudyong pinuno (Juan 1:45-46; Gawa 22:8; 24:5)."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang ilang manuskrito ay nagdaragdag, tumayo ka at."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang Tres-unong Diyos, si Jehovah, ang dakilang AKO NGA (Exo. 3:14-15)."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng “Diyos ni” sa unahan ng Isaac at sa unahan ng Jacob."
+        },
+        {
+            "id": "13-3",
+            "text": "Sa pamamagitan ng Kanyang pagkabuhay na muli at sa Kanyang pag-akyat sa langit (Luc. 24:26; Heb. 2:9; Efe. 1:20-22; Fil. 2:9-11) ay naluwalhati Siya."
+        },
+        {
+            "id": "15-1",
+            "text": "Sa wikang Griyego, archegos, nangangahulugang maykatha, pinanggalingan, manlilikha, pinakapunong tagapanguna, kapitan (tingnan ang tala 10-5 sa Heb. 2). Si Kristo ay isinasaad dito bilang ang pinanggalingan o ang manlilikha ng buhay, sa gayon ay ang May-akda ng buhay, salungat sa mamamatay-tao sa nakaraang bersikulo."
+        },
+        {
+            "id": "15-2",
+            "text": "Tingnan ang tala 24-1 sa kap. 2."
+        },
+        {
+            "id": "15-3",
+            "text": "Tingnan ang tala 32-2 sa kap. 2."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit. sa pananampalataya sa Kanyang pangalan, yaon ay, sa batayan ng pananampalataya sa Kanyang pangalan."
+        },
+        {
+            "id": "16-2",
+            "text": "Tumutukoy sa tao. Ang tao ang realidad ng pangalan; sa gayon, ang pangalan ay makapangyarihan."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang nagtutubos na kamatayan ni Kristo ay unang ipinasiya ng Diyos sa kawalang-hanggan (2:23) at ipinahayag sa simula pa lamang sa pamamagitan ng mga propeta noong panahon ng Lumang Tipan. Ito ay muling nagpapatunay na ang kamatayan ni Kristo ay hindi isang pangkasaysayang aksidente, kundi isang kilos na binalak ng Diyos ayon sa layunin ng Kanyang mabuting kaluguran, at inihayag sa simula pa sa pamamagitan ng mga propeta."
+        },
+        {
+            "id": "19-1",
+            "text": "Lit. nagpapalamig, nagbibigay-sigla, kaya nagpapaginhawa, nagpapanariwa. Ang mga panahon ng kaginhawahan ay nagsasaad ng isang panahon ng pagkakaroon ng sigla ng lahat ng mga bagay na may kagalakan at kapahingahan, tumutukoy sa mga panahon ng pagpapanumbalik ng lahat ng mga bagay sa bersikulo 21, na mangyayari sa pagdating ng Mesiyas sa Kanyang kaluwalhatian, katulad ng pagkaturo at pagkapropesiya ng Tagapagligtas sa Mat. 19:28 (tingnan ang tala 1 roon). Para bang nilampasan ng salita ni Pedro ang panahon ng ekklesia at pumunta nang tuluy-tuloy mula noong panahon ng Pentecostes tungo sa isang libong taong kaharian. Ito ay maaaring tumutukoy na si Pedro ay walang malinaw na pangitain ukol sa kapanahunan ng ekklesia sa Bagong Tipang ekonomiya ng Diyos, tulad ng inihahayag ng buong Bagong Tipan, yaon ay, nang bago dumating ang panahon ng kaginhawahan, ang ekklesia ay umookupa ng hindi kakaunting panahon sa ekonomiya ng Diyos."
+        },
+        {
+            "id": "19-2",
+            "text": "Tumutukoy sa Diyos (tingnan ang susunod na bersikulo)."
+        },
+        {
+            "id": "21-1",
+            "text": "Tumutukoy sa panahon ng pagpapanumbalik sa loob ng isang libong taon, tulad ng pagkapropesiya sa Isa. 11:1-10; 65:18-25, at tinutukoy ni Kristo sa Mat. 17:11 at 19:28. Ito ay mangyayari sa Kanyang pagbabalik."
+        },
+        {
+            "id": "21-2",
+            "text": "O, mula noong panahon ng paglikha."
+        },
+        {
+            "id": "22-1",
+            "text": "Tumutukoy sa Panginoong Hesus."
+        },
+        {
+            "id": "25-1",
+            "text": "Tumutukoy kay Kristo (Gal. 3:16)."
+        },
+        {
+            "id": "26-1",
+            "text": "Pinabalik muna ng Diyos ang umakyat sa langit na Kristo sa mga Hudyo, sa pamamagitan ng pagbubuhos ng Kanyang Espiritu noong araw ng Pentecostes. Kaya, ang mismong Espiritung ibinuhos ng Diyos ay ang mismong Kristong ibinangon ng Diyos at dinakila sa mga kalangitan. Nang ipinahayag at inihain ng mga apostol ang Kristong ito, ang Espiritu ay naihain sa mga tao"
         }
     ]
 }

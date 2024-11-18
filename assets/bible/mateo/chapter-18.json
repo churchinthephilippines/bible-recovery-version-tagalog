@@ -1,5 +1,5 @@
 {
-    "chapter": 18,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -39,7 +39,7 @@
             "footnotes": [
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -50,15 +50,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "makabubuti",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "gilingang-",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -75,7 +75,7 @@
             "footnotes": [
                 {
                     "word": "putulin",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -86,11 +86,11 @@
             "footnotes": [
                 {
                     "word": "dukutin",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "Gehenna.",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -107,7 +107,7 @@
             "footnotes": [
                 {
                     "word": "Sapagka’",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -130,7 +130,7 @@
             "footnotes": [
                 {
                     "word": "inyong",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -141,11 +141,11 @@
             "footnotes": [
                 {
                     "word": "iyo",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "ituro",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -162,19 +162,19 @@
             "footnotes": [
                 {
                     "word": "sabihin",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "ekklesia;",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "ipalagay",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "tulad",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -185,19 +185,19 @@
             "footnotes": [
                 {
                     "word": "tinatalian",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "natalian",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "kinakalagan",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "nakalagan",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -208,15 +208,15 @@
             "footnotes": [
                 {
                     "word": "pagkasunduan",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "anumang",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "hihingin",
-                    "note": ""
+                    "id": "19-3"
                 }
             ],
             "outlines": null
@@ -227,15 +227,15 @@
             "footnotes": [
                 {
                     "word": "pinag",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "tipon",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "dalawa",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": null
@@ -258,11 +258,11 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "makipagsulit",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -273,7 +273,7 @@
             "footnotes": [
                 {
                     "word": "sampung",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -296,7 +296,7 @@
             "footnotes": [
                 {
                     "word": "ipinatawad",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -307,7 +307,7 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -330,7 +330,7 @@
             "footnotes": [
                 {
                     "word": "namanglaw",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -353,7 +353,7 @@
             "footnotes": [
                 {
                     "word": "ibinigay",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -363,6 +363,132 @@
             "text": "Gayundin ang gagawin sa inyo ng Aking makalangit na Ama kung hindi kayo magpapatawad bawa’t isa sa kanyang kapatid mula sa inyong mga puso.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tinatalakay ng kapitulong ito ang ukol sa kung paano tayo mamumuhay at kikilos sa loob ng kaharian ng mga kalangitan: 1) ang maging tulad ng maliliit na bata (bb. 2-4); 2) ang hindi makatisod sa iba ni magtayo ng anumang katitisuran (bb. 5-9); 3) ang hindi manghamak maging sa isang maliit na mananampalataya (bb. 10-14); 4) ang makinig sa ekklesia at hindi makondena nito (bb. 15-20); at 5) ang mapatawad ang isang kapatid ng walang limitasyon (bb. 21-35). Ang lahat ng ito ay nagpapakita na upang makapasok tungo sa kaharian ng mga kalangitan tayo ay kinakailangang maging mapagpakumbaba at hindi nanghahamak sa sinumang mananampalataya, bagkus iniibig ang mga kapatid at pinatatawad ang mga kapatid."
+        },
+        {
+            "id": "5-1",
+            "text": "Sa literal ay “sa Aking pangalan,” nangangahulugang batay sa Aking pangalan, ayon sa Aking pangalan."
+        },
+        {
+            "id": "6-1",
+            "text": "Sa literal, tungo sa loob Ko."
+        },
+        {
+            "id": "6-2",
+            "text": "O, nababagay, kapakipakinabang."
+        },
+        {
+            "id": "6-3",
+            "text": "Sa literal ay, isang gilingang batong (iniikot) ng isang asno."
+        },
+        {
+            "id": "8-1",
+            "text": "Tingnan ang tala 29-1 sa kap. 5."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 29-1 sa kap. 5."
+        },
+        {
+            "id": "9-2",
+            "text": "Tingnan ang tala 22-8 sa kap. 5."
+        },
+        {
+            "id": "11-1",
+            "text": "Nilalaktawan ng karamihan sa mga pangunahing manuskrito ang bersikulo 11."
+        },
+        {
+            "id": "14-1",
+            "text": "Nababasa sa ilang lumang manuskrito na, Aking."
+        },
+        {
+            "id": "15-1",
+            "text": "Upang walang ibang makaalam ng pagkakasala ng kapatid. Ito ay ang pagtatakip at pangangalaga nang dahil sa pag-ibig."
+        },
+        {
+            "id": "15-2",
+            "text": "Upang malaman niya ang kanyang kasalanan at aminin niya ang kanyang pagkakamali."
+        },
+        {
+            "id": "17-1",
+            "text": "Kung ang kapatid ay nagkakasala, una kailangan nating makipagtuos sa kanya sa loob ng pag-ibig (b. 15), pagkatapos ay sa pamamagitan ng dalawa o tatlong saksi (b. 16), at sa panghuli pakitunguhan siya nang may awtoridad sa pamamagitan ng ekklesia (b. 17)."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang ekklesiang ipinahayag sa 16:18 ay ang pansansinukob na ekklesia, na siyang namumukod-tanging Katawan ni Kristo; samantalang ang ekklesiang inihayag dito ay ang ekklesia-lokal, ang kahayagan ng namumukod-tanging Katawan ni Kristo sa isang tiyak na lokalidad. Tinatalakay ng kapitulo 16 ang pansansinukob na pagtatayo ng ekklesia; samantalang tinatalakay ng kapitulo 18 ang lokal na pagsasagawa ng ekklesia. Kapwa ay tumutukoy na ang ekklesia ay kumakatawan sa kaharian ng mga kalangitan, may awtoridad na magtali at magkalag."
+        },
+        {
+            "id": "17-3",
+            "text": "Lit. hayaan siyang ituring kayo na gaya ng pagturing sa inyo ng Hentil at maniningil ng buwis."
+        },
+        {
+            "id": "17-4",
+            "text": "Kung ayaw pakinggan ng sinumang mananampalataya ang ekklesia, siya ay mawawalan ng pakikipagsalamuha ng ekklesia katulad ng mga taong nasa labas ng pagsasalamuha ng ekklesia: ang mga Hentil (ang mga pagano), at ang mga maniningil ng buwis (ang mga makasalanan)."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang “tinatalian” dito ay nangangahulugang kondenahin, at ang “kinakalagan” ay nangangahulugang patawarin."
+        },
+        {
+            "id": "18-2",
+            "text": "Tingnan ang tala 19-4 sa kapitulo 16."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang pagkasunduan dito ay may kahulugan ng harmonya sa musika."
+        },
+        {
+            "id": "19-2",
+            "text": "Gr. bawat bagay."
+        },
+        {
+            "id": "19-3",
+            "text": "Sa estriktong pananalita, ang “hihingin” dito ay tumutukoy sa panalanging tumutuos sa kapatid na tumatangging makinig sa ekklesia (b. 17)."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang pagtipon sa mga mananampalataya ay nanggaling sa pagkilos ng Panginoon upang tawagin sila mula sa pagkaokupa sa kanila ng mga tao, bagay, pangyayari, at tipunin tungo sa Kanyang pangalan nang sa gayon ay samasamang magtamasa sa kasaganaan ng Kanyang presensiya."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang pagtitipon ng dadalawa o tatatlo na siyang pagtitipon ng kakaunting tao ay nagpapahiwatig ng isang paraan ng pagpupulong ng ekklesia sa isang lokalidad. Ang ganitong paraan ng pagpupulong na may kakaunting tao ay tiyak na isinasagawa sa tahanan ng mga banal katulad ng sinasabi sa Gawa 2:46; 5:42. Ang layunin nito ay para sa panalangin (b. 19; Gawa 12:5,12), pagsasalamuha, pagpipira-piraso ng tinapay, pagtuturo sa mga tao, o pagpapahayag ng ebanghelyo (Gawa 2:42; 5:42). Ang ganitong hiwa-hiwalay na pagpupulong ng kakaunting bilang ng tao sa iisang lokalidad ay maaaring marami ngunit nararapat na nabibilang sa iisang ekklesia (b. 17), kung hindi, ito ay hindi na hiwalay na pagpupulong kundi paghahati-hati upang maging iba’t ibang sekta at denominasyon (Gal. 5:20)."
+        },
+        {
+            "id": "20-3",
+            "text": "Ang “dalawa o tatlo” rito ay ang dalawa o tatlo sa bersikulo 16. Sila ay maaaring magtipon nang sama-sama sa pangalan ng Panginoon, subalit hindi sila ang ekklesia; sapagkat kung may suliranin, kailangan nilang sabihin ito sa ekklesia (b. 17)."
+        },
+        {
+            "id": "23-1",
+            "text": "Sa literal ay, isang tao, isang hari."
+        },
+        {
+            "id": "23-2",
+            "text": "Ito ay tumutukoy sa paghahatol na isasagawa sa luklukan ng paghahatol ni Kristo (2 Cor. 5:10)."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang ganitong kalaking halaga ay tumutukoy na imposible para sa mangungutang na mabayaran ang pagkakautang. Ito ay tumutukoy sa bigat ng ating pagkakautang dahil sa pagkakasala laban sa Panginoon bago tayo naligtas."
+        },
+        {
+            "id": "27-1",
+            "text": "Ito ay tumutukoy sa kapatawaran ng ating mga kasalanan bilang mga alipin ng Panginoon pagkatapos na tayo ay maligtas at maging mga alipin ng Panginoon."
+        },
+        {
+            "id": "28-1",
+            "text": "Higit pang maliit kaysa sa isang bahagi ng sampung libong talento, tumutukoy sa kaliitan ng kasalanan ng kapatid laban sa atin matapos tayong maligtas at maging alipin ng Panginoon kung ihahambing sa kasalanan natin sa Panginoon."
+        },
+        {
+            "id": "31-1",
+            "text": "Kung hindi tayo nagpapatawad sa kapatid na nagkakasala sa atin, ito ay ikalulungkot ng ibang kapatid, at maaari nilang dalhin ang bagay na ito sa Panginoon."
+        },
+        {
+            "id": "34-1",
+            "text": "Ito ay tumutukoy sa pakikipagtuos ng Panginoon sa Kanyang mga mananampalataya sa Kanyang pagbabalik. Kung hindi natin pinatatawad ang kapatid na nagkakasala sa atin, tayo ay didisiplinahin ng Panginoon hanggang patawarin natin siya mula sa ating puso, yaon ay, hanggang sa mabayaran muna natin ang lahat ng ating utang sa Panginoon saka lamang Niya tayo patatawarin. Ito ay ang kapatawaran sa kaharian. Ito ay nagpapahiwatig na kung hindi tayo nagpapatawad sa kapatid mula sa ating puso ngayon, hindi tayo mapapahintulutang pumasok tungo sa kaharian sa darating na kapanahunan. Tingnan ang tala 32-2 sa kapitulo 12."
         }
     ]
 }

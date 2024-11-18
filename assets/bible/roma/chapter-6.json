@@ -1,5 +1,5 @@
 {
-    "chapter": 6,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -22,19 +22,19 @@
             "footnotes": [
                 {
                     "word": "nangabautismuhan",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "nangabautismuhan",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -45,15 +45,15 @@
             "footnotes": [
                 {
                     "word": "nangalibing",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "bautismo",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "kabaguhan",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -64,15 +64,15 @@
             "footnotes": [
                 {
                     "word": "lumagong",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "wangis",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "wangis",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -83,23 +83,23 @@
             "footnotes": [
                 {
                     "word": "Nalalamang",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "lumang",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "naipako",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "katawan",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "mapawalang-",
-                    "note": ""
+                    "id": "6-5"
                 }
             ],
             "outlines": [
@@ -112,11 +112,11 @@
             "footnotes": [
                 {
                     "word": "napalaya",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "kasalanan.",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -127,11 +127,11 @@
             "footnotes": [
                 {
                     "word": "kalakip",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "kalakip",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -142,7 +142,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -159,7 +159,7 @@
             "footnotes": [
                 {
                     "word": "ibilang",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -172,7 +172,7 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -185,11 +185,11 @@
             "footnotes": [
                 {
                     "word": "ihandog",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "sandata",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -200,15 +200,15 @@
             "footnotes": [
                 {
                     "word": "makapagpapanginoon",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "sapagka’t",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -225,7 +225,7 @@
             "footnotes": [
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -242,7 +242,7 @@
             "footnotes": [
                 {
                     "word": "napalaya",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -253,11 +253,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "ikababanal.",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -280,11 +280,11 @@
             "footnotes": [
                 {
                     "word": "bunga",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -295,18 +295,156 @@
             "footnotes": [
                 {
                     "word": "kabayaran",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "kamatayan,",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "23-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "3-1",
+            "text": "Ang bautismo ay hindi isang ritwal o isang seremonya; ito ay isang pagpapakita ng ating pakikipagkaisa kay Kristo. Sa pamamagitan ng bautismo, tayo ay binautismuhan tungo sa loob ni Kristo, kasama Niya bilang ang kinasasaklawan, ginagawa tayong kaisa Niya sa Kanyang kamatayan at pagkabuhay na muli."
+        },
+        {
+            "id": "3-2",
+            "text": "Tayo ay isinilang kay Adam, sa kinasasaklawan ng unang tao (I Cor. 15:45, 47). Ngayon sa pamamagitan ng bautismo, tayo ay inilipat tungo sa loob ni Kristo, sa loob ng kinasasaklawan (I Cor. 1:30; Gal. 3:27) ng ikalawang tao (I Cor. 15:47)."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang mabautismuhan tungo sa loob ni Kristo ay ang mabautismuhan tungo sa loob ng Kanyang kamatayan. Ang Kanyang kamatayan ang naghiwalay sa atin mula sa sanlibutan at sa madilim na kapangyarihan ni Satanas at ang tumapos sa lahat ng ating likas na buhay, lumang pag-uugali, sarili, at maging sa ating buong kasaysayan."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang ating lumang tao ay ipinakong kasama ni Kristo (b. 6). Sa pamamagitan ng bautismo, ang ating lumang tao ay inilibing kasama Niya sa loob ng kamatayan. Sa likas na panig, ang kamatayan ay nauuna bago ang paglilibing, subali’t sa espirituwal na panig, tinutukoy ni Pablo na tayo ay inilibing muna bago namatay. Tayo ay hindi namatay nang tuwiran, kundi sa pamamagitan ng pagbautismo ay pumasok at napabilang sa kamatayan ni Kristo."
+        },
+        {
+            "id": "4-2",
+            "text": "Si Kristo ay ipinagkaisa sa Kanyang kamatayan. Sa labas ni Kristo, tayo ay tiyak na hindi maaaring mabautismuhan tungo sa loob ng Kanyang kamatayan; sapagka’t ang esensiya ng bisa ng Kanyang kamatayan ay masusumpungan lamang sa Isang ito na binuhay na muli at nagpapaloob ng lahat."
+        },
+        {
+            "id": "4-3",
+            "text": "Pagkatapos ng bautismo tayo ay naging isang bagong tao sa pagkabuhay na muli. Ang pagkabuhay na muli ay hindi lamang isang panghinaharap na kalagayan bagkus isa ring pangkasalukuyang hakbangin. Ang lumakad sa kabaguhan ng buhay ay ang mabuhay ngayon sa kinasasaklawan ng pagkabuhay na muli at ang maghari sa buhay. Ang gayong pamumuhay ay tumutuos sa lahat ng mga maka-Adam na bagay na nasa loob natin, hanggang sa tayo ay lubos nang matransporma at maiwangis sa larawan ni Kristo (8:29)."
+        },
+        {
+            "id": "5-1",
+            "text": "Ito ay isang organikong pakikipagkaisa. Ang paglago ay nagaganap sa pakikipagkaisang ito upang ang isa ay makabahagi sa buhay at mga katangian ng iba. Sa organikong pakikipagkaisang ito, ang lahat ng naranasan ni Kristo ngayon ay pawang naging kasaysayan natin. Ang Kanyang kamatayan at ang Kanyang pagkabuhay na muli ay sa atin na ngayon, sapagka’t sa loob Niya, tayo ay organikong kaisa Niya. Ito ang pag-uugpong (11:24). Isinasagawa ng pag-uugpong na ito ang mga sumusunod: 1) pinalalabas ang lahat ng ating negatibong elemento; 2) binubuhay na muli ang ating mga kapasidad na nilikha ng Diyos; 3) itinataas ang ating mga kapasidad; 4) pinagyayaman ang ating mga kapasidad; at 5) pinupuspusan ang ating buong katauhan upang tayo ay matransporma."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang wangis ng kamatayan ay ang bautismo sa b. 4, at ang wangis ng pagkabuhay na muli ay ang kabaguhan ng buhay sa bersikulo 4."
+        },
+        {
+            "id": "5-3",
+            "text": "Ito ay hindi tumutukoy sa hinaharap na obhektibong pagkabuhay na muli, sa halip, ito ay tumutukoy sa kasalukuyang hakbangin ng paglago. Sa panahon ng bautismo, tayo ay lumalagong kaisa Niya sa wangis ng Kanyang kamatayan; sa kasalukuyan, sa pamamagitan ng Kanyang kamatayan, tayo ay lumalago tungo sa loob ng Kanyang pagkabuhay na muli. Sapagka’t ang esensiya ng kamatayan ni Kristo ay masusumpungan lamang kay Kristo, gayundin ang esensiya ng pagkabuhay na muli ni Kristo ay masusumpungan lamang sa Kanya. Siya Mismo ang pagkabuhay na muli (Juan 11:25). Pagkatapos nating maranasan ang wastong bautismo, tayo ay makapagpapatuloy sa loob Niya na lumagong kaisa Niya sa wangis ng Kanyang pagkabuhay na muli. Ito ang mabuhay at lumakad sa kabaguhan ng buhay."
+        },
+        {
+            "id": "6-1",
+            "text": "Sa Griyego, ang “nalalaman” ay tumutukoy sa panlabas at obhektibong kaalaman; ang “nalalaman” sa mga bersikulo 9 at 16 ay tumutukoy sa panloob at subhektibong kaalaman."
+        },
+        {
+            "id": "6-2",
+            "text": "Tumutukoy sa likas na buhay sa ating kaluluwa. Ang lumang tao ay nilikha ng Diyos subali’t natisod dahil sa kasalanan. Ito ay katulad ng “ako” sa Gal. 2:20. Ito ay hindi ang kaluluwa mismo, kundi ang pangkaluluwang buhay na walang pag-asa sa harap ng Diyos, at inilagay sa krus at naipakong kasama ni Kristo. Ang ating kaluluwa ay nagsasarili at taglay ang lumang tao bilang kanyang buhay at personalidad. Ngayong ang lumang tao ay naipako na, ang ating kaluluwa ay nararapat na maging sangkap ni Kristo na pinamamahalaan ng espiritu at taglay si Kristo bilang buhay nito."
+        },
+        {
+            "id": "6-3",
+            "text": "Tingnan ang tala 24-2 sa Gal. 5."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang katawan ay pinananahanan, inookupahan, sinisira, kinakamkam, ginagamit, at inaalipin ng kasalanan upang gumawa ng mga makasalanang bagay. Ang makasalanang katawang ito ay napakaaktibo at punô ng kalakasan sa paggawa ng kasalanan. (Ito ay naiiba sa “katawan ng kamatayang ito” na mahina at walang kalakasan sa mga bagay ng Diyos katulad ng binanggit sa 7:24). Ang katawan ng kasalanang ito ay hindi ang makasalanang persona, kundi ang instrumento sa paggawa ng mga kasalanan na ginagamit ng lumang tao upang ihayag ang kanyang sarili sa pamamagitan ng paggawa ng mga kasalanan, sa gayon ay ginagawa ang makasalanang katawang ito na maging laman. Kaya nga, ang “katawan ng kasalanan” sa bersikulong ito ay katulad ng “laman ng kasalanan” sa 8:3."
+        },
+        {
+            "id": "6-5",
+            "text": "O mahinto sa paggamit, mawalan ng trabaho, hindi makagalaw. Sapagka’t ang lumang tao ay naipakong kasama ni Kristo, ang katawang ito na ginamit ng lumang tao bilang instrumento sa paggawa ng kasalanan ay wala nang magawa at wala nang trabaho. Sa gayon tayo ay napalaya na sa kasalanan (bb. 18-22), hindi na kontrolado at hindi na inaalipin ng kasalanan."
+        },
+        {
+            "id": "7-1",
+            "text": "*Gr. dikaioö, literal na nangangahulugang naaring-matuwid."
+        },
+        {
+            "id": "7-2",
+            "text": "Tumutukoy sa kapangyarihan at pagpapahirap ng kalikasan ng kasalanan; tumutukoy rin sa mga gawa ng kasalanan kasama ang kasaysayan at kaparusahan nito."
+        },
+        {
+            "id": "8-1",
+            "text": "Muling ipinakikita nito na sa kamatayan at pagkabuhay na muli ni Kristo, tayo ay organikong ipinagkaisa sa Kanya."
+        },
+        {
+            "id": "9-1",
+            "text": "Sa loob ng Kanyang pagkabuhay na muli, si Kristo ay nangingibabaw sa kasiraan at kamatayan; tayo ay kaisa Niya sa loob ng pagkabuhay na muling ito, sa gayon tayo ay nangingibabaw sa kasiraan at kamatayan."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang pagbilang ay hindi isang teknik kundi ang kusang-kusang pananampalataya at konseptong ibinunga pagkatapos makita ang katunayang inihayag sa kapitulong ito. Dapat nating makita at paniwalaan ang mga katunayang ito, kilalanin ang mga katunayang ito, at ibilang ang ating mga sariling patay sa kasalanan at buháy sa Diyos nang ayon sa mga katunayang ito. Subali’t ang pagbilang ay hindi ang dahilan ng kamatayan, hindi nito maisasagawa ang kamatayan ni Kristo sa ating loob. Mararanasan lamang natin ang nagpapaloob ng lahat at mabisang kamatayan ni Kristo, maging ang Kanyang kamatayan at ang kapangyarihan nito, kung ating tinatamasa ang Espiritung ipinahayag sa kapitulo 8. Tinatalakay ng kapitulong ito ang tungkol sa katunayang naisagawa na ni Kristo para sa atin sa pang-obhektibo. Kinakailangan nito ang ating pananampalataya at pagbilang. Tinatalakay ng kapitulo 8 ang Espiritu sa subhektibong aspekto upang ang mga katunayang naisagawa na ni Kristo ay maging realidad sa ating praktikal na karanasan. Ito ay nangangailangan ng ating pakikipagsalamuha sa Kanya at ng ating pagtatamasa sa Kanya. Ang mga katunayang sinalaysay sa kapitulong ito ay maaaring maging karanasan natin sa loob lamang ng Espiritu sa kapitulo 8."
+        },
+        {
+            "id": "12-1",
+            "text": "Tumutukoy sa pagtatakwil sa kasalanan at pakikipagtulungan sa Espiritu ng Diyos."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang paghahandog ng ating mga sarili at ng ating mga sangkap sa Diyos ang kinalabasan ng ating pagkakita sa katunayang tayo ay namatay na at nabuhay na muli kay Kristo. Ayon sa mga katunayang ito, ibinibilang natin ang ating mga sariling patay na at nabuhay na muli."
+        },
+        {
+            "id": "13-2",
+            "text": "O, mga instrumento. Ang ating mga sangkap ay hindi lamang mga instrumento ng katuwiran; ang mga ito ay mga sandata rin ng katuwiran, magagamit natin sa katuwiran upang makipagdigma laban sa kalikuan."
+        },
+        {
+            "id": "14-1",
+            "text": "Ito ang nabigyang-katauhang kasalanan na namamanginoon sa atin sa pamamagitan ng pita ng ating laman (b. 12)."
+        },
+        {
+            "id": "14-2",
+            "text": "Tayo ay wala sa ilalim ng kautusan kundi nasa ilalim ng biyaya; ito ang dahilan kung bakit hindi makapamanginoon ang kasalanan sa atin. Ito ang nagbibigay sa atin ng katayuan upang tanggihan ang kasalanan. Ang kasalanan ay wala nang awtoridad upang tayo ay hilingan. Tayo ay may lubos na awtoridad upang tanggihan ang kasalanan at ang kapangyarihan nito. Kasabay nito, sa pamamagitan ng pagpanig kay Kristo, inihahandog natin sa katuwiran ang ating mga sarili at ang ating mga sangkap bilang mga alipin upang ang dibinong buhay ng Diyos ay makagawa sa loob natin, nang sa gayon tayo ay mapabanal, hindi lamang sa pamposisyon bagkus maging sa pandisposisyon din, kalakip ang banal na kalikasan ng Diyos."
+        },
+        {
+            "id": "14-3",
+            "text": "Ito ay hindi nangangahulugang gawin tayong liko katulad niyaong mga nagsagawa nito noong panahon ng pagbaba ng ekklesia (Jud. 4). Ang kautusang binanggit sa bersikulong ito ay tumutukoy sa kautusang ibinigay ni Moises, na ngayon sa Bagong Tipan ay nahalinhan na ng panloob na kautusan (Heb. 10:16). Ipinaliliwanag ng mga kapitulo 5-6 kung paanong tayo ay nasa ilalim ng biyaya; ipinaliliwanag naman ng mga kapitulo 7-8 kung paanong tayo ay wala na sa ilalim ng kautusan."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang “tungo sa” ay maaaring ipakahulugang “nagreresulta sa,” at gayundin sa mga sumusunod na bersikulo."
+        },
+        {
+            "id": "18-1",
+            "text": "Ito ay dahil sa pagkapako ng lumang tao (b. 6)."
+        },
+        {
+            "id": "19-1",
+            "text": "Dinadala tayo ng katuwiran tungo sa ikababanal, sa loob ng pagpapabanal. Kung ihahandog natin ang ating mga sarili bilang mga alipin sa katuwiran, at ihahandog ang mga sangkap ng ating katawan bilang sandata ng katuwiran, si Kristo—ang buhay na walang hanggan na nasa atin—ay magkakaroon ng katayuang gumawa sa loob natin, binababaran ang bawa’t bahagi ng ating panloob na katauhan ng Kanyang Sarili, sa gayon ay kusang-kusa tayong mapababanal, ginagawang banal sa pamamagitan ng pagbababad sa bawa’t bahagi ng ating katauhan."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang pagpapabanal (upang maging banal—tingnan ang tala 23 sa kap. 1) ay hindi lamang isang bagay ng pagbabago ng posisyon, yaon ay, ang maihiwalay mula sa isang karaniwan at makasanlibutang posisyon tungo sa isang posisyong para sa Diyos katulad ng inilarawan sa Mat. 23:17, 19, at I Tim 4:3-5. Ito rin ay isang bagay ng pagtatransporma sa pandisposisyon, yaon ay, ang matransporma ni Kristo na Siyang Espiritung nagbibigay-buhay, binababaran ang ating buong katauhan ng banal na kalikasan ng Diyos, tinatransporma mula sa isang likas na disposisyon tungo sa isang espirituwal na disposisyon katulad ng inilarawan sa 12:2; II Cor. 3:18."
+        },
+        {
+            "id": "22-1",
+            "text": "O, pinabanal na bunga. Tingnan ang tala 19-2 ."
+        },
+        {
+            "id": "22-2",
+            "text": "Ang pandisposisyong pagpapabanal sa kapitulong ito ay hindi lamang nagmumula sa buhay (bb. 4, 23), kundi nagreresulta rin sa buhay na nagdadala sa atin nang higit pang buhay upang matamasa natin ang masaganang buhay ng Diyos."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang kabayaran ay ayon sa gawa ng tao, ayon sa makatarungang kabayaran. Sa mata ng Diyos, ang lahat ng pagkilos na walang Diyos ay pawang kasalanan at pawang gawa ng tao. Ang nararapat na makuhang kabayaran ay kamatayan."
+        },
+        {
+            "id": "23-2",
+            "text": "Ang kamatayan ay nagmula sa kasalanan. Ito ang resulta ng kasalanan. Ang kamatayang binabanggit dito ay hindi lamang ang kamatayan ng katawan at ang walang hanggang kamatayan, bagkus tinutukoy rin ang kamatayan na siyang paggagapos na nararanasan ng tao sa pang-araw-araw. Tingnan ang tala 12-4 sa kap. 5."
+        },
+        {
+            "id": "23-3",
+            "text": "Ang buhay na walang hanggan ay tumutukoy sa buhay ng Tres-unong Diyos Mismo. Nang tayo ay inaring-matuwid ng Diyos, ang buhay na ito ay naipamahagi na sa loob natin, at sa pamamagitan ng pagpapabanal at pagtatransporma, ito ay palalaganapin sa buong katauhan natin upang mapawangis sa anyo ng Panginoon at madala ang kaluwalhatian ng Panginoon, nang sa gayon tayo ay maging karapat-dapat na makabahagi sa Kanyang maluwalhating pagpapakita (Col. 3:4)."
         }
     ]
 }

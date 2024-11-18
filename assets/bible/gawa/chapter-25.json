@@ -1,5 +1,5 @@
 {
-    "chapter": 25,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -34,7 +34,7 @@
             "footnotes": [
                 {
                     "word": "pagkakasala",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -59,7 +59,7 @@
             "footnotes": [
                 {
                     "word": "pagsasanggalang,",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -70,7 +70,7 @@
             "footnotes": [
                 {
                     "word": "matamo",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": [
@@ -89,15 +89,15 @@
             "footnotes": [
                 {
                     "word": "magbigay",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "umaapela",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "Cesar.",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -108,7 +108,7 @@
             "footnotes": [
                 {
                     "word": "konseho,",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -119,11 +119,11 @@
             "footnotes": [
                 {
                     "word": "Agripa",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Bernice",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": [
@@ -166,7 +166,7 @@
             "footnotes": [
                 {
                     "word": "relihiyon,",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -177,7 +177,7 @@
             "footnotes": [
                 {
                     "word": "natitilihan",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -200,7 +200,7 @@
             "footnotes": [
                 {
                     "word": "pangulong",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -217,7 +217,7 @@
             "footnotes": [
                 {
                     "word": "ipinasiya",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -228,7 +228,7 @@
             "footnotes": [
                 {
                     "word": "ninyo,",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -238,6 +238,64 @@
             "text": "Sapagka’t inaakala kong di-makatuwiran, na sa pagpapadala ng isang bilanggo,  ang hindi ipakilala naman ang mga laban sa kanya.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "5-1",
+            "text": "O, pagkalihis, mali."
+        },
+        {
+            "id": "8-1",
+            "text": "Tingnan ang tala 1-1 sa kap. 22."
+        },
+        {
+            "id": "9-1",
+            "text": "Inihantad nito ang kabulukan ng isa pang pulitikong Romano. Tingnan ang tala 1-3 sa kapitulo 23 at 27-3 sa kapitulo 24."
+        },
+        {
+            "id": "11-1",
+            "text": "O, magbigay sa akin bilang isang pabor sa kanila (gayundin ang b. 16)."
+        },
+        {
+            "id": "11-2",
+            "text": "Para sa kanyang pagsasanggalang, nais ni Pablo na umapela kay Cesar (tingnan ang mga tala 1-1 sa kap. 22 at 322 sa kap. 26). Ito ay makatutupad sa kanyang ninanais na makita ang Roma para sa pagpapalawig ng patotoo ng Panginoon (19:21; 23:11). Kung wala ang pag-apelang ito, tiyak na napatay siya ayon sa sabwatan ng mga Hudyo (cf. 23:12-15; 25:1-3, 9), at hindi niya naisulat ang kanyang huling walong Sulat. Bago ang kanyang pag-apela sa Roma, aanim na Sulat pa lamang ang kanyang naisulat: 1 at 2 Tesalonica, Galacia, Roma, at ang 1 at 2 Corinto. Noong panahon ng una niyang pagkabilanggo sa Roma, isinulat niya ang Colosas, Efeso, Filipos, at Filemon. Matapos ang una niyang pagkabilanggo saka niya isinulat ang 1 Timoteo, Tito, at Hebreo, at sa kanyang ikalawang pagkabilanggo ay isinulat niya ang 2 Timoteo. Kung wala itong huling walong Sulat, anong kakulangan ang tataglayin ng dibinong pahayag at anong kalugihan ang babatahin ng ekklesia! Ang kanyang pag-apela ay nagbigay ng malaking pakinabang at kabutihan sa kapakanan ng Panginoon."
+        },
+        {
+            "id": "11-3",
+            "text": "Cesar Nero."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang konseho ng lalawigang Romano na binubuo ng mga konsehal o tasador na pinili ng gobernador ng lalawigan, na madalas pagkonsultahan ng gobernador tungkol sa isang apela na katulad ng kay Pablo."
+        },
+        {
+            "id": "13-1",
+            "text": "Si Herodes Agripa II na siyang namumuno sa dakong hilaga at silangan ng Galilea, isang Hudyo ayon sa relihiyon, anak ni Herodes na binanggit sa kapitulo 12."
+        },
+        {
+            "id": "13-2",
+            "text": "Kapatid na babae ni Drusila, asawa ni Felix (24:24). Siya ay kapatid rin ni Agripa na kanyang kinakasama sa makasalanang pamamaraan. Muling ipinakikita nito ang kabulukan ng mga pulitiko sa loob ng pulitikang Romano. Tingnan ang tala 1-3 sa kapitulo 23."
+        },
+        {
+            "id": "19-1",
+            "text": "Tingnan ang tala 22-1 sa kap. 17."
+        },
+        {
+            "id": "20-1",
+            "text": "O, nalilito, yaon ay, hindi malaman kung ano ang gagawin."
+        },
+        {
+            "id": "23-1",
+            "text": "Tingnan ang tala 31-1 sa kap. 21."
+        },
+        {
+            "id": "25-1",
+            "text": "Ito ang kataas-taasang kapangyarihan ng Panginoon."
+        },
+        {
+            "id": "26-1",
+            "text": "Tumutukoy sa mga pangulong kapitan at sa mga kilalang ginoo na naroroon (b. 23)"
         }
     ]
 }

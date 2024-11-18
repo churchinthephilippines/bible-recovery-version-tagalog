@@ -1,5 +1,5 @@
 {
-    "chapter": 9,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "labindalawa,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "awtoridad",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -25,7 +25,7 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -36,7 +36,7 @@
             "footnotes": [
                 {
                     "word": "kahit",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -77,7 +77,7 @@
             "footnotes": [
                 {
                     "word": "Pinapugutan",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -104,7 +104,7 @@
             "footnotes": [
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -121,7 +121,7 @@
             "footnotes": [
                 {
                     "word": "pulu-",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -144,7 +144,7 @@
             "footnotes": [
                 {
                     "word": "labindalawang",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -155,7 +155,7 @@
             "footnotes": [
                 {
                     "word": "nagtanong",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": [
@@ -188,7 +188,7 @@
             "footnotes": [
                 {
                     "word": "itakwil",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": [
@@ -210,11 +210,11 @@
             "footnotes": [
                 {
                     "word": "mawawalan",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "mawalan",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -225,11 +225,11 @@
             "footnotes": [
                 {
                     "word": "makamtan",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "mapapahamak",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -256,7 +256,7 @@
             "footnotes": [
                 {
                     "word": "walong",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -267,7 +267,7 @@
             "footnotes": [
                 {
                     "word": "nakasisilaw.",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -308,11 +308,11 @@
             "footnotes": [
                 {
                     "word": "nagsasabi,",
-                    "note": ""
+                    "id": "35-1"
                 },
                 {
                     "word": "Hinirang.",
-                    "note": ""
+                    "id": "35-2"
                 }
             ],
             "outlines": null
@@ -408,7 +408,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -419,7 +419,7 @@
             "footnotes": [
                 {
                     "word": "pinagbawalan",
-                    "note": ""
+                    "id": "49-1"
                 }
             ],
             "outlines": null
@@ -430,7 +430,7 @@
             "footnotes": [
                 {
                     "word": "siya",
-                    "note": ""
+                    "id": "50-2"
                 }
             ],
             "outlines": null
@@ -441,7 +441,7 @@
             "footnotes": [
                 {
                     "word": "Herusalem;",
-                    "note": ""
+                    "id": "51-1"
                 }
             ],
             "outlines": [
@@ -470,11 +470,11 @@
             "footnotes": [
                 {
                     "word": "magpababa",
-                    "note": ""
+                    "id": "54-1"
                 },
                 {
                     "word": "?",
-                    "note": ""
+                    "id": "54-2"
                 }
             ],
             "outlines": null
@@ -485,7 +485,7 @@
             "footnotes": [
                 {
                     "word": "pinagsabihan.",
-                    "note": ""
+                    "id": "55-1"
                 }
             ],
             "outlines": null
@@ -496,7 +496,7 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "56-1"
                 }
             ],
             "outlines": null
@@ -507,7 +507,7 @@
             "footnotes": [
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "57-1"
                 }
             ],
             "outlines": [
@@ -523,7 +523,7 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "58-1"
                 }
             ],
             "outlines": null
@@ -534,7 +534,7 @@
             "footnotes": [
                 {
                     "word": "iba,",
-                    "note": ""
+                    "id": "59-1"
                 }
             ],
             "outlines": null
@@ -545,11 +545,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "60-1"
                 },
                 {
                     "word": "ibalita",
-                    "note": ""
+                    "id": "60-2"
                 }
             ],
             "outlines": null
@@ -560,7 +560,7 @@
             "footnotes": [
                 {
                     "word": "iba",
-                    "note": ""
+                    "id": "61-1"
                 }
             ],
             "outlines": null
@@ -571,10 +571,140 @@
             "footnotes": [
                 {
                     "word": "araro",
-                    "note": ""
+                    "id": "62-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag, na apostol."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang mga tala 27-1 sa Marcos 1 at 1-1 sa Mateo 10."
+        },
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 43-2 sa kap. 4."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 9-1 sa Mateo 10."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 27-1 sa Marc. 6."
+        },
+        {
+            "id": "12-1",
+            "text": "Para sa bb. 12-17, tingnan ang mga tala sa Mat. 14:15-21."
+        },
+        {
+            "id": "14-1",
+            "text": "Katulad ng kainan sa pamilya na hinati sa mga dulang."
+        },
+        {
+            "id": "17-1",
+            "text": "Tingnan ang tala 43-1 sa Marc. 6."
+        },
+        {
+            "id": "18-1",
+            "text": "Para sa bb. 18-27, tingnan ang mga tala sa Mat. 16:13-28."
+        },
+        {
+            "id": "22-1",
+            "text": "Itakwil sa paglilitis, nagpapahiwatig ng sadyang pagtakwil."
+        },
+        {
+            "id": "24-1",
+            "text": "O, magwawasak."
+        },
+        {
+            "id": "25-1",
+            "text": "Salita ng isang mangangalakal."
+        },
+        {
+            "id": "28-1",
+            "text": "Para sa bb. 28-36, tingnan ang mga tala sa Mat. 17:1-9."
+        },
+        {
+            "id": "29-1",
+            "text": "Lit. gumuguhit na katulad ng kidlat."
+        },
+        {
+            "id": "35-1",
+            "text": "Ito ay ang salita ng pahayag ng Diyos na binubusalan ang mga naunang may kamangmangang salita ni Pedro."
+        },
+        {
+            "id": "35-2",
+            "text": "Ang ilang manuskrito ay binabasang, Minamahal."
+        },
+        {
+            "id": "48-1",
+            "text": "Lit. na umaasa sa Aking pangalan o nang dahil sa Aking pangalan, na pinagbabatayan ang Aking pangalan."
+        },
+        {
+            "id": "49-1",
+            "text": "Tingnan ang tala 38-1 sa Marc. 9."
+        },
+        {
+            "id": "50-1",
+            "text": "Tingnan ang tala 39-1 sa Mar 9."
+        },
+        {
+            "id": "50-2",
+            "text": "Tingnan ang tala 40-1 sa Marc. 9."
+        },
+        {
+            "id": "51-1",
+            "text": "Tingnan ang tala 1-1 sa Marc. 10."
+        },
+        {
+            "id": "54-1",
+            "text": "Sina Santiago at Juan ay tinawag na mga anak ng kulog na tumutukoy sa kanilang karahasan (Marc. 3:17 at tala 2). Ang kanilang marahas na salita rito ay laban sa kagalingan at moralidad ng Tagapagligtas na kanilang sinamahan (tingnan ang tala 38-1 sa Marcos 9)."
+        },
+        {
+            "id": "54-2",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, tulad ng ginawa ni Elias."
+        },
+        {
+            "id": "55-1",
+            "text": "Ang mga sumusunod na pagbasa na idinagdag dito ay hindi makikita sa karamihang manuskrito: at sinabi, Hindi ninyo alam kung anong uri ng espiritu mayroon kayo. Ang salitang ito, na nagpapakita ng mataas na moralidad ng Taong-Tagapagligtas, ay matatagpuan lamang sa Lucas."
+        },
+        {
+            "id": "56-1",
+            "text": "Kaluluwa."
+        },
+        {
+            "id": "57-1",
+            "text": "Siya ay isa sa mga eskriba (Mat. 8:19) na sanay na sa maginhawang pamumuhay. Nakita niya ang maraming tao na naaakit sa Tagapagligtas (Mat. 8:18) at nagnais na sumunod sa Kanya para lang makapag-usisa, na hindi pa pinag-aralan ang kanyang papasukan (tingnan ang tala 19-2 sa Mat. 8). Kaya, siya ay binalaan ng Tagapagligtas sa pamamagitan ng pagtukoy na bagama’t ang mga tao ay naaakit sa Kanya, wala Siyang dakong pagpahingahan, na tumutukoy na ang sumusunod sa Kanya ay makararanas ng maraming pagdurusa."
+        },
+        {
+            "id": "58-1",
+            "text": "Ang pantaong buhay ng Tagapagligtas ay isang buhay ng pagdurusa. Sa Kanyang pagsilang, walang silid sa bahay-tuluyan para mahigaan Niya (2:7); sa panahon ng Kanyang pagmiministeryo, walang lugar para Siya ay makapagpahinga. Ang pagdurusa ay tanda ng Kanyang pantaong buhay (2:12)."
+        },
+        {
+            "id": "59-1",
+            "text": "Ang isang ito ay tinawag ng Tagapagligtas upang sumunod sa Kanya. Subalit binigyang-pansin niya ang kanyang tungkulin sa kanyang namatay na ama at hindi agad sumunod sa Kanya. Kaya, hinimok siya ng Tagapagligtas na magbayad ng halaga (tingnan ang tala 21-1 sa Mat. 8) upang siya ay maging tagasunod sa Kanyang dakilang pag-aatas sa pagpapahayag ng kaharian ng Diyos."
+        },
+        {
+            "id": "60-1",
+            "text": "Ang naglilibing ay patay sa pang-espiritwal (Juan 5:25; Efe. 2:1) at ang inililibing ay patay sa pampisikal. Ang sumama sa gayong paglilibing ay paggawa ng isang patay na gawain."
+        },
+        {
+            "id": "60-2",
+            "text": "Ang ipahayag ang kaharian ng Diyos ay isang buháy na gawain, ang gawain na ginagawang buháy ang mga patay upang makapasok sa kaharian ng Diyos."
+        },
+        {
+            "id": "61-1",
+            "text": "Ang ikatlong ito ay nagkusang-loob na sumunod sa Tagapagligtas, subalit hindi muna niya gagawin ito hangga’t hindi pa nakapagpapaalam sa kanyang pamilya. Kaya, binalaan siya ng Tagapagligtas na huwag hayaan ang anumang bagay na pumigil sa kanya sa kanyang pagpasok sa kaharian ng Diyos."
+        },
+        {
+            "id": "62-1",
+            "text": "Sa pag-aararo, kinakailangang ibaling ng isang tao ang buo niyang pansin sa hanay na inaararo. Ang munting pagkaabala, huwag nang banggitin pa ang ukol sa paglingon, ay makapaglilihis sa nag-aararo mula sa tuwid na hanay. Ang sumunod sa Tagapagligtas ay nangangailangan ng ating paglimot sa lahat ng bagay at lubos na pagsisikap na sumulong para sa kaharian ng Diyos."
         }
     ]
 }

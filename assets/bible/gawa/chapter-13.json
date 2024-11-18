@@ -1,5 +1,5 @@
 {
-    "chapter": 13,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,39 +7,39 @@
             "footnotes": [
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "propeta",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "guro:",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "Bernabe",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "Niger,",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "Lucio",
-                    "note": ""
+                    "id": "1-6"
                 },
                 {
                     "word": "Manaen",
-                    "note": ""
+                    "id": "1-7"
                 },
                 {
                     "word": "Herodes",
-                    "note": ""
+                    "id": "1-8"
                 },
                 {
                     "word": "Saulo.",
-                    "note": ""
+                    "id": "1-9"
                 }
             ],
             "outlines": [
@@ -52,15 +52,15 @@
             "footnotes": [
                 {
                     "word": "naglilingkod",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "Ibukod",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -71,11 +71,11 @@
             "footnotes": [
                 {
                     "word": "nakapag-",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "naipatong",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -86,7 +86,7 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -97,11 +97,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": [
@@ -116,7 +116,7 @@
             "footnotes": [
                 {
                     "word": "salamangkero,",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -127,7 +127,7 @@
             "footnotes": [
                 {
                     "word": "proconsul",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -138,7 +138,7 @@
             "footnotes": [
                 {
                     "word": "pananampalataya.",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -149,11 +149,11 @@
             "footnotes": [
                 {
                     "word": "Pablo",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "napuspusan",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -164,7 +164,7 @@
             "footnotes": [
                 {
                     "word": "daang",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -187,7 +187,7 @@
             "footnotes": [
                 {
                     "word": "iniwan",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": [
@@ -201,7 +201,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -212,7 +212,7 @@
             "footnotes": [
                 {
                     "word": "kung",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -223,7 +223,7 @@
             "footnotes": [
                 {
                     "word": "yaong",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -234,7 +234,7 @@
             "footnotes": [
                 {
                     "word": "mataas",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -245,7 +245,7 @@
             "footnotes": [
                 {
                     "word": "kinalinga",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -256,7 +256,7 @@
             "footnotes": [
                 {
                     "word": "apat",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -279,7 +279,7 @@
             "footnotes": [
                 {
                     "word": "puso,",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -296,11 +296,11 @@
             "footnotes": [
                 {
                     "word": "bago",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "bautismo",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -311,11 +311,11 @@
             "footnotes": [
                 {
                     "word": "katungkulan,",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "akala",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -326,7 +326,7 @@
             "footnotes": [
                 {
                     "word": "yaong",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -337,7 +337,7 @@
             "footnotes": [
                 {
                     "word": "paghuhukom",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -360,7 +360,7 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -383,7 +383,7 @@
             "footnotes": [
                 {
                     "word": "ipinanganak",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -394,11 +394,11 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
@@ -409,7 +409,7 @@
             "footnotes": [
                 {
                     "word": "hahayaan",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -420,11 +420,11 @@
             "footnotes": [
                 {
                     "word": "mapaglingkuran",
-                    "note": ""
+                    "id": "36-1"
                 },
                 {
                     "word": "inilibing",
-                    "note": ""
+                    "id": "36-2"
                 }
             ],
             "outlines": null
@@ -435,7 +435,7 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -452,7 +452,7 @@
             "footnotes": [
                 {
                     "word": "inaaring-",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -481,11 +481,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "43-1"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "43-2"
                 }
             ],
             "outlines": null
@@ -510,7 +510,7 @@
             "footnotes": [
                 {
                     "word": "di-karapat-dapat",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
@@ -521,7 +521,7 @@
             "footnotes": [
                 {
                     "word": "kitang",
-                    "note": ""
+                    "id": "47-1"
                 }
             ],
             "outlines": null
@@ -532,7 +532,7 @@
             "footnotes": [
                 {
                     "word": "itinalaga",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -561,10 +561,216 @@
             "footnotes": [
                 {
                     "word": "nangapuspos",
-                    "note": ""
+                    "id": "52-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 11 sa kap. 8."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang 283 sa I Cor. 12."
+        },
+        {
+            "id": "1-3",
+            "text": "Tingnan ang 284 sa I Cor. 12."
+        },
+        {
+            "id": "1-4",
+            "text": "Isang Levita, isang taga-Chipre sa pagkasilang (4:36)."
+        },
+        {
+            "id": "1-5",
+            "text": "Nangangahulugang itim at tumutukoy sa isang Negro, maaaring nagmula sa Aprika ang kanyang ninuno."
+        },
+        {
+            "id": "1-6",
+            "text": "Isang taga-Cirene na galing sa Cirene sa Hilagang Aprika. Maaaring siya ay isang Hudyo kung siya ang Lucio sa Roma 16:21, na kamag-anak ni Pablo."
+        },
+        {
+            "id": "1-7",
+            "text": "Isang kapatid sa gatas ni Herodes na may pampamahalaang kaugnayan sa mga Romano. Kaya si Manaen ay maaaring naging katulad ng mga taga-Europa sa kanyang kaugalian at hilig."
+        },
+        {
+            "id": "1-8",
+            "text": "Na siyang pumatay kay Juan Bautista (Luc. 9:7-9). Ito ang makapangyarihang paggawa ng Panginoon na ang kapatid sa gatas ng pumatay kay Juan Bautista ay naging isa sa mga nangungunang nagpapangsyong sangkap sa loob ng ekklesia."
+        },
+        {
+            "id": "1-9",
+            "text": "Isang Hudyong isinilang sa Tarso at tinuruan ni Gamaliel ayon sa kautusan ni Moises (22:3). Ang limang propeta at guro na nakatala rito ay binuo ng mga Hudyo at Hentil na may iba’t ibang pinanggalingan, pinag-aralan, at katayuan. Tinutukoy nito na ang ekklesia ay binubuo ng lahat ng lahi at uri ng tao anuman ang kanilang pinanggalingan, at yaong ang mga espirituwal na kaloob at pangsyon na ibinigay sa mga sangkap ng Katawan ni Kristo ay hindi nababatay sa kanilang likas na katayuan."
+        },
+        {
+            "id": "2-1",
+            "text": "Hindi nakikipagsanggunian sa mga tao at hindi rin umaasa sa organisasyon."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang Espiritu Santo ay ang “Kristong Espiritu”, ang Ulo ng Katawan."
+        },
+        {
+            "id": "2-3",
+            "text": "Ito ay isang napakalaking hakbang na ginanap ng Panginoon sa ikalalaganap ng ebanghelyo ng Kanyang kaharian sa daigdig ng mga Hentil. Ito ay sinimulan sa Antioquia, isang sentro ng mga Hentil sa Siria, na walang pagtatatag ng isang misyon, walang pangingilak ng pondo, walang pantaong pagtatalaga, at walang anumang pantaong plano at pamamaraan. Ito ay sinimulan ng limang tapat at naghahanap na sangkap ng Katawan, na nagbukas ng isang pagkakataon, sa pamamagitan ng kanilang pagmiministeryo at pag-aayuno, sa Ulo ng Katawan, na Siya, bilang ang Espiritu, ang magbubukod sa kanila upang maganap ang Kanyang dakilang pag-aatas upang ipalaganap ang Kanyang kaharian para sa pagtatatag ng Kanyang ekklesia sa daigdig ng mga Hentil sa pamamagitan ng pagpapahayag ng Kanyang ebanghelyo. Ang pangunahing hakbanging ito ay walang pang-organisasyong kinalaman sa ekklesia sa Herusalem, at wala ito sa ilalim ng kapamahalaan at tagubilin ni Pedro at ng iba pang labing-isang apostol sa Herusalem. Ito ay sinimulang tanging-tangi at purung-puro sa sentro ng mga Hentil, malayo sa kapaligiran at impluwensiya ng anumang kinamulatan ng mga Hudyo at pagsasagawa, at maging sa gawain at impluwensiya ng ekklesia sa Herusalem. Ito ay isang pagkilos na lubusang sa pamamagitan ng Espiritu, sa loob ng Espiritu, at kasama ng Espiritu sa pamamagitan ng koordinasyon ng mga tapat at naghahanap na sangkap ng Katawan ni Kristo sa lupa kasama ng Ulo sa kalangitan. Kung gayon, ito ay hindi isang relihiyosong kilusan na may pantaong pagtatakda. Mula sa Antioquia ang pagkilos ng Panginoon sa lupa para sa Bagong Tipang ekonomiya ng Diyos ay nagkaroon ng ganap na bagong simula. Bagama’t ang daloy ng pagkilos ng Panginoon ay nagsimula sa Herusalem sa araw ng Pentecostes, at di naglaon ay dumating sa Antioquia at sumulong buhat sa Antioquia patungo sa daigdig ng mga Hentil, ito ay nagkaroon ng isang pinadalisay na panimula ng Espiritu sa pagbaling nito sa Antioquia."
+        },
+        {
+            "id": "3-1",
+            "text": "Hindi napag-usapan at napagpasiyahan."
+        },
+        {
+            "id": "3-2",
+            "text": "Tingnan ang tala 144 sa I Timoteo 4. Dito ang pagpapatong ng mga kamay ay tumutukoy sa pakikipag-isa, sumasagisag na silang nagpatong ng kanilang mga kamay ay nakikiisa roon sa mga pinatungan ng kanilang mga kamay. Sa pamamagitan nito inihayag nila sa lahat na sila ay nakikiisa sa mga isinugo sa kanilang paglakad upang tuparin ang dakilang pag-aatas ng Panginoon."
+        },
+        {
+            "id": "4-1",
+            "text": "Sa bersikulo 3 sina Bernabe at Saulo ay isinugo ng tatlong iba pa. Nguni’t dito ay sinasabi na sila ay isinugo ng Espiritu. Ito ay nagpapatunay na ang tatlo ay nakikiisa sa Espiritu sa pagkilos ng Panginoon, at kinilala ng Espiritu ang pagsugo nila bilang Kanyang pagsugo."
+        },
+        {
+            "id": "4-2",
+            "text": "Ito ang simula ng unang pangministeryong paglalakbay ni Pablo, na nagtapos sa 14:27."
+        },
+        {
+            "id": "5-1",
+            "text": "Sina Bernabe at Saulo ay hindi nagtungo upang dumalo sa pagtitipon sa sinagoga ng mga Hudyo kundi upang samantalahin ang kanilang pagtitipon nang sa gayon ay maipahayag nila ang salita ng Diyos, tulad ng ginawa ng Panginoon nang Siya ay nasa lupa (Mat. 4:23; Luc. 4:16). Tingnan ang tala 141."
+        },
+        {
+            "id": "5-2",
+            "text": "Tingnan ang tala 21 sa Sant. 2."
+        },
+        {
+            "id": "6-1",
+            "text": "*Gr. magos.* Gayundin sa bersikulo 8."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang gobernador ng isang pamahalaang lokal sa Emperyo Romano."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang obhektibong pananampalataya, tumutukoy sa nilalaman ng ebanghelyo na siyang pinaniniwalaan ng mga mananampalataya ni Kristo (tingnan ang tala 11, talata 2, sa I Tim. 1)."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang pagbabago ng pangalan ay maaaring tumutukoy sa pagbabago sa buhay. Sa alinmang kalagayan, mula rito, si Pablo, nang napuspusan ng Espiritu Santo, ay tuluyang nanguna sa pang-apostol na ministeryo. 92 Ang panlabas na pagpupuspos para sa kapangyarihan. Tingnan ang tala 42 sa kapitulo 2."
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang 151 sa II Ped. 2. 131 Batay sa 15:38, ang dahilan ng paglisan ni Juan ay tiyak na negatibo, at sa ganoon ay isang pagpapahina ng loob para kay Pablo at sa kanyang mga kasamahan. Gayunpaman, siya ay nabawing maging kasama ni Pablo sa bandang huli ng ministeryo ni Pablo (Col. 4:10-11; II Tim. 4:11)."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang layunin ng pagpunta ng mga apostol sa sinagoga sa araw ng Sabbath ay hindi upang ipangilin ang Sabbath, kundi upang samantalahin ang pagkakataong makapangaral ng ebanghelyo (tingnan ang tala 51)."
+        },
+        {
+            "id": "15-1",
+            "text": "Lit. kung mayroon sa inyong anumang salita."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang mga Hentil na naghahanap sa Diyos."
+        },
+        {
+            "id": "17-1",
+            "text": "Yaon ay, itinaas."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang ibang manuskrito ay binabasang, pinagtiyagaan Niya sila."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang 450 taon ay nagpapaloob ng panahon ng paninirahan ng bayan sa Ehipto (b. 17) hanggang sa panahon ng propetang si Samuel (b. 20), yaon ay, ang panahon nang si David ay lubusang nagkaroon ng awtoridad at paghahari sa buong Israel (II Sam. 5:3-5; cf. Huk. 11:26; I Hari 6:1)."
+        },
+        {
+            "id": "22-1",
+            "text": "Si David ay isang taong ayon sa puso ng Diyos, yaon ay, ayon sa kagustuhan ng puso ng Diyos, hindi lamang ayon sa salita ng Diyos. Gagawin ng ganitong tao ang lahat ng kalooban ng Diyos."
+        },
+        {
+            "id": "24-1",
+            "text": "Lit. bago ang pagpasok ng Kanyang mukha."
+        },
+        {
+            "id": "24-2",
+            "text": "Tingnan ang tala 42 sa Marcos 1."
+        },
+        {
+            "id": "25-1",
+            "text": "*Gr. dromos. lit. takbuhin; sa Ingles race, career."
+        },
+        {
+            "id": "25-2",
+            "text": "Pag-isipan ng lihim o sapantaha."
+        },
+        {
+            "id": "26-1",
+            "text": "Tingnan ang tala 61 sa kap. 1."
+        },
+        {
+            "id": "27-1",
+            "text": "Yaon ay, paghahatol sa Kanya sa kamatayan (Luc. 24:20)."
+        },
+        {
+            "id": "30-1",
+            "text": "Tingnan ang tala 241 sa kap. 2."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang pagkabuhay na muli ay isang kapanganakan para sa Taong si Hesus. Siya ay inianak ng Diyos sa Kanyang pagkabuhay na muli upang maging Panganay na Anak ng Diyos sa gitna ng maraming kapatid (Roma 8:29). Siya ang bugtong na Anak ng Diyos mula sa kawalang hanggan (Juan 1:18; 3:16). Pagkatapos ng Kanyang pagkakatawang tao, sa pamamagitan ng pagkabuhay na muli, Siya ay inianak ng Diyos sa Kanyang pagkatao upang maging panganay na Anak ng Diyos."
+        },
+        {
+            "id": "34-1",
+            "text": "Lit. ang mga banal na bagay, (Gr. hosios, pangmaramihan), ang tapat (o tiyak). Ang gayunding salita (hosios) ay ginamit para sa Banal sa susunod na bersikulo, nguni’t sa pang-isahan. Datapuwa’t ito ay hindi regular na salita para sa banal, na hagios. Ang hosios ay Griyegong katumbas ng salitang chesed sa Hebreo, na isinaling “mga kaawaan” sa Isa. 55:3; II Cron. 6:42; at Awit 89:1, kapwa sa Septuagint at sa KJV. Sa Awit 89, ang chesed sa bersikulo 1 para sa “mga kaawaan” sa pangmaramihan ay katulad ng salita sa bersikulo 19 para sa Banal sa pang-isahan. Ang Banal na ito ay si Kristo, ang Anak ni David, na Siyang sentro at tagapaghatid ng mga kaawaan ng Diyos. Kaya, ang mga banal at tapat na bagay ni David ay tumutukoy sa Kristong nabuhay na muli. Ito ay ganap na pinatunayan ng ibig sabihin ng nilalaman lalung-lalo na sa pamamagitan ng “Iyong Banal” sa sumusunod na bersikulo (b. 35), at sa pamamagitan ng bersikulong sumusunod sa Isa. 55:3."
+        },
+        {
+            "id": "34-2",
+            "text": "Tingnan ang tala 751 sa Lucas 1. Gayundin sa bersikulo 35."
+        },
+        {
+            "id": "35-1",
+            "text": "Lit. ibibigay."
+        },
+        {
+            "id": "36-1",
+            "text": "Ito ay tumutukoy na ang paghahari ni David bilang hari ay isang paglilingkod sa kanyang henerasyon ayon sa kalooban ng Diyos."
+        },
+        {
+            "id": "36-2",
+            "text": "Lit. idinagdag."
+        },
+        {
+            "id": "37-1",
+            "text": "Tingnan ang tala 241 sa kap. 2."
+        },
+        {
+            "id": "39-1",
+            "text": "Ang mapatawad sa mga kasalanan ay negatibo (b.38), para sa ating kalayaan mula sa kondenasyon; ang mabigyang-katuwiran ay positibo, para sa ating pakikipagkasundo sa Diyos at pagtanggap Niya sa atin."
+        },
+        {
+            "id": "43-1",
+            "text": "Tingnan ang tala sa 101 sa kapitulo 2."
+        },
+        {
+            "id": "43-2",
+            "text": "Tingnan ang tala sa 231 sa kapitulo 11."
+        },
+        {
+            "id": "46-1",
+            "text": "Ang itakwil ang salita ng Diyos ay nagpapatunay na ang isang ito, sa pamamagitan ng kanyang sariling paghatol, ay di-karapat-dapat sa walang hanggang buhay. Tingnan ang tala 481."
+        },
+        {
+            "id": "47-1",
+            "text": "Ang salitang ito ay isang sipi mula sa Isa. 49:6, na tumutukoy kay Kristo bilang Alipin ng Diyos, na itinatag ng Diyos na isang ilaw sa mga Hentil upang ang Kanyang pagliligtas ay umabot sa kadulu-duluhang hangganan ng lupa. Inilapat ni Apostol Pablo, dahil siya ay nakikipag-isa kay Kristo sa pagsasagawa ng pagliligtas ng Diyos kay Kristo, sa kanyang sarili ang pampropesiyang salitang ito sa kanyang ministeryo ng pangangaral ng ebanghelyo para sa pagbaling ng ebanghelyo mula sa mga Hudyo tungo sa mga Hentil dahil sa pagtatakwil ng mga Hudyo sa ebanghelyo. Sa Kanyang ministeryo sa lupa ang Panginoon ay nagpahayag ng gayunding bagay sa mga Hudyong matitigas ang ulo sa Luc. 4:24-27."
+        },
+        {
+            "id": "48-1",
+            "text": "Ang itakwil ang ebanghelyo ay katibayan ng isang hindi pagiging karapat-dapat sa buhay na walang hanggan (b. 46); ang sumampalataya rito ay katunayan ng pagiging isang nahirang o itinalaga ng Diyos sa buhay na walang hanggan. Ang paghirang o pagtatalaga noong una pa ng Diyos para sa ikaliligtas ng tao ay nasa Kanyang kapangyarihan. Ganoon pa man, hinahayaan Niya ang tao sa kanyang sariling kapasiyahan. Kung sasampalatayanan o tatanggihan ng tao ang pagliligtas ng Diyos ay nakasalalay sa sariling pagpapasiya ng tao."
+        },
+        {
+            "id": "52-1",
+            "text": "Gr . pleroo, napuspusan sa panloob. Tingnan ang tala 42 sa kapitulo 2. Ang panloob na pagpupuspos ng Espiritu Santo sa pang-esensiya ay para sa buhay at hindi para sa kapangyarihan. Ang kagalakan bilang isang bagay ng buhay, hindi isang bagay ng kapangyarihan, ay nagpapatunay nito."
         }
     ]
 }

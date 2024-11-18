@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Atenas,",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -22,11 +22,11 @@
             "footnotes": [
                 {
                     "word": "kamanggagawa",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "palakasin",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -37,11 +37,11 @@
             "footnotes": [
                 {
                     "word": "mabagabag",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "itinalaga",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -52,7 +52,7 @@
             "footnotes": [
                 {
                     "word": "sinabi",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -63,11 +63,11 @@
             "footnotes": [
                 {
                     "word": "manunukso,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "mawalan",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -78,7 +78,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -89,11 +89,11 @@
             "footnotes": [
                 {
                     "word": "naaliw",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "pangangailangan",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -104,11 +104,11 @@
             "footnotes": [
                 {
                     "word": "nabubuhay",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "maninindigang",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -125,7 +125,7 @@
             "footnotes": [
                 {
                     "word": "mapasakdal",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -136,7 +136,7 @@
             "footnotes": [
                 {
                     "word": "patnubayan",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -147,7 +147,7 @@
             "footnotes": [
                 {
                     "word": "pag-ibig",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -158,32 +158,114 @@
             "footnotes": [
                 {
                     "word": "Upang",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "puso,",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "kabanalan",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "pagparito",
-                    "note": ""
+                    "id": "13-4"
                 },
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "13-5"
                 },
                 {
                     "word": "",
-                    "note": ""
+                    "id": "13-6"
                 }
             ],
             "outlines": [
                 "2. Pag-asa ang Pampalakas-loob\n b. 13"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang punong lunsod ng lalawigan ng Acaya ng Romanong Emperyo, kung saan nagpahayag ng ebanghelyo si Apostol Pablo sa mga pilosopong Griyego (Gawa 17:15-34)."
+        },
+        {
+            "id": "3-1",
+            "text": "Kung tayo ay napagtibay sa pananampalataya (b. 2), ang mga kapighatian ay makabubuti sa atin (Roma 8:28) ayon sa layunin ng Diyos sa Kanyang pagtatalaga. Kung hindi, tayo ay maaaring mabagabag ng manunukso (b. 5) sa pamamagitan ng mga kapighatian."
+        },
+        {
+            "id": "3-2",
+            "text": "O, itinakda, isinaayos, inilagay. Ang Diyos ay nagtakda, nagtalaga, na tayo ay nararapat dumaan sa mga kapighatian. Kaya nga, ang mga kapighatian ay itinalagang bahagi sa atin, at tayo ay Kanyang isinaayos, inilagay, sa sitwasyon ng mga kapighatian."
+        },
+        {
+            "id": "4-1",
+            "text": "Nangangahulugan sa Griyego na paulit-ulit na sinabi."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang tusong Diyablo, ang matandang ahas, na tumukso kay Eva (Gen. 3:1-6; 1 Tim. 2:14)."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang pakay ng tusong manunukso ay ang pawalang kabuluhan ang pang-ebanghelyong gawain na isinagawa sa pamamagitan ng mga kamanggagawa ng Diyos."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang apostol ay pumunta sa Corinto pagkatapos lisanin ang Atenas (Gawa 17:15-16; 18:1, 5). Doon niya sinulat itong kaibig-ibig na sulat sa mga mahal na banal sa Tesalonica upang palakasin ang loob nila."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang malusog na kalagayan ng mga mananampalataya ay palaging isang kaaliwan sa mga kamanggagawa ng Diyos, na gumagawa sa kanila at pumapasan sa kanila."
+        },
+        {
+            "id": "7-2",
+            "text": "O, kagipitan. Tingnan ang mga talâ 26-2 sa 1 Corinto 7 at 10-3 sa 2 Corinto 12."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang paninindigang matibay ng mga mananampalataya sa Panginoon ay naghahain ng buhay sa mga apostol."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang manindigang matibay sa Panginoon ay kabaligtaran ng pagiging nabagabag sa pananampalataya (b. 3)."
+        },
+        {
+            "id": "10-1",
+            "text": "Lit., makumpleto ang inyong pananampalataya; sa salitang Griyego ay katulad ng sa 2 Corinto 13:9 (tingnan ang talâ roon). Ang mga mananampalataya sa Tesalonica, sa pagiging bata pa sa Panginoon, ay may kakulangan pa rin sa kanilang bagong pananampalataya. Ito ay napagtanto ng apostol na may lubhang mapagmahal na pagmamalasakit sa kanila. Ito ang dahilan ng kanyang pagsulat ng Liham na ito."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang “patnubayan” sa Griyego ay nasa pang-isahan. Ito ay nagpapakita na itinuturing ng apostol ang Diyos Ama at ang Panginoong Hesus bilang isa. Napakabuti nga na pinapatnubayan ng Isang gayon ang ating daan sa ministeryo! At gaanong kaganda ang mga yapak ng mga apostol sa kanilang pagsasagawa ng ministeryo ng Isang ito para sa kaganapan ng Kanyang layunin!"
+        },
+        {
+            "id": "12-1",
+            "text": "Ang pagmamalasakit ng apostol sa mga batang mananampalataya, unang-una, ay para sa kanilang pananampalataya (bb. 2-10). Kasunod ng pananampalataya ay ang pag-ibig, na ang pinanggalingan ay ang pananampalataya at gumagawang kasama ng pananampalataya (Gal. 5:6; 1 Tim. 1:14 at talâ 2) bilang isang tanda ng paglago sa buhay (1:3)."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang pagpapatatag sa mga puso ng mga mananampalataya na walang kapintasan ay nanggaling sa pananampalataya at pag-ibig, katulad ng binanggit sa mga nauunang bersikulo. Kusang ibinubunga nito ang pag-asa, ang pag-asa sa pagbabalik ng ating mahal na Panginoon, na Siyang ating sinasampalatayanan at Siyang ating iniibig. Kaya nga, muli, ang pananampalataya, pag-ibig, at pag-asa ay ang mga ipinahiwatig na salik sa pagkakayari ng Liham na ito."
+        },
+        {
+            "id": "13-2",
+            "text": "Kung panloob ang pag-uusapan, ang ating mga puso ay dapat mapatatag sa kabanalan; kung panlabas ang pag-uusapan, ang ating mga katawan ay dapat maingatan sa kabanalan (4:4; 5:23). Ito ang mamuhay sa isang pinabanal na pamumuhay. Ang ganitong pinabanal na pamumuhay ay para sa buhay-ekklesia."
+        },
+        {
+            "id": "13-3",
+            "text": "Tingnan ang mga talâ 2-1 at 4-1 sa Roma 1."
+        },
+        {
+            "id": "13-4",
+            "text": "Gr., parousia . Tingnan ang talâ 19-1 sa kapitulo 2."
+        },
+        {
+            "id": "13-5",
+            "text": "Mga mananampalataya kay Kristo (tingnan ang mga talâ 7-1 sa Roma 1 at 2-6 sa 1 Corinto 1), kabilang ang mga banal sa Lumang Tipan (Dan. 7:18, 21-22, 25, 27; Zac. 14:5)."
+        },
+        {
+            "id": "13-6",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, Amen."
         }
     ]
 }

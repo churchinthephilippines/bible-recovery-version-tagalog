@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "hinirang",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "lubos",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -32,15 +32,15 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "ipinangako",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -51,15 +51,15 @@
             "footnotes": [
                 {
                     "word": "panahon",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "utos",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -70,7 +70,7 @@
             "footnotes": [
                 {
                     "word": "pangkalahatang",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -81,7 +81,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": [
@@ -94,7 +94,7 @@
             "footnotes": [
                 {
                     "word": "asawa",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -105,23 +105,23 @@
             "footnotes": [
                 {
                     "word": "episkopo",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "7-4"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "7-5"
                 }
             ],
             "outlines": null
@@ -132,15 +132,15 @@
             "footnotes": [
                 {
                     "word": "bukas",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "mahinahon",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "banal,",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -151,27 +151,27 @@
             "footnotes": [
                 {
                     "word": "nananangan",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "tapat",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "pagtuturo,",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "malusog",
-                    "note": ""
+                    "id": "9-4"
                 },
                 {
                     "word": "mapaamin",
-                    "note": ""
+                    "id": "9-5"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "9-6"
                 }
             ],
             "outlines": null
@@ -182,7 +182,7 @@
             "footnotes": [
                 {
                     "word": "yaong",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": [
@@ -196,11 +196,11 @@
             "footnotes": [
                 {
                     "word": "matikom,",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -211,11 +211,11 @@
             "footnotes": [
                 {
                     "word": "kanila,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "propetang",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -226,23 +226,23 @@
             "footnotes": [
                 {
                     "word": "sawayin",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "sila",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "malulusog",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "13-4"
                 }
             ],
             "outlines": null
@@ -253,19 +253,19 @@
             "footnotes": [
                 {
                     "word": "katha-katha",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "utos",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "katotohanan.",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": null
@@ -276,19 +276,19 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "narungisan",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "kaisipan",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "narungisan.",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -299,14 +299,196 @@
             "footnotes": [
                 {
                     "word": "nagpapanggap",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "disaprobado",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Si Pablo ay isang apostol ayon sa apat na bagay: 1) utos ng Diyos (1 Tim. 1:1), 2) pangako ng buhay (2 Tim. 1:1), 3) pananampalataya ng mga hinirang ng Diyos, at 4) lubos na pagkaalam sa katotohanan na ayon sa pagkamakadiyos. Ang utos ay sa panig ng Diyos, nagsasalita para sa Kanya at humihiling sa atin ng isang bagay para sa Kanya. Ang pananampalataya ay sa panig natin, tumutugon sa mga kahilingan ng Diyos at tumatanggap ng Kanyang buhay. Ito ay isang proklamasyon na hindi natin kayang tuparin ang mga kahilingan ng Diyos, subalit ang lahat ay ginawa na ng Diyos para sa atin, at yaong tinatanggap natin ang Kanyang ginawa. Ang buhay na ipinangako ng Diyos ang siya nating tinanggap mula sa Kanya upang maisagawa ang Kanyang kahilingan. Sa ganitong paraan naging apostol si Pablo upang pangasiwaan ang Bagong Tipang ekonomiya ng Diyos."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 10-1 sa 2 Timoteo 2."
+        },
+        {
+            "id": "1-3",
+            "text": "Tingnan ang tala 4-2 sa 1 Timoteo 2. Si Pablo ay isang apostol hindi lamang ayon sa pananampalataya, bagkus ayon din sa lubos na pagkaalam sa katotohanan. Ang pananampalataya ay ang tanggapin ang lahat ng inihanda ng Diyos para sa atin, ang lahat ng ginawa ng Diyos para sa atin, at ang lahat ng ibinigay ng Diyos sa atin. Ang lubos na pagkaalam sa katotohanan ay isang lubusang pagkaunawa sa katotohanan, isang buong pagkilala at pagpapahalaga sa realidad ng lahat ng mga bagay na espiritwal at dibino na ating tinanggap sa pamamagitan ng pananampalataya. Ang pagkaapostol ay naaayon sa gayong pagkaunawa at pagpapahalaga sa realidad ng walang hanggang ekonomiya ng Diyos."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang katotohanan, ang realidad, ng walang hanggang ekonomiya ng Diyos ay naaayon sa pagkamakadiyos; ang pagkamakadiyos ay ang Diyos na nahayag sa tao (tingnan ang mga tala 16-1 at 16-2 sa 1 Timoteo 3). Ang pagkaapostol ay ang pamamahagi ng realidad na ito sa mga hinirang na mananampalataya ng Diyos at ang pagsasakatuparan ng gayong pagkamakadiyos sa gitna nila sa pamamagitan ng pangangaral, pagtuturo, at pangangasiwa ng Salita at ng Espiritu (1 Tim. 6:3)."
+        },
+        {
+            "id": "2-1",
+            "text": "Si Pablo ay isang apostol hindi lamang ayon sa pananampalataya at sa pagkaalam sa katotohanan, bagkus sa pag-asa rin sa buhay na walang hanggan, na ipinangako sa kawalang-hanggan ng Diyos na hindi makapagsisinungaling. Ito ay tumutugma sa “ayon sa pangako ng buhay” sa 2 Tim. 1:1. Ang “sa pag-asa sa buhay na walang hanggan” ay nangangahulugang sa batayan, sa katayuan ng, nagtitiwala sa pag-asa ng, buhay na walang hanggan. Ang buhay na walang hanggan, ang di-nilikhang buhay ng Diyos, ay hindi lamang para malahukan at matamasa natin sa ngayon, bagkus para manahin din natin (Mat. 19:29) sa kabuuan nito nang walang hanggan. Ang pangkasalukuyang karanasan sa buhay na walang hanggan ay nagpapaging-dapat sa atin upang mamana ito sa hinaharap. Ang pagtatamasa nito sa ngayon ay isang patikim; ang matamasa ito nang ganap ay ang pagmamana nito sa darating na kapanahunan at sa kawalang-hanggan, na siyang pag-asa sa buhay na walang hanggan (tingnan ang tala 7-3 sa kap. 3). Ito ay ang pinagpalang pag-asa na inihayag sa 2:13, na binubuo ng kalayaan ng kaluwalhatian ng ganap na pagka-anak, ang pagtutubos ng ating katawan (Roma 8:21-25), ang kaligtasang ihahayag sa huling panahon (1 Ped. 1:5), at ang buháy na pag-asa ng di-nabubulok, di-narurungisan, at di-kumukupas na pamana na inilaan sa kalangitan (1 Ped. 1:3-4). Ito ay ang buo, espirituwal, dibino, at makalangit na pagpapala at pagtatamasa sa buhay na walang hanggan, kapwa sa isang libong taon at sa bagong langit at bagong lupa (2 Ped. 1:11; 3:13; Apoc. 21:6-7), na tinukoy sa 1 Tim. 4:8. Pinanagutan ni Pablo ang kanyang pagkaapostol at isinagawa ang kanyang apostolikong ministeryo, hindi batay sa kapakinabangan ng pangkasalukuyang buhay, ni sa kondisyon ng pribilehiyo ng kautusan, kundi batay sa kondisyon ng pag-asang ito, nagpapakita na para sa kanyang pagkaapostol siya ay umasa at nagtiwala sa dibinong buhay na kasama ang lahat ng pag-asa nito, na ipinangako ng Diyos sa kawalang-hanggan at dinala sa atin sa pamamagitan ng ebanghelyo (2 Tim. 1:10). Tinatalakay ng Sulat kay Tito ang pagpapanatili ng kaayusan sa mga ekklesia. Dahil dito, ang pananampalataya ng mga hinirang ng Diyos, ang katotohanan ayon sa pagkamakadiyos, at ang buhay na walang hanggan ay kinakailangan. Kaya sa panimulang pananalita pa lamang ay ipinahayag na ang tatlong bagay na ito."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang buhay na walang hanggan ay ang dibinong buhay, ang di-nilikhang buhay ng Diyos, hindi lamang walang hanggan sa panahon, yaon ay, nananatili magpakailanman, bagkus walang hanggan at dibino rin sa kalikasan nito. Tingnan ang tala 10-3 sa 2 Timoteo 1."
+        },
+        {
+            "id": "2-3",
+            "text": "Tiyak na ito ang pangako ng Ama sa Anak sa kawalang-hanggan. Bago pa man itatag ang sanlibutan, sa loob ng Anak ay hinirang na tayo ng Ama at itinalaga na tayo sa pagka-anak sa pamamagitan ng Anak (Efe. 1:5). Tiyak na noong kawalang-hanggan ay ipinangako ng Ama sa Anak na ibibigay Niya ang Kanyang walang hanggang buhay sa mga mananampalataya ng Anak. Sa pamamagitan ng buhay na ito ang mga mananampalatayang ibinigay sa Kanya sa kawalang-hanggan (Juan 17:2) ay magiging Kanyang mga kapatid (Heb. 2:11)."
+        },
+        {
+            "id": "3-1",
+            "text": "Yaon ay, ang mga takdang panahon upang maihayag ang buhay na walang hanggan."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang “Kanyang salita” rito ay katumbas ng buhay na walang hanggan sa bersikulo 2. Ito ay tumutugma sa 1 Juan 1:1-2."
+        },
+        {
+            "id": "3-3",
+            "text": "Tingnan ang tala 1-2 sa 1 Tim. 1."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pananampalataya ng lahat ng mananampalataya, ang magkatulad na mahalagang pananampalataya (cf. 2 Ped. 1:1)."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang mga salitang “sa bawat lunsod,” na inihambing sa mga salitang “sa bawat ekklesia” sa Gawa 14:23, ay hindi lamang nagpapakita na ang kinasasakupan ng isang ekklesia-lokal ay ang kinalalagyan nito, bagkus sa isa ring lunsod ay dapat lamang magkaroon ng iisang ekklesia. Ang pangangasiwa ng mga matanda ng isang ekklesia ay dapat sumakop sa buong lunsod kung saan naroroon ang ekklesia. Iniingatan ng gayong namumukod-tanging lupon ng mga matanda sa isang lunsod ang namumukod-tanging pagkakaisa ng Katawan ni Kristo mula sa pagkasira. Ang isang lunsod ay kinakailangan lamang magkaroon ng iisang ekklesia na may i isang lupon ng mga matanda. Ang pagsasagawang ito ay inilarawan, ng walang katanungan at pag-aalinlangan, ng may malinaw na tularan sa Bagong Tipan (Gawa 8:1; 13:1; Roma 16:1; 1 Cor. 1:2; Apoc. 1:11), at isang lubusang kahilingan para sa pagpapanatili ng wastong kaayusan sa isang ekklesia lokal. Dahil dito, ang unang bagay na iniatas ng apostol kay Tito na gawin sa pagsasaayos ng mga bagay ay ang magtalaga ng mga matanda sa bawa’t lunsod."
+        },
+        {
+            "id": "6-1",
+            "text": "Tingnan ang tala 2-3 sa 1 Tim. 3."
+        },
+        {
+            "id": "7-1",
+            "text": "* Sa Kastila ay obispo. Tingnan ang tala 1-3 sa Filipos 1.* Tumutukoy sa matanda sa bersikulo 5. Tingnan ang tala 2-1 sa 1 Timoteo 3."
+        },
+        {
+            "id": "7-2",
+            "text": "Hindi agad napapagalit."
+        },
+        {
+            "id": "7-3",
+            "text": "Tingnan ang tala 3-1 sa 1 Tim. 3."
+        },
+        {
+            "id": "7-4",
+            "text": "Tingnan ang tala 3-2 sa 1 Tim. 3"
+        },
+        {
+            "id": "7-5",
+            "text": "Tingnan ang tala 8-5 sa 1 Tim. 3."
+        },
+        {
+            "id": "8-1",
+            "text": "Tingnan ang tala 2-7 sa 1 Tim. 3."
+        },
+        {
+            "id": "8-2",
+            "text": "Tingnan ang tala 2-5 sa 1 Tim. 3."
+        },
+        {
+            "id": "8-3",
+            "text": "Tingnan ang tala 75-1 sa Lucas 1."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang mga matanda ay itinalaga upang mangasiwa ng pamahalaan ng Diyos sa isang ekklesia-lokal nang sa gayon ang mabuting kaayusan ay mapanatili sa ekklesia. Upang maisagawa ito, kinakailangang manangan ang mga matanda sa tapat na salita, na naaayon sa pagtuturo ng mga apostol, upang makaya nilang patigilin ang mga magugulong mapagsalitang tao at payapain ang isang napakagulong situwasyon (bb. 9-14)."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang mapagkakatiwalaan, maaasahan, at tunay na salita na itinuro sa mga ekklesia na naaayon sa mga pagtuturo ng mga apostol. Ang mga matanda sa isang ekklesia lokal ay dapat manangan sa ganitong uri ng malusog na salita upang magampanan nila ang kanilang gawain sa pagtuturo (1 Tim. 3:2; 5:17)."
+        },
+        {
+            "id": "9-3",
+            "text": "Tumutukoy sa pagtuturo ng mga apostol (Gawa 2:42), na sa katapusan ay naging ang Bagong Tipan. Ito ay nagpapakita na: 1) ang mga ekklesia ay naitatag ayon sa pagtuturo ng mga apostol at napanatili sa pamamagitan ng pagsunod sa pagtuturo ng mga apostol; 2) ang kaayusan ng mga ekklesia ay napanatili sa pamamagitan ng tapat na salita, na ibinigay ayon sa pagtuturo ng mga apostol. Ang pangunahing dahilan ng kaguluhan sa ekklesia ay ang paglihis sa pagtuturo ng mga apostol. Upang malabanan ito, kinakailangan nating manangan sa tapat na salita na itinuro sa mga ekklesia ayon sa pagtuturo ng mga apostol. Sa isang madilim at nakalilitong sitwasyon, kinakailangan nating panghawakan ang nagliliwanag at nagtutuwid na salita sa Bagong Tipan-ang pagtuturo ng mga apostol. Upang mapanatili ang kaayusan ng ekklesia, karagdagan sa pangangasiwa ng mga matanda, ay kinakailangan pa ang salita ng mga apostol na ayon sa pahayag ng Diyos."
+        },
+        {
+            "id": "9-4",
+            "text": "Tingnan ang tala 10-1 sa 1 Timoteo 1."
+        },
+        {
+            "id": "9-5",
+            "text": "Ang sabihin ang tunay na katangian ng anumang bagay upang mapaamin ang tao sa sariling kasalanan, kaya pagwikaan upang mailantad ang kamalian ng isa. Ito ay isinaling “ihantad” sa Efe. 5:11 at “inihantad” sa Efe. 5:13."
+        },
+        {
+            "id": "9-6",
+            "text": "O, ang mga tumututol."
+        },
+        {
+            "id": "10-1",
+            "text": "Tumutukoy sa mga mananampalatayang Hudyo na nanunulsol sa loob ng ekklesia."
+        },
+        {
+            "id": "11-1",
+            "text": "Tumutukoy sa pagpapatigil sa pamamagitan ng pagsaway nang may kabagsikan (b. 13) na may tapat na salita ayon sa pagtuturo ng mga apostol (b. 9)."
+        },
+        {
+            "id": "11-2",
+            "text": "Katulad ng ginawa ng katakwil-takwil na propetang si Balaam (2 Ped. 2:15-16; Judas 11)."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang mga taga-Creta. Ang lahat ng mga binanggit sa mga bersikulo 9b-10 ay gayon."
+        },
+        {
+            "id": "12-2",
+            "text": "Isang propetang Hentil, malamang na tumutukoy kay Epimenides, isang katutubo ng Creta na nabuhay noong mga 600 B.C. ayon sa isang alamat."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang gayunding salita ay isinaling “mapaamin sa sariling kasalanan” sa bersikulo 9. Tingnan ang tala roon."
+        },
+        {
+            "id": "13-2",
+            "text": "O, may kahigpitan."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang mga nagsisisalansang (b. 9) at mga mapagsalita ng walang kabuluhan (b. 10) ay nahawahan ng mga doktrinal na sakit at naging masasakitin sa pananampalataya. Kinakailangan nila ang pagbabakuna ng malusog na pagtuturo at ng malusog na salita (1 Tim. 1:10; 6:3, at mga tala), na dapat ibigay ng mga matanda (b. 9) para sa kanilang ikalulunas."
+        },
+        {
+            "id": "13-4",
+            "text": "Tumutukoy sa obhektibong pananampalataya. Tingnan ang mga tala 19-3 sa 1 Timoteo 1 at 91 sa 1 Tim. 3."
+        },
+        {
+            "id": "14-1",
+            "text": "Tingnan ang tala 4-1 sa 1 Timoteo 1. Malamang na ang mga katha-katha ng mga Hudyo ang binhing nagsilang sa mitolohiyang Gnostiko."
+        },
+        {
+            "id": "14-2",
+            "text": "Ayon sa kasunod na bersikulo, ang mga utos na ito ng mga erehe ay maaaring mga kautusan hinggil sa pag-aabstinensiya sa mga karne at iba pang mga bagay na itinalaga ng Diyos upang gamitin ng tao (cf. 1 Tim. 4:3; Col. 2:20-22). Ito ang mga utos ng mga sinaunang Gnostiko, hindi ng mga asetiko, na kumuha ng kanilang teosopiya sa mga maka-Hudyong pinagmulan, na malamang ang ilang pinanggalingan ay mula sa mga kautusan ni Moises."
+        },
+        {
+            "id": "14-3",
+            "text": "Malamang na tumutukoy sa mga sa pagtutuli (b. 10)."
+        },
+        {
+            "id": "14-4",
+            "text": "Tingnan ang mga tala 4-2 sa 1 Timoteo 2, at 15-5 sa 1 Timoteo 3. Ang katotohanan dito at ang pananampalataya sa naunang bersikulo ay nagpapatunay na ang mga tinuos dito ay hindi mga di-mananampalataya. Sila ay ang ilan sa ekklesia na tumalikod sa katotohanan hinggil sa ekonomiya ng Diyos. Maaaring karamihan sa kanila ay mga Hudyong Kristiyano na nananangan pa rin sa kanilang mga Hudyong alamat at mga tradisyon, na nagiging isang malaking kaabalahan sa ekklesia. Ang kanilang mga bibig ay kinakailangang matikom ng salita ng katotohanan ayon sa pananampalataya, upang ang kaayusan ng ekklesia ay mapanatili sa ilalim ng pangangasiwa ng mga matanda."
+        },
+        {
+            "id": "15-1",
+            "text": "Ito ay maaaring isang kawikaang Kristiyano. Sinipi ito ng apostol upang sansalain ang mga kautusan ng mga tao (b. 14), yaon ay, ang mga utos ukol sa pag-aabstinensiya, na nagbabawal sa ilang pagkilos at pagkain ng ilang natatanging pagkain (1 Tim. 4:3-5; Roma 14:20)."
+        },
+        {
+            "id": "15-2",
+            "text": "O, narumhan."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang kaisipan ay ang nangungunang bahagi ng ating kaluluwa, at ang budhi ay ang pangunahing bahagi ng ating espiritu. Kung ang ating kaisipan ay narumhan, ang ating kaluluwa ay kusang marurumhan; at kung ang ating budhi ay narungisan, ang ating espiritu ay hindi maiiwasang marungisan. Ang dahilan ng lahat ng ito ay ang di-pananampalataya. Pinadadalisay tayo ng ating pananampalataya (Gawa 15:9)."
+        },
+        {
+            "id": "16-1",
+            "text": "O, nagpapahayag o umaamin."
+        },
+        {
+            "id": "16-2",
+            "text": "O, katakwil-takwil, walang halaga, hindi kwalipikado. Ang sal itang Griyego ay nangangahulugang hindi matagalan ang pagsubok."
         }
     ]
 }

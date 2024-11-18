@@ -1,5 +1,5 @@
 {
-    "chapter": 7,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,23 +7,23 @@
             "footnotes": [
                 {
                     "word": "Yamang",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "pangakong",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "karumihan",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "pinasasakdal",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "takot",
-                    "note": ""
+                    "id": "1-5"
                 }
             ],
             "outlines": []
@@ -34,11 +34,11 @@
             "footnotes": [
                 {
                     "word": "Buksan",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "ginawan",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": [
@@ -52,7 +52,7 @@
             "footnotes": [
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -63,11 +63,11 @@
             "footnotes": [
                 {
                     "word": "kaaliwan,",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "kagalakan",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -78,7 +78,7 @@
             "footnotes": [
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -89,15 +89,15 @@
             "footnotes": [
                 {
                     "word": "inilulugmok",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "umaliw",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "pagdating",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -108,7 +108,7 @@
             "footnotes": [
                 {
                     "word": "pagdating,",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -119,15 +119,15 @@
             "footnotes": [
                 {
                     "word": "sulat,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "aking",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "nakapagpalumbay",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -138,11 +138,11 @@
             "footnotes": [
                 {
                     "word": "ikapagsisisi;",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "napalumbay",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -153,15 +153,15 @@
             "footnotes": [
                 {
                     "word": "ikaliligtas,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "ikalulungkot;",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -172,43 +172,43 @@
             "footnotes": [
                 {
                     "word": "masikap",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "ginawa,",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "oo’",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "pagtatanggol",
-                    "note": ""
+                    "id": "11-4"
                 },
                 {
                     "word": "pagkagalit,",
-                    "note": ""
+                    "id": "11-5"
                 },
                 {
                     "word": "pagkatakot,",
-                    "note": ""
+                    "id": "11-6"
                 },
                 {
                     "word": "pananabik,",
-                    "note": ""
+                    "id": "11-7"
                 },
                 {
                     "word": "kasigasigan,",
-                    "note": ""
+                    "id": "11-8"
                 },
                 {
                     "word": "paghihiganti!",
-                    "note": ""
+                    "id": "11-9"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -219,19 +219,19 @@
             "footnotes": [
                 {
                     "word": "gumawa",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "nagbata",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "maihayag",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "masikap",
-                    "note": ""
+                    "id": "12-4"
                 }
             ],
             "outlines": null
@@ -242,15 +242,15 @@
             "footnotes": [
                 {
                     "word": "bagkus",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Tito,",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -267,7 +267,7 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -278,10 +278,168 @@
             "footnotes": [
                 {
                     "word": "lubos",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ito ay nagpapakita na ang bersikulo 1 ay isang konklusyon sa huling bahagi ng kapitulo 6, mga bersikulo 14 hanggang 18."
+        },
+        {
+            "id": "1-2",
+            "text": "Tumutukoy sa mga pangakong binanggit sa 6:16-18."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang karumihan ng laman ay tumutukoy sa mga materyal na bagay; ang karumihan ng espiritu ay tumutukoy sa mga bagay sa espirituwal na daigdig gaya ng pagsamba sa mga diyus-diyusan."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang kabanalan ay ang pagkakabukod tungo sa Diyos mula sa lahat ng mga bagay maliban sa Kanya (tingnan ang mga tala 2-3 sa Roma 1 at 4-3 sa Efeso 1). Ang “pagpapasakdal sa kabanalan” ay ang gawing ganap at sakdal ang pagbubukod na ito, upang ang ating buong katauhan – espiritu, kaluluwa, at katawan – ay maging ganap at sakdal na naibukod at napabanal tungo sa Diyos (I Tes. 5:23). Ito ay ang maging lubusang naipagkasundo sa Diyos."
+        },
+        {
+            "id": "1-5",
+            "text": "Hindi nangangahas na humipo ng mga bagay na marumi, mga bagay na hindi kabilang sa Diyos at walang kaugnayan sa Kanya (6:17)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang tahasan at masidhing panghihikayat mula sa 6:14 hanggang 7:1 ay mga isiningit na salita upang dalhin ang mga naguluhang mananampalataya pabalik sa kanilang banal na Diyos mula sa pagiging nahipo ng ilang bagay na nakapagdungis sa kanila, nang sa gayon sila ay lubusang maipagkasundo sa Kanya. Kaya sa katunayan, ang bersikulong ito ay isang pagpapatuloy ng 6:11-13, nagsusumamo sa mga mananampalataya na palawakin ang kanilang puso tungo sa mga apostol, upang tanggapin sila. Mula sa bersikulong ito hanggang sa katapusan ng kapitulong ito, ang apostol sa kanyang pagsusumamo ay naghahayag ng kanyang matalik na pagmamalasakit sa mga mananampalataya, upang sila ay maaliw at mahikayat na magpatuloy nang positibo sa Panginoon pagkatapos na lubusang maipagkasundo sa Kanya."
+        },
+        {
+            "id": "2-2",
+            "text": "Sa una ay ginawan ng mali, pagkaraan ay pinasamâ, at sa kahuli-hulihan ay sinamantala."
+        },
+        {
+            "id": "3-1",
+            "text": "Ito ay isang pagpapahayag ng isang matalik na kaugnayan."
+        },
+        {
+            "id": "4-1",
+            "text": "Kaaliwan, lit. ang kaaliwang yaon. Kagalakan, lit. ang kagalakang yaon, tumutukoy sa partikular na kaaliwan at sa partikular na kagalakan na dinala ni Tito."
+        },
+        {
+            "id": "5-1",
+            "text": "Tumutukoy sa panlabas na tao, kasama ang katawan at ang kaluluwa (tingnan ang tala 16-1 sa kapitulo 4), sapagka’t ang mga pagbabaka sa labas at ang mga pagkatakot sa loob ay may kinalaman sa katawan at sa kaluluwa. Ang mawalan ng kapahingahan sa laman ay naiiba sa mawalan ng katiwasayan sa espiritu (2:13)."
+        },
+        {
+            "id": "6-1",
+            "text": "Nangabigatan dahil sa mga pangyayari."
+        },
+        {
+            "id": "6-2",
+            "text": "Dahil sa kanyang taos na malasakit sa pagtugon ng mga mananampalatayang taga-Corinto sa kanyang unang Sulat, ang apostol, na walang katiwasayan sa kanyang espiritu (2:13), kahit na lubhang nabigatan, ay nanabik na makita si Tito para sa impormasyon hinggil sa kanilang pagtugon. Ngayon si Tito ay hindi lamang dumating, bagkus nagdala pa ng masayang balita tungkol sa kanilang positibong pagtugon. Ito ay isang malaking kaaliwan sa apostol."
+        },
+        {
+            "id": "7-1",
+            "text": "Lit. presensiya."
+        },
+        {
+            "id": "8-1",
+            "text": "Tumutukoy sa unang Sulat ng apostol sa mga taga-Corinto."
+        },
+        {
+            "id": "8-2",
+            "text": "Ito ay nagpapakita na ang apostol ay hindi lamang malakas ang loob at prangka sa pagwiwika sa mga mananampalataya sa kanyang unang Sulat, bagkus mapagmahal at magiliw rin naman sa kanila."
+        },
+        {
+            "id": "8-3",
+            "text": "Ito ay nagpapakita na ang unang Sulat ng apostol sa mga mananampalataya ay tumalab sa kanila."
+        },
+        {
+            "id": "9-1",
+            "text": "Ito ang resultang hinahanap ng apostol sa pagsulat niya ng kanyang unang Sulat."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang unang Sulat ng apostol ay nagpalumbay sa kanila sa paraang ukol sa Diyos, hindi sa anupamang bagay. Ito ay nagpapakita na sila ay nadalang pabalik sa Diyos, naipagkasundo sa Kanya."
+        },
+        {
+            "id": "10-1",
+            "text": "Tumutukoy sa pagiging naipagkasundo sa Diyos (5:20), nagreresulta sa higit na buhay, na siyang laban sa kamatayan. Sa pamamagitan nito ay nakita ng apostol ang bunga ng kanyang unang Sulat sa mga mananampalataya."
+        },
+        {
+            "id": "10-2",
+            "text": "*O, ikasisisi; sa Ingles, regret . Ang ibig sabihin nito ay, hindi magsisisi ang yaong nagkaroon ng kalumbayang ayon sa Diyos at nagsisi sa kanyang ikaliligtas."
+        },
+        {
+            "id": "11-1",
+            "text": "O, kasigasigan, tumutukoy sa masikap na pag-iingat ng mga nagsising mananampalatayang taga-Corinto tungo sa apostol dahilan sa kanyang mapagmahal na pagmamalasakit para sa kanilang pakikipag-ugnayan sa Diyos at sa kanilang kalagayan sa harap ng Diyos. Noong una, sila ay pabaya hinggil sa pagmamalasakit ng apostol; ngayon, nang makapagsisi, sila ay naging maingat at naging masigasig pa hinggil dito. Gayundin sa bersikulo 12."
+        },
+        {
+            "id": "11-2",
+            "text": "O, ibinunga. Ang lahat ng pitong resulta na ibinunga ng nagsisising kalumbayan ng mga mananampalatayang taga-Corinto, tulad ng nakatala sa bersikulong ito, ay isang mayamang pag-aani ng unang Sulat ng apostol sa kanila."
+        },
+        {
+            "id": "11-3",
+            "text": "Lit. bagkus, gayundin naman. Ang mga salitang ito ay ginamit nang anim na ulit sa bersikulong ito; nangangahulugang hindi lamang gayon, bagkus din naman."
+        },
+        {
+            "id": "11-4",
+            "text": "O, pagsasanggalang, pagpapawalang-sala ng inyong mga sarili, tumutukoy sa pagsasanggalang ng mga mananampalatayang taga-Corinto sa kanilang sarili kay Pablo sa pamamagitan ni Tito tungkol sa kanilang pagiging inosente sa pagkakasala."
+        },
+        {
+            "id": "11-5",
+            "text": "Pagkagalit sa pagkakasala at laban sa nagkasala."
+        },
+        {
+            "id": "11-6",
+            "text": "Pagkatakot sa apostol na baka pumaroon na may panghampas (I Cor. 4:21)."
+        },
+        {
+            "id": "11-7",
+            "text": "Pananabik sa apostol. Ang mga nagsising mananampalataya ay may pagkatakot sa apostol, datapuwa’t sila ay mayroon ding pananabik sa kanya."
+        },
+        {
+            "id": "11-8",
+            "text": "Kasigasigan upang igawad ang parusa ng katarungan sa nagkasala."
+        },
+        {
+            "id": "11-9",
+            "text": "Yaon ay, ang paggawad ng katarungan, gumagawa ng katarungan sa lahat ng mga partido bilang nagdidisiplinang kaparusahan (2:6). Ang huling anim na resulta ng kalumbayang ayon sa Diyos na sinanhi ng pagsisisi nila ay nahahati sa tatlong pares: ang una ay nauugnay sa nararamdamang hiya ng mga mananampalatayang taga-Corinto; ang pangalawa ay nauugnay sa apostol; at ang pangatlo ay nauugnay sa nagkasala (Bengel). Ipinakikita rin ito ng pagsasalin ni Wuest sa pamamagitan ng pagpapahayag ng “O,…sa katunayan,” nang tatlong ulit na katulad ng mga sumusunod: “Oo, pagtatanggol sa inyong sarili sa pamamagitan ng pananalita, sa katunayan, pagkagalit, oo, pagkatakot, sa katunayan, pananabik, oo, kasigasigan, sa katunayan, ang paggawad ng nararapat na nagdidisiplinang kaparusahan.”"
+        },
+        {
+            "id": "11-10",
+            "text": "Tumutukoy sa pagkondena ng apostol sa pakikiapid na binanggit sa I Corinto 5."
+        },
+        {
+            "id": "12-1",
+            "text": "Kapatid na lalake na nagkasala ng pakikiapid sa sariling madrastra (I Cor. 5:1)."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang ama ng kapatid na lalake na nagkasala ng pakikiapid sa sariling madrastra."
+        },
+        {
+            "id": "12-3",
+            "text": "Minamahal ng mga mananampalatayang taga-Corinto ang mga apostol at may masikap na pag-iingat tungo sa kanila, subali’t inilihis sila ng mga huwad na guro. Kaya, isinulat ng apostol ang unang Sulat upang dalhin sila pabalik, upang ang kanilang pag-ibig at masikap na pag-iingat tungo sa mga apostol ay maihayag sa mga apostol (b. 7)."
+        },
+        {
+            "id": "12-4",
+            "text": "Tingnan ang tala 11-1 ."
+        },
+        {
+            "id": "13-1",
+            "text": "Ito ay nagpapakita na ang apostol ay taung-tao at mayaman sa damdamin sa kanyang paghahain ng buhay."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang pangunahing bahaging ito, mula 2:12 hanggang 7:16, hinggil sa ministeryo ng bagong tipan ng apostol at ng kanilang mga sarili bilang mga tagapaghain ng bagong tipan, ay nagsisimula sa pananabik ng apostol na makita si Tito dahil sa kanyang mapagmahal na pagmamalasakit sa mga mananampalatayang taga-Corinto (2:13), at nagtatapos sa kanyang pagiging nahikayat at naaliw ng pagdating ni Tito na may positibong balita hinggil sa kanila."
+        },
+        {
+            "id": "13-3",
+            "text": "Ito ay nagpapakita na kahit na ang mga apostol ay taung-tao at mayaman sa damdamin, sila ay nananatili pa rin sa kanilang espiritu sa kanilang paghahain ng buhay."
+        },
+        {
+            "id": "15-1",
+            "text": "Tingnan ang tala 8-1 sa Filipos 1."
+        },
+        {
+            "id": "16-1",
+            "text": "Ngayon ang apostol ay naaliw ng mga mananampalatayang taga-Corinto at siya ay nagkaroon ng pagtitiwala sa kanila."
         }
     ]
 }

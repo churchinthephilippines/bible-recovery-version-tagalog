@@ -1,5 +1,5 @@
 {
-    "chapter": 22,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Ngayon",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -34,7 +34,7 @@
             "footnotes": [
                 {
                     "word": "punong",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -45,7 +45,7 @@
             "footnotes": [
                 {
                     "word": "salapi.",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -62,11 +62,11 @@
             "footnotes": [
                 {
                     "word": "Tinapay",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "ihain",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": [
@@ -122,11 +122,11 @@
             "footnotes": [
                 {
                     "word": "Pinakahahangad",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "kanin",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -137,7 +137,7 @@
             "footnotes": [
                 {
                     "word": "ito",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -154,7 +154,7 @@
             "footnotes": [
                 {
                     "word": "bunga",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -165,7 +165,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -182,7 +182,7 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -193,7 +193,7 @@
             "footnotes": [
                 {
                     "word": "yayaon",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -210,11 +210,11 @@
             "footnotes": [
                 {
                     "word": "naroon",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "pagtatalu-",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": [
@@ -234,7 +234,7 @@
             "footnotes": [
                 {
                     "word": "naglilingkod.",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -257,11 +257,11 @@
             "footnotes": [
                 {
                     "word": "nagtatalaga",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "nagtalaga",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -272,7 +272,7 @@
             "footnotes": [
                 {
                     "word": "dulang",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -283,7 +283,7 @@
             "footnotes": [
                 {
                     "word": "Simon,",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -318,7 +318,7 @@
             "footnotes": [
                 {
                     "word": "bumili",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -329,7 +329,7 @@
             "footnotes": [
                 {
                     "word": "katuparan.",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -340,7 +340,7 @@
             "footnotes": [
                 {
                     "word": "Sukat",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -360,7 +360,7 @@
             "footnotes": [
                 {
                     "word": "dakong",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -377,11 +377,11 @@
             "footnotes": [
                 {
                     "word": "sarong",
-                    "note": ""
+                    "id": "42-1"
                 },
                 {
                     "word": "Iyo.",
-                    "note": ""
+                    "id": "42-2"
                 }
             ],
             "outlines": null
@@ -392,7 +392,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "43-1"
                 }
             ],
             "outlines": null
@@ -409,7 +409,7 @@
             "footnotes": [
                 {
                     "word": "nangatutulog",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": null
@@ -453,7 +453,7 @@
             "footnotes": [
                 {
                     "word": "Hayaan",
-                    "note": ""
+                    "id": "51-1"
                 }
             ],
             "outlines": null
@@ -470,7 +470,7 @@
             "footnotes": [
                 {
                     "word": "araw-",
-                    "note": ""
+                    "id": "53-1"
                 }
             ],
             "outlines": null
@@ -513,7 +513,7 @@
             "footnotes": [
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "59-1"
                 }
             ],
             "outlines": null
@@ -548,7 +548,7 @@
             "footnotes": [
                 {
                     "word": "Magpropesiya",
-                    "note": ""
+                    "id": "64-1"
                 }
             ],
             "outlines": null
@@ -565,11 +565,11 @@
             "footnotes": [
                 {
                     "word": "matanda",
-                    "note": ""
+                    "id": "66-1"
                 },
                 {
                     "word": "Sanedrin,",
-                    "note": ""
+                    "id": "66-2"
                 }
             ],
             "outlines": [
@@ -595,7 +595,7 @@
             "footnotes": [
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "69-1"
                 }
             ],
             "outlines": null
@@ -606,11 +606,11 @@
             "footnotes": [
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "70-1"
                 },
                 {
                     "word": "Kayo",
-                    "note": ""
+                    "id": "70-2"
                 }
             ],
             "outlines": null
@@ -620,6 +620,144 @@
             "text": "At sinabi nila, Ano pang patotoo ang kailangan natin, sapagka’t tayo rin ang nangakarinig nito mula sa Kanyang bibig?",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa bb. 1-2, tingnan ang mga tala sa Mat. 26:2-5."
+        },
+        {
+            "id": "4-1",
+            "text": "*Gr. strateegos, gayundin sa b. 52; isinaling kapitan ng templo sa Gawa 4:1; 5:24, 26 at isinaling hukom sa Gawa 16:20, 22, 35, 36, at 38."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 11-1 sa Marc. 14."
+        },
+        {
+            "id": "7-1",
+            "text": "Tingnan ang tala 17-1 sa Mat. 26."
+        },
+        {
+            "id": "7-2",
+            "text": "Tingnan ang tala 12-2 sa Marc. 14."
+        },
+        {
+            "id": "15-1",
+            "text": "Lit. Na may paghahangad Ako ay naghangad."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang pagkain at pag-inom sa bb. 15-18 ay ang pangingilin ng huling Pista ng Paskua bago ang pagtatatag ng hapunan ng Panginoon sa bb. 19-20."
+        },
+        {
+            "id": "16-1",
+            "text": "Tumutukoy, kasama ang b. 18, sa huling paskua sa b. 15, na ganap na maisasakatuparan sa darating na kaharian ng Diyos, kung kailan ang Tagapagligtas ay makikipagpista kasama ang mga mandaraig na banal (b. 30; 13:28-29)."
+        },
+        {
+            "id": "18-1",
+            "text": "Tumutukoy sa katas ng ubas."
+        },
+        {
+            "id": "19-1",
+            "text": "Para sa bb. 19-20, tingnan ang mga tala sa Mat. 26:26-28 at Marc. 14:22-24."
+        },
+        {
+            "id": "21-1",
+            "text": "Tingnan ang tala 20-1 sa Marc. 14."
+        },
+        {
+            "id": "24-1",
+            "text": "Lit. nagkaroon."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang salita ay naghahayag ng pagiging maibigin sa pakikipagtalo at pagiging masidhi sa pakikipaglaban."
+        },
+        {
+            "id": "26-1",
+            "text": "Tingnan ang tala 26-1 sa Mat 20."
+        },
+        {
+            "id": "29-1",
+            "text": "O, tumipan, nagtipan."
+        },
+        {
+            "id": "30-1",
+            "text": "Ito ang kapistahan sa talinghaga sa Mat. 22:1-4 at ang piging ng kasalan sa Apoc. 19:9 para sa mga mandaraig na banal (tingnan ang tala 16-1 )."
+        },
+        {
+            "id": "31-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag, At sinabi ng Panginoon."
+        },
+        {
+            "id": "36-1",
+            "text": "Nang mga panahong yaon ang mga tao ay nagdadala ng tabak katulad ng pagdadala nila ng supot ng salapi at supot ng pagkain na pambiyahe. Ang salita ng Tagapagligtas ay hindi nangangahulugang ibig Niyang maghanda ng sandata ang mga disipulo upang labanan ang darating na panghuhuli (cf. bb. 49-51; Mat. 26:51-54), kundi tumutukoy sa pagbabago sa pakikitungo ng mga tao sa Kanya."
+        },
+        {
+            "id": "37-1",
+            "text": "Lit., katapusan."
+        },
+        {
+            "id": "38-1",
+            "text": "Hindi tumutukoy sa pagiging sapat ng dalawang tabak, kundi sa sukat na ang kanilang usapan (cf. 1 Hari 19:4)."
+        },
+        {
+            "id": "40-1",
+            "text": "Getsemani (Mat. 26:36)."
+        },
+        {
+            "id": "42-1",
+            "text": "Tumutukoy sa kamatayan ng Tagapagligtas sa krus."
+        },
+        {
+            "id": "42-2",
+            "text": "Tingnan ang tala 36-1 sa Marc. 14."
+        },
+        {
+            "id": "43-1",
+            "text": "Inaalis ng ilang matatandang manuskrito ang bb. 43 at 44."
+        },
+        {
+            "id": "45-1",
+            "text": "Ang paghapis na walang pananalangin ay makapagpapatulog kaya sinabi ng Panginoon, Magsipanalangin kayo."
+        },
+        {
+            "id": "51-1",
+            "text": "Ito ay maaaring mangahulugang, Hayaang Ako ay hulihin nila sa oras na ito. Malinaw ang Panginoon sa magiging hantungan nito kaya kusang-loob Niyang tinanggap ang ipinahintulot ng Diyos."
+        },
+        {
+            "id": "53-1",
+            "text": "Tingnan ang tala 49-1 sa Marc. 14."
+        },
+        {
+            "id": "59-1",
+            "text": "Lit. may isa pa. Tingnan ang tala 73-1 sa Mat. 26."
+        },
+        {
+            "id": "64-1",
+            "text": "Tingnan ang tala 68-1 sa Mat. 26."
+        },
+        {
+            "id": "66-1",
+            "text": "Lit. kapulungan ng mga matanda."
+        },
+        {
+            "id": "66-2",
+            "text": "Tingnan ang tala 22-6 sa Mat. 5."
+        },
+        {
+            "id": "69-1",
+            "text": "Tingnan ang tala 64-1 sa Mat. 26."
+        },
+        {
+            "id": "70-1",
+            "text": "Ang parehong katanungang ginamit ng Diyablo sa panunukso sa Tagapagligtas (4:3, 9). Ang pinag-uukulan ng pagtutuligsa ng dalawang ito ay ang pagka-Diyos ng Panginoon."
+        },
+        {
+            "id": "70-2",
+            "text": "O, Sinabi ninyo ito, sapagka’t Ako nga."
         }
     ]
 }

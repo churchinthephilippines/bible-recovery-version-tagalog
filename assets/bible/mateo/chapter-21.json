@@ -1,5 +1,5 @@
 {
-    "chapter": 21,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "malapit",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,7 +21,7 @@
             "footnotes": [
                 {
                     "word": "makasusumpong",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -32,11 +32,11 @@
             "footnotes": [
                 {
                     "word": "Panginoon,",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "ipadadala",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -53,11 +53,11 @@
             "footnotes": [
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "bisiro",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -74,7 +74,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -85,7 +85,7 @@
             "footnotes": [
                 {
                     "word": "sanga",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -96,11 +96,11 @@
             "footnotes": [
                 {
                     "word": "Hosanna",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -146,7 +146,7 @@
             "footnotes": [
                 {
                     "word": "nagalit,",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -163,7 +163,7 @@
             "footnotes": [
                 {
                     "word": "Betania",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": [
@@ -177,7 +177,7 @@
             "footnotes": [
                 {
                     "word": "nagutom.",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": [
@@ -191,19 +191,19 @@
             "footnotes": [
                 {
                     "word": "puno",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "magpakailanman.",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "natuyot",
-                    "note": ""
+                    "id": "19-4"
                 }
             ],
             "outlines": null
@@ -214,7 +214,7 @@
             "footnotes": [
                 {
                     "word": "dagliang",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -249,7 +249,7 @@
             "footnotes": [
                 {
                     "word": "bagay,",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -272,11 +272,11 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -308,7 +308,7 @@
             "footnotes": [
                 {
                     "word": "una.",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -319,7 +319,7 @@
             "footnotes": [
                 {
                     "word": "katuwiran,",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -330,15 +330,15 @@
             "footnotes": [
                 {
                     "word": "panginoon",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "ubasan",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": [
@@ -352,7 +352,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -363,7 +363,7 @@
             "footnotes": [
                 {
                     "word": "hinampas",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -380,7 +380,7 @@
             "footnotes": [
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -391,7 +391,7 @@
             "footnotes": [
                 {
                     "word": "Ito",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -402,7 +402,7 @@
             "footnotes": [
                 {
                     "word": "inilabas",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -419,11 +419,11 @@
             "footnotes": [
                 {
                     "word": "lilipulin",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "41-2"
                 }
             ],
             "outlines": null
@@ -434,15 +434,15 @@
             "footnotes": [
                 {
                     "word": "batong",
-                    "note": ""
+                    "id": "42-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "42-1"
                 },
                 {
                     "word": "panulukang",
-                    "note": ""
+                    "id": "42-2"
                 }
             ],
             "outlines": null
@@ -453,11 +453,11 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "43-1"
                 },
                 {
                     "word": "bansang",
-                    "note": ""
+                    "id": "43-2"
                 }
             ],
             "outlines": null
@@ -468,11 +468,11 @@
             "footnotes": [
                 {
                     "word": "siyang",
-                    "note": ""
+                    "id": "44-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "44-2"
                 }
             ],
             "outlines": null
@@ -488,6 +488,156 @@
             "text": "At nang magbalak silang sunggaban Siya, kinatakutan nila ang mga kalipunan, sapagka’t ipinapalagay nila na Siya ay isang propeta.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Kanilang pinasimulan ang paglalakbay mula sa Galilea sa 19:1. Sila ay nasa daan sa 20:17, at dumaan sa Jerico sa 20:29. Ngayon sila ay dumating na sa Bundok ng mga Olivo, malapit sa Herusalem."
+        },
+        {
+            "id": "2-1",
+            "text": "Ito ay nagpapakita na ang Panginoon ay nakababatid ng lahat."
+        },
+        {
+            "id": "3-1",
+            "text": "Ito ay nagpapakita na si Kristo ay ang Panginoon ng lahat."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang salitang ito ay hindi katulad ng pagkasalita sa Marc. 11:3b."
+        },
+        {
+            "id": "5-1",
+            "text": "Ito ay nangangahulugang mga tao ng Herusalem — cf. Awit 137:8; 45:12."
+        },
+        {
+            "id": "5-2",
+            "text": "Ito ay sumasagisag sa mapagpakumbaba at mababang kalagayan na kusang-loob na kinalagyan ng Panginoon."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang “mga damit” ay sumasagisag sa mga pantaong kagalingan ng pag-uugali ng mga tao. Pinarangalan ng mga disipulo ang mapagpakumbabang Hari sa pamamagitan ng paglalagay ng kanilang mga damit sa asno at potro upang Kanyang sakyan, at pinarangalan Siya ng kalipunan sa pamamagitan ng paglalatag ng kanilang mga damit sa daan upang Kanyang daanan (b. 8)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang “mga sanga” ay ang mga sanga ng punong palma (Juan 12:13), sumasagisag sa matagumpay na buhay (Apoc. 7:9) at kasiyahan sa pagtatamasa sa mayamang bunga ng buhay na ito, tulad ng pagsasagisag ng pista ng mga tabernakulo (Lev. 23:40; Neh. 8:15). Ginamit ng kalipunan kapwa ang kanilang mga damit at mga sanga ng puno ng palma upang ipagdiwang ang pagdating ng mapagpakumbabang Hari."
+        },
+        {
+            "id": "9-1",
+            "text": "Heb. magligtas Ka ngayon (Awit 118:25)."
+        },
+        {
+            "id": "9-2",
+            "text": "Ito ang maharlikang titulo ng mapagpakumbabang Hari."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang matitigas-na-ulong pangulong saserdote at eskriba ay “nagalit,” maging pagkaraan na makita nila ang mga kababalaghang ginawa ng mapagkumbabang Hari. Ang kanilang pagkagalit ay dahil sa kanilang pagmamataas at paninibugho, na bumulag sa kanila mula sa pagkakita ng anumang pangitain tungkol sa makalangit na Hari."
+        },
+        {
+            "id": "17-1",
+            "text": "Sa Kanyang huling pagdalaw sa Herusalem, ang Panginoon ay nanatili roon sa araw lamang para sa Kanyang ministeryo. Bawa’t gabi Siya ay umaalis upang manirahan sa Betania, sa silangang libis ng Bundok ng mga Olivo (Marc. 11:19; Luc. 21:37), kung saan naroroon ang bahay nina Maria, Marta, at Lazaro at ang bahay ni Simon (Juan 11:1; Mat. 26:6). Sa Herusalem Siya ay tinanggihan ng mga pinuno ng Hudaismo, ngunit sa Betania Siya ay tinanggap ng Kanyang mga mangingibig."
+        },
+        {
+            "id": "18-1",
+            "text": "Ito ay nangangahulugan na ang Panginoon ay “gutom” sa bungang nagmumula sa mga anak ni Israel upang ang Diyos ay masiyahan."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang “puno ng igos” dito ay isang simbolo ng bansang Israel (Jer. 24:2, 5, 8). Mayabong ang mga dahon nito subalit walang bunga, sumasagisag na nang panahong yaon ang bansang Israel ay puno ng mga panlabas na pagpapakita ngunit walang taglay na kahit anong bagay na makapagbibigay ng kasiyahan sa Diyos."
+        },
+        {
+            "id": "19-2",
+            "text": "Ito ay sumasagisag sa sumpa sa bansang Israel."
+        },
+        {
+            "id": "19-3",
+            "text": "Gr. sa panahon."
+        },
+        {
+            "id": "19-4",
+            "text": "Mula sa panahong ito, ang bansang Israel ay tunay na natuyot."
+        },
+        {
+            "id": "20-1",
+            "text": "Gr. kapagdaka ay."
+        },
+        {
+            "id": "24-1",
+            "text": "Gr. salita."
+        },
+        {
+            "id": "27-1",
+            "text": "Ito ay isang kasinungalingan."
+        },
+        {
+            "id": "27-2",
+            "text": "Ipinakita nito na alam ng Panginoon na hindi sasabihin ng mga pinunong Hudyo ang nalalaman nila sa Kanya; kaya, “hindi rin” Niya sasagutin ang kanilang itinanong. Sila ay nagsinungaling sa Panginoon sa pamamagitan ng pagsasabing, “Hindi namin nalalaman.” Subalit sinalita ng Panginoon ang katotohanan sa kanila nang may karunungan, inilantad ang kanilang pagsisinungaling at iniwasan ang kanilang tanong."
+        },
+        {
+            "id": "31-1",
+            "text": "Sa Luc. 15:1-2, 11-32, inihalintulad ng Panginoon ang mga pinuno ng Hudaismo sa panganay na anak, at ang mga maniningil ng buwis at mga makasalanan sa pangalawang anak; ngunit dito sila ay inihalintulad ng Panginoon sa kabaligtarang pagkakaayos. Ito ay nagpapakita na ang mga Hudyo ay ang panganay ng Diyos (Exo. 4:22), nagtataglay ng pagkapanganay ngunit dahilan sa kanilang di-pananampalataya ang pagkapanganay ay nailipat sa ekklesia, na siyang naging panganay ng Diyos (Heb. 12:23)."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang Ebanghelyo ni Mateo, bilang aklat ukol sa kaharian, ay nagbibigay-diin sa bagay ng katuwiran, sapagkat ang buhay-kaharian ay isang buhay na mahigpit ukol sa katuwiran, na dapat nating habulin (5:20, 6; 6:33). Si Juan Bautista ay dumating sa paraan ng gayong katuwiran, at ang Panginoong Hesus ay handang mabautismuhan ni Juan upang magampanan ang gayong katuwiran (3:15)."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang “panginoon ng sambahayan” ay ang Diyos, ang “ubasan” ay ang lunsod ng Herusalem (Isa. 5:1), at ang “mga magsasaka” ay ang mga pinuno ng mga Israelita (b. 45)."
+        },
+        {
+            "id": "34-1",
+            "text": "Ito ang mga propetang isinugo ng Diyos (2 Kron. 24:19; 36:15)."
+        },
+        {
+            "id": "35-1",
+            "text": "Ito ang pag-uusig na dinanas ng mga Lumang Tipang propeta (Jer. 37:15; Neh. 9:26; 2 Kron. 24:21)."
+        },
+        {
+            "id": "37-1",
+            "text": "Ito ay si Kristo."
+        },
+        {
+            "id": "38-1",
+            "text": "Ang salitang ito ay nagpapakita na ang mga pinunong Hudyo ay naninibugho sa mga karapatan ni Kristo, at nagnanais mapanatili ang kanilang hungkag at sariling-itinalagang katayuan."
+        },
+        {
+            "id": "39-1",
+            "text": "Si Kristo ay pinatay sa labas ng lunsod ng Herusalem (Heb. 13:12)."
+        },
+        {
+            "id": "41-1",
+            "text": "Ito ay naisakatuparan nang wasakin ang Herusalem noong A.D. 70 ng prinsipeng si Tito ng Roma, at ng kanyang hukbo."
+        },
+        {
+            "id": "41-2",
+            "text": "Ito ay ang mga apostol."
+        },
+        {
+            "id": "42-1",
+            "text": "Ang “bato” ay si Kristo para sa pagtatayo ng Diyos (Isa. 28:16; Zac. 3:9; 1 Ped. 2:4), at ang “mga tagapagtayo” ay ang mga pinunong Hudyo, na dapat sanang gumawa sa pagtatayo ng Diyos."
+        },
+        {
+            "id": "42-2",
+            "text": "Gr. puno ng panulok. Si Kristo ay hindi lamang ang patibayang bato (Isa. 28:16) at ang pangulong bato (Zac. 4:7), bagkus Siya rin ang “panulukang bato.”"
+        },
+        {
+            "id": "43-1",
+            "text": "Ang “kaharian ng Diyos” ay naroroon na sa mga Israelita; samantalang ang kaharian ng mga kalangitan ay lumalapit pa lang (3:2; 4:17). Ito ay nagpapatunay na ang kaharian ng mga kalangitan ay naiiba sa kaharian ng Diyos. (Tingnan ang tala 3-4 sa kap. 5.)"
+        },
+        {
+            "id": "43-2",
+            "text": "Ito ang ekklesia."
+        },
+        {
+            "id": "44-1",
+            "text": "Ito ang taong natitisod kay Kristo; tinutukoy nito ang mga di-nananampalatayang Israelita (Isa. 8:15; Roma 9:32)."
+        },
+        {
+            "id": "44-2",
+            "text": "Ito ang mga bansa, ang mga Hentil, na wawasakin ni Kristo sa Kanyang pagbabalik (Dan. 2:34-35). Sa mga mananampalataya, si Kristo ang patibayang bato kung Kanino sila ay nagtitiwala (Isa. 28:16); sa mga di-nanampalatayang Hudyo, Siya ang katitisurang bato (Isa. 8:14; Roma 9:33); at sa mga bansa, Siya ang magiging batong pangwasak."
         }
     ]
 }

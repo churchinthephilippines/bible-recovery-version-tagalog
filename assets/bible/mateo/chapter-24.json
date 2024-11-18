@@ -1,5 +1,5 @@
 {
-    "chapter": 24,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "templo.",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -34,7 +34,7 @@
             "footnotes": [
                 {
                     "word": "ibabagsak.",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -45,15 +45,15 @@
             "footnotes": [
                 {
                     "word": "Bundok",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "Kailan",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "pagdating",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -64,11 +64,11 @@
             "footnotes": [
                 {
                     "word": "sumagot",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "Mangag-",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -85,11 +85,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "wakas",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -100,19 +100,19 @@
             "footnotes": [
                 {
                     "word": "bansa",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "taggutom",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "lindol",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -123,7 +123,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -134,7 +134,7 @@
             "footnotes": [
                 {
                     "word": "kayo",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -163,7 +163,7 @@
             "footnotes": [
                 {
                     "word": "maliligtas.",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -174,15 +174,15 @@
             "footnotes": [
                 {
                     "word": "ebanghelyo",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "patotoo",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "wakas",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -193,19 +193,19 @@
             "footnotes": [
                 {
                     "word": "kapag",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "kasuklam-",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "paninira,",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "15-4"
                 }
             ],
             "outlines": [
@@ -239,7 +239,7 @@
             "footnotes": [
                 {
                     "word": "nagdadalang-",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -250,11 +250,11 @@
             "footnotes": [
                 {
                     "word": "taglamig,",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "Sabbath",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -265,7 +265,7 @@
             "footnotes": [
                 {
                     "word": "matinding",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -276,11 +276,11 @@
             "footnotes": [
                 {
                     "word": "paikliin",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "hinirang,",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -291,7 +291,7 @@
             "footnotes": [
                 {
                     "word": "narito",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -302,15 +302,15 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "bulaang",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "magpapakita",
-                    "note": ""
+                    "id": "24-3"
                 }
             ],
             "outlines": null
@@ -327,11 +327,11 @@
             "footnotes": [
                 {
                     "word": "ilang,",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -342,11 +342,11 @@
             "footnotes": [
                 {
                     "word": "kidlat",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "pagdating",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": [
@@ -360,11 +360,11 @@
             "footnotes": [
                 {
                     "word": "bangkay,",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -375,11 +375,11 @@
             "footnotes": [
                 {
                     "word": "pagkatapos",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "29-2"
                 }
             ],
             "outlines": null
@@ -390,27 +390,27 @@
             "footnotes": [
                 {
                     "word": "tanda",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "30-2"
                 },
                 {
                     "word": "lupa",
-                    "note": ""
+                    "id": "30-2"
                 },
                 {
                     "word": "mananaghoy",
-                    "note": ""
+                    "id": "30-3"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "30-4"
                 },
                 {
                     "word": "kapangyarihan",
-                    "note": ""
+                    "id": "30-5"
                 }
             ],
             "outlines": null
@@ -421,11 +421,11 @@
             "footnotes": [
                 {
                     "word": "titipunin",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "31-2"
                 }
             ],
             "outlines": [
@@ -439,23 +439,23 @@
             "footnotes": [
                 {
                     "word": "Subali’t",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "puno",
-                    "note": ""
+                    "id": "32-2"
                 },
                 {
                     "word": "nanariwa",
-                    "note": ""
+                    "id": "32-3"
                 },
                 {
                     "word": "nag-",
-                    "note": ""
+                    "id": "32-4"
                 },
                 {
                     "word": "tag-",
-                    "note": ""
+                    "id": "32-5"
                 }
             ],
             "outlines": [
@@ -471,11 +471,11 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "ito",
-                    "note": ""
+                    "id": "33-2"
                 }
             ],
             "outlines": null
@@ -486,7 +486,7 @@
             "footnotes": [
                 {
                     "word": "henerasyong",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -503,7 +503,7 @@
             "footnotes": [
                 {
                     "word": "ni",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -514,7 +514,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -525,11 +525,11 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "nagsisikain",
-                    "note": ""
+                    "id": "38-2"
                 }
             ],
             "outlines": null
@@ -546,19 +546,19 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "40-1"
                 },
                 {
                     "word": "lalake",
-                    "note": ""
+                    "id": "40-2"
                 },
                 {
                     "word": "sasabukid;",
-                    "note": ""
+                    "id": "40-3"
                 },
                 {
                     "word": "kukunin,",
-                    "note": ""
+                    "id": "40-4"
                 }
             ],
             "outlines": null
@@ -569,15 +569,15 @@
             "footnotes": [
                 {
                     "word": "babae",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "magsisigiling",
-                    "note": ""
+                    "id": "41-2"
                 },
                 {
                     "word": "kukunin,",
-                    "note": ""
+                    "id": "41-3"
                 }
             ],
             "outlines": null
@@ -588,11 +588,11 @@
             "footnotes": [
                 {
                     "word": "Magbantay",
-                    "note": ""
+                    "id": "42-1"
                 },
                 {
                     "word": "inyong",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -603,15 +603,15 @@
             "footnotes": [
                 {
                     "word": "panginoon",
-                    "note": ""
+                    "id": "43-1"
                 },
                 {
                     "word": "magnanakaw,",
-                    "note": ""
+                    "id": "43-2"
                 },
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "43-1"
                 }
             ],
             "outlines": null
@@ -622,7 +622,7 @@
             "footnotes": [
                 {
                     "word": "darating",
-                    "note": ""
+                    "id": "44-1"
                 }
             ],
             "outlines": null
@@ -633,19 +633,19 @@
             "footnotes": [
                 {
                     "word": "tapat",
-                    "note": ""
+                    "id": "45-1"
                 },
                 {
                     "word": "may-",
-                    "note": ""
+                    "id": "45-1"
                 },
                 {
                     "word": "sambahayan",
-                    "note": ""
+                    "id": "45-2"
                 },
                 {
                     "word": "ibigay",
-                    "note": ""
+                    "id": "45-3"
                 }
             ],
             "outlines": [
@@ -659,7 +659,7 @@
             "footnotes": [
                 {
                     "word": "Pinagpala",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
@@ -670,7 +670,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "47-1"
                 }
             ],
             "outlines": null
@@ -681,7 +681,7 @@
             "footnotes": [
                 {
                     "word": "masamang",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -692,11 +692,11 @@
             "footnotes": [
                 {
                     "word": "bugbugin",
-                    "note": ""
+                    "id": "49-1"
                 },
                 {
                     "word": "makipagkainan",
-                    "note": ""
+                    "id": "49-2"
                 }
             ],
             "outlines": null
@@ -713,22 +713,352 @@
             "footnotes": [
                 {
                     "word": "puputulin",
-                    "note": ""
+                    "id": "51-1"
                 },
                 {
                     "word": "bahagi",
-                    "note": ""
+                    "id": "51-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "51-3"
                 },
                 {
                     "word": "pagtangis",
-                    "note": ""
+                    "id": "51-4"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang Panginoon ay “lumabas mula sa templo,” ipinakikita na Kanyang nilisan ang templo. Ito ay upang ganapin ang Kanyang salita sa 23:38 hinggil sa pag-iwan Niya sa templo sa mga tumatangging Hudyo bilang kanilang bahay ng kapanglawan. Ito ay katumbas sa paglisan ng kaluwalhatian ng Diyos sa templo noong sinaunang panahon (Ezek. 10:18)."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang buong bakuran ng templo."
+        },
+        {
+            "id": "2-1",
+            "text": "Ito ay naganap noong A.D. 70 nang ang Herusalem ay winasak ni Tito at ng kanyang hukbong Romano."
+        },
+        {
+            "id": "3-1",
+            "text": "Upang matanggap ang pangitain tungkol sa propesiya ng Panginoon hinggil sa kapanahunang ito, tayo ay kailangang umakyat sa mataas na bundok upang makadulog sa Kanyang presensiya."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang katanungan ng mga disipulo ay binubuo ng tatlong punto: 1) Kung kailan mangyayari ang mga bagay na ito, kasama hindi lamang ang pagkawasak ng templo (b. 2), bagkus ang mga bagay rin na binanggit sa 23:32-39; 2) ang tanda ng pagdating ni Kristo; at 3) ang tanda ng kaganapan ng kapanahunang ito. Sinasagot ng salita ng Panginoon mula sa bersikulo 4 hanggang 25:46 ang katanungan ng mga disipulo hinggil sa tatlong puntong ito."
+        },
+        {
+            "id": "3-3",
+            "text": "Gr. parousia, na nangangahulugang presensiya. Ang pangalawang pagdating ni Kristo ay magiging ang Kanyang presensiya sa Kanyang bayan. Ang presensiyang (parousia) ito ay magsisimula sa pag-akyat-ng-may-masidhing-kagalakan ng lalakeng-anak (Apoc. 12:5) at ng unang bunga (Apoc. 14:1-4) at matatapos sa Kanyang pagpapakita sa lupa kasama ang Kanyang mga banal. Sa panahon ng Kanyang parousia ay magkakaroon ng matinding kapighatian (b.21; Apoc. 9:1-21, 11:14; 16:1-2,) na magsisimula sa mga sobrenatural na kalamidad (Apoc. 6:12-17; 8:7-12), ang pagbaba ni Kristo sa himpapawid (Apoc. 14:14), ang pag-akyat-ng-may-masidhing-kagalakan ng karamihan ng mga mananampalataya sa himpapawid (1 Tes. 4:15-17), ang luklukan ng paghahatol ni Kristo (2 Cor. 5:10), at ang kasalan ng Kordero (Apoc. 19:7-9). (Tingnan ang tsart ng “Pitumpung pito at ang Pagbalik ni Kristo, pati ang pag-akyat-ng-may-masidhing-kagalakan ng mga Banal” sa katapusan ng Bagong Tipan.)"
+        },
+        {
+            "id": "4-1",
+            "text": "Ang kasagutan ng Panginoon ay may tatlong bahagi: ang unang bahagi (bb. 4-31) ay hinggil sa mga hinirang na Hudyo; ang pangalawa (24:32-25:30) ay hinggil sa ekklesia; at ang pangatlo (25:31-46) ay hinggil sa mga Hentil (ang mga bansa). Ang unang bahagi, hinggil sa mga Hudyo, ay nararapat ipakahulugan nang literal; samantalang ang pangalawang bahagi, hinggil sa ekklesia, ay nararapat ipakahulugan sa pang-espiritwal, sapagkat ito ay sinalita sa mga talinghaga dahil sa paliwanag na ibinigay sa 13:11-13. Halimbawa, ang taglamig sa b. 20 ay ang totoong taglamig, subalit ang tag-init sa b. 32 ay isang simbolong sumasagisag sa panahon ng panunumbalik. Ang pangatlong bahagi, hinggil sa mga Hentil, ay nararapat ding ipakahulugan nang literal."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang ilang aspekto ng propesiya sa mga bersikulo 4-14 ay naganap na, at ang ilan ay nasa hakbangin ng pagsasakatuparan, hanggang sa panahon ng matinding kapighatian, na siyang magiging kaganapan at wakas ng kapanahunang ito."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “mga digmaan” dito ay tumutukoy sa lahat ng digmaan mula sa unang siglo hanggang sa kasalukuyan. Ang mga ito ay sinasagisag ng pulang kabayo ng pangalawang tatak sa Apoc. 6:3-4."
+        },
+        {
+            "id": "6-2",
+            "text": "“Ang wakas” ay ang kaganapan ng kapanahunang ito (b. 3; Dan. 12:4, 9, 6-7), na siya ring ang tatlo at kalahating taon ng matinding kapighatian. Bagama’t ang mga bersikulo 6-9 at 14 ay nasa seksiyong ukol sa mga hinirang na Hudyo, ang binanggit na kapighatian at pangangaral ng ebanghelyo sa mga bersikulong ito ay nangyayari sa buong mundo nang pangkalahatan mula sa pag-akyat sa langit ni Kristo hanggang sa kaganapan ng kapanahunang ito. Pagkaraan ng bersikulo 14, ang binanggit na umpisa ng matinding kapighatian (b. 21) sa bersikulo 15 ay ang panahon ng kasuklamsuklam na paninira kung kailan ilalagay ng Antikristo ang kanyang larawan sa loob ng templo ng Diyos."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang “bansa” ay tumutukoy sa mga tao, ang mga Hentil; ang “kaharian” ay tumutukoy sa imperyo."
+        },
+        {
+            "id": "7-2",
+            "text": "Halos lahat ng “mga taggutom” ay bunga ng digmaan. Ayon sa kasaysayan, ang digmaan ay palaging nagdadala ng taggutom na sinasagisag ng itim na kabayo ng pangatlong tatak sa Apoc. 6:5-6."
+        },
+        {
+            "id": "7-3",
+            "text": "Simula sa pag-akyat sa langit ni Kristo, ang mga lindol ay nadaragdagan sa buong itinagal ng lahat ng siglo at patitindihin sa wakas ng kapanahunang ito (Apoc. 6:12; 8:5; 11:13, 19; 16:18)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang mga kirot ng panganganak ay para sa pagsilang ng mga anak. Sa Kanyang Bagong Tipang ekonomiya, ang hangarin ng puso at ang layunin ng Diyos ay ang magbunga ng maraming anak (Gal. 3:26; Heb. 2:10) upang maging Kanyang kahayagan. Samakatuwid, ang mga kirot ng panganganak dito ay tumutukoy sa lahat ng kapighatian sa kapanahunan ng Bagong Tipan na kinapapalooban ng mga digmaan, mga taggutom, mga lindol, mga kahirapan, at mga pag-uusig na binanggit sa bb. 6-9 at 21. Ang mga kirot ng panganganak rito ay pinagdurusahan lamang ng mga Bagong Tipang mananampalataya alang-alang sa Panginoon, samantalang ang pagdaramdam sa panganganak sa Apoc. 12:2 ay pagdaramdam na pinagdusahan ng bayan ng Diyos kapwa sa Lumang Tipan at Bagong Tipan. Ang mga ito ay ginamit ng Diyos upang mabigyan ng puwang ang pagpapahayag ng ebanghelyo (b. 14), maisilang ang Kanyang maraming anak upang mabuo ang ekklesia sa kapanahunan ngayon at maganap ang kaharian sa susunod na kapanahunan at maisilang ang Bagong Herusalem sa kawalang-hanggan bilang ang sukdulang kaganapan ng ekklesia at ng kaharian. Nang sa gayon mabibigyan ang Diyos ng isang walang hanggang kahayagan sa darating na kawalang-hanggan. Ang ganitong pananaw ay pinagtibay ng Gal. 4:19 at Apoc. 12:2, 5."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang “kayo” ay tumutukoy sa mga disipulong Hudyo na siyang mga propeta at mga pantas na lalake na isinugo sa mga Hudyo (23:34)."
+        },
+        {
+            "id": "13-1",
+            "text": "Tingnan ang tala 22-1 sa kapitulo 10."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang “ebanghelyo ng kaharian,” kasama ang ebanghelyo ng biyaya (Gawa 20:24), ay hindi lamang nagdadala ng mga tao sa loob ng pagliligtas ng Diyos, bagkus sa loob din ng kaharian ng mga kalangitan (Apoc. 1:9). Ang diin ng ebanghelyo ng biyaya ay nasa pagpapatawad sa kasalanan, pagtutubos ng Diyos, at buhay na walang hanggan; samantalang ang diin ng ebanghelyo ng kaharian ay nasa makalangit na pamumuno ng Diyos at ng awtoridad ng Panginoon. Ang ebanghelyong ito ng kaharian ay ipangangaral sa buong lupa para sa isang patotoo sa lahat ng bansa bago dumating ang wakas ng kapanahunang ito, katulad ng paglalarawan ng puting kabayo ng unang tatak sa Apoc. 6:1-2. Kaya, ang pangangaral na ito ay magiging isang tanda ng kaganapan ng kapanahunang ito."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang ebanghelyo ng kaharian ay “isang patotoo sa lahat ng bansa (mga Hentil).” Ang patotoong ito ay nararapat maipalaganap sa buong lupa bago ang wakas ng kapanahunang ito, yaon ay, bago ang panahon ng matinding kapighatian."
+        },
+        {
+            "id": "14-3",
+            "text": "Tingnan ang tala 6-2 ."
+        },
+        {
+            "id": "15-1",
+            "text": "Kung gaano katagal ang panahon na namamagitan sa mga bersikulo 4-14 ay walang nakaaalam. Subalit ang propesiya sa mga bersikulo 15-31 hinggil sa labi ng mga Hudyo ay tiyakang mangyayari sa huling tatlo at kalahating taon ng kapanahunang ito, ang panahon ng matinding kapighatian, ang pangalawang kalahati ng huling sanlinggo na pinropesiya sa Dan. 9:27, na magsisimula sa pagtatayo ng imahen ng Antikristo (ang diyus-diyusan) sa templo (b. 15) at magwawakas sa hayagang pagdating ni Kristo (b. 30)."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang “kasuklam-suklam” ay nangangahulugang isang diyus-diyusan (Deut. 29:17). Dito ang “kasuklam-suklam” ay tumutukoy sa imahen ng Antikristo na itinayo sa templo ng Diyos tulad sa isang diyus-diyusan (Apoc. 13:14-15; 2 Tes. 2:4) sa pasimula ng matinding kapighatian (b. 21). Kaya, ang diyus-diyusang ito ay magiging isang tanda ng kaganapan ng kapanahunang ito."
+        },
+        {
+            "id": "15-3",
+            "text": "Gr. nagsasanhi ng paninira, nakasisira. Ang karumal-dumal, ang imahen ng Antikristo, ay magiging sanhi ng kasiraan. Ang Antikristo ay tinatawag na mangwawasak (Apollyon, Apoc. 9:11); siya ay gagawa ng malubhang pangwawasak (Dan. 8:13, 23-25; 9:27)."
+        },
+        {
+            "id": "15-4",
+            "text": "Ang “banal na dako” rito ay tumutukoy sa mga banal na dako sa loob ng templo ng Diyos (Awit 68:35; Ezek. 7:24; 21:2)."
+        },
+        {
+            "id": "19-1",
+            "text": "Alinman sa dalawa ang “magdalang-tao” o ang “magpasuso” ay sagabal para sa pagtakas."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang “taglamig” ay isang mahirap na panahon para sa pagtakas."
+        },
+        {
+            "id": "20-2",
+            "text": "Sa araw ng Sabbath, ang isa ay pinahihintulutan lamang na lumakad ng isang maikling distansiya (Gawa 1:12), hindi sapat para sa pagtakas. Ang pagbanggit sa “Sabbath” dito ay nagpapakita na ito ay tutuparin pa rin ng mga Hudyo pagkatapos ng pagpapanumbalik ng bansang Israel. Ang mga disipulo, ang mga tagapakinig sa salita ng Panginoon dito, ay may dalawang katayuan, sa isang panig sila ay kumakatawan sa labi ng mga Hudyo, at sa kabilang panig sila ay kumakatawan sa mga Bagong Tipang mananampalataya, na bumubuo sa ekklesia. Sa bahagi ng salita ng Panginoon hinggil sa mga Hudyo (bb. 4-31), kanilang kinatawan ang labi ng mga Hudyo; samantalang sa bahagi hinggil sa ekklesia (24:32-25:30), sila ay kumatawan sa mga Bagong Tipang mananampalataya. Sa apat na Ebanghelyo, sa mga bagay na may kinalaman sa mga pangyayari sa kapaligiran, pinakitunguhan ng Panginoon ang Kanyang mga disipulo bilang mga Hudyo; subalit sa mga bagay hinggil sa espiritu at buhay, Kanyang itinuring sila bilang mga Bagong Tipang mananampalataya."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang “matinding kapighatian” ay darating sa huling tatlo at kalahating taon ng kapanahunang ito. Tingnan ang tala 2-4 sa Apocalipsis 11. Ang Herusalem ang magiging sentro ng matinding kapighatiang ito at ang Judea ang magiging paligid nito; samantalang ang Roma ang magiging sentro ng pagsubok sa Apocalipsis 3:10 at ang buong pinananahanang lupa ang magiging paligid nito."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang matinding kapighatian ay tatagal lamang ng tatlo at kalahating taon. Tingnan ang tala 2-4 sa Apoc. 11."
+        },
+        {
+            "id": "22-2",
+            "text": "Ang “hinirang” dito ay tumutukoy sa mga Hudyo, ang mga piniling tao ng Diyos (Roma 11:28). Gayundin sa mga susunod pang bersikulo."
+        },
+        {
+            "id": "23-1",
+            "text": "Tinanggihan ng mga Hudyo si Hesus bilang kanilang Mesiyas at umaasa sa isang Mesiyas na darating. Sila ay kinakailangang mabalaan na ang Mesiyas, ang Kristo, ay hindi manggagaling sa alinmang panig ng lupa, kundi bababa mula sa kalangitan na nakasakay sa ulap."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang Antikristo ay magiging siyang pinakahuli sa “mga bulaang Kristo” at gagawa ng mga tanda at mga kababalaghan ng kasinungalingan sa pamamagitan ng kapangyarihan ni Satanas upang dayain ang mga mapapahamak (2 Tes. 2:3, 9-10)."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang “ibang hayop” sa Apoc. 13:11 ang magiging huli sa “mga bulaang propeta” (Apoc. 19:20) at gagawa ng mga dakilang tanda upang dayain ang mga nananahan sa lupa (Apoc. 13:13-14)."
+        },
+        {
+            "id": "24-3",
+            "text": "Gr. magbibigay."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang “ilang” ay isang lugar kung saan inihihiwalay ng isang tao ang kanyang sarili mula sa sanlibutan upang madali niyang pagtakahin ang mga tao kung siya ang Mesiyas o hindi, tulad ng nangyari sa kaso ni Juan Bautista (3:1; Juan 1:19-20)."
+        },
+        {
+            "id": "26-2",
+            "text": "O, mga pribadong silid, kung saan magagawang mahiwaga ng isang tao ang kanyang sarili upang makakaakit ng tao."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang pangalawang pagdating ni Kristo ay may dalawang aspekto: ang isa ay ang lihim na aspekto para sa Kanyang mga mapagbantay na mananampalataya; ang isa naman ay ang hayag na aspekto para sa mga di-nananampalatayang Hudyo at mga Hentil. Ang “kidlat” dito ay sumasagisag sa hayag na aspekto pagkatapos ng matinding kapighatian (bb. 29-30); samantalang ang pagdating ng magnanakaw sa bersikulo 43 ay sumasagisag sa lihim na aspekto bago mangyari ang matinding kapighatian. Ang kidlat ay nakakubli sa isang alapaap, naghihintay sa isang pagkakataon upang kumislap. Si Kristo ay mararamtan din ng isang alapaap (Apoc. 10:1) sa himpapawid sa loob ng isang panahon, at kapagdaka, katulad ng isang kidlat ay magpapakita at darating sa lupa. Kaya, ang kidlat ay magiging isang tanda ng katapusan parousia (tingnan ang tala 3-3 ) ng Panginoon. Ito ay nagpapahiwatig na ang Panginoon ay katulad din ng dagitab o kuryente."
+        },
+        {
+            "id": "27-2",
+            "text": "Tingnan ang tala 3-3 . Gayundin sa bb. 37 at 39."
+        },
+        {
+            "id": "28-1",
+            "text": "Sa ibig sabihin ng nilalaman, ang mga bersikulo 15 at 21 ay nagpapahiwatig na sa wakas ng kapanahunang ito, ang Antikristo ay magiging sanhi ng matinding kapighatian. Siya ang kinakailangang mahatulan at malipol. Kung papaano ang lahat ng tao sa loob ni Adam ay mga patay (1 Cor. 15:22), gayundin ang masamang Antikristo kasama ang kanyang masasamang hukbo, na makikidigma laban sa Panginoon sa Armagedon (Apoc. 19:17-21), ay ang namamahong “bangkay” sa paningin ng Panginoon, angkop para sa panlasa ng mga buwitre. At tulad ng nasa mga Kasulatan kapwa ang Panginoon at yaong nagtitiwala sa Kanya ay inihalintulad sa agila (Exo. 19:4; Deut. 32:11; Isa. 40:31), at ang mabilis na mga hukbong sumasalanta sa kaaway ay inihahalintulad din sa nagliliparang agila (Deut. 28:49; Ose. 8:1), kaya ang “mga buwitre” rito, ang uri ng agilang mandaragit, ay nararapat na sumasagisag kay Kristo at sa mga mandaraig, na darating bilang mabilis na lumilipad na hukbo upang kalabanin ang Antikristo at ang kanyang mga hukbo at puksain sila, sa gayon ay isinasagawa ang paghahatol ng Diyos sa kanila sa Armagedon. Ito ay hindi lamang tumutukoy na sa panahon ng Kanyang pagpapakita sa lupa si Kristo, kasama ang Kanyang mga mandaraig na banal, ay mapasasakinaroroonan din ng Antikristo kasama ang kanyang mga hukbo, bagkus gayundin tumutukoy na si Kristo, kasama ang mga mandaraig, ay mabilis na lilitaw mula sa himpapawid katulad ng mga agila. Ito ay tumutugma sa kislap ng kidlat sa naunang bersikulo."
+        },
+        {
+            "id": "29-1",
+            "text": "Ito ay isang malakas na katibayan na ang hayag na pagdating ni Kristo ay mangyayari sa katapusan ng matinding kapighatian (b. 21)."
+        },
+        {
+            "id": "29-2",
+            "text": "Ang sobrenatural na kalamidad na ito sa kalangitan ay susunod sa pinakahuling bahagi ng matinding kapighatian, mangyayari nang malapit sa wakas ng kapanahunang ito. Tingnan ang tala 12-2 sa Apocalipsis 6. Ito ay naiiba sa pang-apat na trumpeta (Apoc. 6:12-13; 8:12), na mangyayari sa umpisa ng matinding kapighatian."
+        },
+        {
+            "id": "30-1",
+            "text": "Kung ano ang “tanda” na tinutukoy rito ay wala tayong paraan upang malaman. Gayon pa man, ito ay nararapat na maging isang sobrenatural at malinaw na nakikita (maaaring katulad ng kidlat sa b. 27), na lumilitaw sa langit."
+        },
+        {
+            "id": "30-2",
+            "text": "Ang “mga lipi” rito ay tumutukoy sa mga lipi ng bansang Israel, at ang “lupa” ay tumutukoy sa banal na lupa. Sa pagpapakita ng Panginoon, lahat ng angkan ng Israel ay mangagsisisi at mananaghoy (Zac. 12:10-14; Apoc. 1:7)."
+        },
+        {
+            "id": "30-3",
+            "text": "Gr. dadagukan ang kanilang dibdib."
+        },
+        {
+            "id": "30-4",
+            "text": "Sa panahong ito ang Panginoon ay wala na sa loob ng alapaap kundi “nasa ibabaw ng alapaap,” nagpapakita sa mga tao sa lupa. Ito ang hayag na aspekto ng Kanyang pangalawang pagdating. Tingnan ang tala 12 sa Apocalipsis 10 at tala 14-1 sa Apocalipsis 14."
+        },
+        {
+            "id": "30-5",
+            "text": "Sa unang pagdating ni Kristo, ang Kanyang awtoridad ay nahayag sa pagpapalayas ng mga demonyo, pagpapagaling ng mga sakit, atbp. (8:8-9; Marc. 6:7), upang patunayan na ang Kanyang Sarili ay ang makalangit na Hari; samantalang sa Kanyang pangalawang pagdating, ang Kanyang kapangyarihan ay gagamitin upang isagawa ang paghahatol ng Diyos, upang wasakin ang Antikristo at ang kanyang mga hukbo, at upang talian si Satanas para sa pagtatatag ng Kanyang kaharian sa lupa."
+        },
+        {
+            "id": "31-1",
+            "text": "Pagkatapos ng matinding kapighatian, sa Kanyang pagbabalik sa lupa, titipunin ng Panginoon ang mga nagkawatak-watak na Hudyo mula sa lahat ng dako ng daigdig patungo sa banal na lupa. Ito ay hindi lamang magiging kaganapan ng salita ng Panginoon sa 23:37, bagkus ng pangako rin ng Diyos sa Lumang Tipan (tingnan ang mga reperensiya)."
+        },
+        {
+            "id": "31-2",
+            "text": "Tingnan ang tala 22-2 ."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang “subalit” ay nagpapakita na mula sa bersikulo 32 hanggang 25:30 ay panibago nang seksiyon, ang seksiyon tungkol sa ekklesia."
+        },
+        {
+            "id": "32-2",
+            "text": "Ang “puno ng igos,” na sumasagisag sa bansang Israel, ay isinumpa sa 21:19 (tingnan ang mga tala roon). Ito ay dumaan sa isang mahabang “taglamig,” mula sa unang siglo hanggang sa A.D. 1948, nang ang bansang Israel ay nanumbalik. Iyon ang pananariwa ng kanyang sanga at pag-uusbong ng kanyang mga dahon. Ang puno ng igos na ito ay isang tanda sa mga mananampalataya tungkol sa kaganapan ng kapanahunang ito."
+        },
+        {
+            "id": "32-3",
+            "text": "Ang “manariwa” ay sumasagisag sa panunumbalik ng buhay."
+        },
+        {
+            "id": "32-4",
+            "text": "Ang “mag-usbong ng mga dahon,” ay sumasagisag sa mga panlabas na aktibidad."
+        },
+        {
+            "id": "32-5",
+            "text": "Ang taglamig ay sumasagisag sa panahon ng pagkatuyo (21:19), ang panahon ng kapighatian (bb. 7-21); ang “tag-init” ay sumasagisag sa kapanahunan ng (nanumbalik na) kaharian (Luc. 21:30-31), na magsisimula sa pangalawang pagdating ng Panginoon."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang “lahat ng bagay na ito” ay tumutukoy sa mga bagay na hinulaang mangyayari sa mga bb. 7-32."
+        },
+        {
+            "id": "33-2",
+            "text": "Ang “ito” ay tumutukoy sa napanumbalik na kaharian ng Israel (Gawa 1:6), sinasagisag ng tag-init sa bersikulo 32."
+        },
+        {
+            "id": "34-1",
+            "text": "Ito ay hindi ang henerasyong ayon sa panahon o mga tao, katulad ng mga salinlahi sa 1:17; ito ay ang henerasyong ayon sa moral na kalagayan ng mga tao, tulad ng henerasyon sa 11:16; 12:39, 41, 42, 45; at Kaw. 30:11-14."
+        },
+        {
+            "id": "36-1",
+            "text": "Hindi nalalaman ng Anak, na tumatayo sa katayuan ng “Anak ng Tao” (b. 37), ang araw at oras ng Kanyang pagbabalik."
+        },
+        {
+            "id": "37-1",
+            "text": "Ang pagdating ng Panginoon (parousia) ay magiging “katulad ng mga araw ni Noe.” Ito ay nagpapakita na kapag ang parousia ng Panginoon ay malapit nang dumating ito ay magiging katulad ng mga araw ni Noe, yaon ay, ang kalagayan bago ang pagbabalik ng Panginoon ay magiging katulad ng mga araw ni Noe."
+        },
+        {
+            "id": "38-1",
+            "text": "Ang “sapagkat” ay nagpapakita na ang bersikulong ito ang pagpapaliwanag ng bakit at ng papaano magiging katulad ng mga araw ni Noe ang parousia ng Panginoon. Ito ay dahil sa nang mga araw ni Noe, ang mga sumusunod na kalagayan ay umiiral: 1) ang mga tao ay tulirong nagsisikain, nagsisiinom, nagsisipag-asawa, at pinapag-aasawa; at 2) hindi nila nalaman na ang paghahatol ay dumating hanggang sa dumating ang baha at tinangay silang lahat. Sa panahon ng parousia ng Panginoon, ang mga tao ay magiging pareho: natutuliro sa mga pangangailangan ng buhay na ito at hindi nalalaman na ang paghuhukom ng Diyos (na sinagisag ng baha) ay darating sa kanila sa pagdating ng Panginoon. Ang mga mananampalataya, gayon pa man, ay nararapat maalis sa pagkatuliro at malinaw na malaman na si Kristo ay darating upang isagawa ang paghahatol ng Diyos dito sa pinasamang sanlibutan."
+        },
+        {
+            "id": "38-2",
+            "text": "Ang pagkain, pag-inom, at pag-aasawa ay pawang itinalaga ng Diyos para sa pag-iral ng tao. Subalit dahil sa pita ng tao, ginamit ni Satanas ang mga pangangailangang ito ng pantaong buhay upang okupahin ang tao at ilayo siya sa kapakanan ng Diyos. Tungo sa wakas ng kapanahunang ito, malapit sa pagdating ng parousia ng Panginoon ang ganitong situwasyon ay magiging matindi at makararating sa sukdulan nito sa panahon ng parousia ng Panginoon."
+        },
+        {
+            "id": "40-1",
+            "text": "Ipinakikita ng mga katagang “sa panahong yaon” na habang ang mga makasanlibutang tao ay natutuliro sa mga materyal na bagay, walang pandama sa darating na paghahatol, ilan sa mga malilinaw ang pag-iisip at mapagbantay na mananampalataya ay kukunin. Ito ay nararapat maging isang tanda ng pagdating ni Kristo sa mga natutuliro at manhid na tao."
+        },
+        {
+            "id": "40-2",
+            "text": "Ang mga lalakeng ito ay tiyak na mga kapatid na lalake kay Kristo."
+        },
+        {
+            "id": "40-3",
+            "text": "Kapwa ang “sasabukid” at ang “magsisigiling” ay sumasagisag sa pagtatrabaho upang mabuhay. Bagama’t ang mga mananampalataya ay hindi nararapat matuliro ng mga pangangailangan ng buhay na ito, sila ay kailangang magtrabaho upang mabuhay. Anumang pag-iisip ng pagtalikod sa wastong trabaho upang mabuhay ay isa pang kalabisan ng mga taktika ni Satanas."
+        },
+        {
+            "id": "40-4",
+            "text": "Ito ay ang maiakyat-na-may-masidhing-kagalakan bago dumating ang matinding kapighatian. Itong pag-akyat-ng-may-masidhing-kagalakan ay isang tanda ng pagdating ng Panginoon (parousia) at isang tanda sa mga Hudyo."
+        },
+        {
+            "id": "41-1",
+            "text": "Ang “mga babaeng” ito ay tiyak na mga kapatid na babae sa Panginoon."
+        },
+        {
+            "id": "41-2",
+            "text": "Tingnan ang tala 40-3 ."
+        },
+        {
+            "id": "41-3",
+            "text": "Tingnan ang tala 40-4 ."
+        },
+        {
+            "id": "42-1",
+            "text": "Kapwa ang “magbantay nga kayo” at ang “inyong Panginoon” ay nagpapatunay na ang dalawang lalake at dalawang babae sa mga bersikulo 40 at 41 ay mga ligtas na mananampalataya. Ang Panginoon ay hindi mag-uutos sa mga di-ligtas na tao na magbantay, at Siya ay hindi ang Panginoon ng mga di-ligtas."
+        },
+        {
+            "id": "43-1",
+            "text": "Ang “panginoon ng sambahayan” ay tumutukoy sa mananampalataya, at ang “bahay” ay tumutukoy sa pag-uugali at gawa ng mananampalataya na kanyang naitayo sa kanyang buhay-Kristiyano."
+        },
+        {
+            "id": "43-2",
+            "text": "Ang isang magnanakaw ay dumarating upang nakawin ang mahahalagang bagay sa isang hindi nalalamang oras. Ang Panginoon ay darating nang palihim bilang isang “magnanakaw” sa yaong mga umiibig sa Kanya, at kukunin sila bilang Kanyang kayamanan. Kaya dapat nga tayong magbantay (b. 42)."
+        },
+        {
+            "id": "44-1",
+            "text": "Ito ang palihim na pagdating ng Panginoon sa mga nagbabantay na mandaraig."
+        },
+        {
+            "id": "45-1",
+            "text": "Sa Panginoon, kinakailangan tayong maging “tapat”; sa mga mananampalataya, kinakailangang tayo ay “may-maingat-na-katalinuhan.” Ang pagbabantay ay para sa pag-akyat-ng-may-masidhing-kagalakan tungo sa presensiya ng Panginoon (b. 42); ang katapatan ay para sa pamumuno sa kaharian (b. 47)."
+        },
+        {
+            "id": "45-2",
+            "text": "Ang “sambahayan” ay tumutukoy sa mga mananampalataya (Efe. 2:19), na siyang bumubuo sa ekklesia (1 Tim. 3:15)."
+        },
+        {
+            "id": "45-3",
+            "text": "Ang “ibigay sa kanila ang pagkain” ay ang ihain sa loob ng ekklesia ang Salita ng Diyos at si Kristo bilang panustos ng buhay sa mga mananampalataya."
+        },
+        {
+            "id": "46-1",
+            "text": "Ang maging “pinagpala” rito ay ang magantimpalaan ng awtoridad na mamuno sa panahon ng pagpapakita ng kaharian."
+        },
+        {
+            "id": "47-1",
+            "text": "Bilang gantimpala, ang tapat na alipin ng Panginoon ay pagtatalagahan “ng lahat ng Kanyang ari-arian” sa pagpapakita ng kaharian ng mga kalangitan."
+        },
+        {
+            "id": "48-1",
+            "text": "Ang “masamang alipin” ay isang ligtas na mananampalataya, sapagkat 1) siya ay pinagtalagahan ng Panginoon (b. 45), 2) tinatawag niya ang Panginoon na “aking Panginoon,” at 3) siya ay nananampalatayang darating ang Panginoon."
+        },
+        {
+            "id": "49-1",
+            "text": "Ito ay ang pakitunguhan nang masama ang kapwa mananampalataya."
+        },
+        {
+            "id": "49-2",
+            "text": "Ito ay ang pakikihalubilo sa mga taong makasanlibutan, na lasing sa mga makasanlibutang bagay."
+        },
+        {
+            "id": "51-1",
+            "text": "Tumutukoy sa pagiging hiwalay sa kaluwalhatian ni Kristo, sa kaluwalhatian ng Kanyang kaharian at sa maluwalhating presensiya sa loob ng Kanyang kaharian. Nangangahulugan pa na hindi makikibahagi kay Kristo at sa kaluwalhatian ng Kanyang kaharian sa pagpapakita ng kaharian katulad ng tatamasahin ng tapat na alipin (b. 45; 25:21, 23). Ito ay tumutugma sa “itapon sa kadiliman sa labas” na nasa katapusan ng talinghaga tungkol sa mga talento (25:14-30), na isang pagkukumpleto sa bahaging ito ng bb. 45-51."
+        },
+        {
+            "id": "51-2",
+            "text": "Ito ay hindi ang mapahamak magpasawalang-hanggan, kundi ang makatanggap ng pampanahunang kaparusahan. Tingnan ang tala 28-1 sa Hebreo 12."
+        },
+        {
+            "id": "51-3",
+            "text": "Tingnan ang tala 2-3 sa kap. 6."
+        },
+        {
+            "id": "51-4",
+            "text": "Tingnan ang tala 12-3 sa kap. 8."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Kaya’",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "kasamaan",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -26,23 +26,23 @@
             "footnotes": [
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "magsilago",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "2-5"
                 }
             ],
             "outlines": null
@@ -53,11 +53,11 @@
             "footnotes": [
                 {
                     "word": "natikman",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "mabuti;",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -68,11 +68,11 @@
             "footnotes": [
                 {
                     "word": "Batong",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "minahalaga,",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": [
@@ -85,31 +85,31 @@
             "footnotes": [
                 {
                     "word": "batong",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "itinatayong",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "espirituwal",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "bahay,",
-                    "note": ""
+                    "id": "5-4"
                 },
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "5-5"
                 },
                 {
                     "word": "pagkasaserdote,",
-                    "note": ""
+                    "id": "5-6"
                 },
                 {
                     "word": "espirituwal",
-                    "note": ""
+                    "id": "5-7"
                 }
             ],
             "outlines": null
@@ -120,15 +120,15 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "panulok",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "minahalaga,",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -139,15 +139,15 @@
             "footnotes": [
                 {
                     "word": "mahalaga;",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "tagapagtayo,",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "naging",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -158,15 +158,15 @@
             "footnotes": [
                 {
                     "word": "katitisuran",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "salita,",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "dito",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -177,35 +177,35 @@
             "footnotes": [
                 {
                     "word": "lahing",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "maharlikang",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "banal,",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "bayang",
-                    "note": ""
+                    "id": "9-4"
                 },
                 {
                     "word": "ipahayag",
-                    "note": ""
+                    "id": "9-5"
                 },
                 {
                     "word": "kagalingan",
-                    "note": ""
+                    "id": "9-6"
                 },
                 {
                     "word": "kadiliman",
-                    "note": ""
+                    "id": "9-7"
                 },
                 {
                     "word": "liwanag;",
-                    "note": ""
+                    "id": "9-7"
                 }
             ],
             "outlines": [
@@ -218,7 +218,7 @@
             "footnotes": [
                 {
                     "word": "Na",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -229,11 +229,11 @@
             "footnotes": [
                 {
                     "word": "masasamang",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "kaluluwa,",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -248,15 +248,15 @@
             "footnotes": [
                 {
                     "word": "gawi",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "magaling",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "pagdalaw.",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -267,15 +267,15 @@
             "footnotes": [
                 {
                     "word": "Kayo",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "institusyon",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "alang-",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": [
@@ -294,7 +294,7 @@
             "footnotes": [
                 {
                     "word": "taong",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -311,7 +311,7 @@
             "footnotes": [
                 {
                     "word": "pagkakapatiran.",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -322,7 +322,7 @@
             "footnotes": [
                 {
                     "word": "pagkatakot",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": [
@@ -335,15 +335,15 @@
             "footnotes": [
                 {
                     "word": "biyaya,",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "budhing",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "19-3"
                 }
             ],
             "outlines": null
@@ -360,11 +360,11 @@
             "footnotes": [
                 {
                     "word": "ganitong",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "halimbawa",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": [
@@ -383,11 +383,11 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "humahatol",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -398,31 +398,31 @@
             "footnotes": [
                 {
                     "word": "nagdala",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "kahoy,",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "pagkamatay",
-                    "note": ""
+                    "id": "24-3"
                 },
                 {
                     "word": "mabuhay",
-                    "note": ""
+                    "id": "24-4"
                 },
                 {
                     "word": "katuwiran;",
-                    "note": ""
+                    "id": "24-5"
                 },
                 {
                     "word": "sugat",
-                    "note": ""
+                    "id": "24-6"
                 },
                 {
                     "word": "nagsigaling",
-                    "note": ""
+                    "id": "24-7"
                 }
             ],
             "outlines": null
@@ -433,22 +433,276 @@
             "footnotes": [
                 {
                     "word": "nagsibalik",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "Pastol",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "Episkopo",
-                    "note": ""
+                    "id": "25-3"
                 },
                 {
                     "word": "kaluluwa.",
-                    "note": ""
+                    "id": "25-4"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang paghihikayat sa bb. 1-10 ay nababatay sa pahayag sa kapitulo 1. Tatlong pangunahing bagay na naisagawa ng Tres-unong Diyos sa mga mananampalataya ang binigyang-diin sa kapitulo 1: ang pagsisilang na muli ng Ama (1:3, 23), ang pagtutubos ng Anak (1:2, 18-19), at ang pagpapabanal ng Espiritu (1:2), upang gawing isang banal na bayan ang mga mananampalataya, namumuhay ng isang banal na buhay (1:15-16). Batay rito, tinagubilinan ni Pedro ang mga mananampalataya na magsilago sa buhay (b. 2) para sa pagtatayo ng isang espiritwal na bahay (b. 5)."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang limang negatibong bagay na binanggit dito ay ayon sa pagkakasunud-sunod. Ang kasamaan ay ang ugat, ang pinagmulan; ang paninirang-puri ay ang kahayagan. Samantala, ang pandaraya, pagpapaimbabaw, at pananaghili ay ang hakbang-hakbang na pagbaba mula sa pinagmulan hanggang sa kahayagan."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang mga mananampalataya, sa pamamagitan ng pagkasilang na muli (1:3, 23), ay naisilang bilang mga sanggol na makaaasa sa mga sustansiya ng espiritwal na gatas para sa ikalalago ng buhay tungo sa isa pang pasulong na hakbang ng kaligtasan. Ang ganitong pagkakaligtas ay para sa pagtatayo ng Diyos."
+        },
+        {
+            "id": "2-2",
+            "text": "Hindi nabantuan o puro, laban sa “lahat ng pandaraya” na binanggit sa bersikulo 1; yaon ay, walang huwad na layunin, walang anumang ibang layunin maliban sa kandiliin ang kaluluwa."
+        },
+        {
+            "id": "2-3",
+            "text": "Gr. logikos. Ang salitang ito, na isinaling katampatan, sa Roma 12:1, ay nakuha sa pangngalang logos— yaon ay, ang salita; kaya, “ng salita”; may pagpapakahulugang nauukol sa kaisipan (laban sa katawan), nauukol sa mga kakayahang makapangatuwiran; kaya, makatuwiran, lohikal, katampatan. Ang gatas ng salita ay hindi gatas para sa katawan, kundi gatas para sa kaluluwa, ang panloob na katauhan. Ang gatas na ito ay nasa loob ng salita ng Diyos at inihahatid sa pamamagitan din ng salita ng Diyos upang kandiliin ang ating panloob na tao sa pamamagitan ng pang-unawa ng ating malohikang kaisipan, at pagtanggap ng ating pang-kaisipang kakayahan."
+        },
+        {
+            "id": "2-4",
+            "text": "Ang lumago ay isang bagay ukol sa buhay at sa loob ng buhay. Tinanggap natin ang dibinong buhay sa pamamagitan ng pagkasilang na muli, at kinakailangan nating lumago sa buhay na ito at kasama ang buhay na ito sa pamamagitan ng pagtanggap ng sustansiya ng gatas na inihahatid ng salita ng Diyos."
+        },
+        {
+            "id": "2-5",
+            "text": "Yaon ay, nagreresulta sa ikaliligtas. Ang lumago sa buhay ay nagreresulta sa kaligtasan. Ang kaligtasan dito ay hindi ang pangunang kaligtasan kundi ang resulta ng paglago sa buhay. Ang ganap at kumpletong pagliligtas ng Diyos ay kinapapalooban ng isang napakahabang panahon—mula sa pagkasilang na muli, (kabilang dito ang pagkaaring-matuwid) hanggang sa pagluluwalhati (Roma 8:30). Sa pagkasilang na muli natanggap natin ang pangunang kaligtasan (tingnan ang tala 5-5 sa kap. 1). Pagkatapos, kinakailangan tayong makandili sa pamamagitan ng pagtatamasa kay Kristo bilang ang masustansiyang gatas na nasa salita ng Diyos upang lumago tungo sa ganap na kaligtasan at umabot sa pagkagulang at sa pagkaluwalhati. Ang kaligtasang ito ay ang kaligtasan ng ating kaluluwa na mahahayag sa atin sa pagpapakita ng Panginoong Hesus (1:5 at tala 5, 9-10, 13). Gayunpaman, ayon sa ibig ipakahulugan ng nilalaman, ang “sa ikaliligtas” dito ay tuwirang tumutukoy sa pagiging naitayong isang espiritwal na bahay, sa pagkasaserdoteng banal, upang maghandog ng mga espiritwal na hain sa b. 5, at pagpapahayag ng mga kagalingan Niya sa b. 9."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang Panginoon ay maaaring matikman, at ang Kanyang lasa ay kaaya-aya at mabuti. Kung natikman na natin Siya, nanasain natin ang masustansiyang gatas na nasa Kanyang salita (b. 2)."
+        },
+        {
+            "id": "3-2",
+            "text": "O, kaaya-aya, mabait."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang batong buháy ay hindi lamang may buhay, bagkus lumalago rin sa buhay. Ito ay si Kristo para sa pagtatayo ng Diyos. Dito binabago ni Pedro ang kanyang metapora mula sa binhi ng buhay-halaman (1:23-24) tungo sa bato na nabibilang sa mga mineral. Ang binhi ay para sa pagtatanim ng buhay; ang bato ay para sa pagtatayo (b. 5). Ang kaisipan ni Pedro ay sumulong na mula sa pagtatanim ng buhay hanggang sa pagtatayo ng Diyos. Bilang buhay sa atin, si Kristo ay ang binhi; para sa pagtatayo ng Diyos, Siya ay ang bato. Pagkatapos na matanggap Siya bilang binhi ng buhay, kinakailangan nating lumago upang maranasan natin Siya bilang batong nabubuhay sa loob natin. Sa gayon, gagawin din Niya tayong mga batong buháy na natransporma ng Kanyang kalikasang bato upang tayo ay maitayong sama-sama kasama ng iba na isang espiritwal na bahay sa ibabaw Niya bilang kapwa ang saligang bato at ang batong panulok (Isa. 28:16)."
+        },
+        {
+            "id": "4-2",
+            "text": "O, mahalaga, pinarangalan; naiiba sa “mahalagang” nasa 1:19. Doon, ito ay tumutukoy sa kahalagahan sa esensiya; dito ito ay nagpapakita ng kahalagahan na kinilala at pinarangalang tao."
+        },
+        {
+            "id": "5-1",
+            "text": "Tayo, ang mga mananampalataya ni Kristo, ay naging mga batong buháy sa pamamagitan ng pagkasilang na muli at transpormasyon; kaya tayo ay mga batong buháy katulad ni Kristo. Tayo ay nilikha mula sa luad (Roma 9:21). Subali’t sa pagkasilang na muli natanggap natin ang binhi ng dibinong buhay, na sa pamamagitan ng paglago nito sa atin ay nagtatransporma sa atin upang maging mga batong buháy. Nang magsisi at manampalataya si Pedro sa Panginoon, binigyan siya ng Panginoon ng isang bagong pangalan, “Pedro”—isang bato (Juan 1:42); at nang matanggap niya ang pahayag hinggil kay Kristo, ipinahayag nang higit ng Panginoon na Siya naman ang malaking bato—isang bato (Mat. 16:16-18). Si Pedro ay nakintalan ng dalawang pangyayaring ito na kapwa si Kristo at ang Kanyang mga mananampalataya ay mga bato para sa pagtatayo ng Diyos."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang pagkain kay Kristo sa pamamagitan ng nagkakandiling gatas na nasa salita ng Diyos ay hindi lamang para sa paglago sa buhay, bagkus para rin sa pagtatayo."
+        },
+        {
+            "id": "5-3",
+            "text": "Bagama’t ang nagtutustos na gatas ng salita ay para sa kaluluwa sa pamamagitan ng kaisipan, ito ay nagkakandili sa kalaunan sa ating espiritu, ginagawa tayong hindi makakaluluwa kundi espiritwal, nagiging angkop para sa pagtatayo ng isang espiritwal na bahay para sa Diyos."
+        },
+        {
+            "id": "5-4",
+            "text": "Ang layunin ng Diyos sa mga mananampalataya ay ang magkaroon ng isang bahay na itinayo sa pamamagitan ng mga batong buháy, hindi sa mga hiwa-hiwalay at nagkalat na bato, ni hindi isang bunton ng mga bato na sama-sama lamang na tinipon, kundi mga batong itinayo sa isa’t isa."
+        },
+        {
+            "id": "5-5",
+            "text": "Ang salitang “espiritwal” ay tumuturing sa kwalipikasyon ng dibinong buhay na nabubuhay at lumalago; ang salitang “banal” naman ay tumuturing sa kwalipikasyon ng dibinong kalikasan na naghihiwalay at nagpapabanal. Ang bahay ng Diyos ay nananatili lamang sa pamamagitan ng dibinong buhay; kaya, ito ay espiritwal. Ang pagkasaserdote ay nananatili lamang sa pamamagitan ng dibinong kalikasan; kaya, ito ay banal."
+        },
+        {
+            "id": "5-6",
+            "text": "Ang banal na pagkasaserdote ay ang espiritwal na bahay. Sa Bagong Tipan, tatlong salitang Griyego ang ginamit na pawang isinaling pagkasaserdote. Ang hierosune, katulad sa Heb. 7:12, ay tumutukoy sa katungkulan ng saserdote, samantalang ang hierateia naman, katulad ng nasa Heb. 7:5, ay tumutukoy sa tungkulin ng saserdote, at ang hierateuma, katulad sa 1 Ped. 2:5, 9, ay tumutukoy sa kalipunan ng mga saserdote, isang lupon ng mga saserdote. Ang may koordinasyon na lupon ng mga saserdote ay ang naitayong espiritwal na bahay. Bagama’t hindi ipinadala ni Pedro ang kanyang dalawang Sulat sa ekklesia, ni hindi niya ginamit ang katawagang ekklesia upang bigyang-diin ang sama-samang buhay ng mga mananampalataya sa bersikulong ito, ginagamit niya ang mga katawagang espiritwal na bahay at banal na pagkasaserdote, upang ipakita ang buhay-ekklesia. Hindi ang pang-indibiduwal na espiritwal na pamumuhay, kundi ang isang sama-samang espiritwal na pamumuhay ang makatutupad sa Kanyang layunin at makapagbibigay-kasiyahan sa Kanyang naisin. Ninanais ng Diyos na makamtan ang isang espiritwal na bahay para sa Kanyang pananahanan, isang lupon ng mga saserdote para sa paglilingkod sa Kanya. Ang pananaw ni Pedro hinggil sa sama-samang paglilingkod na may koordinasyon ng mga mananampalataya ay katulad ng kay Pablo sa Roma 12. Ang sama-samang paglilingkod na ito ay lumalabas mula sa tatlong napakahalagang hakbang sa espiritwal na buhay: pagsilang na muli (b. 2a), paglago sa buhay sa pagiging natustusan ng Kristo (b. 2b), at pagtatayo na kasama ang mga mananampalataya."
+        },
+        {
+            "id": "5-7",
+            "text": "Ang mga espiritwal na hain na inihahandog ng mga mananampalataya sa kapanahunan ng Bagong Tipan na ayon sa ekonomiya ng Diyos ay: 1) si Kristo sa lahat ng iba’t ibang aspekto ng Kanyang mga kayamanan bilang realidad ng lahat ng hain na pawang mga sagisag lamang sa Lumang Tipan, katulad ng handog na susunugin, handog na pagkain, handog sa kapayapaan, handog sa kasalanan, handog sa pagkakasala, at marami pang iba (Lev. 1-5); at 2) ang ating mga papuri at mga bagay na ginagawa natin para sa Diyos (Heb. 13:15-16; Fil. 4:18); *at 3) ang mga nailigtas na makasalanan (Roma 15:16)."
+        },
+        {
+            "id": "6-1",
+            "text": "Si Kristo ay isang Batong hinirang ng Diyos bilang panulok na Bato para sa pagtatayo ng Diyos (Efe. 2:20)."
+        },
+        {
+            "id": "6-2",
+            "text": "Tingnan ang tala 20-3 sa Efeso 2."
+        },
+        {
+            "id": "6-3",
+            "text": "Tingnan ang tala 4-2 ."
+        },
+        {
+            "id": "7-1",
+            "text": "Sa Griyego, isang salitang katulad ng “karangalan” sa bb. 4, 6. Ang mismong Kristo na hinirang ng Diyos bilang isang Bato, maging isang panulok na Bato na minahalaga, ay mahalaga sa Kanyang mananampalataya; subali’t sa mga di-mananampalataya Siya ay itinakwil, isang batong hinamak."
+        },
+        {
+            "id": "7-2",
+            "text": "Tumutukoy sa mga pinunong Hudyo sa Hudaismo (Gawa 4:11), na magtatayo sana ng bahay ng Diyos. Itinakwil nila si Kristo sa sukdulan. Ito ay sinabi sa kanila noong una pa ng Panginoon (Mat. 21:38-42)."
+        },
+        {
+            "id": "7-3",
+            "text": "Si Kristo ay naging pangulo ng panulok sa pagkabuhay na muli. Sa kanyang naunang pangangaral ay ipinahayag na ito ni Pedro sa mga Hudyo (Gawa 4:10-11)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang mapagkakatiwalaang Kristo (b. 6), sa pagiging itinakwil, ay naging isang Batong katitisuran na kinatisuran ng mga nagtatakwil na Hudyo (Mat. 21:44a)."
+        },
+        {
+            "id": "8-2",
+            "text": "Tumutukoy sa mga salitang sinipi sa bb. 6-8."
+        },
+        {
+            "id": "8-3",
+            "text": "Tumutukoy sa pagsuway ng mga Hudyo na may resulta ng pagkatisod."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang lahi, pagkasaserdote, bansa, at bayan ay mga pangngalang palansak na tumutukoy sa mga mananampalataya nang sama-sama. Bilang isang lahi, ang mga mananampalataya ay hinirang; bilang isang pagkasaserdote, isang lupon ng mga saserdote, tayo ay maharlika, makahari; bilang isang bansa, tayo ay banal; bilang isang bayan, tayo ay pag-aari ng Diyos, isang pag-aari na natatanging inangkin at inari ng Diyos bilang Kanyang kayamanan (Tito 2:14 at tala 3). Ang lahing hirang ay tumutukoy sa ating pagiging mula sa Diyos; ang maharlikang pagkasaserdote ay tumutukoy sa ating paglilingkod sa Diyos; ang bansang banal ay tumutukoy sa ating pagiging isang grupo ng tao na namumuhay para sa Diyos; at ang binili upang maging bayang pag-aaring sarili ng Diyos ay tumutukoy na tayo ay mahalaga sa Diyos. Ang lahat ng ito ay may pagpapakahulugang sama-sama. Kaya, kinakailangan tayong maitayo nang sama-sama (b. 5)."
+        },
+        {
+            "id": "9-2",
+            "text": "Tingnan ang mga tala 5-5 at 5-6 . Ang “maharlika” ay tumutukoy sa katayuan ng ating pagkasaserdote na makahari, katulad niyaong kay Kristong Hari, ang ating Mataas na Saserdote, na sinagisag ni Melchisedec (Heb. 7:1-2 at tala 12; b. 25; Gen. 14:18)."
+        },
+        {
+            "id": "9-3",
+            "text": "Tingnan ang tala 2-3 sa Roma 1. Ipinapakahulugan ng “banal” ang kalikasan ng bansa."
+        },
+        {
+            "id": "9-4",
+            "text": "Tingnan ang tala 14-3 sa Tito 2."
+        },
+        {
+            "id": "9-5",
+            "text": "O, ipahayag sa mga nasa labas. Unang-una, kinakailangan nating maipanganak muli at lumago sa buhay (b. 2), pagkatapos ay ang maitayo at maglingkod nang sama-sama (b. 5). Ngayon kinakailangan nating magpahayag sa mga nasa labas. Ang maglingkod nang sama-sama ay ang bigyang-kasiyahan ang Diyos sa pamamagitan ng paghahandog ng Kristo bilang mga espiritwal na hain; ang magpahayag sa labas ay ang bigyang-pakinabang ang iba sa pamamagitan ng pagpapakita ng mga kagalingan ng Isang yaon na tumawag sa atin mula sa kadiliman tungo sa Kanyang kagila-gilalas na liwanag."
+        },
+        {
+            "id": "9-6",
+            "text": "O, mga kahusayan, mahuhusay at maluluwalhating kagalingan (2 Ped. 1:3 at tala 11), na tumutukoy sa kung ano ang Diyos at sa tinataglay ng Diyos, at sa kagila-gilalas na liwanag ng Diyos na humahantong sa Kanyang kaluwalhatian. Ginamit ng Diyos ang Kanyang kaluwalhatian at kagalingan sa pagtawag sa atin at tinawag tayo tungo sa kaluwalhatian at kagalingan (2 Ped. 1:3)."
+        },
+        {
+            "id": "9-7",
+            "text": "Ang kadiliman ay ang kahayagan at kinasasakupan ni Satanas sa loob ng kamatayan; ang liwanag ay ang kahayagan at kinasasakupan ng Diyos sa loob ng buhay. Tayo ay tinawag at iniligtas ng Diyos palabas sa kinasasakupan ni Satanas na punô ng kadiliman at kamatayan patungo sa loob ng Kanyang kinasasakupan na punô ng buhay at liwanag (Gawa 26:18; Col. 1:13)."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang salitang ito mula sa Ose. 2:23 ay sinipi ni Pablo sa Roma 9:24-27, unang-unang tumutukoy sa mga Hentil at pagkatapos sa mga labí ng Israel, dahil hindi lahat ng isinilang ni Israel ay pawang Israelita (Roma 9:6). Sa pagsisipi rito ni Pedro ng salitang ito ay tinutukoy ang kanyang mga tagatanggap, ang mga nagkalat na Hudyong mananampalataya. Sila sa orihinal ay nagmula kay Israel subali’t hindi mga Israelita. Kaya, sila ay hindi ang bayan ng Diyos sa pagpapakahulugan sa Bagong Tipan. Ngayon, pagkatapos na sila ay tinawag ng Diyos, sila ay naging bayan ng Diyos, ang bayang pag-aaring sarili ng Diyos, bilang isang kayamanan sa Diyos. Natamo nila ang awa ng Diyos na hindi pa nila natatamo noon."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang masasamang pita ng laman ay nasa natisod na katawan ng tao (Roma 7:18, 23-24), na nakikipaglaban sa kaluluwa ng tao—panloob na katauhan ng tao, binubuo ng kaisipan, pagpapasiya, at damdamin (Roma 7:19-23)."
+        },
+        {
+            "id": "12-1",
+            "text": "Ito ay malamang na ang banal na paraan ng pamumuhay (1:15) at ang mabuting paraan ng pamumuhay kay Kristo (3:16), isang buhay na hindi lamang para sa Diyos bagkus napunuan at nababaran ng Diyos. Ang paraan ng pamumuhay na ito ay laban sa walang kabuluhang paraan ng pamumuhay ng mga di-mananampalataya (1:18)."
+        },
+        {
+            "id": "12-2",
+            "text": "*Gr. kalos, sa pagkakabuo ay mabuti, na hindi naman kinakailangang maging mabait o mapagkawanggawa; balanse sa lahat ng panig, naghahayag ng kagandahan dahil sa nagkakatugma-tugmang kakumpletuhan.* Yaon ay, maganda sa mga katangian nito."
+        },
+        {
+            "id": "12-3",
+            "text": "Gr. episkopes, na ang pinagbabatayang kahulugan ay ang magmasid, magsuri , mangasiwa, tumingin. Ang araw ng pagdalaw ay ang araw na titingnan ng Diyos ang Kanyang nakikipamayang bayan, bilang isang pastol sa kanyang mga nawawalang tupa, at magiging ang Pastol at Episkopo ng kanilang mga kaluluwa (b. 25). Kaya, ang araw ng pagdalaw ay ang panahon ng pangangalaga at pagmamasid ng Diyos."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang lahat ng aytem mula sa bersikulong ito hanggang b. 20 ay mga detalye ng mahusay na paraan ng pamumuhay na maituturing na mabubuting gawa (b. 12)."
+        },
+        {
+            "id": "13-2",
+            "text": "Lit. nilalang, katulad sa Col. 1:15, tumutukoy sa anumang bagay na ginawa, bilang nilalang, gusali, batas, ordinansa."
+        },
+        {
+            "id": "13-3",
+            "text": "Para sa kahayagan at pagluluwalhati sa Panginoon (b. 12)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang masasamang tagapagsalita (b. 12)."
+        },
+        {
+            "id": "17-1",
+            "text": "Yaon ay ang katipunan ng mga kapatid, ang pamilya na binuo ng mga kapatid, ang mga kapatid sa loob ng damdamin ng pagmamahalan ng mga kapatiran (katulad sa 5:9)."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang tala 17-4 sa kap. 1."
+        },
+        {
+            "id": "19-1",
+            "text": "Gr. charis, tumutukoy rito sa paghihikayat ng dibinong buhay sa kalooban natin at sa kahayagan nito sa ating buhay, na nagsasanhi sa pagiging magiliw at katanggap-tanggap ng ating pag-uugali sa mga paningin kapwa ng mga tao at ng Diyos (b. 20). Ang parehong salitang Griyego ay ginamit sa Luc. 6:33-34 at Roma 7:25 para sa pasasalamat. Gayundin sa susunod na bersikulo."
+        },
+        {
+            "id": "19-2",
+            "text": "O, kamalayan sa Diyos—ang kamalayan ng kaugnayan ng isang tao sa Diyos, nagpapakita na siya ay namumuhay sa isang matalik na pagsasalamuha sa Diyos, nagtataglay at nag-iingat ng isang mabuti at dalisay na budhi sa Diyos (3:16; 1 Tim. 1:5, 19; 3:9; 2 Tim. 1:3)."
+        },
+        {
+            "id": "19-3",
+            "text": "Ayon sa ibig ipakahulugan ng nilalaman (bb. 20-21), maaaring ito ay tumutukoy sa pagmamaltrato ng mga di-mananampalatayang panginoon, na sumalungat at umusig sa kanilang mga mananampalatayang alila dahil sa kanilang pang-Kristiyanong patotoo (3:14-18; 4:12-16)."
+        },
+        {
+            "id": "21-1",
+            "text": "Tayo ay mga tinawag upang magtamasa ng biyaya at maghayag sa Diyos sa gitna ng mga di-matuwid na pagbabatá."
+        },
+        {
+            "id": "21-2",
+            "text": "Lit. isang sinulat na kinopya, isang pagsulat sa ilalim (para bakatin ng estudyante ang mga titik at matutuhang iguhit ito). Inilagay ng Panginoon ang Kanyang nagdusang pamumuhay sa harapan natin bilang isang kopyahan natin upang kopyahin sa pamamagitan ng pagbakat at pagsunod sa Kanyang mga hakbang. Ito ay hindi lamang tumutukoy sa paggaya sa Kanya at sa paggaya sa Kanyang pamumuhay, bagkus tumutukoy rin sa ating pagtatamasa sa Kanya bilang ating biyaya sa panahon ng ating pagdurusa (tingnan ang 19-3 ), upang maidagdag Niya ang Kanyang Sarili Mismo sa atin bilang ang nananahanang Espiritu, upang tayo ay maging Kanyang pagpaparami kasama ang lahat ng mga kayamanan ng Kanyang buhay. Tayo ay magiging ang naparaming kopya ng Kanyang orihinal na isinulat na kopya, at hindi lamang upang sumunod sa Kanya at tanggapin Siya bilang ating panlabas na tularan."
+        },
+        {
+            "id": "23-1",
+            "text": "Ayon sa paggamit ng pandiwang “ipinagkakatiwala” sa Griyego, ang “lahat” ay kinakailangang maisingit dito bilang layon nito, tumutukoy sa lahat ng mga pagdurusa ng Panginoon. Ang lahat ng mga pag-alipusta at mga pananakit sa Kanya ay ipinagkatiwala Niya sa Diyos na naghahatol nang matuwid sa Kanyang pamahalaan, ang matuwid na Diyos, na kung kanino Niya ipinasakop ang Kanyang Sarili. Ito ay nagpapakita na kinikilala ng Panginoon ang pamahalaan ng Diyos nang Siya ay nabubuhay sa pantaong buhay sa lupa."
+        },
+        {
+            "id": "23-2",
+            "text": "Tingnan ang tala 17-2 talata 2 sa kap. 1."
+        },
+        {
+            "id": "24-1",
+            "text": "Ito ay tumutukoy sa Panginoon na nag-alay ng Kanyang Sarili bilang handog sa krus para sa ating mga kasalanan (Heb. 7:27), at sa Kanyang katawan, dinadala Niya ang ating mga kasalanan sa krus (ang tunay na dambanang hainan para sa pagpapalubag-loob)."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang krus na yari sa kahoy, isang Romanong instrumento sa pagpapataw ng parusang kamatayan sa mga salarin, katulad ng naipropesiya sa Lumang Tipan (Deut. 21:23; Gal. 3:13)."
+        },
+        {
+            "id": "24-3",
+            "text": "Lit. pagiging malayo sa; kaya, tungo sa kasalanan ay namatay na. Sa kamatayan ni Kristo tayo ay namatay sa mga kasalanan (Roma 6:8, 10-11, 18)."
+        },
+        {
+            "id": "24-4",
+            "text": "Mabuhay sa pagkabuhay na muli ni Kristo (Efe. 2:6; Juan 14:19; 2 Tim. 2:11)."
+        },
+        {
+            "id": "24-5",
+            "text": "Ang katuwiran ay isang bagay ukol sa pamahalaan ng Diyos. Tayo ay naligtas para sa layunin ng pagkakaroon ng isang wastong buhay, isang buhay na tumutugma sa mga kahilingan ng katuwiran sa pamahalaan ng Diyos, sa ilalim ng pamahalaan ng Diyos."
+        },
+        {
+            "id": "24-6",
+            "text": "Isang paghihirap na nagbunga ng kamatayan."
+        },
+        {
+            "id": "24-7",
+            "text": "Tumutukoy sa pagpapagaling sa kamatayan. Tayo ay dating mga patay (Efe. 2:1), subali’t ang pagdurusa ng kamatayan ni Kristo ay nagpagaling sa ating kamatayan upang tayo ay mabuhay sa Kanyang pagkabuhay na muli."
+        },
+        {
+            "id": "25-1",
+            "text": "O, nagsibaling."
+        },
+        {
+            "id": "25-2",
+            "text": "Si Kristo sa Kanyang pagkamatay sa kahoy ay ang ating Manunubos (b. 24). Ngayon, Siya, sa loob ng buhay ng pagkabuhay na muli sa ating loob, ay ang Pastol at Episkopo ng ating mga kaluluwa, kaya magagabayan at matutustusan Niya tayo ng buhay upang ayon sa Kanyang halimbawa ng pagdurusa, tayo ay makasunod sa Kanyang mga yapak (b. 21)."
+        },
+        {
+            "id": "25-3",
+            "text": "Tingnan ang tala 1-3 sa Filipos 1."
+        },
+        {
+            "id": "25-4",
+            "text": "Ang ating kaluluwa ay ang ating panloob na katauhan, ang ating tunay na katauhan. Ang ating Panginoon, bilang Pastol at Episkopo ng ating mga kaluluwa, ay nagpapastol sa atin sa pamamagitan ng pangangalaga sa kapakanan ng ating panloob na katauhan at sa pagmamasid sa ating tunay na katauhan."
         }
     ]
 }

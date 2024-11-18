@@ -1,5 +1,5 @@
 {
-    "chapter": 9,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -15,15 +15,15 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "isinama",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "dinalang",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": [
@@ -72,7 +72,7 @@
             "footnotes": [
                 {
                     "word": "kanino",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -101,7 +101,7 @@
             "footnotes": [
                 {
                     "word": "nga",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -112,11 +112,11 @@
             "footnotes": [
                 {
                     "word": "nilang",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": [
@@ -141,7 +141,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -152,11 +152,11 @@
             "footnotes": [
                 {
                     "word": "ibinubuwal",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "napalayas.",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -167,7 +167,7 @@
             "footnotes": [
                 {
                     "word": "O",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -190,7 +190,7 @@
             "footnotes": [
                 {
                     "word": "tulungan",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -213,11 +213,11 @@
             "footnotes": [
                 {
                     "word": "lumabas",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -234,7 +234,7 @@
             "footnotes": [
                 {
                     "word": "hinawakan",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -251,7 +251,7 @@
             "footnotes": [
                 {
                     "word": "panalangin.",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -302,7 +302,7 @@
             "footnotes": [
                 {
                     "word": "kinarga,",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -313,11 +313,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "37-1"
                 },
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "37-2"
                 }
             ],
             "outlines": null
@@ -328,7 +328,7 @@
             "footnotes": [
                 {
                     "word": "pinagbawalan",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": [
@@ -341,7 +341,7 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -352,7 +352,7 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -363,15 +363,15 @@
             "footnotes": [
                 {
                     "word": "inyo",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "kay",
-                    "note": ""
+                    "id": "41-2"
                 },
                 {
                     "word": "gantimpala",
-                    "note": ""
+                    "id": "41-3"
                 }
             ],
             "outlines": null
@@ -382,7 +382,7 @@
             "footnotes": [
                 {
                     "word": "maliliit",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -393,23 +393,23 @@
             "footnotes": [
                 {
                     "word": "kamay",
-                    "note": ""
+                    "id": "43-1"
                 },
                 {
                     "word": "putulin",
-                    "note": ""
+                    "id": "43-2"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "43-3"
                 },
                 {
                     "word": "Gehenna,",
-                    "note": ""
+                    "id": "43-4"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "43-5"
                 }
             ],
             "outlines": null
@@ -420,7 +420,7 @@
             "footnotes": [
                 {
                     "word": ".)",
-                    "note": ""
+                    "id": "44-1"
                 }
             ],
             "outlines": null
@@ -431,7 +431,7 @@
             "footnotes": [
                 {
                     "word": "Gehenna.",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": null
@@ -442,7 +442,7 @@
             "footnotes": [
                 {
                     "word": ".)",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
@@ -453,11 +453,11 @@
             "footnotes": [
                 {
                     "word": "alisin",
-                    "note": ""
+                    "id": "47-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "47-2"
                 }
             ],
             "outlines": null
@@ -468,7 +468,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -479,11 +479,11 @@
             "footnotes": [
                 {
                     "word": "aasnan",
-                    "note": ""
+                    "id": "49-1"
                 },
                 {
                     "word": "apoy.",
-                    "note": ""
+                    "id": "49-2"
                 }
             ],
             "outlines": null
@@ -494,18 +494,188 @@
             "footnotes": [
                 {
                     "word": "asin,",
-                    "note": ""
+                    "id": "50-1"
                 },
                 {
                     "word": "tumabang",
-                    "note": ""
+                    "id": "50-2"
                 },
                 {
                     "word": "pagpapanumbalik",
-                    "note": ""
+                    "id": "50-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Para sa mga bb. 2-13, tingnan ang mga tala sa Mat. 17:1-13."
+        },
+        {
+            "id": "2-2",
+            "text": "*Sa orihinal ay “isinasama”."
+        },
+        {
+            "id": "2-3",
+            "text": "*Sa orihinal ay “dinadalang”."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 44-1 sa kap. 1."
+        },
+        {
+            "id": "13-1",
+            "text": "O, rin."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang ilang manuskrito ay nagtataglay ng, Niyang."
+        },
+        {
+            "id": "14-2",
+            "text": "Tingnan ang tala 6-1 sa kap. 2."
+        },
+        {
+            "id": "17-1",
+            "text": "Para sa mga bb. 17-29, tingnan ang mga tala sa Mat. 17:14-21."
+        },
+        {
+            "id": "18-1",
+            "text": "O, ginugutay siya."
+        },
+        {
+            "id": "18-2",
+            "text": "O, nakaya."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang, “O” ay ang pagbuntong-hininga ng Tagapagligtas dahil sa di-pananampalataya ng tao."
+        },
+        {
+            "id": "22-1",
+            "text": "O, kahabagan kami at tulungan kami."
+        },
+        {
+            "id": "25-1",
+            "text": "Tingnan ang tala 23-1 sa kap.1."
+        },
+        {
+            "id": "25-2",
+            "text": "O, hindi ka na makapapasok pa sa kanya."
+        },
+        {
+            "id": "27-1",
+            "text": "Tingnan ang tala 23-1 sa kap. 8"
+        },
+        {
+            "id": "29-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, at pag-aayuno."
+        },
+        {
+            "id": "36-1",
+            "text": "Inihayag nito ang pagkatao ng Aliping-Tagapagligtas sa Kanyang magiliw na pagmamahal tungo sa maliliit. Tingnan ang mga tala 23-1 sa kap. 8 at 14-2 sa kap. 10."
+        },
+        {
+            "id": "37-1",
+            "text": "Lit. Umaasa sa Aking pangalan, nang pinagbatayan ang Aking pangalan."
+        },
+        {
+            "id": "37-2",
+            "text": "Ito ay nagpapakita na ang Aliping-Tagapagligtas ay kaisa na ng maliliit na bata."
+        },
+        {
+            "id": "38-1",
+            "text": "Ang karahasan ng anak ng kulog na si Juan ay laban sa kagalingan ng Aliping-Tagapagligtas na kanyang sinamahan (tingnan ang tala 17-2 sa kap. 3). Ang kanyang saloobin ay katulad ng kay Josue sa Blg. 11:28."
+        },
+        {
+            "id": "39-1",
+            "text": "Ito ang pagpaparaya ng Aliping-Tagapagligtas sa pagsasagawa ng pang-ebanghelyong paglilingkod tungo sa Kanyang mga mananampalataya na iba roon sa malalapit sa Kanya. Sa aspektong ito, ang saloobin ni Apostol Pablo sa Fil. 1:16-18 at yaong kay Moises sa Blg. 11:26-29 ay katulad ng sa Kanyang saloobin subali’t ang karahasan ni Juan ay hindi katulad ng Kanyang saloobin. Napakamakahulugan na ipinagpapatuloy ng seksiyong ito, mula b. 38 hanggang b. 50, ang bahagi ng bb. 33-37, kung saan ang Aliping-Tagapagligtas ay nagturo ng pagpapakumbaba, sapagkat sila ay nagtatalu-talo kung sino ang higit na dakila. Sa kanilang pagtatalo ay malamang na sina Santiago at Juan, ang dalawang anak ng kulog, ang gumaganap ng pangunahing papel, (cf. 10:35-45). Ito rin ang Juan na hindi magpaparaya sa naiibang mananampalataya. Ang karahasang ito ay maaaring may kaugnayan sa kanyang ambisyong maging dakila. Maaaring ang ambisyong ito ang naging dahilan ng kanyang hindi pagpaparaya sa kakaibang gawi ng ibang mananampalataya. Ito ang pangunahing dahilan ng lahat ng paghahati-hati ng mga Kristiyano. Ang Aliping-Tagapagligtas ay tiyak na hindi makikiayon kay Juan sa ganitong bagay."
+        },
+        {
+            "id": "40-1",
+            "text": "Ang salitang ito ay hindi sumasalungat sa Mat. 12:30. Ang mga ito ay parehong nanggaling sa bibig ng Aliping-Tagapagligtas at maaaring ituring na salawikain. Ang salawikain dito ay nagsasabi tungkol sa panlabas na pormalidad ng pagsasagawa, hinggil sa mga tao na hindi laban sa Kanya (9:39); yaong sa Mateo, tungkol sa panloob na pagkakaisa para sa layunin, hinggil sa mga taong laban sa Kanya (Mat. 12:24). Upang mapanatili ang panloob na pagkakaisa, kinakailangan nating isagawa ang salita sa Mateo, at para sa panlabas na pormalidad, dapat nating isagawa ang salita rito, nagpaparaya sa naiibang mananampalataya."
+        },
+        {
+            "id": "41-1",
+            "text": "Ang pagkilos ni Juan ay ang tuusin ang iba, subali’t ang matalinong salita ng Aliping-Tagapagligtas dito ay nagbaling sa kanya at sa iba pang mga disipulo na sila ang tumanggap ng pagtutuos ng iba. Ito ay nagpapahiwatig na kahit na sila pa o maging ang ibang mananampalataya-lahat ay nasa ilalim ng pag-aaruga ng Panginoon, sapagkat silang lahat ay Kanya. Maging ito man ay kanilang pakikitungo sa ibang mananampalataya o pakikitungo ng ibang mananampalataya sa kanila, kung ito ay sa pangalan ng Panginoon, maging ang pagbibigay ng isang tasa ng tubig ay gagantimpalaan Niya."
+        },
+        {
+            "id": "41-2",
+            "text": "Ito ay nagpapakita na kinilala ng Aliping-Tagapagligtas na ang isang binawalan ni Juan ay isang tunay na mananampalataya, na pag-aari Niya. Ito ay nararapat na maging isang aral kay Juan."
+        },
+        {
+            "id": "41-3",
+            "text": "Ang gantimpalang ito ay ibibigay sa darating na kapanahunan ng kaharian (Luc. 14:14). Tingnan ang mga tala 35-1 sa Heb. 10 at 10-2 sa 2 Cor. 5."
+        },
+        {
+            "id": "42-1",
+            "text": "Ibinaling ng Aliping-Tagapagligtas ang paksa rito mula kay Juan at sa iba pang disipulo tungo sa Kanyang mananampalataya sa pangkalahatan, lahat ay itinuring Niyang maliliit (walang kaugnayan sa maliliit na bata sa b. 37), kasali si Juan, ang iba pang mga disipulo, at ang isa na pinagbawalan nila. Ito ay maaaring ituring na isang babala kay Juan at sa iba pang mga disipulo na huwag tisurin ang sinuman sa Kanyang mananampalataya na naiiba mula sa kanila sa pagsunod sa Kanya."
+        },
+        {
+            "id": "43-1",
+            "text": "Ang pagtatalakay rito ukol sa nakatitisod na isa ay binago mula sa isang tao tungo sa isang sangkap ng pisikal na katawan ng mananampalataya. Ang mga mananampalataya ay hindi nararapat magtisuran, ni hindi rin sila nararapat na magpatisod sa mga sangkap ng kanilang sariling katawan. Ipinapakita nito kung gaano kahalaga ang mananampalataya sa mga mata ng Aliping-Tagapagligtas. Silang lahat ay nararapat maingatang lubos para sa Kanya. Lahat ng mga nakapagpapatisod na salik hinggil sa mananampalataya ay nararapat tuusin nang seryoso."
+        },
+        {
+            "id": "43-2",
+            "text": "Tingnan ang tala 29-1 sa Mateo 5."
+        },
+        {
+            "id": "43-3",
+            "text": "Ang buhay rito ay tumutukoy sa buhay na walang hanggan na tatamasahin ng mga mandaraig na mananampalataya sa darating na kaharian (10:30; cf. tala 293 sa Mat. 19). Ang pumasok sa loob ng ganitong pagtatamasa sa darating na kapanahunan ay ang pumasok sa loob ng darating na kaharian (b. 47) at makilahok sa pagtatamasa nito sa buhay na walang hanggan."
+        },
+        {
+            "id": "43-4",
+            "text": "Tingnan ang tala 22-8 sa Mateo 5."
+        },
+        {
+            "id": "43-5",
+            "text": "Katugon ng Gehenna, tinutukoy rito ayon sa ibig sabihin ng nilalaman (katulad ng nasasaktan ng ikalawang kamatayan sa Apoc. 2:11) ang isang pampanahunang pagpaparusa, hindi ang walang hanggang kapahamakan, sa mga nadaig na mananampalataya. Tingnan ang tala 49-2 ."
+        },
+        {
+            "id": "44-1",
+            "text": "Ang ilang manuskrito ay nagsisingit ng, Na roon ay hindi namamatay ang kanilang uod, at hindi namamatay ang apoy."
+        },
+        {
+            "id": "45-1",
+            "text": "Ang ilang manuskristo ay nagdaragdag ng, papasok sa di-mapatay na apoy."
+        },
+        {
+            "id": "47-1",
+            "text": "Tingnan ang tala 29-1 sa Mateo 5."
+        },
+        {
+            "id": "47-2",
+            "text": "Ito ay ang pumasok sa loob ng pagtatamasa ng buhay na walang hanggan sa darating na kapanahunan. Tingnan ang tala 43-3 ."
+        },
+        {
+            "id": "48-1",
+            "text": "Ang salita rito at sa bb. 44 at 46, na hindi masusumpungan sa Mat. 5:29-30; 18:8-9, ni sa Luc. 12:5, ay sinipi mula sa Isa. 66:24."
+        },
+        {
+            "id": "49-1",
+            "text": "Yaon ay, patayin at alisin ang mga mikrobyo ng kabulukan na sinanhi ng kasalanan upang maingatan ang mga mananampalatayang nakagagawa-ng-kasalanan (cf. Lev. 2:13; Ezek. 43:24)."
+        },
+        {
+            "id": "49-2",
+            "text": "Ito ay ang nagpapadalisay na apoy (Mal. 3:2), ang nagpapadalisay, naglilinis na apoy katulad ng sa 1 Cor. 3:13, 15 (cf. Isa. 33:14), na maglilinis, sa darating na kapanahunan ng kaharian, sa mga mananampalatayang gumagawa ng kasalanan at hindi nagsisi sa kapanahunang ito, bilang isang pampanahunang pagpaparusa (tingnan ang tala 43-5 ). Maging sa kapanahunang ito ay nililinis ng Diyos ang mga mananampalataya sa pamamagitan ng mga pagsubok na gaya ng sa apoy (1 Ped. 1:7; 4:12,17). Ang pampanahunang pagpaparusa sa pamamagitan ng apoy sa darating na kapanahunan ay nasa parehong prinsipyo katulad ng pagpaparusa ng Diyos sa pamamagitan ng pagdurusa na gaya ng sa apoy sa kapanahunang ito."
+        },
+        {
+            "id": "49-3",
+            "text": "Ang ilang manuskristo ay nagdaragdag ng, at ang bawat hain ay aasnan ng asin."
+        },
+        {
+            "id": "50-1",
+            "text": "Tingnan ang tala 13-2 sa Mateo 5. Ang gamit ng salita rito ay naiiba sa nasa Mat. 5:13 at Luc. 14:34. Sa Mateo at Lucas, ang asin, naglalarawan ng impluwensiya ng mga mananampalataya sa sanlibutan, ay para sa pag-aasin sa pinasamang sanlibutan; ang asin dito, sa pagiging katugon ng naglilinis na apoy, ay para sa pag-aasin sa mga nagkakasalang mananampalataya katulad ng pagpaparusa ng Diyos sa mga nagkakasalang mananampalataya sa kapanahunang ito. Kaya, ang mga mananampalataya ay nararapat “magkaroon ng asin” sa kanilang sarili, upang sila ay mapadalisay hindi lamang mula sa mga kasalanan bagkus maging sa anumang mapanghating salik, tulad ng karahasan ni Juan sa pagbabawal sa isang naiibang kapatid at pakikipagtalo kung sino ang higit na dakila, upang sila ay “magkaroon ng kapayapaan sa isa’t isa.” Ang gayong naglilinis na asin ay naglilinis ng pananalita ng mga mananampalataya katulad ng may biyaya (Efe. 4:29), upang mapanatili nila ang kapayapaan sa isa’t isa (Col. 4:6), hindi katulad ng pananalita ni Juan sa kapatid na naiiba sa kanya. Kaya, inilalahad ng buong seksiyon (bb. 38-50) ang pagtuturo ng Aliping-Tagapagligtas ukol sa pagpaparaya ng mga mananampalataya para sa pagkakaisa."
+        },
+        {
+            "id": "50-2",
+            "text": "Tingnan ang tala 13-3 sa Mat. 5."
+        },
+        {
+            "id": "50-3",
+            "text": "Lit. pagpapaalat."
         }
     ]
 }

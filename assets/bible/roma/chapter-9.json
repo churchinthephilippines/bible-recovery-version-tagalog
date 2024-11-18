@@ -1,5 +1,5 @@
 {
-    "chapter": 9,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Sinasabi",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "budhi",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -32,7 +32,7 @@
             "footnotes": [
                 {
                     "word": "sumpa,",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -43,11 +43,11 @@
             "footnotes": [
                 {
                     "word": "pagka-",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "paglilingkod,",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -58,7 +58,7 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -69,7 +69,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -104,7 +104,7 @@
             "footnotes": [
                 {
                     "word": "layon",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -115,7 +115,7 @@
             "footnotes": [
                 {
                     "word": "maglilingkod",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -140,15 +140,15 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "maaawa",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "mahahabag",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -191,7 +191,7 @@
             "footnotes": [
                 {
                     "word": "sisidlan",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -208,7 +208,7 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatian,",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -274,6 +274,60 @@
             "text": "Gaya ng nasusulat, Narito,  inilalagay Ko sa Sion ang isang Batong katitisuran, isang Batong pambuwal, at ang sumasampalataya sa Kanya ay hindi mapapahiya.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Pagkatapos matalakay ang unang kalahating bahagi ng pagliligtas ng Diyos sa loob ni Kristo, at bago magpatuloy sa huling kalahating bahagi nito, nagsingit ang aklat na ito ng mga kapitulo siyam hanggang labing-isa, ipinaliliwanag na ang paghirang ng Diyos sa Kanyang mga tao ay batay sa Kanyang sariling pagpili."
+        },
+        {
+            "id": "1-2",
+            "text": "Sa 8:16 ang Espiritu ay nagpapatotoo kasama ang ating espiritu; samantalang sa bersikulong ito, ang ating budhi ay sumasaksi kasama natin sa loob ng Espiritu Santo. Ito ay nagpapatunay na ang ating budhi ay nasa ating pantaong espiritu."
+        },
+        {
+            "id": "3-1",
+            "text": "Si Pablo ay nanalangin na ang mga Israelita ay mangaligtas, ito ay kinakailangan; subali’t ang manalanging siya ay maging isang sumpa at maihiwalay kay Kristo ay lubhang kalabisan na. Ang lahat ay isinaisantabi ni Pablo at nanalangin sa ganitong paraan, dahil sa kanyang marubdob na pagnanasang ang mga Israelita ay mangaligtas."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pagka-anak dito ay tumutukoy sa karapatang tumanggap ng mana."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang paglilingkod sa tabernakulo, o sa templo; naitatag ayon sa kautusan ni Moises."
+        },
+        {
+            "id": "5-1",
+            "text": "Dito ay malinaw na sinasabi na si Kristo ay Diyos, ipinapatotoo na bagama’t si Kristo ay isang taong may laman (5:15), at nagmula sa lipi ni Juda ng mga Israelita, Siya ay lalo sa lahat, Diyos na pinagpala magpakailanman. Siya ay Tao, Siya ay Diyos din, Siya ang Diyos Anak, Siya rin ang Tres-unong Diyos."
+        },
+        {
+            "id": "6-1",
+            "text": "Ito ay nagpapakita ng ekonomiya ng Diyos sa Kanyang paghirang. Ang mga Hudyo ay pawang isinilang ni Israel nguni’t hindi lahat sila ay hinirang. Si Isaac lamang at isang bahagi ng kanyang inapo ang hinirang at ibinilang na mga anak ng Diyos (bb. 7-8). Ang pagpiling ito ay hindi nakasalalay sa paggawa ng tao kundi nakasalalay sa paghirang ng Panginoon na tumawag sa tao at nakasalalay sa Kanyang kahabagan (bb. 11, 16)."
+        },
+        {
+            "id": "11-1",
+            "text": "Tingnan ang tala 28-5 sa kap. 8"
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. maglilingkod bilang alipin."
+        },
+        {
+            "id": "15-1",
+            "text": "Ito ang kataas-taasang kapangyarihan ng Diyos, upang Kanyang maipakita ang Kanyang awa nang ayon sa Kanyang kagustuhan."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang kaawaan ay nakasalalay sa pagkatanto ng abang kondisyon ng tao, at inihahayag sa mga aksiyon, kaya nga ang Diyos ay nagbibigay ng Kanyang awa sa tao sa panlabas; ang habag ay ang panloob na damdamin, inihahayag sa pamamagitan ng paghibik at ng mga luha, kaya ang kahabagan ng Diyos patungkol sa tao ay sumisibol mula sa Kanyang kalooban. Kaya nga, ang habag ay higit na malalim kaysa awa."
+        },
+        {
+            "id": "21-1",
+            "text": "Ito ay tumutukoy na tayo ay hinirang ng Diyos upang maging sisidlan sa ikapupuri upang masidlan Niya. Una ay nilikha ng Diyos ang tao bilang sisidlan upang masidlan Niya, at pagkatapos ay hinirang Niya tayo mula sa mga sisidlang ito upang masidlan Niya—ng maluwalhating Diyos—ginagawa tayong Kanyang sisidlan sa ikapupuri. Sa katapus-tapusan ang Kanyang kaluwalhatian ay maihahayag sa ating mga sisidlan upang tayo ay maging Kanyang mga maluwalhating sisidlan (b. 23). Lahat ng ito ay nagmula sa Kanyang awa, at sa pamamagitan ng Kanyang awa, malayung-malayo sa ating pagsusumikap! Kaya nga tayo ay kailangang sumamba sa Kanya at sa Kanyang awa!"
+        },
+        {
+            "id": "23-1",
+            "text": "Tumutukoy sa kaluwalhatian sa pagpapakita ng darating na kaharian. Tayo, ang mga anak ng Diyos, ay mahahayag, at tayo ay makikibahagi sa kaluwalhatiang ito (8:17-23)."
         }
     ]
 }

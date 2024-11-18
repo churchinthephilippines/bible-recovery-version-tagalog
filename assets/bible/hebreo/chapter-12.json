@@ -1,5 +1,5 @@
 {
-    "chapter": 12,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,23 +7,23 @@
             "footnotes": [
                 {
                     "word": "ulap",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "saksing",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "pasan,",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "kasalanang",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "takbuhing",
-                    "note": ""
+                    "id": "1-5"
                 }
             ],
             "outlines": [
@@ -37,23 +37,23 @@
             "footnotes": [
                 {
                     "word": "palayo",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "May-",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "Tagapagpasakdal",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "umupo",
-                    "note": ""
+                    "id": "2-5"
                 }
             ],
             "outlines": null
@@ -70,7 +70,7 @@
             "footnotes": [
                 {
                     "word": "kasalanan,",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -81,7 +81,7 @@
             "footnotes": [
                 {
                     "word": "pagdidisiplina",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -92,7 +92,7 @@
             "footnotes": [
                 {
                     "word": "dinidisiplina",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -103,7 +103,7 @@
             "footnotes": [
                 {
                     "word": "disiplina;",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -120,7 +120,7 @@
             "footnotes": [
                 {
                     "word": "Ama",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -131,7 +131,7 @@
             "footnotes": [
                 {
                     "word": "kabanalan.",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -142,7 +142,7 @@
             "footnotes": [
                 {
                     "word": "mapayapang",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -153,7 +153,7 @@
             "footnotes": [
                 {
                     "word": "itaas",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -164,11 +164,11 @@
             "footnotes": [
                 {
                     "word": "landas",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "malinsad",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -179,7 +179,7 @@
             "footnotes": [
                 {
                     "word": "kabanalang",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -190,11 +190,11 @@
             "footnotes": [
                 {
                     "word": "mahulog",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "ugat",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -205,7 +205,7 @@
             "footnotes": [
                 {
                     "word": "pagkapanganay.",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -216,7 +216,7 @@
             "footnotes": [
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -227,7 +227,7 @@
             "footnotes": [
                 {
                     "word": "bundok",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -256,15 +256,15 @@
             "footnotes": [
                 {
                     "word": "Bundok",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "lunsod",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "pangkalahatang",
-                    "note": ""
+                    "id": "22-3"
                 }
             ],
             "outlines": null
@@ -275,11 +275,11 @@
             "footnotes": [
                 {
                     "word": "panganay",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "nangakatala",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -290,15 +290,15 @@
             "footnotes": [
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "dugong",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "nagsasalita",
-                    "note": ""
+                    "id": "24-3"
                 }
             ],
             "outlines": null
@@ -327,15 +327,15 @@
             "footnotes": [
                 {
                     "word": "kahariang",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "magkaroon",
-                    "note": ""
+                    "id": "28-2"
                 },
                 {
                     "word": "pitagan;",
-                    "note": ""
+                    "id": "28-3"
                 }
             ],
             "outlines": null
@@ -346,10 +346,164 @@
             "footnotes": [
                 {
                     "word": "apoy",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang ulap ay para sa pangunguna sa mga tao upang sundan ang Panginoon (Blg. 9:15-22), at ang Panginoon ay nasa loob ng ulap upang makasama ng mga tao (Exo. 13:21-22)."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang mga saksi rito ay nagpapahiwatig na ang mga ito ay mga martir."
+        },
+        {
+            "id": "1-3",
+            "text": "O, bigat, pasanin, sagabal. Hinuhubad ng mga tumatakbo sa takbuhan ang bawa’t di-kinakailangang bigat, ang bawa’t pabigat na pasan, upang sila ay mawalan ng sagabal nang sa gayon ay manalo sa takbuhan."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang kasalanan dito ay pangunahing tumutukoy sa bagay na sumasalabid sa atin sa pagtakbo sa takbuhan, tulad ng sinasadyang kasalanang binanggit sa 10:26 na makapagpapalayo sa mga mananampalatayang Hebreo mula sa bagong tipang daan sa ekonomiya ng Diyos. (Tingnan ang tala 26-1 sa kap. 10). Ang pabigat na pasan at ang sumasalabid na kasalanan ay kapwa bumibigo sa mga mananampalatayang Hebreo at pumipigil sa kanila sa pagtakbo sa makalangit na takbuhan sa bagong tipang daan ng pagsunod kay Hesus na tinanggihan ng Hudaismo."
+        },
+        {
+            "id": "1-5",
+            "text": "Ang buhay-Kristiyano ay isang takbuhin. Lahat ng mga naligtas na Kristiyano ay kinakailangang tumakbo sa takbuhing ito upang makamit “ang gantimpala” (I Cor. 9:24). Ang gantimpalang ito ay hindi tumutukoy sa pangkalahatang kaligtasan (Efe. 2:8; 1 Cor. 3:15). kundi sa isang natatanging gantimpala (10:35; 1 Cor. 3:14). Natapos nang takbuhin ni Apostol Pablo ang takbuhin at tiyak na makakamit ang gantimpala (1 Cor. 9:26-27; Fil. 3:13-14; II Tim. 4:7-8)."
+        },
+        {
+            "id": "2-1",
+            "text": "Sa Griyego, may kahulugang bumaling palayo sa lahat ng iba pang layunin at payak na nakatuon lamang sa iisa. Ang mga mananampalatayang Hebreo ay kinakailangang tuminging palayo sa lahat ng bagay ng kanilang kalagayan, palayo sa kanilang lumang relihiyon, ang Hudaismo, palayo sa pag-uusig nito, at palayo sa lahat ng panlupang bagay, upang sila ay makatingin kay Hesus, na ngayon ay nakaupo sa kanan ng trono ng Diyos sa kalangitan."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang kahanga-hangang si Hesus na nakaluklok sa langit at pinutungan ng kaluwalhatian at karangalan (2:9) ay ang pinakadakilang pang-akit sa sansinukob, gaya ng isang napakalaking magnet na umaakit sa lahat ng mga naghahanap sa Kanya upang bumaling sa Kanya. Sa dahilang naakit tayo ng Kanyang mapanghalinang kagandahan, tayo ay tumitinging palayo sa lahat ng bagay tungo sa Kanya. Kung walang gayong kahali-halinang bagay, paano tayo makatitinging palayo mula sa napakaraming nakapangrarahuyong bagay rito sa lupa?"
+        },
+        {
+            "id": "2-3",
+            "text": "O, Tagapanimula, Tagapag-umpisa, Lider, Tagapagbunsod, Tagapagpauná. Ang salita sa Griyego ay kagaya ng ginamit para sa salitang Pinuno sa 2:10. Ang lahat ng mandaraig na banal sa Lumang Tipan ay mga saksi lamang ng pananampalataya, samantalang si Hesus ay ang Maykatha ng pananampalataya. Siya ang Tagapanimula, ang Tagapag-umpisa, ang pinagmulan, ang sanhi ng pananampalataya. Ayon sa ating likas na tao, wala tayong anumang kakayahang manampalataya. Sa ating sarili ay wala tayong pananampalataya. Ang pananampalatayang nagsanhi ng ating kaligtasan ay ang mahalagang pananampalatayang ito mula sa ating Panginoon (II Ped. 1:1). Kapag tayo ay tumitinging umaasa kay Hesus, Siya, bilang ang Espiritung nagbibigay- buhay (1 Cor. 15:45), ay naglalalin ng Kanyang Sarili, ng Kanyang nananampalatayang elemento sa atin. Sa ganito, kusang-kusa na may isang uri ng pananampalatayang babangon mula sa ating loob at tayo ay magkakaroon ng pananampalataya upang manampalataya sa Kanya. Ito ay hindi nagmumula sa ating mga sarili, kundi nagmumula sa Kanya na nagbabahagi ng Kanyang Sarili bilang ang nananampalatayang elemento tungo sa ating loob upang manampalataya para sa atin. Kaya nga, ito ay ang Panginoon Mismo bilang ating pananampalataya. Tayo ay nabubuhay sa pamamagitan Niya bilang ating pananampalataya, sa pamamagitan ng Kanyang pananampalataya (Gal. 2:20), hindi sa pamamagitan ng ating sariling pananampalataya."
+        },
+        {
+            "id": "2-4",
+            "text": "O, Tagatapos, Tagakumpleto. Si Hesus din ang Tagatapos, ang Tagakumpleto ng pananampalataya. Tatapusin Niya ang Kanyang pinasimulan. Kukumpletuhin Niya ang Kanyang inumpisahan. Sa pamamagitan ng walang patid na pagtingin sa Kanya, maipatatapos at maipakukumpleto natin sa Kanya ang pananampalatayang ating kailangan para sa pagtakbo sa makalangit na takbuhin."
+        },
+        {
+            "id": "2-5",
+            "text": "Mula 1:3, patuloy tayong itinuturo ng aklat na ito sa Kristong nakaupo sa langit. Si Pablo, sa lahat ng iba pa niyang mga sulat, ay pangunahing naglalahad sa atin ng Kristong nananahan sa ating espiritu (Roma 8:10; II Tim. 4:22) bilang ang Espiritung nagbibigay-buhay (1 Cor. 15:45) upang maging ating buhay at ating lahat-lahat. Subali’t sa aklat na ito, tayo ay kanyang itinutuon sa Kristong nakaupo sa langit na may napakaraming aspekto upang pangalagaan tayo sa bawa’t paraan. Sa ibang sulat ni Pablo, ang Kristong nananahanan sa atin ay laban sa ating laman, sarili, at likas na tao. Sa aklat na ito, ang Kristong nasa langit ay salungat sa lahat ng relihiyong nasa lupa at sa lahat ng mga bagay na nasa lupa. Upang maranasan ang nananahanang Kristo, kailangan tayong bumaling sa ating espiritu at kaugnayin Siya. Upang matamasa ang Kristong nasa langit, kailangan tayong tuminging palayo sa lahat ng bagay sa lupa tungo sa Kristong ito na nakaupo sa kanan ng trono ng Diyos. Naisagawa na Niya ang lahat ng bagay na kinakailangan para sa Diyos at gayundin para sa atin sa pamamagitan ng Kanyang kamatayan at pagkabuhay na muli. Ngayon sa loob ng Kanyang pag-akyat sa langit, Siya ay nakaupo sa kalangitan, sa Persona ng Anak ng Diyos (1:5) at ng Anak ng Tao (2:6), sa Persona ng Diyos (1:8) at ng tao (2:6), bilang ang itinalagang Tagapagmana ng lahat ng bagay (1:2), ang Pinahirang Isa ng Diyos (1:9), ang Pinuno ng ating kaligtasan (2:10), ang Nagpapaging-banal (2:11), ang kagyat na Katulong at palagiang Saklolo (2:18), ang Apostol mula sa Diyos (3:1), ang Mataas na Saserdote (2:17; 4:14; 7:26), ang Ministro ng tunay na tabernakulo (8:2) na may isang lalong ekselenteng ministeryo (8:6), ang Tagapanagot at ang Tagapamagitan ng isang lalong magaling na tipan (7:22; 8:6; 12:24), ang Tagapagpatupad ng bagong tipan (9:16-17), ang Tagapagpauná (6:20), ang Maykatha at Tagapagpasakdal ng pananampalataya (b. 2), at ang dakilang Pastol ng mga tupa (13:20). Kung tayo ay titingin na umaasa sa Kanya bilang ang gayong kahanga-hanga at nagpapaloob-ng-lahat na Isa, Siya, na naghahain ng langit, buhay, at kalakasan sa atin, ay magsasalin at maglalalin sa atin ng lahat ng kung ano Siya upang mabigyang-kakayahan tayong matakbo ang makalangit na takbuhin at maipamuhay ang makalangit na buhay rito sa lupa. Ginagabayan Niya tayo na tapusin ang buong landasin ng buhay at pinangungunahan at dinadala tayo sa kaluwalhatian (2:10)."
+        },
+        {
+            "id": "4-1",
+            "text": "Sapagka’t ang “kasalanan” na binanggit dito ay kinakailangang labanan maging hanggang sa dumanak ang dugo, ito ay tiyak na tumutukoy sa isang bagay na masama sa paningin ng Diyos na bumibigo sa mga mananampalataya at pumipigil sa kanila mula sa bagong tipang daan."
+        },
+        {
+            "id": "5-1",
+            "text": "O, pagpaparusa. Kagaya sa bb. 7, 8, at 11."
+        },
+        {
+            "id": "6-1",
+            "text": "O, pinaparusahan. Kagaya sa bb. 7 at 10."
+        },
+        {
+            "id": "7-1",
+            "text": "Sa pananaw ng Diyos, ang pag-uusig ng Hudaismo na pinagdusahan ng mga mananampalatayang Hebreo ay isang pagdidisiplina, isang pagpaparusa."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang Ama ng mga espiritu ay kabaligtaran ng mga ama ng ating laman. Sa pagkasilang na muli, tayo ay isinilang ng Diyos (Juan 1:13) sa ating espiritu (Juan 3:6). Kaya nga, Siya ang Ama ng (ating) mga espiritu."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang kabanalan ay kalikasan ng Diyos. Ang makabahagi ng kabanalan ng Diyos ay ang makabahagi ng Kanyang kalikasan. Ang pananatili ng mga mananampalatayang Hebreo sa Hudaismo ay ang pagiging hindi naibukod, hindi banal. Kinakailangan nilang maibukod tungo sa bagong tipan ng Diyos upang sila ay makabahagi ng banal na kalikasan ng Diyos. Para sa layuning ito, ang pag-uusig ay pinukaw ng Diyos upang disiplinahin sila nang sa gayon ay maibukod sila mula sa pagiging karaniwan tungo sa pagiging banal."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang kapayapaan ay ang bunga ng katuwiran (Isa. 32:17). Ang kabanalan ay ang panloob na kalikasan, samantalang ang katuwiran ay ang panlabas na pagkilos. Tinutulungan ng pagdidisiplina ng Diyos ang mga mananampalataya hindi lamang upang makabahagi ng Kanyang kabanalan, kundi upang gawin din silang wasto kapwa sa Diyos at sa tao, upang sa ganitong kalagayan ng katuwiran, ay matamasa nila ang kapayapaan bilang isang matamis na bunga, isang mapayapang bunga ng katuwiran."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. ituwid."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang buhay-Kristiyano ay hindi isang bagay ng mga teoretikong doktrina para sa pag-iisip. Ito ay kinakailangang maging praktikal sa mga landas ng ating mga paa. Ang lahat ng mabubuti, malulusog na doktrina ng Bibliya ay para sa mga landas na maaaring tahakin. Ito ay sukdulang totoo sa aklat na ito ng Hebreo. Sa aklat na ito inihahain muna sa atin ang pinakamatataas at pinakamalulusog na doktrina tungkol kay Kristo at sa Kanyang bagong tipan. Pagkatapos, batay sa mga wastong doktrinang naipakita nito sa atin, tayo ay inaatasan nitong tumakbo sa takbuhin at gumawa ng matuwid na landas para sa ating mga paa. Tinatalakay ng unang bahagi ng aklat na ito (1:1-10:18) ang mga doktrina, at tinatalakay naman ng ikalawa (10:19-13:25) ang tungkol sa isang takbuhing may mga landas."
+        },
+        {
+            "id": "13-2",
+            "text": "O, malisok, mapilay. Ang iba pang kahulugan ay masinsay o mabaling gaya sa I Tim. 1:6; 5:15; II Tim. 4:4, na hindi gaanong angkop kung siyang gagamitin sa bersikulong ito. Ang pagpapahiwatig na ibig sabihin ng nilalaman ay yaong nararapat iwanan ng mga nag-aatubiling mananampalatayang Hebreo ang lahat ng anyo ng mga gawi-gawi ng Hudaismo (yaon ay, ang gumawa ng matutuwid na landas) upang sila, ang mga pilay na sangkap (mga paa o braso) ng Katawan ni Kristo, ay hindi mahulog sa loob ng taliwas na pananampalataya (yaon ay, huwag malinsad), kundi sa halip ay madala nang lubusan sa loob ng bagong tipang daan (yaon ay, gumaling)."
+        },
+        {
+            "id": "14-1",
+            "text": "Sa Diyos ang kabanalan ay ang Kanyang banal na kalikasan, samantalang sa atin ito ay ang ating pagkakabukod tungo sa Diyos. (Tingnan ang tala 2-3 sa Roma 1). Ang pagpapahiwatig dito ay yaong habang tayo ay naghahabol sa kapayapaan patungkol sa lahat ng mga tao, tayo rin ay kinakailangang magbigay-pansin sa bagay ng kabanalan sa harap ng Diyos. Ang ating paghahabol sa kapayapaan patungkol sa lahat ng mga tao ay kinakailangang mabalanse ng ating kabanalan sa harap ng Diyos, ng ating pagpapakabanal tungo sa Diyos, na kung wala nito ay walang makakikita sa Panginoon at walang magkakaroon ng pakikipagsalamuha sa Kanya."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang biyaya ng Diyos ay dumating sa atin sa pamamagitan ni Kristo (Juan 1:14, 17). Kaya nga, ang biyaya ng Diyos ay ang biyaya rin ni Kristo (II Cor. 13:14; 12:9). Sa ating karanasan, ang biyayang ito ay si Kristo Mismo (Gal. 6:18, ihambing sa II Tim. 4:22). Kapag tayo ay nahulog palayo sa biyaya tayo ay naihiwalay kay Kristo (Gal. 5:4). Sa bagay na ito, ang mga ekklesia ng Galacia at ang mga mananampalatayang Hebreo ay nalalagay sa magkaparehong panganib. Nagbabala si Pablo sa mga ekklesia ng Galacia na huwag bumaling sa kautusan ng Hudaismo at huwag humiwalay kay Kristo upang hindi mahulog palayo sa biyaya ng Diyos na si Kristo Mismo. Tayo ay hindi dapat mahulog palayo sa biyaya, kundi, tumanggap ng biyaya (b. 28), mapagtibay sa pamamagitan ng biyaya (13:9), at tumayo sa biyaya (Roma 5:2). Ang aklat ng Galacia at gayundin ang aklat ng Hebreo ay nagtatapos sa pagpapala ng biyaya (Gal. 6:18; Heb. 13:25)."
+        },
+        {
+            "id": "15-2",
+            "text": "Ayon sa pagpapahiwatig ng nilalaman, ang ugat ng kapaitan ay tumutukoy sa ilang maka-Hudaismo na nagsasanhi sa mga mananampalatayang Hebreo na maibaling mula sa biyaya ng Diyos tungo sa mga hungkag na rituwal ng Hudaismo at sa gayon ay dinudumihan ang kanilang mga sarili sa paningin ng Diyos, minamata ang kabanalan ng Diyos."
+        },
+        {
+            "id": "16-1",
+            "text": "Si Esau ay ang panganay na anak ni Isaac; ang kanyang pagkapanganay ay nagpapaloob ng dobleng bahagi ng lupa, ng pagkasaserdote, at ng pagkahari. Dahil sa hindi niya pinahalagahan ang kanyang pagkapanganay, binitiwan niya ito, kaya ang dobleng bahagi ng lupa ay ibinigay kay Jose (I Cron. 5:1-2), ang pagkasaserdote ay napunta kay Levi (Deut. 33:8-10), at ang pagkahari ay itinalaga kay Juda (Gen. 49:10; I Cron. 5:2)."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang “wala na siyang masumpungang lugar para sa pagsisisi” ay hindi nangangahulugang si Esau ay walang batayan upang magsisi kundi ito ay nangangahulugang siya ay walang batayan, walang daan upang baliktarin sa pamamagitan ng pagsisisi ang resulta ng kanyang ginawa."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang mga bagay na binanggit sa mga bersikulo 18 at 19 ay mga panlupa, pisikal, sumasagisag sa panig ng kautusan, na kung saan ang bawa’t isa, kasali na rin si Moises, ay nahintakutan (bb. 19-21)."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang mga bagay na binanggit sa bb. 22-24 ay makalangit o espirituwal, na kabaligtaran ng mga panlupa at pisikal na bagay na nakalista sa bb. 18-19; sa panig ng biyaya, kapwa ang mga panganay at ang mga espiritu ng mga matuwid na tao ay nangaligtas sa pamamagitan ng biyaya. Ang mga tao sa ilalim ng lumang tipan ay dumulog sa panig ng kautusan, samantalang tayong mga Kristiyano sa ilalim ng bagong tipan ay dumulog sa panig ng biyaya. Kaya nga, tayo ay wala sa ilalim ng kautusan kundi nasa ilalim ng biyaya (Roma 6:14). Ang bahaging ito ng salita (bb. 18-24), tulad ng sa Gal. 4:21-31, ay nagpapakita sa atin na tayo ay wala sa pagkagapos ng kautusan, kundi nasa ilalim ng kalayaan ng biyaya upang maging ang mga tagapagmana ng mana. Ito ang ating pagkapanganay! Hindi natin dapat bitiwan at hiwalayan ang biyaya (b. 15) at iwanan ang pagkapanganay, kundi dapat ay tanggapin ang biyaya (b. 28). Ang mga bagay sa panig ng biyaya ay nabibilang sa langit subali’t hindi lahat ay nasa langit na. Malaking bilang ng mga panganay ng ekklesia ay nasa lupa pa rin, samantalang ang mga espiritu ng mga matuwid na tao (na siyang mga banal sa Lumang Tipan) ay nasa paraiso pa kung saan naroon si Abraham (Luc. 16:22-23, 25-26) at kung saan ang Panginoong Hesus at ang naligtas na magnanakaw ay pumaroon pagkaraang sila ay mamatay sa krus (Luc. 23:43)."
+        },
+        {
+            "id": "22-2",
+            "text": "Tingnan ang tala 10-1 sa kapitulo 11."
+        },
+        {
+            "id": "22-3",
+            "text": "O, pagtitipon ng kapistahan. Ang salitang Griyegong paneguris ay nangangahulugang pangkalahatang pagtitipon, o pagtitipon ng lahat ng bahagi, at ginagamit para sa isang pagtitipon ng mga tao upang ipagdiwang ang isang pampublikong kapistahan, katulad ng Palarong Olympiyada. Ang buong kapanahunan ng bagong tipan ay isang kapistahan, at ang di-mabilang na mga anghel ay ang mga naglilingkod na espiritung nagseserbisyo sa mga tagapagmana ng kaligtasan (1:14); ang buong kapanahunan ng bagong tipan ay isang pangkalahatang pagtitipon na ipinagdiriwang ang ganitong “kadakilang kaligtasan” (2:3), ang marilag na kapistahan. Ito ang pinakadakila at pinakakapanapanabik na “laro” sa sansinukob! Ang salita ng Panginoon sa Luc. 15:7, 10 at I Ped. 1:12 ay maaaring tumutukoy sa puntong ito."
+        },
+        {
+            "id": "23-1",
+            "text": "Tingnan ang tala 16-1 sa ikalawang talata."
+        },
+        {
+            "id": "23-2",
+            "text": "Bagama’t ang mga panganay ng ekklesia ay wala pa sa langit, ang kanilang mga pangalan ay nakatala na sa mga kalangitan."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang salitang Griyegong neos dito ay nangangahulugang sariwa, bata sa gulang, samantalang ang salitang kainos sa 8:8, 13 at 9:15 ay nangangahulugang bago, sariwa sa katangian."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang dugo ni Kristo, sa aklat na ito, ay lubhang kapansin-pansin at mahalaga. Ito ang dugo ng walang hanggang tipan (13:20), na sa pamamagitan nito ay naitatag ang bago at lalong magaling na tipan (10:29). Sa pamamagitan ng dugong ito, si Kristo ay pumasok minsan magpakailanman sa Dakong Kabanal-banalan at nakasumpong ng walang hanggang katubusan para sa atin (9:12). Sa pamamagitan ng dugong ito, nilinis din ni Kristo ang mga kalangitan at ang lahat ng bagay sa mga kalangitan (9:22-24). Ang dugong ito ay nagpapabanal sa atin (13:12; 10:29), nililinis ang ating budhi upang paglingkuran ang Diyos na buháy (9:14), at nagsasalita ng lalong mabuti para sa atin kaysa sa dugo ni Abel (b. 24). Dahil sa dugong ito, tayo ay may lakas ng loob na pumasok sa Dakong Kabanal-banalan (10:19). Hindi natin dapat ituring ang dugong ito na karaniwan tulad ng dugo ng hayop; kung gagawin natin ito, tayo ay daranas ng kaparusahan ng Diyos (10:29)."
+        },
+        {
+            "id": "24-3",
+            "text": "Ang dugo ni Kristo ay hindi lamang nagtutubos, nagpapabanal, naglilinis, bagkus nagsasalita rin. Ito rin ang dugong nagsasalita, nagsasalita nang lalong magaling kaysa sa dugo ni Abel. Ang dugo ni Abel ay nagsasalita sa Diyos para sa pagpaparatang at paghihiganti (Gen. 4:10, 15), samantalang ang dugo ni Kristo ay nagsasalita sa Diyos para sa pagpapatawad, pag-aaring-matuwid, pakikipagkasundo, at katubusan. Higit pa rito, ang mahalagang dugong ito ay nagsasalita sa Diyos para sa atin upang sa pamamagitan nito (tulad ng naihayag sa aklat na ito) ay maitatag ang walang hanggang bagong tipan, at sa loob ng bagong tipang ito ay kinakailangang ibigay ng Diyos ang Kanyang Sarili at ang lahat ng Kanyang mga pagpapala sa mga mananampalataya kay Kristo na tumanggap ng tipang ito sa pamamagitan ng pananampalataya."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang ebanghelyong ipinangaral sa atin ng Bagong Tipan ay ang ebanghelyo ng kaharian (Mat. 3:1-2; 4:17, 23; 10:7; 24:14). Tayo ay naisilang na muli tungo sa kaharian (Juan 3:5), at nailipat tungo sa kaharian (Col. 1:13). Ngayon, tayo ay nasa kaharian (Apoc. 1:9), at ang wastong buhay-ekklesia ngayon ay ang kaharian (Roma 14:17). Gayunpaman, ang kinaroroonan nating ekklesia ngayon at ang lahat ng nasa ekklesia ngayon ay ang kaharian sa realidad nito; samantalang ang darating na kaharian na kasama sa pagbabalik ni Kristo sa hinaharap ay ang kaharian sa pagpapakita nito."
+        },
+        {
+            "id": "28-2",
+            "text": "O, gamitin natin ang biyaya, tanggapin natin ang biyaya. Ang magkaroon ng biyaya, lalung-lalo na para sa mga mananampalatayang Hebreo, ay ang manatili sa bagong tipan na nagtatamasa kay Kristo."
+        },
+        {
+            "id": "28-3",
+            "text": "*Gr. aidos ; dito ay patungkol sa Diyos kaya isinaling “pitagan” o sa Ingles ay awe ; sa I Tim. 2:9 ay patungkol sa tao kaya isinaling kahinhinan, sa Ingles ay modesty ."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang Diyos ay banal; ang kabanalan ay ang Kanyang kalikasan. Anuman ang hindi tumutugma sa banal Niyang kalikasan, Siya, bilang ang namumugnaw na apoy, ay manunupok. Kung ang mga mananampalatayang Hebreo ay babaling sa Hudaismo, na karaniwan (hindi banal) sa paningin ng Diyos, gagawin sila nitong hindi banal, at ang banal na Diyos bilang ang namumugnaw na apoy ay tutupok sa kanila. Ang Diyos ay hindi lamang matuwid, bagkus banal din. Upang mabigyang-kasiyahan ang katuwiran ng Diyos, kinakailangan tayong ariing-matuwid sa pamamagitan ng pagtutubos ni Kristo. Upang matugunan ang mga kahilingan ng Kanyang kabanalan, kinakailangan tayong mapabanal, gawing-banal ng makalangit, pangkasalukuyan, at buháy na Kristo. Ang aklat ng Roma ay para sa katuwiran ng Diyos (Roma 3:25-26), nagbibigay-diin sa pag-aaring-matuwid (Roma 3:24); samantalang ang aklat ng Hebreo ay para sa kabanalan ng Diyos (b. 14), nagbibigay-diin sa pagpapabanal (2:11; 10:10, 14, 29; 13:12). Dahil dito, kinakailangang ihiwalay ng mga mananampalatayang Hebreo ang kanilang mga sarili mula sa di-banal na Hudaismo tungo sa banal na Diyos na lubusang naghayag ng Kanyang Sarili sa Anak sa ilalim ng bagong tipan; kung hindi, durungisan nila ang kanilang mga sarili dahil sa kanilang luma at di-banal na relihiyon at pagdurusahan ang pagtutuos ng Diyos bilang ang namumugnaw na apoy. Ito ay magiging kakila-kilabot (10:31)! Hindi kataka-takang si Pablo ay alalang-alala sa sindak (pagkatakot) sa Panginoon (II Cor. 5:11)."
         }
     ]
 }

@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "bilang",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -23,15 +23,15 @@
             "footnotes": [
                 {
                     "word": "magsisi,",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "malapit",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -42,15 +42,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "daan",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -61,11 +61,11 @@
             "footnotes": [
                 {
                     "word": "nakadamit",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "pagkain",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -82,11 +82,11 @@
             "footnotes": [
                 {
                     "word": "binautismuhan",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "Ilog",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -97,11 +97,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -118,7 +118,7 @@
             "footnotes": [
                 {
                     "word": "makapagbangon",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -135,7 +135,7 @@
             "footnotes": [
                 {
                     "word": "apoy;",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -146,11 +146,11 @@
             "footnotes": [
                 {
                     "word": "trigo",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "ipa",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -161,7 +161,7 @@
             "footnotes": [
                 {
                     "word": "mabautismuhan",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": [
@@ -181,7 +181,7 @@
             "footnotes": [
                 {
                     "word": "katuwiran.",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -192,19 +192,19 @@
             "footnotes": [
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "kalapati",
-                    "note": ""
+                    "id": "16-4"
                 }
             ],
             "outlines": null
@@ -215,10 +215,100 @@
             "footnotes": [
                 {
                     "word": "Ito",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang kapanahunan ng kautusan ay tinapos ng pagdating ni Juan Bautista (11:13; Luc. 16:16). Kasunod ng pagbabautismo ni Juan, ang pagpapahayag ng ebanghelyo ng kapayapaan ay nagsimula (Gawa 10:36-37). Ang pangangaral ni Juan ang simula ng ebanghelyo (Marc. 1:1-5). Kaya nga, ang kapanahunan ng biyaya ay nagsimula kay Juan."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang pangangaral ni Juan Bautista ang pasimula ng Bagong Tipang ekonomiya ng Diyos. Ginawa niya ang pangangaral na ito hindi sa banal na templo na nasa loob ng banal na lunsod, kung saan ang mga relihiyoso at makulturang tao ay sumasamba sa Diyos ayon sa kanilang mga pangkasulatang ordinansa, kundi sa ilang, sa isang “di-sibilisadong” paraan, hindi sumusunod sa alinmang lumang regulasyon. Ito ay nagsasaad na ang lumang paraan ng pagsamba sa Diyos ayon sa Lumang Tipan ay itinakwil, at isang bagong paraan ang napipintong ipasok. Ang “ilang” dito ay nagsasaad na ang bagong paraan ng Bagong Tipang ekonomiya ng Diyos ay laban sa relihiyon at kultura. Ito rin ay nagsasaad na walang bagay na luma ang naiwan, at isang bagay na bago ang itatayo."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang “magsisi” ay ang magkaroon ng isang pagbabago ng kaisipan na nagreresulta sa pagsisisi, ang magkaroon ng isang pagbaling sa layunin."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang pagsisisi sa pangangaral ni Juan Bautista, bilang pambungad ng Bagong Tipang ekonomiya ng Diyos, ay ang magkaroon ng isang pagbaling para sa “kaharian ng mga kalangitan.” Ito ay nagsasaad na ang Bagong Tipang ekonomiya ng Diyos ay nakatuon sa Kanyang kaharian. Dahil dito ay nararapat tayong magsisi, magbago ng ating kaisipan, magkaroon ng isang pagbaling sa ating paghahabol sa buhay. Ang dating gol ng ating paghahabol ay nakatuon sa ibang bagay; ngayon ang ating paghahabol ay kinakailangang ibaling sa Diyos at sa Kanyang kaharian, na tiyakan at sadyang tinawag sa Mateo (cf. Marc. 1:15) na “ang kaharian ng mga kalangitan.” Ang kaharian ng mga kalangitan, ayon sa ibig sabihin ng nilalaman ng buong Ebanghelyo ni Mateo, ay naiiba sa Mesiyanikong kaharian. Ang Mesiyanikong kaharian ay magiging ang napanumbalik na kaharian ni David (ang muling itinayong tabernakulo ni David — Gawa 15:16), binubuo ng mga anak ni Israel, na panlupa at pisikal sa kalikasan; samantalang ang kaharian ng mga kalangitan ay binubuo ng mga naisilang-na-muling mananampalataya at ito ay makalangit at espiritwal. (Tingnan ang talâ 3-4 sa kapitulo 5.)"
+        },
+        {
+            "id": "2-3",
+            "text": "Ito ay malinaw na nagsasaad na bago dumating si Juan Bautista, ang kaharian ng mga kalangitan ay wala roon. Maging pagkatapos ng kanyang pagpapakita, sa panahon ng kanyang pangangaral, ang kaharian ng mga kalangitan ay wala pa rin doon; ito ay “malapit” pa lamang. Sa panahon nang simulan ng Panginoon ang Kanyang ministeryo at maging sa panahon nang Kanyang isinugo ang Kanyang mga disipulo upang mangaral, ang kaharian ng mga kalangitan ay hindi pa rin dumarating (4:17; 10:7). Kaya nga, sa unang talinghaga sa kapitulo 13 (13:3-9), ang talinghaga ng binhi, na tumutukoy sa pangangaral ng Panginoon, hindi sinabi ng Panginoon na, “Ang kaharian ng mga kalangitan ay inihalintulad sa…” Tangi lamang nang dumako na sa ikalawang talinghaga, ang talinghaga ng mga mapanirang damo (13:24), na tumutukoy sa pagtatatag ng ekklesia sa araw ng Pentecostes, saka sinabi ng Panginoon ito. Ang paggamit ng kapitulo 16:18-19 sa mga katawagang “ekklesia” at “kaharian ng mga kalangitan” nang halinhinan ay nagpapatunay na ang kaharian ng mga kalangitan ay dumating nang ang ekklesia ay naitatag."
+        },
+        {
+            "id": "3-1",
+            "text": "Ayon sa propesiya pinasimulan ni Juan Bautista ang kanyang ministeryo “sa ilang.” Ito ay nagsasaad na ang pagpapakilala ni Juan Bautista sa Bagong Tipang ekonomiya ng Diyos ay hindi nagkataon lang kundi pinlano at paunang sinalita ng Diyos sa pamamagitan ni propeta Isaias. Ito ay nagpapahiwatig na nilayon ng Diyos na ang Kanyang Bagong Tipang ekonomiya ay magsimula sa isang lubos na bagong paraan."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang “daan” ay gaya ng malalaking lansangan at ang “mga landas” ay gaya ng maliliit na eskinita na sumasagisag sa bawat bahagi ng puso ng tao. Ang pagsisisi nang buong katauhan at nang buong puso patungo sa Panginoon at ang hayaan ang Panginoon na makapasok ang siyang paghahanda ng daan ng Panginoon; pagkatapos ang hayaan ang Panginoon na okupahin ang bawat bahagi ng puso ng tao katulad ng kaisipan, damdamin, at pagpapasiya at iba pa, ay ang tuwirin ang mga landas ng Panginoon. Ito ay dahil sa pagsisisi para sa kaharian ng mga kalangitan, pinagsisisi ang kaisipan ng tao, sinasanhi ang kaisipan ng taong bumaling sa Panginoon, ginagawang wasto ang puso ng tao, at hinahayaan ang Panginoon na ituwid ang bawat bahagi ng puso ng tao at bawat lagusan nito (Luc. 1:16-17)."
+        },
+        {
+            "id": "4-1",
+            "text": "Si Juan ay isinilang na isang saserdote (Luc. 1:5, 13). Ayon sa mga regulasyon ng kautusan, ang dapat sana niyang isuot ay ang pansaserdoteng kasuotan, na pangunahing yari sa pinong lino (Exo. 28:4, 40-41; Lev. 6:10; Ezek. 44:17-18); at dapat sanang kinain niya ang pansaserdoteng pagkain, na pangunahing binubuo ng pinong harina at karne ng mga hain na inihandog sa Diyos ng Kanyang bayan (Lev. 2:1-3; 6:16-18, 25-26; 7:31-34). Gayunpaman, lubos na kabaliktaran ang ginawa ni Juan. Siya ay nagsuot ng isang “kasuotan ng balahibo ng kamelyo at isang pamigkis na katad,” at ang kanyang pagkain ay “mga balang at pulut-pukyutan.” Ang lahat ng bagay na ito ay di-sibilisado, walang kultura, at hindi ayon sa mga relihiyosong regulasyon. Para sa isang makasaserdoteng tao na magsuot ng balahibo ng kamelyo ay isa talagang marahas na dagok sa relihiyosong pag-iisip, sapagkat ang kamelyo ay itinuring na marumi sa ilalim ng Levitikong regulasyon (Lev. 11:4). Bilang karagdagan, siya ay hindi tumira sa isang sibilisadong lugar, kundi sa ilang (Luc. 3:2). Ang lahat ng ito ay nagsasaad na lubusan niyang tinalikuran ang Lumang Tipang pagsasaayos, na nahulog sa pagiging isang uri ng relihiyon na may halong pantaong kultura. Ang Kanyang layunin ay ang ipakilala ang Bagong Tipang ekonomiya ng Diyos, na binubuo lamang ni Kristo at ng Espiritu ng buhay."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “bautismuhan” ang mga tao ay ang ilubog, ilibing sila sa tubig, sumasagisag sa kamatayan. Ito ay ginawa ni Juan Bautista upang ipakita na ang isang nagsisisi ay walang kabuluhan at nararapat lamang na ilibing. Sinasagisag din nito ang pagwawakas sa lumang tao, upang ang isang bagong pasimula ay matanto sa pagkabuhay-na-muli, na siyang ipapasok ni Kristo bilang ang Tagapagbigay-ng-buhay. Kaya nga, kasunod ng ministeryo ni Juan ay dumating si Kristo. Hindi lamang tinapos ng pagbabautismo ni Juan yaong nangagsisi, bagkus ay inihatid sila kay Kristo para sa buhay. Ang bautismo sa Biblia ay nagpapahiwatig ng kamatayan at pagkabuhay-na-muli. Ang mabautismuhan sa tubig ay ang mailagay tungo sa loob ng kamatayan at ang mailibing. Ang maiahon mula sa tubig ay nangangahulugang ang mabuhay-na-muli mula sa kamatayan."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang “Ilog Jordan” ay ang tubig na pinaglibingan sa labindalawang bato na kumakatawan sa labindalawang lipi ng Israel, at kung saan kinuha ang labindalawa pang bato upang kumatawan sa labindalawang lipi ng Israel na binuhay-na-muli at iniahon (Jos. 4:1-18). Kaya nga, ang bautismuhan ang mga tao sa Ilog Jordan ay nagpahiwatig ng paglilibing ng kanilang lumang katauhan at ng pagkabuhay-na-muli ng bago. Kung paanong ang mga anak ni Israel ay naihatid sa loob ng mabuting lupa dahil sa kanilang pagtawid sa Ilog Jordan, gayon din, ang mabautismuhan ay nagdadala sa mga tao tungo sa loob ni Kristo, ang tunay na mabuting lupa."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang “mga Fariseo” ang pinakamahigpit na relihiyosong sekta ng mga Hudyo (Gawa 26:5), itinatag noong mga 200 B.C. Sila ay nagmamalaki sa kanilang superyor na pagpapakabanal sa buhay, debosyon sa Diyos, at kaalaman sa mga Kasulatan. Sa katunayan, sila ay napababa tungo sa mapagkunwaring pag-uugali at pagpapaimbabaw (23:2-33)."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang “mga Saduceo” ay iba pang sekta sa gitna ng Hudaismo (Gawa 5:17). Sila ay hindi naniniwala sa pagkabuhay-na-muli, ni sa mga anghel, ni sa mga espiritu (22:23; Gawa 23:8). Kapwa ang mga Fariseo at ang mga Saduceo ay binatikos ni Juan Bautista at ng Panginoong Hesus bilang mga supling ng mga ulupong (3:7; 12:34; 23:33). Binalaan ng Panginoong Hesus ang Kanyang mga disipulo laban sa kanilang mga doktrina (16:6, 12). Samantalang ang mga Fariseo ay sinasapantahang mga tao na ang gawi ay ayon sa kaugalian, ang mga Saduceo ay ang mga sinaunang modernista."
+        },
+        {
+            "id": "9-1",
+            "text": "Dahil sa hindi pagsisisi ng mga Hudyo, kapwa ang salitang ito at ang salita sa bersikulo 10 ay naisakatuparan na. Sila ay pinutol ng Diyos at ibinangon ang mga nananampalatayang Hentil upang maging mga anak ni Abraham sa pananampalataya (Roma 11:15a, 19-20, 22; Gal. 3:7, 28-29). Ang salita ni Juan sa bersikulong ito ay malinaw na nagpapakita na ang kaharian ng mga kalangitan na ipinangaral niya ay hindi binubuo ng mga anak ni Abraham sa laman, kundi ng mga anak ni Abraham sa pananampalataya; kaya nga, ito ay isang makalangit na kaharian, hindi ang panlupang kaharian ng Mesiyas."
+        },
+        {
+            "id": "11-1",
+            "text": "Ayon sa ibig sabihin ng nilalaman, ang “apoy” rito ay hindi ang apoy sa Gawa 2:3, na may kaugnayan sa Espiritu Santo, kundi ang parehong apoy na nasa bersikulo 10 at 12, ang apoy sa dagat-dagatang apoy (Apoc. 20:15), kung saan ang mga di-mananampalataya ay magdurusa ng walang hanggang kapahamakan. Ang salita ni Juan na sinalita rito sa mga Fariseo at mga Saduceo ay nangangahulugan na kung ang mga Fariseo at mga Saduceo ay tunay na magsisisi at mananampalataya sa Panginoon, babautismuhan sila ng Panginoon sa Espiritu Santo upang sila ay magkaroon ng buhay na walang-hanggan; kung hindi, sila ay babautismuhan ng Panginoon sa apoy, ilalagay sila sa loob ng dagat-dagatang apoy para sa walang hanggang kaparusahan. Ang pagbabautismo ni Juan ay para sa pagsisisi lamang, ang ihatid ang mga tao tungo sa pananampalataya sa Panginoon. Ang pagbabautismo ng Panginoon ay para sa buhay na walang-hanggan sa Espiritu Santo o para sa walang hanggang kapahamakan sa apoy. Ang pagbabautismo ng Panginoon sa Espiritu Santo ang nagpasimula sa kaharian ng mga kalangitan, dinadala ang Kanyang mga mananampalataya tungo sa loob ng kaharian ng mga kalangitan; samantalang ang Kanyang pagbabautismo sa apoy ang magtatapos sa kaharian ng mga kalangitan, ilalagay ang mga di-mananampalataya sa loob ng dagat-dagatang apoy. Kaya nga, ang pagbabautismo ng Panginoon sa Espiritu Santo, batay sa Kanyang pagtutubos, ay ang pasimula ng kaharian ng mga kalangitan; samantalang ang Kanyang pagbabautismo sa apoy, batay sa Kanyang paghatol, ay ang wakas nito. Kaya nga, sa bersikulong ito, may tatlong uri ng pagbabautismo: ang bautismo sa tubig, ang bautismo sa Espiritu Santo, at ang bautismo sa apoy. Ang bautismo sa tubig ni Juan ang nagpakilala sa mga tao sa kaharian ng mga kalangitan. Ang bautismo sa Espiritu Santo ng Panginoong Hesus ang nagpasimula at nagtatag sa kaharian ng mga kalangitan nang araw ng Pentecostes, at isasagawa hanggang sa kaganapan nito sa wakas ng kapanahunang ito. Ang bautismo sa apoy ng Panginoon, ayon sa paghatol sa malaking tronong puti (Apoc. 20:11-15), ang magwawakas sa kaharian ng mga kalangitan."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang mga isinasagisag ng “trigo” ay yaong mga may buhay sa loob. Sila ay babautismuhan ng Panginoon sa Espiritu Santo at titipunin sa loob ng Kanyang kamalig sa langit sa pamamagitan ng pag-akyat-ng-may-masidhing-kagalakan. Yaong mga isinasagisag ng “ipa,” bilang ang mga mapanirang damo sa 13:24-30, ay walang buhay. Sila ay babautismuhan ng Panginoon sa apoy, ibubulid sila sa dagat-dagatang apoy. Ang ipa rito ay tumutukoy sa mga di-nagsisising Hudyo, samantalang ang mga mapanirang damo sa kapitulo 13 ay tumutukoy sa mga Kristiyano sa pangalan lamang. Ang walang hanggang kahihinatnan ng dalawa ay magiging pareho — ang kapahamakan sa dagat-dagatang apoy (13:40-42)."
+        },
+        {
+            "id": "13-1",
+            "text": "Bilang isang tao, ang Panginoong Hesus ay dumating upang mabautismuhan ni Juan Bautista ayon sa Bagong Tipang paraan ng Diyos. Sa apat na Ebanghelyo, tangi lamang ang kay Juan ang hindi nagbibigay ng isang talâ ng pagkabautismo ng Panginoon, sapagkat siya ay nagpapatotoo na ang Panginoon ay Diyos."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang “katuwiran” ay ang maging wasto sa pamumuhay, paglakad, at paggawa ng mga bagay ayon sa paraang itinalaga ng Diyos. Sa Lumang Tipan, ang pagtupad sa kautusang ibinigay ng Diyos ay katuwiran. Ngayon ay isinugo ng Diyos si Juan Bautista upang italaga ang bautismo. Ang mabautismuhan ay ang isakatuparan din ang katuwiran sa harapan ng Diyos, yaon ay, ang isagawa ang kahilingan ng Diyos. Ang Panginoong Hesus ay lumapit kay Juan, hindi bilang Diyos, kundi bilang isang karaniwang tao, isang tunay na Israelita. Kaya nga, Siya ay nararapat na mabautismuhan upang tuparin itong pampanahunang pagsasaayos ng Diyos; kung hindi, Siya ay hindi magiging wasto sa Diyos."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang Panginoon ay binautismuhan hindi lamang upang tuparin ang lahat ng katuwiran ayon sa pagtatalaga ng Diyos, bagkus upang hayaan ang Kanyang Sarili na mailagay sa loob ng kamatayan at pagkabuhay-na-muli nang sa gayon ay makapagministeryo Siya, hindi sa likas na paraan, kundi sa paraan ng pagkabuhay-na-muli. Sa pamamagitan ng pagiging nabautismuhan Siya ay namuhay at nagministeryo sa pagkabuhay-na-muli bago pa man ang Kanyang aktuwal na kamatayan at pagkabuhay-na-muli pagkaraan ng tatlo at kalahating taon."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang pagiging nabautismuhan ng Panginoon, upang tuparin ang katuwiran ng Diyos at mailagay sa loob ng kamatayan at pagkabuhay-na-muli, ay nagdala sa Kanya ng tatlong bagay: ang bukas na mga kalangitan, ang pagbaba ng Espiritu ng Diyos, at ang pagsasalita ng Ama. Ganito rin tayo sa ngayon."
+        },
+        {
+            "id": "16-3",
+            "text": "Bago bumaba at dumapo ang “Espiritu ng Diyos” sa Kanya, ang Panginoong Hesus ay isinilang ng Espiritu (Luc. 1:35). Nagpapatunay ito na sa panahon ng Kanyang pagkabautismo taglay na Niya ang Espiritu ng Diyos sa Kanyang loob. Yaon ay para sa Kanyang pagsilang. Ngayon, para sa Kanyang ministeryo, ang Espiritu ng Diyos ay dumapo sa Kanya. Ito ang katuparan ng Isaias 61:1; 42:1; at Awit 45:7, ang mapahiran ang bagong Hari at maipakilala Siya sa Kanyang bayan."
+        },
+        {
+            "id": "16-4",
+            "text": "Ang isang “kalapati” ay maamo, at ang mga mata nito ay nakakakita lamang ng iisang bagay sa iisang panahon. Kaya nga, sinasagisag nito ang kaamuan at kaisahan sa paningin at layunin. Sa pamamagitan ng Espiritu ng Diyos na dumapo sa Kanya katulad ng isang kalapati, ang Panginoong Hesus ay nagministeryo sa kaamuan at kaisahan, nakatuon lamang sa kalooban ng Diyos."
+        },
+        {
+            "id": "17-1",
+            "text": "O, Ito ang Aking Anak, ang sinisinta. Samantalang ang pagdapo ng Espiritu ay ang pagpapahid kay Kristo, ang pagsasalita naman ng Ama ay isang patotoo sa Kanya bilang ang sinisintang Anak. Nandito ang isang larawan ng Dibinong Trinidad: ang Anak ay umahon mula sa tubig, ang Espiritu ay dumapo sa Anak, at ang Ama ay nagsalita hinggil sa Anak. Ito ay nagpapatunay na ang Ama, ang Anak, at ang Espiritu ay sabay-sabay na umiiral. Ito ay para sa pagsasakatuparan ng ekonomiya ng Diyos."
         }
     ]
 }

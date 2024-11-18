@@ -1,5 +1,5 @@
 {
-    "chapter": 11,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Itinakwil",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -27,7 +27,7 @@
             "footnotes": [
                 {
                     "word": "buhay.",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -38,7 +38,7 @@
             "footnotes": [
                 {
                     "word": "Baal.",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -85,7 +85,7 @@
             "footnotes": [
                 {
                     "word": "Nangatisod",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -122,7 +122,7 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -133,11 +133,11 @@
             "footnotes": [
                 {
                     "word": "iniugpong",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "katabaan",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -178,7 +178,7 @@
             "footnotes": [
                 {
                     "word": "sila",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": [
@@ -197,7 +197,7 @@
             "footnotes": [
                 {
                     "word": "Hentil.",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -220,11 +220,11 @@
             "footnotes": [
                 {
                     "word": "sila",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "sila",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -253,7 +253,7 @@
             "footnotes": [
                 {
                     "word": "awa",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -264,11 +264,11 @@
             "footnotes": [
                 {
                     "word": "O,",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "karunungan",
-                    "note": ""
+                    "id": "33-2"
                 }
             ],
             "outlines": [
@@ -292,6 +292,60 @@
             "text": "Sapagka’t mula sa Kanya at sa pamamagitan Niya at tungo sa Kanya ang lahat ng mga bagay. Suma Kanya nawa ang kaluwalhatian magpakailanman. Amen.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa wari ay sinasabi ng mga kapitulo 9 at 10 na pinabayaan ng Diyos ang mga Israelita, na Kanyang pinili. Subali’t dito ay tinukoy ng apostol ang kanyang sarili at si Elias bilang mga halimbawa at nagpatunay na hindi ito gayon."
+        },
+        {
+            "id": "3-1",
+            "text": "Lit. kaluluwa."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang Baal, na nangangahulugang panginoon, may-ari, ay pangalan ng isang pangunahing diyus-diyosan ng mga taga-Phoenicia at mga Cananeo."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang mga Israelita ay nangatisod sa batong katitisuran, si Kristo (9:32), subali’t sila ay hindi nangahulog. Sila ay gumawa lamang ng mga pagsasalangsang upang ang pagliligtas ng Diyos ay makarating sa mga Hentil (Gawa 13:46). Ito ang ekonomiya ng Diyos sa Kanyang pagpili."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit. unang bunga. Sina Abraham, Isaac, at Jacob ay ang mga magulang na binanggit sa bersikulo 28. Sila ang unang bahagi ng masa ng harinang inihandog bilang unang bunga sa Diyos para sa Kanyang kasiyahan. Sila rin ang mga ugat na nagsusuporta sa mabuting puno ng olibo (ang Israel) ng Diyos."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang pag-uugpong ay isang organikong pakikipagkaisa (tingnan ang tala 5-1 sa kapitulo 6), hindi pinapalitan ng higit na mabuting buhay ang hindi mabuting buhay kundi pinag-uugpong ang dalawang buhay tungo sa loob ng pakikipag-isa at magkasamang tinatamasa ang isang pinaghalong buhay at pamumuhay. Ang gayong paghahalo ng buhay ang kinalabasan ng dalawang buhay na nabibilang sa magkatulad na uri nguni’t nagkakaiba sa isa’t isa, na dumaan sa kamatayan (pagpuputol), at pagkabuhay na muli (paglago). Ito ay naglalarawan sa ating pagiging naiugpong kay Kristo."
+        },
+        {
+            "id": "17-2",
+            "text": "Batay sa Mat. 2:15 na nag-uulit sa Ose. 11:1, “Mula sa Ehipto ay tinawag Ko ang Aking Anak,” si Kristo at ang mga tunay na Israelita ay isang entidad. Tayo, ang mga mananampalatayang Hentil ay iniugpong kay Kristo, yaon ay, iniugpong sa Israel, ang mabuting puno ng olibo, sa gayon ay nakikibahagi sa katabaan (si Kristo) ng ugat (mga magulang, b. 16), na siyang di-malirip na kayamanan ng Diyos sa loob ni Kristo (Efe. 3:8). Ngayon, tayo at ang mga Israelita ay naging mga sanga ng tunay na puno ng ubas (Juan 15:1, 5), at kasama Niya, tayo ay nagiging ang organismong naghahayag sa Tres-unong Diyos."
+        },
+        {
+            "id": "23-1",
+            "text": "Ito ay magaganap sa pagbabalik ng Panginoon. Sa panahong yaon, ang mga nalabí sa mga Israelita ay mangagsisisi at mangagbabalik at sasampalatayang Siya ang kanilang Mesiyas, at sila ay mangaliligtas (Isa. 12:10; Roma 11:26)."
+        },
+        {
+            "id": "25-1",
+            "text": "Tumutukoy sa mga nangagsisi at nangagsisampalatayang Hentil. “Ang kapunuan ng mga bansa” ay naiiba sa “hanggang sa matupad ang mga panahon ng mga Hentil” (Luc. 21:24). Ang ikalawang parirala ay tumutukoy sa pagtatapos ng panahon ng paghahari ng mga Hentil."
+        },
+        {
+            "id": "28-1",
+            "text": "Ito ay malinaw na tumutukoy sa ekonomiya ng Diyos sa Kanyang pagpili. Ang di-pananampalataya ng mga Israelita ay nakaaapekto sa kanilang relasyon sa Diyos, subali’t ang pagtawag ng Diyos sa Kanyang pagpili ay hindi nagbabago (b. 29). Sa pamposisyon, sila pa rin ang sinisintang bayan ng Diyos."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang pagsuway ng tao ang naging dahilan ng pagsasakatuparan ng awa ng Diyos."
+        },
+        {
+            "id": "33-1",
+            "text": "Ito ang papuri sa Diyos na nagsagawa ng Kanyang kayamanan, karunungan, at kaalaman na lumampas sa ating pagtarok at pagsasaliksik, sa paglikha ng lahat ng bagay, at sa pagsasaayos ng lahat ng bagay, upang maisakatuparan ang Kanyang pagpili sa Kanyang mga piniling tao. Ang papuring ito at ang 16:25-27 ng aklat na ito ay may iba’t ibang pinagmumulan at nagsasaad ng iba’t ibang gol. Ang una ay nagmumula sa pagpili ng Diyos, ang gol nito ay ang katuparan ng pagpili ng Diyos; ang nahuhuli ay nagmumula sa hiwaga ng Diyos sa buong itinagal ng mga kapanahunan, ang gol nito ay ang katuparan ng hiwagang ito. Ang kinalabasan ng dalawa ay ang pagkaluwalhati sa Diyos."
+        },
+        {
+            "id": "33-2",
+            "text": "Ang karunungan ay higit na malalim at higit na mataas kaysa kaalaman. Ang karunungan ay makikita sa pagpapasimula ng mga bagay, ang kaalaman ay makikita sa praktikal na pagsasagawa ng mga bagay na pinasimulan ng karunungan. Ang Diyos ay ang namumukod-tanging Tagapagpasimula, lalung-lalo na kapag tiningnan sa bagay ng pagpili ng Diyos na binanggit dito. Ang mga kapitulong ito ay nagsasaad ng tungkol sa karunungan ng Diyos sa pagpapasimula ng Kanyang pagpili, at tungkol sa kaalaman sa Kanyang pagsasagawa sa Kanyang pagpili. Dahil dito Siya ay karapat-dapat sa ating pinakamataas na papuri!"
         }
     ]
 }

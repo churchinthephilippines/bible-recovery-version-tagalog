@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "bata,",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -20,11 +20,11 @@
             "footnotes": [
                 {
                     "word": "tagapag-",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "panahong",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -35,7 +35,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -46,15 +46,15 @@
             "footnotes": [
                 {
                     "word": "kapunuan",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "babae,",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "kautusan.",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -65,11 +65,11 @@
             "footnotes": [
                 {
                     "word": "matubos",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "pagka-",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -80,23 +80,23 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "puso,",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "sumisigaw,",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "Abba,",
-                    "note": ""
+                    "id": "6-4"
                 }
             ],
             "outlines": null
@@ -107,19 +107,19 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "anak,",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "tagapagmana",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "7-4"
                 }
             ],
             "outlines": null
@@ -130,7 +130,7 @@
             "footnotes": [
                 {
                     "word": "kalikasan",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": [
@@ -143,7 +143,7 @@
             "footnotes": [
                 {
                     "word": "pagkaalipin?",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -154,23 +154,23 @@
             "footnotes": [
                 {
                     "word": "Ipinangingilin",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "araw,",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "buwan,",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "panahon",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "taon.",
-                    "note": ""
+                    "id": "10-5"
                 }
             ],
             "outlines": null
@@ -181,7 +181,7 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -192,15 +192,15 @@
             "footnotes": [
                 {
                     "word": "mangagsitulad",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "katulad",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "Wala",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -211,7 +211,7 @@
             "footnotes": [
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -222,11 +222,11 @@
             "footnotes": [
                 {
                     "word": "itinakwil",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "sugo",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -237,11 +237,11 @@
             "footnotes": [
                 {
                     "word": "pagiging",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "mata",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -258,19 +258,19 @@
             "footnotes": [
                 {
                     "word": "nangagmamalasakit",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "ihiwalay",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "pagmalasakitan",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -281,7 +281,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -292,19 +292,19 @@
             "footnotes": [
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "ipinagdaramdam",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "maihubog",
-                    "note": ""
+                    "id": "19-4"
                 }
             ],
             "outlines": null
@@ -315,11 +315,11 @@
             "footnotes": [
                 {
                     "word": "baguhin",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "natitilihan",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -330,15 +330,15 @@
             "footnotes": [
                 {
                     "word": "Sabihin",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "ilalim",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "kautusan?",
-                    "note": ""
+                    "id": "21-3"
                 }
             ],
             "outlines": [
@@ -357,11 +357,11 @@
             "footnotes": [
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -372,23 +372,23 @@
             "footnotes": [
                 {
                     "word": "babaeng",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "dalawang",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "Bundok",
-                    "note": ""
+                    "id": "24-3"
                 },
                 {
                     "word": "pagkaalipin,",
-                    "note": ""
+                    "id": "24-4"
                 },
                 {
                     "word": "Agar.",
-                    "note": ""
+                    "id": "24-5"
                 }
             ],
             "outlines": null
@@ -399,11 +399,11 @@
             "footnotes": [
                 {
                     "word": "Herusalem",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "pagkaalipin",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -414,7 +414,7 @@
             "footnotes": [
                 {
                     "word": "Herusalem",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -425,11 +425,11 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "pinabayaan",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -440,7 +440,7 @@
             "footnotes": [
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -451,23 +451,23 @@
             "footnotes": [
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "umusig",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "Espiritu,",
-                    "note": ""
+                    "id": "29-3"
                 },
                 {
                     "word": "gayundin",
-                    "note": ""
+                    "id": "29-4"
                 }
             ],
             "outlines": null
@@ -478,11 +478,11 @@
             "footnotes": [
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "30-2"
                 }
             ],
             "outlines": null
@@ -493,10 +493,276 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa Griyego ay katulad ng “musmos” sa Efe. 4:14, tumutukoy sa menor de edad. Gayundin sa bersikulo 3."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang mga tagapag-alaga ay ang mga tanod, at ang mga katiwala ay ang mga tagapangasiwa. Ito ay naglalarawan sa mga tungkulin ng kautusan sa ekonomiya ng Diyos."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang panahong itinakda ng Ama ay ang panahon ng Bagong Tipan, na nagsimula sa unang pagdating ni Kristo."
+        },
+        {
+            "id": "3-1",
+            "text": "Gr. stoicheion . Isinalin dito bilang “mga panimulang aral” at gayundin sa bersikulo 9. Ito ay nangangahulugan ding “mga pangunahing prinsipyo,” tumutukoy sa panimulang pagtuturo ng kautusan. Tingnan din ang tala 8-3 sa Colosas 2 at ang Heb. 5:12 na kung saan ito ay isinaling “panimulang aralin.”"
+        },
+        {
+            "id": "4-1",
+            "text": "Ang kaganapan ng panahon ng Lumang Tipan na nangyari sa panahong itinakda ng Ama (b.2)."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang birheng Maria (Luc. 1:27-35). Ang Anak ng Diyos ay nanggaling sa kanya upang maging binhi ng babae, katulad ng ipinangako sa Gen. 3:15."
+        },
+        {
+            "id": "4-3",
+            "text": "Si Kristo ay ipinanganak sa ilalim ng kautusan, katulad ng naihayag sa Luc. 2:21-24, 27, at tumupad sa kautusan, gaya ng naihayag sa apat na Ebanghelyo."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang mga taong pinili ng Diyos ay ikinulong sa ilalim ng pangangalaga ng kautusan (3:23). Si Kristo ay ipinanganak sa ilalim ng kautusan upang matubos sila mula sa pagkakulong sa kautusan nang sa gayon sila ay makatanggap ng pagka-anak at maging mga anak ng Diyos. Samakatwid, sila ay hindi na nararapat pang bumalik sa pangangalaga ng kautusan upang magpailalim sa pang-aalipin nito tulad ng mga taga-Galaciang narahuyong gawin ito, kundi sila ay nararapat manatili sa pagkaanak ng Diyos at magtamasa sa panustos ng buhay ng Espiritu sa loob ni Kristo."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang pagtutubos ni Kristo ay ang dalhin tayo tungo sa pagka-anak ng Diyos upang matamasa natin ang dibinong buhay. Ang ekonomiya ng Diyos ay hindi ang gawin tayong mga tagatupad ng kautusan, maging masunurin sa mga utos at ordinansa ng kautusan, na ibinigay lamang para sa isang pansamantalang layunin, kundi upang gawin tayong mga anak na lalake ng Diyos, nagmamana ng pagpapalang ipinangako ng Diyos, na ibinigay para sa Kanyang walang hanggang layunin. Ang Kanyang walang hanggang layunin ay ang magkaroon ng maraming anak para sa Kanyang sama-samang kahayagan (Heb. 2:10; Roma 8:19). Samakatwid, itinalaga Niya tayo sa pagka-anak (Efe. 1:5), at tayo ay isinilang na muli upang maging Kanyang mga anak (Juan 1:12-13). Tayo ay nararapat manatili sa Kanyang pagka-anak upang maging Kanyang mga tagapagmana na magmamana ng lahat ng Kanyang binalak para sa Kanyang walang hanggang kahayagan, at hindi dapat magpadala sa Hudaismo sa pamamagitan ng pagpapahalaga sa kautusan."
+        },
+        {
+            "id": "6-1",
+            "text": "*Gr. whyos, mga anak na lalake. Gayundin sa mga bersikulo 7,22 at 30*. Ang Anak ng Diyos ay ang pagsasakatawan ng dibinong buhay (1 Juan 5:12). Samakatwid, ang Espiritu ng Anak ng Diyos ay ang Espiritu ng buhay (Roma 8:2). Tayo ay binigyan ng Diyos ng Kanyang Espiritu ng buhay, hindi dahil sa tayo ay mga tagatupad ng kautusan, kundi dahil sa tayo ay Kanyang mga anak. Bilang mga tagatupad ng kautusan, wala tayong karapatang magtamasa sa Espiritu ng buhay ng Diyos; bilang mga anak ng Diyos, tayo ay may katayuan at buong karapatang makilahok sa Espiritu ng Diyos na Siyang may masaganang panustos ng buhay. Ang gayong Espiritu, ang Espiritu ng Anak ng Diyos, ay ang sentro ng pagpapala ng pangako ng Diyos kay Abraham (3:14). Sa mga bersikulong 4-6 ng kapitulong ito, ang Tres-unong Diyos ay namumunga ng maraming anak para sa pagsasakatuparan ng Kanyang walang hanggang layunin. Isinugo ng Diyos Ama ang Diyos Anak upang tubusin tayo mula sa kautusan nang sa gayon tayo ay makatanggap ng pagka-anak. Siya rin ang nagsugo sa Diyos Espiritu upang maipagkaloob ang Kanyang buhay sa atin nang sa gayon tayo ay maging Kanyang mga anak sa katunayan."
+        },
+        {
+            "id": "6-2",
+            "text": "Sa katunayan, ang Espiritu ng Diyos ay pumasok sa loob ng ating espiritu sa panahon ng ating pagkasilang na muli (Juan 3:6; Roma 8:16). Dahil ang ating espiritu ay nakakubli sa ating puso (1 Ped . 3:4), at sapagkat ang salita rito ay nauukol sa isang bagay na may kaugnayan sa ating damdamin at pang-unawa na kapwa nauukol sa ating puso, kaya sinasabi rito na ang Espiritu ng Anak ng Diyos ay isinugo tungo sa loob ng ating puso."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang katulad na bersikulo, ang Roma 8:15, ay nagsasabi na tayo na nakatanggap ng Espiritu ng pagka-anak ay sumisigaw sa loob ng espiritung ito ng “Abba, Ama;” samantalang sinasabi rito na ang Espiritu ng Anak ng Diyos na nasa loob ng ating puso ay sumisigaw ng “Abba, Ama.” Ito ay nagpapakita na ang ating naisilang na muling espiritu at ang Espiritu ng Diyos ay pinaghalo bilang isa, at ang ating espiritu ay nasa loob ng ating puso. Ito rin ay nagpapakita na ating napagtatanto ang pagkaanak ng Diyos sa pamamagitan ng ating subhektibong karanasan sa loob ng kalaliman ng ating katauhan. Sa bersikulong ito, si Pablo ay umaapela sa ganitong karanasan ng mga mananampalatayang taga-Galacia para sa kanyang pahayag. Ang pag-apelang ito ay tunay na nakahihikayat at nakasusupil, hindi lamang dahil sa obhektibong doktrina, bagkus dahil sa mga subhektibong pangkaranasang katunayan."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang Abba ay isang Aramaikong salita, samakatwid isang salitang Hebreo, at ang Ama ay isang pagsasalin ng Griyegong salitang “Pater.” Ang gayong katawagan ay unang ginamit ng Panginoong Hesus sa Gethsemani habang nananalangin sa Ama (Marc. 14:36). Ang pagkakasama ng titulong Hebreo at ng Griyego ay nagpapahayag ng isang higit na matinding pagmamahal sa pagtawag sa Ama. Ang ganitong mapagmahal na pagtawag ay nagpapahiwatig ng isang matalik na kaugnayan sa buhay sa pagitan ng isang tunay na anak at ng isang nagsisilang na ama."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang mananampalataya sa Bagong Tipan ay hindi na isang alipin sa mga gawain sa ilalim ng kautusan, kundi isang anak sa buhay sa ilalim ng biyaya."
+        },
+        {
+            "id": "7-2",
+            "text": "Tingnan ang tala 26-1 sa kap. 3."
+        },
+        {
+            "id": "7-3",
+            "text": "Isang nasa hustong gulang batay sa batas (ang batas ng mga Romano ang ginamit na halimbawa rito) at karapat-dapat magmana sa ari-arian ng ama."
+        },
+        {
+            "id": "7-4",
+            "text": "Ang mga mananampalataya sa Bagong Tipan ay naging mga tagapagmana ng Diyos, hindi sa pamamagitan ng kautusan ni sa pamamagitan ng kanilang ama sa laman, kundi sa pamamagitan ng Diyos, maging ng Tres-unong Diyos – ang Ama na nagsugo sa Anak at sa Espiritu (bb.4, 6), ang Anak na nagsakatuparan ng katubusan para sa pagka-anak (b.5), at ang Espiritung nagsagawa ng pagka-anak sa loob natin (b.6)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang mga diyos-diyosan na mga imahen ay walang dibinong kalikasan. Ang mga ito ay ipinalagay na mga diyos ng mga mapamahiing taong sumasamba sa kanila, nguni’t sa katunayan ay mga hindi diyos."
+        },
+        {
+            "id": "9-1",
+            "text": "Lit., paglilingkod bilang alipin."
+        },
+        {
+            "id": "10-1",
+            "text": "Tumutukoy sa mga ipinangingilin ng relihiyon ng mga Hudyo."
+        },
+        {
+            "id": "10-2",
+            "text": "Mga Sabbath, mga bagong buwan, at iba pa. (Isa. 66:23)."
+        },
+        {
+            "id": "10-3",
+            "text": "Mga sagradong buwan tulad ng unang buwan, Abib, ang buwan ng pag-uuhay (Exo. 13:4); ang pangalawa, Ziph, ang buwan ng bulaklak (1 Hari 6:1,37); ang pampito, Ethanim, ang buwan ng mga umaagos na ilog (1 Hari 8:2); at ang pangwalo, Bul, ang buwan ng ulan (1 Hari 6:38)."
+        },
+        {
+            "id": "10-4",
+            "text": "Mga panahon ng kapistahan tulad ng Paskua, Pentecostes, at kapistahan ng mga Tabernakulo (2 Cron. 8:13)."
+        },
+        {
+            "id": "10-5",
+            "text": "Marahil ang mga taon ng Sabbath (Lev. 25:4)."
+        },
+        {
+            "id": "11-1",
+            "text": "Si Pablo ay nagpagal sa mga taga-Galacia upang madala sila tungo sa loob ni Kristo sa ilalim ng biyaya. Ang kanilang pagbabalik sa mga relihiyosong pangingilin ng mga Hudyo ay maaaring magsanhi na mawalan ng kabuluhan ang pagpapagal ni Pablo para sa kanila."
+        },
+        {
+            "id": "12-1",
+            "text": "Si Pablo ay malaya sa panggagapos ng maka-Hudyong pangingilin. Siya ay nakikiusap sa kanila na maging katulad niya."
+        },
+        {
+            "id": "12-2",
+            "text": "Si Pablo ay naging katulad ng isang Hentil para sa katotohanan ng ebanghelyo."
+        },
+        {
+            "id": "12-3",
+            "text": "Noong nakaraan, si Pablo ay hindi ginawan ng masama ng mga taga-Galacia. Inaasahan ni Pablo na hindi rin siya gagawan ng masama ngayon."
+        },
+        {
+            "id": "13-1",
+            "text": "Sa kanyang unang pangministeryong paglalakbay, napatagal ang paglagi ni Pablo sa Galacia dahil sa kanyang pisikal na karamdaman. Habang naroroon, siya ay nagpahayag ng ebanghelyo sa kanila."
+        },
+        {
+            "id": "14-1",
+            "text": "Lit., iniluwa."
+        },
+        {
+            "id": "14-2",
+            "text": "Gr. angelon . Anghel."
+        },
+        {
+            "id": "15-1",
+            "text": "O, ang inyong kagalakan at kasiyahan. Noong una, ipinalagay ng mga taga-Galacia na ang pananatili ni Pablo sa kanilang lugar at ang pagpapahayag ng ebanghelyo sa kanila ay isang pagpapala. Sila ay nasiyahan at ito ay kanilang ipinagmalaki. Ito ay naging kanilang kagalakan. Gayunpaman, ngayong sila ay humiwalay na sa pagpapahayag ng ebanghelyo ni Pablo, tinanong sila ng apostol, “Saan nga naroon ang inyong pagiging pinagpala, ang inyong kaligayahan, ang inyong kagalakan?”"
+        },
+        {
+            "id": "15-2",
+            "text": "Pinahalagahan ng mga taga-Galacia ang pangangaral ni Pablo at minahal siya sa sukdulang kung maaari ay dudukitin nila ang kanilang mga mata at ibigay sa kanya. Ito ay maaaring nagpapahiwatig na ang pisikal na karamdaman (b.13) ni Pablo ay nasa kanyang mga mata. Maaaring patunayan ito ng malalaking titik na isinulat niya sa kanila (6:11). Maaaring ito rin ang tinik sa kanyang laman, ang pisikal na kahinaan na kanyang idinalangin na maalis sa kanya (2 Cor. 12:7-9)."
+        },
+        {
+            "id": "17-1",
+            "text": "Yaon ay, mainit na sumusuyo sa inyo."
+        },
+        {
+            "id": "17-2",
+            "text": "Hindi sa isang marangal at kapuri-puring paraan."
+        },
+        {
+            "id": "17-3",
+            "text": "Lit., ikulong kayo sa labas. Yaon ay, hindi kayo mapapabilang sa wastong ebanghelyo na ipinahayag sa inyo na siyang ebanghelyo ng biyaya."
+        },
+        {
+            "id": "17-4",
+            "text": "Yaon ay, mainit na sumusuyo sa kanila."
+        },
+        {
+            "id": "18-1",
+            "text": "Sa mabuting bagay o sa bagay ng wastong pagpapahayag ng ebanghelyo, ang mainit na pagsuyo sa tao ay palaging mabuti. Ito ay hindi lamang nararapat kung kaharap si Pablo. Sa salitang ito, ipinahihiwatig ni Pablo na siya ay hindi makitid, kundi siya ay nagagalak tungkol sa pagpapahayag ng ebanghelyo (Fil. 1:18), pinapayagan ang ibang tao na magkaroon ng bahagi sa ebanghelyo sa mga taga-Galacia."
+        },
+        {
+            "id": "19-1",
+            "text": "Ipinalagay ni Pablo na siya ang nagsisilang na ama at ang mga mananampalatayang taga-Galacia ang kanyang mga anak na kanyang ibinunga sa loob ni Kristo (cf. 1 Cor. 4:15; Filem. 10)."
+        },
+        {
+            "id": "19-2",
+            "text": "Masakit at mahirap na panganganak. Sa metaporang ito, inihalintulad ni Pablo ang kanyang sarili sa isang ina na nagsisilang ng isang sanggol. Siya ay nagpagal sa ganitong paraan upang maisilang na muli ang mga taga-Galacia noong una siyang mangaral ng ebanghelyo sa kanila. Sapagkat sila ay lumihis sa ebanghelyong ipinahayag niya sa kanila, siya ay nagpapagal muli nang may pagdaramdam ng panganganak hanggang si Kristo ay maihubog sa kanila."
+        },
+        {
+            "id": "19-3",
+            "text": "Si Kristo, ang buháy na Persona, ang Siyang sentro ng ebanghelyo ni Pablo. Siya ay nangaral upang mailuwal si Kristo, ang Anak ng Diyos na buháy, sa loob ng mga mananampalataya. Ang kanyang pangangaral ay may malaking pagkakaiba sa pagtuturo ng kautusan sa mga titik. Samakatwid, ang aklat na ito ay nagbibigay-diin kay Kristo bilang ang sentro. Siya ay naipako sa krus (3:1) upang tayo ay matubos mula sa sumpa ng kautusan (3:13) at mailigtas mula sa masamang makarelihiyong kalakaran ng sanlibutan (1:4); at Siya ay nabuhay na muli mula sa mga patay (1:1) upang Siya ay mabuhay sa loob natin (2:20). Tayo ay nabautismuhan tungo sa loob Niya, naipagkaisa sa Kanya, at naibihis Siya sa ating mga sarili (3:27). Sa gayon, tayo ay nasa loob Niya (3:28), at naging Kanya (3:29; 5:24). Sa kabilang dako, Siya ay naihayag na sa loob natin (1:16), Siya ngayon ay nabubuhay sa loob natin (2:20), at Siya ay maihuhubog sa loob natin (4:19). Pinatnubayan tayo ng kautusan tungo sa Kanya (3:24) at sa loob Niya tayong lahat ay mga anak na lalake ng Diyos (3:26). Sa loob Niya tayo ay nagmamana ng ipinangakong pagpapala ng Diyos at nagtatamasa ng nagpapaloob ng lahat na Espiritu (3:14). Sa loob Niya tayo rin ay nagkaisa (3:28). Hindi tayo nararapat maalisan ng lahat ng pakinabang at mahiwalay sa Kanya (5:4). Kailangan natin Siya upang matustusan tayo ng Kanyang biyaya sa ating Espiritu (6:18) nang sa gayon tayo ay makapamuhay sa Kanya."
+        },
+        {
+            "id": "19-4",
+            "text": "Nang maisilang na muli ang mga mananampalatayang taga-Galacia sa unang pagpapahayag ng ebanghelyo ni Pablo, si Kristo ay naisilang sa loob nila ngunit hindi pa naihubog sa kanila. Ngayon ang apostol ay nagdaramdam muli sa panganganak upang si Kristo ay maihubog sa kanila. Ang maihubog si Kristo sa loob natin ay nangangahulugang magkaroon ng ganap na paglago ni Kristo sa loob natin. Sa panahon ng ating pagsisisi at pagsampalataya sa Panginoon, si Kristo ay unang naisilang sa loob natin, at sa ating buhay Kristiyano, Siya ay nabubuhay sa loob natin (2:20) at pagkatapos sa ating paggulang, Siya ay naihuhubog sa atin. Ang maihubog Siya sa atin ay kinakailangan upang tayo ay maging mga anak na lalake na may hustong gulang, mga tagapagmanang magmamana ng ipinangakong pagpapala ng Diyos, at magkakagulang sa dibinong pagka-anak."
+        },
+        {
+            "id": "20-1",
+            "text": "Nais baguhin ng apostol ang kanyang tinig ng kahigpitan tungo sa isang tinig ng kagiliwan na gaya ng isang ina na nagsasalita nang malambing sa kanyang mga anak."
+        },
+        {
+            "id": "20-2",
+            "text": "Hindi malaman ni Pablo ang kanyang gagawin sa mga taga-Galacia. Siya ay naghahanap ng pinakamahusay na paraan upang maibalik sila mula sa pagkalihis kay Kristo."
+        },
+        {
+            "id": "21-1",
+            "text": "Sa mga bersikulo 21-31 ay may dalawang babae, si Agar at si Sara; dalawang Herusalem, ang isa ay nasa lupa at ang isa ay nasa langit; dalawang tipan, ang isa ay nabibilang sa kautusan at ang isa ay nabibilang sa pangako; at dalawang anak, ang isa ay ayon sa laman at ang isa ay ayon sa Espiritu. Ninais ng apostol na malaman ng mga taga-Galacia na sila ay mga anak ng nasa itaas na Herusalem, ng malayang babae, at gamitin nila ang ipinangakong tipan upang tamasahin nang ayon sa Espiritu ang nagpapaloob ng lahat na Espiritu bilang pagpapala ng ebanghelyo (3:14). Sa seksiyong ito, ang malayang babaeng si Sara ay sumasagisag sa tipang ipinangako; ito rin ang Herusalem na nasa itaas na sumasagisag sa ating ina. Ang ina ay tanda ng biyaya. Sa pamamagitan ng biyaya, tayo ay isinilang bilang mga anak ng Diyos na pinagmulan ng biyaya. Kaya nga, ang babaeng malaya, ang ipinangakong tipan, ang nasa itaas na Herusalem, at ang ina, ay pawang tumutukoy sa biyaya ng Diyos. Ang biyayang ito ay ang paraan upang tayo ay maisilang na muli. Ang mga taga-Galacia na ginambala ng Hudaismo ay nahulog na mula sa biyayang ito na si Kristo (5:4)."
+        },
+        {
+            "id": "21-2",
+            "text": "Malakas na tinutuos ng aklat na ito ang paglihis kay Kristo dahil sa pagpapasailalim sa kautusan. Ang ganitong paglihis ay humahadlang sa mga mananampalataya sa pagtamasa kay Kristo bilang buhay at lahat-lahat."
+        },
+        {
+            "id": "21-3",
+            "text": "Ayon sa mga sumusunod na bersikulo, ang aklat ng Genesis ay napabilang sa kautusan. Ang buong Lumang Tipan ay tinawag na kautusan at ang mga propeta (Mat. 22:40). Ang unang bahagi ay ang kautusan at ang ikalawa ay ang mga propeta."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang “ayon sa laman” ay sa pamamagitan ng pagsisikap ng tao sa laman; ang “sa pamamagitan ng pangako” ay nangangahulugang “sa pamamagitan ng kapangyarihan ng Diyos sa loob ng biyaya,” sapagkat nakapahiwatig sa pangako ng Diyos ang kapangyarihan ng Diyos sa loob ng biyaya. Si Ismael ay ipinanganak nang “ayon sa laman,” nguni’t si Isaac ay ipinanganak “sa pamamagitan ng pangako.”"
+        },
+        {
+            "id": "24-1",
+            "text": "Tumutukoy sa dalawang babae sa bersikulo 22."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang isa ay ang tipan ng pangako kay Abraham, na may kaugnayan sa Bagong Tipan, ang tipan ng biyaya, at ang isa ay ang tipan ng kautusan kay Moises, na walang kinalaman sa Bagong Tipan. Si Sara, ang babaeng malaya, ay kumakatawan sa tipan ng pangako, at si Agar, ang babaeng alipin, ay kumakatawan sa tipan ng kautusan."
+        },
+        {
+            "id": "24-3",
+            "text": "Ang lugar kung saan ang kautusan ay ibinigay (Exo. 19:20; 24:12)."
+        },
+        {
+            "id": "24-4",
+            "text": "Ang pagka-alipin sa ilalim ng kautusan."
+        },
+        {
+            "id": "24-5",
+            "text": "Si Agar, ang kalunya ni Abraham, ay sumasagisag sa kautusan. Samakatwid, ang katayuan ng kautusan ay katulad ng sa isang kalunya. Si Sara, ang asawa ni Abraham, ay sumasagisag sa biyaya ng Diyos (Juan 1:17), na may tamang katayuan sa ekonomiya ng Diyos. Ang kautusan, katulad ni Agar, ay nagsisilang ng mga anak upang maging mga aliping katulad ng mga nasa Hudaismo. Ang biyaya, katulad ni Sara, ay nagsisilang ng mga anak upang magkamit ng pagka-anak; ito ang mga mananampalataya sa Bagong Tipan. Sila ay wala na sa ilalim ng kautusan kundi nasa ilalim na ng biyaya (Roma 6:14). Nararapat silang tumayo sa biyayang ito (Roma 5:2) at hindi dapat mahulog mula rito. (5:4)."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang Herusalem, bilang ang pinili ng Diyos (1 Hari 14:21; Awit 48:2,8), ay nararapat mapabilang sa tipan ng pangako na kinakatawan ni Sara. Gayunpaman, dahil sa dinadala nito ang taong pinili ng Diyos sa pagka-alipin sa kautusan, ito ay katumbas ng Bundok Sinai na napapabilang sa tipan ng kautusan na kinakatawan ni Agar."
+        },
+        {
+            "id": "25-2",
+            "text": "Isang alipin sa ilalim ng kautusan. Sa panahon ng apostol, ang Herusalem at ang kanyang mga anak ay mga alipin sa ilalim ng kautusan."
+        },
+        {
+            "id": "26-1",
+            "text": "Sa katapusan, ito ay magiging ang Bagong Herusalem sa bagong langit at bagong lupa (Apoc. 21:1-2), na may kaugnayan sa tipan ng pangako. Siya ang ina ng mga mananampalataya sa Bagong Tipan, na hindi mga alipin sa ilalim ng kautusan, kundi mga anak na lalake sa ilalim ng biyaya. Tayong lahat na mga mananampalataya sa Bagong Tipan ay isinilang niya mula sa itaas at mapapasaloob ng Bagong Herusalem sa bagong langit at bagong lupa."
+        },
+        {
+            "id": "27-1",
+            "text": "Ito ay nagpapahiwatig na ang mga espirituwal na inapo ni Abraham, na kabilang sa makalangit na Herusalem, sa tipan ng pangako sa ilalim ng kalayaan ng biyaya, ay higit na marami kaysa sa kanyang mga natural na inapo na kabilang sa makalupang Herusalem, sa tipan ng kautusan sa ilalim ng pang-aalipin ng kautusan."
+        },
+        {
+            "id": "27-2",
+            "text": "Katulad ng babaeng walang asawa, kaya nag-iisa o “pinabayaan.”"
+        },
+        {
+            "id": "28-1",
+            "text": "Ang “mga anak sa pangako” ay ang mga anak na naisilang ng makalangit na Herusalem sa pamamagitan ng biyaya sa ilalim ng tipan ng pangako."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang dalawang uri ng anak na naisilang ng dalawang tipan ay magkaiba sa kanilang mga kalikasan. Ang mga naisilang sa pamamagitan ng tipan ng kautusan ay ipinanganak ayon sa laman; ang mga naisilang sa pamamagitan ng tipan ng pangako ay ipinanganak ayon sa Espiritu. Ang mga anak na isinilang ayon sa laman ay walang karapatang makibahagi sa ipinangakong pagpapala ng Diyos, ngunit ang mga anak na isinilang ayon sa Espiritu ay may ganap na karapatan. Ang mga maka-Hudaismo ay nabibilang sa mga ipinanganak ayon sa laman. Ang mga mananampalataya sa loob ni Kristo ay nabibilang sa mga ipinanganak ayon sa Espiritu. Ukol sa laman at Espiritu, tingnan ang mga tala 3-2 sa kapitulo 3 at 19-1 at 22-1 sa kapitulo 5."
+        },
+        {
+            "id": "29-2",
+            "text": "Tinutukoy nito na inusig ni Ismael si Isaac (Gen. 21:9)."
+        },
+        {
+            "id": "29-3",
+            "text": "Ang mga anak ng pangako (b.28) ay isinilang ayon sa Espiritu, ang Espiritu ng buhay ng Diyos, na Siyang pagpapala ng pangako ng Diyos kay Abraham (3:14)."
+        },
+        {
+            "id": "29-4",
+            "text": "Ang mga maka-Hudaismo na mga inapo ni Abraham ayon sa laman ay umusig din sa mga mananampalataya na mga inapo ni Abraham ayon sa Espiritu, katulad ng ginawa ni Ismael kay Isaac."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang mga maka-Hudaismo sa ilalim ng pang-aalipin ng kautusan ay mga anak ng babaeng alipin na hindi magmamana ng ipinangakong pagpapala ng Diyos—ang Espiritung nagpapaloob ng lahat na Siyang sukdulang kaganapan ng Tres-unong Diyos."
+        },
+        {
+            "id": "30-2",
+            "text": "Ang mga mananampalataya sa Bagong Tipan sa ilalim ng kalayaan ng biyaya ay ang mga anak na lalake ng babaeng malaya na magmamana ng ipinangakong pagpapala ng Espiritu."
+        },
+        {
+            "id": "31-1",
+            "text": "Tayong mga mananampalataya sa loob ni Kristo ay hindi mga anak ng kautusan sa ilalim ng pang-aalipin nito, kundi mga anak ng biyaya sa ilalim ng kalayaan nito upang matamasa ang Espiritung nagpapaloob ng lahat kasama ang lahat ng kayamanan ni Kristo."
         }
     ]
 }

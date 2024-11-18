@@ -1,5 +1,5 @@
 {
-    "chapter": 8,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -32,7 +32,7 @@
             "footnotes": [
                 {
                     "word": "nagdadala",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": [
@@ -47,11 +47,11 @@
             "footnotes": [
                 {
                     "word": "Felipe",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "bumaba",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -80,7 +80,7 @@
             "footnotes": [
                 {
                     "word": "bansang",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -103,7 +103,7 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -114,7 +114,7 @@
             "footnotes": [
                 {
                     "word": "tanda",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -133,7 +133,7 @@
             "footnotes": [
                 {
                     "word": "matanggap",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -144,15 +144,15 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "pangalan",
-                    "note": ""
+                    "id": "16-3"
                 }
             ],
             "outlines": null
@@ -163,11 +163,11 @@
             "footnotes": [
                 {
                     "word": "ipinatong",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -178,11 +178,11 @@
             "footnotes": [
                 {
                     "word": "Espiritu,",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "salapi,",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -199,7 +199,7 @@
             "footnotes": [
                 {
                     "word": "kapahamakan,",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -210,7 +210,7 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -221,7 +221,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -244,7 +244,7 @@
             "footnotes": [
                 {
                     "word": "nagpatotoo",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -263,11 +263,11 @@
             "footnotes": [
                 {
                     "word": "taga-",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "sumamba,",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -284,7 +284,7 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -307,7 +307,7 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -336,7 +336,7 @@
             "footnotes": [
                 {
                     "word": "tubig!",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -347,7 +347,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -371,6 +371,108 @@
             "outlines": [
                 "c. Hanggang sa Cesarea\n b. 40"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ito ang unang ekklesia na itinatag sa isang lokalidad (tingnan ang tala 11-1 sa kap. 5) na nasasakupan ng isang lunsod, ang lunsod ng Herusalem. Ito ay isang ekklesia lokal na nasa kanyang lokalidad, na tinukoy ng Panginoon sa Mat. 18:17. Hindi ito ang pansansinukob na ekklesia, katulad ng ipinahayag ng Panginoon sa Mat. 16:18, kundi isang bahagi lamang ng pansansinukob na ekklesia, na siyang Katawan ni Kristo (Efe. 1:22-23). Ang tala sa Bagong Tipan tungkol sa bagay na ito (ang pagtatatag ng ekklesia sa lokalidad nito) ay hindi nagbabago sa kabuuan ng Bagong Tipan (13:1; 14:23; Roma 16:1; 1 Cor. 1:2; 2 Cor.8:1; Gal. 1:2; Apoc. 1:4, 11)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pangangalat ng mga mananampalataya mula sa Herusalem tungo sa ibang lokalidad, sa pamamagitan ng mga pag-uusig, ay ayon sa kataas-taasang kapangyarihan ng Diyos upang magsakatuparan ng pagpapalaganap ng ebanghelyo para sa kaganapan ng salita ng Panginoon sa 1:8 (11:19)."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang Felipe na ito ay hindi ang Felipe na kasama ng mga apostol (1:13), kundi ang Felipe na kasama ng pitong hinirang ng mga apostol upang maghain sa mga hapag (6:5). Sa pamamagitan ng kanyang ministeryo sa paghahayag ng ebanghelyo, na nakatala sa kapitulong ito, siya ay naihayag na isang ebanghelista (21:8)."
+        },
+        {
+            "id": "5-2",
+            "text": "Ito ay isang karagdagang hakbang sa pang-ebanghelyong pagkilos ng Panginoon. Sa pamamagitan nito, Siya ay nagpalaganap ng Kanyang Sarili bilang binhi ng kaharian ng Diyos mula sa purong lahi ng mga Hudyo tungo sa mga mestisong Samaritano para sa kaganapan ng Kanyang propesiya sa 1:8."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang mga tao ng Samaria."
+        },
+        {
+            "id": "12-1",
+            "text": "Ipinahayag ni Felipe ang kaharian ng Diyos bilang ebanghelyo katulad ng ginawa ng Panginoon (Mar. 1:14-15; Luc. 4:43 at tala 1)."
+        },
+        {
+            "id": "13-1",
+            "text": "Tingnan ang tala 43-1 sa kap. 2."
+        },
+        {
+            "id": "15-1",
+            "text": "Tingnan ang tala 38-7 , tal. 2, sa kap. 2."
+        },
+        {
+            "id": "16-1",
+            "text": "Ito ay hindi nangangahulugan na ang mga bagong mananampalataya sa Samaria ay hindi tumanggap ng Espiritu Santo sa pang-esensiya sa kanilang loob nang sila ay nanampalataya sa Panginoon. Sang- ayon sa pagtuturo ng Bagong Tipan sa Efe. 1:13 at Gal. 3:2, sila ay nararapat na tumanggap ng Espiritu Santo sa pang-esensiya nang sila ay manampalataya para sa kanilang pagkasilang-na-muli (Juan 3:6, 36). Subali’t hindi pa nila natanggap ang Espiritu sa pang-ekonomiya upang sila ay mapagkilalang kasama sa Katawan ni Kristo. Ang dahilan ng hindi pagdapo ng Espiritu Santo sa kanila sa panlabas at pang-ekonomiya ay upang yaong mga apostol, na siyang nagpasimula ng praktikal na pagtatatag ng ekklesia sa Herusalem, ay makapunta sa kanila upang dalhin sila sa loob ng pakikipag-isa sa Katawan ni Kristo. Ang pangyayaring ito ay naiiba sa mga nasa bahay ni Cornelio, na tumanggap ng Espiritu Santo nang sila ay sumampalataya sa Panginoon, kapwa sa pang-esensiya sa loob nila para sa pagkasilang-na- muli, at sa pang-ekonomiya sa ibabaw nila para sa pagbabautismo tungo sa loob ng Katawan ni Kristo (I Cor. 12:13) at pakikipag-isa sa Katawan ni Kristo. Yaon ay dahil sa ang ebanghelyo ay ipinangaral noon nang tuwiran ni Pedro, na gumanap ng pangunahing papel sa pagsisimula ng praktikal na pagtatatag ng ekklesia."
+        },
+        {
+            "id": "16-2",
+            "text": "Hindi sa pangalan, kundi tungo sa loob ng pangalan. Ang pangalan ay tumutukoy sa persona. Ang mabautismuhan tungo sa loob ng pangalan ng Panginoong Hesus ay ang mabautismuhan tungo sa loob ng Persona ng Panginoon, upang makipag-isa sa napako sa krus, nabuhay na muli, at umakyat sa langit na Kristo, upang mailagay sa loob ng organikong pakikipag-isa sa buháy na Panginoon. Tingnan ang mga tala 38-3 sa kapitulo 2 at 19-4 sa Mateo 28."
+        },
+        {
+            "id": "16-3",
+            "text": "Yamang ang mga mananampalatayang Samaritano ay nangabautismuhan tungo sa loob ng pangalan ng Panginoong Hesus, yaon ay, tungo sa loob ng Sarili Mismo ng Panginoon, sila ay tiyak na nakatanggap sa pang-esensiya ng Espiritu ng buhay sa kanilang loob upang sila ay hindi lamang maipanganak ng Panginoon, bagkus maiugnay rin sa Panginoon (I Cor. 6:17), subali’t sa panlabas, sa pang-ekonomiya, sila ay hindi pa nakatanggap ng Espiritu ng kapangyarihan."
+        },
+        {
+            "id": "17-1",
+            "text": "Tingnan ang tala 14-4 sa I Timoteo 4. Si Pedro at si Juan ay isinugo sa Samaria hindi lamang upang patotohanan ang pagpapahayag ng ebanghelyo ni Felipe, na isa sa pitong hinirang upang maghain sa mga hapag, bagkus upang dalhin din ang ekklesia sa Samaria, na binubuo ng mga Samaritano na kung kanino ay walang pakikiugnay ang mga Hudyo, sa loob ng pakikipag-isa sa Katawan ni Kristo sa pamamagitan ng pagpapatong ng kanilang kamay sa kanila.Ang Espiritu Santo ay nagpahalaga rito at dumapo sa kanila, na nagsasagisag ng kanilang pakikipag-isa sa Katawan ni Kristo. Sa ganitong paraan ang mga mananampalatayang Samaritano ay nakatanggap sa pang-ekonomiya ng Espiritu Santo na karagdagan sa kanilang pagkatanggap sa pang-esensiya ng Espiritu Santo nang sila ay manampalataya sa Panginoong Hesus."
+        },
+        {
+            "id": "17-2",
+            "text": "Tingnan ang mga tala 4-2 at 17-2 sa kap. 2."
+        },
+        {
+            "id": "18-1",
+            "text": "Sa ilang manuskrito ay mababasang, Espiritu Santo."
+        },
+        {
+            "id": "18-2",
+            "text": "Ito ay nagpapakita na ang pagsasagawa ni Simon ng salamangka na nagpamangha sa mga tao ay para sa salapi."
+        },
+        {
+            "id": "20-1",
+            "text": "Hindi ang walang hanggang kapahamakan kundi isang kaparusahan, gaya sa Heb. 10:39 (tingnan ang tala 2) at Mat. 7:13 (tingnan ang tala 3). Si Simon ay nanampalataya sa ebanghelyo at nabautismuhan (b. 13); kaya siya ay nararapat na naligtas na sa simula, nguni’t hindi naligtas mula sa kanyang buhong na kaisipan at pagkilos hinggil sa salapi. Samakatuwid, siya ay dapat magsisi sa kabuhungang ito upang siya ay makatanggap ng kapatawaran ng Panginoon; kung hindi, siya ay maparurusahan kasama ang kanyang pilak."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang kaloob ng Diyos (b. 20)."
+        },
+        {
+            "id": "22-1",
+            "text": "Lit. mula sa."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang magpatotoo ay ang sumaksi sa pamamagitan ng pansariling karanasan sa Panginoon, at ang magsalita ng salita ng Panginoon ay ang magpahayag at magturo ayon sa pahayag ng Panginoon. Tingnan ang tala 40-1 sa kapitulo 2."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang Etiopia ay Cush (Isa. 18:1), ang lupain ng mga inapo ni Cush, ang anak ni Ham (Gen. 10:6). Ang ebanghelyo ay lumaganap mula sa purong lahi ng mga Hudyo tungo sa mga mestisong Samaritano sa pamamagitan nina Felipe at Pedro at Juan (bb. 5-25). Ngayon ang anghel ng Panginoon ay nag-atas kay Felipe upang makaugnay ang isang purong Hentil mula sa Etiopia. Sa pamamagitan nito ang ebanghelyo ay lumaganap din patimog tungo sa Africa."
+        },
+        {
+            "id": "27-2",
+            "text": "Nagpapatunay na ang bating na Etiope ay naghahanap sa Diyos (cf. 17:26- 27)."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang Espiritu rito, katulad ng nasa b. 39; 10:19; 13:2; at 16:6-7, ay nagpapakita na ang pagkilos ng Panginoon sa pagpapalaganap ng Kanyang kaharian sa pamamagitan ng pagpapahayag ng ebanghelyo sa Mga Gawa ay sa pamamagitan ng pangunguna at pagpapatnubay ng Espiritu, hindi sa pamamagitan ng paraan at pagtatakda ng tao. Kaya, hindi ito ang pagkilos ng tao kundi ng Espiritu. Ang ganito ay lubusang naiiba sa paraan ng pangkasalukuyang natisod na paggawa."
+        },
+        {
+            "id": "32-1",
+            "text": "Tumutukoy kay Kristo na Manunubos. Tiyak na nasa ilalim ng makapangyarihang pangunguna ng Espiritu na mabuksan sa bating ang siping ito hinggil kay Kristo bilang nagtutubos na Kordero ng mga makasalanan, isang mabuting sipi para sa pagpapahayag ng ebanghelyo."
+        },
+        {
+            "id": "36-1",
+            "text": "Ito ay nagpapakita na si Felipe ay nagpahayag sa bating ng tungkol sa pagbautismo sa tubig. Sa pang- ebanghelyong kasong ito, ang bautismo sa tubig ay binigyang-diin, nguni’t walang pagbanggit na ginawa ukol sa bautismo sa Espiritu. Ito ay nagbibigay sa atin ng malakas na tagubilin na tayo ay nararapat na magbigay-pansin sa bautismo sa tubig na sumasagisag sa pakikipag-isa ng mga mananampalataya sa kamatayan at pagkabuhay na muli ni Kristo (Roma 6:3-5; Col. 2:12), gayundin sa bautismo sa Espiritu. Ang bautismo sa Espiritu ay sumasagisag sa katotohanan ng pakikipag-isa ng mga mananampalataya kay Kristo sa pang-esensiya, sa buhay at sa pang-ekonomiya, sa kapangyarihan, samantalang ang bautismo sa tubig ay ang pagpapatibay ng mga mananampalataya sa realidad ng Espiritu. Kapwa ito kailangan (cf. 10:47), at ang isa ay hindi makahahalili sa isa. Ang lahat ng mga mananampalataya kay Kristo ay nararapat na wastong magkaroon ng dalawang ito, katulad ng mga anak ni Israel na nabautismuhan kapwa sa ulap (sumasagisag sa Espiritu) at sa dagat (tumutukoy sa tubig) – I Cor. 10:2. Tingnan ang mga tala 8-1 sa Marcos 1, 5-2 sa Juan 3, at 6-1 sa I Juan 5."
+        },
+        {
+            "id": "37-1",
+            "text": "Maraming manuskrito ang wala nito."
         }
     ]
 }

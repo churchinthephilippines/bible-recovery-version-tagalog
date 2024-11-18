@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Pentecostes",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -25,11 +25,11 @@
             "footnotes": [
                 {
                     "word": "hangin,",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "pinuno",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -40,15 +40,15 @@
             "footnotes": [
                 {
                     "word": "dilang",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "apoy",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "dumapo",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -59,19 +59,19 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "nangapuspos",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "wika,",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "salitain.",
-                    "note": ""
+                    "id": "4-4"
                 }
             ],
             "outlines": null
@@ -82,7 +82,7 @@
             "footnotes": [
                 {
                     "word": "Hudyo",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": [
@@ -119,7 +119,7 @@
             "footnotes": [
                 {
                     "word": "kumbertido,",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -130,7 +130,7 @@
             "footnotes": [
                 {
                     "word": "wika",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -147,7 +147,7 @@
             "footnotes": [
                 {
                     "word": "matamis",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -158,7 +158,7 @@
             "footnotes": [
                 {
                     "word": "labing-",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": [
@@ -173,7 +173,7 @@
             "footnotes": [
                 {
                     "word": "ikatlong",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -190,27 +190,27 @@
             "footnotes": [
                 {
                     "word": "huling",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "ibubuhos",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "17-4"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "17-5"
                 },
                 {
                     "word": "mangagpopropesiya,",
-                    "note": ""
+                    "id": "17-6"
                 }
             ],
             "outlines": null
@@ -227,7 +227,7 @@
             "footnotes": [
                 {
                     "word": "magpapakita",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -238,7 +238,7 @@
             "footnotes": [
                 {
                     "word": "kaarawan",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -249,15 +249,15 @@
             "footnotes": [
                 {
                     "word": "tumatawag",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "pangalan",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "maliligtas.",
-                    "note": ""
+                    "id": "21-3"
                 }
             ],
             "outlines": null
@@ -268,11 +268,11 @@
             "footnotes": [
                 {
                     "word": "Taong",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "pinatunayan",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": [
@@ -286,19 +286,19 @@
             "footnotes": [
                 {
                     "word": "takdang",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "paunang-",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "tampalasan,",
-                    "note": ""
+                    "id": "23-3"
                 },
                 {
                     "word": "krus",
-                    "note": ""
+                    "id": "23-4"
                 }
             ],
             "outlines": null
@@ -309,11 +309,11 @@
             "footnotes": [
                 {
                     "word": "ibinangon",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -324,15 +324,15 @@
             "footnotes": [
                 {
                     "word": "kong",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "25-3"
                 }
             ],
             "outlines": null
@@ -343,11 +343,11 @@
             "footnotes": [
                 {
                     "word": "dila",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "nahihimlay",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -358,19 +358,19 @@
             "footnotes": [
                 {
                     "word": "Hades,",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "papayagan",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "Banal",
-                    "note": ""
+                    "id": "27-3"
                 },
                 {
                     "word": "kabulukan.",
-                    "note": ""
+                    "id": "27-4"
                 }
             ],
             "outlines": null
@@ -381,11 +381,11 @@
             "footnotes": [
                 {
                     "word": "daan",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "presensiya.",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": null
@@ -402,11 +402,11 @@
             "footnotes": [
                 {
                     "word": "bunga",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "trono,",
-                    "note": ""
+                    "id": "30-2"
                 }
             ],
             "outlines": null
@@ -423,11 +423,11 @@
             "footnotes": [
                 {
                     "word": "ibinangon",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "dito",
-                    "note": ""
+                    "id": "32-2"
                 }
             ],
             "outlines": null
@@ -438,7 +438,7 @@
             "footnotes": [
                 {
                     "word": "pangako",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -449,15 +449,15 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "34-2"
                 },
                 {
                     "word": "kanan",
-                    "note": ""
+                    "id": "34-3"
                 }
             ],
             "outlines": null
@@ -468,7 +468,7 @@
             "footnotes": [
                 {
                     "word": "gawin",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -479,11 +479,11 @@
             "footnotes": [
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "36-1"
                 },
                 {
                     "word": "inyong",
-                    "note": ""
+                    "id": "36-2"
                 }
             ],
             "outlines": null
@@ -494,7 +494,7 @@
             "footnotes": [
                 {
                     "word": "tinablan",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": [
@@ -508,31 +508,31 @@
             "footnotes": [
                 {
                     "word": "Magsisi",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "magpabautismo,",
-                    "note": ""
+                    "id": "38-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "38-3"
                 },
                 {
                     "word": "pangalan",
-                    "note": ""
+                    "id": "38-4"
                 },
                 {
                     "word": "ikapagpapatawad",
-                    "note": ""
+                    "id": "38-5"
                 },
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "38-6"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "38-7"
                 }
             ],
             "outlines": null
@@ -543,19 +543,19 @@
             "footnotes": [
                 {
                     "word": "inyo",
-                    "note": ""
+                    "id": "39-1"
                 },
                 {
                     "word": "pangako",
-                    "note": ""
+                    "id": "39-2"
                 },
                 {
                     "word": "nangasa",
-                    "note": ""
+                    "id": "39-3"
                 },
                 {
                     "word": "maging",
-                    "note": ""
+                    "id": "39-4"
                 }
             ],
             "outlines": null
@@ -566,15 +566,15 @@
             "footnotes": [
                 {
                     "word": "nagpatotoo",
-                    "note": ""
+                    "id": "40-1"
                 },
                 {
                     "word": "Magpaligtas",
-                    "note": ""
+                    "id": "40-2"
                 },
                 {
                     "word": "henerasyong",
-                    "note": ""
+                    "id": "40-3"
                 }
             ],
             "outlines": null
@@ -585,11 +585,11 @@
             "footnotes": [
                 {
                     "word": "nangabautismuhan,",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "kaluluwa.",
-                    "note": ""
+                    "id": "41-2"
                 }
             ],
             "outlines": null
@@ -600,7 +600,7 @@
             "footnotes": [
                 {
                     "word": "pagtuturo",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": [
@@ -613,7 +613,7 @@
             "footnotes": [
                 {
                     "word": "kababalaghan",
-                    "note": ""
+                    "id": "43-1"
                 }
             ],
             "outlines": null
@@ -624,7 +624,7 @@
             "footnotes": [
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "44-1"
                 }
             ],
             "outlines": null
@@ -635,7 +635,7 @@
             "footnotes": [
                 {
                     "word": "ipinagbili",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": null
@@ -646,19 +646,19 @@
             "footnotes": [
                 {
                     "word": "templo,",
-                    "note": ""
+                    "id": "46-1"
                 },
                 {
                     "word": "pagpipira-",
-                    "note": ""
+                    "id": "46-2"
                 },
                 {
                     "word": "bahay-",
-                    "note": ""
+                    "id": "46-3"
                 },
                 {
                     "word": "katapatan",
-                    "note": ""
+                    "id": "46-4"
                 }
             ],
             "outlines": null
@@ -669,14 +669,352 @@
             "footnotes": [
                 {
                     "word": "nagtatamo",
-                    "note": ""
+                    "id": "47-1"
                 },
                 {
                     "word": "magkasama",
-                    "note": ""
+                    "id": "47-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Nangangahulugang ikalimampu. Ito ang ikalimampung araw mula sa araw ng pagkabuhay na muli ng Panginoon, pitong linggo ang pagitan, binibilang mula sa ikalawang araw (ang unang araw ng sanlinggo – Luc. 23:54 – 24:1) pagkatapos ng Paskua kung kailan ang Panginoon ay ipinako (Juan 19:14). Ito ang kaganapan ng kapistahan ng mga Sanlinggo (Deut. 16:10), na tinatawag ding kapistahan ng Pag-aani (Exo. 23:16), binibilang mula sa araw ng pag-aalay ng isang bigkis ng mga unang bunga ng paggapas hanggang sa kinabukasan pagkatapos ng ikapitong Sabbath (Lev. 23:10-11, 15-16). Ang paghahandog ng isang bigkis ng mga unang bunga sa harapan ng Diyos ay sagisag ng nabuhay na muling Kristo na inihandog sa Diyos sa araw ng Kanyang pagkabuhay na muli (Juan 20:17), na siyang araw matapos ang Sabbath (Juan 20:1). Mula sa araw na yaon hanggang sa araw ng Pentecostes ay eksaktong limampung araw (cf. 1:3). Ang kapistahan ng pag-aani ay sumasagisag sa pagtatamasa sa mayamang ani na dinala ng nabuhay na muling Kristo. Ang mayamang aning ito ay ang nagpapaloob ng lahat na Espiritu ng dumaan sa maraming hakbanging Tres-unong Diyos na ibinigay Niya sa Kanyang mga hinirang na tao bilang pagpapala ng ebanghelyo (Gal. 3:14) upang matamasa nila ang nagpapaloob ng lahat na Kristo (ang mismong pagsasakatawan ng Tres-unong Diyos) bilang kanilang mabuting lupa. Ito ay sumasagisag na ang mga mananampalataya, sa pamamagitan ng pagtanggap sa masaganang Espiritu noong araw ng Pentecostes, ay hindi lamang nakapasok sa loob ng mabuting lupa, bagkus nakabahagi rin sa masaganang kayamanan ng nagpapaloob ng lahat na Kristo (Efe. 3:8) sa Kanyang pagkabuhay na muli at pag-akyat sa langit bilang ganap na pamamahagi ng Diyos sa Kanyang Bagong Tipang ekonomiya."
+        },
+        {
+            "id": "2-1",
+            "text": "Sa pagkabuhay na muli ng Panginoon, ang Espiritu ng buhay ng pagkabuhay na muli na inihalintulad sa hininga na inihinga sa loob ng mga disipulo (Juan 20:22) ay para sa kanilang espirituwal na katauhan at pamumuhay sa pang-esensiya. Sa pag-akyat sa langit ng Panginoon, ang Espiritu ng kapangyarihan ng pag-akyat sa langit na ibinuhos sa mga disipulo na sinagisag dito ng hangin ay para sa ministeryo ng mga disipulo at pang-ekonomiyang pagkilos. Ang pang-esensiyang Espiritu ng buhay ng pagkabuhay na muli ay para sa mga mananampalataya upang ibuhay si Kristo; ang pang-ekonomiyang Espiritu ng kapangyarihan ng pag-akyat sa langit ay para sa kanilang pagsasakatuparan ng Kanyang gawain."
+        },
+        {
+            "id": "2-2",
+            "text": "Gr. pleroo, punuin sa panloob, katulad ng pagpupuno ng hangin sa bahay."
+        },
+        {
+            "id": "3-1",
+            "text": "Isang simbolo ng pagsasalita, sinasagisag na ang pang-ekonomiyang Espiritu ng kapangyarihan ng Diyos, sa pangunahin, ay para sa pagsasalita. Siya ang nagsasalitang Espiritu."
+        },
+        {
+            "id": "3-2",
+            "text": "Sinasagisag ang nagliliyab na kapangyarihan para sa paglilinis at paghihikayat sa pang-ekonomiyang pagkilos ng Diyos."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang pandiwa ay pang-isahan, ipinakikita na isang dila ang dumapo sa bawa’t isa sa kanila."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang “lahat” ay tumutukoy lamang sa “nangapuspos” sa unang sugnay, hindi sa “nangagsimulang magsalita” sa pangalawang sugnay. Ito ay hindi magagamit bilang katibayan na ang lahat ng mga disipulo na napuspusan ng Espiritu Santo ay nangagsimulang magsalita sa mga wika."
+        },
+        {
+            "id": "4-2",
+            "text": "Gr. pletho, (ginagamit din sa 4:8, 31; 9:17; 13:9; at Luc. 1:15, 41, 67), nangangahulugang punuin sa panlabas. Ayon sa gamit nito sa aklat na ito, ang pleroo ay nangangahulugang punuin ang isang sisidlan sa loob, tulad ng panloob na pagpuno ng hangin sa bahay sa bersikulo 2; at ang pletho ay nangangahulugang punuin ang mga tao sa panlabas, tulad ng panlabas na pagpuno ng Espiritu sa mga disipulo sa bersikulong ito. Ang mga disipulo ay panloob at pang-esensiyang napuspusan ( pleroo) ng Espiritu (13:52) para sa kanilang pang-Kristiyanong pamumuhay, at sa panlabas at pang-ekonomiya ay napuspusan ( pletho ) ng Espiritu para sa kanilang pang- Kristiyanong ministeryo. Ang Espiritung nagpupuspos sa panloob, ang pang-esensiyang Espiritu, ay nasa loob ng mga disipulo (Juan 14:17; Roma 8:11); samantalang ang Espiritung nagpupuspos sa panlabas, ang pang-ekonomiyang Espiritu, ay nasa ibabaw nila (1:8; 2:17). Bawat mananampalataya kay Kristo ay nararapat makaranas ng dalawang panig ng Espiritu Santo. Maging si Kristo bilang isang tao ay nakaranas ng parehong bagay: Siya ay isinilang ng Espiritu Santo sa pang-esensiya (Luc. 1:35; Mat. 1:18, 20) para sa Kanyang katauhan at pamumuhay, at Siya ay pinahiran ng Espiritu Santo sa pang-ekonomiya (Mat. 3:16; Luc. 4:18) para sa Kanyang ministeryo at pagkilos. Ang pang-esensiyang Espiritu ay nasa loob Niya at ang pang-ekonomiyang Espiritu ay nasa ibabaw Niya."
+        },
+        {
+            "id": "4-3",
+            "text": "Tumutukoy sa mga diyalektong nasa mga bersikulo 6 at 8. Ang mga disipulo ay mga Galileo (b. 7), gayunpaman kanilang sinalita ang iba’t ibang banyagang diyalekto ng mga nanggaling sa iba’t ibang bahagi ng mundo. Ito ay isang matibay na pagpapatunay na ang pagsasalita sa wika ay kinakailangang isang nauunawaang lengguwahe, hindi basta isang tinig o ugong na binigkas ng dila."
+        },
+        {
+            "id": "4-4",
+            "text": "“Isang kakaibang salita, at sadyang pinili upang ipakahulugan ang malinaw, malakas na bigkas” (Vincent)."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang mga debotong Hudyo na nanggaling sa kanilang pangangalat patungong Herusalem upang ipangilin ang kapistahan ng Pentecostes."
+        },
+        {
+            "id": "10-1",
+            "text": "Mga Hentil na napasampalataya sa Hudaismo (6:5; 13:43)."
+        },
+        {
+            "id": "11-1",
+            "text": "Gr. glossa, ginamit para sa dalawang bagay sa kapitulong ito: ang dila na siyang sangkap sa pagsasalita sa bersikulo 3, at ang mga wika sa bersikulong ito at bersikulo 4, na tumutukoy sa diyalekto sa mga bersikulo 6 at 8. Ang katibayang ito ay hindi nagbibigay ng batayan upang sabihin na ang pagsasalita-sa-wika ay maaaring isa lamang tinig o ugong na binigkas ng dila, ang sangkap sa pagsasalita; ito ay kinakailangang maging isang diyalekto, sapagka’t ang sinalita ng mga disipulo sa mga wika (bb. 4, 11) ay pawang iba’t ibang diyalekto (bb. 6, 8). Sa ganitong pakahulugan, ang mga wika at mga diyalekto ay magkasingkahulugan, na papalit-palit na ginamit sa mga bersikulong ito."
+        },
+        {
+            "id": "13-1",
+            "text": "O, bagong alak."
+        },
+        {
+            "id": "14-1",
+            "text": "Ito ay nagpapakita na si Matias, na hinirang sa 1:26, ay kinilala bilang isa sa labindalawang apostol."
+        },
+        {
+            "id": "15-1",
+            "text": "Yaon ay, ikasiyam ng umaga."
+        },
+        {
+            "id": "17-1",
+            "text": "Simula sa unang pagdating ni Kristo (1 Ped. 1:20)."
+        },
+        {
+            "id": "17-2",
+            "text": "Ito ay naiiba sa paghinga ng Espiritu sa loob ng mga disipulo mula sa bibig ni Kristo sa Kanyang pagkabuhay na muli (Juan 20:22). Ang pagbubuhos ng Espiritu ng Diyos ay mula sa mga kalangitan sa pag-akyat sa langit ni Kristo. Ang nauuna ay ang pang-esensiyang aspekto ng Espiritu na inihinga sa loob ng mga disipulo bilang buhay para sa kanilang pamumuhay; ang huli ay ang pang-ekonomiyang aspekto ng Espiritu na ibinuhos sa kanila bilang kapangyarihan para sa kanilang gawain. Ang parehong Espiritu ay kapwa pang-esensiyang nasa loob nila at pang-ekonomiyang nasa ibabaw nila. Ang pagbubuhos ng Espiritu sa pag-akyat sa langit ni Kristo ay ang pagbaba ng nabuhay na muli at umakyat sa langit na Kristo bilang nagpapaloob ng lahat na Espiritu upang isakatuparan ang Kanyang makalangit na ministeryo sa lupa nang sa gayon ay maitayo ang Kanyang ekklesia (Mat. 16:18) bilang Kanyang Katawan (Efe. 1:23) para sa Bagong Tipang ekonomiya ng Diyos."
+        },
+        {
+            "id": "17-3",
+            "text": "O, mula sa Aking Espiritu (gayundin sa b. 18)."
+        },
+        {
+            "id": "17-4",
+            "text": "Ang “sa” ay pang-ekonomiya, naiiba sa pang-esensiyang “pasasa- loob” sa Juan 14:17. Ang “pasasaloob” ay may kaugnayan sa panloob na esensiya para sa buhay; ang “sa” ay may kaugnayan sa panlabas na elemento para sa kapangyarihan."
+        },
+        {
+            "id": "17-5",
+            "text": "Tumutukoy sa lahat ng mga natisod na tao, walang pagkakaiba sa kasarian, gulang, o estado."
+        },
+        {
+            "id": "17-6",
+            "text": "Alinman sa mga propesiya, pangitain, at panaginip ay walang kaugnayan sa panloob na buhay kundi sa mga panlabas na bagay."
+        },
+        {
+            "id": "19-1",
+            "text": "Lit. magbibigay. Ang mga bersikulo 19 at 20 sa propesiya ni Joel ay walang kaugnayan sa mga bagay na nangyari noong araw ng Pentecostes, kundi sa mga kalamidad na mangyayari sa araw ng paghahatol ng Panginoon."
+        },
+        {
+            "id": "20-1",
+            "text": "Tingnan ang 12-3 sa 2 Pedro. 3."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang pagtawag sa pangalan ng Panginoon ay hindi isang bagong gawi sa Bagong Tipan. Ito ay nagsimula kay Enos, ang pangatlong henerasyon ng sangkatauhan, sa Gen. 4:26. Ito ay ipinagpatuloy ni Job (Job. 12:4; 27:10), ni Abraham (Gen. 12:8; 13:4; 21:33), ni Isaac (Gen. 26:25), ni Moises at ng mga anak ni Israel (Deut. 4:7), ni Samson (Huk. 15:18; 16:28), ni Samuel (1 Sam. 12:18; Awit 99:6), ni David (2 Sam. 22:4, 7; 1 Cron. 16:8; 21:26; Awit 14:4; 17:6; 18:3, 6; 31:17; 55:16; 86:5, 7; 105:1; 116:4, 13, 17; 118:5; 145:18), ng mang-aawit na si Asap (Awit 80:18), ng mang-aawit na si Heman (Awit 88:9), ni Elias (1 Hari 18:24), ni Isaias (Isa. 12:4), ni Jeremias (Panag. 3:55, 57), at ng iba pa (Awit 99:6); sa Lumang Tipang kapanahunan, silang lahat ay nagsitawag sa pangalan ng Panginoon. Inatasan ni Isaias ang mga naghahanap sa Diyos na tumawag sa Kanya (Isa. 55:6). Maging ang mga Hentil ay nakaalam na ang mga propeta ng Israel ay tumatawag sa pangalan ng Diyos (Jon. 1:6; 2 Hari 5:11). Ang Hentil na ibinangon ng Diyos mula sa hilaga ay tumatawag din sa Kanyang pangalan (Isa. 41:25). Ito ang kautusan ng Diyos (Awit 50:15; Jer. 29:12) at Kanyang naisin (Awit 91:15; Zef. 3:9; Zac. 13:9) na ang Kanyang bayan ay tumawag sa Kanya. Ito ang kagalak-galak na paraan ng pag-inom mula sa bukal ng pagliligtas ng Diyos (Isa. 12:3-4), at ang katama-tamasang paraan upang magsaya sa Diyos (Job 27:10), yaon ay, tamasahin Siya. Kaya nga, ang bayan ng Diyos ay nararapat tumawag sa Kanya araw-araw (Awit 88:9). Ito ay isang gayong masiglang gawi na ipinropesiya ni Joel (Joel 2:32) para sa Bagong Tipang jubileo."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang pangalan ay tumutukoy sa tao. Hesus ang pangalan ng Panginoon, at ang Espiritu ang Kanyang Persona. Kapag tayo ay tumatawag ng, Panginoong Hesus, natatanggap natin ang Espiritu."
+        },
+        {
+            "id": "21-3",
+            "text": "Ito ang pangwakas ng sipi ng propesiya ni Joel na nagsimula sa bersikulo 17, ipinakikita na ang kinalabasan ng pagbubuhos ng Diyos ng Kanyang Espiritu sa laman ay ang kanilang kaligtasan sa pamamagitan ng pagtawag sa pangalan ng Panginoon. Ang pagbubuhos ng Diyos ng Kanyang Espiritu ay ang pagsasagawa ng pagliligtas ng Panginoon sa Kanyang mga hinirang na tao. Ang maligtas ay ang tanggapin ang Espiritung ito, na Siyang pagpapala ng ebanghelyo sa Bagong Tipang ekonomiya ng Diyos (Gal. 3:2, 5, 14). Ang Espiritung ito ang Panginoon Mismo bilang hininga (Juan 20:22) at buháy na tubig (Juan 4:10, 14) sa atin. Ang hingahin Siya papasok bilang ating hininga at inumin Siya bilang ating buháy na tubig ay nangangailangan ng ating pagtawag sa Kanya. Ang Panag. 3:55-56 ay tumutukoy na ang pagtawag sa Panginoon ay paghinga, at ang Isa. 12:3-4 ay tumutukoy na ang pagtawag sa Panginoon ay pag-inom. Matapos tayong manampalataya sa Panginoon, kinakailangang tumawag tayo sa Kanya upang hindi lamang tayo mangaligtas kundi magtamasa rin ng Kanyang mga kayamanan (Roma 10:12-13). Ang Kanyang mga kayamanan ay natatamasa sa pamamagitan ng ating pagtawag sa Kanya sa pamamagitan ng pag-eensayo ng ating espiritu; ito ang tunay na pagsamba sa Diyos (Juan 4:24), at pag-inom sa Kanyang ibinigay na tubig na buháy (Juan 4:14)."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang unang mensahe ng pagpapahayag ng ebanghelyo ng mga apostol ay nakatuon sa isang Tao na ipinakilala ni Lucas sa kanyang mga mambabasa ng kanyang Ebanghelyo mula sa paglilihi sa Kanya, tungo sa kanyang kapanganakan, kabataan, buhay sa lupa, pagkamatay, at pagkabuhay na muli, hanggang sa Kanyang pag-akyat sa langit. Ngayon ang kasunod na salaysay ni Lucas dito sa Mga Gawa ay nagpapatuloy sa pagsasabi sa atin na ang Taong ito ay ipinahayag ng mga apostol bilang ang Tagapagligtas na itinalaga ng Diyos."
+        },
+        {
+            "id": "22-2",
+            "text": "Lit. tukuyin, itanghal, ipakita, na ang ibig sabihin ay pinatutunayan sa pamamagitan ng pagpapatotoo, sa gayon ay nagdadala ng isang pagsang-ayon."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang pasiyang ito ay nararapat na itakda sa isang pasiyang isinagawa ng Dibinong Trinidad bago ang pagtatatag sa sanlibutan (1 Ped. 1:20; Apoc. 13:8), tinutukoy na ang pagkapako sa krus ng Panginoon ay hindi isang aksidente sa pantaong kasaysayan, kundi isang sinadyang pagsasakatuparan ng dibinong pagsasanggunian na itinalaga ng Tres-unong Diyos."
+        },
+        {
+            "id": "23-2",
+            "text": "Tingnan ang 20-1 sa 1 Pedro 1."
+        },
+        {
+            "id": "23-3",
+            "text": "Kabilang si Judas Iscariote (Luc. 22:3-6), mga pangulong saserdote, mga opisyal ng templo, mga matanda (Luc. 22:52-53), ang mataas na saserdote at maka-Hudyong Sanedrin (Luc. 22:54, 66-71), si Pilato, si Herodes, at mga Romanong kawal (Luc. 23:1-25) – lalong higit ang mga maka-Hudyong relihiyonista kasama ang kanilang mga kinatawan at mga Hentil na pulitiko kasama ang kanilang mga nasasakupan. Ito ay tumutukoy na si Hesus ay pinatay ng buong sangkatauhan."
+        },
+        {
+            "id": "23-4",
+            "text": "Tingnan ang mga tala 26-2 sa Mateo 27 at 321 sa Juan 18."
+        },
+        {
+            "id": "24-1",
+            "text": "Dito at sa bersikulo 32 sinasabi ni Pedro na “ibinangon ng Diyos” si Hesus. Sa 10:40-41, parehong bagay ang paulit-ulit niyang sinasalita nguni’t kanyang dinaragdagan, “Siya ay nagbangon mula sa mga patay.” Hinggil sa Panginoon bilang isang tao, sinasabi sa atin ng Bagong Tipan na ibinangon Siya ng Diyos mula sa mga patay (Roma 8:11); sa pagsasaalang-alang sa Kanya bilang Diyos, ito ay nagsasabi sa atin na Siya Mismo ang bumangon mula sa mga patay (Roma 14:9). Sa gayunding prinsipyo, sa pagturing sa Kanya bilang isang tao, sinasabi sa atin ng Bagong Tipan na Siya ay pinatay ng mga tao (Mar. 9:31); sa pagsasaalang-alang sa Kanya bilang Diyos, ito ay nagsasabi sa atin na kusa Niyang ibinigay ang Kanyang buhay (Juan 10:18). Ito rin ay nagpapatunay ng Kanyang dalawang katayuan—pantaong katayuan at dibinong katayuan."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang Panginoon ay kapwa Diyos at pagkabuhay na muli (Juan 1:1; 11:25), tinataglay ang buhay na di-nasisira (Heb. 7:16). Yamang Siya ang Isang laging nananatiling buháy, hindi Siya kayang pigilan ng kamatayan. Kanyang ibinigay ang Kanyang sarili sa kamatayan, subali’t ang kamatayan ay walang paraan upang pigilan Siya bagkus nagapi Niya, at Siya ay bumangon mula rito."
+        },
+        {
+            "id": "25-1",
+            "text": "Ito ang pagpapahayag ni Kristo sa Kanyang pagkabuhay na muli."
+        },
+        {
+            "id": "25-2",
+            "text": "Tumutukoy sa Diyos."
+        },
+        {
+            "id": "25-3",
+            "text": "Nang si Kristo ay hinawakan ng Diyos (tulad ng sa Isa. 41:13; 42:6), ang Diyos ay nasa Kanyang kanan; nang Siya ay pinarangalan ng Diyos, Siya ay naupo sa kanan ng Diyos (b. 33; Awit 110:1; Efe. 1:20-21)."
+        },
+        {
+            "id": "26-1",
+            "text": "Ito ay isang sipi mula sa Awit 16:9 sa Septuagint. Subalit sa orihinal na tekstong Hebreo ang salita para sa dila ay kaluwalhatian, na isang kasingkahulugan ng kaluluwa, ayon sa Gen. 49:6 at Awit 7:5. Sa Kanyang pagtitiwala sa Diyos, ang puso ni Kristo ay napagalak, at ang Kanyang kaluluwa ay nagalak habang nasa Hades (b. 27)."
+        },
+        {
+            "id": "26-2",
+            "text": "O, nananahan,tumitira, nagtatayo ng tolda nito. Pagkatapos mamatay ni Kristo sa krus, habang ang Kanyang kaluluwa ay nagalak sa Hades, ang Kanyang laman (katawan) ay humimlay sa libingan sa pag-asa, nagtitiwala sa Diyos."
+        },
+        {
+            "id": "27-1",
+            "text": "Tingnan ang 23-1 sa Mateo 11."
+        },
+        {
+            "id": "27-2",
+            "text": "Lit. ibibigay."
+        },
+        {
+            "id": "27-3",
+            "text": "Tingnan ang tala 75-1 sa Lucas 1."
+        },
+        {
+            "id": "27-4",
+            "text": "Tumutukoy sa pagkabulok ng katawan sa libingan (b. 31)."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang mga daan upang makalabas sa kamatayan tungo sa loob ng pagkabuhay na muli."
+        },
+        {
+            "id": "28-2",
+            "text": "O, mukha, tumutukoy kay Kristo na nabuhay na muli na pumasok sa loob ng presensiya ng Diyos, lalung-lalo na sa loob ng Kanyang pag-akyat sa langit (b. 34; Heb. 1:3)."
+        },
+        {
+            "id": "30-1",
+            "text": "Tingnan ang tala 42-2 sa Lucas 1."
+        },
+        {
+            "id": "30-2",
+            "text": "Ito ay ipinahayag din ng anghel kay Maria sa paglilihi kay Kristo (Luc. 1:32-33)."
+        },
+        {
+            "id": "32-1",
+            "text": "Tingnan ang tala 24-1 ."
+        },
+        {
+            "id": "32-2",
+            "text": "O, sa Kanya. Ang mga apostol ay mga saksi ng nabuhay na muling Kristo, hindi lamang sa salita, bagkus sa kanila ring buhay at kilos, lalung-lalo na sa pagsaksi sa Kanyang pagkabuhay na muli (4:33), na siyang sentrong punto sa pagsasakatuparan ng Bagong Tipang ekonomiya ng Diyos. Tingnan ang tala 8-3 sa kapitulo 1."
+        },
+        {
+            "id": "33-1",
+            "text": "Hindi ang pangakong ibinigay ng Espiritu Santo kundi ang pangakong ibinigay ng Ama sa Joel 2:29 na sinipi ni Pedro sa bersikulo 17 at tinukoy ng Panginoon sa Luc. 24:49 at Gawa 1:4 hinggil sa Espiritu Santo. Ang pagtanggap ng naparangalang Kristo sa pangako ng Espiritu Santo, sa katunayan, ay ang pagtanggap sa Espiritu Santo Mismo. Sa pang-esensiya si Kristo ay ipinaglihi ng Espiritu para sa Kanyang katauhan sa pagka-tao (Luc. 1:35; Mat. 1:18, 20), at sa pang-ekonomiya ay pinahiran ng Espiritu para sa Kanyang ministeryo sa gitna ng mga tao (Mat. 3:16; Luc. 4:18). Pagkatapos ng Kanyang pagkabuhay na muli at pag-akyat sa langit, kinakailangan pa rin Niyang matanggap sa pang-ekonomiya ang Espiritu upang maibuhos Niya ang Kanyang sarili sa Kanyang Katawan nang sa gayon ay maisakatuparan sa lupa ang Kanyang makalangit na ministeryo para sa pagsasakatuparan ng Bagong Tipang ekonomiya ng Diyos."
+        },
+        {
+            "id": "34-1",
+            "text": "Ito ay nagpapatunay na hanggang sa panahon ng Pentecostes, si David ay hindi pa nakaaakyat sa mga kalangitan; ang kanyang puntod ay nasa mga disipulo pa hanggang sa araw ng Pentecostes (b. 29). Pinawawalang-bisa ng katotohanang ito ang di-wastong pagtuturo na ibinatay sa Efe. 4:8-10 na nang si Kristo ay nabuhay na muli, Kanyang dinala ang paraiso, kasama ang lahat ng mga banal sa Lumang Tipan, mula sa Hades tungo sa mga kalangitan (tingnan ang tala 4-2 sa 2 Cor. 12)."
+        },
+        {
+            "id": "34-2",
+            "text": "Ang unang Panginoon ay tumutukoy sa Diyos at ang pangalawa ay kay Kristo, na tinawag ni David na “aking Panginoon” (Mat. 22:45 at tala)."
+        },
+        {
+            "id": "34-3",
+            "text": "Ang lugar ng kaluwalhatian, karangalan, at kapangyarihan (Exo. 15:6; 1 Hari 2:19; Mar. 14:62)."
+        },
+        {
+            "id": "35-1",
+            "text": "Ito ay tumutukoy na pagkatapos ng pag-akyat sa langit ni Kristo ang Diyos ay gumagawa pa rin upang daigin ang mga kaaway ni Kristo, nang sa gayon Siya ay makabalik upang makapaghari sa pansansinukob na kaharian ng Diyos (1 Cor. 15:25; Apoc. 11:15)."
+        },
+        {
+            "id": "36-1",
+            "text": "Bilang Diyos, ang Panginoon ay ang Panginoon sa lahat ng panahon (Luc. 1:43; Juan 11:21; 20:28), subali’t bilang tao, Siya ay ginawang Panginoon sa Kanyang pag-akyat sa langit matapos Niyang madala ang Kanyang pagka-tao sa loob ng Diyos sa Kanyang pagkabuhay na muli. Bilang ang Isang sinugo at pinahiran ng Diyos, Siya ay Kristo simula pa nang Siya ay isilang (Luc. 2:11; Mat. 1:16; Juan 1:41; Mat. 16:16), subali’t bilang Isang gayon, Siya rin ay opisyal na ginawang ang mismong Kristo ng Diyos sa Kanyang pag-akyat sa langit. Ang Panginoon ay ginawang Panginoon, bilang Panginoon ng lahat (10:36), upang ariin ang lahat; at Siya ay ginawang Kristo, bilang Pinahiran ng Diyos (Heb. 1:9), upang isakatuparan ang gawain ng Diyos."
+        },
+        {
+            "id": "36-2",
+            "text": "Ang “inyong” dito ay mariin."
+        },
+        {
+            "id": "37-1",
+            "text": "Lit. natulos."
+        },
+        {
+            "id": "38-1",
+            "text": "Tingnan ang mga tala 2-1 sa Mateo 3 at 15-2 sa Marcos 1."
+        },
+        {
+            "id": "38-",
+            "text": "Tingnan ang mga tala 6-1 sa Mateo 3, 19-3 sa Mateo 28, 5-2 sa Marcos 1, at 16-1 sa Marcos 16."
+        },
+        {
+            "id": "38-3",
+            "text": "Ginagamit ng Bagong Tipan ang tatlong iba’t ibang pang-ukol upang ilarawan ang kaugnayan ng bautismo sa Panginoon: 1) En, sa loob (10:48). Ang mabautismuhan sa loob ng pangalan ni Hesu-Kristo ay ang mabautismuhan sa saklaw ng pangalan ni Hesu-Kristo, na sa loob nito ay ang katotohanan ng bautismo. 2) Eis, tungo sa loob (Mat. 28:19; Gawa 8:16; 19:5; Roma 6:3; Gal. 3:27). Ang mabautismuhan tungo sa loob ng pangalan ng Ama, ng Anak, at ng Espiritu Santo, o tungo sa loob ng pangalan ng Panginoong Hesus, ay ang mabautismuhan tungo sa loob ng isang espirituwal na pakikiisa sa nagpapaloob ng lahat na Kristo, na Siyang pagsasakatawan ng Tres-unong Diyos. Tingnan ang mga tala 16-2 sa kapitulo 8 at 194 sa Mateo 28. 3) Epi, sa ibabaw o sa (b. 38). Ang mabautismuhan sa pangalan ni Hesu-Kristo ay ang mabautismuhan sa ibabaw ng saligang kinatatayuan ng pangalan ni Hesu-Kristo. Ito ay kumakatawan sa lahat ng kung ano ang Persona ni Hesu-Kristo at sa lahat ng Kanyang naisakatuparan, na kapwa bumubuo sa pinaniniwalaan (pananampalataya) ng Bagong Tipang ekonomiya ng Diyos. Sa saligang ito nabautismuhan ang mga mananampalataya kay Kristo."
+        },
+        {
+            "id": "38-4",
+            "text": "Tinutukoy ng pangalan ang katauhan o persona."
+        },
+        {
+            "id": "38-5",
+            "text": "Ang ikapagpapatawad ng mga kasalanan ay nakasalalay sa pagtutubos ni Kristo na naisakatuparan sa pamamagitan ng Kanyang kamatayan (10:43; Efe. 1:7; 1 Cor. 15:3); ito ang panimula at pinagbabatayang pagpapala ng ganap na pagliligtas ng Diyos. Batay sa pagpapatawad ng kasalanan, ang pagpapala ng ganap na pagliligtas ng Diyos ay nagpapatuloy at nagwawakas sa pagtanggap ng kaloob ng Espiritu Santo."
+        },
+        {
+            "id": "38-6",
+            "text": "Hindi tumutukoy sa anumang kaloob na ipinamahagi ng Espiritu, katulad ng nabanggit sa Roma 12:6, 1 Cor. 12:4, at 1 Ped. 4:10, kundi sa kaloob na siyang Espiritu Santo Mismo, na ibinigay ng Diyos sa mga mananampalataya kay Kristo bilang namumukod-tanging kaloob na nagbubunga ng lahat ng mga kaloob na nabanggit sa Roma 12, 1 Corinto 12, at 1 Pedro 4. Ang mga kaloob na yaon ay ang abilidad at kapasidad sa paglilingkod sa Diyos na nagmumula sa namumukod-tanging kaloob na siyang Espiritu Santo."
+        },
+        {
+            "id": "38-7",
+            "text": "Ang nagpapaloob ng lahat na Espiritu ng dumaan sa maraming hakbanging Tres-unong Diyos sa Kanyang Bagong Tipang ekonomiya, kapwa pang-esensiya para sa buhay at pang-ekonomiya para sa kapangyarihan, na ibinigay sa mga mananampalataya sa panahon ng kanilang pagsampalataya kay Kristo (Efe. 1:13; Gal. 3:2) bilang nagpapaloob ng lahat na pagpapala ng ganap na ebanghelyo ng Diyos (Gal. 3:14), upang matamasa nila ang lahat ng mga kayamanan ng Tres-unong Diyos (2 Cor. 13:14). Ang ipinahayag at inihain ng mga apostol ay si Kristo, subali’t nang ang kanilang mga tagapakinig ay nagsisi at nanampalataya sa Kanya, ang kanilang natanggap ay ang kahanga-hangang Espiritu ng Tres-unong Diyos. Ito ay nagpapahiwatig na ang Espiritung ito ay ang nabuhay na muli at umakyat sa langit na Kristo Mismo. Ang pagtanggap sa Espiritu rito ay kapwa pang-esensiya at pang-ekonomiya, sa isang pangkalahatan at nagpapaloob ng lahat na paraan, naiiba sa pagtanggap sa Espiritu sa 8:15-17 at 19:2-6, na natatangi sa pagtanggap sa Espiritung pang-ekonomiya na dumadapo sa mga mananampalataya."
+        },
+        {
+            "id": "39-1",
+            "text": "Tumutukoy sa mga Hudyo."
+        },
+        {
+            "id": "39-2",
+            "text": "Tumutukoy sa Espiritu Santo (tingnan ang tala 33-1)."
+        },
+        {
+            "id": "39-3",
+            "text": "Tumutukoy sa mga Hentil, na kasama sa “lahat ng laman” (b. 17)."
+        },
+        {
+            "id": "39-4",
+            "text": "Tumutukoy sa mga hinirang at itinalaga-nang-una pa ng Diyos sa kawalang-hanggan (Efe. 1:4-5) at tinawag Niya sa Bagong Tipang kapanahunan (Roma 1:7; 1 Cor. 1:2)."
+        },
+        {
+            "id": "40-1",
+            "text": "Ang magpatotoo ay nangangailangan ng mga karanasan ng pagkakita, pakikibahagi at pagtatamasa. Ito ay naiiba sa basta pagtuturo lamang."
+        },
+        {
+            "id": "40-2",
+            "text": "Ang “magpa-” ay tahasan, at ang “-ligtas” ay pabalintiyak; kaya nga, ang “magpaligtas” ay nasa tahasang- pabalintiyak na tinig. Ito ay isasagawa ng Diyos, subali’t ang tao ay kinakailangang maging aktibong tumanggap ng anumang nilalayong gawin ng Diyos. Sa panahon ng Pentecostes, lahat ng bagay hinggil sa ganap na pagliligtas ng Diyos ay naihanda na, at ang Espiritu Santo ay ibinuhos bilang pagsasagawa at buong pagpapala ng pagliligtas ng Diyos na nakahanda para sa tao upang tanggapin. Sa ganitong bagay ang Diyos ay naghihintay sa tao, at kinakailangang magkusang-loob ang tao. Tao, magpaligtas kayo!"
+        },
+        {
+            "id": "40-3",
+            "text": "Si Pedro, sa pangwakas ng kanyang mensahe, ay hindi nagsasabi, “Magpaligtas kayo mula sa paghahatol ng Diyos, o mula sa walang hanggang kapahamakan,” kundi, “Magpaligtas kayo mula sa likong henerasyong ito!” Ito ay tumutukoy sa mga mapilit-sa-kamaliang Hudyo sa kapanahunang ito, na nagtakwil sa Kristo ng Diyos (b. 36) at ipinagpalagay ng Diyos bilang kasalukuyang masamang kapanahunan (Gal. 1:4). Ang maligtas ang mga likong Hudyo mula sa kasalukuyang masamang kapanahunan ay nangangailangan ng isang tunay na pagsisisi sa kanilang pagiging liko sa harap ng Diyos at isang tunay na pagbaling sa Diyos. Ito ay nagpapakita na kailangan nilang bumaling sa Diyos hindi lamang mula sa kanilang mga kasalanan bagkus maging sa kanilang henerasyon, yaon ay, sa kanilang maka-Hudyong lipunan, kasama ang kanilang maka-Hudyong relihiyon. Ang kinalabasan ng isang gayong kaligtasan ay hindi ang kanilang pagpasok sa loob ng langit, kundi ang kanilang pagpasok sa loob ng isang bagong henerasyon – ang ekklesia. Kaya nga, ang mga naligtas ay ihihiwalay sa maka-Hudyong lipunan tungo sa ekklesia. Ang maligtas sa ganitong paraan ay nangangahulugang maligtas mula sa paghahatol ng Diyos at sa walang hanggang kapahamakan tungo sa walang hanggang layunin ng Diyos at Kanyang kaluguran (Efe. 3:11; 1:9)."
+        },
+        {
+            "id": "41-1",
+            "text": "Sa pamamagitan ng tubig (10:47-48). Tingnan ang mga tala 6-1 sa Mateo 3, 19-3 sa Mateo 28, at 20-3 , 21-1 , at 21-3 sa 1 Pedro 3."
+        },
+        {
+            "id": "41-2",
+            "text": "Mga taong nilikha ng Diyos (Gen. 2:7)."
+        },
+        {
+            "id": "42-1",
+            "text": "Ang unang grupo ng mga mananampalataya na ibinunga ng mga apostol sa pamamagitan ng pagpapahayag at paghahain ng Kristo noong araw ng Pentecostes ay matatag na nagpatuloy sa apat na bagay: pagtuturo, pagsasalamuha, pagpipira-piraso ng tinapay, at pananalangin. Ang pagtuturo ay ang paghahayag ng Bagong Tipang ekonomiya ng Diyos tungkol kay Kristo at sa ekklesia; ang pagsasalamuha ay ang pakikibahagi at pakikipag-usap sa pagitan ng mga mananampalataya sa kanilang pakikibahagi at pakikipag-usap sa Diyos Ama at kay Kristo na Anak; ang pagpipira-piraso ng tinapay ay ang pag-alala sa Panginoon sa Kanyang pagsasakatuparan ng ganap na pagtutubos ng Diyos; at ang pananalangin ay ang pakikipagtulungan sa Panginoong nasa langit para sa pagsasakatuparan sa lupa ng Bagong Tipang ekonomiya ng Diyos. Ang naunang dalawa, ang pagtuturo at pagsasalamuha, na pinagdugtong ng “at” upang maging isang grupo, ay pagtuturo at pagsasalamuha ng mga apostol, subali’t ang pagpipira-piraso ng tinapay at mga pananalangin ay hindi. Ipinakikita na bukod sa pagtuturo at pagsasalamuha ng mga apostol, ang mga mananampalataya kay Kristo ay nararapat na walang anumang ibang pagtuturo at pagsasalamuha. Sa Bagong Tipang ekonomiya ng Diyos ay may isa lamang uri ng pagtuturo na inihayag at kinilala ng Diyos, ang pagtuturo ng mga apostol, at isang uri lamang ng pagsasalamuha na bagay ng Diyos at katanggap-tanggap sa Kanya, ang pagsasalamuha ng mga apostol, na sumasa Ama at sumasa Anak na si Hesu-Kristo (I Juan 1:3 at tala 3) at siyang namumukod-tanging pagsasalamuha ng namumukod-tanging ekklesia, ang Katawan ni Kristo. Ang huling dalawa, ang pagpipira-piraso ng tinapay at pananalangin na pinagdugtong din ng “at” upang maging ibang grupo, ay mga gawi ng buhay-Kristiyano ng mga mananampalataya, hindi tuwirang nakaugnay sa ekonomiya ng Diyos para sa pananatili ng pagkakaisa ng ekklesia, ang Katawan ni Kristo. Kaya nga, ang pagpipira-piraso ng tinapay at pananalangin ay hindi sa mga apostol. Ang mga apostol ang nagdala ng Bagong Tipang pahayag ng Diyos at ng Kanyang pagsasalamuha sa lahat ng mga mananampalataya kay Kristo."
+        },
+        {
+            "id": "43-1",
+            "text": "Ang naging laman, napako sa krus, nabuhay na muli, at umakyat sa langit na Kristo ay ang sentrong patotoo ng Diyos subalit ang mga kababalaghan at mga tanda ay hindi bahagi ng sentrong patotoo ng Diyos, ni hindi rin sila bahagi ng Kanyang ganap na pagliligtas; ang mga ito ay mga katibayan lamang na ang anumang ipinahayag at inihain ng mga apostol at ang kanilang pagkilos ay pawang sa Diyos, at hindi sa tao (Heb. 2:3-4)."
+        },
+        {
+            "id": "44-1",
+            "text": "At gayundin sa 4:32. Ito ay hindi tanda ng pag-ibig, kundi ng malakas na kaligtasan na nagligtas sa mga mananampalataya mula sa pagkaganid at pagkamakasarili. Ito ay isinagawa lamang sa isang maigsing panahon sa pagpapasimula ng Bagong Tipang ekonomiya ng Diyos; ito ay hindi nagpatuloy nang matagalan bilang isang pagsasanay ng legalidad (tingnan ang tala 4-1 sa kap. 5) sa buhay-ekklesia sa kapanahunan ng ministeryo ni Pablo, tulad ng pagpapatunay ng kanyang mga salita sa 2 Corinto 9 at iba pang mga dako."
+        },
+        {
+            "id": "45-1",
+            "text": "Isa ring katibayan ng malakas na pagliligtas ng Panginoon, na naging sanhi upang madaig ng mga mananampalataya ang kanilang mga panlupang ari-arian, na nag-ookupa, umaangkin, at kumakamkam sa lahat ng natisod na sangkatauhan (Mat. 19:21-24; Luc. 12:13-19, 33-34; 14:33; 16:13-14; I Tim. 6:17)."
+        },
+        {
+            "id": "46-1",
+            "text": "Sa pagpapasimula ng Bagong Tipang ekonomiya ng Diyos, hindi malinaw sa mga naunang mananampalataya at maging sa unang grupo ng mga apostol na itinakwil na ng Diyos ang Hudaismo kasama ang mga gawi nito at mga kagamitan kasama na ang templo (Mat. 23:38 – “inyong bahay,” tumutukoy sa itinakwil ng Diyos na templo). Kaya nga, sila ay nagpunta pa rin, ayon sa kanilang tradisyon at kinagawian, sa templo para sa kanilang Bagong Tipang pagpupulong."
+        },
+        {
+            "id": "46-2",
+            "text": "Inalala ng mga naunang mananampalataya ang Panginoon sa pamamagitan ng pagpipira-piraso ng tinapay araw-araw sa kanilang mga bahay, ipinakikita ang kanilang pag-ibig at sigasig sa Panginoon."
+        },
+        {
+            "id": "46-3",
+            "text": "O, sa bahay, kasalungat ng sa templo. Ang pagpupulong sa bahay ay ang Kristiyanong paraan ng pagpupulong na tugma sa Bagong Tipang ekonomiya ng Diyos, naiiba sa maka-Hudyong paraan ng pagpupulong sa mga sinagoga (6:9). Ito ay naging isang nagpapatuloy at pangkalahatang gawi sa mga ekklesia (cf. Roma 16:5; 1 Cor. 16:19; Col. 4:15; Filem. 2)."
+        },
+        {
+            "id": "46-4",
+            "text": "O, pagiging-isa, inilalarawan ang pusong simple, iisa, at payak, may isang pag-ibig at hangarin at isang gol sa paghahanap sa Panginoon."
+        },
+        {
+            "id": "47-1",
+            "text": "Namumuhay ng isang buhay na naghahayag ng katangian ng Diyos sa pantaong kagalingan, katulad ng ginawa ni Hesus, ang Taong-Tagapagligtas (Luc. 2:52)."
+        },
+        {
+            "id": "47-2",
+            "text": "Yaon ay, idinagdag nang sama-sama sa ekklesia, ipinakikita na mula sa pinakaumpisa ng kanilang buhay-Kristiyano ang mga naunang mananampalataya ay nadala sa loob ng sama-samang buhay-ekklesia, hindi namumuhay nang kanya-kanya katulad ng mga Kristiyanong hiwa-hiwalay sa isa’t isa."
         }
     ]
 }

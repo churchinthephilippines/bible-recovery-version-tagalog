@@ -1,5 +1,5 @@
 {
-    "chapter": 11,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -15,11 +15,11 @@
             "footnotes": [
                 {
                     "word": "mananalangin,",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "Ama,",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -30,7 +30,7 @@
             "footnotes": [
                 {
                     "word": "kakanin",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -71,7 +71,7 @@
             "footnotes": [
                 {
                     "word": "Magsihingi",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -88,7 +88,7 @@
             "footnotes": [
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -105,11 +105,11 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "nagsisihingi",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -120,7 +120,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": [
@@ -133,7 +133,7 @@
             "footnotes": [
                 {
                     "word": "Beelzebub,",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -150,11 +150,11 @@
             "footnotes": [
                 {
                     "word": "Nguni’",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "iniisip,",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -177,7 +177,7 @@
             "footnotes": [
                 {
                     "word": "daliri",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -188,7 +188,7 @@
             "footnotes": [
                 {
                     "word": "bahay,",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -199,7 +199,7 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -210,7 +210,7 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -221,7 +221,7 @@
             "footnotes": [
                 {
                     "word": "Kapag",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -256,7 +256,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -285,19 +285,19 @@
             "footnotes": [
                 {
                     "word": "ilawan",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "dakong",
-                    "note": ""
+                    "id": "33-2"
                 },
                 {
                     "word": "modios",
-                    "note": ""
+                    "id": "33-3"
                 },
                 {
                     "word": "patungan",
-                    "note": ""
+                    "id": "33-4"
                 }
             ],
             "outlines": [
@@ -310,11 +310,11 @@
             "footnotes": [
                 {
                     "word": "tapat-",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "masama,",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
@@ -325,7 +325,7 @@
             "footnotes": [
                 {
                     "word": "ilaw",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -342,7 +342,7 @@
             "footnotes": [
                 {
                     "word": "kumain",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": [
@@ -356,7 +356,7 @@
             "footnotes": [
                 {
                     "word": "naghugas",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -379,7 +379,7 @@
             "footnotes": [
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -390,11 +390,11 @@
             "footnotes": [
                 {
                     "word": "paghatol",
-                    "note": ""
+                    "id": "42-1"
                 },
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "42-2"
                 }
             ],
             "outlines": null
@@ -417,7 +417,7 @@
             "footnotes": [
                 {
                     "word": "pinupulaan",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": null
@@ -428,7 +428,7 @@
             "footnotes": [
                 {
                     "word": "hinihipo",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
@@ -439,7 +439,7 @@
             "footnotes": [
                 {
                     "word": "libingan",
-                    "note": ""
+                    "id": "47-1"
                 }
             ],
             "outlines": null
@@ -456,7 +456,7 @@
             "footnotes": [
                 {
                     "word": "karunungan",
-                    "note": ""
+                    "id": "49-1"
                 }
             ],
             "outlines": null
@@ -473,7 +473,7 @@
             "footnotes": [
                 {
                     "word": "santuario;",
-                    "note": ""
+                    "id": "51-1"
                 }
             ],
             "outlines": null
@@ -484,7 +484,7 @@
             "footnotes": [
                 {
                     "word": "sinasansala.",
-                    "note": ""
+                    "id": "52-1"
                 }
             ],
             "outlines": null
@@ -501,10 +501,164 @@
             "footnotes": [
                 {
                     "word": "makahuli",
-                    "note": ""
+                    "id": "54-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Para sa bb. 2-4, tingnan ang mga tala sa Mat. 6:9-13."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang ilang manuskrito ay binabasang, Aming Ama na nasa langit."
+        },
+        {
+            "id": "3-1",
+            "text": "Lit. tinapay."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag, datapuwa’t ilayo kami sa masama."
+        },
+        {
+            "id": "9-1",
+            "text": "Para sa bb. 9-13, tingnan ang mga tala sa Mat. 7:7-11."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang ilang manuskrito ay binabasang, na kung humihingi ang kanyang anak ng tinapay ay magbibigay sa kanya ng isang bato? O, kung humihingi ng isang isda ay magbibigay naman ng isang ahas?"
+        },
+        {
+            "id": "13-1",
+            "text": "Tingnan ang tala 11-2 sa Mat. 7."
+        },
+        {
+            "id": "13-2",
+            "text": "Bago ang Kanyang kamatayan, ang Panginoon ay nagsabi sa mga disipulo na humingi ng Espiritu Santo; pagkatapos ng Kanyang pagkabuhay na muli, sinabi Niya sa kanila na tanggapin ang Espiritu Santo (Juan 20:22). Hinggil sa mga utos sa mga Kasulatan kung saan ang mga kahilingan ay hindi pa naisakatuparan, dapat tayong humingi; hinggil sa mga utos kung saan ang mga kahilingan ay natupad na, dapat nating tanggapin."
+        },
+        {
+            "id": "14-1",
+            "text": "Para sa bb. 14-15, tingnan ang mga tala sa Mat. 9:32-34 at 12:22- 24."
+        },
+        {
+            "id": "15-1",
+            "text": "Tingnan ang tala 25-1 sa Mat. 10."
+        },
+        {
+            "id": "17-1",
+            "text": "Para sa bb. 17-23, tingnan ang mga tala sa Mat. 12:25-30 at Mar. 3:23-27."
+        },
+        {
+            "id": "17-2",
+            "text": "Na may kasamang lihim na pakana."
+        },
+        {
+            "id": "20-1",
+            "text": "Pamimigkas ng Hebreo. Ang daliri (b. 46) ay higit na maliit kaysa sa kamay at sa bisig. Ang pagpapalayas ng mga demonyo ay hindi na nangangailangan ng kamay ng Diyos (Juan 10:28-29) ni ng bisig ng Diyos (Isa. 53:1); ang daliri lamang ng Diyos ay makapangyarihan na upang palayasin ang mga demonyo. Gayunpaman ito ay ginawa sa pamamagitan ng pag-asa sa Espiritu ng Diyos (Mat. 12:28)."
+        },
+        {
+            "id": "21-1",
+            "text": "Lit. bakuran."
+        },
+        {
+            "id": "22-1",
+            "text": "Si Kristo, ang Anak ng Diyos, ay higit na malakas kaysa kay Satanas, ang malakas na lalake; samakatuwid, kaya Niyang supilin at pagtagumpayan si Satanas para sa atin."
+        },
+        {
+            "id": "23-1",
+            "text": "Tingnan ang tala 40-1 sa Marc. 9."
+        },
+        {
+            "id": "24-1",
+            "text": "Para sa bb. 24-26, tingnan ang mga tala sa Mat. 12:43-45."
+        },
+        {
+            "id": "29-1",
+            "text": "Para sa bb. 29-32, tingnan ang mga tala sa Mat. 12:38-42."
+        },
+        {
+            "id": "33-1",
+            "text": "Tingnan ang tala 21-1 sa Mar. 4."
+        },
+        {
+            "id": "33-2",
+            "text": "O, isang bodega sa ilalim ng lupa."
+        },
+        {
+            "id": "33-3",
+            "text": "Tingnan ang tala 15-1 sa Mat. 5."
+        },
+        {
+            "id": "33-4",
+            "text": "Tingnan ang tala 15-2 sa Mat. 5."
+        },
+        {
+            "id": "34-1",
+            "text": "Tingnan ang tala 22-1 sa Mat. 6."
+        },
+        {
+            "id": "34-2",
+            "text": "Tingnan ang tala 23-1 sa Mat. 6."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang ilaw sa loob natin, na nagsasanhi sa mata upang makapagbigay-liwanag (b. 34) ay ang ilaw sa loob ng ating puso na nararapat na mapanatiling dalisay para sa Diyos (Mat. 5:8). Tingnan ang tala 23-2 sa Mateo 6."
+        },
+        {
+            "id": "37-1",
+            "text": "Sa pangunahin ay tumutukoy sa unang pagkain na kinakain nang maaga sa umaga (gayundin sa b. 38)."
+        },
+        {
+            "id": "38-1",
+            "text": "Lit. binautismuhan (isang panseremonyang paghuhugas)."
+        },
+        {
+            "id": "41-1",
+            "text": "Ang “nasa loob” ay tumutukoy sa nilalaman ng saro at ng pinggan (b. 39), sumasagisag sa kung ano ang nasa puso ng mga Fariseo. Sila ay may pag- iimbot na nasa loob ng kanilang mga puso; kaya ang nasa loob nila ay punô ng pagnanakaw at kasamaan (b. 39). Sa gayong dahilan, iniutos ng Panginoon sa kanila na ibigay bilang limos ang anumang pinag-iimbutan sa kanilang mga puso upang ang lahat ng mga bagay ay magiging malinis sa kanila."
+        },
+        {
+            "id": "42-1",
+            "text": "Ang paghatol ay tumutukoy sa katarungan."
+        },
+        {
+            "id": "42-2",
+            "text": "Tingnan ang tala 23-2 sa Mat. 23."
+        },
+        {
+            "id": "45-1",
+            "text": "O, sinasaktan at sinusugatan."
+        },
+        {
+            "id": "46-1",
+            "text": "Isang katawagang ginagamit ng mga manunulat na medico na tumutukoy sa paghipo nang dahan-dahan sa nasugatan o nasaktang bahagi ng katawan."
+        },
+        {
+            "id": "47-1",
+            "text": "O, pananda sa libingan (gayundin sa b. 48)"
+        },
+        {
+            "id": "49-1",
+            "text": "Tumutukoy kay Kristo na siyang karunungan ng Diyos sa ekonomiya ng Diyos (1 Cor. 1:30). Ito ang “Ko” sa Mat. 23:34. Ang mga salita ng Panginoon sa Mat. 23:34-36 at sa Luc. 11:49-51, ay batay sa 2 Cron. 24:20-22, na bumabanggit sa pagpatay kay Zacarias, na sa pagbanggit nito ay higit pang ipinaliliwanag ang nauunang bersikulo, yaon ay, ang bersikulo 19 ng 2 Cronica 24. Ang mga salita ng Panginoon, kung gayon, ay tumutukoy sa mga isinugo ng Diyos sa Lumang Tipan at Bagong Tipan."
+        },
+        {
+            "id": "51-1",
+            "text": "Lit. bahay."
+        },
+        {
+            "id": "51-2",
+            "text": "Ang paghingi ng Diyos ng kabayaran sa kasalanan ay hindi lamang sa iisang tao kundi sa buong henerasyon."
+        },
+        {
+            "id": "52-1",
+            "text": "O, pinipigil, pinagbabawalan."
+        },
+        {
+            "id": "54-1",
+            "text": "Yaon ay, bitagin sa pangangaso (Mat. 22:15). Yamang ang pinaglalaanan nila ng bitag ay isang taong lubusang naghahayag ng Diyos, hinahantad nito na ang mga gumagawa ng pambibitag ay mga relihiyonista na nagtuturing sa kanilang sarili na mga maka-Diyos."
         }
     ]
 }

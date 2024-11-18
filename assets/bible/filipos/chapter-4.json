@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "kagalakan",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,7 +21,7 @@
             "footnotes": [
                 {
                     "word": "mag-",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -32,19 +32,19 @@
             "footnotes": [
                 {
                     "word": "kasama-",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "tulungan",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "nagsikap",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "aklat",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": null
@@ -55,7 +55,7 @@
             "footnotes": [
                 {
                     "word": "Mangagalak",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -66,15 +66,15 @@
             "footnotes": [
                 {
                     "word": "Makilala",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "kahinahunan.",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "malapit.",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": [
@@ -87,19 +87,19 @@
             "footnotes": [
                 {
                     "word": "mabalisa",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "panalangin",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-4"
                 }
             ],
             "outlines": null
@@ -110,15 +110,15 @@
             "footnotes": [
                 {
                     "word": "kapayapaan",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "mag-",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "puso",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -129,39 +129,39 @@
             "footnotes": [
                 {
                     "word": "totoo,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "kagalang-",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "matuwid,",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "dalisay,",
-                    "note": ""
+                    "id": "8-4"
                 },
                 {
                     "word": "kaibig-",
-                    "note": ""
+                    "id": "8-5"
                 },
                 {
                     "word": "mabuting",
-                    "note": ""
+                    "id": "8-6"
                 },
                 {
                     "word": "kagalingan",
-                    "note": ""
+                    "id": "8-7"
                 },
                 {
                     "word": "kapurihan,",
-                    "note": ""
+                    "id": "8-8"
                 },
                 {
                     "word": "isipin",
-                    "note": ""
+                    "id": "8-9"
                 }
             ],
             "outlines": null
@@ -172,19 +172,19 @@
             "footnotes": [
                 {
                     "word": "ring",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "natanggap",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "nakita",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "9-4"
                 }
             ],
             "outlines": null
@@ -195,7 +195,7 @@
             "footnotes": [
                 {
                     "word": "pinamulaklak",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": [
@@ -208,7 +208,7 @@
             "footnotes": [
                 {
                     "word": "masiyahan",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -219,31 +219,31 @@
             "footnotes": [
                 {
                     "word": "mapababa,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "managana;",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "natutuhan",
-                    "note": ""
+                    "id": "12-4"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-5"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-6"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-7"
                 }
             ],
             "outlines": null
@@ -254,11 +254,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "nagbibigay-",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -269,11 +269,11 @@
             "footnotes": [
                 {
                     "word": "nakiramay",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "kapighatian.",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -284,19 +284,19 @@
             "footnotes": [
                 {
                     "word": "nakibahagi",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "kuwenta",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "pagkakaloob",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "kayo",
-                    "note": ""
+                    "id": "15-4"
                 }
             ],
             "outlines": null
@@ -313,15 +313,15 @@
             "footnotes": [
                 {
                     "word": "kaloob,",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "bunga",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "kuwenta.",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
@@ -332,19 +332,19 @@
             "footnotes": [
                 {
                     "word": "nabusog,",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "samyong",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "haing",
-                    "note": ""
+                    "id": "18-4"
                 }
             ],
             "outlines": null
@@ -355,27 +355,27 @@
             "footnotes": [
                 {
                     "word": "pupunan",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "aking",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "ninyo",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "19-4"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "19-5"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "19-6"
                 }
             ],
             "outlines": null
@@ -386,19 +386,19 @@
             "footnotes": [
                 {
                     "word": "sumaating",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "magpakailanman.",
-                    "note": ""
+                    "id": "20-3"
                 },
                 {
                     "word": "Amen.",
-                    "note": ""
+                    "id": "20-4"
                 }
             ],
             "outlines": null
@@ -417,7 +417,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -428,14 +428,284 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "espiritu.",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang kagalakan ay nagmumula sa loob; ang putong ay nakikita sa labas. Ang mga mananampalataya ay ang panloob na kagalakan at ang panlabas na putong ng apostol."
+        },
+        {
+            "id": "2-1",
+            "text": "Ito ang nagpapakita na ang dalawang kapatid na babaeng ito ay hindi nagkakaisa; hindi sila magkatulad ng kaisipan. Kaya nga, ang aklat na ito ay nanghihikayat na magsikap nang sama-sama na nagkakaisa sa kaluluwa para sa ebanghelyo (1:27), maging magkaugpong sa kaluluwa na nag-iisip ng iisang bagay (2:2), at magkaroon ng magkatulad na kaisipan na maghabol kay Kristo."
+        },
+        {
+            "id": "3-1",
+            "text": "Tumutukoy sa dalawang bakang humihila ng isang pang-araro; ginamit bilang isang metapora. Ang magkasama-na-pamatok ay tumutukoy sa pagiging nailagay sa iisang pamatok kasama ng iba upang magpasan ng isang magkatulad na kabigatan."
+        },
+        {
+            "id": "3-2",
+            "text": "Tulungan sila na maging isa sa pamamagitan ng pag-iisip ng magkatulad na bagay sa loob ng Panginoon."
+        },
+        {
+            "id": "3-3",
+            "text": "Nagpagal na kasama, nagsikap na kasama, para sa, nakipagbunong kasama, bilang isang pangkat ng mga manlalaro."
+        },
+        {
+            "id": "3-4",
+            "text": "Isang makalangit na talâ ng mga natubos sa loob ni Kristo."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang kagalakan ay nagbibigay sa atin ng kalakasan upang magkaroon ng pagkakaisa na binanggit sa mga bersikulo 2 at 3. Ang magalak sa loob ng Panginoon ay ang lihim ng pagtatamo ng mga katangiang binanggit sa mga bersikulo 5-9."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang ipinagtagubilin ng apostol sa mga bersikulo 5-9 ay malamang na ang “praktikal na panlabas na kahayagan ng panloob na pagdaranas kay Kristo” na kanyang binanggit sa naunang tatlong kapitulo."
+        },
+        {
+            "id": "5-2",
+            "text": "Yaon ay, pagiging makatuwiran, maunawain, at pagiging may konsiderasyon sa pakikitungo sa iba, na hindi hinihiling nang mahigpit ang legal na karapatan. Ito ay laban sa “pakikipagtunggalian at gloryang walang-kabuluhan” (2:3) at “pagbubulong-bulong at pangangatuwiran” (2:14); kaya ang kahinahunan ay isang katangian na si Kristo Mismo ang ipinamumuhay ng mga mananampalataya."
+        },
+        {
+            "id": "5-3",
+            "text": "Malapit sa lugar at sa panahon. Sa lugar, ang Panginoon ay malapit sa atin, handang tumulong. Sa panahon, ang Panginoon ay malapit, darating sa madaling panahon."
+        },
+        {
+            "id": "6-1",
+            "text": "Mabagabag. Ang kabalisahan ay nagmumula kay Satanas, ito ang kabuuan ng pantaong pamumuhay, na gumugulo sa mga mananampalataya sa kanilang pamumuhay ng pamumuhay ni Kristo; ang kahinahunan ay nagmumula sa Diyos, ito ang kabuuan ng isang pamumuhay na ipinamumuhay si Kristo. Ang dalawang ito ay magkalaban."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang panalangin ay pangkalahatan kasama ang esensiya ng pagsamba at pakikipagsalamuha; ang daing ay natatangi para sa mga partikular na pangangailangan."
+        },
+        {
+            "id": "6-3",
+            "text": "Hindi “at pagpapasalamat” kundi “na may pagpapasalamat”. Ang ating panalangin at gayundin ang ating daing ay nararapat masamahan ng pagpapasalamat sa Panginoon."
+        },
+        {
+            "id": "6-4",
+            "text": "O, sa harapan, sa presensiya ng. Ang Griyegong pang-ukol ay pros , na isinasaling “kasama ng” sa Juan 1:1; “makakasama” sa Mar. 9:19; “kasama ng” sa 2 Cor. 5:8; sa I Cor. 16:6; “kasama” sa I Juan 1:2. Ito ay nagsasaad ng pagkilos patungo, sa aspekto ng isang buháy na pagkakaisa at pakikipag-ugnayan, nagpapahiwatig ng pakikipagsalamuha. Kaya nga, ang kahalagahan na ipaalam ang mga kahilingan “sa Diyos” dito ay nasa pakikipagsalamuha sa Diyos."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang resulta ng pakikipagsalamuha sa Diyos sa loob ng panalangin ay ang pagtatamasa sa kapayapaan ng Diyos. Ang kapayapaan ng Diyos sa katunayan, ay ang Diyos Mismo bilang kapayapaan (b. 9), na nailalin sa loob natin sa pamamagitan ng ating pakikipagsalamuha sa Kanya sa pamamagitan ng panalangin, bilang ang panlaban sa mga kaguluhan at ang gamot na pangontra sa kabalisahan (Juan 16:33)."
+        },
+        {
+            "id": "7-2",
+            "text": "O, magpapatrolya. Pinapatrolyahan ng Diyos ng kapayapaan ang ating mga puso at mga pag-iisip sa loob ni Kristo."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang puso ang pinagmumulan; ang pag-iisip ang kinalabasan."
+        },
+        {
+            "id": "8-1",
+            "text": "Nangangahulugang makatotohanan sa pang-etika, hindi tumutukoy sa mga bagay."
+        },
+        {
+            "id": "8-2",
+            "text": "Kapita-pitagan, karapat-dapat sa paggalang, maharlika, matimbang nagpapahiwatig ng ideya ng dignidad, na nagpupukaw at nag-aanyaya ng pagpipitagan ng iba."
+        },
+        {
+            "id": "8-3",
+            "text": "Tumutukoy sa pagiging “wasto” sa harap ng Diyos at ng tao."
+        },
+        {
+            "id": "8-4",
+            "text": "Dalisay at payak sa intensiyon at pagkilos, walang anumang halo."
+        },
+        {
+            "id": "8-5",
+            "text": "Kagiliw-giliw, kalugod-lugod, napapamahal."
+        },
+        {
+            "id": "8-6",
+            "text": "Yaon ay, may mabuting reputasyon, bantog, kaakit-akit, nakabibighani, mapagbiyaya, lit. tumutunog nang mahusay."
+        },
+        {
+            "id": "8-7",
+            "text": "Dakilang kagalingan, yaon ay, etikal na enerhiyang itinanghal sa masiglang pagkilos. Tingnan ang mga tala 3-12 at 5-4 sa 2 Pedro 1."
+        },
+        {
+            "id": "8-8",
+            "text": "Mga bagay na karapat-dapat sa papuri, bilang kasamahan ng kagalingan. Ang unang anim na aytem ay kinategorya bilang “anumang bagay na”; ang huling dalawa ay kinategorya bilang “kung may anumang”. Ito ay nagpapakita na ang huling dalawa ay isang pagbubuod ng anim na naunang aytem. Ang bawa’t aytem ng naunang anim ay may ilang kagalingan o dakilang kagalingan at pawang may bagay na karapat-dapat papurihan."
+        },
+        {
+            "id": "8-9",
+            "text": "Pag-isipan, pagbulay-bulayin, isaalang-alang."
+        },
+        {
+            "id": "9-1",
+            "text": "Hindi lamang dapat pag-isipan ng mga mananampalataya ang mga bagay na binaggit sa bersikulo 8; dapat din nilang isagawa ang mga bagay na kanilang natutuhan, natanggap, narinig, at nakita sa apostol."
+        },
+        {
+            "id": "9-2",
+            "text": "Hindi lamang natutuhan, bagkus natanggap din."
+        },
+        {
+            "id": "9-3",
+            "text": "Hindi lamang narinig bagkus nakita rin."
+        },
+        {
+            "id": "9-4",
+            "text": "Ang Diyos ng kapayapaan ang pinagmumulan ng lahat ng mga bagay na binanggit sa mga bersikulo 8 at 9. Sa pamamagitan ng pakikipagsalamuha sa Kanya at pagtaglay natin sa Kanya, ang lahat ng mga kagalingang ito ay maibubunga sa ating buhay."
+        },
+        {
+            "id": "10-1",
+            "text": "Sa Griyego ay nangangahulugang “nagkaroon ng bubot, mamulaklak”. Ang pagmamalasakit ng mga taga-Filipos sa apostol ay mula sa buhay dahil sa salitang “pinamulaklak”. Ang ganitong pagmamalasakit ay nahinto sa isang panahon, nguni’t sa panahon ng pagsulat ni Pablo ng aklat na ito, muling nabuhay ito katulad ng halaman na nagkabubot at namulaklak."
+        },
+        {
+            "id": "11-1",
+            "text": "Nangangahulugang sapat-sa-sarili, nasiyahan-sa-sarili. Ito ay isang estoikong salita, kabaligtaran ng Epicureong pagsasagawa na tinukoy sa 3:18-19."
+        },
+        {
+            "id": "12-1",
+            "text": "Magpakumbaba, nasa mga hamak na kalagayan."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang mabuhay sa kasaganaan."
+        },
+        {
+            "id": "12-3",
+            "text": "Kapag pinagsama ang “sa bawa’t bagay” at “sa lahat ng bagay,” ito na nga ang buong pangyayari sa loob ng pantaong buhay. Ganito ang pagkatuto ni Pablo sa lihim ng kanyang pagdaranas kay Kristo, na sa lahat ng bagay at lahat ng lugar ay kanyang dinaranas si Kristo."
+        },
+        {
+            "id": "12-4",
+            "text": "Lit. ako ay dinala sa simulang-hakbangin-ng-pagpapakilala-tungo-sa-pagtanggap. Ang metapora ay yaong tungkol sa isang tao na dinala sa simulang-hakbangin-ng-pagpapakilala-tungo-sa-pagtanggap tungo sa loob ng isang lihim na lipunan na may tagubilin sa mga panimulang prinsipyo nito. Pagkaraan ng pagsisisi at pagsampalataya ni Pablo sa Panginoon, siya ay nadala sa loob ni Kristo at sa Katawan ni Kristo, natuto kung paanong ituring si Kristo bilang buhay, ipamuhay si Kristo, ipadakila si Kristo, tanganan si Kristo at kanyang natutuhan ang lihim ng pamumuhay ng buhay-ekklesia. Ito ang mga pinagbabatayang prinsipyo."
+        },
+        {
+            "id": "12-5",
+            "text": "Sa kasiyahan."
+        },
+        {
+            "id": "12-6",
+            "text": "Magkaroon ng kasaganan, kasapatan, higit kaysa sapat."
+        },
+        {
+            "id": "12-7",
+            "text": "Kulangin, magipit."
+        },
+        {
+            "id": "13-1",
+            "text": "Si Pablo ay isang taong nasa loob ni Kristo (2 Cor. 12:2), at nagnais na masumpungan ng iba sa loob ni Kristo. Ngayon ay kanyang ipinahayag na magagawa niya ang lahat ng bagay sa loob Niya, sa Mismong Kristo na nagbibigay-kapangyarihan sa kanya. Ito ay isang nagpapaloob-ng-lahat at nagwawakas na salita hinggil sa kanyang karanasan kay Kristo. Ito ang ibang paraan ng pagsasalita na may katulad na kahulugan sa salita ng Panginoon hinggil sa ating organikong relasyon sa Kanya sa Juan 15:5, “Sapagkat kung kayo ay hiwalay sa Akin ay wala kayong magagawa.” Ang salita rito ni Pablo ay mula sa positibong aspekto."
+        },
+        {
+            "id": "13-2",
+            "text": "Ginagawang masigla at malakas ang tao sa panloob. Si Kristo ay nananahan sa natin (Col. 1:27). Tayo ay kanyang binibigyang-kapangyarihan, ginagawang masigla at malakas mula sa loob, hindi mula sa labas. Sa pamamagitan ng gayong panloob na pagbibigay-kapangyarihan, nagagawa ni Pablo ang lahat ng bagay sa loob ni Kristo."
+        },
+        {
+            "id": "14-1",
+            "text": "Ito ang pakikipagsalamuha tungo sa ikalalaganap ng ebanghelyo (1:5), sa pamamagitan ng kanilang pagtutustos ng mga materyal na bagay sa apostol (b. 18)."
+        },
+        {
+            "id": "14-2",
+            "text": "Tumutukoy sa pagkabilanggo ni Pablo (1:17)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang pakikibahaging ito (pakikipagtalastasan) ay ang pakikipagsalamuha tungo sa ikalalaganap ng ebanghelyong binanggit sa 1:5 at 4:14."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang pagtutustos ng mga materyal na bagay ng mga mananampalatayang taga-Filipos sa apostol ay nagbukas ng isang kuwenta sa apostol."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang pagtutustos at pagtanggap ng mga materyal na bagay upang matugunan ang pangangailangan ng apostol sa kanyang gawaing pang-ebanghelyo."
+        },
+        {
+            "id": "15-4",
+            "text": "Ang ekklesia sa Filipos ay isang namumukod-tanging halimbawa sa pagtutustos sa mga pangangailangan ng yaong isinugo para sa ikalalaganap ng ebanghelyo."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang mga materyal na bagay na ibinigay sa tagapaglingkod ng Panginoon para sa kapakanan ng Panginoon."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang resulta ng kanilang pakikipagsalamuha, pakikibahagi, sa gawaing pang-ebanghelyo ng apostol. Ito ay magiging isang gantimpala sa kaarawan ng Panginoon."
+        },
+        {
+            "id": "17-3",
+            "text": "Ang kuwentang binuksan sa b. 15. Dapat nating sundan ang mga taga-Filipos sa pagbubukas ng gayong kuwenta at panatilihin ang panig ng kredito nito na patuloy na dumarami sa bunga ng ating pagbibigay."
+        },
+        {
+            "id": "18-1",
+            "text": "Lubusang natustusan."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang mga materyal na bagay na ibinigay bilang isang panustos sa apostol."
+        },
+        {
+            "id": "18-3",
+            "text": "Sa Griyego ay katulad ng sa Efe. 5:2. Ito ay isang mabangong samyo ng mga haing inihandog sa Diyos (Gen. 8:21)."
+        },
+        {
+            "id": "18-4",
+            "text": "Ang materyal na kaloob ng mga taga-Filipos upang tustusan ang pangangailangan ng apostol, ay itinuring niyang isang hain sa Diyos, kaaya-aya at kalugud-lugod (Heb. 13:16). Sa kanyang pagpapahalaga ay ipinakikita ni Pablo na anuman ang ginawa sa kanya ng mga taga-Filipos ay ginawa sa Diyos. Ito ay nagpapahiwatig ng kanyang katiyakan na siya ay kaisa ng Diyos at ang kanyang gawain ay sa pamamagitan ng Diyos at para sa Diyos."
+        },
+        {
+            "id": "19-1",
+            "text": "Tustusan ng lubos, lubos na bibigyang-kasiyahan."
+        },
+        {
+            "id": "19-2",
+            "text": "Sa karanasan ng apostol, siya ay may matibay na paniniwala at katiyakan na ang Diyos ay kanyang Diyos sa pamamagitan ng kanyang pagiging kaisa ng Diyos. Yamang ang materyal na kaloob sa kanya ng mga taga-Filipos ay itinuring niyang isang hain sa Diyos, siya ay naniniwala nang may katiyakan na gagantihan ng Diyos, na kaisa niya at kanyang Diyos, ang mga taga-Filipos."
+        },
+        {
+            "id": "19-3",
+            "text": "Sapagka’t nagmamalasakit ang mga taga-Filipos sa yaong isinugo ng Diyos, pangangalagaan ng Diyos ang bawat pangangailangan nila."
+        },
+        {
+            "id": "19-4",
+            "text": "Ang Diyos ay nagtutustos sa ating mga pangangailangan ayon sa Kanyang kayamanan, hindi ayon sa ating mga pangangailangan. Hinihigitan ng Kanyang kayamanan ang ating mga pangangailangan."
+        },
+        {
+            "id": "19-5",
+            "text": "Ang “sa kaluwalhatian” ay nagbibigay-turing sa “pupunuan”. Ang kaluwalhatian ay ang kahayagan ng Diyos; ito ay ang Diyos na naihayag sa karilagan. Ang mayamang panustos ng Diyos sa mga mananampalataya, na Kanyang mga anak, ay naghahayag sa Diyos at nagtataglay ng kaluwalhatian ng Diyos. Tiniyak ng apostol sa mga taga-Filipos na masaganang tutustusan ng Diyos ang lahat ng kanilang mga pangangailangan upang sila ay madala sa loob ng Kanyang kaluwalhatian."
+        },
+        {
+            "id": "19-6",
+            "text": "Ang sa loob ni Kristo Hesus ay nagbibigay-turing din sa “pupunuan” (tingnan ang naunang tala). Si Kristo ang yaong nagpapaloob ng lahat, bilang ang batayan, ang elemento, ang kinasasaklawan, at ang daluyan na kung kanino at sa pamamagitan ninyo ay pinangangalagaan ng Diyos ang Kanyang mga tao ayon sa Kanyang kayamanan at sa kaluwalhatian. Ito ay nagpapakita na maging ang pagkatanggap ng mga mananampalataya ng mga materyal na bagay ay may matalik na kaugnayan sa kanilang karanasan kay Kristo."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang Diyos ay hindi lamang ang Diyos ng apostol bagkus Diyos din ng mga mananampalataya."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang kaluwalhatian ay ang Diyos na nahayag sa Kanyang karilagan at dakilang kagalingan upang ating pahalagahan. Ang “nawa sumaating Diyos ang kaluwalhatian” ay nangangahulugang nawa ang Diyos ay mahayag at mapuri sa ganitong paraan. Para sa kapakinabangan ng Diyos, sa loob ni Kristo, tayo ay naghandog sa Diyos, sa gayon, hindi lamang tayo nagkakaroon ng pagtatamasa bagkus nagbibigay din ang Diyos ng kaluwalhatian."
+        },
+        {
+            "id": "20-3",
+            "text": "Lit. hanggang sa mga kapanahunan ng mga kapanahunan."
+        },
+        {
+            "id": "20-4",
+            "text": "Tingnan ang tala 13-5 sa Mat. 6."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang mga kasambahay ni Cesar ay kinabibilangan ng lahat ng may kaugnayan sa palasyo ni Nero. Ilan sa mga ito ay naging mga mananampalataya sa pamamagitan ng pakikipag-ugnay kay Pablo at naging mga mananampalataya kay Kristo sa Roma."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang Diyos na nasa loob ni Kristo bilang ating pagtatamasa at panustos na inihatid sa atin at ating natanto sa pamamagitan ng masaganang panustos ng Espiritu ni Hesu-Kristo (1:19). Kailangan natin ang biyayang ito upang maranasan si Kristo katulad ng pagdaranas ni Pablo."
+        },
+        {
+            "id": "23-2",
+            "text": "Tumutukoy sa ating naisilang na muling espiritu na pinananahanan ng Espiritu ni Kristo. Sa espiritung ito natin natatamasa at nararanasan si Kristo katulad ng pagtatamasa at pagdaranas ni Pablo. Sa umpisa pa lamang ng kapitulo isa ay ipinakita na sa atin ng aklat na ito, na tumatalakay sa ating pagdaranas kay Kristo, na ang masaganang panustos ng Espiritu ni Hesu-Kristo ang nakapangyayari sa atin na ipamuhay si Kristo, at maging sa anumang sitwasyon ay maipadakila Siyan ang sa gayon ay abutin natin ang sukdulang kaligtasan; pagkatapos, binanggit dito na ito ay dapat na nasa loob ng naisilang na muling espiritu na pinananahanan at sinisidlan ng Tres-unong Diyos. Kaya, ito ay isang kasaysayan ng pag-uugpong at paghahalo ng dumaan-sa-iba’t-ibang-hakbanging Tres-unong Diyos na naging Espiritung nagbibigay-buhay at ng Espiritu nating mga tao na may tatlong bahagi na sa kasalukuyan ay tinatransporma ng Espiritung ito upang maging Kanyang kapuspusan at kahayagan at magamit Siya bilang ang sapat na biyayang di-masaid. Upang maranasan at matamasa ang Tres-unong Diyos na dumaan sa pagiging laman, pagkapako-sa-krus, pagkabuhay na muli at pag-akyat sa langit, kinakailangan nating manatili sa ating kagila-gilalas na espiritung ito, kumilos at mamuhay sa pamamagitan ng kagila-gilalas na Espiritu ng Tres-unong Diyos."
         }
     ]
 }

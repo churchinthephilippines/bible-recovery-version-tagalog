@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "nananampalataya",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": []
@@ -18,11 +18,11 @@
             "footnotes": [
                 {
                     "word": "iniibig",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "ginagawa",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -33,15 +33,15 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "tinutupad",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "mabibigat,",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -52,23 +52,23 @@
             "footnotes": [
                 {
                     "word": "bawa’t",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "ipinanganak",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "dumaraig",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "sanlibutan;",
-                    "note": ""
+                    "id": "4-4"
                 },
                 {
                     "word": "pananampalataya.",
-                    "note": ""
+                    "id": "4-5"
                 }
             ],
             "outlines": [
@@ -84,7 +84,7 @@
             "footnotes": [
                 {
                     "word": "nananampalatayang",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -95,31 +95,31 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "dugo",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "nagpapatotoo,",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "katotohanan.",
-                    "note": ""
+                    "id": "6-5"
                 }
             ],
             "outlines": null
@@ -136,7 +136,7 @@
             "footnotes": [
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -147,7 +147,7 @@
             "footnotes": [
                 {
                     "word": "patotoo",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -158,7 +158,7 @@
             "footnotes": [
                 {
                     "word": "nananampalataya",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -169,7 +169,7 @@
             "footnotes": [
                 {
                     "word": "binigyan",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -180,7 +180,7 @@
             "footnotes": [
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -191,7 +191,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -202,15 +202,15 @@
             "footnotes": [
                 {
                     "word": "ito",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "lakas",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "humihingi",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": [
@@ -224,11 +224,11 @@
             "footnotes": [
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "hingin,",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -239,23 +239,23 @@
             "footnotes": [
                 {
                     "word": "ikamamatay,",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "mananalangin",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "bibigyan",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "buhay,",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "kasalanang",
-                    "note": ""
+                    "id": "16-5"
                 }
             ],
             "outlines": null
@@ -266,7 +266,7 @@
             "footnotes": [
                 {
                     "word": "kalikuan",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -277,23 +277,23 @@
             "footnotes": [
                 {
                     "word": "ipinanganak",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "siya",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "nag-",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "hinihipo",
-                    "note": ""
+                    "id": "18-4"
                 },
                 {
                     "word": "masamang",
-                    "note": ""
+                    "id": "18-5"
                 }
             ],
             "outlines": [
@@ -307,19 +307,19 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "buong",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "nakahilig",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "masamang",
-                    "note": ""
+                    "id": "19-4"
                 }
             ],
             "outlines": null
@@ -330,35 +330,35 @@
             "footnotes": [
                 {
                     "word": "naparito",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "pang-",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "makilala",
-                    "note": ""
+                    "id": "20-3"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "20-4"
                 },
                 {
                     "word": "tunay;",
-                    "note": ""
+                    "id": "20-5"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "20-6"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "20-7"
                 },
                 {
                     "word": "Ito",
-                    "note": ""
+                    "id": "20-8"
                 }
             ],
             "outlines": null
@@ -369,18 +369,236 @@
             "footnotes": [
                 {
                     "word": "Mumunting",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "mangag-",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "diyus-",
-                    "note": ""
+                    "id": "21-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang mga Gnostiko at mga Cerinto ay hindi naniniwala na si Hesus at si Kristo ay iisa (tingnan ang tala 22-1 sa kap. 2 at 3-1 sa kap. 4). Kaya, sila ay hindi mga anak ng Diyos, hindi ipinanganak ng Diyos. Subali’t ang sinumang nananampalataya na ang Taong si Hesus ay ang Kristo, na Diyos na naging laman (Juan 1:1, 14; 20:31), ay ipinanganak ng Diyos at naging isang anak ng Diyos (Juan 1:12-13). Ang isang gayong tao ay umiibig sa Diyos Ama na nag-anak sa kanya, at umiibig din sa kapatid na ipinanganak ng parehong Ama. Ito ay nagpapaliwanag, nagpapatunay, at nagpapatibay sa salita sa mga naunang bersikulo (4:20-21)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang pag-ibig sa Diyos at pagsasagawa ng Kanyang mga utos ay ang mga unang kahilingan sa ating pag-ibig sa mga anak ng Diyos. Ito ay batay sa dibinong kapanganakan at sa dibinong buhay."
+        },
+        {
+            "id": "2-2",
+            "text": "Tingnan ang tala 6-5 sa kapitulo 1."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 5-3 at 15-3 sa kapitulo 2."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang pagtupad sa mga utos ng Diyos ang bumubuo ng ating pag-ibig sa Kanya at isang katibayan na iniibig natin Siya."
+        },
+        {
+            "id": "3-3",
+            "text": "Sa dibinong buhay na may sarili nitong kakayahan, ang mga utos ng Diyos ay hindi mabibigat."
+        },
+        {
+            "id": "4-1",
+            "text": "Tumutukoy sa bawa’t tao na ipinanganak ng Diyos. Gayunpaman, ang ganitong pagsasalita ay higit na dapat tumukoy sa bahaging naisilang na muli ng dibinong buhay, yaon ay, ang espiritu ng taong naisilang-na-muli (Juan 3:6). Ang naisilang-na-muling espiritu ng naisilang-na-muling mananampalataya ay hindi nagkakasala (3:9) at dumaraig sa sanlibutan. Ang Kanyang dibinong kapanganakan na may dibinong buhay ay ang pangunahing sal ik ng gayong matagumpay na pamumuhay."
+        },
+        {
+            "id": "4-2",
+            "text": "Kapwa ang Ebanghelyo at Sulat ni Juan ay nagbibigay-diin sa dibinong kapanganakan (Juan 1:13; 3:3, 5; I Juan 2:29 at tala 7; 3:9; 4:7; 5:1, 4, 18), na kung saan ang dibinong buhay ay ipinamamahagi tungo sa loob ng mga mananampalataya ni Kristo (Juan 3:15-16, 36; I Juan 5:11-12). Ang dibinong kapanganakang ito na nagdadala ng dibinong buhay ay ang pangunahing batayan ng lahat ng mga hiwaga hinggil sa dibinong buhay, katulad ng pagsasalamuha ng dibinong buhay (1:3-7), pagpapahid ng dibinong Trinidad (2:20-27), pananahan sa loob ng Panginoon (2:28-3:24), at dibinong pamumuhay na nagsasagawa ng dibinong katotohanan (1:6), dibinong kalooban (2:17), dibinong katuwiran (2:29; 3:7), at dibinong pag-ibig (3:11, 22-23; 5:1-3) upang maihayag ang dibinong Persona (4:12). Ang dibinong kapanganakan na may dibinong buhay ay ang pangunahin ding salik sa bahaging ito, mula sa b. 4 hanggang b. 21. Tinitiyak ng dibinong kapanganakan sa mga mananampalatayang isinilang ng Diyos na sila ay dapat magkaroon ng pagtitiwala sa kakayahan at kagalingan ng dibinong buhay."
+        },
+        {
+            "id": "4-3",
+            "text": "Yamang ang mga naisilang-na-muling mananampalataya ay may kakayahan ng dibinong buhay upang daigin ang sanlibutan, na siyang makapangyarihang makasatanas na sistema ng sanlibutan, ang mga utos ng Diyos ay hindi mabigat o mahirap pasanin para sa kanila (b. 3)."
+        },
+        {
+            "id": "4-4",
+            "text": "Tingnan ang tala 15-2 sa kapitulo 2."
+        },
+        {
+            "id": "4-5",
+            "text": "Tumutukoy sa pananampalataya na nagdadala sa atin tungo sa loob ng organikong pakikiisa sa Tres-unong Diyos at sa pagsampalataya na si Hesus ay ang Anak ng Diyos (b. 5) upang tayo ay maisilang ng Diyos at magtaglay ng Kanyang dibinong buhay, na nagbibigay-kakayahan sa atin na daigin ang sanlibutang binuo at kinamkam ni Satanas."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang gayong mananampalataya ay isa na naisilang ng Diyos at nakatanggap ng dibinong buhay (Juan 1:12-13; 3:16). Ang dibinong buhay ang nagpapalakas sa kanya na madaig ang masamang sanlibutang pinapakilos ni Satanas. Ang mga Gnostiko at mga Cerinto, na hindi ganitong uri ng mga mananampalataya, ay nanatiling mga kaawa-awang biktima ng masamang makasatanas na sistema."
+        },
+        {
+            "id": "6-1",
+            "text": "Siya, si Hesu-Kristo, ay dumating bilang Anak ng Diyos, upang tayo ay maisilang ng Diyos at magkaroon ng dibinong buhay (Juan 10:10; 20:31). Sa loob ng Kanyang Anak ibinibigay ng Diyos sa atin ang buhay na walang hanggan (bb. 11-13). Ang Nazarenong si Hesus ay pinatotohanang Anak ng Diyos sa pamamagitan ng tubig na Kanyang dinaanan nang Siya ay binautismuhan (Mat. 3:16-17; Juan 1:31), sa pamamagitan ng dugo na Kanyang ibinubo sa krus (Juan 19:31-35; Mat. 27:50-54), at sa pamamagitan din ng Espiritung ibinigay Niya nang walang sukat (Juan 1:32-34; 3:34). Sa pamamagitan ng tatlong ito, pinatotohanan ng Diyos na si Hesus ay ang Kanyang Anak na ibinigay sa atin (bb. 7-10), upang sa Kanya tayo ay makatanggap ng Kanyang walang hanggang buhay sa pagsampalataya sa Kanyang pangalan (bb. 11-13; Juan 3:16, 36; 20:31). Tinatapos ng tubig ng bautismo ang mga tao ng lumang paglikha sa pamamagitan ng paglilibing sa kanila; tinutubos ng dugong ibinubo sa krus ang mga pinili ng Diyos mula sa lumang paglikha; at pinasisibol ng Espiritu, na siyang katotohanan, at realidad ng buhay (Roma 8:2), ang mga tinubos ng Diyos mula sa lumang pagl ikha sa pamamagitan ng pagsisilang-na-muli sa kanila ng dibinong buhay. Sa gayon, sila ay isinilang ng Diyos at naging Kanyang mga anak (Juan 3:5, 15; 1:12-13) upang mamuhay ng isang buhay na nagsasagawa ng katotohanan (1:6), ng kalooban ng Diyos (2:17), ng katuwiran ng Diyos (2:29), at ng pag-ibig ng Diyos (3:10-11) para sa Kanyang kahayagan."
+        },
+        {
+            "id": "6-2",
+            "text": "Sa ilang manuskrito ay idinaragdag ang, at Espiritu."
+        },
+        {
+            "id": "6-3",
+            "text": "O, sa pamamagitan ng."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang Espiritu na siyang katotohanan, ang realidad (Juan 14:16-17; 15:26), ay nagpapatotoo na si Hesus ay ang Anak ng Diyos, na sa loob Niya ay may buhay na walang hanggan. Sa pamamagitan ng ganitong pagpapatotoo, ipinamamahagi Niya ang Anak ng Diyos tungo sa loob natin upang maging ating buhay (Col. 3:4)."
+        },
+        {
+            "id": "6-5",
+            "text": "Tumutukoy sa realidad ng lahat ng kung ano ang Anak ng Diyos na si Kristo (Juan 16:12-15). Tingnan ang tala 6-6 sa kapitulo 1."
+        },
+        {
+            "id": "8-1",
+            "text": "O, tungo sa isa, yaon ay, tungo sa iisang bagay, ang iisang punto o layunin sa kanilang patotoo."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang patotoo sa pamamagitan ng tubig, dugo, at Espiritu na si Hesus ang Anak ng Diyos ay ang patotoo ng Diyos, na higit na dakila kaysa sa patotoo ng mga tao."
+        },
+        {
+            "id": "10-1",
+            "text": "Nagpatotoo ang Diyos hinggil sa Kanyang Anak upang tayo ay manampalataya sa Kanyang Anak at magkaroon ng Kanyang dibinong buhay. Kung tayo ay nananampalataya sa Kanyang Anak, tayo ay nakatatanggap at nagkakaroon ng Kanyang patotoo sa ating mga sarili; kung hindi, tayo ay hindi naniniwala kung ano ang Kanyang ipinatotoo at ginagawa Siyang isang sinungaling."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang patotoo ng Diyos ay hindi lamang na si Hesus ay ang Kanyang Anak, bagkus na binigyan din Niya tayo ng buhay na walang hanggan na nasa loob ng Kanyang Anak. Ang Kanyang Anak ay ang kaparaanan upang mabigyan Niya tayo ng buhay na walang hanggan, na siyang layunin Niya sa atin."
+        },
+        {
+            "id": "12-1",
+            "text": "Sapagka’t ang buhay ay nasa Anak (Juan 1:4) at ang Anak ay ang buhay (Juan 11:25; 14:6; Col. 3:4), ang Anak at ang buhay ay iisa, hindi mapaghihiwalay. Kaya kapag ang tao ay may Anak, siya ay may buhay; kung walang Anak, siya ay walang buhay."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang mga isinulat sa mga Kasulatan ay ang katiyakang maaaring panghawakan ng mga mananampalatayang nananampalataya sa pangalan ng Anak ng Diyos, na sila ay may buhay na walang hanggan. Yaong tinanggap natin ang buhay na walang hanggan sa pamamagitan ng pananampalataya ay isang katotohanan; ang mga salita ng Banal na Kasulatan ay ang katiyakan hinggil sa katotohanang ito; ang mga salitang ito ay ang katibayan ng ating walang hanggang kaligtasan. Nakatitiyak tayo at may garantiya ng mga ito na basta’t sumasampalataya tayo sa pangalan ng Anak ng Diyos, tayo ay may buhay na walang hanggan."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang bb. 4-13 ay nagpapakita sa atin kung paano tayo nakatanggap ng buhay na walang hanggan, katulad ng binanggit sa 1:1-2. Pagkatapos, sa bb. 14-17 sinasabi sa atin kung paano tayo nananalangin sa loob ng pagsasalamuha ng buhay na walang hanggan, katulad ng binanggit sa 1:3-7."
+        },
+        {
+            "id": "14-2",
+            "text": "Tumutukoy sa lakas ng loob na taglay nat in sa at ing panalangin sa loob ng pagsasalamuha sa Diyos. Tingnan ang tala 21-1 sa kapitulo 3."
+        },
+        {
+            "id": "14-3",
+            "text": "Batay sa katotohanan na tayo ay nakatanggap ng buhay na walang hanggan sa pamamagitan ng dibinong kapanganakan dahil sa pagsampalataya sa Anak ng Diyos, tayo ay makapananalangin, sa loob ng pagsasalamuha ng walang hanggang buhay, sa pamamagitan ng pakikipag-ugnayan sa Diyos, dahil sa isang budhing walang kasalanan at may lakas ng loob (Gawa 24:16), nang ayon sa Kanyang kalooban. Sa gayon natitiyak natin na dinirinig Niya tayo."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang pagkaalam na ito ay nababatay sa katotohanan na pagkatapos matanggap ang dibinong buhay, tayo ay nananahan sa Panginoon at kaisa Niya sa ating panalangin sa Diyos na ipinanalangin sa loob ng Kanyang pangalan (Juan 15:7, 16; 16:23-24)."
+        },
+        {
+            "id": "15-2",
+            "text": "Hindi sa ating mga sarili ayon sa ating kaisipan, kundi sa Panginoon ayon sa kalooban ng Diyos."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit. tungo sa ikamamatay."
+        },
+        {
+            "id": "16-2",
+            "text": "Ito ay maaaring tumukoy sa pananalanging ginawa nang tayo ay nananahan sa loob ng Diyos at nakikipagsalamuha sa Diyos."
+        },
+        {
+            "id": "16-3",
+            "text": "Ang “siya” pa rin ang simuno, ang simuno ng unang panaguring “mananalangin”, nangangahulugan na ang taong nananalangin ay magbibigay ng buhay sa isa na kanyang ipinanalangin. Ito ay hindi nangangahulugan na ang taong nananalangin ay may buhay sa kanyang sarili at sa pamamagitan ng kanyang sarili ay makapagbibigay ng buhay sa iba. Kundi ito ay nangangahulugan na ang taong nananalangin, na nananahan sa loob ng Panginoon, na kai sa ng Panginoon, at nananalanging kaisang espiritu ng Panginoon (I Cor. 6:17), ay nagiging ang kaparaanan upang ang Espiritung nagbibigay-buhay ng Diyos ay makapagbigay-buhay sa mga taong ipinananalangin niya. Ito ay isang bagay ng pamamahagi ng buhay sa loob ng pagsasalamuha ng dibinong buhay. Upang maging isa na nakapagbibigay-buhay sa iba, kinakailangan nating manahan sa loob ng dibinong buhay, at lumakad, mabuhay, at panatilihin ang ating katauhan sa loob ng dibinong buhay. Ang panalangin sa Sant. 5:14-16 ay para sa pagpapagaling; dito ang panalangin ay para sa pamamahagi ng buhay."
+        },
+        {
+            "id": "16-4",
+            "text": "Walang alinlangang ito ay tumutukoy sa espirituwal na buhay na ipinamahagi sa taong ipinanalangin sa pamamagitan ng panalangin ng taong nananalangin. Gayunpaman, ayon sa ibig sabihin ng nilalaman, ililigtas din ng espirituwal na buhay ang pisikal na katawan ng taong ipinanalangin mula sa panganib ng kamatayan dahil sa kanyang pagkakasala (cf. Sant. 5:15)."
+        },
+        {
+            "id": "16-5",
+            "text": "Hinggil sa “kasalanang ikamamatay,” maraming iba’t ibang paliwanag ang mga guro sa Bibliya. Ang ilan ay nagsasabi na ito ay tumutukoy sa kasalanan ng mga antikristo sa pagtatatwa na si Hesus ay ang Kristo (2:22), na nagpapanati li sa kani la sa kamatayan magpakailanman. Subali’t, ayon sa ibig sabihin ng nilalaman ng bersikulong ito, ang kasalanang ikamamatay ay nauugnay sa isang nagkasalang kapatid, at hindi sa isang antikristo o sinumang di-mananampalataya. Yamang ang bahaging ito, ang bb. 14-17, ay nauugnay sa panalangin sa loob ng pagsasalamuha ng buhay na walang hanggan na tinalakay sa 1:3 – 2:11, anuman ang tinutuos nito ay maaaring nauugnay sa bagay ng pagsasalamuha ng dibinong buhay. Sa loob ng pagsasalamuha ng dibinong buhay ay may isang pampamahalaang pagtutuos ng Diyos ayon sa espirituwal na kalagayan ng bawa’t isa sa Kanyang mga anak. Sa pampamahalaang pagtutuos ng Diyos, ilan sa Kanyang mga anak ay maaaring humantong sa pisikal na kamatayan sa kapanahunang ito dahil sa natatanging kasalanan, at ang iba ay maaaring humantong din sa pisikal na kamatayan dahil sa ibang mga kasalanan. Ang ganitong situwasyon ay katulad ng kay Ananias at kay Safira na kanyang asawa, na tinuos sa pamamagitan ng pisikal na kamatayan dahil sa kanilang pagsisinungaling sa Espiritu Santo (Gawa 5:1-11), at sa mga mananampalatayang taga-Corinto, na tinuos din ng parehong kahatulan dahil sa kanilang hindi pagkilala sa Katawan (I Cor. 11:29-30). Ito ay sinagisag ng pagtutuos ng Diyos sa mga anak ni Israel sa ilang (I Cor. 10:5-11). Silang lahat, maliban kina Caleb at Josue, ay hinatulan ng Diyos ng pisikal na kamatayan dahil sa kanilang mga kasalanan. Ang pampamahalaang pagtutuos ng Diyos ay mabagsik. Sina Miriam, Aaron, at maging si Moises ay hindi naligtas sa ganitong uri ng pagtutuos dahil sa ilang natatanging kabiguan nila (Blg. 12:1-15; 20:1, 12, 22-29; Deut. 1:37; 4:26-27; 32:48-52). Ang parusa ng pampamahalaang pagtutuos ng Diyos sa Kanyang mga anak ay lubusang hindi nauugnay sa walang hanggang kapahamakan; ito ay isang pampanahunang pagtutuos ayon sa dibinong pamahalaan, na nauugnay sa ating pagsasalamuha sa Diyos at sa isa’t isa. Kung ang kasalanan ay hahantong sa kamatayan o hindi ay nababatay sa paghatol ng Diyos ayon sa kalagayan ng bawa’t isa at kondisyon sa loob ng sambahayan ng Diyos. Sa anumang pangyayari, isang maselang bagay para sa mga anak ng Diyos ang magkasala. Ito ay maaaring mahatulan ng Diyos ng pisikal na kamatayan sa kapanahunang ito! Hinggil sa gayong kasalanan, hindi sinasabi ng apostol na tayo ay dapat na manalangin."
+        },
+        {
+            "id": "17-1",
+            "text": "Bawa’t maling gawa, na hindi matuwid o makatuwiran, ay kasalanan (cf. 3:4 at tala 2)."
+        },
+        {
+            "id": "18-1",
+            "text": "Upang maiwasan ang pagkakasala na hindi lamang pumapatid sa pagsasalamuha sa dibinong buhay (1:6-10), kundi maaari pa ring magdala ng pisikal na kamatayan (bb. 16-17), binibigyang-diin muli rito ng mga apostol, na may katiyakan ng kakayahan ng dibinong buhay, ang ating dibinong kapanganakan, na siyang batayan ng matagumpay na buhay. Ang pangunahing katotohanang ito ay hindi nagpapahintulot sa atin na mga isinilang-na-muli na gumawa ng kasalanan (3:9 at tala 2), yaon ay, ang mabuhay sa kasalanan (Roma 6:2). Tingnan ang tala 29-6 sa kapitulo 2."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang ilang guro ay nagsasabi na ang “siya” rito ay tumutukoy kay Kristo, na ipinanganak ng Diyos at nag-iingat sa mga taong isinilang-namuli batay sa Juan 17:15. Subali’t ang ikalawang pariralang “ipinanganak ng Diyos” sa bersikulong ito, yamang isang pag-uulit doon sa naunang pariralang “ipinanganak ng Diyos,” ay dapat na maging ang lohikal at nagpapasiyang batayan na ang “siya” ay tumutukoy pa rin sa naisilang-na-muling mananampalataya. Iniingatan ng isang naisilang-na-muling mananampalataya (lalo na ng kanyang isinilang-namuling espiritu na isinilang ng Espiritu ng Diyos, Juan 3:6), ang kanyang sarili na hindi mamuhay sa pagkakasala, at hindi siya hinihipo (lalo na ang kanyang naisilang-na-muling espiritu) ng masamang isa. Ang Kanyang dibinong kapanganakan na may dibinong buhay sa kanyang espiritu ay ang pangunahing salik ng gayong pag-iingat (tingnan ang tala 4-1 )."
+        },
+        {
+            "id": "18-3",
+            "text": "Yaon ay, ang magbantay nang may maingat na pangangalaga."
+        },
+        {
+            "id": "18-4",
+            "text": "Yaon ay, sinusunggaban, pinanghahawakan, upang saktan at tupdin ang masasamang layunin."
+        },
+        {
+            "id": "18-5",
+            "text": "Tingnan ang tala 19-4 ."
+        },
+        {
+            "id": "19-1",
+            "text": "Lit. mula sa, galing sa. Yamang tayo ay naipanganak ng Diyos, tayo ay mula sa Kanya, nagmula sa Kanya, nagtataglay ng Kanyang buhay at nakikibahagi sa Kanyang kalikasan. Sa pamamagitan nito, tayo ay inihiwalay tungo sa Diyos mula sa loob ng makasatanas na sanlibutan, na nakahilig sa masamang isa."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang buong sanlibutan ay binubuo ng makamundong sistema ni Satanas (2:15 at tala 2), at ng sanlibutan na siyang nat isod na sangkatauhan."
+        },
+        {
+            "id": "19-3",
+            "text": "Yaon ay, nananatiling walang tutol sa sakop ng impluwensiya ng masamang isa sa ilalim ng kanyang pangangamkam at paghawak. Habang ang mga mananampalataya ay nabubuhay at kumikilos nang masigla sa pamamagitan ng buhay ng Diyos, ang buong sanlibutan (lalo na ang mga tao ng sanlibutan) ay nakahilig nang walang tutol sa ilalim ng mapangamkam at naghahawak na kamay ni Satanas, ang masamang isa."
+        },
+        {
+            "id": "19-4",
+            "text": "Gr. poneros (naiiba sa kakos , na tumutukoy sa isang walang halaga at masamang ugali sa pang-esensiya, at naiiba rin sa sapros , na nagpapahiwatig ng kawalang-halaga, at kasamaan, paghina mula sa orihinal na kagalingan), mapanira, nakahahawang kasamaan, nakaaapekto sa iba na maging masama at mapanira. Ang isang gayon ay si Satanas na Diyablo, na kung kanino nakahilig ang buong sanlibutan."
+        },
+        {
+            "id": "20-1",
+            "text": "Sa pamamagitan ng pagiging laman upang dalhin ang Diyos sa atin bilang biyaya at realidad (Juan 1:14) nang sa gayon ay magkaroon tayo ng dibinong buhay, katulad ng inihayag sa Ebanghelyo ni Juan, upang makabahagi sa Diyos bilang pag-ibig at liwanag, na katulad ng ipinakita sa Sulat na ito."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang pakultad o kakayahan ng ating kaisipang naliwanagan at napalakas ng Espiritu ng realidad (Juan 16:12-15) upang maunawaan ang dibinong realidad sa ating naisilang-namuling espiritu."
+        },
+        {
+            "id": "20-3",
+            "text": "Ito ang abilidad o kakayahan ng dibinong buhay upang makilala ang tunay na Diyos (Juan 17:3) sa ating naisilang-na-muling espiritu (Efe. 1:17) sa pamamagitan ng ating napabagong kaisipan, na nabigyang-liwanag sa pamamagitan ng Espiritu ng realidad."
+        },
+        {
+            "id": "20-4",
+            "text": "Ang tunay at totoong Diyos."
+        },
+        {
+            "id": "20-5",
+            "text": "Gr. alethinos , tunay, totoo (isang pang-uri na malapit ang kaugnayan sa aletheia, katotohanan, katunayan, realidad – Juan 1:14; 14:6, 17), salungat sa hindi totoo at huwad."
+        },
+        {
+            "id": "20-6",
+            "text": "Hindi lamang natin nakikilala ang tunay na Diyos; tayo rin ay nasa loob Niya. Hindi lamang natin Siya nakikilala; bagkus, higit pa, tayo ay may organikong pakikipag-isa sa Kanya. Tayo ay kaisa Niya nang organiko."
+        },
+        {
+            "id": "20-7",
+            "text": "Ang mapasa tunay na Diyos ay ang maging nasa Kanyang Anak na si Hesu-Kristo. Yamang si Hesu-Kristo bilang ang Anak ng Diyos ay ang mismong pagsasakatawan ng Diyos (Col. 2:9), ang mapasaloob Niya ay ang mapasaloob ng tunay na Diyos. Ipinakikita nito na si Hesu-Kristo, ang Anak ng Diyos, ay ang tunay na Diyos."
+        },
+        {
+            "id": "20-8",
+            "text": "Ang “ito” ay tumutukoy sa Diyos na dumating sa pamamagitan ng pagiging laman at nagbigay sa atin ng kakayahang makilala Siya bilang ang tunay na Diyos at maging organikong kaisa ng Kanyang Anak na si Hesu-Kristo. Sa atin, ang lahat ng ito ay ang Diyos na tunay at totoo at buhay na walang hanggan. Ang tunay at totoong Diyos na ito sa lahat ng kung ano tayo, tungo sa atin ay ang buhay na walang hanggan, upang makabahagi tayo sa Kanya bilang ang lahat ng bagay sa ating naisilang-na-muling katauhan."
+        },
+        {
+            "id": "21-1",
+            "text": "Tingnan ang tala 1-1 sa kapitulo 2."
+        },
+        {
+            "id": "21-2",
+            "text": "Yaon ay, ang ingatan ang inyong mga sarili laban sa mga pagsalakay mula sa labas, katulad ng mga pagdaluhong ng mga erehiya."
+        },
+        {
+            "id": "21-3",
+            "text": "Tumutukoy sa mga maka-erehiyang panghalili sa tunay na Diyos na dinala ng mga Gnostiko at mga Cerinto, na katulad ng inihayag sa Sulat na ito at sa Ebanghelyo ni Juan at tinukoy sa naunang bersikulo. Ang mga diyus-diyusan dito ay tumutukoy rin sa anumang bagay na humahalili sa tunay na Diyos. Tayo na mga tunay na anak ng tunay na Diyos ay dapat maging mapagbantay upang ingatan ang ating mga sarili mula sa mga maka-erehiyang panghalili at sa lahat ng mga walang kabuluhang panghalili sa ating tunay at totoong Diyos, na kung kanino tayo ay kaisa nang organiko at siyang buhay na walang hanggan sa atin. Ito ay ang salita ng pagbababala ng matandang apostol sa lahat ng kanyang mumunting anak bilang isang konklusiyon ng Sulat na ito. Ang sentro ng pahayag ng Sulat na ito ay ang dibinong pagsasalamuha sa dibinong buhay, ang pagsasalamuha sa pagitan ng mga anak ng Diyos at ng kanilang Amang Diyos, na hindi lamang ang pinagmumulan ng dibinong buhay, bagkus ng liwanag at pag-ibig din bilang pinagmumulan ng katamasahan ng dibinong buhay (1:1-7; 4:8, 16). Upang matamasa ang dibinong buhay, kinakailangan nating manatili sa pagsasalamuha nito ayon sa dibinong pagpapahid (2:12-28; 3:24), batay sa dibinong kapanganakan na may dibinong binhi para sa pag-unlad nito (2:29-3:10). Ang dibinong kapanganakang ito ay isinasakatuparan sa pamamagitan ng tatlong kaparaanan: ang tumatapos na tubig, ang nagtutubos na dugo, at ang nagpapasibol na Espiritu (bb. 1-13). Sa pamamagitan nito, tayo ay ipinanganak ng Diyos upang maging Kanyang mga anak, tinataglay ang Kanyang dibinong buhay at bumabahagi sa Kanyang dibinong kalikasan (2:29-3:1). Ang Diyos ngayon ay nananahan sa atin sa pamamagitan ng Kanyang Espiritu (3:24; 4:4, 13) at naging ating buhay at panustos ng buhay upang tayo ay lumago sa Kanyang dibinong elemento nang sa gayon tayo ay maging kawangis Niya sa panahon ng Kanyang pagpapakita (3:1-2). Ang manahan sa dibinong pagsasalamuha ng dibinong buhay, yaon ay, ang manahan sa Panginoon (2:6; 3:6), ay ang tamasahin ang lahat ng Kanyang dibinong kayamanan. Sa pamamagitan ng ganitong pananahan, tayo ay lumalakad sa dibinong liwanag (1:5-7) at isinasagawa ang katotohanan, katuwiran, pag-ibig, kalooban ng Diyos, at ang Kanyang mga utos (1:6; 2:29, 5; 3:10-11; 2:17; 5:2) sa pamamagitan ng dibinong buhay na t inanggap sa pamamagitan ng dibinong kapanganakan (2:29; 4:7). Upang mapanatili ang pananahang ito sa dibinong pagsasalamuha, tatlong pangunahing negatibong bagay ang kailangang tuusin. Ang una ay kasalanan, na siyang paglabag at kalikuan (1:7-2:6; 3:4-10; 5:16-18); ang pangalawa ay ang sanlibutan, na binubuo ng pita ng laman, ng pita ng mga mata, at ng kapalaluan ng pangkasalukuyang buhay (2:15-17; 4:3-5; 5:4-5, 19); at ang panghuli ay ang mga diyus-diyusan, na mga maka-erehiyang panghalili sa tunay na Diyos at ang mga walang-kabuluhang panghalili sa tunay na Diyos (b. 21). Ang tatlong kategoriyang ito na lubhang masasamang bagay ay ang mga sandatang ginagamit ng masamang isa, ang Diyablo, upang hadlangan, saktan, at patayin hangga’t maaari, ang ating pananahan sa dibinong pagsasalamuha. Ang pangsanggalang laban sa kanyang masamang gawa ay ang ating dibinong kapanganakan na may dibinong buhay (b. 18), at, batay sa katotohanan na winasak na ng Anak ng Diyos ang mga gawa ng Diyablo (3:8) sa pamamagitan ng Kanyang kamatayan sa krus, dinaraig natin siya sa pamamagitan ng salita ng Diyos na nananahan sa atin (2:14). Sa bisa ng ating dibinong kapanganakan, dinaraig din natin ang kanyang masamang sanlibutan sa pamamagitan ng ating pananampalataya sa Anak ng Diyos (bb. 4-5). Higit pa rito, pinalalakas tayo ng ating dibinong kapanganakan na may dibinong binhi na inihasik sa ating kalooban upang hindi tayo mabuhay sa loob ng kasalanan sa paraang kinagawian na (3:9; 5:18), dahil sa inalis na ni Kristo ang mga kasalanan sa pamamagitan ng Kanyang kamatayan sa laman (3:5). Kung tayo ay magkasala nang paminsanminsan, mayroon tayong Tagapagtanggol bilang ang pampalubag-loob na handog upang asikasuhin ang ating kaso sa harapan ng Amang Diyos (2:1-2), at nililinis tayo ng Kanyang dugo na may walang hanggang bisa (1:7). Ang gayong pahayag ay ang pangunahin at makatotohanang elemento ng nagsusulsing ministeryo ng apostol."
         }
     ]
 }

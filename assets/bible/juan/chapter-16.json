@@ -1,5 +1,5 @@
 {
-    "chapter": 16,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -13,11 +13,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "pumatay",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -56,7 +56,7 @@
             "footnotes": [
                 {
                     "word": "paroroon,",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -67,19 +67,19 @@
             "footnotes": [
                 {
                     "word": "susumbatan",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "kasalanan,",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "katuwiran,",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "paghatol;",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": [
@@ -93,7 +93,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -127,11 +127,11 @@
             "footnotes": [
                 {
                     "word": "papatnubayan",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "ipahahayag",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -181,7 +181,7 @@
             "footnotes": [
                 {
                     "word": "magsisiiyak",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -192,11 +192,11 @@
             "footnotes": [
                 {
                     "word": "pagkapanganak",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "sanggol,",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -207,7 +207,7 @@
             "footnotes": [
                 {
                     "word": "makikita",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -224,7 +224,7 @@
             "footnotes": [
                 {
                     "word": "hinihinging",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -250,7 +250,7 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -273,7 +273,7 @@
             "footnotes": [
                 {
                     "word": "nagbuhat",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -290,7 +290,7 @@
             "footnotes": [
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -300,6 +300,68 @@
             "text": "Ang mga bagay na ito ay sinalita Ko sa inyo upang kayo ay magkaroon sa loob Ko ng kapayapaan.  Sa sanlibutan ay mayroon kayong kapighatian,  nguni’t lakasan ninyo ang inyong loob, Aking dinaig na ang sanlibutan.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Ang “sa katunayan” dito sa literal ay “nguni’t”."
+        },
+        {
+            "id": "2-2",
+            "text": "Sa Ebanghelyong ito, ang relihiyon ay nabunyag bilang kaaway ng buhay. Sa mga Ebanghelyo, ang Hudaismo ang sumalungat at umusig sa Panginoong Hesus. Sa Gawa, ipinagpatuloy ng Hudaismo ang pagsasalungat at pag-uusig laban sa mga apostol (Gawa 4:1-3; 5:17-18, 40; 6:11-14; 7:57-59; 26:9-12). Sa mga sinundang kasaysayan, ang Katolisismo ang umusig sa mga tagasunod ng Panginoon. Anumang uri ng organisadong relihiyon ay umuusig sa mga naghahanap sa Panginoon sa loob ng buhay. Itinuturing ng lahat ng mga relihiyon ang ganitong pag-uusig bilang isang uri ng paglilingkod sa Diyos."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang pagparoong ito ay maisasakatuparan sa sukdulan sa pag-akyat sa kalangitan sa 20:17."
+        },
+        {
+            "id": "8-1",
+            "text": "Ipinapaloob ng salitang pagsumbat ang kahulugang pagkumbinse, pagkondena, at pagsumbat ng tao sa kanyang sarili."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang kasalanan ay pumasok sa pamamagitan ni Adam (Roma 5:12), ang katuwiran ay ang nabuhay na muling Kristo (b. 10; I Cor. 1:30), at ang paghahatol ay para kay Satanas (b. 11), na siyang may-akda at pinagmulan ng kasalanan (8:44). Sa loob ni Adam tayo ay isinilang sa kasalanan. Upang mapalaya sa kasalanan, ang tanging paraan lamang ay ang manampalataya tayo tungo sa loob ni Kristo, ang Anak ng Diyos (b. 9). Kung tayo ay mananampalataya tungo sa loob ni Kristo, Siya ang katuwiran para sa atin at tayo ay aariing-matuwid sa loob Niya (Roma 3:24; 4:25). Kung hindi natin pagsisisihan ang kasalanan sa loob ni Adam at hindi tayo mananampalataya tungo sa loob ni Kristo na Anak ng Diyos, tayo ay mananatili sa kasalanan at makikibahagi sa kahatulan kay Satanas magpasawalang hanggan (Mat. 25:41). Ito ang mga pangunahing bagay sa ebanghelyo. Ginagamit ng Espiritu ang mga bagay na ito upang sumbatan ang sanlibutan upang malaman nito ang kasalanan."
+        },
+        {
+            "id": "9-1",
+            "text": "Lit. tungo sa loob Ko."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang kauna-unahang gawa ng Espiritu ay ang sumbatan ang sanlibutan, at pangalawa, bilang ang Espiritu ng realidad, ay ang patnubayan ang mga mananampalataya tungo sa loob ng lahat ng realidad. Ito ay ang gawing makatotohanan sa mga mananampalataya ang lahat ng kung ano ang Anak at kung ano ang mayroon Siya. Ang lahat ng kung ano ang Ama at kung ano ang mayroon Siya ay napasakatawan sa Anak (Col. 2:9) at ang lahat ng kung ano ang Anak at kung ano ang mayroon Siya ay inihayag bilang realidad sa mga mananampalataya sa pamamagitan ng Espiritu (bb. 14-15). Ito ay ang pagluluwalhati sa Anak na kasama ang Ama. Samakatuwid, ito ay isang bagay ukol sa Tres-unong Diyos na isinagawa tungo sa mga mananampalataya at inihalo sa mga mananampalataya. Ang ikatlo, ang Espiritu ang maghahayag ng mga bagay na darating, na pangunahing naihayag sa Apocalipsis (Apoc. 1:1, 19). Ang tatlong aspekto ng gawain ng Espiritu ay tumutugma sa tatlong bahagi ng mga sinulat ni Juan: ang Ebanghelyo, ang mga Sulat, at ang Apocalipsis."
+        },
+        {
+            "id": "20-1",
+            "text": "Lit. mananangis."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang “pagkapanganak” dito ay ang “pagkapanganak” na nasa Gawa 13:33. Ang naging laman na Kristo kasama ang lahat ng sumasampalataya sa Kanya ay naipanganak upang maging mga anak ng Diyos sa loob ng Kanyang pagkabuhay na muli (I Ped. 1:3); Siya ay naging Panganay na Anak ng Diyos. Ang lahat ng mga nananampalataya sa Kanya ay naging ang maraming anak ng Diyos upang maging Kanyang mga kapatid na lalake na magbubuo ng ekklesia (Roma 8:29; Juan 20:17 at tala 2; Heb. 2:10-12) upang maging Kanyang pagpaparami (12:24), pagdagdag (3:29-30) at Katawan na siyang Kanyang kapuspusan—kahayagan (Efe. 1:23)."
+        },
+        {
+            "id": "21-2",
+            "text": "Sa talinghagang ito ipinakita ng Panginoon na ang mga disipulo sa panahong yaon ay parang isang babaeng nahihirapan sa panganganak, at Siya ay ang sanggol na maisisilang sa Kanyang pagkabuhay na muli (Gawa 13:33; Heb. 1:5; Roma 1:4)."
+        },
+        {
+            "id": "22-1",
+            "text": "Pagkatapos maisilang sa pagkabuhay na muli, Siya ay pumarito upang makita ang mga disipulo kinagabihan ng araw ng Kanyang pagkabuhay na muli at ang mga disipulo ay nagalak sa Kanyang presensiya (20:20)."
+        },
+        {
+            "id": "24-1",
+            "text": "Tingnan ang tala 16-3 sa kap. 15; gayundin ang b. 26."
+        },
+        {
+            "id": "27-1",
+            "text": "Tingnan ang tala 14-5 sa kap. 1."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang salitang “nagbuhat” na ginamit ng mga disipulo rito ay hindi nagpapaloob ng kahulugang “kasama ng”. Ito ay naiiba sa salitang “nagbuhat” na ginamit ng Panginoon sa b. 27."
+        },
+        {
+            "id": "32-1",
+            "text": "Tingnan ang tala 16-1 sa kap. 8."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 20,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -58,7 +58,7 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -69,7 +69,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -98,7 +98,7 @@
             "footnotes": [
                 {
                     "word": "dapat",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -145,7 +145,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": [
@@ -158,7 +158,7 @@
             "footnotes": [
                 {
                     "word": "at",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -193,7 +193,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -204,7 +204,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": [
@@ -229,7 +229,7 @@
             "footnotes": [
                 {
                     "word": "pangalawa;",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -264,7 +264,7 @@
             "footnotes": [
                 {
                     "word": "kapanahunang",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -301,7 +301,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -312,7 +312,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -335,7 +335,7 @@
             "footnotes": [
                 {
                     "word": "",
-                    "note": ""
+                    "id": "44-1"
                 }
             ],
             "outlines": null
@@ -354,7 +354,7 @@
             "footnotes": [
                 {
                     "word": "Mangag-",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
@@ -365,14 +365,76 @@
             "footnotes": [
                 {
                     "word": "pagkukunwari",
-                    "note": ""
+                    "id": "47-1"
                 },
                 {
                     "word": "kahatulan.",
-                    "note": ""
+                    "id": "47-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 15-1 sa Marc. 11."
+        },
+        {
+            "id": "8-1",
+            "text": "Tingnan ang tala 27-2 sa Mat. 21."
+        },
+        {
+            "id": "9-1",
+            "text": "Para sa bb. 9-19, tingnan ang mga tala sa Mat. 21:33-46 at Marc. 12:1-12."
+        },
+        {
+            "id": "13-1",
+            "text": "Isang pagpapahayag ng may-katwirang pag-asa ng isang tao."
+        },
+        {
+            "id": "20-1",
+            "text": "Para sa bb. 20-26, tingnan ang mga tala sa Mat. 22:15-22."
+        },
+        {
+            "id": "21-1",
+            "text": "Lit. at walang tinitingnan at tinititigan."
+        },
+        {
+            "id": "27-1",
+            "text": "Para sa bb. 27-38, tingnan ang mga tala sa Mat. 22:23-32."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag, kinuha ang babae upang maging asawa, at ang isang ito ay namatay na walang anak."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang darating na kapanahunan ng kaharian (13:28-29; 22:18) at ang pagkabuhay-na-muli ng buhay (Juan 5:29; Luc. 14:14; Apoc. 20:4, 6) at kapwa mga pangwalang hanggang pagpapala at pagtatamasa sa buhay na walang-hanggan para sa mga mananampalatayang ibinibilang na karapat-dapat (18:29-30; Mat. 19:28-29)."
+        },
+        {
+            "id": "40-1",
+            "text": "Inihantad ng mga lihim-na-mapanirang katanungan ng mga mapaghanap-ng-kamalian na kalaban ang kanilang kasamaan, katusuhan, at kaimbihan, na sinalungat ng kasakdalan, karunungan, at pagka-maginoo ng Taong-Tagapagligtas. Lalong itinanghal nito ang Kanyang pantaong kasakdalan kasama ng Kanyang maka-Diyos na kaluwalhatian at binusalan sila nito sa kanilang may pagkamuhing bitag at sabwatan na sinulsulan ni Satanas (Tingnan ang tala 46-1 sa Mateo 22). Pinaghahanapan nila ng kamalian ang Taong-Tagapagligtas, subali’t, sa halip ay nasupil sila ng Taong-Tagapagligtas na ito na walang dungis at buo sa kasakdalan."
+        },
+        {
+            "id": "41-1",
+            "text": "Para sa bb. 41-44, tingnan ang mga tala sa Mat. 22:41-45."
+        },
+        {
+            "id": "44-1",
+            "text": "Tingnan ang tala 37-1 sa Marc. 12."
+        },
+        {
+            "id": "46-1",
+            "text": "Pagkatapos mabusalan ang mga bibig ng Kanyang mga kalaban, binalaan ng Tagapagligtas ang Kanyang mga disipulo tungkol sa mga pagkukunwari at kasamaan ng mga eskriba,tinutukoy na sila ay hinatulan ng yaong Isang pinagsikapan nilang mapaghanapan ng kamalian."
+        },
+        {
+            "id": "47-1",
+            "text": "Simula’t sapul ang panalangin ay nagagawang sangkalan upang makinabang sa tao."
+        },
+        {
+            "id": "47-2",
+            "text": "O, kondenasyon."
         }
     ]
 }

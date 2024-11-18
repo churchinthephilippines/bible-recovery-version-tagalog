@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -13,15 +13,15 @@
             "footnotes": [
                 {
                     "word": "Mangagtiyaga",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "pananalangin,",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "nangagbabantay",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": [
@@ -35,11 +35,11 @@
             "footnotes": [
                 {
                     "word": "pinto",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -56,7 +56,7 @@
             "footnotes": [
                 {
                     "word": "tinutubos",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -67,11 +67,11 @@
             "footnotes": [
                 {
                     "word": "biyaya,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "asin,",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -82,7 +82,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": [
@@ -120,15 +120,15 @@
             "footnotes": [
                 {
                     "word": "magsitatag",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "sakdal",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "kalooban",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -151,11 +151,11 @@
             "footnotes": [
                 {
                     "word": "ekklesiang",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "kanyang",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -179,6 +179,64 @@
             "outlines": [
                 "B. Ang Pagbati ng Apostol\n b. 18"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Magpatuloy nang walang humpay, nang matibay, at nang masikap."
+        },
+        {
+            "id": "2-2",
+            "text": "Iniingatan ng panalangin ang biyayang natanggap natin sa mga kapitulo 1 hanggang 3."
+        },
+        {
+            "id": "2-3",
+            "text": "Sa pananalangin, kinakailangan nating maging mapagbantay at alisto, hindi pabaya. Ang gayong pagbabantay ay nararapat samahan ng pasasalamat. Ang kakulangan ng pagpapasalamat ay nangangahulugang walang panalangin; ang isang buhay ng pananalangin ay napapanatili ng pagbabantay at pagpapasalamat."
+        },
+        {
+            "id": "3-1",
+            "text": "Kailangan nating panatilihing bukas ang ating mga sarili sa Salita ng Diyos."
+        },
+        {
+            "id": "3-2",
+            "text": "Lit. ng."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 16-1 sa Efeso 5."
+        },
+        {
+            "id": "6-1",
+            "text": "Tingnan ang tala 29-3 sa Efeso 4. Ang bawa’t salitang nagmumula sa ating bibig ay nararapat na nagpapahayag ng biyaya at dala si Kristo."
+        },
+        {
+            "id": "6-2",
+            "text": "Ginagawang angkop at kaaya-aya ng asin ang mga bagay sa panlasa. Ang pananalitang natimplahan ng asin ay nagpapanatili sa atin na may kapayapaan sa isa’t isa (Mar. 9:50)."
+        },
+        {
+            "id": "7-1",
+            "text": "Sa mga bersikulo 7-17, ang pagsasalamuha ng apostol ay nagbibigay sa atin ng isang larawan ng bagong tao na isinagawa noong panahon ng apostol bilang resulta ng kanyang gawain. Ito ay naghihikayat sa mga mananampalataya na magnasa kay Kristo, ang bumubuong elemento ng bagong tao, upang maging kanilang katamasahan. Sa pamamagitan ng ganitong pagsasalamuha sa gitna ng mga ekklesia, sa pagsasagawa ay mararanasan natin si Kristo bilang praktikal na pamumuhay ng bagong tao."
+        },
+        {
+            "id": "12-1",
+            "text": "May kahulugan ding “maiharap”; katulad ng nasa 1:28."
+        },
+        {
+            "id": "12-2",
+            "text": "O, kumpleto."
+        },
+        {
+            "id": "12-3",
+            "text": "Tingnan ang tala 9-1 sa kap. 1."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang ekklesia sa bahay ni Nimfas ay ang ekklesia lokal sa Laodicea na nagpupulong sa kanyang bahay. Ang ganitong pagpupulong sa bahay ng mga banal ay nagbibigay ng pagkakataon sa bawa’t isang dumadalo na makapagpangsyon, at nagpapatibay rin sa pagsasalamuha na may tugunan sa isa’t isa."
+        },
+        {
+            "id": "15-2",
+            "text": "*Sa Ingles ay his , ang panlalakeng panghalip paari.* Ang ilang manuskrito ay binabasang, kanilang, ang iba, kanya *o sa Ingles her , ang pambabaeng panghalip paari.*"
         }
     ]
 }

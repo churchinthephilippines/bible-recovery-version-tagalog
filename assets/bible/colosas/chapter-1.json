@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Si",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "kalooban",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -25,7 +25,7 @@
             "footnotes": [
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -36,7 +36,7 @@
             "footnotes": [
                 {
                     "word": "Ama",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": [
@@ -49,15 +49,15 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "kay",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "pag-ibig",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -68,15 +68,15 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "itinataan",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -87,11 +87,11 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "katotohanan;",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -102,7 +102,7 @@
             "footnotes": [
                 {
                     "word": "ministro",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -119,11 +119,11 @@
             "footnotes": [
                 {
                     "word": "kalooban,",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "espiritwal",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": [
@@ -139,19 +139,19 @@
             "footnotes": [
                 {
                     "word": "Upang",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "buong",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "kaalaman",
-                    "note": ""
+                    "id": "10-4"
                 }
             ],
             "outlines": null
@@ -162,11 +162,11 @@
             "footnotes": [
                 {
                     "word": "mabigyang-",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "kalakasan",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -177,15 +177,15 @@
             "footnotes": [
                 {
                     "word": "nagpaging-",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "bahagi",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "liwanag;",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -196,11 +196,11 @@
             "footnotes": [
                 {
                     "word": "kadiliman,",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -211,11 +211,11 @@
             "footnotes": [
                 {
                     "word": "katubusan,",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "kapatawaran",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -226,11 +226,11 @@
             "footnotes": [
                 {
                     "word": "larawan",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "Panganay",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": [
@@ -244,23 +244,23 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "trono",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "pagkapanginoon",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "ukol",
-                    "note": ""
+                    "id": "16-5"
                 }
             ],
             "outlines": null
@@ -271,11 +271,11 @@
             "footnotes": [
                 {
                     "word": "una",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "umiiral",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -286,11 +286,11 @@
             "footnotes": [
                 {
                     "word": "Panganay",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -301,11 +301,11 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "kapuspusan",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -316,15 +316,15 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "yamang",
-                    "note": ""
+                    "id": "20-4"
                 },
                 {
                     "word": "sangkalangitan.",
-                    "note": ""
+                    "id": "20-5"
                 }
             ],
             "outlines": null
@@ -335,11 +335,11 @@
             "footnotes": [
                 {
                     "word": "kaaway",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "kaisipan",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -350,11 +350,11 @@
             "footnotes": [
                 {
                     "word": "Niya",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "Niya,",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -365,11 +365,11 @@
             "footnotes": [
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -380,7 +380,7 @@
             "footnotes": [
                 {
                     "word": "pinupunan",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": [
@@ -393,19 +393,19 @@
             "footnotes": [
                 {
                     "word": "naging",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "tagapaghain",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "pagkakatiwala",
-                    "note": ""
+                    "id": "25-3"
                 },
                 {
                     "word": "kumpletuhin",
-                    "note": ""
+                    "id": "25-4"
                 }
             ],
             "outlines": null
@@ -416,11 +416,11 @@
             "footnotes": [
                 {
                     "word": "hiwaga",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -431,23 +431,23 @@
             "footnotes": [
                 {
                     "word": "kayamanan",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "Kristong",
-                    "note": ""
+                    "id": "27-3"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "27-4"
                 },
                 {
                     "word": "kaluwalhatian:",
-                    "note": ""
+                    "id": "27-5"
                 }
             ],
             "outlines": null
@@ -458,11 +458,11 @@
             "footnotes": [
                 {
                     "word": "lubos-",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": null
@@ -473,14 +473,284 @@
             "footnotes": [
                 {
                     "word": "nagpupunyagi",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "kapangyarihan",
-                    "note": ""
+                    "id": "29-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang pangyayari sa likuran ng pagkasulat ng aklat na ito ay ang pagkakaroon ng paghahalo ng kultura sa buhay-ekklesia sa Colosas. Tangi lamang si Kristo ang dapat maging elemento ng buhay-ekklesia, nguni’t noong panahong yaon ay may paghahalili ng kultura. Ang esensiya ng pagbubuo ng ekklesia ay nararapat na si Kristo lamang, subali’t ang ilang elemento ng kultura ay nakapasok sa loob ng ekklesia. Ang mga elemento ng kultura, lalung-lalo na ang relihiyon, ay ang mga reglamento at ritwal ng Hudaismo (2:16, 20-21) na may kaugnayan sa asetisismo, kabilang ang pilosopiya na may kaugnayan sa Gnostisismo, at pagsamba sa mga anghel (2:8, 18) na may kaugnayan sa mistisismo. Kaya ang sentrong kaisipan ng aklat na ito ay ang huwag hayaan ang anumang bagay na halinhan si Kristo. Tungkol kay Kristo bilang Ulo ng Katawan, at tungkol sa pahayag ng hiwaga ni Kristo na nagpapaloob ng lahat at walang hangganan, ang aklat na ito ay higit na kumpleto ang pagtatalakay kaysa sa ibang aklat ng Bibliya."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 1-2 sa Efeso 1."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang mga banal, ang mga yaong inihiwalay at pinabanal tungo sa Diyos. Sila ay nakatira sa Colosas, subali’t sila ay nakahiwalay sa sanlibutan."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 3-2 sa Efeso 1."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pananampalataya ay ang matanto at matanggap ang kung ano ang na kay Kristo, ang pag-ibig ay ang maranasan at matamasa ang natanggap natin kay Kristo, at ang pag-asa sa bersikulo 5 ay ang umasa at maghintay sa pagluluwalhati sa loob ni Kristo."
+        },
+        {
+            "id": "4-2",
+            "text": "Lit. sa loob ni."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang pag-asa, pananampalataya, at pag-ibig sa mga bersikulo 4 at 5 ay ang tatlong bagay na binigyang-diin ng apostol sa I Cor. 13:13. Ang diin doon ay tungkol sa pag-ibig dahil sa situwasyon ng mga taga-Corinto; ang diin dito ay tungkol sa pag-asa, na, sa istriktong pagsasalita, ay si Kristo Mismo (b. 27), upang ipahayag na si Kristo ay lahat-lahat sa atin."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang magtaan ng pag-asa sa mga kalangitan ay sa pamamagitan ng pamumuhay at pagdaranas kay Kristo. Higit na Kristo ang ating ipinamumuhay at dinaranas, higit na pag-asa ang ating itinataan sa mga kalangitan. Kaya nga, ang pag-asa ay unti-unting itinataan ngayon sa ating pang-araw-araw na buhay."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang katotohanan (truth) ng ebanghelyo rito ay tumutukoy sa realidad, sa mga tunay na katotohanan (fact) ng ebanghelyo, hindi sa doktrina ng ebanghelyo. “Ang salita” ay maaaring ituring na doktrina ng ebanghelyo, subali’t “ang katotohanan” ay tiyak na tumutukoy sa realidad. Ang nagpapaloob-ng-lahat na Persona ni Kristo at ang maraming panig ng gawain ng pagtutubos ni Kristo ay ang realidad ng ebanghelyo."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang biyaya ng Diyos ay ang kung ano ang Diyos sa atin at kung ano ang ibinibigay ng Diyos sa atin sa loob ni Kristo (Juan 1:17; I Cor. 15:10)."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang katotohanan dito ay nangangahulugang realidad. (Tingnan ang tala 6-6 sa I Juan 1, ikawalong aytem). Ang malaman ang biyaya ng Diyos sa katotohanan ay ang malaman ang realidad nito sa karanasan, hindi lamang sa ilang hungkag na salita o doktrina sa kaisipan."
+        },
+        {
+            "id": "7-1",
+            "text": "*Gr. diakono, isinalin nating “ministro” sa mga bersikulo 7 at 23; at “tagapaghain” naman sa bersikulo 25 at 4:7.* Ang isang ministro ni Kristo ay hindi lamang isang tagapaglingkod ni Kristo na naglilingkod kay Kristo, bagkus isang naglilingkod sa iba ng Kristo sa pamamagitan ng paghahain ng Kristo sa kanila."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang kalooban ng Diyos dito ay tumutukoy sa kalooban ng Kanyang walang hanggang layunin, ang kalooban ng Kanyang ekonomiya hinggil kay Kristo (Efe. 1:5, 9, 11), hindi sa Kanyang kalooban sa maliliit na bagay."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang espirituwal na karunungan at pang-unawa ay buhat sa Espiritu ng Diyos na nasa ating espiritu na taliwas sa Gnostikong pilosopiya na nasa nadimlang pantaong kaisipan lamang. Ang karunungan ay nasa ating espiritu upang malaman ang walang hanggang layunin ng Diyos; ang espirituwal na pang-unawa ay nasa ating kaisipang napabago ng Espiritu, upang maunawaan at maipaliwanag kung ano ang nalalaman natin sa ating espiritu."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang magsilakad nang karapat-dapat sa Panginoon ay ang resulta ng lubos na pagkaalam sa kalooban ng Diyos. Sa ganitong paglakad na karapat-dapat sa Panginoon, ipinamumuhay natin si Kristo."
+        },
+        {
+            "id": "10-2",
+            "text": "Kalugud-lugod sa Panginoon sa lahat ng paraan."
+        },
+        {
+            "id": "10-3",
+            "text": "Tumutukoy sa pamumuhay kay Kristo, pagpapatubo ng Kristo, paghahayag ng Kristo, at pagpapalaganap ng Kristo sa lahat ng paraan. Ito ang tunay na esensiya ng lahat ng gawang mabuti ng Kristiyano."
+        },
+        {
+            "id": "10-4",
+            "text": "Hindi ang kaalaman sa mga titik na nasa kaisipan, kundi ang buháy na kaalaman sa Diyos sa loob ng espiritu, na sa pamamagitan nito ay lumalago tayo sa buhay."
+        },
+        {
+            "id": "11-1",
+            "text": "Hindi lamang tumutukoy sa kapangyarihan ng pagkabuhay na muli ni Kristo (Fil. 3:10), bagkus kay Kristo Mismo bilang kapangyarihan na nagbibigay-kapangyarihan sa atin sa lahat ng mga bagay (Fil. 4:13) upang tayo ay makapamuhay ng isang buhay na nagdaranas kay Kristo at ipinamumuhay si Kristo sa buong pagtitiis at pagpapahinuhod na may galak."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang kalakasang naghahayag ng kaluwalhatian ng Diyos, nagluluwalhati sa Diyos sa Kanyang kalakasan."
+        },
+        {
+            "id": "12-1",
+            "text": "Ginamit ng Diyos Ama ang pagtutubos ng Diyos Anak at ang pagpapabanal ng Diyos Espiritu upang tayo ay mapaging-dapat na makabahagi sa nagpapaloob-ng-lahat na Kristo na Siyang pagsasakatawan ng dumaan sa iba’t-ibang hakbanging Tres-unong Diyos bilang bahagi ng mga banal."
+        },
+        {
+            "id": "12-2",
+            "text": "Katulad ng pagkakaroon ng bahagi ng mga Israelita sa lupang Canaan bilang mana (Jos. 14:1). Ang mana ng mga Bagong Tipang mananampalataya, ang bahaging ating nabahagi, ay hindi ang pisikal na lupa kundi ang nagpapaloob-ng-lahat na Kristo. Siya ang bahagi ng lahat ng banal bilang ating dibinong mana upang ating tamasahin."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang liwanag dito ay taliwas sa kadilimang binabanggit sa kasunod na bersikulo. Nang tayo ay nasa ilalim ng awtoridad ni Satanas, tayo ay nasa kadiliman. Subali’t ngayon tayo ay nasa kaharian ng Anak ng Kanyang pag- ibig, nagtatamasa sa Kanya sa liwanag."
+        },
+        {
+            "id": "13-1",
+            "text": "Upang si Kristo ay maging Ulo ng Katawan, at upang tayo na Kanyang mga mananampalataya ay maging mga sangkap ng Kanyang Katawan, kinakailangan Niyang iligtas tayo mula sa awtoridad ng kadiliman na siyang kaharian ni Satanas (Mat. 12:26b), at ilipat tayo tungo sa loob ng kaharian ng Anak ng pag-ibig ng Diyos. Sa ganito ay napaging-dapat tayo na makapagtamasa sa nagpapaloob-ng-lahat na Kristo bilang ating bahagi."
+        },
+        {
+            "id": "13-2",
+            "text": "Lit. ng kadilimang yaon."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang Anak ay ang kahayagan ng Amang pinagmumulan ng buhay (Juan 1:4, 18; I Juan 1:2). Ang Anak ng pag-ibig ay ang Sinisinta ng Ama, na naging pagsasakatawan ng buhay sa loob ng dibinong pag-ibig."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang pagliligtas sa bersikulo 13 ay tumutuos sa awtoridad ni Satanas sa atin sa pamamagitan ng pagwasak sa kanyang masamang kapangyarihan; samantalang ang katubusan sa bersikulong ito ay tumutuos sa ating mga kasalanan sa pamamagitan ng pagtupad sa matuwid na kahilingan ng Diyos."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang kapatawaran ng mga kasalanan ay ang katubusang nakamtan natin kay Kristo. Isinagawa ng kamatayan ni Kristo ang pagtutubos sa ikapapatawad ng ating mga kasalanan."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang Diyos ay hindi nakikita. Subali’t ang Anak ng Kanyang pag-ibig, “ang ningning ng Kanyang kaluwalhatian at hayag na larawan ng Kanyang substansiya” (Heb. 1:3), ay ang Kanyang larawan, inihahayag ang kung ano Siya. Ang larawan dito ay hindi nangangahulugang isang pisikal na anyo, kundi isang kahayagan ng katauhan ng Diyos sa lahat ng Kanyang mga katangian at mga kagalingan (tingnan ang tala 6-2 sa Filipos 2). Ang pagpapakahulugang ito ay pinagtibay ng 3:10 at II Cor. 3:18."
+        },
+        {
+            "id": "15-2",
+            "text": "Si Kristo bilang Diyos ay ang Manlilikha. Gayunpaman, bilang tao, na nakikibahagi sa nilikhang dugo at laman (Heb. 2:14a), Siya ay bahagi ng paglikha. Ang “Panganay ng lahat ng nilikha” ay tumutukoy sa pagiging nangunguna ni Kristo sa lahat ng nilikha, yamang mula sa bersikulong ito hanggang bersikulo 18 ay binibigyang-diin ng apostol ang pagiging nasa unang puwesto ni Kristo sa lahat ng bagay."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang “sa loob Niya” ay nangangahulugang nasa kapangyarihan ng Persona ni Kristo. Ang lahat ng bagay ay nilikha sa kapangyarihan ng kung ano si Kristo. Ang lahat ng nilikha ay nagtataglay ng mga katangian ng panloob na kapangyarihan ni Kristo."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang “mga trono” ay tumutukoy sa mga nasa awtoridad na nasa trono."
+        },
+        {
+            "id": "16-3",
+            "text": "Tingnan ang tala 21-1 sa Efeso 1."
+        },
+        {
+            "id": "16-4",
+            "text": "Ang “sa pamamagitan Niya” ay nagpapakita na si Kristo ang aktibong instrumento na sa pamamagitan Nino ang paglikha ng lahat ng bagay ay napangyari."
+        },
+        {
+            "id": "16-5",
+            "text": "Ang “ukol sa Kanya” ay nagpapakita na si Kristo ang hantungan ng lahat ng nilikha. Ang lahat ng bagay ay nilikha ukol sa Kanya para sa Kanyang pag-aari. Ang “sa loob Niya”, “sa pamamagitan Niya,” at “ukol sa Kanya” ay pawang tumutukoy sa subhektibong kaugnayan ng mga nilalang kay Kristo. Ang mga nilalang ay nilikha sa loob Niya, sa pamamagitan Niya, at ukol sa Kanya."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay tumutukoy sa Kanyang walang hanggang pag-iral noong una pa man."
+        },
+        {
+            "id": "17-2",
+            "text": "*Gr. Sunistëmi, binubuo ng sun na nangangahulugang magkasama at histemi na nangangahulugang ilagay, iayos, kaya iayos nang magkasama.* Kaya ang “umiiral nang sama-sama nang may kaayusan sa Kanya” ay nangangahulugang magkasamang umiiral sa pamamagitan ni Kristo bilang ang naghahawak na sentro, katulad ng mga rayos ng isang gulong na sama-samang hinahawakan ng masa ng gulong sa kanilang sentro."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang mga bersikulo 15 hanggang 17 ay nagpapakita na si Kristo ang una sa paglikha, taglay ang pagiging nangunguna sa lahat ng mga nilalang. Ang bersikulo 18 ay nagpapakita na si Kristo ang una sa pagkabuhay na muli bilang ang Ulo ng Katawan, taglay ang unang puwesto sa ekklesia, ang bagong nilalang ng Diyos (II Cor. 5:17; Gal. 6:15)."
+        },
+        {
+            "id": "18-2",
+            "text": "*Gr. pröteuö, nangangahulugang ang maging una sa ranggo o sa impluwensiya."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang buong kapuspusan ay tumutukoy sa kapuspusan sa lumang paglikha at gayundin sa bagong paglikha."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang “kapuspusan” dito ay hindi tumutukoy sa mga kayamanan ng kung ano ang Diyos, kundi sa kahayagan ng mga kayamanang yaon. Kapwa sa gitna ng mga nilikha at sa loob ng ekklesia, ang lahat ng kahayagan ng mayamang Diyos sa kung ano Siya ay nananahan kay Kristo. Ang lahat ng nilikha at ang buong ekklesia ay napupuspusan ni Kristo na Siyang kahayagan ng mga kayamanan ng Diyos. Ang gayong kapuspusan ay nalulugod sa ganito. Ito ay kalugud-lugod kay Kristo. Ang kapuspusan sa bersikulong ito ay tumutukoy sa larawan ng Diyos na nasa bersikulo 15 na Siyang si Kristo, ang buháy na Persona. Ang kapuspusan ay nalulugod na manahan sa kahayagan ng Diyos at maipagkasundo ang lahat ng mga bagay sa kahayagan ng Diyos."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang “sa pamamagitan Niya” ay nangangahulugang sa pamamagitan ni Kristo bilang ang aktibong instrumento na sa pamamagitan Nino ang pakikipagkasundo ay napangyari."
+        },
+        {
+            "id": "20-2",
+            "text": "Hindi “ang lahat ng tao” kundi “ang lahat ng bagay”, kaya hindi lamang tumutukoy sa tao bagkus tumutukoy sa lahat ng bagay na nilikha. Ang lahat ng nilalang ay nilikha sa loob ni Kristo, at ngayon ay nasa loob Niya na umiiral nang sama-sama nang may kaayusan (bb. 16-17) at sa pamamagitan Niya ay maipagkasundo sa Diyos."
+        },
+        {
+            "id": "20-3",
+            "text": "Ang “Kanya” rito ay tumutukoy sa kapuspusang nasa bersikulo 19."
+        },
+        {
+            "id": "20-4",
+            "text": "Ang maipagkasundo ang lahat ng bagay sa Diyos ay ang makipagpayapa sa Diyos para sa lahat ng bagay. Ito ay isinagawa sa pamamagitan ng dugong ibinubo ni Kristo sa krus para sa atin."
+        },
+        {
+            "id": "20-5",
+            "text": "Hindi lamang ang mga bagay sa sangkalupaan bagkus ang mga bagay rin sa sangkalangitan ang kinakailangang maipagkasundo sa Diyos. Ito ay nagpapakita na ang mga bagay sa sangkalangitan ay hindi wasto ang kaugnayan sa Diyos dahil sa paghihimagsik ni Satanas, ang arkanghel, at ng mga anghel na nagsisunod sa kanya. Ang kanyang pagrerebelde ay nagparumi sa sangkalangitan."
+        },
+        {
+            "id": "21-1",
+            "text": "Sa dahilang tayo ay mga makasalanan, kailangan natin ang pagtutubos. Sa dahilang tayo rin ay mga kaaway ng Diyos, kailangan natin ang pakikipagkasundo."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang ating pagiging kaaway ng Diyos ay pangunahing nasa napasamang kaisipan natin."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang dalawang “Niya” ay kapwa tumutukoy sa kapuspusang binanggit sa bersikulo 19. Ito ang kapuspusang nananahan kay Kristo (b. 19), ito ang kapuspusang nagsasanhi upang maipagkasundo tayo (b. 20), at sa kapuspusang ito tayo ay ihaharap din. Ang kapuspusang ito ay ang Diyos Mismong nahayag kay Kristo."
+        },
+        {
+            "id": "23-1",
+            "text": "Hindi tumutukoy sa ating pagsampalataya, kundi sa ating pinananampalatayanan."
+        },
+        {
+            "id": "23-2",
+            "text": "Si Kristong nasa loob natin, ang pag-asa ng kaluwalhatian (b. 27), na kung Kanino hindi tayo dapat matinag at mailayo."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang mga kapighatian ni Kristo ay may dalawang kategoriya: yaong mga para sa pagsasagawa ng pagtutubos, na nakumpleto na ni Kristo Mismo; at yaong mga para sa pagbubunga at pagtatayo ng ekklesia, na kinakailangang punuan ng mga apostol at ng mga mananampalataya."
+        },
+        {
+            "id": "25-1",
+            "text": "Si Pablo ay hindi naging isang tagapaghain o ministro ng anumang pagtuturo o doktrina kundi naging tagapaghain ng ekklesia, ang Katawan ni Kristo, upang maitayo ang ekklesia."
+        },
+        {
+            "id": "25-2",
+            "text": "Tingnan ang tala 7-1 ."
+        },
+        {
+            "id": "25-3",
+            "text": "Tingnan ang tala 2-2 sa Efeso 3."
+        },
+        {
+            "id": "25-4",
+            "text": "Ang salita ng Diyos ay ang dibinong pahayag. Ito ay hindi nakumpleto bago dumating ang Bagong Tipan. Sa panahon ng Bagong Tipan, kinumpleto ng mga apostol, lalung-lalo na ni Apostol Pablo, ang salita ng Diyos sa hiwaga ng Diyos, na si Kristo, at sa hiwaga ni Kristo, na siyang ekklesia upang bigyan tayo ng isang buong pahayag ng ekonomiya ng Diyos."
+        },
+        {
+            "id": "26-1",
+            "text": "Ayon sa balarila ng Griyego, ang “hiwaga” sa bersikulong ito ay katumbas ng “salita ng Diyos” sa bersikulo 25. Ang hiwagang ito ay tungkol kay Kristo at sa ekklesia (Efe. 5:32) na siyang Ulo at Katawan. Ang pagpapakita ng hiwagang ito sa pamamagitan ni Apostol Pablo ay ang pagkukumpleto ng salita ng Diyos bilang ang dibinong pahayag."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang “sa mga kapanahunan” ay nangangahulugang sa kawalang-hanggan, at ang “sa mga henerasyon” ay nangangahulugang sa mga panahon. Ang hiwaga hinggil kay Kristo at sa ekklesia ay inilihim sa kawalang-hanggan at sa lahat ng panahon hanggang sa Bagong Tipang kapanahunan, nang ito ay naihayag sa mga banal, kabilang tayong lahat, ang mga mananampalatayang na kay Kristo."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang mga kayamanan ng kaluwalhatian ng hiwagang ito sa gitna ng mga Hentil ay ang mga kayamanan ng lahat ng kung ano si Kristo sa mga mananampalatayang Hentil (Efe. 3:8)."
+        },
+        {
+            "id": "27-2",
+            "text": "Ang “na ito” ay tumutukoy sa “hiwagang ito.” Ang hiwagang ito na puno ng kaluwalhatian sa gitna ng mga Hentil ay si Kristong nasa loob natin. Si Kristong nasa loob natin ay mahiwaga at maluwalhati rin."
+        },
+        {
+            "id": "27-3",
+            "text": "Ang Kristong nasa loob ng ating espiritu bilang ating buhay at Persona ay ang ating maluwalhating pag-asa. Ito ay nangangahulugang mababaran ng nananahanang Kristo ang ating buong katauhan upang mabagong-anyo ang ating katawan at makaanyo ng Kanyang maluwalhating katawan."
+        },
+        {
+            "id": "27-4",
+            "text": "Ang aklat na ito ay may ilang mahahalagang pariralang nagpapakita ng ating karanasan kay Kristo, katulad ng: si Kristong nasa loob ninyo (b. 27), lubos-nang-lumago sa loob ni Kristo (b. 28), magsilakad…sa loob Niya (2:6), ayon kay Kristo (2:8), kayo,…binuhay nang sama-sama kalakip Niya (2:13), nangamatay kalakip ni Kristo (2:20), tinatanganan ang Ulo (2:19), na mula sa Kanya (2:19), lumalago sa paglago ng Diyos (2:19). Ang mga pariralang ito ay nagbibigay sa atin ng isang buong larawan ng pagdaranas kay Kristo."
+        },
+        {
+            "id": "27-5",
+            "text": "Si Kristo ang hiwagang punung-puno ng kaluwalhatian ngayon. Ang kaluwalhatiang ito ay mahahayag sa buong sukat nito sa pagbabalik ni Kristo upang luwalhatiin ang Kanyang mga banal (Roma 8:30). Kaya nga, ito ay isang pag-asa, ang pag-asa ng kaluwalhatian. Si Kristo rin Mismo ang pag-asang ito ng kaluwalhatian."
+        },
+        {
+            "id": "28-1",
+            "text": "O, sakdal, kumpleto. Ang sakdal ay tumutukoy sa pagiging lubos sa kalidad at ang kumpleto ay tumutukoy sa pagiging lubos sa kantidad. Ang ministeryo ng apostol, maging sa pagpapahayag kay Kristo o sa pagpapaalaala at pagtuturo sa mga tao sa buong karunungan, ay pawang para sa paghahain ng Kristo sa mga tao upang sila ay mapasakdal at makumpleto sa pamamagitan ng paggulang kay Kristo sa lubos-na-paglago."
+        },
+        {
+            "id": "28-2",
+            "text": "Ang naunang bersikulo ay bumanggit ng “Kristong nasa loob ninyo;” sa bersikulong ito, tayo naman ang nasa loob ni Kristo. Una tayong inilagak sa loob ni Kristo at pagkatapos ay si Kristo sa loob natin. Lalo tayong pumapasok sa loob ni Kristo, lalo rin Siyang pumapasok sa loob natin; lalo Siyang pumapasok sa loob natin, lalo rin naman tayong pumapasok sa loob Niya. Sa ganitong pagsirkulo, mapalalago tayo sa buhay."
+        },
+        {
+            "id": "29-1",
+            "text": "O, nakikipagbuno; gayundin sa 4:12."
+        },
+        {
+            "id": "29-2",
+            "text": "Tingnan ang mga tala 7-3 at 20-3 sa Efeso 3."
         }
     ]
 }

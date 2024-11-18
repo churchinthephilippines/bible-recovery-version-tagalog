@@ -1,5 +1,5 @@
 {
-    "chapter": 10,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "ulap,",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -33,15 +33,15 @@
             "footnotes": [
                 {
                     "word": "nangabautismuhan",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -52,7 +52,7 @@
             "footnotes": [
                 {
                     "word": "espiritwal",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": [
@@ -66,11 +66,11 @@
             "footnotes": [
                 {
                     "word": "espiritwal",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "espiritwal",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -81,7 +81,7 @@
             "footnotes": [
                 {
                     "word": "ibinuwal",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": [
@@ -94,11 +94,11 @@
             "footnotes": [
                 {
                     "word": "halimbawa",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "atin,",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -109,11 +109,11 @@
             "footnotes": [
                 {
                     "word": "mananamba",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "magsikain",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -124,11 +124,11 @@
             "footnotes": [
                 {
                     "word": "makiapid,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "nangabuwal",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -139,7 +139,7 @@
             "footnotes": [
                 {
                     "word": "tuksuhin",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -150,15 +150,15 @@
             "footnotes": [
                 {
                     "word": "mangagbulung-",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "nilipol",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "mamumuksa.",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -169,11 +169,11 @@
             "footnotes": [
                 {
                     "word": "nangyari",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "katapusan",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -184,11 +184,11 @@
             "footnotes": [
                 {
                     "word": "Kaya’",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "mabuwal.",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -199,15 +199,15 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "tukso",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "matukso",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -218,11 +218,11 @@
             "footnotes": [
                 {
                     "word": "Kaya,",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "pagsamba",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": [
@@ -242,11 +242,11 @@
             "footnotes": [
                 {
                     "word": "pakikipagsalamuha",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "pakikipagsalamuha",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -257,11 +257,11 @@
             "footnotes": [
                 {
                     "word": "iisang",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "nakikibahagi",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -272,11 +272,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "dambana?",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -296,11 +296,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "kasalamuha",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -311,7 +311,7 @@
             "footnotes": [
                 {
                     "word": "maiinuman",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -322,7 +322,7 @@
             "footnotes": [
                 {
                     "word": "iminumungkahi",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -333,23 +333,23 @@
             "footnotes": [
                 {
                     "word": "Lahat",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "matuwid,",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "kapaki-",
-                    "note": ""
+                    "id": "23-3"
                 },
                 {
                     "word": "matuwid,",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "nakapagtatayo.",
-                    "note": ""
+                    "id": "23-4"
                 }
             ],
             "outlines": [
@@ -369,7 +369,7 @@
             "footnotes": [
                 {
                     "word": "pamilihan",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -404,7 +404,7 @@
             "footnotes": [
                 {
                     "word": "nakikibahagi",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -415,11 +415,11 @@
             "footnotes": [
                 {
                     "word": "Samakatuwid",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "maging",
-                    "note": ""
+                    "id": "31-2"
                 }
             ],
             "outlines": [
@@ -432,11 +432,11 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "Hudyo",
-                    "note": ""
+                    "id": "32-2"
                 }
             ],
             "outlines": null
@@ -447,10 +447,204 @@
             "footnotes": [
                 {
                     "word": "nagbibigay-",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “sapagka’t” ay nagsasaad na ang kapitulo 10 ay hindi lamang isang pagpapatuloy ng kapitulo 9, bagkus isa ring karagdagang pagpapaliwanag ng pagtakbo sa takbuhan na tinalakay sa 9:24-27, ginagamit bilang paglalarawan ang mga Israelita sa kanilang takbuhan sa ilang sa kanilang pagpasok sa ipinangakong lupa."
+        },
+        {
+            "id": "1-2",
+            "text": "Ito ay tumutukoy sa salitang “Hindi ba ninyo nalalaman” sa 9:24."
+        },
+        {
+            "id": "1-3",
+            "text": "Ito ay nagsasaad na ang lahat ng Israelita na nagtamasa ng Paskua ay pumasok sa takbuhan at nagsimulang tumakbo sa takbuhan mula sa panahon na iniwan nila ang lupain ng Rameses (Exo. 12:37)."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang ulap na tumakip sa mga anak ni Israel ay sumasagisag sa Espiritu ng Diyos, sa pagiging kasama ng mga Bagong Tipang mananampalataya. Kaagad, pagkaraan na tanggapin ng mga Bagong Tipang mananampalataya si Kristo bilang kanilang Paskua (5:7), ang Espiritu ng Diyos ay dumating upang makasama nila at gabayan sila upang takbuhin ang takbuhan ng mga Kristiyano, tulad ng paggabay ng haliging ulap sa mga Israelita (Exo. 13:21-22; 14:19-20)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang pagdaan ng mga Israelita sa Dagat na Pula (Exo. 14:21-30) ay sumasagisag sa bautismo ng mga mananampalataya sa Bagong Tipan (Roma 6:4)."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang mga Israelita ay nangabautismuhan tungo kay Moises upang simulan ang banal na takbuhan para sa pagsasakatuparan ng layunin ng Diyos, yaon ay, ang makapasok sa mabuting lupa at itayo ang templo, sa gayon matamo ng Diyos ang kaharian na may Kanyang Sariling kahayagan sa lupa. Ito ay sumasagisag sa pagiging nabautismuhan ng mga mananampalataya sa Bagong Tipan tungo kay Kristo (Gal. 3:27), upang ang Diyos ay magkaroon ng Kanyang kaharian sa pamamagitan ng ekklesia bilang Kanyang kahayagan sa lupa."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang “sa ulap” ay nangangahulugang sa Espiritu, at ang “sa dagat” ay nangangahulugang sa tubig. Ang mga mananampalataya sa Bagong Tipan ay nangabautismuhan sa tubig at sa Espiritu (Mat. 3:11; Gawa 1:5; I Cor. 12:13)."
+        },
+        {
+            "id": "3-1",
+            "text": "Tumutukoy sa manna (Exo. 16:14-18), sumasagisag kay Kristo bilang ating pang-araw-araw na panustos ng buhay (Juan 6:31-35) para sa paglalakbay ng mga Kristiyano. Tayong lahat na mananampalataya ay kinakailangang magsikain ng iisang espirituwal na pagkain, hindi kumakain ng anumang bagay maliban kay Kristo."
+        },
+        {
+            "id": "4-1",
+            "text": "Tumutukoy sa tubig na buháy na umagos mula sa nabiyak na bato (Exo. 17:6), na sumasagisag sa umagos na Espiritu ng napako sa krus at nabuhay na muling Kristo bilang ating nagpapaloob ng lahat na inumin (Juan 7:37-39; I Cor. 12:13). Para sa ating pagtakbo, tayong lahat ay kailangang uminom ng iisang espirituwal na inumin, hindi uminom ng anuman maliban sa nagpapaloob ng lahat na Espiritu."
+        },
+        {
+            "id": "4-2",
+            "text": "Lit. isang espirituwal na sumusunod na bato. Ang batong hinampas at nabiyak upang mapadaloy ang tubig na buháy para sa mga piniling tao ng Diyos (Exo. 17:6) ay isang materyal na bato. Gayunpaman tinawag ito ng apostol na isang espirituwal na bato, sapagka’t sinasagisag nito si Kristo na hinampas at biniyak ng Diyos upang padaluyin ang tubig ng buhay (Juan 19:34) upang pawiin ang uhaw ng Kanyang mga mananampalataya. Kaya, sinasabi ng apostol na ang bato ay si Kristo. Yamang ito ay isang espirituwal na bato na sumasagisag kay Kristo, may kakayahan itong sundan ang mga Israelita. Ito ay nagsasaad na si Kristo bilang ang tunay na bato ay sumusunod sa Kanyang mga mananampalataya."
+        },
+        {
+            "id": "5-1",
+            "text": "Lit. ibinuwal (sa lupa), yaon ay, pinatay at ibinagsak sa lupa. Ito ay tumutukoy sa Blg. 14:16, 29."
+        },
+        {
+            "id": "6-1",
+            "text": "*Gr. tupos. Ing. types. * O, mga halimbawa, mga larawan ng mga katunayan ng espirituwal na katotohanan. Ginagamit ng aklat na ito ang kasaysayan ng mga Israelita sa Lumang Tipan bilang sagisag ng mga mananampalataya sa Bagong Tipan (b. 6). Sa 5:7-8 kanilang naranasan si Kristo bilang kanilang Paskua at sinimulang ipangilin ang Kapistahan ng Tinapay na Walang Lebadura. Dito sa kapitulong ito sila ay nangabautismuhan tungo sa kanilang Moises (si Kristo), dumaraan sa kanilang Dagat na Pula (ang kamatayan ni Kristo). Sila ngayon ay kumakain ng espirituwal na pagkain at umiinom ng espirituwal na inumin upang sila ay makapaglakbay (ang takbuhan ng mga Kristiyano), tungo sa kanilang mabuting lupa (ang nagpapaloob ng lahat na Kristo). Sila rin ay binigyang-babala rito (b. 11) na huwag ulitin ang kasaysayan ng mga Israelita sa paggawa ng masama laban sa Diyos, gaya ng inilarawan sa mga bersikulo 6-11. Ang gol ng pagtawag ng Diyos sa mga Israelita ay ang makapasok sa ipinangakong lupa upang tamasahin ang kayamanan nito, upang kanilang maitatag ang kaharian ng Diyos at maging ang kahayagan ng Diyos sa lupa. Gayunpaman, bagama’t ang lahat ay tinubos sa pamamagitan ng Paskua, iniligtas mula sa pang-aalipin ng mga taga-Ehipto,at dinala sa bundok ng Diyos upang matanggap ang pahayag ng pinananahanang lugar ng Diyos, ang tabernakulo, halos lahat ay bumagsak at namatay sa ilang, nabigong maabot ang gol na ito (Heb. 3:7-19) dahil sa kanilang masasamang gawain at kawalang-pananampalataya. Tangi lamang sina Caleb at Josue ang nakapasok sa mabuting lupa (Blg. 14:27-30). Ito ay nangangahulugang bagama’t tayo ay natubos na sa pamamagitan ni Kristo, iniligtas mula sa pagkagapos ni Satanas, at nadala rin sa loob ng pahayag ng ekonomiya ng Diyos, maaari pa rin tayong mabigo na maabot ang gol ng pagtawag ng Diyos, yaon ay, ang makapasok sa pagkamit ng ating mabuting lupa, si Kristo (Fil. 3:12-14), at tamasahin ang Kanyang mga kayamanan para sa kaharian ng Diyos upang tayo ay maging Kanyang kahayagan sa kasalukuyang panahon, at makibahagi sa lubos na pagtatamasa ng Kristo sa panahon ng kaharian (Mat. 25:21, 23). Ito ay dapat na maging isang seryosong babala sa lahat ng mga mananampalataya sa Bagong Tipan, lalo na sa mga taga-Corinto, na nasa panganib ng pag-uulit ng pagkabigo ng mga Israelita sa ilang."
+        },
+        {
+            "id": "6-2",
+            "text": "Ibinibilang ng apostol ang kanyang sarili na kasama ng lahat ng mga mananampalataya sa bagay ukol sa pagtakbo sa takbuhan ng mga Kristiyano."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang malabis na pagkain ng mga Israelita ay may kaugnayan sa kanilang pagsamba sa diyos-diyosan, sa pagsamba sa gintong guyang binubo (Exo. 32:1-6). Ang salita ng apostol dito ay nagpapahiwatig na ang pagwawalang-bahalang pagkain ng mga taga-Corinto ng mga inihain sa diyos-diyosan ay bahagyang may kaugnayan sa pagsamba sa mga diyos-diyosan."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang pakikiapid ay sumusunod sa pagsamba sa diyos-diyosan (Blg. 25:1-2). Sa gayon, ang dalawang bagay na ito ay tinutukoy nang magkasama, gaya din sa Gawa 15:20, 29. Walang alinlangan, ang ipinahihiwatig dito ay yaong ang dalawang kasamaang ito ay umiiral din sa mga mananampalatayang taga-Corinto. Sa gayon, ito ang mga pangunahing bagay na tinuos sa mga kapitulo 5 hanggang 10."
+        },
+        {
+            "id": "8-2",
+            "text": "Ito ay ang maibuwal, yaon ay, ang maihandusay o maibagsak sa lupa sa pamamagitan ng pagpatay."
+        },
+        {
+            "id": "9-1",
+            "text": "Lit. subukan sa kasukdulan, tuksuhin, tuksuhin nang lubusan."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang pag-uupasala ng mga Israelita laban kina Moises at Aaron (Blg. 16:41) ay sumasagisag sa negatibong pagsasalita ng mga mananampalatayang taga-Corinto laban sa apostol (4:3; 9:3)."
+        },
+        {
+            "id": "10-2",
+            "text": "Yaon ay, nalipol sa kamatayan, bumagsak sa lupa."
+        },
+        {
+            "id": "10-3",
+            "text": "Ang anghel ng Diyos na nagsasagawa ng kaparusahan (Exo. 12:23; 2 Sam. 24:16-17)."
+        },
+        {
+            "id": "11-1",
+            "text": "Lit. patuloy na nangyayari."
+        },
+        {
+            "id": "11-2",
+            "text": "O, katuparan, kaganapan. Ang katapusan ng mga kapanahunan dito ay tumutukoy sa panahon ng Bagong Tipan, mula sa unang pagparito ng Panginoon hanggang sa Kanyang ikalawang pagparito (Heb. 9:26). Ito ay nagpapahiwatig na ang panahon ng Bagong Tipan, kung saan tayo naroroon, ay ang kapanahunan ng biyaya, kung kailan maaari nating tanggapin ang babala tungkol sa kasaysayan ng mga Israelita. Sumusunod sa kapanahunang ito ay ang kapanahunan ng kaharian, kung kailan ang mga halimbawang ito sa panahon ng Lumang Tipan ay hindi na magagamit para sa takbuhan nating mga Kristiyano."
+        },
+        {
+            "id": "12-1",
+            "text": "Batay sa babala sa mga bersikulo 5-11, binabalaan ng apostol ang mga taga-Corinto na huwag mag-isip na sila ay tumatayong matatag, nang walang panganib na mabuwal at mamatay na gaya ng nangyari sa mga Israelita."
+        },
+        {
+            "id": "12-2",
+            "text": "Gaya ng mga nabigong Israelita na nabuwal at namatay sa ilang (bb. 5, 8). Ang ilang mananampalatayang taga-Corinto ay nabuwal at namatay dahil sa pagkakasala laban sa Katawan ng Panginoon (11:27-30)."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang bersikulong ito ay isang pagpapatuloy ng babala na ibinigay sa bersikulo 12, nagsasaad na, sa isang banda, kailangan tayong mag-ingat na hindi matukso baka tayo ay mabuwal at mamatay. Sa kabilang banda, ang Diyos sa Kanyang katapatan ay hindi magpapahintulot ng anumang tukso na mangyari sa atin nang higit sa ating makakaya, kundi laging gagawa ng daan upang ating malabasan."
+        },
+        {
+            "id": "13-2",
+            "text": "O, masubok (2 Ped. 2:9; cf. Dan. 3:17-18)."
+        },
+        {
+            "id": "14-1",
+            "text": "Ito ay nagsasaad na ang sumusunod na bahagi hanggang bersikulo 30 ay isang pagtatapos sa nauunang seksiyon, mula 8:1, tungkol sa pagkain ng mga inihain sa diyos-diyosan."
+        },
+        {
+            "id": "14-2",
+            "text": "Lit. ang pagsamba sa diyos-diyosan, tumutukoy sa pagsamba sa diyos-diyosan na may kaugnayan sa pagkain ng mga inihian sa diyos-diyosan."
+        },
+        {
+            "id": "16-1",
+            "text": "O, sama-samang pakikibahagi. Tinutukoy ng pakikipagsalamuha rito na ang mga mananampalataya ay kabahagi sa pakikipagsalamuha sa dugo at katawan ni Kristo. Ginagawa tayo nitong mga kabahagi ng dugo at katawan ng Panginoon, na hindi lamang nagkakaisa sa bawa’t isa, bagkus kaisa rin ng Panginoon. Tayong mga kabahagi, sa gitna ng pakikipagsalamuha ng Kanyang dugo at katawan, ay nagiging kaisa ng Panginoon. Ibig ilarawan ng apostol dito na ginagawang kaisa ng pagkain at pag-inom ang mga kumakain at umiinom ng kung ano ang kanilang kinakain at iniinom. Dapat matanto ng mga taga-Corinto na sa katunayan, ginagawa silang kaisa ng mga demonyong nasa likuran ng mga hain ng kanilang labis na pagkain ng mga inihain sa mga diyos-diyosan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang iisang tinapay na ito ay sumasagisag sa nag-iisang Katawan ni Kristo. Tayong lahat ay ang iisang Katawan na ito, sapagka’t tayo ay nakikibahagi sa iisang tinapay na ito. Tayo ay nakikibahagi sa iisang tinapay, sinasanhi tayong lahat na maging isa. Ito ay nagsasaad na ginagawa tayong lahat na Kanyang iisang Katawan ng ating pakikibahagi ng Kristo. Ang mismong Kristo na nababahagi natin ang bumubuo sa atin upang maging Kanyang iisang Katawan."
+        },
+        {
+            "id": "17-2",
+            "text": "Ginagawa tayong kaisa sa tinapay na ito ng pakikibahagi sa (yaon ay, ang pagkain – bb. 28-30) iisang tinapay. Ito ay nagsasaad na tayo ay may bahagi kay Kristo, nagtatamasa kay Kristo, nagsasanhi sa atin na maging kaisa Niya."
+        },
+        {
+            "id": "18-1",
+            "text": "O, mga kasamang kabahagi. Yaong mga kumakain ng mga hain sa dambana ay hindi lamang nakikisalamuha sa bawa’t isang kumakain at sa dambana, bagkus gayundin ay mga kasamang kabahagi ng kung ano ang kanilang kinakain. Ang kanilang pakikibahagi sa kung ano ang kanilang kinakain ay nagsasanhi sa kanila na maging kaisa ng mga inihain sa dambana. Inilalarawan din nito kung paanong ginagawa ng pagkain ang kumakain na kaisa ng kung ano ang kanyang kinakain. Gayundin ang ginagawa ng pagkain ng mga inihain sa mga diyos-diyosan: ginagawa nitong kaisa ng mga demonyo na nasa likod ng mga hain ang mga kumakain."
+        },
+        {
+            "id": "18-2",
+            "text": "Yamang ang dambana ang patungan ng mga hain na inihahandog sa Diyos, ginagawa ng pagkain ng mga hain sa dambana na mga kasalamuha ang mga kumakain nito, mga kasamang kabahagi nito."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang isang diyos-diyosan at ang hain sa diyos-diyosan ay walang kabuluhan (b. 19; 8:4). Subali’t ang nasa likod ng mga ito ay mga demonyo na kasuklam-suklam at kapoot-poot sa Diyos. Ang mga mananampalataya na sumasamba sa Diyos ay kinakailangang umiwas na makipagkaisa sa mga demonyo at umiwas na makipagsalamuha sa mga demonyo sa pamamagitan ng mga inihain sa mga diyos-diyosan. Yamang ang mga demonyo ang realidad ng mga diyos-diyosan, ginagawa ng pagkain ng mga inihain sa mga diyos-diyosan na mga kasalamuha ng mga demonyo, mga kasamang kabahagi nila, ang mga kumakain niyaon."
+        },
+        {
+            "id": "20-2",
+            "text": "Tingnan ang tala 18-1 . Ang mga kumakain ng mga inihain sa mga diyos-diyosan ay hindi lamang nagiging kasalamuha ng mga demonyo bagkus nagiging mga kasamang kabahagi rin ng mga demonyo, ginagawang kaisa ng mga demonyo ang kanilang mga sarili."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang uminom sa saro ng Panginoon at makibahagi (kumain) sa hapag ng Panginoon ay ang gawing kaisa ng Panginoon ang ating mga sarili. Ang uminom sa saro ng mga demonyo at makibahagi (kumain) sa hapag ng mga demonyo ay ang gawing kaisa ng mga demonyo ang ating mga sarili."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang Panginoon ay ang mapanibughuing Diyos (Exo. 20:5). Ang pagsamba sa mga diyos-diyosan ay ganap na kasuklam-suklam at kapoot-poot sa Kanya. Kung tayo ay makikibahagi sa pakikipagsalamuha sa mga demonyo, ginagawang kaisa nila ang ating mga sarili, ating iminumungkahi ang Panginoon sa paninibugho. Sa gayon, dapat nating takasan ang pagsamba sa mga diyos-diyosan (b. 14)."
+        },
+        {
+            "id": "23-1",
+            "text": "Tinutuos ng mga bersikulo 14-22 ang pagkain ng mga hain sa mga diyos-diyosan mula sa pananaw ng paggawa sa sarili na kaisa ng mga demonyo. Mula b. 23-11:1 ang pagkain ng hain sa diyos-diyosan ay tinuos mula sa pananaw ng pagtatayo sa iba sa ikaluluwalhati ng Diyos (b. 31)."
+        },
+        {
+            "id": "23-2",
+            "text": "Tingnan ang tala12-2 sa kap. 6."
+        },
+        {
+            "id": "23-3",
+            "text": "Tingnan ang tala12-3 sa kap. 6."
+        },
+        {
+            "id": "23-4",
+            "text": "Ang katulad na bersikulo, 6:12, ay nagtatapos sa hindi pagiging nadala sa ilalim ng kapangyarihan ng anumang bagay. Ang bersikulong ito ay nagtatapos sa hindi pagtatayo sa tao. Ang una ay may kinalaman sa ating mga sarili; ang huli, sa iba."
+        },
+        {
+            "id": "25-1",
+            "text": "Noong panahon ng mga apostol, kadalasan isang bahagi lamang ng mga hain sa mga diyos-diyosan ang nakakain. Ang iba ay ibinibigay sa mga saserdote o sa mahihirap, o ipinagbibiling muli sa pamilihan. Ang mga bumibili ay maaaring walang kaalam-alam na sila ay nakabibili ng karneng inihain sa mga diyos-diyosan."
+        },
+        {
+            "id": "30-1",
+            "text": "Yaon ay, kumakain. Ito ay nagsasaad na ang pagkain ay pakikibahagi (b. 17)."
+        },
+        {
+            "id": "31-1",
+            "text": "Ito ay nagsasaad na ang b. 31-11:1 ay ang konklusyon sa subseksiyong ito na nagmula sa bersikulo 23."
+        },
+        {
+            "id": "31-2",
+            "text": "Ibinibigay ng mga bersikulo 23, 31 at 6:12 sa atin ang apat na pangunahing prinsipyo para sa pagreregula ng gawi ng mga mananampalataya sa Bagong Tipan. Ang lahat ng bagay ay matuwid, subali’t anuman ang ating gawin ay kinakailangang: 1) hinggil sa bagay na yaon mismo, kapaki-pakinabang; 2) hinggil sa ating mga sarili, hindi tayo madadala sa ilalim ng kapangyarihan ng anumang bagay; 3) hinggil sa iba, naitatayo sila; at 4) hinggil sa Diyos, naluluwalhati Siya. Kung hindi, huwag nang gawin."
+        },
+        {
+            "id": "32-1",
+            "text": "O, Huwag kayong maging isang katitisuran. Gr. aproskopos na hinango mula sa parehong ugat na gaya ng sa proskomma para sa katitisuran sa 8:9, kaiba mula sa skandalizo para sa nakapagpapatisod sa 8:13."
+        },
+        {
+            "id": "32-2",
+            "text": "Sa panahon ng Bagong Tipan ang mga tao ay may tatlong uri, 1) ang mga Hudyo—mga piniling tao ng Diyos; 2) ang mga Griyego—ang mga hindi nananampalatayang mga Hentil; 3) ang ekklesia – binubuo ng mga mananampalataya kay Kristo. Tayo ay hindi dapat maging pampagalit, pampatisod, sa alinman sa tatlong ito, upang sila ay maligtas (b. 33)."
+        },
+        {
+            "id": "33-1",
+            "text": "Anong halimbawa ang ipinakita ng apostol para sa atin!"
         }
     ]
 }

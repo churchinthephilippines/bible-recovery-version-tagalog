@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,39 +7,39 @@
             "footnotes": [
                 {
                     "word": "Pablo,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "alipin",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "Hesus,",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "apostol",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "tinawag,",
-                    "note": ""
+                    "id": "1-6"
                 },
                 {
                     "word": "ibinukod",
-                    "note": ""
+                    "id": "1-7"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "1-8"
                 },
                 {
                     "word": "ebanghelyo",
-                    "note": ""
+                    "id": "1-9"
                 }
             ],
             "outlines": [
@@ -53,15 +53,15 @@
             "footnotes": [
                 {
                     "word": "Na",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -72,19 +72,19 @@
             "footnotes": [
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "nagmula",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "binhi",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "laman,",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": [
@@ -97,27 +97,27 @@
             "footnotes": [
                 {
                     "word": "itinalagang",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "kapangyarihan",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "4-4"
                 },
                 {
                     "word": "kabanalan,",
-                    "note": ""
+                    "id": "4-5"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "4-6"
                 }
             ],
             "outlines": null
@@ -128,23 +128,23 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "pagkaapostol,",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "pagtalima",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "5-4"
                 },
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "5-5"
                 }
             ],
             "outlines": [
@@ -157,7 +157,7 @@
             "footnotes": [
                 {
                     "word": "tinawag",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -168,15 +168,15 @@
             "footnotes": [
                 {
                     "word": "banal:",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "kapayapaang",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -195,11 +195,11 @@
             "footnotes": [
                 {
                     "word": "pinaglilingkuran",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -222,7 +222,7 @@
             "footnotes": [
                 {
                     "word": "mapalakas",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -239,7 +239,7 @@
             "footnotes": [
                 {
                     "word": "barbaro,",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -256,11 +256,11 @@
             "footnotes": [
                 {
                     "word": "kapangyarihan",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "ikaliligtas",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": [
@@ -273,19 +273,19 @@
             "footnotes": [
                 {
                     "word": "katuwiran",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "magtataglay",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -296,27 +296,27 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "poot",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "laban",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "kalikuan",
-                    "note": ""
+                    "id": "18-4"
                 },
                 {
                     "word": "sumasawata",
-                    "note": ""
+                    "id": "18-5"
                 },
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "18-6"
                 }
             ],
             "outlines": [
@@ -336,11 +336,11 @@
             "footnotes": [
                 {
                     "word": "pagkatanto",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "pagka-",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -351,11 +351,11 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "winalang-",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -372,7 +372,7 @@
             "footnotes": [
                 {
                     "word": "pinalitan",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -383,7 +383,7 @@
             "footnotes": [
                 {
                     "word": "ibinigay",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -394,7 +394,7 @@
             "footnotes": [
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -417,7 +417,7 @@
             "footnotes": [
                 {
                     "word": "itinakwil",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -446,10 +446,232 @@
             "footnotes": [
                 {
                     "word": "matuwid",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang dating Saulo na umuusig sa mga mananampalataya at nananalanta sa ekklesia (Gawa 7:58-60; 8:3; 9:1). Nang siya ay maligtas at magsimulang magpahayag ng ebanghelyo, ang kanyang pangalan ay pinalitan at naging Pablo (Gawa 13:9)."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang isang alipin, ayon sa lumang kaugalian at kautusan, ay isang binili ng kanyang panginoon at kung kanino may ganap na mga karapatan ang kanyang panginoon; maging sa sukdulan ng pagkitil ng kanyang buhay. Si Pablo ay isang gayong alipin ni Kristo. Ang mga kaanyuan ng pandiwa ng salitang ito ay ginamit ng ilang ulit sa kabuuan ng Roma katulad ng salitang “naglilingkod” (7:6, 25; 9:12; 12:11; 14:18; 16:18) o “bilang alipin” (6:6, 18, 22). Ang pangngalang “pagkaalipin” ay nagmula rin sa salitang-ugat ng “alipin” (8:15, 21). Ang paggamit ni Pablo ng terminolohiyang “alipin” ay tumutukoy na ang kanyang pagka-apostol ay hindi sa sariling pagtatalaga, ni hindi upahan, kundi binili ng Panginoon. At siya ay naglilingkod sa Diyos at sa bayan ng Diyos hindi sa loob ng likas na buhay kundi sa loob ng naisilang-na-muling buhay. (Tingnan ang Exo. 12:44; 21:6; Mat. 20:26 tala 1; 25:14 tala 3; Gal. 6:17 tala 1)."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang “Kristo” ay katumbas ng “Mesiyas” sa wikang Hebreo na nangangahulugang, Ang Pinahirang Isa (Juan 1:41; Dan. 9:26). Tinalakay ng aklat na ito kung papaano ang indibiduwal na Kristo na ipinahayag sa apat na Ebanghelyo ay naging ang sama-samang Kristo na binubuo ng Kanyang Sarili at ng Kanyang mga mananampalataya na ipinahayag sa mga Gawa. Sa pamamagitan ng katotohanan sa Bibliya at karanasan sa Espiritu Santo, ipinakita sa atin ni Pablo ang Bagong Tipang ekonomiya ng Diyos: ang mga makasalanan ay naging mga anak ng Diyos at mga sangkap ni Kristo na nabuo bilang Katawan ni Kristo upang maihayag Siya. Ganap na ipinaliwanag ng aklat na ito ang tungkol sa layuning ito ng Diyos at ipinahiwatig ang buod at detalye ng buhay-Kristiyano at buhay-ekklesia."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang Hesus ay katumbas ng Josue sa Hebreo, nangangahulugang ang pagliligtas ni Jehovah, o, Jehovah na Tagapagligtas (Mat. 1:21; Blg. 13:16; Heb. 4:8)."
+        },
+        {
+            "id": "1-5",
+            "text": "Ang apostol ay nangangahulugang isang isinugo (tingnan ang talata 2 ng tala 1-3 sa I Cor. 9)."
+        },
+        {
+            "id": "1-6",
+            "text": "Kalakip na nito ang pagtatalaga (I Cor. 12:28)."
+        },
+        {
+            "id": "1-7",
+            "text": "Kalakip ang paghirang (Gawa 22:14), pagtatalaga (I Tim. 2:7) at pag-aatas (Gawa 13:2-4)."
+        },
+        {
+            "id": "1-8",
+            "text": "Tungo sa o dahil sa; kalakip ang pagpapahayag (I Tim. 2:7; II Tim. 1:11) at pagsasanggalang at pagpapatunay (Fil. 1:7)."
+        },
+        {
+            "id": "1-9",
+            "text": "Lit. masayang balita, o, mabuting balita (bb. 9, 16; 2:16; 10:16; 11:28; 15:16, 19; 16:25). Ang paksa ng aklat na ito ay ang ebanghelyo ng Diyos, tinatalakay ang Kristo na pagkaraan ng Kanyang pagkabuhay na muli ay naging Espiritung nabubuhay sa loob ng Kanyang mga mananampalataya. Ang Kristong itinanghal dito ay higit na mataas at higit na subhektibo kaysa yaong nasa mga Ebanghelyo. Ang tinalakay ng mga Ebanghelyo ay ang mga pangyayari lamang ukol kay Kristo pagkatapos na naging laman, kasama ang mga disipulo nang pisikal, bago Siya namatay at nabuhay na muli. Nguni’t ipinahayag ng aklat na ito ang Kristong nabuhay na muli at naging Espiritung nagbibigay-buhay (8:9-10), hindi lamang ang Kristong nasa labas ng mga mananampalataya, bagkus ang Kristo ring nasa loob nila. Sa gayon, ang ebanghelyo ng aklat na ito ay ang ebanghelyo ng subhektibong Tagapagligtas na ngayon ay nananahan sa loob ng mga mananampalataya."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang bb. 2-6 ay pagpapaliwanag tungkol sa ebanghelyo ng Diyos. Maaaring ibilang na mga salitang isiningit."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang Ebanghelyo ng Diyos ay hindi isang aksidente, ito ay binalak at inihanda ng Diyos sa kawalang-hanggang lumipas at ipinangako nang may iba’t ibang aspekto sa pamamagitan ng mga propeta sa banal na Kasulatan (Gen. 3:15; 22:18; Gal. 3:16; II Tim. 1:9; Tito 1:2)."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang mga salitang Griyegong, hagios , hagiosune , hagiazo , at hagiasmos , na ginamit sa aklat na ito, ay mula sa iisang salitang-ugat, na sa pangunahing batayan ay nangangahulugang ibinukod, inihiwalay. Ang hagios ay isinaling banal sa 1:2; 7:12; 11:16; 12:1; 16:16, Santo sa 5:5; 9:1; 14:17; 15:13, 16, at mga banal sa 1:7; 8:27; 12:13; 15:25, 26, 31; 16:15. Ang hagiosune ay isinaling kabanalan sa 1:4. Ang hagiazo ay isang pandiwang ginamit na isang pandiwari at isinaling pinapaging-banal sa 15:16. Ang hagiasmos ay isinaling ikababanal sa 6:19, 22. Kaya, ang banal ay nangangahulugang ibinukod, inihiwalay (tungo sa Diyos). Ang mga banal ay nangangahulugang mga taong ibinukod, mga taong inihiwalay (tungo sa Diyos). Ang kabanalan ay ang kalikasan at katangian ng pagiging banal. Ang pinapaging-banal ay ang praktikal na epektong ibinunga, ang pag-uugali at pagkilos, at ang kinalabasang katayuan ng pagiging napabanal (tungo sa Diyos)."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang ebanghelyo ng Diyos ay tungkol sa Anak ng Diyos na ating Panginoong Hesu-Kristo. Ang kagila-gilalas na Personang ito ay may dalawang kalikasan—ang dibinong kalikasang may pagka-Diyos at ang pantaong kalikasang may pagka-tao."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang “nagmula sa” ay isang literal na pagsasalin ng Griyegong ek na dalawang ulit na ginamit dito at tumutukoy sa dalawang pinagmulan ng katauhan ni Kristo: isa, ang binhi ni David, ang isa pa, ang pagkabuhay na muli mula sa mga patay."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang binhi ni David ay tumutukoy sa pagka-tao ni Kristo. Sa pamamagitan ng unang hakbangin ng pagiging laman ni Kristo ang Diyos ay nadala sa loob ng pagka-tao."
+        },
+        {
+            "id": "3-4",
+            "text": "Sa Bibliya ang salitang laman ay hindi positibo, datapuwa’t, ipinahayag ng Bibliya na ang salita ay naging laman (Juan 1:14). Ang ebanghelyo ng Diyos ay tungkol sa naging laman na Diyos. Kung ayon sa laman ang pag-uusapan, Siya ay naging inapo ng tao. (Tingnan ang tala 3-3 sa kap. 8)."
+        },
+        {
+            "id": "4-1",
+            "text": "Si Kristo, ang dibinong Isa, bago pa Siya naging laman, ay Anak na ng Diyos (Juan 1:18; Roma 8:3). Sa pamamagitan ng pagiging laman, ibinihis Niya ang isang elemento, ang laman, na walang anumang kaugnayan sa dibinidad. Ang bahagi Niyang ito ay kinakailangang dumaan sa kamatayan at pagkabuhay na muli upang mapabanal at mapataas. Sa pamamagitan ng Kanyang pagkabuhay na muli, ang Kanyang pagka-tao ay napabanal, napataas at natransporma. Kaya, sa pamamagitan ng Kanyang pagkabuhay na muli na taglay ang Kanyang pagka-tao, Siya ay itinalagang Anak ng Diyos (Gawa 13:33; Heb. 1:5). Ang Kanyang pagkabuhay na muli ay ang pagtatalaga sa Kanya. Ngayon, Siya na Anak ng Diyos ay may Kanyang pagka-Diyos at pagka-tao rin. Kung papaanong sa pamamagitan ng Kanyang pagiging laman ay nadala Niya ang Diyos sa loob ng tao, gayundin sa pamamagitan ng pagkabuhay na muli mula sa mga patay nadala Niya ang tao sa loob ng Diyos, yaon ay, dinala ang Kanyang pagka-tao sa loob ng dibinong pagka-anak. Sa gayon, ang bugtong na Anak ng Diyos ay naging ang Panganay na Anak ng Diyos na may pagka-Diyos at pagka-tao. Ninanais ng Diyos na ang Kanyang Panganay na si Kristo na may pagka-Diyos at pagka-tao ay maging tagapamunga, hulmahan at huwaran upang makapamunga ng maraming anak (8:29-30) na walang iba kundi tayong mga sumampalataya at tumanggap sa Kanyang Anak. Sa loob ng Kanyang maluwalhating pagkabuhay na muli tayo rin naman ay itatalaga bilang mga anak ng Diyos (8:19, 21), magiging katulad Niya at maghahayag sa Diyos kasama Niya."
+        },
+        {
+            "id": "4-2",
+            "text": "Tinatalakay ng aklat na ito ang tungkol sa kumpletong kaligtasan ng Diyos. Ito ay ang gawin ang mga makasalanan (3:23), maging ang Kanyang mga kaaway (5:10), na maging mga anak ng Diyos (8:14). Sa pamamagitan ng pagkabuhay na muli, si Kristo na naging laman at binhi ni David ay itinalaga ng Diyos na maging Kanyang Anak, sinasanhi ang Kanyang Anak, na Siyang paghahalo ng pagka-Diyos sa pagka-tao at ng pagka-tao sa pagka-Diyos na maging batayan at huwaran ng mga makasalanan na magiging mga anak ng Diyos. Sa pagkabuhay na muli ng Kanyang Anak, yaon ay, sa loob ng nabuhay na muling Anak, Kanyang ibinunga ang maraming anak (I Ped. 1:3), upang maging ang maraming kapatid ng Kanyang Panganay na nabuhay na muli mula sa mga patay (8:29) upang maging ang mga sangkap na siyang bumubuo ng Katawan ng Kanyang Panganay (12:5), sa gayon ay maging Kanyang kapuspusan (Efe. 1:23), ang Kanyang sama-samang kahayagan."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang realidad ng kapangyarihan ng pagkabuhay na muli ni Kristo ay ang Espiritu. (Tingnan ang tala ng Efe. 1:19-22 at tala 10-2 ng Fil. 3.)"
+        },
+        {
+            "id": "4-4",
+            "text": "Ang Espiritu ng kabanalan dito ay salungat sa laman sa bersikulo 3. Kung papaanong ang laman sa bersikulo 3 ay tumutukoy sa pantaong esensiya ni Kristo, gayundin ang Espiritu sa bersikulong ito ay hindi tumutukoy sa Persona ng Espiritu Santo ng Diyos, kundi sa dibinong esensiya ni Kristo. Itong dibinong esensiya ni Kristo na Siyang Diyos Mismo (Juan 4:24), ay ukol sa kabanalan, punô ng kalikasan at katangian ng pagiging banal."
+        },
+        {
+            "id": "4-5",
+            "text": "Tingnan ang tala 2-3 ."
+        },
+        {
+            "id": "4-6",
+            "text": "Tingnan ang tala 3-2 . Ang “mula sa” rito ay tumutugma sa “nagmula sa” ng bersikulo 3; si Kristo ay itinalagang Anak ng Diyos mula sa Kanyang pagkabuhay na muli sa mga patay."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang biyayang ito ay ang Diyos na nasa loob ni Kristo bilang kanilang buhay at panustos (tingnan ang Juan 1:14 tala 5) na nagbibigay ng kaligtasan at buhay sa mga apostol at nagiging kakayahan at panustos nila bilang mga apostol (I Cor. 15:9-10)."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang pagkaapostol ay nangangahulugang pagsusugo o misyon."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang tanging utos ng Diyos sa kapanahunang ito ng biyaya ay yaong sumampalataya ang tao tungo sa Kanyang Anak. Ang taong sumasampalataya ay maliligtas; ang di-sumasampalataya ay hinatulan na sapagka’t hindi siya sumampalataya tungo sa Kanya (Juan 3:18). Sinusumbatan ng Espiritu ang sanlibutan tungkol sa kasalanan sapagka’t hindi sila sumampalataya tungo sa Panginoon (Juan 16:8-9) hindi nila sinunod ang utos na ito ng Diyos. Kapag tayo ay sumampalataya tungo sa Panginoon, tayo ay may pagtalima sa pananampalataya na nagreresulta sa biyaya at kapayapaan (b. 7)."
+        },
+        {
+            "id": "5-4",
+            "text": "Ang nilalaman ng pananampalataya sa Bagong Tipan ay ang pahayag ng Bagong Tipan sa kabuuan, samantalang ang sentro ng pananampalatayang ito ay ang Persona ni Kristo na taglay ang dalawang kalikasan ng pagka-tao at pagka-Diyos, at ang Kanyang nagtutubos na gawain sa pamamagitan ng kamatayan at pagkabuhay na muli. (Tingnan ang ikalawang bahagi ng tala 1-1 sa I Timoteo 1). Ang tumalima sa pananampalataya ay ang magpasakop sa pananampalataya palabas mula sa lahat ng uri ng paganismo at iba’t ibang pinag-aralang konsepto ng tao, at ang sumampalataya at tumanggap sa pananampalatayang ito."
+        },
+        {
+            "id": "5-5",
+            "text": "Ang Kanyang pangalan ay tumutukoy sa Kanyang Persona, sa Kanya Mismo. Ang “dahil sa Kanyang pangalan” ay tumutukoy sa “para sa Kanya”, “para sa Kanyang kapakanan”, “para sa Kanyang kapakinabangan.”"
+        },
+        {
+            "id": "6-1",
+            "text": "Tayo ay tinawag ng Diyos upang dalhin tayo tungo kay Kristo, upang maging pag-aari Niya. Kay Kristo ay nananahan ang buong kapuspusan ng Diyos (Col. 2:9; 1:19). Tayo ay dinala tungo sa Kanya, nabibilang sa Kanya, kaya may bahagi sa buong kapuspusan ng Diyos. Mula sa kapuspusang ito ay tinatanggap natin ang lahat ng kung ano ang Diyos, at biyaya sa biyaya (Juan 1:16). Tinatalakay nang lubos ng unang walong kapitulo ng aklat na ito ang bagay na ito (cf. 8:9)."
+        },
+        {
+            "id": "7-1",
+            "text": "Tingnan ang tala 2-3 ."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang biyaya ay ang pinagmumulan. Ito ang Diyos na na kay Kristo bilang ating katamasahan (Tingnan ang Juan 1:14, 16-17; tala 2-3 , 17-1 sa Roma 5); ang kapayapaan ay ang pag-agos. Ito ang resulta ng ating pagtatamasa sa Diyos sa loob ni Kristo (Juan 16:33)."
+        },
+        {
+            "id": "9-1",
+            "text": "Gr. latreuö . Ito ay nangangahulugang sa loob ng pagsamba ay naglilingkod gaya ng ginamit sa Mat. 4:10, II Tim. 1:3; Fil. 3:3 at Luc. 2:37. Itinuring ni Pablo ang kanyang pagpapahayag ng ebanghelyo na isang uri ng paglilingkod sa pagsamba sa Diyos, hindi lamang isang uri ng gawain."
+        },
+        {
+            "id": "9-2",
+            "text": "Hindi ito ang Espiritu ng Diyos, ito ang naisilang-na-muling espiritu ni Pablo. Ito ay naiiba sa puso, kaluluwa, pag-iisip, damdamin, pagpapasya o likas na buhay. Si Kristo at ang Espiritu ay nasa loob ng naisilang-na-muling espiritu ng mga mananampalataya (II Tim. 4:22; Roma 8:16). Sa aklat na ito, matibay na binigyang-diin ni Pablo na ang lahat ng kung ano tayo (2:29; 8:5-6, 9), ang lahat ng mayroon tayo (8:10, 16) at ang lahat ng ating ginagawa tungo sa Diyos (b. 9; 7:6; 8:4, 13; 12:11), ay kinakailangang nasa loob ng espiritung ito. Si Pablo ay naglingkod sa Diyos sa loob ng kanyang naisilang-na-muling espiritu sa pamamagitan ng Kristong ito na Siyang Espiritung nagbibigay-buhay na nananahan sa kanyang naisilang-namuling espiritu at hindi naglingkod sa kanyang kaluluwa sa pamamagitan ng lakas at kakayahan ng kanyang kaluluwa. Ito ang unang pangunahing aytem ukol sa kanyang pagpapahayag ng ebanghelyo."
+        },
+        {
+            "id": "12-1",
+            "text": "O, maaliw."
+        },
+        {
+            "id": "14-1",
+            "text": "Tingnan ang tala 11-3 sa I Corinto 14."
+        },
+        {
+            "id": "16-1",
+            "text": "Tumutukoy sa dakilang kapangyarihang may kakayahang lumampas sa lahat ng mga balakid. Ang kapangyarihang ito ay ang nabuhay na muling Kristo, ang Espiritung nagbibigay-buhay na nagliligtas sa lahat ng Kanyang mananampalataya."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang iligtas ang mga mananampalataya hindi lamang sa paghahatol ng Diyos at walang hanggang kapahamakan, bagkus ang iligtas din sila sa kanilang likas na sarili; upang pabanalin sila at transpormahin sila, sa gayon ay maitayong kasama ng mga banal upang maging Katawan ni Kristo bilang Kanyang kapuspusan at kahayagan (Efe. 1:23)."
+        },
+        {
+            "id": "17-1",
+            "text": "Sa Juan 3:16, ang pinagmumulan at motibo ng pagliligtas ng Diyos ay ang pag-ibig ng Diyos. Sa Efe. 2:5 at 8 ang kaparaanan ng pagliligtas ng Diyos ay ang biyaya ng Diyos. Subali’t dito, ang kapangyarihan ng pagliligtas ng Diyos ay ang katuwiran ng Diyos. Ang katuwiran ng Diyos ay matatag, ito ang pundasyon ng Kanyang luklukan (Awit 89:14); at sa ibabaw nito ay itinatayo ang Kanyang kaharian (14:17). Kung legalidad ang pag-uusapan, ang pag-ibig at biyaya ay maaaring magbago subali’t ang katuwiran kailanman ay hindi magbabago. Lalo nang gayon ang katuwiran ng Diyos. Ang katuwiran ng Diyos ang nahahayag sa ebanghelyo ng Diyos, hindi ang ating katuwiran. Kaya, ang ebanghelyo ay ang kapangyarihan ng Diyos sa ikaliligtas ng lahat ng sumasampalataya."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang “mula sa pananampalataya” ay nagpapakita na ang pananampalataya ang pinagmumulan, ang basehan. Ang katuwiran ng Diyos ay nahahayag sa pamamagitan nito. Ang “hanggang sa pananampalataya” ay nagpapakita na ang pananampalataya ang patutunguhan, ang sisidlan, ang tatanggap at ang mag-iingat ng katuwiran ng Diyos. Kung tayo ay may ganitong pananampalataya, ang katuwiran ng Diyos ay mahahayag sa atin at makakamit natin."
+        },
+        {
+            "id": "17-3",
+            "text": "Ang katuwiran ng Diyos ay ang ariin tayong matuwid upang tayo ay magkaroon ng Kanyang buhay (5:18) at upang mamuhay tayo sa pamamagitan ng buhay na ito. Kaya, tayo ay pinababanal at tinatransporma ng buhay na ito sa bawa’t paraan. Ang aklat na ito ay pangunahing nauukol sa ating pagkaaring-matuwid (b.1-5:11; 9:1-11:36), pagtanggap ng buhay (5:12-8:39), at pamumuhay nang wasto sa pamamagitan ng buhay na ito (12:1-16:27). Binibigyang-diin din ng bersikulong ito ang tatlong puntong ito at maaaring ituring ito bilang buod ng aklat."
+        },
+        {
+            "id": "17-4",
+            "text": "Tingnan ang tala 20-4 sa Gal. 2."
+        },
+        {
+            "id": "18-1",
+            "text": "Sinimulan ng aklat na ito ang pagtatalakay sa pagkatisod ng tao (hindi katulad ng Efeso na nagsisimula sa paghirang at pagtatalaga ng Diyos sa kawalang-hanggan), dumaan sa pagtutubos ni Kristo, pag-aaring-matuwid ng Diyos, pagpapabanal , pagtatransporma, pagwawangis, at pagluluwalhati sa atin hanggang sa loob ng hiwaga ng Diyos noong mga panahong walang hanggan (16:25)."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang naunang bersikulo ay nagsasabi na ang katuwiran ng Diyos ay nahayag sa ebanghelyo sa pamamagitan ng pananampalataya; dito ang poot ng Diyos ay nahayag mula sa langit laban sa lahat ng di-pagkamakadiyos at sa lahat ng kalikuan ng mga tao. Ipinakikita nito sa atin ang kaibhan ng paghahayag ng katuwiran ng Diyos sa poot ng Diyos. Noong una, ang poot ng Diyos ay nahayag mula sa langit laban sa lahat ng di-pagkamakadiyos at kalikuan ng mga tao; subali’t nang dumating ang ebanghelyo ng Diyos, ang situwasyon ay nagbago; ngayon ang katuwiran ng Diyos ay nahayag sa ebanghelyo sa ating pananampalataya."
+        },
+        {
+            "id": "18-3",
+            "text": "Nagpapahiwatig ng pagsasalungat."
+        },
+        {
+            "id": "18-4",
+            "text": "*Gr. Adikia , mula sa salitang ” a ” na nangangahulugang hindi at dike na nangangahulugang katarungan, kaya di-pagkamakatarungan o di-pagkamakatuwiran; kasamaan (cf. Sant. 3:6), kamalian."
+        },
+        {
+            "id": "18-5",
+            "text": "Sa umpisa pa ay wala nang paggalang ang tao sa katotohanan ng Diyos, sa halip ay kanilang sinasawata ang katotohanan sa loob ng kalikuan."
+        },
+        {
+            "id": "18-6",
+            "text": "Ang katotohanan dito ay tumutukoy sa unang totoong bagay sa sansinukob sa pagitan ng tao at ng Diyos-ang unang realidad ay ang kung ano ang Diyos at ang pag-iral ng Diyos na hindi maitatangging pinatotohanan ng paglikha sa sanlibutan at hindi maitatangging katunayan na ang Diyos ay maaaring makilala ng tao sa pamamagitan ng Kanyang paglikha. Ang gayong dakilang realidad, dakilang katotohanan, ay dapat na makapagsanhi sa tao na makilala ang Diyos, luwalhatiin ang Diyos, magpasalamat sa Diyos (b. 21). Subali’t hindi pinakitunguhan nang wasto ng tao ang realidad na ito, ang katotohanang ito, nang ayon sa katuwirang aprubado ng Diyos, sa halip ginamit ang kalikuang kinamumuhian ng Diyos upang sawatain ang katotohanan at hindi minagaling na kilalanin ang Diyos (b. 28), sa gayon ay tinalikuran ng tao ang Diyos, ipinagpalit ang Diyos sa mga diyus-diyusan (bb. 21-23) at pinababa ang kanyang sarili sa karumihan ng mga pita (bb. 24-32) na pumilit sa Diyos na hayaan sila sa itinakwil na kaisipan (bb. 24, 26, 28)."
+        },
+        {
+            "id": "20-1",
+            "text": "Natatanto ng tao ang mga hindi nakikitang bagay ng Diyos sa pamamagitan ng pagkakita sa mga nakikitang nilikha ng Diyos. Ang walang hanggang kapangyarihan ng Diyos at ang mga katangian ng Kanyang pagka-Diyos na naghahayag ng Kanyang panloob na kalikasan ay inihayag sa Kanyang paglikha katulad ng ang sansinukob ay puspos ng liwanag, ipinakikita na ang liwanag ay isa sa mga katangian ng kanyang pagka-Diyos, isang dibinong katangian ng Kanyang pagka-Diyos (Sant. 1:17). Gayundin ang kagandahan at buhay."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang theiotes sa Griyego ay tumutukoy sa mga dibinong katangian ng Diyos, ang mga katangian ng mga panlabas na pagpapakita ng pag-uugali at esensiya ng Diyos, ito ay naiiba sa theotes sa Col. 2:9 na tumutukoy sa pagka-Diyos, sa Persona ng Diyos. Ang mga katangian ng kalikasan ng Diyos ay maaaring mapatotohanan ng kanyang mga nilikha. Gayunpaman, hindi mapatotohanan ng Kanyang mga nilikha ang pagka-Diyos, ang persona ng Diyos, tangi lamang si Hesu-Kristo na Siyang Salita ng Diyos at Siyang naghahayag ng Diyos (Juan 1:1, 18); tangi lamang ang buháy na Personang ito ang makapagpapatunay at makapaghahayag sa pagka-Diyos, sa Persona ng Diyos na Siyang Diyos Mismo. Dito ay sinasabi ni apostol Pablo ang tungkol sa pagpapatunay ng paglikha sa pag-iral ng Diyos. Ang kanilang pinatototohanan ay ang mga katangian lamang ng Diyos. Sa Col. 2:9, sinasabi ni Pablo na si Kristo ang pagsasakatawan ng Diyos, inihahayag ang pagka-Diyos, ang persona ng Diyos na Siyang Diyos Mismo."
+        },
+        {
+            "id": "21-1",
+            "text": "Sa kapitulong ito ay isinalaysay ni Pablo ang paglikha ng Diyos at ang pagkatisod ng tao nang baitang-baitang. Walang alinlangang ito ay batay sa Genesis kapitulo isa hanggang labinsiyam at sa kasaysayang nakatala sa Lumang Tipan. Ang mga bersikulo 19-20 ng kapitulong ito ay nagsasalita tungkol sa paglikha ng Diyos; ang mga bersikulo 21-25 mula sa pagkatisod ni Adam hanggang sa malaking baha at hanggang sa pagsamba sa diyus-diyusan sa Babel; ang mga bersikulo 26-27 mula sa Babel hanggang sa mahahalay na pita ng Sodom; at ang mga bersikulo 28-32, mula sa Sodom hanggang sa sari-saring kasamaan at kasalanan sa Lumang Tipan."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang “winalang-kabuluhan” ang Diyos ay maaaring tuntunin bilang saligang elemento ng pang-araw-araw na pamumuhay ng natisod na sangka- tauhan. Tingnan ang tala 17-3 sa Efeso 4."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang pagpapalit sa kaluwalhatian ng Diyos ng ibang bagay ay ang itakwil ang Diyos, at gumawa ng mga diyus-diyusan."
+        },
+        {
+            "id": "24-1",
+            "text": "Yaon ay, pinabayaan. Katulad sa mga bersikulo 26 at 28. Ang pagtakwil sa Diyos ay nagreresulta sa pagiging pinabayaan ng Diyos. Napilitan ang Diyos na gawin ang gayon. Ayon sa kapitulong ito, hinahayaan ng Diyos ang tao na gawin ang tatlong bagay: maruruming bagay (b. 24), mahahalay na pita (b. 26), at itinakwil na kaisipan (b. 28). Ang resulta ng pagpapabaya ng Diyos sa kanila ay pangangalunya (bb. 24, 26, 27), na pagsuway sa mga namamahala at nagkokontrol na prinsipyo na nagbubunga ng kaguluhan. Lahat ng kasamaan ay ibinunga ng pangangalunyang ito (bb. 29-32)."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang katotohanan ng Diyos ay ang realidad ng Diyos. Ang Diyos ay totoo at tunay. Ang Kanyang katauhan ay realidad. Ang mga diyus-diyusan ay kasinungalingan. Anumang anyo ng diyus-diyusan ay pawang walang kabuluhan."
+        },
+        {
+            "id": "28-1",
+            "text": "Lit. hindi aprubado."
+        },
+        {
+            "id": "32-1",
+            "text": "Lit. ordinansa. O, matuwid na kahilingan. Gayundin sa 8:4, yaon ay, ang matuwid na kahilingan ng kalooban ng Diyos. Kaya ang salitang ito ay tumutukoy rin sa kahatulan ng kalooban ng Diyos (Apoc. 15:4), o ang mga alituntunin ng kautusan na may kahatulan (2:26; Luc. 1:6) o matuwid na gawang makatutugon sa kahilingan ng Diyos (5:18)."
         }
     ]
 }

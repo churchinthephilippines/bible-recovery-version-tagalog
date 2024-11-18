@@ -1,5 +1,5 @@
 {
-    "chapter": 8,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "kalangitan,",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -23,11 +23,11 @@
             "footnotes": [
                 {
                     "word": "Ministro",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -38,7 +38,7 @@
             "footnotes": [
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -55,7 +55,7 @@
             "footnotes": [
                 {
                     "word": "halimbawa",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -66,23 +66,23 @@
             "footnotes": [
                 {
                     "word": "ministeryo;",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "Tagapamagitan",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "isinabatas",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "6-5"
                 }
             ],
             "outlines": null
@@ -93,15 +93,15 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "pangangailangang",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "ikalawa.",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -124,23 +124,23 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "kaisipan,",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "isusulat",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "sila",
-                    "note": ""
+                    "id": "10-5"
                 }
             ],
             "outlines": null
@@ -151,11 +151,11 @@
             "footnotes": [
                 {
                     "word": "Kilalanin",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "makikilala",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -166,7 +166,7 @@
             "footnotes": [
                 {
                     "word": "mahabagin",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -177,10 +177,92 @@
             "footnotes": [
                 {
                     "word": "una.",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Dinadala tayo ni Kristo, bilang ang Mataas na Saserdote sa mga kalangitan, tungo sa loob ng langit, mula sa labas na loobang nasa lupa patungo sa loob ng Dakong Kabanal-banalan na nasa mga kalangitan. Ang Dakong Kabanal-banalang ito ay nakaugpong sa ating espiritu sa pamamagitan Niya bilang ang makalangit na hagdanan (Gen. 28:12; Juan 1:51)."
+        },
+        {
+            "id": "2-1",
+            "text": "* Tingnan ang tala 6-1 sa Roma 13.* Si Kristo, bilang isang Ministro ng tunay (nasa langit) na tabernakulo, ay naghahain ng langit (na hindi lamang tumutukoy sa lugar, bagkus tumutukoy rin sa kalagayan ng buhay) tungo sa loob natin, nang sa gayon ay magkaroon tayo ng makalangit na buhay at kapangyarihan upang ipamuhay ang isang makalangit na buhay sa lupa tulad ng Kanyang ginawa nang Siya ay naririto pa sa lupa."
+        },
+        {
+            "id": "2-2",
+            "text": "Tumutukoy sa lahat ng mga banal na dako sa tabernakulo; sa estriktong pagsasalita, ito ay tumutukoy sa Dakong Kabanal-banalan sa mga dakong banal (9:8, 12, 15; 10:19; 13:11)."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 1-1 sa kapitulo 5."
+        },
+        {
+            "id": "5-1",
+            "text": "O, kopya, larawan."
+        },
+        {
+            "id": "6-1",
+            "text": "Tumutukoy sa pagkasaserdote, may parehong salitang-ugat tulad ng sa ministro sa b. 2."
+        },
+        {
+            "id": "6-2",
+            "text": "Si Kristo, bilang ang Tagapamagitan, ay ang Tagaganap sa Kanyang nasa langit na ministeryo ng bagong tipan, ang bagong testamento na Kanyang ipinamana sa atin sa pamamagitan ng Kanyang kamatayan."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang lalong magaling na tipang ito ay hindi lamang isinabatas sa lalong mabubuting pangako ng isang lalong magaling na kautusan, ang panloob na kautusan ng buhay (bb. 10-12), bagkus ay nalubos din ng lalong mabubuting hain ni Kristo (9:23) na nagsakatuparan pa sa atin ng walang-hanggang katubusan (9:12), at ng lalong magaling na dugo ni Kristo na naglilinis ng ating budhi (9:14). Higit pa roon, ang Mataas na Saserdote ng lalong magaling na tipang ito, ang walang-hanggang Anak ng buháy na Diyos, ay naghahain din sa pamamagitan ng isang lalong ekselenteng ministeryo (b. 6) at sa lalong malaki at lalong sakdal na tabernakulo (9:11)."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang Lumang Tipan ay ang lumang kautusan na ginawang batas ng Diyos; sa gayunding paraan, ang Bagong Tipan ay ang bagong kautusan na ginawang batas ng Diyos gaya ng binanggit sa bb. 10-12."
+        },
+        {
+            "id": "6-5",
+            "text": "Ang lalong mabubuting pangako ay ipinagkaloob sa Jer. 31:31-34 at sinipi sa bb. 8-12 ng kapitulong ito at sa 10:16-17."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang unang tipan ay tumutukoy sa Lumang Tipan, ang ikalawang tipan ay tumutukoy sa Bagong Tipan."
+        },
+        {
+            "id": "7-2",
+            "text": "Lit. puwesto, katayuan. Nangangahulugang dahilan o kahilingan."
+        },
+        {
+            "id": "10-1",
+            "text": "Sa Jer. 31:33, ang pinagmumulan ng siping ito, ang salitang kautusan ay pang-isahan. Ito ay nagpapatunay na ito ay iisang kautusan na lumalaganap upang maging ilang kautusan. Ito ang kautusan ng buhay (Tingnan ang kautusan ng Espiritu ng buhay, Roma 8:2). Bawat buhay ay may isang kautusan. Lalong mataas ang buhay, lalong mataas ang kautusan nito. Ang dibinong buhay na ating natanggap mula sa Diyos ay ang pinakamataas; kaya nga, taglay nito ang pinakamataas na kautusan, ang kautusang tinutukoy rito. Sa pamamagitan ng pamamahagi ng Kanyang dibinong buhay sa loob natin, inilalagay ng Diyos ang pinakamataas na kautusang ito sa loob ng ating espiritu, kung saan nagmumula ang pagpapalaganap nito tungo sa ating mga panloob na bahagi, gaya ng ating kaisipan, damdamin, at pagpapasiya, at nagiging ilang kautusan. Ang kautusang ito ng buhay ay naiiba sa kautusan ng mga titik. Pinamamahalaan tayo ng kautusan ng buhay mula sa loob sa pamamagitan at ayon sa elemento ng buhay nito, samantalang pinamamahalaan tayo ng kautusan ng mga titik mula sa labas sa pamamagitan at ayon sa mga patay na titik. Ang kautusan ng mga patay na titik ay nakasalalay sa mga panlabas na pagtuturo, subalit ang kautusan ng buhay ay nakasalalay sa panloob na kamalayan. Yamang tayong lahat, dakila o maliit man, ay nagtataglay ng ganitong kautusan ng buhay, hindi natin kailangan ang mga panlabas na pagtuturo ayon sa kautusan ng mga titik (b. 11)."
+        },
+        {
+            "id": "10-2",
+            "text": "Sa Jer. 31:33, ang mga panloob na bahagi ay ginamit para sa kaisipan. Ito ay nagpapatunay na ang kaisipan ay isa sa mga panloob na bahagi. Ito rin ay isang pagpapaliwanag ng terminong “mga panloob na bahagi.” Ang mga panloob na bahagi ay nagpapaloob hindi lamang ng kaisipan, bagkus maging ng damdamin at pagpapasiya rin, na siyang bumubuo sa puso na binanggit sa sumusunod na saknong."
+        },
+        {
+            "id": "10-3",
+            "text": "Unang-una, ipinamamahagi ng Diyos ang Kanyang mga kautusan sa loob natin; pagkatapos ay isinusulat Niya ang mga ito sa ating puso. Ginagawa Niya ang pagsusulat sa panahon ng ating mga pagdaranas sa kautusan ng buhay."
+        },
+        {
+            "id": "10-4",
+            "text": "Lit. Ako ay magiging Diyos sa kanila."
+        },
+        {
+            "id": "10-5",
+            "text": "Lit. Sila ay magiging isang bayan sa Akin. Tayo ay isang bayan ng Diyos at Siya ay Diyos natin ayon sa kautusan ng buhay. Ang kaugnayan ng Diyos sa atin ngayon ay lubos na nababatay sa kautusan ng buhay; kaya ngayon ay hindi natin kailangang lumakad nang ayon sa kaalaman sa kautusan ng mga titik, kundi ayon sa kamalayan sa kautusan ng buhay."
+        },
+        {
+            "id": "11-1",
+            "text": "Sa bersikulong ito ay dalawang salitang Griyego ang ginamit para sa mga salitang “kilalanin” at “makikilala”: ang una ay ginosko , na tumutukoy sa panlabas at obhektibong kaalaman; ang ikalawa ay oida , tumutukoy sa panloob at subhektibong kamalayan. Sa Juan 8:55 ay sinabihan ng Panginoong Hesus ang mga Fariseo na hindi nila napagkilala ( ginosko) ang Diyos Ama (kahit man lamang sa panlabas at obhektibong kaalaman), subalit Kanyang nakikilala ( oida ) ang Ama (maging sa panloob at subhektibong kamalayan). Ang dalawang ito ay sabay ring ginamit sa 1 Juan 2:29."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. mapagpalubag-loob. Ang maging mapagpalubag-loob ay ang gumawa ng pampalubag-loob para sa ating mga kasalanan (Tingnan ang tala 17-3 sa kap. 2). Sa bagon_g tipan ay may ipinangakong apat na pagpapala: 1) ang pampalubag-loob para sa ating kalikuan at ang paglimot (pagpapatawad) sa ating mga kasalanan (b. 12); 2) ang pamamahagi ng kautusan ng buhay sa pamamagitan ng pamamahagi ng dibinong buhay sa loob natin (b. 10a); 3) ang pribilehiyong matamo ang Diyos bilang ating Diyos at maging Kanyang bayan – ang buhay na ito ang nakapagsasanhi sa atin na makapagtamasa sa Diyos sa pakikipagsalamuha sa Kanya (b. 10b); at 4) ang pangsyon ng buhay upang makilala Siya sa panloob na daan ng buhay (b. 11). Ayon sa tipang ginawa ng Diyos, ang apat na pagpapalang ito ay ang Kanyang pangako. Subali’t ayon sa testamentong ipinamana ng Panginoon sa atin, ang mga ito ay Kanyang pamana. Tingnan ang tala 16-1 sa kapitulo 9."
+        },
+        {
+            "id": "13-1",
+            "text": "Yaon ay, ang lumang tipan, gaya rin ng nasa 9:1."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 22,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -16,19 +16,19 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "hari,",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "piging",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -39,7 +39,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -50,19 +50,19 @@
             "footnotes": [
                 {
                     "word": "iba",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "piging;",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -85,7 +85,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -96,7 +96,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -107,7 +107,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -124,7 +124,7 @@
             "footnotes": [
                 {
                     "word": "nakadamit",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -141,15 +141,15 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "itapon",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "pagtangis",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -160,11 +160,11 @@
             "footnotes": [
                 {
                     "word": "tinawag,",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "nahirang.",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -175,11 +175,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": [
@@ -194,11 +194,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "nagtatangi",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -209,7 +209,7 @@
             "footnotes": [
                 {
                     "word": "Marapat",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -220,7 +220,7 @@
             "footnotes": [
                 {
                     "word": "mapagkunwari?",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -231,7 +231,7 @@
             "footnotes": [
                 {
                     "word": "Ipakita",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -248,11 +248,11 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -269,7 +269,7 @@
             "footnotes": [
                 {
                     "word": "Saduceo,",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": [
@@ -313,7 +313,7 @@
             "footnotes": [
                 {
                     "word": "pagkaalam",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -336,7 +336,7 @@
             "footnotes": [
                 {
                     "word": "buhay.",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -363,7 +363,7 @@
             "footnotes": [
                 {
                     "word": "tagapagtanggol",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -380,7 +380,7 @@
             "footnotes": [
                 {
                     "word": "buong",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -403,7 +403,7 @@
             "footnotes": [
                 {
                     "word": "dalawang",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -424,7 +424,7 @@
             "footnotes": [
                 {
                     "word": "Kristo?",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -435,7 +435,7 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "43-1"
                 }
             ],
             "outlines": null
@@ -452,11 +452,11 @@
             "footnotes": [
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "45-1"
                 },
                 {
                     "word": "Anak?",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": null
@@ -467,10 +467,148 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Ang talinghaga ng ubasan sa kapitulo 21 ay tumutukoy sa Lumang Tipan, na siyang kaharian ng Diyos (21:43); samantalang ang talinghaga ng piging ng kasalan sa kapitulong ito ay tumutukoy sa Bagong Tipan, kung saan naroroon ang “kaharian ng mga kalangitan.” Sa nauunang talinghaga (21:33-46), ang Panginoon ay naglarawan kung papaanong ang mga Hudyo sa kaharian ng Diyos ay maparurusahan, at kung papaanong ang kaharian ng Diyos ay maiaalis sa kanila at maibibigay sa mga tao ng kaharian. Ang isa pang talinghaga ay kinakailangan upang Kanyang mailarawan kung papaanong ang mga tao ng kaharian sa kaharian ng mga kalangitan ay tutuusin nang mahigpit. Ang dalawang talinghaga ay kapwa tumutukoy na ang kaharian ay isang seryosong bagay."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang “hari” ay ang Diyos, at ang “anak” ay si Kristo."
+        },
+        {
+            "id": "2-3",
+            "text": "Sa nauunang talinghaga, ang Lumang Tipan ay inihalintulad sa isang ubasan, na pangunahing nagbibigay-diin sa bagay ng pagpapagal sa ilalim ng kautusan; sa talinghagang ito, ang Bagong Tipan ay inihalintulad sa isang “piging ng kasalan,” na pangunahing nagbibigay-diin sa bagay ng pagtatamasa sa ilalim ng biyaya."
+        },
+        {
+            "id": "3-1",
+            "text": "Ito ang unang grupo ng mga Bagong Tipang apostol."
+        },
+        {
+            "id": "4-1",
+            "text": "Ito ang iba pang mga apostol na isinugo ng Panginoon."
+        },
+        {
+            "id": "4-2",
+            "text": "Sa pangunahin, ang unang komida, na kinakain sa umagang-umaga bago magtrabaho."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang “mga baka” at ang “mga pinatabang hayop” ay kapwa tumutukoy kay Kristo, na pinatay upang ang mga piniling tao ng Diyos ay magtamasa sa Kanya bilang isang piging."
+        },
+        {
+            "id": "7-1",
+            "text": "Ito ay ang “mga hukbo” ng Romano sa ilalim ni Tito na sumira sa Herusalem noong A.D. 70."
+        },
+        {
+            "id": "8-1",
+            "text": "Ginawang “hindi karapat-dapat” ang mga Hudyo ng kanilang pagtanggi sa pagtatamasa ng Bagong Tipan (Gawa 13:46)."
+        },
+        {
+            "id": "9-1",
+            "text": "Dahilan sa pagtanggi ng mga Hudyo, ang pangangaral ng Bagong Tipan ay napabaling sa mga Hentil (Gawa 13:46; Roma 11:11)."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang “damit pangkasalang” ito ay isinagisag ng binurdahang damit sa Awit 45:14 at isinagisag ng pinong lino sa Apoc.19:8 (tingnan ang tala roon). Ito ay ang humihigit na katuwiran ng mga mandaraig na mananampalataya sa Mat. 5:20 (tingnan ang tala roon). Ang taong hindi nararamtan ng “damit pangkasalan” ay ligtas, sapagkat siya ay nakarating sa piging ng kasalan. Natanggap niya si Kristo bilang kanyang katuwiran upang siya ay ariing-matuwid sa harap ng Diyos (Fil. 3:9; 1 Cor. 1:30; Roma 3:26), ngunit hindi niya ibinuhay si Kristo bilang kanyang subhektibong katuwiran (Fil. 3:9) upang siya ay makabahagi sa pagtatamasa sa kaharian ng mga kalangitan. Siya ay tinawag tungo sa kaligtasan, ngunit hindi siya pinili para sa pagtatamasa sa kaharian ng mga kalangitan, na para lamang sa mga mandaraig na mananampalataya."
+        },
+        {
+            "id": "13-1",
+            "text": "Malamang na mga angel ang “mga naglilingkod” (cf. 13:41, 49)."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang “maitapon sa kadiliman sa labas” ay hindi ang mapahamak; ito ay ang matuos nang pampanahunan dahil sa hindi ibinuhay ang isang nananaig na buhay sa pamamagitan ni Kristo upang mapaging-dapat sa pakikilahok sa pagtatamasa sa kaharian sa panahon ng isang libong taon. Sa panahong yaon, ang mga mandaraig na mananampalataya ay makakasama ni Kristo sa nagniningning na kaluwalhatian ng kaharian (Col. 3:4); samantalang ang mga nadaig ay magdurusa ng disiplina sa kadiliman sa labas (Tingnan ang tala 12-2 sa kapitulo 8)."
+        },
+        {
+            "id": "13-3",
+            "text": "Tingnan ang tala 12-3 sa kap. 8."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang “matawag” ay ang tumanggap ng kaligtasan (Roma 1:7; 1 Cor. 1:2; Efe. 4:1), samantalang ang “mahirang” ay ang tumanggap ng gantimpala. Ang lahat ng mananampalataya ay tinawag na, ngunit kakaunti ang mahihirang sa darating na kapanahunan upang tumanggap ng gantimpala."
+        },
+        {
+            "id": "15-1",
+            "text": "Tingnan ang tala 7-1 sa kap. 3."
+        },
+        {
+            "id": "15-2",
+            "text": "Gr. sa isang salita."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang “mga Herodiano” ay yaong mga kumampi sa pamumuno ni Haring Herodes at nakibahagi sa kanya sa pagpapasok ng maka-Griyego at maka-Romanong pamamaraan ng pamumuhay sa mga Hudyo. Sila ay kampi sa mga Saduceo, ngunit laban sa mga Fariseo. Subalit dito sila ay nakikampi sa mga Fariseo upang bitagin ang Panginoong Hesus."
+        },
+        {
+            "id": "16-2",
+            "text": "Gr. tumitingin sa mukha ng tao."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay tunay na isang nakabibitag na katanungan. Ang “magbigay ng buwis kay Cesar” ay sinasalungat ng lahat ng Hudyo. Kung sinabi ng Panginoong Hesus na matuwid na gawin ito, Kanyang pasasamain ang loob ng mga Hudyo na ang mga pinuno ay ang mga Fariseo. Kung sinabi Niyang hindi matuwid, ito ay magbibigay sa mga Herodiano na kampi sa pamahalaang Romano ng isang matibay na batayan upang akusahin Siya."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang tala 2-3 sa kap. 6."
+        },
+        {
+            "id": "19-1",
+            "text": "Hindi naglabas ng baryang Romano ang Panginoong Hesus, ngunit Kanyang sinabihan sila na maglabas ng isa upang Kanyang makita. Yayamang sila ay nagtataglay ng isa sa mga baryang Romano, sila ay nahuli ng Panginoon."
+        },
+        {
+            "id": "21-1",
+            "text": "Ito ay ang magbayad ng buwis kay Cesar ayon sa kanyang pampamahalaang regulasyon."
+        },
+        {
+            "id": "21-2",
+            "text": "Ito ay ang magbayad ng kalahating siklo sa Diyos ayon sa Exo. 30:11-16, at ang maghandog ng lahat ng ikapu sa Diyos ayon sa kautusan ng Diyos."
+        },
+        {
+            "id": "23-1",
+            "text": "Tingnan ang tala 7-2 sa kap. 3."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang “pagkaalam ng mga Kasulatan” ay isang bagay; ang pagkaalam sa “kapangyarihan ng Diyos” ay ibang bagay. Pareho nating kinakailangang malaman ang mga ito. “Ang mga Kasulatan” dito ay tumutukoy sa mga bersikulo ng Lumang Tipan tungkol sa bagay ng pagkabuhay na muli, at ang “kapangyarihan ng Diyos,” sa kapangyarihan ng pagkabuhay na muli."
+        },
+        {
+            "id": "32-1",
+            "text": "Sapagkat ang Diyos ay ang Diyos ng mga buhay at tinawag na Diyos ni Abraham, at ni Isaac, at ni Jacob, kaya ang patay na Abraham, Isaac, at Jacob ay mabubuhay na muli. Ito ang pamamaraan ng pagpapaliwanag ng Panginoong Hesus sa mga Kasulatan—hindi lamang sa pamamagitan ng titik kundi sa pamamagitan ng buhay at kapangyarihan na ipinahiwatig sa loob ng mga ito."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang isang bihasa sa kautusan ni Moises, isang propesyonal na tagapagpaliwanag ng kautusan ng Lumang Tipan."
+        },
+        {
+            "id": "37-1",
+            "text": "O, makakayanan. Ang “nang buong puso mo, nang buong kaluluwa mo, at nang buong kaisipan mo” ay literal na “sa loob ng iyong buong puso, sa loob ng iyong buong kaluluwa, at sa loob ng iyong buong kaisipan.”"
+        },
+        {
+            "id": "40-1",
+            "text": "Ang “dalawang utos” na ito ay kapwa isang bagay ng pag-ibig, alinman sa pag-ibig sa Diyos o pag-ibig sa tao. Ang pag-ibig ay ang espiritu ng mga utos ng Diyos."
+        },
+        {
+            "id": "42-1",
+            "text": "Mula sa 21:23 hanggang 22:46, sa panahon ng Kanyang huling pagdalaw sa Herusalem na siyang sentro ng Hudaismo, si Kristo ay pinalibutan ng mga pangulong saserdote, mga matanda, mga Fariseo, mga Herodiano, mga Saduceo, at isang tagapagtanggol ng kautusan, na nagsikap bumitag sa Kanya sa pamamagitan ng mga nakalilito at mga tusong tanong. Unang-una, ang mga pangulong saserdote na kumakatawan sa awtoridad ng relihiyon ng mga Hudyo at ang mga matanda na kumakatawan sa awtoridad ng mga taong Hudyo, ay nagtanong sa Kanya ng tungkol sa Kanyang awtoridad (21:23). Ito ay isang katanungan ayon sa kanilang relihiyosong kaisipan. Pangalawa, ang mga pundamental na Fariseo at ang mga Herodianong mainit ang puso sa pulitika ay nagtanong sa Kanya ng mga bagay na may kinalaman sa pulitika. Pangatlo, ang mga makabagong Saduceo ay nagtanong sa Kanya tungkol sa pundamental na paniniwala. Pang-apat, isang tagapagtanggol ng kautusan na nagmamagaling-sa-sarili ang nagtanong sa Kanya tungkol sa kautusan. Pagkatapos masagot nang may karunungan ang lahat ng katanungan nila, Siya ay nagtanong sa kanila ng isang katanungan tungkol kay Kristo. Ito ay ang tanong ng mga tanong. Ang kanilang mga katanungan ay may kaugnayan sa relihiyon, pulitika, paniniwala, at kautusan. Ang Kanyang katanungan ay tungkol kay Kristo, na Siyang sentro ng lahat ng bagay. Nalalaman nila ang relihiyon, pulitika, paniniwala, at kautusan, subalit hindi sila nagbigay-pansin kay Kristo. Sa gayon, Siya ay nagtanong sa kanila, “Ano ang palagay ninyo hinggil sa Kristo?” Ito ang tanong ng mga tanong na nararapat sagutin ng bawat isa."
+        },
+        {
+            "id": "43-1",
+            "text": "Si Kristo ay makikilala lamang natin sa ating espiritu sa pamamagitan ng pahayag ng Diyos (Efe. 3:5, Gr.)."
+        },
+        {
+            "id": "45-1",
+            "text": "Bilang Diyos, sa Kanyang pagka-Diyos, si Kristo ay ang “Panginoon” ni David; bilang tao, sa Kanyang pagkatao, Siya ang “Anak” ni David. Kakalahati lamang ang kaalaman ng mga Fariseo tungkol sa Persona ni Kristo, yaon ay, na Siya ay ang Anak ni David ayon sa Kanyang pagkatao. Ngunit ang isa pang kalahati, yaon ay, ang tungkol sa pagka-Diyos ni Kristo bilang Anak ng Diyos, ay lingid sa kanila."
+        },
+        {
+            "id": "46-1",
+            "text": "Ang tanong ng mga tanong ni Kristo tungkol sa Kanyang kahanga-hangang Persona ang nagbusal sa mga bibig ng lahat ng tagasalungat Niya."
         }
     ]
 }

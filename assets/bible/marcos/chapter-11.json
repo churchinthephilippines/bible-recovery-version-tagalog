@@ -1,5 +1,5 @@
 {
-    "chapter": 11,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,7 +21,7 @@
             "footnotes": [
                 {
                     "word": "masusumpungan",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -56,11 +56,11 @@
             "footnotes": [
                 {
                     "word": "batang",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -71,15 +71,15 @@
             "footnotes": [
                 {
                     "word": "punung-",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "murang",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "susun-",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -108,7 +108,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -127,7 +127,7 @@
             "footnotes": [
                 {
                     "word": "Wala",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -138,7 +138,7 @@
             "footnotes": [
                 {
                     "word": "itaboy",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -155,7 +155,7 @@
             "footnotes": [
                 {
                     "word": "nagturo",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -166,7 +166,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -195,7 +195,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -218,11 +218,11 @@
             "footnotes": [
                 {
                     "word": "magpatawad",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "anumang",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -233,7 +233,7 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -259,7 +259,7 @@
             "footnotes": [
                 {
                     "word": "bagay,",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -288,14 +288,92 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "33-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa mga bb. 1-11, tingnan ang mga tala sa Mat. 21:1-10."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang kaalaman-tungkol-sa-lahat dito ng Aliping-Tagapagligtas ay naghayag ng Kanyang pagka-Diyos. Tingnan ang tala 8-1 sa kap. 2."
+        },
+        {
+            "id": "7-1",
+            "text": "Sumasagisag sa kababaang-loob at kaamuan (tingnan ang tala 5-2 sa Mat. 21)."
+        },
+        {
+            "id": "7-2",
+            "text": "Sumasagisag sa gawi ng tao at sa kagalingang naihahayag ng gawi ng tao (tingnan ang Isa. 64:6; Apoc. 19:8). Inilagay ng mga disipulo ang kanilang sariling damit sa ibabaw ng batang asno upang maupuan ng Panginoon at inilatag ng maraming tao ang mga damit sa daan upang maraanan ng Panginoon (b. 8). Ito ay sumasagisag na sa isang panig, sila ay may pagpipitagan at paggalang sa Panginoon. Sa kabilang panig, ang gawi ng kanilang pantaong kagalingan ay ang lugar na maaaring pag-upuan at pagpahingahan ng Panginoon, at ang kanilang gawi ay naging isang daan na kung saan malayang makalalakad ang Panginoon (tingnan ang tala 7-1 ng Mat. 21). Kaya anuman ang ating ginagawa at gawi ay kinakailangang maging paghahanda ng daan para sa Panginoon at maging lugar na kung saan makauupo ang Panginoon."
+        },
+        {
+            "id": "8-1",
+            "text": "Sa orihinal na teksto, ito ay tumutukoy sa nilatagan ng mga dahon, murang sanga, tambo, at uri ng damo na maaaring maraanan ng tao sa pagkasusun-suson nito. Dito inilatag ng mga tao ang ganitong uri ng sanga nang susun-suson katulad ng alpombra upang maraanan ng kanilang iginagalang at iniibig na Aliping-Tagapagligtas sa Kanyang pagpasok sa loob ng lunsod."
+        },
+        {
+            "id": "8-2",
+            "text": "Sumasagisag sa kasaganaan at kasariwaan ng pantaong buhay na kabaligtaran ng natutuyong dahon (Awit 1:3)."
+        },
+        {
+            "id": "8-3",
+            "text": "Ito ay hindi lamang tumutukoy na marami bagkus makapal pa; nagpapakita na ang tao ay maaaring lumakad nang may kapanatagan sa ibabaw nito."
+        },
+        {
+            "id": "12-1",
+            "text": "Para sa mga bb. 12-14, tingnan ang mga tala sa Mat. 21:18-19."
+        },
+        {
+            "id": "14-1",
+            "text": "Sa bahaging ito, ang bb. 12-26, ang pagsumpa ng Aliping-Tagapagligtas sa puno ng igos at ang Kanyang paglilinis sa templo ay pinagsama, ipinakikita ang Kanyang pakikipagtuos sa napasama at mapanghimagsik na bansa ng Israel sa iba’t ibang aspekto sa parehong panahon. Ang puno ng igos ay ang simbolo ng bansang Israel (Jer. 24:2,5,8), at ang templo ay ang sentro nito sa kaugnayan nito sa Diyos. Bilang isang puno ng igos na itinanim ng Diyos, ito ay hindi namunga para sa Kanya, at bilang ang sentro ng kaugnayan nito sa Diyos, ang templo ay puspos ng kasamaan. Kaya nga, isinumpa ng Aliping-Tagapagligtas ang walang bungang puno ng igos at nilinis ang templong narungisan. Ang gayong pagtutuos ay maaaring ituring na isang paunang-tinig ng pagkawasak na naipropesiya sa 12:9 at 13:2."
+        },
+        {
+            "id": "15-1",
+            "text": "Sa Kanyang ministeryo para sa pagpapalaganap ng ebanghelyo sa Galilea sa 1:14-10:52, ang gawain ng Aliping-Tagapagligtas ay ang ipangaral ang ebanghelyo, ituro ang katotohanan, palayasin ang mga demonyo, at pagalingin ang mga may-sakit. Sa gawaing yaon, ang Kanyang mga pantaong kagalingan, kasama ang Kanyang mga maka-Diyos na katangian, ay naihayag bilang Kanyang pagkamarapat para, at kagandahan sa, Kanyang maka-Diyos na paglilingkod sa Diyos para sa mga makasalanan. Sa Kanyang paghahanda sa Herusalem (11:15 – 14:42) para sa Kanyang nagtutubos na gawain, ang Kanyang pangunahing gawain ay ang harapin ang mga tumutuligsang tagapanguna ng mga Hudyo, na siyang mga dapat na tagapagtayo sa pagtatayo ng Diyos (12:9-10), subalit sa katunayan ay nakamkam ng kaaway ng Diyos na si Satanas at sinulsulan niya upang magsabwatan na patayin Siya. Sa paghaharap na ito sa ilalim ng kanilang mapanlinlang at masamang pagtatanong, pagsubok, at pagsusuri, ang Kanyang pantaong dignidad ay naihayag sa Kanyang pagiging tunay na Tao (11:15-18), at ang Kanyang dibinong karunungan at awtoridad ay naihayag sa Kanyang pantaong ugali at kasakdalan (11:27-12:37), kaya sa katapusan, ang Kanyang mga tagapuna ng kamalian ay naging Kanyang tagapagpatunay ng Kanyang kahusayan. Ito ang naghanda ng daan para sa Kanya na ituro sa mga bulag na manunuligsang ito na Siya, ang Kristo, na anak ni David ay ang Panginoon ni David, ang mismong Diyos (12:35-37), upang malaman nila ang Kanyang pagka-Diyos sa Kanyang pagkatao, na Siya ay ang Diyos na nabubuhay sa loob ng tao."
+        },
+        {
+            "id": "17-1",
+            "text": "Tingnan ang tala 21-2 sa kap. 1."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang tala 6-1 sa kap. 2."
+        },
+        {
+            "id": "22-1",
+            "text": "Lit. ng Diyos."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang magpatawad sa pagkakasala ng iba ay ang saligan ng ating makalangit na Ama upang tayo ay patawarin. Ito ay totoo lalung-lalo na sa oras ng ating pananalangin. Sa estriktong pagsasalita, tayo ay hindi makapananalangin na may isang pusong humahawak sa anumang bagay laban sa kaninuman, yaon ay, na napagalit ninuman o naaalala ang pagkakasala ng iba."
+        },
+        {
+            "id": "25-2",
+            "text": "Dahil sa pagkakasala ng iba."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang bersikulong ito ay wala sa ilang manuskrito."
+        },
+        {
+            "id": "29-1",
+            "text": "Lit. salita."
+        },
+        {
+            "id": "33-1",
+            "text": "Ito ay isang kasinungalingan."
+        },
+        {
+            "id": "33-2",
+            "text": "Tingnan ang tala 27-2 sa Mat. 21."
         }
     ]
 }

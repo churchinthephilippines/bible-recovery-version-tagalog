@@ -1,5 +1,5 @@
 {
-    "chapter": 13,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "halimaw",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "dagat",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "sampung",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "kalapastanganan.",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -33,11 +33,11 @@
             "footnotes": [
                 {
                     "word": "leopardo,",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "kapangyarihan,",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -48,7 +48,7 @@
             "footnotes": [
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -65,7 +65,7 @@
             "footnotes": [
                 {
                     "word": "apatnapu’",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -82,7 +82,7 @@
             "footnotes": [
                 {
                     "word": "banal,",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -93,11 +93,11 @@
             "footnotes": [
                 {
                     "word": "aklat",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "buhat",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -114,7 +114,7 @@
             "footnotes": [
                 {
                     "word": "banal.",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -125,15 +125,15 @@
             "footnotes": [
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "lupa,",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "katulad",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": [
@@ -152,7 +152,7 @@
             "footnotes": [
                 {
                     "word": "tanda,",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -169,11 +169,11 @@
             "footnotes": [
                 {
                     "word": "hininga",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "makapagsalita,",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -184,7 +184,7 @@
             "footnotes": [
                 {
                     "word": "marka",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -201,14 +201,100 @@
             "footnotes": [
                 {
                     "word": "pagkaunawa",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "bilang",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “halimaw” na ito, na siyang ikaapat na halimaw na binanggit sa Dan. 7:7, ay ang Antikristo. Siya ang magiging hari ng mga balang sa Apoc. 9:11."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “dagat” ay ang Dagat Mediteraneo kung saan aahon ang Antikristo. Sinabihan tayo sa 9:11, 11:7, at 17:8 na ang Antikristo ay aahon mula sa kailalimang-walang-hanggan. Dito ay sinasabi na siya ay aahon mula sa dagat, gaya rin ng binanggit sa Dan. 7:3. Ito ay tumutukoy na ang Antikristo ay magbubuhat mula sa dalawang pinagmumulan. Ang kanyang espiritu, na umiiral na sa kailalimang-walang-hanggan bago pa man siya isinilang, ay aahon mula sa kailalimang-walang-hanggan. (Tingnan ang mga tala 8-1 , 10-1 , at 11-1 sa kap. 17.) Ang kanyang katawan ay manggagaling mula sa isa sa mga bansang Hentil sa paligid ng Dagat Mediteraneo. Sa pambibliyang paglalarawan, ang lupa ay sumasagisag sa bansang Israel, at ang dagat ay sumasagisag sa mga bansang Hentil (Apoc. 17:15; Isa. 57:20). Na ang Antikristo ay aahon mula sa kailalimang-walang-hanggan at gayundin mula sa dagat ay malamang na tumutukoy rin na ang dagat ay ang bibig ng kailalimang-walang-hanggan, sapagkat ang kailalimang-walang-hanggan ay nasa pusod ng lupa (Roma 10:7; Mat. 12:40), at ang dagat ay nasa ibabaw ng lupa."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang “sampung sungay at pitong ulo” ng halimaw ay yaong sa dragon (12:3). Ito ay tumutukoy na ang halimaw ay kaisa ng dragon. Ang “sampung sungay” ay ang sampung darating na hari (17:12; Dan. 7:24). Ang “pitong ulo” ay ang pitong Cesar (17:10). Ang sampung sungay ay katumbas ng sampung daliri ng paa ng malaking larawan na binanggit sa Dan. 2:42-44. Ang sinasabi rito ay nagpapakita na ang Emperyo Romano, ang Antikristo, at ang sampung hari ay pawang kaisa ni Satanas."
+        },
+        {
+            "id": "1-4",
+            "text": "Lahat ng pitong Cesar na sinagisag ng pitong ulo ng halimaw ay umangkin ng pagkadiyos para sa kanilang mga sarili at ang kanilang bayan ay tinawagan nila upang sila ay diyusin. Yaon ay tunay na kalapastanganan laban sa Diyos."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang halimaw, ang Antikristo, ay “katulad ng isang leopardo, at ang kanyang mga paa ay gaya ng sa oso, at ang kanyang bibig ay gaya ng bibig ng leon.” Ayon sa Dan. 7:4-6, ang leopardo, na may katangiang maliksi at mabagsik na paggalaw, ay ang simbulo ni Alejandro na Dakila, ang hari ng Grecia. Ang oso, na may katangiang mapangwasak na mga paa, ay ang simbolo ng monarkiya ng Medo-Persia. Ang leon, na may katangiang mapangain na bibig, ay isang simbolo ni Nabucodonosor, ang hari ng Babilonia. Bilang ang Antikristo, ang halimaw ay katulad ng tatlong ito, kaya siya ay magkakaroon ng lahat ng kanilang mga katangian, gaya ng binanggit sa Dan. 7:4-7. Siya ang kabuuan ng lahat ng masasamang kapangyarihan sa pantaong kasaysayan."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang pagbibigay ng dragon sa halimaw ng kanyang kapangyarihan, kanyang trono at dakilang awtoridad ay tumutukoy na ginagawa niya ang halimaw na kaisa niya upang dito sa lupa ang halimaw ay makagawa ng pagrerebelde laban sa Diyos at pag-uusig sa bayan ng Diyos."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang isa sa kanyang pitong ulo ay ang isa sa mga Cesar na papatayin at muling mabubuhay. Na “ang kanyang sugat na ikamamatay ay gumaling” ay nangangahulugan na siya ay mabubuhay na muli (tingnan ang tala sa 17:11) mula sa kamatayan. Dahil dito “ang buong lupa ay nanggilalas sa halimaw.”"
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “apatnapu’t dalawang buwan” dito at sa 11:2 ay ang tatlo at kalahating taon sa 12:14 at ang isang libo dalawang daan at animnapung araw sa 11:3 at 12:6, na siyang magiging panahon ng matinding kapighatian (Mat. 24:21). Sa wakas ng kapanahunang ito ay gagawa ang Antikristo ng isang kasunduan sa bansang Israel para sa pitong taon (Dan. 9:27). Tatlo at kalahating taon pagkatapos magawa ang kasunduan, ito ay kanyang sisirain, kanyang tatapusin ang lahat ng pagsamba at paglilingkod na ginagawa ng mga Hudyo sa Diyos (Dan. 9:27), uusigin ang mga banal (b. 7), at wawasakin ang banal na lunsod (11:2) sa loob ng tatlo at kalahating taon."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang “mga banal” dito ay ang nalalabi sa binhi ng babae sa 12:17, na binubuo ng mga Hudyong tumutupad sa utos ng Diyos at mga mananampalataya ni Kristo na nagpapatotoo para sa Kanya. Ito ay nagpapatunay na sa panahon ng matinding kapighatian ay may nalalabi pa ring ilang mananampalataya sa lupa na hindi pa naiaakyat na may masidhing kagalakan."
+        },
+        {
+            "id": "8-1",
+            "text": "Lit. balumbon ng papel na may sulat."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang pariralang “buhat nang itatag ang sanlibutan” ay maaring kapwa tumutukoy sa “na ang pangalan ay hindi nakasulat” at sa “ng Kordero na pinatay.”"
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang tala 7-1 ."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang “isa pang halimaw” na ito ay ang huwad na propeta (16:13; 19:20; 20:10)."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang isa pang halimaw ay aahon buhat sa lupa. Yamang ang lupa ay sumasagisag sa bansang Israel gaya ng tinukoy na natin sa tala 1-2 , ang isa pang halimaw na ito, ang huwad na propeta, ay magmumula sa mga Hudyo. Siya ay malamang na si Judas Iscariote (Juan 6:70-71), sapagkat siya ay nagtungo sa “kanyang sariling kalalagyan” (Gawa 1:25) pagkatapos niyang mamatay at hindi ”nalakip sa kanyang bayan” katulad ng nangyari sa iba (Gen. 25:17; 35:29). Kaya kung ang lugar ng pinagmulan ang pagbabatayan, ang huwad na propeta ay magbubuhat sa lupa, yaon ay, sumasagisag na siya ay magbubuhat sa mga Hudyo."
+        },
+        {
+            "id": "11-3",
+            "text": "Ang huwad na propeta ay may anyong “katulad ng isang kordero” subali’t nagsasalitang “gaya ng isang dragon.” Ito ay tumutukoy sa kanyang pagiging huwad, nagpapakitang isang kordero subali’t nagsasalitang katulad ng dragon, si Satanas."
+        },
+        {
+            "id": "13-1",
+            "text": "Lit. simbolo. Gayundin ang kahulugan para sa kasunod na bersikulo. Ang huwad na propeta ay gumamit ng kapangyarihan ni Satanas upang makagawa ng mga dakilang kababalaghan, katulad ng pagpapababa ng apoy mula sa langit, gaya ng ginawa ni Elias (I Hari 18:36-38), upang maging mahirap para sa mga tao na mapagkilala kung sino ang tunay na propeta at kung sino ang huwad na propeta (cf. 11:5)."
+        },
+        {
+            "id": "15-1",
+            "text": "O, espiritu."
+        },
+        {
+            "id": "15-2",
+            "text": "Wala pang diyus-diyusan na ginawa ng tao ang nakapagsalita (Awit 115:5), subali’t ang huling diyus-diyusang ito ay makapagsasalita gaya ng isang buháy na larawan. Ito ay tiyak na magiging isang kagila-gilalas na tanda sa mga nananahan sa lupa, sasanhiin silang lahat na sambahin ito."
+        },
+        {
+            "id": "16-1",
+            "text": "Gr. karagma; inukit na tanda."
+        },
+        {
+            "id": "18-1",
+            "text": "Lit. pag-iisip."
+        },
+        {
+            "id": "18-2",
+            "text": "“Ang bilang ng halimaw” ay “ang bilang ng isang tao.” Ang taong ito ay si Cesar Nero, na siya ring darating na Antikristo. (Tingnan ang mga tala 8-1 , 10-1 at 11-1 sa kapitulo 17.) Ang bilang na kinatawan ng mga titik ng pangalang Cesar Nero sa Hebreo ay 666 gaya ng sumusunod: Griyego Hebreo Griyego Hebreo Ne 50 Kai100 r200 sa 60 w6 r200 n 50 306 +360 = 600 Sapagka’t ang aklat ng Apocalipsis ay isinulat sa panahon ng Emperyo Romano, hindi binanggit ni Juan ang pangalan ni Nero, kundi tinukoy ito sa pamamagitan ng bilang. Kaya, kinakailangan ang “karunungan” upang maunawaan ito."
         }
     ]
 }

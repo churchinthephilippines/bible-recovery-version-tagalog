@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "pagkapasok",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -22,11 +22,11 @@
             "footnotes": [
                 {
                     "word": "Filipos,",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -37,11 +37,11 @@
             "footnotes": [
                 {
                     "word": "ipinamamanhik",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "kamalian,",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -52,7 +52,7 @@
             "footnotes": [
                 {
                     "word": "inaprubahan",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -63,7 +63,7 @@
             "footnotes": [
                 {
                     "word": "pagkukunwari",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -74,11 +74,11 @@
             "footnotes": [
                 {
                     "word": "nagsisihanap",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "tumindig",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -89,11 +89,11 @@
             "footnotes": [
                 {
                     "word": "sisiwa",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "nagkakandili",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -104,11 +104,11 @@
             "footnotes": [
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "aming",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -125,11 +125,11 @@
             "footnotes": [
                 {
                     "word": "pagkabanal",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "inugali",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -140,15 +140,15 @@
             "footnotes": [
                 {
                     "word": "kung",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "ama",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "nanghihikayat",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -159,15 +159,15 @@
             "footnotes": [
                 {
                     "word": "tumawag",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "kaluwalhatian.",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -178,11 +178,11 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": [
@@ -195,7 +195,7 @@
             "footnotes": [
                 {
                     "word": "tagatulad",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -212,7 +212,7 @@
             "footnotes": [
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -223,19 +223,19 @@
             "footnotes": [
                 {
                     "word": "nangulila",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "sandaling",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "presensiya",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "nananabik",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -246,7 +246,7 @@
             "footnotes": [
                 {
                     "word": "hinadlangan",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -257,7 +257,7 @@
             "footnotes": [
                 {
                     "word": "pagparito?",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -268,10 +268,140 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Paulit-ulit na binibigyang-diin ng apostol ang kanilang pagkapasok sa mga mananampalataya (1:5, 9). Ito ay nagpapakita na napakalaki ng ginampanan ng uri ng kanilang pamumuhay sa paglalalin ng ebanghelyo sa loob ng mga bagong mananampalataya. Ang uri ng kanilang pamumuhay ay hindi lamang kung ano ang kanilang sinabi bagkus maging kung ano sila."
+        },
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 1-1 sa Filipos 1."
+        },
+        {
+            "id": "2-2",
+            "text": "Ito ang karanasan ng mga apostol sa Diyos sa pagtatamasa sa Kanya bilang kanilang kalakasan ng loob para sa pakikipagtunggali para sa ebanghelyo."
+        },
+        {
+            "id": "3-1",
+            "text": "O, ipinanghihikayat."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang kamalian ay tumutukoy sa layunin, ang karumihan ay tumutukoy sa motibo, at ang pandaraya ay tumutukoy sa kaparaanan. Lahat ng tatlong ito ay buhat sa at sa pamamagitan ng tuso at mapanlinlang na Diyablo."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pagkakatiwala ng Diyos ay nakasalalay sa Kanyang pag-apruba sa pamamagitan ng Kanyang pagsubok. Ang mga apostol ay unang sinubok at inaprubahan ng Diyos at pagkaraan ay pinagkatiwalaan Niya ng ebanghelyo. Kaya nga, ang kanilang pagsasalita, ang pagpapahayag ng ebanghelyo, ay hindi buhat sa kanilang mga sarili upang bigyang-kaluguran ang mga tao, kundi buhat sa Diyos upang bigyan Siya ng kaluguran. Kanyang sinisiyasat, sinusuri, at sinusubok ang kanilang mga puso sa tuwina (Awit 26:2; 139:23-24)."
+        },
+        {
+            "id": "5-1",
+            "text": "O, balatkayo, balabal. Ang magkaroon ng anumang balabal ng kasakiman ay ang kalakalin o gamitin na may daya ang salita ng Diyos (2 Cor. 2:17; 4:2). Ito rin ay ang magkunwaring maka-Diyos para sa pakinabang (1 Tim. 6:5; Tito 1:11; 2 Ped. 2:3)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang maghanap ng kaluwalhatian mula sa mga tao ay isang tunay na tukso sa bawat manggagawa ni Kristo. Marami na ang sinakmal at sinira ng bagay na ito."
+        },
+        {
+            "id": "6-2",
+            "text": "O, magpagalang, maggiit ng awtoridad. Lit. magpabigat, yaon ay, magpapasan (cf. b. 9; I Cor. 9:4-12). Ang ipaggiitan ang awtoridad, dignidad o karapatan sa gawaing Kristiyano ay pumipinsala sa gawain. Isinuko ng Panginoong Hesus, nang narito pa sa lupa, ang Kanyang dignidad (Juan 13:4-5), at gayundin, minabuti ng apostol na huwag gamitin ang kanyang karapatan (I Cor. 9:12)."
+        },
+        {
+            "id": "7-1",
+            "text": "Gr. trophos , nangangahulugang (paminsan-minsan) isang ina; kaya nga, isang sisiwang ina (cf. Gal. 4:19)."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang pagkakandili, kasama ang pagpapakain, ay nagpapakita ng higit na magiliw na pangangalaga kaysa pagpapakain lamang. Tingnan ang tala 29-1 sa Efeso 5."
+        },
+        {
+            "id": "8-1",
+            "text": "Magiliw na nalulugod, magiliw na nagnanais, katulad sa isang sisiwang ina na magiliw na may pagmamalasakit sa kanyang anak na kanyang pinakakain at kinakandili. Ito ang ginawa ng mga apostol sa mga bagong mananampalataya. Tingnan ang tala 17-4 ."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang mamuhay ng isang malinis at matuwid na buhay katulad ng inilarawan sa mga bersikulo 3-6 at 10, at ang ibigin ang mga bagong mananampalataya,maging sa pamamagitan ng pagbibigay ng ating mga sariling kaluluwa sa kanila, katulad ng inilarawan sa mga bersikulo 7-9 at 11, ay ang mga pangunahing kahilingan para sa paglalalin sa kanila ng kaligtasang inihatid ng ebanghelyo na ating ipinapahayag."
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang tala 75-1 ng Lucas 1. Ang pagkabanal ay patungkol sa Diyos, ang pagkamatuwid ay patungkol sa mga tao, at ang pagkawalang-kapintasan ay patungkol sa lahat—Diyos, mga tao, at Satanas."
+        },
+        {
+            "id": "10-2",
+            "text": "Lit. naging."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang apostol ay matibay sa pagdiriin ng tungkol sa kung ano sila o sa kanilang pagkatao (1:5), sapagkat ang kung ano sila ang nagbukas ng daan upang dalhin ang mga bagong mananampalataya sa loob ng ganap na pagliligtas ng Diyos."
+        },
+        {
+            "id": "11-2",
+            "text": "Sa pagkandili sa mga mananampalataya bilang kanilang mga sariling anak, itinuring ng mga apostol ang kanilang mga sarili na isang sisiwang ina; at sa kanilang paghihikayat sa mga bagong mananampalataya, sila naman ay isang ama."
+        },
+        {
+            "id": "11-3",
+            "text": "O, namamanhik."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang pagtawag ng Diyos ay ayon sa Kanyang pagpili at kasunod ng Kanyang pagpili (1:4)."
+        },
+        {
+            "id": "12-2",
+            "text": "Bilang mga mananamba ng mga diyos-diyosan (1:9), ang mga mananampalataya ay nasa kaharian ni Satanas noon (Mat. 12:26). Ngayon, sa pamamagitan ng kaligtasang nasa loob ni Kristo, sila ay tinawag at nanampalataya tungo sa loob ng kaharian ng Diyos na siyang kinasasaklawan kung saan sila ay makasasamba at makapagtatamasa sa Diyos sa ilalim ng dibinong pamumuno na may pananaw ng pagpasok sa kaluwalhatian ng Diyos."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang kaluwalhatian ng Diyos ay sumasama sa Kanyang kaharian. Tingnan ang tala 13-4 sa Mateo 6."
+        },
+        {
+            "id": "13-1",
+            "text": "O, salita ng pakikinig. Bagaman ang salitang tinanggap ng mga mananampalataya ay buhat sa mga apostol, ito ay salita ng Diyos; ang pinagmulan nito, ang pinanggalingan nito ay ang Diyos."
+        },
+        {
+            "id": "13-2",
+            "text": "Yamang ang salita ng Diyos ay buháy at gumagawa (Heb. 4:12), ito ay gumagawa sa mga sumasampalataya."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang apostol ay nagturo ng iisang bagay sa lahat ng mga ekklesia (1 Cor. 4:17; 7:17; 11:16). Ito ay nagpapakita na ang lahat ng mga ekklesia ay nararapat magtaglay ng iisang patotoo ni Hesus; kaya nga, silang lahat ay mga patungan ng ilawan na pare-pareho ang uri (Apoc. 1:9, 20)."
+        },
+        {
+            "id": "16-1",
+            "text": "Yaon ay, hanggang sa kaganapan; kaya nga, hanggang sa sukdulan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang salitang ito ay nagpapahiwatig na itinuring ng mga apostol ang mga bagong mananampalataya na mahahalaga at mahal sa kanila. Inihalintulad ni Pablo ang kanilang paglisan sa mga bagong mananampalataya na isang pangungulila, isang kalugihan na dinanas nila sa hindi pagkakita sa kanila."
+        },
+        {
+            "id": "17-2",
+            "text": "Lit. ang panahon ng isang oras."
+        },
+        {
+            "id": "17-3",
+            "text": "Lit. mukha."
+        },
+        {
+            "id": "17-4",
+            "text": "Ito ang magiliw na pag-ibig ng mga apostol sa mga bagong mananampalataya (b. 8)."
+        },
+        {
+            "id": "18-1",
+            "text": "Sapagkat ang mga apostol ay nagsasakatuparan ng kalooban ng Diyos, hinadlangan sila ni Satanas."
+        },
+        {
+            "id": "19-1",
+            "text": "Gr. parousia , nangangahulugang presensiya katulad ng nasa 3:13 at 4:15. Ang pagdating ng Panginoon ay ang presensiya Niya sa atin. Sa ganitong liwanag isinulat ang dalawang Sulat na ito ni Apostol Pablo sa mga Taga-Tesalonica (ang dalawang Sulat na ito ay kabilang sa mga nauunang Sulat ng apostol). Ang bawat kapitulo ng 1 Tesalonica ay nagtatapos sa pagbabalik ng Panginoon."
+        },
+        {
+            "id": "20-1",
+            "text": "Yamang ang mga apostol ay ang sisiwang ina at ang nangangaral at nanghihikayat na ama ng mga mananampalataya (bb. 7, 11), ang mga mananampalataya, bilang kanilang mga anak, ay ang kanilang kaluwalhatian at kagalakan."
         }
     ]
 }

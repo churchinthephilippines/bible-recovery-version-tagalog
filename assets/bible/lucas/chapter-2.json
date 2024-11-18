@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -16,7 +16,7 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -33,7 +33,7 @@
             "footnotes": [
                 {
                     "word": "angkan",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -44,7 +44,7 @@
             "footnotes": [
                 {
                     "word": "nagdadalang-",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -61,11 +61,11 @@
             "footnotes": [
                 {
                     "word": "isinilang",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "sabsaban,",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -76,7 +76,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -105,11 +105,11 @@
             "footnotes": [
                 {
                     "word": "tanda",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "sanggol",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -120,7 +120,7 @@
             "footnotes": [
                 {
                     "word": "nagpupuri",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -131,19 +131,19 @@
             "footnotes": [
                 {
                     "word": "Luwalhati",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "kapayapaan",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -154,7 +154,7 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -217,7 +217,7 @@
             "footnotes": [
                 {
                     "word": "nagbubukas",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -228,11 +228,11 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "Isang",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -243,15 +243,15 @@
             "footnotes": [
                 {
                     "word": "matuwid",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "kaaliwan",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "sumasakanya",
-                    "note": ""
+                    "id": "25-3"
                 }
             ],
             "outlines": null
@@ -286,7 +286,7 @@
             "footnotes": [
                 {
                     "word": "pagliligtas,",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -303,7 +303,7 @@
             "footnotes": [
                 {
                     "word": "ilaw",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -320,11 +320,11 @@
             "footnotes": [
                 {
                     "word": "itinalaga",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "tandang",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
@@ -335,11 +335,11 @@
             "footnotes": [
                 {
                     "word": "tabak",
-                    "note": ""
+                    "id": "35-1"
                 },
                 {
                     "word": "mangahayag.",
-                    "note": ""
+                    "id": "35-2"
                 }
             ],
             "outlines": null
@@ -356,11 +356,11 @@
             "footnotes": [
                 {
                     "word": "balo",
-                    "note": ""
+                    "id": "37-1"
                 },
                 {
                     "word": "naglilingkod",
-                    "note": ""
+                    "id": "37-2"
                 }
             ],
             "outlines": null
@@ -371,11 +371,11 @@
             "footnotes": [
                 {
                     "word": "katubusan",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "38-2"
                 }
             ],
             "outlines": null
@@ -386,7 +386,7 @@
             "footnotes": [
                 {
                     "word": "Nazaret.",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -397,15 +397,15 @@
             "footnotes": [
                 {
                     "word": "lumaki",
-                    "note": ""
+                    "id": "40-1"
                 },
                 {
                     "word": "karunungan,",
-                    "note": ""
+                    "id": "40-2"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "40-3"
                 }
             ],
             "outlines": [
@@ -426,11 +426,11 @@
             "footnotes": [
                 {
                     "word": "labindalawang",
-                    "note": ""
+                    "id": "42-1"
                 },
                 {
                     "word": "kaugalian",
-                    "note": ""
+                    "id": "42-2"
                 }
             ],
             "outlines": null
@@ -471,7 +471,7 @@
             "footnotes": [
                 {
                     "word": "matindi",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -482,15 +482,15 @@
             "footnotes": [
                 {
                     "word": "dapat",
-                    "note": ""
+                    "id": "49-1"
                 },
                 {
                     "word": "Akong",
-                    "note": ""
+                    "id": "49-2"
                 },
                 {
                     "word": "Aking",
-                    "note": ""
+                    "id": "49-3"
                 }
             ],
             "outlines": null
@@ -507,7 +507,7 @@
             "footnotes": [
                 {
                     "word": "napasakop",
-                    "note": ""
+                    "id": "51-1"
                 }
             ],
             "outlines": null
@@ -518,14 +518,184 @@
             "footnotes": [
                 {
                     "word": "pangangatawan",
-                    "note": ""
+                    "id": "52-1"
                 },
                 {
                     "word": "pagbibigay-",
-                    "note": ""
+                    "id": "52-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Ito ay kataas-taasang kapangyarihan ng Diyos, ayon sa binanggit sa Kaw. 21:1. Sa pamamagitan ng pagpapatalang ito, sina Maria at Jose ay nadala mula sa Nazaret tungo sa Betlehem upang ang Tagapagligtas ay maipanganak doon para sa katuparan ng propesiya tungkol sa lugar ng Kanyang kapanganakan (Mik. 5:2; Juan 7:41-42)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang maharlikang angkan at pamilya na nakahanay na magmana ng trono ni David (3:23-31; 1:32; cf. Mat. 1:6-16)."
+        },
+        {
+            "id": "5-1",
+            "text": "O, nasa kabuwanan na."
+        },
+        {
+            "id": "7-1",
+            "text": "Ipinakikilala ni Lucas ang Taong-Tagapagligtas. Kasunod ng salaysay tungkol sa paglilihi sa Kanya, ibinigay sa atin ni Lucas, sa kapitulong ito, ang mahusay na talâ tungkol sa Taong-Tagapagligtas, tungkol sa Kanyang: 1) Tunay na pantaong kapanganakan ayon sa batas ng paglikha ng Diyos sa tao, upang Siya ay maging Taong-Tagapagligtas para sa kaligtasan ng tao; 2) Pisikal na pagtutuli ayon sa kautusan ng pagtatalaga ng Diyos (bb. 21- 24), upang Siya ay maging legal na binhi ni Abraham (Gen.17:9-14), upang maging Isa na kung kanino ang pangako ng Diyos kay Abraham – “sa iyo ang lahat ng angkan ng lupa ay pagpapalain” (Gen. 12:3)-bilang ang ebanghelyong ipinahayag kay Abraham (Gal. 3:8), ay maisakatuparan para sa lahat ng Hentil (Gal. 3:14); 3) Pantaong paglago ayon sa batas ng pantaong buhay (b. 40), upang Siya ay maging isang sakdal na Tao upang ihayag ang Diyos para sa katuparan ng plano ng Diyos ukol sa katubusan; at 4) Wastong pagkabata, na lumalago sa loob ng pagmamalasakit para sa mga bagay ng Diyos. Ang Kanyang pagmamalasakit na ito ay may kaugnayan sa Kanyang pagka-Diyos bilang Anak ng Ama (bb. 40-52). Ang ganitong wastong pagkabata ay nagsasanhi sa Kanyang magkaroon ng ganap na sukat ng karunungan, pangangatawan, at pabor sa Diyos at sa mga tao. Ang talâ rito tungkol sa kapanganakan at kabataan ng Tagapagligtas ay ibang-iba sa talâ sa Mateo 2. Ang mga itinalang pangyayari ni Mateo na naganap sa kapanganakan ng Tagapagligtas at sa panahon ng Kanyang kabataan ay kinapapalooban ng kapansin-pansing katibayan ng marapat na pagkahari ni Kristo. Ang talâ ni Lucas sa gayon ding kapanganakan at katulad na kabataan ay nasa ibang kategorya, mga pangyayari na nagbibigay ng matibay na katunayan ng tunay na pagkatao ni Hesus. Ang dalawang talâ ay sumasaklaw lamang sa dalawang magkaibang panig ng kagila-gilalas na katayuan ng Tagapagligtas. Tingnan ang talâ 2-1 sa Mateo 2."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang buhay ng Taong-Tagapagligtas ay nagsimula sa sabsaban, sa pinakamababang katayuan, dahil sa pang-ookupa ng mga abaláng gawain ng natisod na sangkatauhan. Sa gayon ang lahat ng bahay-panuluyan ay naokupahan."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang kanilang gawain sa pagpapastol ng mga tupa (na nagtutustos hindi lamang ng pagkain para sa tao bagkus nagtutustos din ng mga handog na iniaalay sa Diyos) at ang kanilang katiyagaan sa pagbabantay sa gabi ay nagpaging-dapat sa kanila upang unang makatanggap ng mabuting balita ng kagila-gilalas na kapanganakan ng Tagapagligtas na ipinahayag ng anghel."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang isang sanggol sa isang sabsaban, sumasagisag sa kaliitan sa kababaan, ay isang tanda ng buhay ng Taong-Tagapagligtas."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang munting sanggol na ito ay tinawag na makapangyarihang Diyos sa propesiya tungkol sa Taong-Tagapagligtas (Isa. 9:6)."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang paggagalak ng mga anghel, na tuwang-tuwa sa kapanganakan ng Tagapagligtas para sa kaligtasan ng tao (cf. 15:7), ay humantong sa pagpuri sa Diyos."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang pagdating ng Tagapagligtas ay nagbigay-luwalhati sa Diyos sa kalangitan at nagdala ng kapayapaan sa mga tao sa lupa."
+        },
+        {
+            "id": "14-2",
+            "text": "Lit. sa gitna ng mga taong Kanyang kinalulugdan."
+        },
+        {
+            "id": "14-3",
+            "text": "Mga taong pinili ng Diyos ayon sa Kanyang mabuting kaluguran (Efe. 1:5)."
+        },
+        {
+            "id": "15-1",
+            "text": "Gr. rhema. Lit. salita."
+        },
+        {
+            "id": "23-1",
+            "text": "O, unang inianak."
+        },
+        {
+            "id": "24-1",
+            "text": "Upang ang Taong-Tagapagligtas ay maging isang wastong Israelita bilang isang wastong tao sa harap ng Diyos at ng mga tao, anuman ang kahilingan sa kautusan ay ganap na tinupad sa bb. 21-24 (b. 39)."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang ganitong uri ng hain ay nagpapakita ng karukhaan ng naghahandog (Lev. 12:8), na isa ring katutubong katangian ng buhay ng Taong-Tagapagligtas."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang pagiging matuwid, sa pangunahin, ay patungkol sa mga tao at ang pagiging masipag sa kabanalan ay patungkol sa Diyos."
+        },
+        {
+            "id": "25-2",
+            "text": "Ang Taong-Tagapagligtas ay ang kaaliwan ng hinirang na bayan ng Diyos."
+        },
+        {
+            "id": "25-3",
+            "text": "Lit. sumasaibabaw niya."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang Taong-Tagapagligtas ay ang kaligtasan na ibinigay ng Diyos para sa Kanyang bayan."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang Taong-Tagapagligtas ay isang ilaw para sa mga Hentil at ang kaluwalhatian ng Israel."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang Taong-Tagapagligtas ay itinalaga ng Diyos na maging isang pagsubok sa mga Israelita, nagsasanhi sa marami sa kanila na madapa nang dahil sa Kanya at sa marami na maitindig dahil sa Kanya (Roma 9:33)."
+        },
+        {
+            "id": "34-2",
+            "text": "Ang Taong-Tagapagligtas ay isa ring tanda, isang sagisag, pinag-usapan ng pagsalansang, sinalungat o kinalaban ng mga tao na kumampi sa panig ng Kanyang kalaban, upang ang mga pag-iisip ng maraming puso ay maihayag. Sa salita ni Simeon, ang Taong-Tagapagligtas ay inihayag bilang aliw ng Israel, ang pagliligtas ng Diyos, isang ilaw para sa mga Hentil, ang kaluwalhatian ng Israel, isang pagsubok sa Israel, at isang tandang sinalungat."
+        },
+        {
+            "id": "35-1",
+            "text": "Habang ang Taong-Tagapagligtas bilang tanda ay pinag-uusapan ng pagsalansang, ang pagdurusa ay tumatagos din sa kaibuturan ng katauhan ng nilalang na nagsilang sa Kanya. Ito ang karanasan ng Kanyang pagdurusa sa panahon ng pagdaranas sa Kanya."
+        },
+        {
+            "id": "35-2",
+            "text": "Kung ano ang nasa loob ng puso ng tao ay madaling naihahantad sa pamamagitan ng kanyang saloobin kay Kristo."
+        },
+        {
+            "id": "37-1",
+            "text": "O, balo na nang walumpu’t apat na taon."
+        },
+        {
+            "id": "37-2",
+            "text": "Lit. naglilingkod bilang isang saserdote."
+        },
+        {
+            "id": "38-1",
+            "text": "Tumutukoy sa Taong-Tagapagligtas bilang katubusan ng mga tao ng Diyos."
+        },
+        {
+            "id": "38-2",
+            "text": "Ang ilang manuskrito ay binabasang, sa."
+        },
+        {
+            "id": "39-1",
+            "text": "Ang Taong-Tagapagligtas ay isinilang sa Betlehem, ang lunsod ni David, at nanatili roon nang maikling panahon lamang, ngunit Siya ay pinalaki sa Nazaret isang hinamak na lunsod sa Galilea, isang hinamak na rehiyon. Ito ay ayon sa kataas-taasang pagsasaayos ng Diyos upang Siya ay maging isang taong hinamak. Ang pagiging hamak ay isa ring katutubong katangian ng pantaong buhay ng Tagapagligtas."
+        },
+        {
+            "id": "40-1",
+            "text": "Lumaki sa pangangatawan (b. 52) at naging malakas sa espiritu (cf. 1:80)."
+        },
+        {
+            "id": "40-2",
+            "text": "Ang karunungan ng pagka-Diyos ng Tagapagligtas (Col. 2:2-3) ay naihayag sa kasukat na paglaki ng Kanyang katawan katulad ng nasa b. 52."
+        },
+        {
+            "id": "40-3",
+            "text": "Bilang isang Tao, maging si Hesus ay nangailangan ng biyaya ng Diyos para sa Kanyang pantaong pamumuhay. Siya ay puspos ng karunungan sa Kanyang pagka-Diyos at nangailangan ng biyaya ng Diyos sa Kanyang pagkatao."
+        },
+        {
+            "id": "42-1",
+            "text": "Sa gulang na labindalawa, ang isang batang lalake ay tinatawag ng mga Hudyong “anak ng kautusan” at sa kauna-unahang pagkakataon ay gaganap ng tungkuling pangkautusan (Alford). Ang bilang na labindalawa ay sumasagisag din sa walang hanggang kasakdalan sa administrasyon ng Diyos. Kaya nga, ipinakikita ng “labindalawang taon” na kung ano ang ginawa ng Panginoon dito ay lubusang kaugnay sa administrasyon ng Diyos."
+        },
+        {
+            "id": "42-2",
+            "text": "Itinalaga ng Diyos upang ang isang tao ay maging legal na lalake sa Israel (Deut. 16:16)."
+        },
+        {
+            "id": "48-1",
+            "text": "Lit. hirap na hirap."
+        },
+        {
+            "id": "49-1",
+            "text": "Tinutukoy na ang batang si Hesus ay nagmamalasakit sa mga bagay ng Diyos."
+        },
+        {
+            "id": "49-2",
+            "text": "O, Akong maglumagak sa bahay ng Aking Ama?"
+        },
+        {
+            "id": "49-3",
+            "text": "Tumutukoy sa pagka-Diyos ng batang si Hesus (Juan 5:18). Sa Kanyang pagkatao, Siya ay anak ng Kanyang mga magulang; sa Kanyang pagka-Diyos, Siya ay Anak ng Diyos na Ama."
+        },
+        {
+            "id": "51-1",
+            "text": "Ang pagpapasakop ng Kanyang pagkatao sa Kanyang mga magulang bilang Tao."
+        },
+        {
+            "id": "52-1",
+            "text": "Ang salitang Griyego ay nangangahulugang hindi lamang sa pangangatawan na katulad sa 19:3, bagkus sa gulang din (tala 27-1 sa Mat. 6)."
+        },
+        {
+            "id": "52-2",
+            "text": "Nagbibigay-lugod sa Diyos sapagkat Siya ay lumalaki sa kahayagan ng Diyos ayon sa hangarin ng Diyos; nagbibigay-lugod sa mga tao, sapagkat Siya ay lumalaki sa mga pantaong kagalingan na siyang kalugud-lugod sa mga tao. Siya ay lumalaki bilang isang Diyos-Tao sa harap ng Diyos at ng mga tao."
         }
     ]
 }

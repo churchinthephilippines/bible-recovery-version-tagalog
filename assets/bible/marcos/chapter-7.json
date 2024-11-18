@@ -1,5 +1,5 @@
 {
-    "chapter": 7,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -20,7 +20,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -31,11 +31,11 @@
             "footnotes": [
                 {
                     "word": "maingat",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "matatanda;",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -46,11 +46,11 @@
             "footnotes": [
                 {
                     "word": "mahugasan",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "tanso.",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -61,7 +61,7 @@
             "footnotes": [
                 {
                     "word": "Fariseo",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -72,7 +72,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -83,7 +83,7 @@
             "footnotes": [
                 {
                     "word": "pagsamba",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -94,7 +94,7 @@
             "footnotes": [
                 {
                     "word": "tao.",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -105,7 +105,7 @@
             "footnotes": [
                 {
                     "word": "isinasaisantabi",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -116,7 +116,7 @@
             "footnotes": [
                 {
                     "word": "mamatay",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -127,7 +127,7 @@
             "footnotes": [
                 {
                     "word": "corban",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -156,7 +156,7 @@
             "footnotes": [
                 {
                     "word": "makarurungis",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -167,7 +167,7 @@
             "footnotes": [
                 {
                     "word": "Kung",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -208,11 +208,11 @@
             "footnotes": [
                 {
                     "word": "pandaraya,",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "matang",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -223,7 +223,7 @@
             "footnotes": [
                 {
                     "word": "masasamang",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -234,11 +234,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "24-3"
                 }
             ],
             "outlines": [
@@ -257,7 +257,7 @@
             "footnotes": [
                 {
                     "word": "Sirofenisa",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -268,7 +268,7 @@
             "footnotes": [
                 {
                     "word": "maliliit",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -285,7 +285,7 @@
             "footnotes": [
                 {
                     "word": "demonyo",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -302,7 +302,7 @@
             "footnotes": [
                 {
                     "word": "Galilea",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": [
@@ -315,7 +315,7 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -326,7 +326,7 @@
             "footnotes": [
                 {
                     "word": "isinuot",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -337,7 +337,7 @@
             "footnotes": [
                 {
                     "word": "Ephphatha!",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -354,7 +354,7 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -364,6 +364,120 @@
             "text": "At sila ay lubhang nagtaka,  na nagsasabi, Mabuti ang pagkagawa Niya sa lahat ng mga bagay; ginagawa rin Niyang makarinig ang bingi at makapagsalita ang pipi.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa bb. 1-23, tingnan ang mga tala sa Mat. 15:1-20."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang ilang manuskristo ay nagdaragdag ng, sila ay nakahanap ng kamalian."
+        },
+        {
+            "id": "3-1",
+            "text": "Lit. kasama ang kamao."
+        },
+        {
+            "id": "3-2",
+            "text": "O, mga sinauna, mga tao ng mga nakaraang henerasyon."
+        },
+        {
+            "id": "4-1",
+            "text": "Lit. mabautismuhan. Ang ilang manuskristo ay may, mawisikan."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, at mga higaan."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 6-1 sa kap. 2."
+        },
+        {
+            "id": "6-1",
+            "text": "Tingnan ang tala 2-3 sa Mateo 6."
+        },
+        {
+            "id": "7-1",
+            "text": "Pagpitagan, binibigyang-diin ang damdamin ng pagpapakundangan o debosyon."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, mga paghuhugas ng mga inuman at mga pitsel, at marami pang ibang magkakatulad na bagay na ginagawa ninyo."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang bunga ng pagtupad sa tradisyon ay ang isaisantabi ang utos ng Diyos."
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang tala 4-3 sa Mateo 15."
+        },
+        {
+            "id": "11-1",
+            "text": "Para sa salitang Hebreong qorban , isang hain na sumasagisag sa anumang bagay na inihain sa Diyos."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang nakapagsasanhi na maging karumal-dumal o marumi (Gawa 11:8)."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang bersikulong ito ay wala sa ibang manuskrito."
+        },
+        {
+            "id": "22-1",
+            "text": "O, lansi."
+        },
+        {
+            "id": "22-1",
+            "text": "O, matang nakatitig sa ikasasama. May pagseselos, may pagkainggit."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang masasamang bagay na nagmumula sa loob ay ang masasamang kinalalabasan ng natisod at makasalanang kalikasan ng tao (b. 21; Roma 7:18)."
+        },
+        {
+            "id": "24-1",
+            "text": "Para sa bb. 24-30, tingnan ang mga tala sa Mat. 15:21-28."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, at Sidon."
+        },
+        {
+            "id": "26-1",
+            "text": "Siriano sa wika, Fenicia sa lahi (cf. Gawa 21:2-3), at ang mga Feniso bilang mga inapo ng mga Cananeo, isang Cananea (Mat. 15:22). Kung paano siyang naging isang Griyega-sa pamamagitan ng relihiyon, pag-aasawa, o iba pang bagay-ay mahirap matuklasan."
+        },
+        {
+            "id": "27-1",
+            "text": "Mga alagang aso, mga asong pambahay."
+        },
+        {
+            "id": "29-1",
+            "text": "Tingnan ang tala 23-1 sa kap. 1."
+        },
+        {
+            "id": "31-1",
+            "text": "Tingnan ang tala 29-1 sa Mat. 15."
+        },
+        {
+            "id": "32-1",
+            "text": "Sinasagisag ang isa na bingi at utal sa pang-espiritwal, hindi makarinig ng tinig ng Diyos at hindi makapagpuri sa Kanya (Isa. 5:6) at hindi makapagsalita para sa Kanya (Isa. 56:10). Ang kanyang pagkautal ay dahil sa kanyang pagkabingi. Kayang-kayang pagalingin ng nagpapagaling na pagliligtas ng Aliping-Tagapagligtas ang gayong pagkabingi at pagkautal sa pamamagitan ng pagpapagaling muna sa kanyang mga tainga at pagkatapos ay ang paghipo sa kanyang dila."
+        },
+        {
+            "id": "33-1",
+            "text": "O, ipinasok nang pilit. Ang isinasagisag ng pilit na pagpapasok ng Aliping- Tagapagligtas ng Kanyang mga daliri sa loob ng mga tainga ng bingi ay ang Kanyang pagpapagaling sa kanyang sangkap ng pandinig (cf. Isa. 50:4-5; Job 33:14-16), at ang isinasagisag ng Kanyang paghipo sa kanyang dila sa pamamagitan ng Kanyang lura ay ang Kanyang pagpapahid sa sangkap ng pagsasalita ng utal sa pamamagitan ng salitang lumabas mula sa Kanyang bibig. Ito ay ang Kanyang pagpapagaling (tingnan ang tala 31-1 sa kap. 1)."
+        },
+        {
+            "id": "34-1",
+            "text": "Aramaiko."
+        },
+        {
+            "id": "36-1",
+            "text": "Tingnan ang tala 44-1 sa kap. 1."
         }
     ]
 }

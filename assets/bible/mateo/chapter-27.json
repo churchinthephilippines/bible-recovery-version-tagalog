@@ -1,5 +1,5 @@
 {
-    "chapter": 27,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -16,7 +16,7 @@
             "footnotes": [
                 {
                     "word": "Pilato",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -27,7 +27,7 @@
             "footnotes": [
                 {
                     "word": "nagsisi",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -50,11 +50,11 @@
             "footnotes": [
                 {
                     "word": "pangulong",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "kabang-",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -77,7 +77,7 @@
             "footnotes": [
                 {
                     "word": "Jeremias,",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -100,7 +100,7 @@
             "footnotes": [
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -117,7 +117,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -140,7 +140,7 @@
             "footnotes": [
                 {
                     "word": "Sino",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -157,7 +157,7 @@
             "footnotes": [
                 {
                     "word": "panaginip",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -192,11 +192,11 @@
             "footnotes": [
                 {
                     "word": "hinugasan",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "Inosente",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -213,11 +213,11 @@
             "footnotes": [
                 {
                     "word": "hinagupit",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "maipako",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -228,7 +228,7 @@
             "footnotes": [
                 {
                     "word": "pretorio",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": [
@@ -248,11 +248,11 @@
             "footnotes": [
                 {
                     "word": "tinik,",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "Magalak",
-                    "note": ""
+                    "id": "29-2"
                 }
             ],
             "outlines": null
@@ -269,7 +269,7 @@
             "footnotes": [
                 {
                     "word": "inilabas",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -280,7 +280,7 @@
             "footnotes": [
                 {
                     "word": "Cirene,",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -291,7 +291,7 @@
             "footnotes": [
                 {
                     "word": "Golgota,",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": [
@@ -307,11 +307,11 @@
             "footnotes": [
                 {
                     "word": "alak",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "ayaw",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
@@ -322,7 +322,7 @@
             "footnotes": [
                 {
                     "word": "pinag-",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -345,7 +345,7 @@
             "footnotes": [
                 {
                     "word": "tulisan",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -362,7 +362,7 @@
             "footnotes": [
                 {
                     "word": "Kung",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -379,7 +379,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -402,11 +402,11 @@
             "footnotes": [
                 {
                     "word": "ikaanim",
-                    "note": ""
+                    "id": "45-1"
                 },
                 {
                     "word": "ikasiyam",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": [
@@ -420,11 +420,11 @@
             "footnotes": [
                 {
                     "word": "mag-",
-                    "note": ""
+                    "id": "46-1"
                 },
                 {
                     "word": "bakit",
-                    "note": ""
+                    "id": "46-2"
                 }
             ],
             "outlines": null
@@ -441,7 +441,7 @@
             "footnotes": [
                 {
                     "word": "suka,",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -458,7 +458,7 @@
             "footnotes": [
                 {
                     "word": "pinapanaw",
-                    "note": ""
+                    "id": "50-1"
                 }
             ],
             "outlines": null
@@ -469,19 +469,19 @@
             "footnotes": [
                 {
                     "word": "tabing",
-                    "note": ""
+                    "id": "51-1"
                 },
                 {
                     "word": "buhat",
-                    "note": ""
+                    "id": "51-2"
                 },
                 {
                     "word": "lupa",
-                    "note": ""
+                    "id": "51-3"
                 },
                 {
                     "word": "bato",
-                    "note": ""
+                    "id": "51-4"
                 }
             ],
             "outlines": [
@@ -495,11 +495,11 @@
             "footnotes": [
                 {
                     "word": "libingan;",
-                    "note": ""
+                    "id": "52-1"
                 },
                 {
                     "word": "katawan",
-                    "note": ""
+                    "id": "52-2"
                 }
             ],
             "outlines": null
@@ -510,11 +510,11 @@
             "footnotes": [
                 {
                     "word": "paglabas",
-                    "note": ""
+                    "id": "53-1"
                 },
                 {
                     "word": "nagpakita",
-                    "note": ""
+                    "id": "53-2"
                 }
             ],
             "outlines": null
@@ -537,7 +537,7 @@
             "footnotes": [
                 {
                     "word": "Maria",
-                    "note": ""
+                    "id": "56-1"
                 }
             ],
             "outlines": null
@@ -548,7 +548,7 @@
             "footnotes": [
                 {
                     "word": "gumabi",
-                    "note": ""
+                    "id": "57-1"
                 }
             ],
             "outlines": [
@@ -574,7 +574,7 @@
             "footnotes": [
                 {
                     "word": "inilagay",
-                    "note": ""
+                    "id": "60-1"
                 }
             ],
             "outlines": null
@@ -591,7 +591,7 @@
             "footnotes": [
                 {
                     "word": "paghahanda,",
-                    "note": ""
+                    "id": "62-1"
                 }
             ],
             "outlines": null
@@ -620,10 +620,184 @@
             "footnotes": [
                 {
                     "word": "sinarhang",
-                    "note": ""
+                    "id": "66-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Si Pilato ay isang Romanong tagapamahala, isang kinatawan ni Cesar Tiberio sa Judea (Palestina), A.D. 26-35. Hindi katagalan pagkatapos ng kanyang di-makatarungang pagpayag na maipako sa krus ang Panginoong Hesus, ang kanyang pamahalaan ay biglang nagwakas. Siya ay pinalayas at nagpatiwakal. Sa masamang pakikipagsabwatan, nakuha ng mga relihiyonistang Hudyo na makipagsabwatan sa kanila ang paganong pulitiko upang patayin ang Panginoong Hesus."
+        },
+        {
+            "id": "3-1",
+            "text": "O, nalungkot."
+        },
+        {
+            "id": "6-1",
+            "text": "Hindi nila kukunin ang halaga ng dugo. Sa katunayan ang ginawa nila sa Panginoon ay higit na masama kaysa sa ginawa ni Judas (b. 1)."
+        },
+        {
+            "id": "6-2",
+            "text": "Sa loob ng banal na templo ay may isang kaban na nilalagakan ng mga handog para sa Diyos."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang salitang inulit sa mga bersikulo 9-10 ay sinalita ni Jeremias, ngunit isinulat sa Zacarias (Zac. 11:12-13). May isang kuru-kuro sa gitna ng mga Hudyo na tinaglay ni Zacarias ang espiritu ni Jeremias."
+        },
+        {
+            "id": "12-1",
+            "text": "Hindi ipagtatanggol ng Panginoon ang Kanyang Sarili."
+        },
+        {
+            "id": "14-1",
+            "text": "Tingnan ang tala 12-1 ."
+        },
+        {
+            "id": "17-1",
+            "text": "Si Pilato ay hindi makatarungan sa kanyang pagtatanong, sapagka’t alam niya na ang Panginoon ay walang kasalanan (b. 18), ngunit si Barrabas ay mayroong kasalanan."
+        },
+        {
+            "id": "19-1",
+            "text": "Ito ay nangyari nang ayon sa kataas-taasang kapangyarihan ng Diyos."
+        },
+        {
+            "id": "24-1",
+            "text": "Ito ay upang papaglubagin ang kanyang konsensiya."
+        },
+        {
+            "id": "24-2",
+            "text": "Isang duwag at iresponsableng pag-atras."
+        },
+        {
+            "id": "26-1",
+            "text": "Ito ay isang sukdulang pagkahantad ng madilim, at di-makatuwirang pulitika! Ang kawalang-katarungang ito ang nagsakatuparan ng Isa. 53:5 at 8."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang pagbibitay na ginagawa ng mga Hudyo ay sa pamamagitan ng pagbato (Lev. 20:2, 27; 24:14; Deut. 13:10; 17:5). Ang parusang kamatayan na pagpapako sa krus ay isang paganong gawi (Ezra 6:11), ginaya ng mga Romano para sa pagpatay sa mga alipin at mga kasuklam-suklam na kriminal lamang. Ang maipako ang Panginoong Hesus ay hindi lamang isang kaganapan ng Lumang Tipan (Deut. 21:23; Gal. 3:13; Blg. 21:8-9), bagkus ay upang ganapin rin ang salita ng Panginoon tungkol sa paraan ng Kanyang kamatayan (Juan 3:14; 8:28; 12:32), na hindi maisasakatuparan sa pamamagitan ng pagbato. Tingnan ang tala 32-1 sa Juan 18."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang opisyal na tirahan ng gobernador."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang “mga tinik” ay isang simbolo ng sumpa (Gen. 3:17-18). Ang Panginoong Hesus ay naging isang sumpa para sa atin sa krus (Gal. 3:13)."
+        },
+        {
+            "id": "29-2",
+            "text": "Isang mapang-insultong pagbati. Parehong salita sa Griyego ang matatagpuan sa 26:49."
+        },
+        {
+            "id": "31-1",
+            "text": "Ang Panginoon dito, bilang Kordero ng Paskua upang isakripisyo para sa ating mga kasalanan, ay dinala tulad ng kordero sa mangangatay, tinutupad ang Isa. 53:7-8."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang Cirene ay isang Griyegong kolonyal na lunsod, kapital ng Cirenaica sa Hilagang Africa. Lumalabas na itong si Simon ay isang Cireneong Hudyo."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang Golgota ay isang pangalang Hebreo (Juan 19:17) na nangangahulugang bungo (Marc. 15:22). Ang katumbas nito sa Latin ay Calvaria, ginawang Calvary sa wikang Ingles (Luc. 23:33, KJV). Hindi ito tumutukoy sa lugar na pinaglalagyan ng mga bungo kundi ito ay payak na nangangahulugang bungo."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang alak na hinaluan ng apdo (at ng mira-Marc. 15:23) ay sinadya bilang isang inuming nakapamamanhid."
+        },
+        {
+            "id": "34-2",
+            "text": "Ayaw ng Panginoon na mamanhid; iinumin Niya ang mapait na saro hanggang sa huling patak."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang Panginoon ay naging biktima sa sukdulang pagnanakaw ng mga makasalanan, tinutupad ang Awit 22:18. Inihantad din nito ang kadiliman ng pulitikang Romano."
+        },
+        {
+            "id": "38-1",
+            "text": "Ito ay para sa katuparan ng Isa. 53:9a."
+        },
+        {
+            "id": "40-1",
+            "text": "Ito ay isang pag-uulit ng pagtukso ng Diyablo sa ilang (4:6)."
+        },
+        {
+            "id": "42-1",
+            "text": "Kung Kanyang ililigtas ang Kanyang Sarili, hindi Niya tayo maililigtas."
+        },
+        {
+            "id": "45-1",
+            "text": "Ang ikaanim na oras ay ang ating tanghaling tapat na alas-dose, at ang ikasiyam na oras ay ang ating alas-tres ng hapon. Ang Panginoon ay ipinako sa krus sa ikatlong oras, sa atin ay alas-nuwebe ng umaga (Marc. 15:25) hanggang ikasiyam na oras, yaon ay, alas-tres ng hapon. Siya ay nagdusa sa krus sa loob ng anim na oras. Sa unang tatlong oras, Siya ay pinag-usig ng mga tao sa paggawa ng kalooban ng Diyos; sa huling tatlong oras, Siya ay hinatulan ng Diyos para sa pagsasakatuparan ng ating katubusan. Sa panahong ito ay ibinilang Siya ng Diyos bilang ating nagdurusang kahalili para sa kasalanan (Isa. 53:10). Sa gayon, ang kadiliman ay napasaibabaw ng sangkalupaan (b. 45), sapagkat ang ating kalikasan ng kasalanan at mga gawain ng kasalanan at lahat ng negatibong bagay ay natuos doon; at pinabayaan Siya ng Diyos (b. 46) dahil sa ating kasalanan."
+        },
+        {
+            "id": "46-1",
+            "text": "Tingnan ang tala 45-1 ."
+        },
+        {
+            "id": "46-2",
+            "text": "Pinabayaan ng Diyos si Kristo sa krus sapagkat inako Niya ang katayuan ng mga makasalanan (1 Ped. 3:18), dinadala ang ating mga kasalanan (1 Ped. 2:24; Isa. 53:6), at ginawang kasalanan alang-alang sa atin (2 Cor. 5:21)."
+        },
+        {
+            "id": "48-1",
+            "text": "Inialok sa Panginoon upang patirin ang Kanyang pagkauhaw (Juan 19:28-30 at tala 30-1 ) sa isang pamamaraang nangungutya (Luc. 23:36)."
+        },
+        {
+            "id": "50-1",
+            "text": "Ito ay ang isuko ang Kanyang espiritu (Juan 19:30), ipinakikita na kusang-loob na inihain ng Panginoon ang Kanyang buhay (Marc. 15:37; Luc. 23:46)."
+        },
+        {
+            "id": "51-1",
+            "text": "Ito ay sumasagisag na ang pagkahiwalay ng Diyos at ng tao ay naalis, sapagkat ang laman (na sinasagisag ng tabing) ng kasalanan na kinuha ni Kristo (Roma 8:3) ay naipako na sa krus (Heb. 10:20 at tala)."
+        },
+        {
+            "id": "51-2",
+            "text": "Ang “buhat sa itaas hanggang sa ibaba” ay nagpapakita na ang pagkahapak ng tabing ay gawain ng Diyos mula sa itaas."
+        },
+        {
+            "id": "51-3",
+            "text": "Sinasagisag nito na ang suhay ng pagrerebelde ni Satanas ay nauga."
+        },
+        {
+            "id": "51-4",
+            "text": "Ito ay sumasagisag na ang mga moog ng makalupang kaharian ni Satanas ay nasira."
+        },
+        {
+            "id": "52-1",
+            "text": "Ito ay nagpapakita na ang kapangyarihan ng kamatayan at ng Hades ay natalo at nalupig na."
+        },
+        {
+            "id": "52-2",
+            "text": "Ipinakikita nito na ang kamatayan ni Kristo ay may kapangyarihan na nagpapalaya sa tao."
+        },
+        {
+            "id": "53-1",
+            "text": "Sa tipolohiya, ang mga unang bunga ng ani (Lev. 23:10-11) ay hindi lamang nag-iisang trigo, bagkus isang bigkis ng trigo, sinasagisag hindi lamang ang nabuhay na muling Kristo, bagkus ang mga banal din na ibinangon mula sa mga patay pagkaraan ng Kanyang pagkabuhay na muli, katulad ng inihayag dito. Lahat ng bagay na nakatala sa bb. 51-53 ay iba’t ibang aspekto ng napakagaling na epekto ng kamatayan ng Panginoon."
+        },
+        {
+            "id": "53-2",
+            "text": "Kung saan sila pumunta pagkaraan nito, wala na tayong paraan upang mabakas."
+        },
+        {
+            "id": "56-1",
+            "text": "Ito ang ina ng Panginoong Hesus (13:55)."
+        },
+        {
+            "id": "57-1",
+            "text": "Tingnan ang tala 38-1 sa Juan 19."
+        },
+        {
+            "id": "60-1",
+            "text": "Ito ay para sa katuparan ng Isa. 53:9a."
+        },
+        {
+            "id": "62-1",
+            "text": "Ito ang araw ng paghahanda, Biyernes, nang inihanda ang Paskua (26:19; Juan 19:14)."
+        },
+        {
+            "id": "66-1",
+            "text": "Ang pagsasara ay maaaring ginamitan ng lubid at ang magkabilang dulo ay pinagtatatakan. Tingnan ang Dan. 6:17. Ang “pagsasarang” ito nang “mabuti” ay sinadya ng mga mapagsalungat na pinuno ng Hudyo bilang isang negatibong pag-iingat, ngunit ito ay naging isang malakas na positibong patotoo ng pagkabuhay na muli ng Panginoon."
         }
     ]
 }

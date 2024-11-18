@@ -1,5 +1,5 @@
 {
-    "chapter": 13,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "tansong",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "pompiyang",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -31,11 +31,11 @@
             "footnotes": [
                 {
                     "word": "ibigay",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "upang",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -46,7 +46,7 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": [
@@ -65,11 +65,11 @@
             "footnotes": [
                 {
                     "word": "kalikuan,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "katotohanan;",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -80,7 +80,7 @@
             "footnotes": [
                 {
                     "word": "binabatá,",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -91,11 +91,11 @@
             "footnotes": [
                 {
                     "word": "napapawi",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "kailanman;",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": [
@@ -114,15 +114,15 @@
             "footnotes": [
                 {
                     "word": "kapag",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "ganap",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -133,19 +133,19 @@
             "footnotes": [
                 {
                     "word": "Nang",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "bata",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "nangatuwiran",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "ngayong",
-                    "note": ""
+                    "id": "11-4"
                 }
             ],
             "outlines": null
@@ -156,23 +156,23 @@
             "footnotes": [
                 {
                     "word": "ngayon",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "pagkatapos",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "ngayon",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "pagkatapos",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -183,10 +183,88 @@
             "footnotes": [
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang tansong tumutunog at batingaw na umaalingawngaw ay nagbibigay ng tunog na walang buhay. Ito ay isang tunay na pagsasalarawan ng pagsasalita sa mga wika."
+        },
+        {
+            "id": "3-1",
+            "text": "Bilang isang martir."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang ilang manuskrito ay binabasa ng, upang ako ay sunugin."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pag-ibig ay ang kahayagan ng buhay, na siyang elemento ng Diyos. Kung kaya, ang Diyos ay pag-ibig (I Juan 4:16). Ang Diyos bilang buhay ay inihayag sa pag-ibig. Ang lahat ng labinlimang katangian ng pag-ibig na nakatala sa mga bersikulo 4-7 ay ang mga dibinong kagalingan ng buhay ng Diyos. Ang gayong buhay ay naiiba sa mga panlabas na kaloob na nakatala sa kapitulo 12. Hangad lamang ng mga taga-Corinto ang mga panlabas na kaloob subali’t kinaligtaan ang pag-ibig, ang kahayagan ng buhay ng Diyos. Kaya, sila ay mga nasa laman pa, makalaman, makakaluluwa (3:1, 3; 2:14). Kinakailangan nilang lumago sa buhay, na naihahayag ng pag-ibig sa pangangalaga para sa Katawan, naghahabol upang matamo ang pag-ibig, hindi ang mga panlabas na kaloob, upang sila ay maging espirituwal (2:15)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang kabuuan ng kalikuan ay si Satanas, at ang kabuuan ng katotohanan ay ang Diyos. Yamang ang pag-ibig ay kahayagan ng dibinong buhay, ang pag-ibig ay hindi nagagalak sa kalikuan ni Satanas, kundi nagagalak sa katotohanan ng Diyos."
+        },
+        {
+            "id": "7-1",
+            "text": "Kagaya ng salitang Griyego sa 9:12. Tingnan ang tala roon. Ang salitang ito ay hindi lamang nagpapahiwatig na: 1) pinagbibigyan at mapagbigay sa pagtanggap (gaya ng isang tumatanggap na sisidlan) at 2) (gaya ng bubong) nagtatakip (sa mga kasalanan ng mga tao), nagpapahiwatig din na 3) nagbibigay ng silungan, nagbibigay ng proteksiyon gaya ng isang bahay."
+        },
+        {
+            "id": "8-1",
+            "text": "*Gr. ekpiptö . Lit. bumabagsak o nalalaglag.|"
+        },
+        {
+            "id": "8-2",
+            "text": "Pinamamalagi ang lahat ng mga bagay, nananatili sa dating kalagayan nito. Pinamamalagi ng pag-ibig ang lahat ng mga bagay at nananatili sa dating kalagayan magpakailanman. Ang pag-ibig kailanman ay hindi kumukupas o nagwawakas. Ito ay katulad ng buhay na walang hanggan ng Diyos. Ang lahat ng kaloob, maging mga propesiya, o mga wika, o kaalaman, ay mga kaparaanan para sa pagkilos ng Diyos; ang mga yaon ay hindi naghahayag ng buhay ng Diyos. Kung kaya, ang mga ito ay mangatatapos at maaalis. Ang mga ito ay pampanahunan lamang. Tangi lamang ang buhay na inihahayag ng pag-ibig ang walang hanggan. Ayon sa mga sumusunod na bersikulo, ang lahat ng mga kaloob ay para sa hindi pa sapat ang gulang sa kapanahunang ito. Ang mga ito ay aalisin sa susunod na kapanahunan. Ang pag-ibig lamang ang sa may gulang na tao, at mananatili hanggang sa kawalang-hanggan. Kaya, kapag tayo ay nabubuhay at kumikilos sa pamamagitan ng pag-ibig, tayo ay may isang pagtikim sa susunod na kapanahunan at isang pagtikim sa kawalang-hanggan."
+        },
+        {
+            "id": "10-1",
+            "text": "Sa susunod na kapanahunan—ang kapanahunan ng kaharian."
+        },
+        {
+            "id": "10-2",
+            "text": "O, may gulang na, salungat sa pagiging bata sa susunod na bersikulo."
+        },
+        {
+            "id": "10-3",
+            "text": "Yaon ay, mga propesiya, kaalaman at iba pa, tulad ng binanggit sa bersikulo 8."
+        },
+        {
+            "id": "11-1",
+            "text": "Sa panahong ito ang mga mananampalataya ay mga bata, may mga kaloob na pambata."
+        },
+        {
+            "id": "11-2",
+            "text": "Nangangahulugang walang sapat na gulang."
+        },
+        {
+            "id": "11-3",
+            "text": "Lit. nagsulit ng mga bagay bilang isang bata."
+        },
+        {
+            "id": "11-4",
+            "text": "Sa susunod na kapanahunan, ang mga mananampalataya na nasa hustong gulang na ay magiging mga ganap na tao at ang lahat ng mga pambatang kaloob, lalung-lalo na ang pinakamaliit, ang pagsasalita sa mga wika at ang pagpapaliwanag nito, ay aalisin. Gayunpaman, sa kapanahunang ito tayo ay magkakaroon ng isang patikim ng susunod na kapanahunan sa pamamagitan ng pamumuhay ng isang buhay ng pag-ibig. Ang pag-ibig ay nagpapalago sa atin sa buhay; ang mga kaloob ay nagpapanatili sa atin sa pagkabata."
+        },
+        {
+            "id": "12-1",
+            "text": "Sa kapanahunang ito."
+        },
+        {
+            "id": "12-2",
+            "text": "“Yaon ay, tumitingin sa isang bagay sa pagitan ng tumitingin at tinitingnang bagay ay may isang bagay na nasa isang antas ay humahadlang sa paningin. Ang salita ay nangangahulugan ding ‘isang salamin’, nguni’t ang salaming ito ay ginagamit sa bintana na yari hindi sa malinaw na salaming naaaninag katulad ng salamin ngayon, kundi sa mga malalabong materyal”-(J.N. Darby sa kanyang New Translation)."
+        },
+        {
+            "id": "12-3",
+            "text": "Sa susunod na kapanahunan."
+        },
+        {
+            "id": "13-1",
+            "text": "Tinatanggap ng pananampalataya ang mga dibinong bagay (Juan 1:12) at napatototohanan ang mga espirituwal at di-nakikitang bagay (Heb. 11:1). Ang pag-asa ay nag-aani at nakikisalo sa mga bagay na napatototohanan sa pamamagitan ng pananampalataya (Roma 8:24-25). Tinatamasa ng pag-ibig ang mga bagay na natanggap at napatototohanan sa pamamagitan ng pananampalataya at nabahagi ng pag-asa para sa pagbibigay-tustos sa ating mga sarili, pagtatayo sa iba (8:1) at paghahayag sa Diyos, sa gayon isinasakatuparan ang buong kautusan (Roma 13:8-10). Ang gayong pag-ibig ay nagsasanhi sa atin na lumago sa buhay para sa pagpapaunlad at paggamit ng mga espirituwal na kaloob, at ang pinakamahusay na paraan upang magkaroon ng mga lalong dakilang kaloob. Kung kaya, ang pag-ibig ang pinakadakila sa tatlong nananatiling kagalingan. Kaya dapat nating habulin o pagsumikapan na matamo ito (14:1)."
         }
     ]
 }

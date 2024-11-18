@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "malusog",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -22,19 +22,19 @@
             "footnotes": [
                 {
                     "word": "mapagpigil,",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "mahinahon",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "malusog",
-                    "note": ""
+                    "id": "2-4"
                 }
             ],
             "outlines": null
@@ -45,23 +45,23 @@
             "footnotes": [
                 {
                     "word": "pagkilos",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "sagrado,",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "mapanirang-puri",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "nagpapa-alipin",
-                    "note": ""
+                    "id": "3-4"
                 },
                 {
                     "word": "guro",
-                    "note": ""
+                    "id": "3-5"
                 }
             ],
             "outlines": null
@@ -72,11 +72,11 @@
             "footnotes": [
                 {
                     "word": "masanay",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "maging",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -87,15 +87,15 @@
             "footnotes": [
                 {
                     "word": "mabuti,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "malapastangan",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -112,11 +112,11 @@
             "footnotes": [
                 {
                     "word": "walang-katiwalian",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "kahihahunan-",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -127,15 +127,15 @@
             "footnotes": [
                 {
                     "word": "makokondena,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "tagasalungat",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -146,7 +146,7 @@
             "footnotes": [
                 {
                     "word": "alipin",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": [
@@ -161,15 +161,15 @@
             "footnotes": [
                 {
                     "word": "katapatan,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "mapalamutian",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "Tagapagligtas",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -180,19 +180,19 @@
             "footnotes": [
                 {
                     "word": "Sapagkat",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "nagpakita",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "11-4"
                 }
             ],
             "outlines": null
@@ -203,19 +203,19 @@
             "footnotes": [
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "pita",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "matuwid",
-                    "note": ""
+                    "id": "12-4"
                 }
             ],
             "outlines": null
@@ -226,19 +226,19 @@
             "footnotes": [
                 {
                     "word": "Na",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "pinagpalang",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "dakilang",
-                    "note": ""
+                    "id": "13-4"
                 }
             ],
             "outlines": null
@@ -249,15 +249,15 @@
             "footnotes": [
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "matubos",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "bayang",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -268,22 +268,196 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "ipansaway",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "awtoridad.",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "15-4"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 10-1 sa 1 Timoteo 1. Ang malusog na pagtuturo ay laging naaayon sa katotohanan (1:14) ng pananampalataya (1:13). Ito ang nilalaman ng pagtuturo ng mga apostol, ang nilalaman din ng Bagong Tipang ekonomiya ng Diyos. Hindi lamang ito naghahain ng panustos-buhay sa mga mananampalataya at nagpapagaling ng mga espirituwal na sakit, kundi sa paggawa rin ng gayon ay dinadala ang ekklesia tungo sa isang maayos na kalagayan na may mabuting kaayusan. Kaya, ang malusog na pagtuturo ay lubusang binigyang-diin sa tatlong aklat ng 1 Timoteo, 2 Timoteo at Tito, mga aklat na tumutuos sa mga kaguluhan at pagbabà ng ekklesia."
+        },
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 2-4 sa 1 Tim. 3"
+        },
+        {
+            "id": "2-2",
+            "text": "Tingnan ang tala 2-3 sa 1 Tim. 2."
+        },
+        {
+            "id": "2-3",
+            "text": "Tingnan ang tala 2-5 sa 1 Tim. 3."
+        },
+        {
+            "id": "2-4",
+            "text": "Tingnan ang tala 13-3 sa kap. 1."
+        },
+        {
+            "id": "3-1",
+            "text": "O, tikas, kinabibilangan ng kilos at ugali."
+        },
+        {
+            "id": "3-2",
+            "text": "Yaong mga abala sa mga banal na bagay."
+        },
+        {
+            "id": "3-3",
+            "text": "Tingnan ang tala 11-3 sa 1 Timoteo 3."
+        },
+        {
+            "id": "3-4",
+            "text": "Inihambing sa “sugapa” sa 1 Tim. 3:8. Ang nagpapaalipin ay maaaring masahol pa kaysa maging sugapa."
+        },
+        {
+            "id": "3-5",
+            "text": "Nagbibigay ng mabuting tagubilin."
+        },
+        {
+            "id": "4-1",
+            "text": "Sa Griyego ay nangangahulugang mapalinaw, mapalusog, mapanormal, mawasto, ang kaisipan ng tao, kaya “masanay”; mapauunlad ang wastong pagpapasiya at matalas na pagkaunawa."
+        },
+        {
+            "id": "4-2",
+            "text": "Lit. maging mangingibig ng asawang lalake; maging mangingibig ng mga anak."
+        },
+        {
+            "id": "5-1",
+            "text": "Mabait."
+        },
+        {
+            "id": "5-2",
+            "text": "Mapagsalitaan ng masama; masisi."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang salita ng Diyos na itinuturo nang wasto at sapat sa isang ekklesia lokal ay dapat maipatotoo sa pamamagitan ng pagpapasakop ng mga kapatid na babae sa kani-kaniyang asawang lalake; kung hindi, ito ay mapagwiwikaan ng hindi mabuti."
+        },
+        {
+            "id": "7-1",
+            "text": "Inatasan na ng apostol si Tito na magsalita ng mga bagay na naaangkop sa malusog na pagtuturo (b. 1). Ngayon siya ay nag-aatas pa sa kanya na ipakita ang kanyang sarili na isang tularan ng mabubuting gawa. Sa kanyang pagtuturo, na dapat lamang ay maging malusog, dapat niyang ipakita ang tatlong bagay: 1) walang katiwalian, walang bagay na napasasama o nagpapasama sa iba, kundi ang lahat ng bagay ay dalisay, tunay, at tapat sa ni lalaman, kahayagan at motibo; 2) kahinahunan-ng-pagiging-kagalang-galang, pagiging kapita-pitagan na karapat-dapat sa paggalang; at 3) malusog na pananalita, pagtatalakay na ibinigay nang may malulusog na salita (1 Tim. 6:3) upang makapagtustos sa mga tao ng malulusog na bagay, pananalitang hindi mapipintasan, hindi masisisi (b. 8)."
+        },
+        {
+            "id": "7-2",
+            "text": "Tingnan ang tala 2-3 sa 1 Tim. 2."
+        },
+        {
+            "id": "8-1",
+            "text": "Mapipintasan, masisisi."
+        },
+        {
+            "id": "8-2",
+            "text": "Yaong nasa kabilang panig o kasalungat, tumutukoy sa tagasalungat na pagano o Hudyo."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang malusog na pagtuturo na may malusog na pananalita ng mga malulusog na salita ay ang pinakamabisang pangontra sa masamang pagsasalita ng tagasalungat. Ang gayong nagbibigay-liwanag at nagbibigay-buhay na pagtuturo ng salita ng katotohanan ay laging nagpapatikom sa bibig ng doktrinal na opinyon na isinusulsol ng matandang ahas."
+        },
+        {
+            "id": "9-1",
+            "text": "Hindi tumutukoy sa mga tagapaglingkod, kundi sa mga aliping nakagapos na binibili sa pamilihan katulad ng mga binibiling baka at kabayo. Mangyari pa, hindi sumasang-ayon si Pablo sa sistema ng pang-aalipin subalit siya na inatasang guro ng Diyos at mayroong espiritwal na pananaw ay hindi hinipo ang umiiral na panlipunang sistema sapagkat kung gayon ang kanyang gagawin, bibigyan niya ng impresyon ang kanyang mambabasa na siya ay isang panlipunang repormista at hindi isang guro ng ekonomiya ng Diyos at mapapalabo ang kanyang pagtuturo na dapat ipamuhay ang dibinong buhay ni Kristo sa anumang sistema ng lipunan."
+        },
+        {
+            "id": "10-1",
+            "text": "Pagkamatapat, napagkakatiwalaan."
+        },
+        {
+            "id": "10-2",
+            "text": "Katulad ng salitang “gayakan” sa 1 Tim. 2:9. Ang katapatan ng isang alipin ay maaaring maging palamuti ng pagtuturo ng Diyos na ating Tagapagligtas. Maging sa pagkilos ng mga alipin, ang pagtuturo ng Diyos ay nakatatanggap ng kaluwalhatian!"
+        },
+        {
+            "id": "10-3",
+            "text": "Ang ating Tagapagligtas ay hindi lamang si Kristo, bagkus ang Tres-unong Diyos na sumakatawan kay Kristo, gaya ng ipinahayag sa bersikulo 13. Ang ating Tagapagligtas na Diyos ay hindi lamang nagnanais na magligtas sa atin, bagkus nagnanais na magturo rin sa atin ng lubos na kaalaman ng katotohanan (1 Tim. 2:4). Kaya, ang pagtuturo ng ating Tagapagligtas na Diyos ay mapapalamutian at mapagaganda ng natranspormang ugali ng mga pinakamababang uri ng tao na iniligtas ng Kanyang biyaya."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang mga bersikulo 11-14 ay nagbibigay sa atin ng isang pambihirang buod ng ekonomiya ng pagliligtas ng Diyos. Ginagamit ito ng apostol bilang isang dahilan para sa kanyang mga paghihikayat sa mga bersikulo 1-10."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang biyaya ay dumating sa pamamagitan ni Kristo (Juan 1:17). Ito ay ibinigay sa atin sa kawalang-hanggan (2 Tim. 1:9), subali’t sa Lumang Tipan ito ay nakatago. Ito ay nagpakita sa Bagong Tipan sa pamamagitan ng unang pagpapakita ni Kristo (2 Tim. 1:10), nagdadala ng kaligtasan sa lahat ng mga tao, kapwa sa mga Hudyo at mga Hentil."
+        },
+        {
+            "id": "11-3",
+            "text": "Ang biyaya ng Diyos, sa katunayan, ay ang Mismong Diyos na nasa loob ni Kristo bilang lahat-lahat sa atin para sa ating pagtatamasa. Tingnan ang tala 17-1 sa Juan 1. Ginaganap ng biyayang ito ang pinakamahalagang papel sa ekonomiya ng pagliligtas ng Diyos."
+        },
+        {
+            "id": "11-4",
+            "text": "Ang walang hanggang biyaya ng Diyos, ang nagliligtas na biyaya, ay itinalaga sa loob ni Kristo upang madala sa atin ang Kanyang pagliligtas, ang kumpletong kaligtasan na binubuo ng pagpapatawad, pag-aaring-matuwid, pakikipagkasundo, pagtutubos, pagsisilang na muli, pagpapabanal, pagtatransporma, at paghuhubog; upang matubos tayong pabalik sa Diyos; upang maipamahagi ang Kanyang buhay sa atin; at upang madala tayo paloob sa organikong pakikipagkaisa sa Kanya para sa katuparan ng Kanyang walang hanggang layunin."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 16-2 sa 2 Timoteo 2."
+        },
+        {
+            "id": "12-2",
+            "text": "Mga pitang nakakatagpo ng kanilang kasiyahan sa sanlibutang ito. Ang di-pagkamakadiyos ay ang hindi ihayag ang Diyos; ang mga makasanlibutang pita ay ang ihayag ang ating laman. Kapwa ang di-pagkamakadiyos at mga makasanlibutang pita ay dapat itatwa upang tayo ay makapamuhay ng isang buhay na naghahayag sa Diyos at nagpipigil sa laman."
+        },
+        {
+            "id": "12-3",
+            "text": "Yaon ay, nang maingat, nang nahihigpitan ang sarili. Ang may pagpipigil ay tungo sa ating sarili; ang matuwid ay tungo sa iba; at ang makadiyos ay tungo sa Diyos."
+        },
+        {
+            "id": "12-4",
+            "text": "Makatarungan, wasto."
+        },
+        {
+            "id": "13-1",
+            "text": "Naghihintay nang may pag-asam sa Yaong tinanggap sa pamamagitan ng pananampalataya."
+        },
+        {
+            "id": "13-2",
+            "text": "Tumutukoy sa pinagpalang pag-asa ay ang pagpapakita ni Kristo sa loob ng Kanyang kaluwalhatian. Dadalhin tayo ng pagpapakita ni Kristo paloob sa ganap na pagka-anak, yaon ay, ang katubusan ng ating katawan, upang tayo ay makapagtamasa ng kalayaan ng kaluwalhatian ng mga anak ng Diyos; tayo ay iniligtas para rito (Roma 8:21-25). Ito ang pag-asa ng buhay na walang hanggan (1:2), isang pag-asa ng walang hanggang pagpapala, isang pinagpalang pag-asa sa buhay na walang hanggan ng Tres-unong Diyos, na kung saan ibinatay ang pagkaapostol ni Pablo."
+        },
+        {
+            "id": "13-3",
+            "text": "Tumutukoy sa kaluwalhatian ng Ama (Mat. 16:27) na ibinigay sa Anak (Juan 17:24) at kung saan tayo, bilang mga anak ng Diyos, ay dadalhin (Heb. 2:10). Bago pa ang mga kapanahunan, itinalaga na tayo ng Diyos sa Kanyang karunungan tungo sa kaluwalhatiang ito (1 Cor. 2:7), at tinawag tayo, iniligtas tayo ng Diyos ng lahat ng biyaya paloob sa walang hanggang kaluwalhatiang ito (1 Ped. 5:10; 2 Tim. 2:10). Ang timbang ng kaluwalhatiang ito ay humihigit at walang hanggan (2 Cor. 4:17), at sa pamamagitan ng kaluwalhatiang ito tayo ay maluluwalhati (Roma 8:17, 30). Ang pagpapakita ng kaluwalhatiang ito ni Kristo, ang ating dakilang Diyos at Tagapagligtas, ay ang pinagpalang pag-asa na ating hinihintay."
+        },
+        {
+            "id": "13-4",
+            "text": "Sa pagdaan ng mga siglo, nagkaroon ng dalawang pangkat ukol sa pagpapaliwanag tungkol sa pambihira, kamangha-mangha, at ekselenteng sagrado at dibinong titulong ito: 1) dalawang Persona ang ipinakita, ang Diyos at si Kristo; 2) may iisang Persona lamang, si Kristo Hesus bilang ang dakilang Diyos at ating Tagapagligtas din, sa gayon ay ipinahahayag ang pagka-Diyos ni Kristo. Pinipili natin ang ikalawang pagpapaliwanag. Ito ay tumutugma sa dalawang sagradong titulo na inihayag noong panahon ng kapanganakan ni Kristo: Hesus, Jehovah na Tagapagligtas, at Emmanuel, Diyos na sumasaatin (Mat. 1:21-23). Ang ating Panginoon ay hindi lamang ang ating Tagapagligtas, bagkus Siya rin ay ang Diyos, at hindi lamang Diyos, bagkus ang dakilang Diyos, ang Diyos na dakila sa kalikasan, sa kaluwalhatian, sa awtoridad, sa kapangyarihan, sa gawa, sa pag-ibig, sa biyaya, at sa bawa’t dibinong katangian. Sa 1 Tim. 2:5, Siya ay inihayag bilang isang tao; dito, bilang ang dakilang Diyos. Siya ay kapwa tao at Diyos. Ang Kanyang pagpapakita sa loob ng Kanyang dibinong kaluwalhatian ay hindi lamang para iligtas ang Kanyang bayan tungo sa Kanyang walang hanggang kaharian, bagkus upang madala rin sila tungo sa loob ng walang hanggang kaluwalhatian ng Diyos (Heb. 2:10; 1 Ped. 5:10). Kaya, ang Kanyang pagpapakita sa loob ng Kanyang kaluwalhatian ay ang pinagpalang pag-asa."
+        },
+        {
+            "id": "14-1",
+            "text": "Hindi sa halip natin, kundi ibinigay ng Panginoon ang Kanyang sarili para sa atin. Ito ay para sa ating kapakanan."
+        },
+        {
+            "id": "14-2",
+            "text": "Tumutukoy sa pagbili sa isang halaga 1 Cor. 6:20; 1 Ped. 1:18-19; 1 Tim. 2:6)."
+        },
+        {
+            "id": "14-3",
+            "text": "O, bayang natatangi, isang katawagang hiniram sa Lumang Tipan (Deut. 7:6; 14:2; 26:18), tumutukoy sa isang bayang inangkin ng Diyos bilang Kanyang natatanging kayamanan (Exo. 19:5), Kanyang sariling pag-aari (1 Ped. 2:9)."
+        },
+        {
+            "id": "15-1",
+            "text": "Tumutukoy sa lahat ng mga bagay sa mga bersikulo 1-14."
+        },
+        {
+            "id": "15-2",
+            "text": "Tingnan ang mga tala 13-1 at 9-5 sa kap. 1."
+        },
+        {
+            "id": "15-3",
+            "text": "O, pautos. Lit. pag-uutos. Ang “nang may buong awtoridad” ay tumutukoy kapwa sa paghihikayat at pagsaway. Ang manghikayat at manaway nang may buong awtoridad ay ang magpayo at magsansala nang may awtoridad sa bawat paraan, katulad ng pagbibigay ng utos."
+        },
+        {
+            "id": "15-4",
+            "text": "Ang pagpapayo o panghihikayat, na may kaugnayan sa bagay ng awtoridad sa naunang pangungusap, ay ang konklusyon ng lahat ng mga pag-aatas kay Tito sa buong kapitulo. Ito ay pangunahing tumutukoy sa kanyang pagtuturo (bb. 1, 7-8, 15). Ang malusog na pagtuturo, kasama ang malusog na salita ayon sa pagkamakadiyos, ay nagpapanatili sa kanya sa pagiging kagalang-galang, nag-aanyaya ng paggalang at pagpipitagan."
         }
     ]
 }

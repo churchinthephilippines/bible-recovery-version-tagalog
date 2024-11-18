@@ -1,5 +1,5 @@
 {
-    "chapter": 6,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "panimulain",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "paggulang,",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": []
@@ -26,7 +26,7 @@
             "footnotes": [
                 {
                     "word": "pagbabautismo,",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -37,7 +37,7 @@
             "footnotes": [
                 {
                     "word": "ito",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -48,23 +48,23 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "papagsisihing",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "yaong",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "makalangit",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "nakabahagi",
-                    "note": ""
+                    "id": "4-4"
                 }
             ],
             "outlines": null
@@ -75,11 +75,11 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "kapangyarihan",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -90,15 +90,15 @@
             "footnotes": [
                 {
                     "word": "nahiwalay,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "ipinapapakong",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "inilalagay",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -109,11 +109,11 @@
             "footnotes": [
                 {
                     "word": "ulang",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "tinutubuan",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -124,19 +124,19 @@
             "footnotes": [
                 {
                     "word": "tinik",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "dinidisapruba",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "malapit",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "masunog.",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": null
@@ -147,11 +147,11 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "kaligtasan,",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -162,7 +162,7 @@
             "footnotes": [
                 {
                     "word": "paglilingkod",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -179,7 +179,7 @@
             "footnotes": [
                 {
                     "word": "tamad,",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -220,15 +220,15 @@
             "footnotes": [
                 {
                     "word": "dalawang",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "nagsi",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "kanlong",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -239,11 +239,11 @@
             "footnotes": [
                 {
                     "word": "ankla",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "pumapasok",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -254,10 +254,128 @@
             "footnotes": [
                 {
                     "word": "Tagapagpáunáng",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang kahulugan ng salita ng panimulain ng Kristo ay ang anim na bagay na binanggit sa bersikulong ito at sa sumusunod na bersikulo, na bumubuo sa pundasyon ng buhay-Kristiyano: 1) pagsisisi at pag-iwan sa mga patay na gawa, 2) pananampalataya sa Diyos, 3) pagtuturo tungkol sa mga pagbabautismo, 4) pagpapatong ng mga kamay, 5) pagkabuhay na muli ng mga patay, at 6) walang-hanggang paghuhukom. Ang anim na bagay na ito ay bumubuo ng tatlong grupo. Ang unang aytem ng bawat grupo ay tumutukoy sa ating paglabas sa isang negatibong kalagayan, at ang huli ay nagsasabi ng tungkol sa ating pagpasok sa mga positibong bagay. Ang pagsisisi ay isang pagtalikod palayo sa mga patay na gawa; ang pananampalataya ay ang pagpasok sa Diyos. Ang mga pagbabautismo ay mga paghiwalay sa mga negatibong bagay at mga pagtapos sa mga negatibong bagay; ang pagpapatong ng mga kamay ay ang pakikipagkaisa at pakikipagsalamuha sa mga dibinong bagay. Ang pagkabuhay na muli ng mga patay ay ang paglabas mula sa kamatayan; ang walang hanggang paghuhukom ay ang pagpasok sa kawalanghanggan at ang walang hanggang hantungan."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang panimulain ng Kristo ay hindi lamang nagpapaloob ng mga panimulang karanasan kay Kristo ng mga mananampalataya, gaya nang inilarawan ng anim na aytem na binanggit sa ikalawang bahagi ng bersikulong ito at ng b. 2, bagkus ay nagpapaloob din ng naunang ministeryo ni Kristo, na tumutukoy sa lahat ng Kanyang mga gawa sa lupa gaya ng isinalaysay sa apat na Ebanghelyo. Lahat ng mga naligtas na mananampalataya, gaya ng mga mananampalatayang Hebreo, ay nakaranas ng ganitong panimulain ng Kristo. Sila ay dapat magpatuloy sa paghahabol hanggang marating nila ang yugto ng kasakdalan at paggulang gaya ng inihayag sa aklat na ito, na isasagawa ni Kristo sa huling bahagi ng Kanyang makalangit na ministeryo."
+        },
+        {
+            "id": "1-3",
+            "text": "O, makapagpatuloy nang masikap, madala sa kasakdalan at paggulang. Sa ating karanasan sa buhay-espiritwal ay may aspekto ng paggawa ng Panginoon na sumasabay sa aspekto ng ating paghahabol. Bagama’t nais ng Panginoon na dalhin tayo tungo sa paggulang, kailangan pa rin nating makipagtulungan sa Kanya upang masikap na makapagpatuloy at nang sa gayon ay madala sa kasakdalan at paggulang. Nais tayong gabayan ng Panginoon sa pagsulong, subalit kailangan nating hayaan Siya na gawin ito. Ito ang ating pagkukusang-loob na makipagtulungan sa paggawa ng Kanyang biyaya. Kailangan nating magsikap at magpatuloy upang madala tayo tungo sa kasakdalan at paggulang. Kailangan nating magtamasa kasama ni Kristo at tamasahin ang Kanyang mga natamo (1:9; 3:15), at kailangang masikap na pumasok at manatili sa kapahingahan ng Sabbath (4:9, 11), at lumapit sa trono ng biyaya upang magtamo ng awa at makasumpong ng biyaya (4:16), at kailangan pa rin nating kumain ng pagkaing matigas upang matamasa si Kristo bilang ating Mataas na Saserdote ayon sa orden ni Melquisedec (5:9-10, 14)."
+        },
+        {
+            "id": "2-1",
+            "text": "*Gr. baptismos ; paghuhugas, bahagi ng rituwal sa Lumang Tipang kautusan.* Ang mga pagbabautismo, katulad ng salitang mga paglilinis sa 9:10 at paghuhugas sa Marc. 7:4, ay tumutukoy sa mga paghuhugas ng mga kasangkapan at mga sisidlang ginamit sa tabernakulo o templo para sa paglilingkod sa Diyos (Lev. 6:28). Ang mga paghuhugas ng mga saserdote ay malamang na kabilang din (Exo. 30:18-21; Lev. 16:4). Mangyari pa, ito ay iniugnay sa pumapaligid-na-pangyayari ng mga mananampalatayang Hebreo. Gayunpaman, sa prinsipyo ay katulad ito ng pagbabautismo sa Bagong Tipan, yaon ay, ang paghuhugas at pagtatapos sa mga negatibong bagay."
+        },
+        {
+            "id": "3-1",
+            "text": "Yaon ay, ang paraan na ating gagawin na binanggit sa b. 1: hayaang madala tayo sa paggulang, na hindi na muling maglalagay ng pundasyon."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang ipinapapakong muli at inilalagay na muli sa hayag na kahihiyan (b. 6) ay tumuturing sa “papagsisihing muli.” Ang papagsisihing muli ay nangangahulugang ulitin ng isa ang kanyang pagsisisi; ito ay hindi kinakailangan. Ang gawin ito ay nangangahulugang ipinapako nating muli ang Anak ng Diyos at inilalagay Siya sa hayag na kahihiyan."
+        },
+        {
+            "id": "4-2",
+            "text": "Yaong mga minsan nang naliwanagan, at nakalasap ng makalangit na kaloob, at naging mga nakabahagi ng Espiritu Santo, at nakalasap ng mabuting salita ng Diyos at ng mga gawa ng kapangyarihan ng darating na kapanahunan, ay nagsipaglagay na ng pundasyon sa sandaling sila ay nanampalataya. Sa sandaling sila ay nahiwalay palayo at bumalik, sila ay hindi na kinakailangan muling maglagay pa ng pundasyon (b. 1), kundi ay magpatuloy lamang, ang madala, sa paggulang. Hindi na kailangang ulitin ang kanilang pagsisisi, sapagkat imposibleng pagsisihang muli ang mga yaon. Isinasaad ng b. 1 na ito ay hindi na kailangan; sinasabi ng b. 4 na ito ay hindi posible; at ipinakikita ng mga bersikulo 7 at 8 na ito ay hindi tama."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang makalangit na kaloob ay tumutukoy sa pagbibigay ng Diyos ng mga makalangit na bagay, tulad ng Kanyang kapatawaran, katuwiran, dibinong buhay, kapayapaan, at kagalakan sa panahon ng ating pagsisisi at pananampalataya sa Panginoon."
+        },
+        {
+            "id": "4-4",
+            "text": "Ang Espiritu Santo ang Siyang ipinangako sa atin ng Diyos sa Kanyang ebanghelyo (Gal. 3:14). Tayo ay tinawag ng Diyos mula sa kalangitan upang matanggap ang mga makalangit na bagay, ginagawa tayong mga nakabahagi ng Espiritu Santo. Sa pamamagitan ng Espiritu Santo ay nakakayanan nating makapamuhay ng isang makalangit na buhay sa lupa, upang maging mga nakabahagi ng kabanalan ng Diyos. Yamang tayo ay mga nakabahagi ng Espiritu Santo, tayo ay may Diyos bilang ating katamasahan. Tingnan ang tala 14-1 sa kapitulo 3."
+        },
+        {
+            "id": "5-1",
+            "text": "Gr. rhema , ang kagyat na salita ng Diyos. Ang mabuting salita ng Diyos dito ay tumutukoy sa salita ng panimulain ng Kristo na binanggit sa b. 1, na siyang gatas na nalasap ng mga mananampalatayang Hebreo nang sila ay manampalataya sa Panginoon. Ngayon ay kinakailangan nilang magpatuloy sa higit na malalim na salita, ang salita ng katuwiran (5:13). Ang salitang ito sa pangunahin ay hindi tungkol sa pagtutubos ng Diyos kundi tungkol sa kaparaanan ng ekonomiya ng Diyos. Ang salita ring ito ay ang matigas na pagkain para sa kanila upang maabot ang paggulang (b. 1)."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang kapangyarihan dito ay tumutukoy sa dibinong kapangyarihan, at ang darating na kapanahunan ay tumutukoy sa kapanahunan ng darating na kaharian. Ang dibinong kapangyarihan ng darating na kaharian ay ang panumbalikin, panibaguhin, at panauliin ang mga bagay na naging luma (Mat. 19:28). Sa sandali ng pagsilang na muli ng mga mananampalataya (Tito 3:5), nalasap nilang lahat ang dibinong kapangyarihang ito upang mapanumbalik, mabago, at mapanauli."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang nahiwalay ay tumutukoy sa mga Kristiyanong Hebreo na lumilihis sa dalisay na pananampalatayang Kristiyano sa pamamagitan ng pagbalik sa kanilang luma, nakaugalian, maka-Hudaismong relihiyon. Sa prinsipyo, ito ay maaaring gamitin sa sinumang Kristiyano na humiwalay sa tamang landas ng kaparaanan ng Diyos."
+        },
+        {
+            "id": "6-2",
+            "text": "Tingnan ang tala 4-1 ."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang ulan dito ay tumutukoy pabalik sa limang kategoriya ng mabubuting bagay na nabanggit sa mga bersikulo 4 at 5."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang tinutubuan ng mga halaman ay isang pagsasalarawan ng pagiging nadala sa paggulang (b. 1). Ang mga mananampalataya, bilang ang lupa, ay nilinang para sa kapakanan ng Diyos upang maibunga nila si Kristo, bilang ang halamang tumubo, hanggang sa paggulang. Sa pamamagitan nito sila ay nakikibahagi ng pagpapala mula sa Diyos."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang mga tinik at mga dawag dito, sa estriktong pananalita, ay tumutukoy sa mga nakaugaliang bagay ng kanilang lumang relihiyon."
+        },
+        {
+            "id": "8-2",
+            "text": "O, pinawawalang-karapatan, ibinibilang na walang kabuluhan, di-tinatanggap, itinatakwil. Kung ang sinumang mananampalataya ay hindi madadala sa paggulang, bagkus sa halip ay umuurong pabalik sa mga lumang bagay, siya ay hindi aaprubahan ng Diyos, ituturing na walang kapakinabangan."
+        },
+        {
+            "id": "8-3",
+            "text": "Minsang naligtas na ang mga mananampalataya, kailanman ay hindi na sila maaaring maging isang tunay na sumpa. Subalit kung hindi tayo magpapatuloy na magpatubo ng Kristo, bagkus ay manangan sa mga bagay na hindi nakalulugod sa Diyos, tayo ay malapit sa sumpa ng pagdurusa ng parusa ng pampamahalaang pagtutuos ng Diyos (cf. ang disiplina sa 12:7-8). Ito ay lubos na naiiba sa pagdurusa ng walang hanggang kapahamakan, na siyang tunay na sumpa."
+        },
+        {
+            "id": "8-4",
+            "text": "Ang lupa kailanman ay hindi masusunog, subali’t ang tumutubo rito ay maaaring masunog. Ang mga mananampalataya ay ang lupang bukirin ng Diyos at kailanman ay hindi maaaring masunog, subali’t lahat ng kanilang pinatutubong kahoy, damo, at dayami na pawang hindi ayon sa ekonomiya ng Diyos ay masusunog (1 Cor. 3:9, 12)."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang magpasibol ng mga tinik at mga dawag sa b. 8 ay hindi isang bagay na nabibilang sa kaligtasan. Ang pakapansinin ang mga bagay na ating narinig (2:1), ang maging masikap na makapasok sa ipinangakong kapahingahan (4:11), ang lumapit sa trono ng biyaya (4:16), at ang madala sa paggulang (b. 1) ay mga bagay na nabibilang sa kaligtasan."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang kaligtasan dito ay tumutukoy sa kumpletong pagliligtas ng Diyos na siyang sinasalita ng 2:3 bilang ganitong kadakilang kaligtasan, ipinapaloob ang pagliligtas sa 7:25, ang kaligtasang binanggit sa Fil. 1:19, ang kaligtasan sa Fil. 2:12, at ang kaligtasan ng kaluluwa sa I Ped. 1:9, na siyang kaligtasan sa “malapit sa sumpa” gaya ng binanggit sa pampamahalaang pagtutuos ng Diyos sa b. 8."
+        },
+        {
+            "id": "10-1",
+            "text": "Tumutukoy sa pagtutustos ng mga materyal na bagay sa mga banal na nangangailangan."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. mapupurol, tulad sa 5:11."
+        },
+        {
+            "id": "18-1",
+            "text": "Itong dalawang bagay na di-mababago ay ang pangako at ang sumpa ng Diyos (b. 17)."
+        },
+        {
+            "id": "18-2",
+            "text": "Nagpapahiwatig ng pagtakas upang pumasok sa isang ligtas na lugar. Tingnan ang Gawa 14:6."
+        },
+        {
+            "id": "18-3",
+            "text": "Ang Panginoong Hesus ay pumasok na sa mga kalangitan na siyang Dakong Kabanalbanalan sa loob ng tabing, tulad ng nabanggit sa b. 20, at sa dako Niyang yaon ay may makalangit na kanlungan na maaari nating makublihan; ngayon sa ating espiritu ay maaari tayong pumasok sa dakong ito (10:19)."
+        },
+        {
+            "id": "19-1",
+            "text": "Ipinakikita ng ankla na tayo ay naglalakbay sa gitna ng mabagyong karagatan, at kung wala ang ankla ng pag-asa tayo ay maaaring mabagbag (1 Tim. 1:19)."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang mga kalangitan, kung saan pumasok ang Panginoong Hesus, ngayon ay ang Dakong Kabanal-banalan sa loob ng tabing. Ang ating Pag-asa, tulad ng isang matibay at matatag na ankla, ay pumasok doon, at ngayon kung tayo ay nasa espiritu, tayo ay makapapasok doon (10:19-20)."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang Panginoong Hesus bilang ang Tagapagpáuná ang Siyang nangunang dumaan sa mabagyong karagatan at pumasok sa makalangit na kanlungan upang para sa atin ay maging ang Mataas na Saserdote ayon sa orden ni Melquisedec. Bilang gayong Tagapagpáuná, Siya ang Pinuno ng ating kaligtasan (2:10). Bilang ang Tagapagpáuná, nabuksan Niya ang daan tungo sa kaluwalhatian, at bilang ang Pinuno Siya ay nakapasok na sa kaluwalhatian."
         }
     ]
 }

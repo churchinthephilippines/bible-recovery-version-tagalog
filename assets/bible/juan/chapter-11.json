@@ -1,5 +1,5 @@
 {
-    "chapter": 11,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Betania",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -59,7 +59,7 @@
             "footnotes": [
                 {
                     "word": "Sinabi",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -88,7 +88,7 @@
             "footnotes": [
                 {
                     "word": "gagaling.",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -105,7 +105,7 @@
             "footnotes": [
                 {
                     "word": "namatay",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -122,7 +122,7 @@
             "footnotes": [
                 {
                     "word": "Didimo,",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -139,7 +139,7 @@
             "footnotes": [
                 {
                     "word": "labinlimang",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -180,7 +180,7 @@
             "footnotes": [
                 {
                     "word": "huling",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -191,7 +191,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -202,7 +202,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -213,7 +213,7 @@
             "footnotes": [
                 {
                     "word": "sumasampalataya",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -224,7 +224,7 @@
             "footnotes": [
                 {
                     "word": "tinatawag",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -247,7 +247,7 @@
             "footnotes": [
                 {
                     "word": "tumangis.",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -276,7 +276,7 @@
             "footnotes": [
                 {
                     "word": "Tumangis",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -317,7 +317,7 @@
             "footnotes": [
                 {
                     "word": "inalis",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": [
@@ -330,7 +330,7 @@
             "footnotes": [
                 {
                     "word": "nagsugo",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -353,7 +353,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": [
@@ -378,7 +378,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -407,7 +407,7 @@
             "footnotes": [
                 {
                     "word": "matipon",
-                    "note": ""
+                    "id": "52-1"
                 }
             ],
             "outlines": null
@@ -441,6 +441,80 @@
             "text": "Ang mga pangulong saserdote at ang mga Fariseo nga ay nangag-utos na kung sinuman ang nakaalam ng kung saan Siya naroroon, dapat niyang ipagbigay-alam ito upang kanilang madakip Siya.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Iniwan nga ng Panginoon ang Hudaismo at pumunta sa lugar na kung saan Siya ay maaaring pumaroon patungong Betania, na isang unang larawan ng ekklesia."
+        },
+        {
+            "id": "8-1",
+            "text": "Karamihan sa walong naunang kaso, sa mga kapitulo 3 hanggang 10, ang pangunahing hadlang at kalaban ng buhay ay ang relihiyon. Ngayon, sa labas ng relihiyon at sa bagong kinatatayuan, bubuhayin ng buhay ang isang patay na tao. Dito ang buhay ay hindi na humaharap sa relihiyon kasama ang mga rituwal nito, kundi sa maraming pantaong opinyon na humahadlang sa buhay: ang mga opinyon ng mga disipulo (bb. 8-16), ang opinyon ni Marta (bb. 21-28), ang opinyon ni Maria (bb. 32-33), ang mga opinyon ng mga Hudyo (bb. 36-38), at ang opinyon muli ni Marta (bb. 39-40). Ang mga opinyon na nagmumula sa kaalaman ay nabibilang sa puno ng kaalaman, nguni’t sa katunayan ang Panginoon dito ay ang puno ng buhay para sa katamasahan ng mga tao."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. maliligtas."
+        },
+        {
+            "id": "14-1",
+            "text": "Sa pagliligtas ng Panginoon, Siya ay hindi lamang nagpapagaling sa may-sakit, kundi nagbibigay-buhay sa patay. Kaya Siya ay nanatili ng dalawang araw hanggang ang may-sakit ay namatay (b. 6). Hindi niya nirereporma at nireregula ang mga tao, kundi isinisilang Niyang muli ang mga tao at ibinabangon sila palabas sa kamatayan. Samakatwid, ang una sa siyam na kaso ay ukol sa pagkasilang na muli at ang huli ay ukol sa pagkabuhay na muli, inihahayag na ang lahat ng iba’t ibang aspekto ni Kristo bilang buhay sa atin, katulad ng ipinakita sa ibang pitong kaso, ay nasa prinsipyo ng pagkasilang na muli at pagkabuhay na muli. Ang huling kaso ay ang aktwal na pagpapalit ng buhay sa kamatayan."
+        },
+        {
+            "id": "16-1",
+            "text": "Yaon ay, Kambal."
+        },
+        {
+            "id": "18-1",
+            "text": "Yaon ay, halos dalawang milya."
+        },
+        {
+            "id": "24-1",
+            "text": "Sinabi ng Panginoon kay Marta, Ang iyong kapatid ay babangong muli (b. 23). Ito ay nangangahulugang ibabangon siya kaagad ng Panginoon; nguni’t binigyang-kahulugan ni Marta ang salitang ito ng Panginoon upang ipagpaliban sa huling araw ang pangkasalukuyang pagkabuhay na muli. Anong klaseng pagpapaliwanag ng Kasulatan! May mga kaalaman sa pundamental na pagtuturo ang nakawawasak sa mga tao, humahadlang sa mga tao sa pagtatamasa ng pangkasalukuyang pagkabuhay na muling buhay ng Panginoon!"
+        },
+        {
+            "id": "25-1",
+            "text": "Lit. tungo sa loob Ko."
+        },
+        {
+            "id": "26-1",
+            "text": "Lit. tungo sa loob Ko."
+        },
+        {
+            "id": "27-1",
+            "text": "Sinabi ng Panginoon kay Marta, “Ako ang pagkabuhay na muli at ang buhay…” at tinanong siya, “Sinasampalatayanan mo ba ito?” Sumagot siya, “Oo, Panginoon; Sumasampalataya ako na Ikaw ang Kristo, ang Anak ng Diyos…” Ang kanyang sagot ay hindi ayon sa katanungan ng Panginoon. Ang kanyang luma at dating umookupang kaalaman ang nagtakip sa kanya at nagsanhi sa kanya sa hindi pagkaunawa sa bagong salita ng Panginoon. Ang lumang kaalaman at lumang opinyon ng tao ang siyang humahadlang sa pagkaunawa sa bagong pahayag ng Panginoon."
+        },
+        {
+            "id": "28-1",
+            "text": "Ito ay maaaring opinyon lamang ni Marta at hindi utos ng Panginoon."
+        },
+        {
+            "id": "31-1",
+            "text": "Lit. managhoy. Gayundin sa bersikulo 33."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang salitang ito ay naiiba sa salitang isinaling tumangis at tumatangis sa bersikulo 31 at 33. Dito, ang kahulugan ay lumuha nang tahimik. Dito lamang matatagpuan ang salitang ito sa buong Bagong Tipan."
+        },
+        {
+            "id": "41-1",
+            "text": "Ang “alisin ang bato” at ang “kalagan” si Lazaro ay ang pagpapasakop at pakikipagtulungan sa pagkabuhay na muling buhay."
+        },
+        {
+            "id": "42-1",
+            "text": "Tingnan ang tala 6-1 sa kap. 1."
+        },
+        {
+            "id": "45-1",
+            "text": "Lit. tungo sa loob Niya."
+        },
+        {
+            "id": "48-1",
+            "text": "Lit. tungo sa loob Niya."
+        },
+        {
+            "id": "52-1",
+            "text": "Ang “matipon sa isa ang mga anak ng Diyos” na binanggit sa kapitulong ito ay nagpapahiwatig na hindi lamang ang kamatayan, bagkus maging ang buhay ng pagkabuhay na muli ng Panginoon ay pawang para sa pagtatayo ng mga anak ng Diyos. Pinalaya ng kamatayan ng Panginoon ang Kanyang buhay, at ipinamahagi sa mga taong nagsisampalataya sa loob Niya. Ang buhay na ito ay ipinararanas sa atin sa loob ng Kanyang pagkabuhay na muli. Tayo ay nasa loob ng pagkabuhay na muli ng Panginoon, lumalago nang sama-sama sa pamamagitan ng Kanyang buhay, nagkakaisa upang maging Kanyang Katawan."
         }
     ]
 }

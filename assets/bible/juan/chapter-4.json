@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -41,15 +41,15 @@
             "footnotes": [
                 {
                     "word": "balon",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "balon.",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "iikaanim",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -72,7 +72,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": [
@@ -104,7 +104,7 @@
             "footnotes": [
                 {
                     "word": "umiinom",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -115,11 +115,11 @@
             "footnotes": [
                 {
                     "word": "magpakailanman;",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -139,7 +139,7 @@
             "footnotes": [
                 {
                     "word": "tawagin",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -156,7 +156,7 @@
             "footnotes": [
                 {
                     "word": "limang",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -176,7 +176,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -193,7 +193,7 @@
             "footnotes": [
                 {
                     "word": "nanggagaling",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -210,27 +210,27 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "Espiritu;",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "nagsisisamba",
-                    "note": ""
+                    "id": "24-3"
                 },
                 {
                     "word": "magsisamba",
-                    "note": ""
+                    "id": "24-3"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "24-4"
                 },
                 {
                     "word": "realidad.",
-                    "note": ""
+                    "id": "24-5"
                 }
             ],
             "outlines": null
@@ -249,7 +249,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -268,7 +268,7 @@
             "footnotes": [
                 {
                     "word": "iniwan",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -279,7 +279,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -290,7 +290,7 @@
             "footnotes": [
                 {
                     "word": "nagsiparoon",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -307,7 +307,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -336,11 +336,11 @@
             "footnotes": [
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "36-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "36-2"
                 }
             ],
             "outlines": null
@@ -357,7 +357,7 @@
             "footnotes": [
                 {
                     "word": "iba",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -374,11 +374,11 @@
             "footnotes": [
                 {
                     "word": "tumigil",
-                    "note": ""
+                    "id": "40-1"
                 },
                 {
                     "word": "tumigil",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -411,7 +411,7 @@
             "footnotes": [
                 {
                     "word": "sariling",
-                    "note": ""
+                    "id": "44-1"
                 }
             ],
             "outlines": null
@@ -428,11 +428,11 @@
             "footnotes": [
                 {
                     "word": "Cana",
-                    "note": ""
+                    "id": "46-1"
                 },
                 {
                     "word": "Galilea,",
-                    "note": ""
+                    "id": "46-2"
                 }
             ],
             "outlines": null
@@ -463,7 +463,7 @@
             "footnotes": [
                 {
                     "word": "salitang",
-                    "note": ""
+                    "id": "50-1"
                 }
             ],
             "outlines": [
@@ -483,7 +483,7 @@
             "footnotes": [
                 {
                     "word": "ikapitong",
-                    "note": ""
+                    "id": "52-1"
                 }
             ],
             "outlines": null
@@ -500,10 +500,132 @@
             "footnotes": [
                 {
                     "word": "ikalawang",
-                    "note": ""
+                    "id": "54-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "6-1",
+            "text": "Lit., bukal; gaya ng sa b. 14."
+        },
+        {
+            "id": "6-2",
+            "text": "Yaon ay, 6:00 ng gabi."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang Samaria ay ang nangungunang rehiyon ng hilagang kaharian ng Israel at ang lugar kung saan naroroon ang kapitolyo nito (1 Hari 16:24, 29). Noong mga 700 B.C., binihag ng mga taga-Asiria ang Samaria at nagdala ng mga tao mula sa Babilonia at mula sa iba pang paganong bansa tungo sa mga lunsod ng Samaria (2 Hari 17:6, 24). Mula sa panahong yaon, ang mga Samaritano ay naging mga mestisong pagano at Hudyo. Sinasabihan tayo ng kasaysayan na sila ay may Pentateuch (ang limang aklat ni Moises) at sumasamba sa Diyos ayon sa bahaging yaon ng Lumang Tipan. Ngunit kailanman, hindi sila kinikilala ng mga Hudyo bilang bahagi ng bayan ng mga Hudyo."
+        },
+        {
+            "id": "13-1",
+            "text": "Isinasagisag nito ang pagtatamasa sa mga materyal na bagay at ang kaaliwan sa makasanlibutang libangan. Wala sa mga bagay na ito ang makapapawi sa kauhawang nasa kaibuturan ng tao. Gaano man karaming ganitong materyal at makasanlibutang “tubig” ang kanyang inumin, siya ay mauuhaw pa rin. Lalo siyang umiinom ng ganitong “mga tubig,” lalong tumitindi ang kanyang kauhawan."
+        },
+        {
+            "id": "14-1",
+            "text": "Lit., sa kapanahunan."
+        },
+        {
+            "id": "14-2",
+            "text": "Tingnan ang tala 15-1 sa kap. 3."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang salitang ito ay sinadya upang hipuin ang kanyang budhi dahil sa siya ay may imoral na kasaysayan, upang magsisi siya sa kanyang mga kasalanan."
+        },
+        {
+            "id": "18-1",
+            "text": "Sinubok ng babae ang unang asawa, uminom sa “tubig” na yaon, at siya ay di-nasiyahan. Pagkatapos ay kanyang sinubok ang ikalawa, ikatlo, ikaapat, at ikalimang asawa. Wala sa mga ito ang makapagbibigay-kasiyahan sa kanya kaya’t kanya na namang sinubukan ang iba. Ang kanyang walang tigil na pagpapalit ng asawa ay lubos na nagpapatunay sa kanya na gaano man karami ang inumin niyang “tubig na ganito,” siya ay uhaw pa rin. “Ang bawat umiinom ng tubig na ito ay muling mauuhaw.” Ang salitang ito ng Panginoon ay totoo!"
+        },
+        {
+            "id": "20-1",
+            "text": "Ang suliranin ng babae, tulad ng mga katanungan sa 8:3-5 at 9:2-3, ay isang bagay ng wasto o mali, na nabibilang sa puno ng kaalaman, subalit ibinaling siya ng Panginoon sa espiritu (bb. 21-24), na nabibilang sa puno ng buhay (cf. Gen. 2:9, 17)."
+        },
+        {
+            "id": "22-1",
+            "text": "Lit., mula sa."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang Diyos dito ay tumutukoy sa buong Tres-unong Diyos—ang Ama, ang Anak, at ang Espiritu Santo."
+        },
+        {
+            "id": "24-2",
+            "text": "Tumutukoy sa kalikasan ng buong Tres-unong Diyos at hindi sa kalikasan ng Panginoong Espiritu lamang. Upang masamba ang Diyos na Espiritu, kinakailangang gamitin ang espiritu upang sambahin Siya, sapagkat ang pantaong espiritu at ang dibinong Espiritu ay may magkatulad na kalikasan."
+        },
+        {
+            "id": "24-3",
+            "text": "Ang salitang ito ay ibinigay upang turuan ang babaeng Samaritana tungkol sa kanyang pangangailangan na magsanay ng kanyang espiritu upang makaugnay ang Diyos na Espiritu. Ang kaugnayin ang Diyos na Espiritu sa pamamagitan ng espiritu ay ang uminom ng buháy na tubig, at ang uminom ng buháy na tubig ay mapag-ukulan ng tunay na pagsamba ang Diyos."
+        },
+        {
+            "id": "24-4",
+            "text": "Ang espiritung ito ay tumutukoy sa ating pantaong espiritu. Sa tipolohiya, ang pagsamba sa Diyos ay dapat na, 1) nasa pook na pinili ng Diyos upang ilagay ang Kanyang tahanan (Deut. 12:5, 11, 13-14, 18); at 2) may dalang mga hain (Lev. kap. 1-6). Ang lugar na pinili ng Diyos para sa Kanyang tahanan ay sumasagisag sa pantaong espiritu, kung saan naroroon ang tahanan ng Diyos ngayon (Efe. 2:22 ang “isang tahanan ng Diyos sa Espiritu” tulad ng nasa KJV ay dapat basahing, “isang tahanan ng Diyos sa espiritu” – Gr.). Ang mga hain ay sumasagisag kay Kristo; si Kristo ay ang katuparan at realidad ng lahat ng mga hain na ginagamit ng mga tao upang sambahin ang Diyos. Kaya, nang tinuruan ng Panginoon ang babaeng Samaritana na sumamba sa Diyos na Espiritu sa loob ng espiritu at ng realidad, ito ay nangangahulugang dapat niyang kaugnayin ang Diyos na Espiritu sa loob ng kanyang espiritu sa halip na sa isang tiyak na pook, at sa pamamagitan ni Kristo, sa halip ng mga hain; sapagkat sa ngayon, yamang si Kristo na realidad ay dumating na (bb. 25-26), ang lahat ng mga anino at sagisag ay tapos na."
+        },
+        {
+            "id": "24-5",
+            "text": "Ayon sa nilalaman ng kapitulong ito at sa pahayag na ipinakita ng buong Ebanghelyo ni Juan, ang realidad dito ay tumutukoy sa maka-Diyos na realidad na naging katunayan, katotohanan (kalaban ng mapagpaimbabaw na pagsamba ng imoral na babaeng Samaritana, bb. 16-18) para sa tunay na pagsamba sa Diyos. Ang dibinong realidad ay si Kristo, Siya ang realidad (14:6) ng lahat ng mga hain sa Lumang Tipan na ginagamit upang sambahin ang Diyos (1:29; 3:14); Siya ang buháy na tubig—Espiritung nagbibigay ng buhay—ang bukal (bb. 7-15) na tinatamasa at iniinom ng mga mananampalataya upang kanilang maging realidad sa loob at sa kahuli-hulihan, maging kanilang katunayan at katotohanan sa gayon masasamba nila ang Diyos sa pamamagitan ng pagsambang ninanais ng Diyos. Tingnan ang 1 Juan 1:6 tala 6, Roma 3:7; 15:8 tala 1."
+        },
+        {
+            "id": "26-1",
+            "text": "Sa pamamagitan ng salitang ito ay ginabayan siya ni Hesus upang manampalataya na Siya ang Kristo, upang siya ay magkaroon ng buhay na walang hanggan (20:31). Siya ay nanampalataya nga (b. 29)."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang sinumang umiinom sa buháy na tubig at masiyahan dito ay mag-iiwan ng kanyang dating pinagkakaabalahan at magpapatotoo para sa buháy na tubig. Sa prinsipyong naipakita sa kapitulo 2, ito man ay ang palitan ng buhay ang kamatayan."
+        },
+        {
+            "id": "29-1",
+            "text": "Ito ay nagsasaad na ang babae ay nanampalataya na si Hesus ay ang Kristo, at sa pamamagitan ng ganitong pananampalataya siya ay tumanggap ng buháy na tubig at nasiyahan."
+        },
+        {
+            "id": "30-1",
+            "text": "*Lit., nagsiparito."
+        },
+        {
+            "id": "32-1",
+            "text": "Dahil sa buháy na tubig ng Tagapagligtas, ang makasalanan ay nagtamo ng kasiyahan; dahil sa pagsunod sa kalooban ng Diyos, yaon ay, ang bigyang-kasiyahan ang makasalanan, ang Tagapagligtas ay nagtamo rin ng kasiyahan. Ang gawin ang kalooban ng Diyos upang bigyang-kasiyahan ang makasalanan ay ang pagkain ng Tagapagligtas (b. 34)."
+        },
+        {
+            "id": "36-1",
+            "text": "O, para sa."
+        },
+        {
+            "id": "36-2",
+            "text": "Tingnan ang tala 15-1 sa kap. 3."
+        },
+        {
+            "id": "38-1",
+            "text": "Ang “iba ang nangagpagal” ay nangangahulugang may mga taong naghasik ng binhi sa mga Samaritano sa pamamagitan ng Pentateuch (ang unang limang aklat ng Lumang Tipan), na taglay ng mga Samaritano. Ngayon ay isinugo ng Panginoon ang Kanyang mga disipulo upang anihin ang mga hinasikan ng mga taong yaon."
+        },
+        {
+            "id": "40-1",
+            "text": "Ganito ring salitang Griyego ang ginamit para sa “nananahan” sa 14:17 at para sa “nananatili” sa 15:4, 5, 7, 9, 10."
+        },
+        {
+            "id": "44-1",
+            "text": "Napasa Galilea ang Panginoon dahil iniiwasan Niya ang maging bantog katulad nang nasa Herusalem pa Siya (2:23)."
+        },
+        {
+            "id": "46-1",
+            "text": "Tingnan ang tala 1-3 sa kap. 2."
+        },
+        {
+            "id": "46-2",
+            "text": "Ang Galilea ay isang hamak na lugar (7:41, 52), ay sumasagisag sa mababa at hamak na sanlibutan."
+        },
+        {
+            "id": "50-1",
+            "text": "Ang salita ng buhay buhat sa bibig ng Panginoon ay nagbibigay-buhay sa taong malapit nang mamatay."
+        },
+        {
+            "id": "52-1",
+            "text": "Yaon ay, alas 7:00 ng gabi."
+        },
+        {
+            "id": "54-1",
+            "text": "Ang kahulugan ng unang tanda sa Cana (2:1-11) ay ang palitan ng buhay ang kamatayan, itinatakda ang prinsipyo ng buhay. Ang ikalawang tanda rito ay isang pagpapatuloy upang magamit ang prinsipyong ito, yaon ay, ang palitan ng buhay ang kamatayan. Ang kamatayan ay buhat sa puno ng kaalaman, at ang buhay ay buhat sa puno ng buhay (cf. Gen. 2:9, 17)."
         }
     ]
 }

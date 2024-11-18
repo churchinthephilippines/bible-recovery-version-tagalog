@@ -1,5 +1,5 @@
 {
-    "chapter": 11,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Maging",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "akin,",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -24,7 +24,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": [
@@ -38,15 +38,15 @@
             "footnotes": [
                 {
                     "word": "Ulo",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "ulo",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "Ulo",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -57,11 +57,11 @@
             "footnotes": [
                 {
                     "word": "nagpopropesiya",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "naglalagay",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": [
@@ -74,11 +74,11 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "inahitan.",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -89,7 +89,7 @@
             "footnotes": [
                 {
                     "word": "magtakip",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -100,11 +100,11 @@
             "footnotes": [
                 {
                     "word": "larawan",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": [
@@ -117,7 +117,7 @@
             "footnotes": [
                 {
                     "word": "babae",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -128,11 +128,11 @@
             "footnotes": [
                 {
                     "word": "nilalang",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "babae",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -143,11 +143,11 @@
             "footnotes": [
                 {
                     "word": "awtoridad",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -158,7 +158,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -169,7 +169,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -186,7 +186,7 @@
             "footnotes": [
                 {
                     "word": "kalikasan",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -203,11 +203,11 @@
             "footnotes": [
                 {
                     "word": "gayong",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": [
@@ -220,11 +220,11 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "pagtatagubilin",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": [
@@ -238,7 +238,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -249,15 +249,15 @@
             "footnotes": [
                 {
                     "word": "pagkakabukud-",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "aprubado",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "mangahayag",
-                    "note": ""
+                    "id": "19-3"
                 }
             ],
             "outlines": null
@@ -268,7 +268,7 @@
             "footnotes": [
                 {
                     "word": "hapunan",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -279,7 +279,7 @@
             "footnotes": [
                 {
                     "word": "hapunan",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -296,7 +296,7 @@
             "footnotes": [
                 {
                     "word": "ipagkanulo",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": [
@@ -309,15 +309,15 @@
             "footnotes": [
                 {
                     "word": "pinira-",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "24-3"
                 }
             ],
             "outlines": null
@@ -328,15 +328,15 @@
             "footnotes": [
                 {
                     "word": "sarong",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "magsisiinom,",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "25-3"
                 }
             ],
             "outlines": null
@@ -347,11 +347,11 @@
             "footnotes": [
                 {
                     "word": "inihahayag",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -362,11 +362,11 @@
             "footnotes": [
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "magkakasala",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": [
@@ -379,7 +379,7 @@
             "footnotes": [
                 {
                     "word": "siyasatin",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -390,15 +390,15 @@
             "footnotes": [
                 {
                     "word": "kahatulan",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "kinikilala",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "29-3"
                 }
             ],
             "outlines": null
@@ -409,15 +409,15 @@
             "footnotes": [
                 {
                     "word": "dito",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "mahihina",
-                    "note": ""
+                    "id": "30-2"
                 },
                 {
                     "word": "nangatutulog.",
-                    "note": ""
+                    "id": "30-3"
                 }
             ],
             "outlines": [
@@ -430,7 +430,7 @@
             "footnotes": [
                 {
                     "word": "kikilalanin",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -441,11 +441,11 @@
             "footnotes": [
                 {
                     "word": "hinahatulan",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "mahatulang",
-                    "note": ""
+                    "id": "32-2"
                 }
             ],
             "outlines": null
@@ -456,7 +456,7 @@
             "footnotes": [
                 {
                     "word": "mangaghintayan",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -467,10 +467,228 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang bersikulong ito ay ang huling pangungusap ng konklusyon sa kapitulo 10."
+        },
+        {
+            "id": "1-2",
+            "text": "Kung ang isa ay isang tagatulad kay Kristo, dapat tayong tumulad sa kanya. Sa gayon ginagawa rin tayong tagatulad kay Kristo. Kung hindi, hindi tayo dapat tumulad sa kaninuman."
+        },
+        {
+            "id": "2-1",
+            "text": "*Gr. paradosis. Lit. mga tradisyon.* Mga tagubilin na ibinigay sa pamamagitan ng salita o pagsulat (2 Tes. 2:15)."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang bersikulong ito hanggang bersikulo 16 ay tumutuos sa ikapitong suliranin, ang suliranin tungkol sa pagtatakip sa ulo. Ang unang anim na suliranin, na tinuos sa mga kapitulo 1 hanggang 10, ay maaaring ituring na isang pangkat. Ang mga ito ay may kinalaman sa mga bagay na saklaw ng pamumuhay ng tao. Ang huling limang suliranin, na tinuos sa mga kapitulo 11 hanggang 16, ay isa pang pangkat. Ang mga ito ay may kinalaman sa mga bagay na saklaw ng pamamahala ng Diyos. Ang una ay tungkol sa pagiging Ulo ni Kristo at ng Diyos sa dibinong pamamahala. Sa Efe. 1:22-23 si Kristo ay Ulo sa Kanyang Katawan na siyang ekklesia at naging Ulo ng lahat ng mga bagay; dito naman si Kristo bilang Ulo ng indibiduwal na tao ay may kinalaman sa indibiduwal. Si Kristo ay ang Ulo (Efe. 5:23) ng sama-samang Katawan (ekklesia), Siya rin ang Ulo ng indibiduwal na mananampalataya; Siya ang direktang Ulo ng bawa’t isa sa atin. Sa pakikipagtuos ng apostol sa suliranin ng mga taga-Corinto tungkol sa pamamahala ng Diyos, itong bagay na ukol sa pagiging Ulo ni Kristo at ng Diyos ay ang kanyang unang binigyang-diin."
+        },
+        {
+            "id": "3-2",
+            "text": "Sa dibinong pampamahalaang pagtatalaga, ang babae ay nasa ilalim ng pagka-ulo ng lalake. Nilikha ng Diyos ang babae sa ganitong paraan (Gen. 2:18- 24; 1 Tim. 2:13). Ayon sa kalikasang nilikha ng Diyos (b. 14), ang babae ay napapailalim sa lalake."
+        },
+        {
+            "id": "3-3",
+            "text": "Si Kristo ang Siyang pinahiran ng Diyos, na itinakda ng Diyos. Sa gayon, Siya ay nasa ilalim ng Diyos, at ang Diyos bilang ang Pinagmulan ay ang Kanyang Ulo. Ito ay tumutukoy sa kaugnayan na namamagitan kay Kristo at sa Diyos sa dibinong pamamahala. Sa pagtutuos sa suliranin ukol sa pagtatakip sa ulo, ginagamit ng apostol ang pagka-ulo ng Diyos, ang pagka-ulo ni Kristo, at ang pagka-ulo ng lalake bilang matibay na batayan para sa kanyang pagtuturo. Ang kanyang pagtuturo tungkol sa pagtatakip sa ulo ay hindi batay sa anumang kagawian sa relihiyon o mga kaugalian ng tao, kundi sa pagka-ulo ng Diyos sa pampamahalaang pangangasiwa. Ang ganitong matibay na batayan ay hindi nag-iiwan ng anumang dahilan para sa anumang pagtatalo tungkol sa bagay ng pagtatakip sa ulo."
+        },
+        {
+            "id": "4-1",
+            "text": "Yaon ay, ang magsalita para sa Diyos. Tingnan ang tala 10-2 sa kap. 12."
+        },
+        {
+            "id": "4-2",
+            "text": "Yamang ang lalake ay ang ulo ng babae at ang larawan at kaluwalhatian ng Diyos (b. 7), dapat niyang panatilihing hayag ang kanyang ulo, hindi natatago, hindi natatakpan, kapag siya ay nananalangin sa Diyos at nagsasalita para sa Diyos sa paghipo sa trono ng pamamahala ng Diyos. Kung hindi, hindi niya pinahahalagahan at kanyang inilalagay sa kahihiyan ang kanyang ulo."
+        },
+        {
+            "id": "5-1",
+            "text": "Yamang ang babae ay nasa ilalim ng pagka-ulo ng lalake, dapat niyang panatilihin ang kanyang ulo na natatakpan, hindi hayag, kapag hinihipo niya ang dibinong pamamahala sa pamamagitan ng pananalangin sa Diyos at pagsasalita para sa Diyos. Kung hindi, winawalang-puri o inilalagay niya sa kahihiyan ang kanyang ulo, na parang inahitan ang kanyang ulo, sapagka’t kanyang tinatanggihan ang dibinong pampamahalaang pagtatalaga sa pamamagitan ng paglalantad ng kanyang ulo sa mga nanonood na anghel (b. 10) kapag kanyang hinihipo ang awtoridad ng Diyos."
+        },
+        {
+            "id": "5-2",
+            "text": "Matibay na ipinakikita nito na para sa babae na mag-ahit o magpagupit ng gaya sa lalake ay kahiya-hiya (b. 6)."
+        },
+        {
+            "id": "6-1",
+            "text": "Tinutukoy nito na ang takip sa ulo ay isang takip na karagdagan sa mahabang buhok. Para sa babae na magpanatili ng mahabang buhok, na hindi ahit ang ulo, ay ang hindi pagtanggi sa pampamahalaang pagtatalaga ng Diyos at para sa babae na magkaroon ng takip sa ulo bilang karagdagan sa kanyang mahabang buhok ay ang magsabi ng amen sa dibinong pagtatalaga."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang lalake ay ginawa sa larawan ng Diyos (Gen. 1:26) upang ihayag at luwalhatiin ang Diyos. Yamang taglay ng lalake ang larawan at kaluwalhatian ng Diyos at kumakatawan sa Diyos, siya ay hindi dapat maglagay ng takip sa kanyang ulo. Kapag ginawa niya ito, ang larawan at kaluwalhatian ng Diyos ay matatago."
+        },
+        {
+            "id": "7-2",
+            "text": "Yamang ang babae ay ang kaluwalhatian ng lalake, siya ay hindi dapat maghayag ng kanyang ulo kundi dapat na magtakip. Hindi niya dapat ihayag ang kanyang sarili kundi ang lalake, kung kanino siya napasasailalim. Ito rin ay isang batayan na ginamit ng apostol para sa kanyang pagtuturo tungkol sa pagtatakip sa ulo."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang babae ay isang tadyang na kinuha mula sa lalake; ang babae ay ginawa mula sa lalake (Gen. 2:21-23)."
+        },
+        {
+            "id": "9-1",
+            "text": "Dito ay ginagamit ng apostol ang layunin ng Diyos sa paglikha sa lalake at babae bilang isa pang matibay na batayan para sa kanyang pagtuturo ng pagtatakip sa ulo. Ito ay hindi batay sa anumang kaugaliang gawa lamang ng tao, kundi sa dibinong layunin ng paglikha."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang babae ay ginawa para sa layuning maging kapareha ng lalake (Gen. 2:18, 24)."
+        },
+        {
+            "id": "10-1",
+            "text": "Yaon ay, ang takip sa ulo, na sumasagisag sa awtoridad ng pagka-ulo ng lalake sa babae."
+        },
+        {
+            "id": "10-2",
+            "text": "Ito ay isa pang batayan para sa pagtuturo ng pagtatakip sa ulo. Ang pagtatakip sa ulo ay may malapit na kaugnayan sa pagka-ulo ng Diyos, yaon ay, sa awtoridad ng Diyos. Ang arkanghel, kasama ang kanyang mga nasasakupan, ay nagrebelde laban sa pagka-ulo ng Diyos (Ezek. 28:13-18; Isa. 14:12-15; Mat. 25:41), at nagtatag ng kanyang kaharian ng kadiliman (Mat. 12:26; Col. 1:13), at naging si Satanas, ang kaaway ng Diyos. Pagkatapos likhain ng Diyos ang tao, nirahuyo ni Satanas ang tao na sumunod sa kanya at magrebelde sa Diyos. Pagkatapos isinugo ng Diyos ang Kanyang Anak upang wasakin siya at iligtas ang tao palabas sa kanyang kapangyarihan pabalik sa kaharian ng Diyos (1 Juan 3:8; Heb. 2:14; Col. 1:13). Ngayon kapag ang mga mananampalataya ay sumasamba sa Diyos, sa pananalangin sa Diyos, at pagsasalita para sa Diyos, dapat silang magkaroon ng mga tanda na sila ay nasa ilalim ng pagka-ulo ng Diyos, na siyang dibinong awtoridad, ipinakikita sa mga nanonood na anghel (cf. 4:9) na nagpapahalaga sa bagay na ito, na sila (ang mga mananampalataya) ay sumusunod sa itinalaga ng Diyos na kaayusan sa Kanyang pamamahala. Sa kadahilanang ito, ang mga kapatid na babae ay kinakailangang magkaroon ng tanda, isang takip sa kanilang ulo."
+        },
+        {
+            "id": "11-1",
+            "text": "Ito ay nangangahulugang, sa plano ng Panginoon, sa pagsasaayos ng Panginoon."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang lalake ang pinagmulan ng pag-iral ng babae. Sa gayon, ang babae ay mula sa lalake. Sa pamamagitan naman ng babae, ang lalake ay naisisilang. Sa gayon, ang lalake ay sa pamamagitan ng babae (Gen. 2:21-23)."
+        },
+        {
+            "id": "14-1",
+            "text": "Yaon ay, ang ating likas na disposisyon ayon sa paglikha ng Diyos. Ang kalikasan mismo ang nagsasabi sa atin na ang lalake ay hindi dapat magkarooon ng mahabang buhok, kundi ang babae. Natatanto ng babae, sa pamamagitan ng kanyang pambabaeng disposisyon, na ang magkaroon ng mahabang buhok upang takpan ang kanyang ulo ay isang kaluwalhatian. Ito rin ay matibay na batayan para sa pagtuturo ng apostol ukol sa bagay ng pagtatakip sa ulo. Hindi ito batay sa kaugaliang itinakda ng tao kundi batay sa kalikasang nilikha ng Diyos."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang kaugalian ng pakikipagtunggali, pakikipagtalo, at pakikipagdebate. Maging ang mga apostol ni ang mga ekklesia ay hindi nagpahintulot ng anumang paglalaban tungkol sa pagtuturo ng mga apostol."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang pagiging maramihan ng mga ekklesia rito ay nagsasaad na lahat ng mga ekklesia lokal ay malaya sa isa’t isa, gayunpaman silang lahat ay kumikilos sa parehong paraan ayon sa pagtuturo ng mga apostol."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang “datapuwa’t” dito ay nagpapakita ng pagkakaiba ng “hindi ko kayo pinupuri” sa “kayo ay aking pinupuri” sa bersikulo 2."
+        },
+        {
+            "id": "17-2",
+            "text": "Mula sa bersikulong ito hanggang katapusan ng kapitulo tinutuos ng apostol ang ikawalong suliranin na tungkol sa hapunan ng Panginoon."
+        },
+        {
+            "id": "18-1",
+            "text": "Yaon ay, sa pagtitipon ng ekklesia (14:34-35)."
+        },
+        {
+            "id": "19-1",
+            "text": "Gr. hairesis. Mga sekta, mga pangkat ng iba’t ibang opinyon, gaya ng sa Gal. 5:20."
+        },
+        {
+            "id": "19-2",
+            "text": "Dumaan na sa pagsubok, natugunan na ang kahilingan."
+        },
+        {
+            "id": "19-3",
+            "text": "Ang mga sekta ay nakatutulong upang ihayag ang mga naaprubahan, na hindi mga makasekta."
+        },
+        {
+            "id": "20-1",
+            "text": "Sa 10:21 ito ay tinawag na hapag ng Panginoon. Ang binibigyang-diin ng hapag ng Panginoon ay ang pagsasalamuha sa Kanyang dugo at sa Kanyang katawan (10:16-17), ang pakikibahagi sa Panginoon, at ang pagtatamasa sa Panginoon sa loob ng pagsasalamuha, tinatamasa ang Panginoon sa isa’t isa. Samantalang ang binibigyang-diin ng hapunan ng Panginoon ay ang pag-aalaala sa Panginoon (bb. 24-25). Sa hapag ng Panginoon tinatanggap natin ang Kanyang katawan at dugo para sa ating pagtatamasa; sa hapunan ng Panginoon inaalaala natin ang Panginoon para sa Kanyang pagtatamasa."
+        },
+        {
+            "id": "21-1",
+            "text": "Sa panahon ng apostol, nakagawian na ng mga mananampalataya ang magsama-sama para sa hapunan, ang pinakamahalagang pagkain sa buong araw, kung saan ang mga mayaman ay nagdadala ng higit na marami at higit na masarap na pagkain para sa magkakasamang pagtatamasa, at ang mga mahirap naman ay higit na kaunti. Ito ay tinawag na piging ng pag-ibig (2 Ped. 2:13; Judas 12) at ang ganitong kaugalian ay nagmula sa piging ng Paskua (Luc. 22:13-20). Sa katapusan ng kanilang piging ng pag-ibig kinakain nila ang hapunan ng Panginoon, yaon ay, ang kumain sa tinapay at sa saro upang alalahanin ang Panginoon (bb. 23-25). Hindi ito ginawa nang maayos ng mga taga-Corinto. Hindi sila naghintayan sa isa’t isa (cf. b. 33). Bawa’t isa ay una nang kumain ng sariling hapunan. Kaya ang nangyari, ang mayayaman ay nalasing at ang mahihirap ay nagutom (b. 21). Ito ay nagsanhi ng pagkakabaha-bahagi at pagkakabukud-bukod sa gitna nila (bb. 18-19). Samakatuwid, sinira nila ang hapunan ng Panginoon. Sa gayon, ang kanilang pagkain ay hindi ang pagkain ng hapunan ng Panginoon (b. 20)."
+        },
+        {
+            "id": "23-1",
+            "text": "Lit. ibinigay."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang pagpira-piraso ng tinapay ay upang makain natin ito (Mat. 26:26)."
+        },
+        {
+            "id": "24-2",
+            "text": "*Lit. tungo sa.* Hindi lamang nagpapahiwatig ng layunin bagkus ng resulta rin. Ang magkaroon ng bahagi sa hapunan ng Panginoon ay tiyak na magbubunga ng isang resulta, yaon ay, patuloy na walang hinto nang pag-aalaala sa Panginoon upang mabigyan Siya ng kasiyahan. Gayundin sa kasunod na bersikulo."
+        },
+        {
+            "id": "24-3",
+            "text": "Ang kainin ang hapunan ng Panginoon ay para sa pag-aalaala sa Panginoon Mismo, hindi para sa anupamang bagay."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang tinapay ay tinapay ng buhay (Juan 6:35) at ang saro ay saro ng pagpapala (10:16). Ang sarong ito ay ang bagong tipan, na binubuo ng lahat ng mayamang pagpapala ng Bagong Tipan, kabilang ang Diyos Mismo. Ito ay pinagtibay sa pamamagitan ng dugo ng Panginoon, na Kanyang pinadaloy sa krus para sa ating katubusan (Mat. 26:28)."
+        },
+        {
+            "id": "25-2",
+            "text": "Ang tunay na pag-aalaala sa Panginoon ay ang kainin ang tinapay at inumin ang saro (b. 26), yaon ay, ang makibahagi, ang tamasahin, ang Panginoon na Siyang nagbigay ng Kanyang Sarili sa atin sa pamamagitan ng Kanyang nagtutubos na kamatayan. Ang kainin ang tinapay at inumin ang saro ay ang tanggapin ang nagtutubos na Panginoon bilang ating bahagi, bilang ating buhay at pagpapala. Ito sa gayon ang tunay at wastong paraan ng pag-aalaala sa Kanya."
+        },
+        {
+            "id": "25-3",
+            "text": "*Tingnan ang tala 24-2 ."
+        },
+        {
+            "id": "26-1",
+            "text": "Ipinoproklama, inaanunsiyo, o itinatanghal. Ang kainin ang hapunan ng Panginoon ay ang ihayag at itanghal ang kamatayan ng Panginoon at hindi ang alalahanin ang kamatayan ng Panginoon. Inaalala natin ang Panginoon Mismo sa pamamagitan ng paghahayag at pagtatanghal ng Kanyang kamatayan."
+        },
+        {
+            "id": "26-2",
+            "text": "Dapat nating kainin ang hapunan ng Panginoon para sa pag-aalaala sa Kanya sa pamamagitan ng pagpapahayag ng Kanyang nagtutubos na kamatayan nang walang humpay hanggang sa Siya ay bumalik upang itatag ang kaharian ng Diyos (Mat. 26:29). Sa pamamagitan ng unang pagdating, naisakatuparan ng Panginoon ang kamatayan sa pagtupad ng nagpapaloob ng lahat na pagtutubos upang maisilang ang ekklesia. Pagkaraan ng Kanyang kamatayan, lumisan Siya upang tamuhin ang kaharian at sa darating na panahon ay babalik Siya na dala ang kaharian (Dan. 7:13-14; Luc. 19:12). Ang nasa pagitan ng Kanyang unang pagdating at ikalawang pagdating ay ang kapanahunan ng ekklesia. Sa gayon ang ekklesia ay ang tulay na nasa pagitan ng unang pagdating at ikalawang pagdating ng Panginoon upang pag-ugpungin ang Kanyang nakalipas nang kamatayan at ang darating na kaharian ng Diyos. Kaya nga, maaaring ipahiwatig ng ”inihahayag ninyo ang pagkamatay ng Panginoon hanggang sa dumating Siya” na ang iproklama ang pag-iral ng ekklesia ay ang dalhin dito ang kaharian. Kapag ating kinakain ang hapunan ng Panginoon sa ganitong paraan para sa kapakanan ng Kanyang unang pagdating at ikalawang pagdating nang patuloy at walang patid na pag-aalaala sa Kanya, ang hapunang ito sa panig ng pamamahala ng Diyos na nasa kaharian ay magbibigay-kasiyahan sa Panginoon."
+        },
+        {
+            "id": "27-1",
+            "text": "Yaon ay, ang hindi pahalagahan ang kahulugan ng tinapay at ng saro ng Panginoon, na sumasagisag sa Kanyang katawan na nabasag para sa atin at sa kanyang dugo na pinadaloy para sa ating mga kasalanan sa pamamagitan ng Kanyang kamatayan para sa ating katubusan."
+        },
+        {
+            "id": "27-2",
+            "text": "Yaon ay, ang magdala ng kahatulan sa kanyang sarili (bb. 29-30)."
+        },
+        {
+            "id": "28-1",
+            "text": "Yaon ay, ang siyasatin ang kanyang sarili, ilagay ang kanyang sarili sa pagsubok at aprubahan ang kanyang sarili, tinutugunan ang mga itinalagang kahilingan."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang kainin ang tinapay o inumin ang saro ng Panginoon sa hindi karapat-dapat na paraan ay nagdadala ng kahatulan sa atin. Ang kahatulang ito ay hindi isang kondenasyon kundi ang pansamantalang disiplina ng Panginoon (b. 32)."
+        },
+        {
+            "id": "29-2",
+            "text": "Lit. ang kilalanin, ihiwalay, itangi, maglagay ng kaibhan. Ang hindi kilalanin ang katawan ng Panginoon ay ang hindi paglalagay ng pagkakaiba sa pagitan ng tinapay, na sumasagisag sa katawan ng Panginoon, at sa karaniwang pagkain. Ito ay ang hindi pahalagahan ang kahulugan ng tinapay na ating kinakain sa hapunan ng Panginoon. Ito ay magdadala sa atin ng kahatulan na siyang pagdidisiplina ng Panginoon."
+        },
+        {
+            "id": "29-3",
+            "text": "Ang kaisipan ng apostol sa paggamit ng mga salitang ito “ang katawan”, hindi “ang katawan ng Panginoon”, ay maaaring magpahiwatig din ng mistikang Katawan ni Kristo (Efe. 4:4) bilang karagdagan sa pisikal na katawan ng Panginoon (b. 24). Samakatuwid, kapag tayo ay nakikibahagi sa hapag ng Panginoon, kailangan nating kilalanin kung ang tinapay sa hapag ay sumasagisag sa isang Katawan ni Kristo o sa anumang pagbabaha-bahagi ng tao (anumang denominasyon). Sa pagkilala sa Katawan ni Kristo, hindi tayo dapat makibahagi sa tinapay sa loob ng anumang pagbabaha-bahagi ni na may anumang mapagbaha-bahaging espiritu. Ang ating pakikibahagi sa hapag ng Panginoon ay kinakailangang maging ang bukod-tanging pagsasalamuha ng Kanyang bukod-tanging Katawan nang walang anumang pagbabahabahagi maging sa pagsasagawa o sa espiritu man. Ang pagtutuos ng apostol sa pagtatakip sa ulo ay may kinalaman sa Ulo (b. 3); ang kanyang pagtutuos sa hapunan ng Panginoon (ang hapag ng Panginoon) ay may kinalaman sa Katawan. Tungkol sa pagka-ulo ni Kristo, na kumakatawan sa Diyos at kinakatawan ng lalake, kinakailangan nating sundin ang dibinong pampamahalaang kaayusan na itinalaga ng Diyos nang walang anumang kaguluhan. Tungkol sa Katawan ni Kristo, tayo ay kinakailangang maisaayos nang wasto ng pagtuturo ng apostol nang walang anumang pagkalito at pagkakabaha-bahagi. Ang Ulo ay si Kristo, at ang Katawan ay ang ekklesia. Si Kristo at ang ekklesia ang dalawang salik na kumokontrol at gumagabay sa pagtutuos ng apostol sa lito at magulong ekklesia. Sa kapitulo 1-10, tinuos niya, muna ang suliranin ng ekklesia sa pamamagitan ng pagbibigay-diin kay Kristo bilang sentro ng Diyos at ating bahagi. Mula sa kapitulo 11-16, sinundan niya ng pagbibigay-diin sa ekklesia bilang layunin ng Diyos at ating pinagmamalasakitan. Sa mga kapitulo 1 hanggang 10, nagsisimula siya kay Kristo bilang ang antibayotik na gamot upang pagalingin ang mga karamdaman ng may sakit na ekklesia. Pagkatapos, mula sa kapitulo 11, siya ay nagpatuloy sa pagtalakay ng tungkol sa ekklesia at ginamit ang ekklesia na siyang Katawan ni Kristo bilang ang bakuna laban sa kaguluhan ng ekklesia. Sa pagsasagawa ng pangangasiwa ng Diyos sa Kanyang Bagong Tipang ekonomiya si Kristo at ang ekklesia ay kapwa mahalaga."
+        },
+        {
+            "id": "30-1",
+            "text": "Yaon ay, hindi pagkilala sa katawan."
+        },
+        {
+            "id": "30-2",
+            "text": "Ito ay ang disiplina, ang pansamantalang kahatulan ng Panginoon sa mga hindi karapat-dapat na makibahagi sa katawan ng Panginoon. Unang-una, dinisiplina sila ng Panginoon kaya sila ay mahina sa pangangatawan. Pagkatapos, yamang ayaw nilang magsisi sa kanilang pagkakasala, sila ay higit pang dinisiplina upang magkasakit. Sapagka’t ayaw pa rin nilang magsisi, hinatulan sila ng Panginoon sa pamamagitan ng kamatayan. Ang mamatay sa ganitong paraan ay katumbas ng pagiging ibinuwal sa ilang na binanggit sa 10:5."
+        },
+        {
+            "id": "30-3",
+            "text": "Yaon ay nangamamatay (1 Tes. 4:13-16)."
+        },
+        {
+            "id": "31-1",
+            "text": "Yaon ay, kinilala ang ating mga sarili, bumuo ng tamang palagay sa ating mga sarili."
+        },
+        {
+            "id": "32-1",
+            "text": "Pansamantala."
+        },
+        {
+            "id": "32-2",
+            "text": "Magpasawalang hanggan."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang pag-aatas na ito ay dahil sa kalagayan na inilarawan sa bersikulo 21."
+        },
+        {
+            "id": "34-1",
+            "text": "Ito ay nagsasaad na ang apostol ay hindi nagbigay ng tagubilin para sa lahat ng mga bagay na isinasagawa ng ekklesia. Para sa “mga natitirang bagay” ay kinakailangan nating hanapin ang pangunguna ng Panginoon na batay at napamamahalaan ng mga prinsipyo na itinalaga sa Bagong Tipan."
         }
     ]
 }

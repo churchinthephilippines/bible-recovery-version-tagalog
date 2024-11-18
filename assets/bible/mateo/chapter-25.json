@@ -1,5 +1,5 @@
 {
-    "chapter": 25,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,27 +7,27 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "sampung",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "birhen,",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "nagsilabas",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "kasintahang",
-                    "note": ""
+                    "id": "1-6"
                 }
             ],
             "outlines": [
@@ -41,15 +41,15 @@
             "footnotes": [
                 {
                     "word": "lima",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "mangmang,",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "lima",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -60,7 +60,7 @@
             "footnotes": [
                 {
                     "word": "langis;",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -71,7 +71,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -82,11 +82,11 @@
             "footnotes": [
                 {
                     "word": "inantok",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "nakatulog.",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -97,15 +97,15 @@
             "footnotes": [
                 {
                     "word": "hatinggabi",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "sigaw,",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "salubungin",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -116,11 +116,11 @@
             "footnotes": [
                 {
                     "word": "nagsibangon",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "inayos",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -131,11 +131,11 @@
             "footnotes": [
                 {
                     "word": "Bigyan",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "namamatay",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -146,15 +146,15 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "bumili",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -165,27 +165,27 @@
             "footnotes": [
                 {
                     "word": "dumating",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "nakahanda",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "nagsipasok",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "piging",
-                    "note": ""
+                    "id": "10-5"
                 },
                 {
                     "word": "pintuan",
-                    "note": ""
+                    "id": "10-6"
                 }
             ],
             "outlines": null
@@ -196,7 +196,7 @@
             "footnotes": [
                 {
                     "word": "nagsirating",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -207,7 +207,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -218,7 +218,7 @@
             "footnotes": [
                 {
                     "word": "magbantay",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -229,23 +229,23 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "alipin",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": [
@@ -259,11 +259,11 @@
             "footnotes": [
                 {
                     "word": "talento,",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "kakayahan;",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -274,11 +274,11 @@
             "footnotes": [
                 {
                     "word": "ipinangalakal",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "nakinabang",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -295,15 +295,15 @@
             "footnotes": [
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "humukay",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "itinago",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -314,19 +314,19 @@
             "footnotes": [
                 {
                     "word": "mahabang",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "nangyaring",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "dumating",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "nakipagsulit",
-                    "note": ""
+                    "id": "19-4"
                 }
             ],
             "outlines": null
@@ -337,11 +337,11 @@
             "footnotes": [
                 {
                     "word": "lumapit",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "lima",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -352,19 +352,19 @@
             "footnotes": [
                 {
                     "word": "kakaunting",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "pamamahalain",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "maraming",
-                    "note": ""
+                    "id": "21-3"
                 },
                 {
                     "word": "kagalakan",
-                    "note": ""
+                    "id": "21-4"
                 }
             ],
             "outlines": null
@@ -381,11 +381,11 @@
             "footnotes": [
                 {
                     "word": "Magaling,",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "pamamahalain",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -396,23 +396,23 @@
             "footnotes": [
                 {
                     "word": "lumapit",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "kilala",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "matigas",
-                    "note": ""
+                    "id": "24-3"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "24-4"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "24-4"
                 }
             ],
             "outlines": null
@@ -423,15 +423,15 @@
             "footnotes": [
                 {
                     "word": "natakot,",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "lumisan",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "25-3"
                 }
             ],
             "outlines": null
@@ -442,7 +442,7 @@
             "footnotes": [
                 {
                     "word": "ako",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -453,11 +453,11 @@
             "footnotes": [
                 {
                     "word": "inilagak",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "tubo.",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -468,11 +468,11 @@
             "footnotes": [
                 {
                     "word": "Kaya’t",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "ibigay",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": null
@@ -483,7 +483,7 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -494,19 +494,19 @@
             "footnotes": [
                 {
                     "word": "itapon",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "kadiliman",
-                    "note": ""
+                    "id": "30-2"
                 },
                 {
                     "word": "doroon",
-                    "note": ""
+                    "id": "30-3"
                 },
                 {
                     "word": "pagtangis",
-                    "note": ""
+                    "id": "30-4"
                 }
             ],
             "outlines": null
@@ -517,23 +517,23 @@
             "footnotes": [
                 {
                     "word": "Subali’t",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "31-2"
                 },
                 {
                     "word": "pumarito",
-                    "note": ""
+                    "id": "31-3"
                 },
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "31-4"
                 },
                 {
                     "word": "trono",
-                    "note": ""
+                    "id": "31-5"
                 }
             ],
             "outlines": [
@@ -549,11 +549,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "pastol",
-                    "note": ""
+                    "id": "32-2"
                 }
             ],
             "outlines": [
@@ -567,7 +567,7 @@
             "footnotes": [
                 {
                     "word": "kanan",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -578,11 +578,11 @@
             "footnotes": [
                 {
                     "word": "manahin",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
@@ -593,7 +593,7 @@
             "footnotes": [
                 {
                     "word": "nagutom,",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -628,19 +628,19 @@
             "footnotes": [
                 {
                     "word": "ginawa",
-                    "note": ""
+                    "id": "40-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "40-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "40-3"
                 },
                 {
                     "word": "Akin",
-                    "note": ""
+                    "id": "40-4"
                 }
             ],
             "outlines": null
@@ -651,11 +651,11 @@
             "footnotes": [
                 {
                     "word": "apoy",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "inihanda",
-                    "note": ""
+                    "id": "41-2"
                 }
             ],
             "outlines": null
@@ -684,7 +684,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": null
@@ -695,18 +695,392 @@
             "footnotes": [
                 {
                     "word": "kaparusahan,",
-                    "note": ""
+                    "id": "46-1"
                 },
                 {
                     "word": "matutuwid",
-                    "note": ""
+                    "id": "46-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "46-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 3-4 sa kapitulo 5 at mga tala 3-1 at 24-1 sa kapitulo 13."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang sampu ay ang higit na malaking bahagi ng labindalawa (Gen. 42:3-4; 1 Hari 11:30-31; Mat. 20:24). Sa gayon, itong “sampung birhen” ay kumakatawan sa karamihan ng mga mananampalataya na nangamatay na bago ang pagbabalik ng Panginoon. Ang dalawang lalake o dalawang babae sa 24:40-41 ay kumakatawan sa mga natitirang mananampalataya na nabubuhay pa hanggang sa pagdating ng Panginoon."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang “mga birhen” ay sumasagisag sa mga mananampalataya sa aspekto ng buhay (2 Cor. 11:2). Ang mga mananampalataya, na siyang mga tao ng kaharian, ay tulad sa malilinis na birhen, dinadala ang patotoo ng Panginoon (ang ilawan) sa madilim na kapanahunan at lalabas sa sanlibutan upang salubungin ang Panginoon. Dahil dito hindi lamang nila kailangan ang pananahanan ng Espiritu Santo bagkus ang pagpupuspos din ng Espiritu Santo."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang “mga ilawan” ay sumasagisag sa espiritu ng mga mananampalataya (Kaw. 20:27), na naglalaman ng Espiritu ng Diyos bilang langis (Roma 8:16). Mula sa loob ng kanilang espiritu isinisilay ng mga mananampalataya ang liwanag na mula sa Espiritu ng Diyos. Sa gayon, sila ay nagiging ilaw ng sanlibutan, katulad ng isang ilawan na nagliliwanag sa kadiliman ng kapanahunang ito (5:14-16; Fil. 2:15-16) upang dalhin ang patotoo ng Panginoon nang sa gayon ang Diyos ay maluwalhati."
+        },
+        {
+            "id": "1-5",
+            "text": "Isinasagisag ng salitang “nagsilabas” na ang mga mananampalataya ay lumalabas sa sanlibutan upang salubungin ang dumarating na Kristo."
+        },
+        {
+            "id": "1-6",
+            "text": "Ang kasintahang lalake ay sumasagisag kay Kristo bilang ang kalugud-lugod at kaakit-akit na Tao (Juan 3:29; Mat. 9:15)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang “lima” ay binubuo ng apat na dinagdagan ng isa, sumasagisag na ang tao (sinasagisag ng bilang na apat) dinagdagan ng Diyos (sinasagisag ng bilang na isa) ay nagdadala ng responsabilidad. Ang limang mangmang at limang may-maingat-na-katalinuhan ay hindi tumutukoy na ang kalahati ng mga mananampalataya ay mga mangmang at ang natitira pang kalahati ay mga may-maingat-na-katalinuhan. Tinutukoy nito na ang lahat ng mananampalataya ay may responsabilidad na mapunuan sila ng Espiritu ng Diyos."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang pagiging “mangmang” ng limang birhen ay hindi nangangahulugang sila ay mga huwad na birhen. Sa kalikasan sila ay katulad ng limang may-maingat-na-katalinuhan."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang “langis” ay sumasagisag sa Espiritu Santo (Isa. 61:1; Heb. 1:9)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang tao ay isang sisidlan na ginawa para sa Diyos (Roma 9:21, 23-24), at ang personalidad ng tao ay nasa kanyang kaluluwa. Kaya, ang “mga sisidlan” dito ay sumasagisag sa kaluluwa ng mga mananampalataya. Ang limang birhen na may-maingat-na-katalinuhan ay hindi lamang may langis sa kanilang mga ilawan bagkus nagdala rin ng “langis sa kanilang mga sisidlan.” Ang pagkakaroon ng langis sa kanilang mga ilawan ay nagsasagisag na sila ay may Espiritu ng Diyos na nananahan sa kanilang espiritu (Roma 8:9, 16) at ang pagdadala ng langis sa kanilang mga sisidlan ay nagsasagisag na sila ay may kapuspusan ng Espiritu ng Diyos na tumitigmak sa kanilang mga kaluluwa."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “inantok” ay sumasagisag sa pagkakaroon ng karamdaman (Gawa 9:37; 1 Cor. 11:30)."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang “nakatulog” ay sumasagisag sa pagkamatay (1 Tes. 4:13-16; Juan 11:11-13). Habang inaantala ng Panginoon ang Kanyang pagbabalik, ang karamihan sa mga mananampalataya ay nagkakasakit muna at pagkatapos ay namamatay."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “hatinggabi” ay sumasagisag sa pinakamadilim na oras nitong madilim na kapanahunan (gabi). Yaon ay ang magiging wakas ng kapanahunang ito, ang panahon ng matinding kapighatian."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang “sigaw” ay sumasagisag sa tinig ng arkanghel (1 Tes. 4:16)"
+        },
+        {
+            "id": "6-3",
+            "text": "Isang salitang kakaiba sa “salubunging” sa b. 1 ay tumutukoy sa pagsalubong sa isang tao nang hayagan ayon sa plano at seremonya."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang “nagsibangon” ay sumasagisag sa pagkabuhay na muli mula sa mga patay (1 Tes. 4:14). Ito ang pagkabuhay na muli na pinropesiya sa 1 Tes. 4:16 at 1 Cor. 15:52."
+        },
+        {
+            "id": "7-2",
+            "text": "Sa literal ay ginagayakan. Ang “inayos ang kanilang mga ilawan” ay sumasagisag sa kanilang pagtutuos sa kanilang patotoo sa buhay. Ito ay tumutukoy na pagkatapos ng pagkabuhay na muli ang ating buhay para sa patotoo ng Panginoon ay nangangailangan pa ring tuusin kung ito ay hindi sakdal bago tayo mamatay."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang salitang ito ay nagpapahiwatig na maging pagkaraan ng pagkabuhay na muli, kakailanganin pa rin ng mga mangmang na mananampalataya ang kapuspusan ng Espiritu Santo."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang “namamatay” ay nagpapatunay na ang mga ilawan ng mga mangmang na birhen ay nakasindi, may langis sa loob nila, ngunit hindi sapat. Kanilang kinakatawan ang mga mananampalatayang naisilang-na-muli ng Espiritu ng Diyos na nananahan sa kanila, ngunit hindi nagpakapuno ng Espiritu ng Diyos upang Kanyang matigmak ang kanilang buong katauhan."
+        },
+        {
+            "id": "9-1",
+            "text": "Walang sinuman ang makakakamit ng kapuspusan ng Espiritu Santo para sa iba."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang “mga nagbibili” ng langis ay malamang na ang dalawang saksi sa panahon ng matinding kapighatian, ang dalawang puno ng olibo at ang dalawang anak ng langis (Apoc. 11:3-4 at mga tala; Zac. 4:11-14)."
+        },
+        {
+            "id": "9-3",
+            "text": "Ang “bumili” ay nagpapakita ng pangangailangan ng pagbabayad ng isang halaga. Ang pagpupuspos ng Espiritu Santo ay humihiling sa tao na magbayad ng isang halaga, gaya ng pag-iwan sa sanlibutan, pakikipagtuos sa sarili, pagmamahal sa Panginoon nang higit sa lahat, at pagturing sa lahat ng bagay na kalugihan para kay Kristo, atbp. Kung hindi natin babayaran ang halagang ito ngayon, pagbabayaran natin ito pagkaraan ng pagkabuhay na muli."
+        },
+        {
+            "id": "10-1",
+            "text": "Ito ay ang pagbaba ng Panginoon sa himpapawid (1 Tes. 4:16), isang bahagi ng Kanyang pagdating (parousia)."
+        },
+        {
+            "id": "10-2",
+            "text": "Tiyak na sila ang mga yaong inanyayahan sa hapunan ng kasalan ng Kordero (Apoc. 19:9 at tala)."
+        },
+        {
+            "id": "10-3",
+            "text": "Dapat tayong maging “handa” (24:44), hayaan ang sisidlan natin na laging may langis, hayaan ang Espiritu ng Diyos na laging punuin ang ating katauhan. Dapat tayong maging mapagbantay at handa araw-araw sa parousia ng Panginoon."
+        },
+        {
+            "id": "10-4",
+            "text": "Ito ay ang pag-akyat-ng-may-masidhing-kagalakan ng mga binuhay na muling mananampalataya tungo sa himpapawid (1 Tes. 4:17) sa panahon ng pagbaba sa himpapawid (parousia) ng Panginoon."
+        },
+        {
+            "id": "10-5",
+            "text": "Ito ang hapunan ng kasalan ng Kordero (Apoc. 19:9), na ihahain sa himpapawid (1 Tes. 4:17) sa panahon ng pagbabalik ng Panginoon (parousia). Ito ay magaganap bago ang pagpapakita ng kaharian bilang isang gantimpala na magiging katamasahan kapwa ng Panginooon at ng mga handang mananampalataya, na nasangkapan na ng kapuspusan ng Espiritu Santo bago sila namatay."
+        },
+        {
+            "id": "10-6",
+            "text": "Hindi ito ang pintuan ng kaligtasan kundi ang “pintuan” upang makapasok sa katamasahan ng piging ng kasalan ng Panginoon."
+        },
+        {
+            "id": "11-1",
+            "text": "Ito ang atrasadong pag-akyat ng may masidhing kagalakan ng mga binuhay na muling mananampalataya dahil sa hindi pa sila nakahanda."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “hindi nakikilala” rito ay tumutukoy sa, “hindi inaamin, hindi inaaprubahan,” katulad ng nasa Luc. 13:25. Sinindihan ng mga mangmang na birhen ang kanilang mga ilawan, lumabas upang salubungin ang Panginoon, namatay, at nabuhay na muli, at iniakyat-na-may-masidhing-kagalakan, ngunit nahuli sa pagbabayad ng halaga para sa pagpupuspos ng Espiritu Santo. Dahil dito hindi sila kikilalanin at aaprubahan ng Panginoon para sa pakikilahok sa Kanyang piging ng kasalan. Naiwala nila ang pampanahunang gantimpalang ito ngunit hindi mawawala ang kanilang kaligtasan sa kawalang-hanggan."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang salitang ito, katulad ng 24:42, ay nagpapakita na ang bb. 1-13 ay isang pagkukumpleto sa 24:40-44, isang seksyon tungkol sa pagiging mapagbantay ng mga mananampalataya upang sila maiakyat ng may masidhing kagalakan. Ipinahahayag lamang ng 24:40-44 ang pag-akyat-ng-may-masidhing-kagalakan ng mga buhay at handang mananampalataya. Kinakailangan ang bb. 1-13 upang ihayag ang pag-akyat-ng-may-masidhing-kagalakan ng mga namatay at mga binuhay na muli."
+        },
+        {
+            "id": "14-1",
+            "text": "Itong talinghaga ng mga talento, tulad ng talinghaga ng sampung birhen, ay tungkol din sa kaharian ng mga kalangitan."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang “isang tao” ay sumasagisag kay Kristo, na “paroroon sa ibang lupain,” ang mga kalangitan."
+        },
+        {
+            "id": "14-3",
+            "text": "Isinasagisag ng “mga alipin” ang mga mananampalataya sa aspekto ng paglilingkod (1 Cor. 7:22-23; 2 Ped. 1:1; Sant. 1:1; Roma 1:1). Ang katayuan ng mga mananampalataya kaugnay kay Kristo ay may dalawang aspekto: sa aspekto ng buhay, sila ay mga birhen na namumuhay para sa Kanya; sa aspekto ng paglilingkod, sa aspekto ng gawain, sila ay Kanyang mga biniling alipin na naglilingkod sa Kanya."
+        },
+        {
+            "id": "14-4",
+            "text": "Ang “Kanyang mga ari-arian” ay sumasagisag sa ekklesia (Efe. 1:18) kasama ang lahat ng mananampalataya, na bumubuo ng Kanyang sambahayan (24:45)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang talento ay ang pinakamataas na yunit ng timbang. Ang isang talento ng pilak ay katumbas ng 6,000 dinaryo; tingnan ang tala 7-1 sa kap. 6 ng Juan. Ang langis sa talinghaga ng sampung birhen ay sumasagisag sa Espiritu ng Diyos (bb. 3-4), “ang mga talento” sa talinghagang ito ay sumasagisag sa mga espiritwal na kaloob (Roma 12:6; 1 Cor. 12:4; 1 Ped. 4:10; 2 Tim. 1:6). Para sa buhay kailangan natin ang langis, ang Espiritu ng Diyos, maging ang Kanyang kapuspusan, upang maipamuhay natin ang pamumuhay ng isang birhen bilang patotoo ng Panginoon; para naman sa paglilingkod, sa gawain, kailangan natin ang talento, ang espiritwal na kaloob, upang tayo ay masangkapan bilang isang mabuting alipin para sa pagsasakatuparan ng nais isakatuparan ng Panginoon. Ang kapuspusan ng Espiritu sa buhay ay para sa ating paggamit ng espiritwal na kaloob sa paglilingkod (gawain); at ang espiritwal na kaloob sa paglilingkod ay tumutugma sa kapuspusan ng Espiritu sa buhay upang tayo ay maging isang sakdal na sangkap ni Kristo."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang “kani-kaniyang kakayahan” ay sumasagisag sa ating likas na kakayahan, na binubuo sa pamamagitan ng paglikha ng Diyos at ng ating pagkatuto."
+        },
+        {
+            "id": "16-1",
+            "text": "Isinasagisag ng “ipinangalakal ang mga yaon (mga talento)” ang paggamit ng kaloob na ibinigay ng Panginoon sa atin."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang “nakinabang ng lima pa (mga talento)” ay sumasagisag na ang kaloob na ating natanggap mula sa Panginoon ay nagamit sa sukdulan, na walang anumang pagkawala o pagkasayang."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang pangunahing diin sa talinghagang ito ay nasa taong may isang talento, na tumanggap ng pinakamaliit na kaloob. Lubhang madali para sa mga pinagkalooban ng pinakakaunti na pabayaan at mistratuhin ang kanilang kaloob."
+        },
+        {
+            "id": "18-2",
+            "text": "Kung papaano ang “lupa” ay sumasagisag sa sanlibutan, gayundin ang “humukay sa lupa” ay sumasagisag sa pagpasok sa sanlibutan. Anumang pagsama, anumang pagkakaroon ng kinalaman, sa sanlibutan, maging ang isang maliit na salitang pansanlibutan, ay makapagbabaon ng kaloob na matanggap natin mula sa ibinigay sa atin ng Panginoon."
+        },
+        {
+            "id": "18-3",
+            "text": "Ang “itinago ang pilak ng kanyang panginoon” ay sumasagisag na ginagawang walang kabuluhan ang kaloob ng Panginoon, hinahayaan itong masayang sa pamamagitan ng pagbibigay ng iba’t ibang makalupang pagdadahilan. Anumang pagdadahilan para sa hindi paggamit ng kaloob ng Panginoon ay ang itago ito. Yaong mga tumanggap ng isang talento na nagtuturing na pinakamaliit ang kanilang natanggap na kaloob ay madalas na nalalagay sa panganib ng pagtatago ng kaloob."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang “isang mahabang panahon” ay sumasagisag sa buong kapanahunan ng ekklesia."
+        },
+        {
+            "id": "19-2",
+            "text": "Ibinaon ng masamang alipin ang talento sa lupa, inaakala na siya ay wala nang suliranin at makapamamayapa. Hindi niya akalaing ang kanyang panginoon ay babalik at makikipagsulit sa kanya."
+        },
+        {
+            "id": "19-3",
+            "text": "Ang “dumating” ay sumasagisag sa pagdating ng Panginoon sa himpapawid (1 Tes. 4:16) sa Kanyang parousia."
+        },
+        {
+            "id": "19-4",
+            "text": "Ang “nakipagsulit” ay sumasagisag sa paghahatol ng Panginoon sa Kanyang luklukan ng paghahatol (2 Cor. 5:10; Roma 14:10) sa himpapawid (sa loob ng Kanyang parousia) kung saan ang pamumuhay, pagkilos, at paggawa ng mga mananampalataya ay hahatulan para sa gantimpala o kaparusahan (1 Cor. 4:5; Mat. 16:27; Apoc. 22:12; 1 Cor. 3:13-15). Tingnan ang tala 35-1 sa Hebreo 10."
+        },
+        {
+            "id": "20-1",
+            "text": "Ito ay ang lumapit sa luklukan ng paghahatol ni Kristo."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang “lima pang talento” ay ang resulta ng buong paggamit ng kaloob na limang talento."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang “kakaunting bagay” ay sumasagisag sa gawain ng Panginoon sa kapanahunang ito."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang “pamamahalain” ay sumasagisag sa naghaharing awtoridad sa darating na kaharian."
+        },
+        {
+            "id": "21-3",
+            "text": "Ang “maraming bagay” ay sumasagisag sa mga responsabilidad sa darating na kaharian."
+        },
+        {
+            "id": "21-4",
+            "text": "Ang “kagalakan ng iyong panginoon” ay sumasagisag sa pagtatamasa sa Panginoon sa darating na kaharian. Ito ay ang panloob na kasiyahan, hindi ang panlabas na katayuan. Ang makilahok sa kagalakan ng Panginoon ay ang pinakadakilang gantimpala, higit na mabuti kaysa sa kaluwalhatian at katayuan sa kaharian."
+        },
+        {
+            "id": "23-1",
+            "text": "Ganito rin ang pagpapahalagang ibinibigay ng Panginoon sa may limang talento."
+        },
+        {
+            "id": "23-2",
+            "text": "Ganito rin ang gantimpalang ibinibigay ng Panginoon sa may limang talento. Bagama’t ang kaloob na ibinigay sa may dalawang talento ay higit na maliit kaysa sa may limang talento, ang pagpapahalaga at gantimpala ng Panginoon sa dalawa ay pareho. Ito ay tumutukoy na ang pagpapahalaga at gantimpala ng Panginoon ay walang kaugnayan sa laki at dami ng ating gawain, kundi sa ating katapatan sa paggamit ng Kanyang kaloob sa sukdulan. Ang gayunding pagpapahalaga at gantimpala ay ibibigay rin sana sa may isang talento kung siya ay naging matapat."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang may isang talento, na hindi nagkamit ng anumang pakinabang para sa Panginoon, ay “lumapit” din sa luklukan ng paghahatol ni Kristo sa himpapawid. Ito ay nagpapatunay na siya ay hindi lamang ligtas, bagkus naiakyat din sa himpapawid. Walang di-ligtas na tao ang maiaakyat-ng-may-masidhing-kagalakan sa himpapawid at makalalapit sa luklukan ng paghahatol ni Kristo."
+        },
+        {
+            "id": "24-2",
+            "text": "Gr. ginosko, sumasagisag sa panlabas na obhektibong kaalaman, hindi panloob na subhektibong pagkaunawa."
+        },
+        {
+            "id": "24-3",
+            "text": "Tila baga “matigas” ang Panginoon sa Kanyang kahigpitan, hinihinging sapilitan na gamitin natin ang Kanyang kaloob sa sukdulan para sa Kanyang ganap na gawain."
+        },
+        {
+            "id": "24-4",
+            "text": "Tila baga nagsisimula palagi sa wala ang gawain ng Panginoon. Para bang hinihingi Niyang sapilitan sa atin na gumawa para sa Kanya sa pamamagitan ng walang anupamang bagay, “gumagapas sa hindi Niya tinamnan, at nag-aani sa hindi Niya hinasikan.” Ito ay hindi dapat maging isang dahilan para sa may isang talento na pabayaan ang paggamit ng kanyang kaloob; sa halip, ito ay dapat na magpilit sa kanyang ensayuhin ang kanyang pananampalataya upang gamitin ang kanyang kaloob sa sukdulan."
+        },
+        {
+            "id": "24-5",
+            "text": "Sa literal ay sinabuyan. Gayundin sa b. 26."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang “matakot” ay negatibo. Sa halip, tayo ay nararapat maging positibo at agresibo sa paggamit ng kaloob ng Panginoon."
+        },
+        {
+            "id": "25-2",
+            "text": "Ito ay labis na pagwawalang-bahala. Tayo ay nararapat maging masigasig para sa gawain ng Panginoon."
+        },
+        {
+            "id": "25-3",
+            "text": "Ang itago lamang ang kaloob ng Panginoon at hindi ito iwala ay hindi sapat; kailangan nating tumubo sa pamamagitan ng paggamit nito."
+        },
+        {
+            "id": "26-1",
+            "text": "Inamin ng Panginoon na Siya ay mahigpit sa anumang Kanyang hinihingi nang sapilitan sa Kanyang mga alipin para sa Kanyang gawain."
+        },
+        {
+            "id": "27-1",
+            "text": "Ito ay sumasagisag sa paggamit ng kaloob ng Panginoon upang iligtas ang mga tao at itustos ang Kanyang kayamanan sa kanila."
+        },
+        {
+            "id": "27-2",
+            "text": "Ang “tubo” ay sumasagisag sa kapaki-pakinabang na resulta na nakamit natin para sa gawain ng Panginoon sa pamamagitan ng paggamit sa Kanyang kaloob."
+        },
+        {
+            "id": "28-1",
+            "text": "Ito ay sumasagisag na ang kaloob ng Panginoon ay kukunin sa mga tamad na mananampalataya sa darating na kaharian."
+        },
+        {
+            "id": "28-2",
+            "text": "Ito ay sumasagisag na ang kaloob ng mga tapat na mananampalataya ay madaragdagan."
+        },
+        {
+            "id": "29-1",
+            "text": "Sa bawat isa na nagkamit ng pakinabang sa kapanahunan ng ekklesia, higit na maraming kaloob ang ibibigay sa darating na kapanahunan ng kaharian; subalit sa kanya na hindi nagkamit ng pakinabang sa kapanahunan ng ekklesia, maging ang kaloob na nasa kanya ay kukunin sa darating na kapanahunan ng kaharian."
+        },
+        {
+            "id": "30-1",
+            "text": "Tingnan ang tala 13-2 sa kap. 22."
+        },
+        {
+            "id": "30-2",
+            "text": "Tingnan ang tala 12-2 sa kap. 8 at tala 13-2 sa kap. 22."
+        },
+        {
+            "id": "30-3",
+            "text": "Ang salitang ito, tulad ng nasa 24:51, ay tumutukoy na ang bb. 14-30 ay isang pagkukumpleto sa 24:45-51, tungkol sa katapatan para sa gawain ng Panginoon. Tinuos ng 24:45-51 ang di-pagkamatapat ng alipin sa pagganap sa atas ng Panginoon. Kinakailangan pa rin ang bb. 14-30 upang tuusin ang di-pagkamatapat ng alipin sa paggamit ng talento ng Panginoon."
+        },
+        {
+            "id": "30-4",
+            "text": "Tingnan ang tala 12-3 sa kap. 8."
+        },
+        {
+            "id": "31-1",
+            "text": "Ang “subalit” ay nagpapakita na ang sinabi mula sa bb. 31-46 ay panibagong seksiyon, ang seksiyon ukol sa mga Hentil."
+        },
+        {
+            "id": "31-2",
+            "text": "“Ang Anak ng Tao” ay ang titulo ni Kristo para sa Kanyang kaharian, ang Mesiyanikong kaharian (13:41). Ang Kanyang paghuhukom dito ay isang paghahanda para sa kahariang yaon."
+        },
+        {
+            "id": "31-3",
+            "text": "Ito ay ang hayag na aspekto ng pagdating ng Panginoon. (Tingnan ang tala 27-1 at 37-1 sa kapitulo 24). Ito ang magiging pagpapatuloy ng Kanyang pagbabalik na binanggit sa 24:30."
+        },
+        {
+            "id": "31-4",
+            "text": "Ang “Kanyang kaluwalhatian” ay binubuo ng kaluwalhatian ng Kanyang pagka-Diyos (Juan 17:22, 24), ng kaluwalhatian ng Kanyang pagkatao (Awit 45:3), ng kaluwalhatian ng Kanyang pagkabuhay na muli (Juan 7:39; Gawa 3:13-15), at ng kaluwalhatian ng Kanyang pag-akyat sa langit (Heb. 2:9)."
+        },
+        {
+            "id": "31-5",
+            "text": "Ito ang trono ni David (Luc. 1:32-33), na itatatag sa Herusalem (19:28; Jer. 3:17)."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang “lahat ng bansa” ay ang lahat ng Hentil na maiiwan sa pagbabalik ni Kristo sa lupa pagkatapos Niyang puksain yaong mga Hentil na sumusunod sa Antikristo sa Armagedon (Apoc. 16:14, 16; 19:11-15, 19-21). Silang lahat ay titipunin at hahatulan sa trono ng kaluwalhatian ni Kristo. Ito ang magiging paghuhukom ni Kristo sa mga buháy bago ang isang libong taong kaharian (Gawa 10:42; 2 Tim. 4:1), naiiba sa Kanyang paghuhukom sa mga patay sa malaking puting trono pagkaraan ng isang libong taong kaharian (Apoc. 20:11-15). Ito ay magaganap pagkaraan ng Kanyang paghuhukom sa mga mananampalataya sa Kanyang luklukan ng paghahatol sa himpapawid (bb. 19-30)."
+        },
+        {
+            "id": "32-2",
+            "text": "Ang Panginoon ay hindi lamang ang Pastol ng mga mananampalataya (Juan 10:11; Heb. 13:20) at ng mga Hudyo (Awit 80:1; Jer. 31:10), bagkus ang Pastol din ng lahat ng Hentil (Awit 100:1-3)."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang lugar ng karangalan (1 Hari 2:18; Awit 45:9)."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang “mga tupa,” pagkaraan ng paghuhukom sa trono ng kaluwalhatian ni Kristo, ay maililipat sa loob ng isang libong taong kaharian upang maging mga mamamayan sa ilalim ng makaharing pamumuno ni Kristo at ng nananaig na mga mananampalataya (Apoc. 2:26-27; 12:5; 20:4-6), at sa ilalim ng pansaserdoteng ministeryo ng mga naligtas na Hudyo (Zac. 8:20-23). Sa paraang ito, kanilang “mamanahin ang (darating na) kaharian.” Sa isang libong taon ay magkakaroon ng tatlong bahagi: 1) ang panlupang bahagi, ang lupang daratnan ng pagpapala ng paglikha ng Diyos, katulad ng binanggit sa Gen. 1:28-30; 2) ang bahagi ng bansa ni Israel sa Canaan, mula sa Ilog Nilo hanggang sa Ilog Euprates, kung saan ang mga naligtas na Hudyo ay mamumuno sa buong lupa (Isa. 60:10-12; Zac. 14:16-18); at 3) ang makalangit at espiritwal na bahagi (1 Cor. 15:50-52), na siyang magiging pagpapakita ng kaharian ng mga kalangitan, kung saan ang mga mandaraig na mananampalataya ay magtatamasa ng gantimpalang pangkaharian (5:20; 7:21). Ang kaharian na mamanahin ng “mga tupa” ay ang unang bahagi."
+        },
+        {
+            "id": "34-2",
+            "text": "Ang pagpapala ng unang bahagi sa isang libong taon, ang pagpapala ng paglikha ng Diyos, ay inihanda para sa “mga tupa” “mula nang itatag ang sanlibutan”; samantalang ang pagpapala sa ikatlong bahagi, ang pagpapala ng makalangit at espiritwal na kaharian, ay itinalaga para sa mga mananampalataya bago pa itatag ang sanlibutan (Efe. 1:3-4)."
+        },
+        {
+            "id": "35-1",
+            "text": "Lahat ng mga pagdurusa sa bb. 35-39 ay mangyayari sa mga mananampalatayang naiwan para sa pagsubok (Apoc. 3:10 at tala) sa panahon ng matinding kapighatian (24:21)."
+        },
+        {
+            "id": "40-1",
+            "text": "Ito ay magaganap sa matinding kapighatian kapag ang mga mananampalataya ay magdurusa sa pag-uusig ng Antikristo (Apoc. 13:6-7; 20:4)."
+        },
+        {
+            "id": "40-2",
+            "text": "Ang “mga ito” malamang ay ang mga mandaraig na mananampalataya na daraig sa pag-uusig ng Antikristo (Apoc. 15:2 at tala 2). Sila ay makakasama ni Kristo sa paghuhukom na ito."
+        },
+        {
+            "id": "40-3",
+            "text": "Ang “mga kapatid” ni Kristo ay ang Kanyang mga mananampalataya (12:49-50)."
+        },
+        {
+            "id": "40-4",
+            "text": "Si Kristo ay kaisa ng Kanyang mga mananampalataya, na Kanyang mga sangkap, gaya ng ipinakikita sa Gawa 9:4."
+        },
+        {
+            "id": "41-1",
+            "text": "Ang apoy sa dagat-dagatang apoy (Apoc. 20:14-15). Ang “mga kambing” ay mapapahamak sa dagat-dagatang apoy kasunod ng Antikristo at ng bulaang propeta (Apoc. 19:20) at una sa Diyablo at sa mga binuhay na muling makasalanan (Apoc. 20:10, 15). Ito ay bahagi ng katuparan ng Apoc.14:10."
+        },
+        {
+            "id": "41-2",
+            "text": "Ang dagat-dagatang apoy ay “inihanda para sa Diyablo at sa kanyang mga anghel,” hindi para sa tao. Gayon pa man, sinuman ang sumusunod sa Diyablo upang kalabanin ang Panginoon ay makikibahagi sa dagat-dagatang apoy kasama ng Diyablo at ng mga natisod na anghel."
+        },
+        {
+            "id": "45-1",
+            "text": "Ito ay mangyayari rin sa ilalim ng pag-uusig ng Antikristo."
+        },
+        {
+            "id": "46-1",
+            "text": "Ito ay ang mapahamak sa dagat-dagatang apoy (b. 41)."
+        },
+        {
+            "id": "46-2",
+            "text": "Sa panahon ng pag-uusig ng Antikristo, para sa pangangalaga sa mga mananampalatayang maiiwan sa lupa, isang walang hanggang ebanghelyo ang ipangangaral sa mga bansa (Apoc. 14:6-7 at mga tala), na isinalarawan sa talinghaga ng lambat sa Mat. 13:47-50. Hahatulan ng Panginoon sa panahong yaon ang mga bansa, hindi ayon sa kautusan ni Moises ni ayon sa ebanghelyo ni Kristo, kundi ayon sa walang hanggang ebanghelyo. Ito ay isang bagay ukol sa ekonomiya ng Diyos. Yaong makikinig sa ebanghelyong yaon at makikitungo nang mabuti sa mga nagdurusang mananampalataya ay pagpapalain at ibibilang na “matuwid” upang manahin ang kaharian (b. 34); ngunit ang mga yaong hindi tatalima ay susumpain (b. 41) at mapapahamak hanggang sa kawalang-hanggan."
+        },
+        {
+            "id": "46-3",
+            "text": "Ang ebanghelyo ng biyaya (Gawa 20:24) ay nagdadala ng buhay na walang hanggang sa mga mananampalataya (Juan 3:15-16) upang sila ay mabuhay sa pamamagitan ng buhay ng Diyos; samantalang ang walang hanggang ebanghelyo ay nagdadala sa “mga tupa” “tungo sa loob ng buhay na walang hanggan” upang sila ay mabuhay sa kinasasaklawan ng buhay ng Diyos."
         }
     ]
 }

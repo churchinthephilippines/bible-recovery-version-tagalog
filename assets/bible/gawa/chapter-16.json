@@ -1,5 +1,5 @@
 {
-    "chapter": 16,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -21,11 +21,11 @@
             "footnotes": [
                 {
                     "word": "tinuli",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -42,7 +42,7 @@
             "footnotes": [
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -53,7 +53,7 @@
             "footnotes": [
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": [
@@ -67,11 +67,11 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -88,11 +88,11 @@
             "footnotes": [
                 {
                     "word": "pangitain",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "Macedonia",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -103,19 +103,19 @@
             "footnotes": [
                 {
                     "word": "kami",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "nagsikap",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "makaparoon",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "ipinalagay",
-                    "note": ""
+                    "id": "10-4"
                 }
             ],
             "outlines": null
@@ -126,15 +126,15 @@
             "footnotes": [
                 {
                     "word": "Troas,",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "Samotracia,",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "Neapolis;",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": [
@@ -147,7 +147,7 @@
             "footnotes": [
                 {
                     "word": "lupang",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -158,11 +158,11 @@
             "footnotes": [
                 {
                     "word": "Sabbath",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "panalangin;",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -173,7 +173,7 @@
             "footnotes": [
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -184,15 +184,15 @@
             "footnotes": [
                 {
                     "word": "mabautismuhan,",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "magsituloy",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": null
@@ -203,15 +203,15 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "Python",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "panghuhula.",
-                    "note": ""
+                    "id": "16-3"
                 }
             ],
             "outlines": null
@@ -234,7 +234,7 @@
             "footnotes": [
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": [
@@ -247,7 +247,7 @@
             "footnotes": [
                 {
                     "word": "hukom,",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -276,7 +276,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -323,7 +323,7 @@
             "footnotes": [
                 {
                     "word": "sambahayan.",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -340,7 +340,7 @@
             "footnotes": [
                 {
                     "word": "binautismuhan",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -351,7 +351,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -362,7 +362,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -396,6 +396,136 @@
             "text": "At sila ay lumabas mula sa bilangguan at nagsipasok sa bahay ni Lidia; at nang makita nila ang mga kapatid,  kanilang pinalakas ang loob nila at nagsialis.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 2-1 sa kap. 11."
+        },
+        {
+            "id": "3-2",
+            "text": "Tinutukoy nito na ang malakas na impluwensiya ng kinamulatan ng mga Hudyo ay nananatili pa rin sa gitna ng mga mananampalatayang Hudyo. Ito ang gumulo at humadlang sa pagkilos ng ebanghelyo ng Panginoon (tingnan ang tala 14-1 sa kapitulo 10)."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang mga tala 1-1 sa kap. 8 at 31-1 sa kapitulo 9."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang pagkilos ni Apostol Pablo at ng kanyang mga kamanggagawa sa pagpapalaganap ng ebanghelyo ay hindi naaayon sa kanilang pagpapasiya at kagustuhan, ni ayon sa anumang pagsasaayos ng pantaong konseho kundi sa Espiritu Santo ayon sa payo ng Diyos, katulad ng misyon ni Felipe (8:29, 39). Nilayon nilang magsalita sa Asia, subali’t binawalan sila ng Espiritu Santo. Ang pagbabawal ay isa ring bahagi ng pangunguna ng Espiritu Santo."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang hindi pagpapahintulot ng Espiritu Santo sa kanya na tumungo sa kaliwa, sa Asia (b. 6) at ang hindi pagpapahintulot sa kanya ng Espiritu ni Hesus na tumungo sa kanan, sa Bitinia, ay tumutukoy sa isang diretsong direksiyon para sa apostol at sa kanyang mga kamanggagawa. Kaya, sila ay pumunta sa isang tuwirang landas tungo sa Macedonia sa daan ng Misia at Troas (b. 8)."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang pasalit-salit na paggamit ng Espiritu ni Hesus at ng Espiritu Santo sa mga naunang bersikulo ay nagpapahayag na ang Espiritu ni Hesus ay ang Espiritu Santo. Ang Espiritu Santo ay isang pangkalahatang titulo ng Espiritu ng Diyos sa loob ng Bagong Tipan; ang Espiritu ni Hesus ay isang natatanging paglalahad hinggil sa Espiritu ng Diyos, at tumutukoy rin sa Espiritu ng nagkatawang-taong Tagapagligtas, na bilang Hesus sa Kanyang pagka-tao, ay dumaan sa pantaong pamumuhay at kamatayan sa krus. Ito ay tumutukoy na sa loob ng Espiritu ni Hesus ay hindi lamang may dibinong elemento ng Diyos, bagkus may pantaong elemento rin ni Hesus at may mga elemento ng Kanyang pantaong pamumuhay at pagdurusa ng kamatayan. Ang ganitong nagpapaloob ng lahat na Espiritu ay kinakailangan sa ministeryo ng pagpapahayag ng apostol, isang ministeryo ng pagdurusa na nasa gitna ng mga tao at para sa mga tao sa loob ng pantaong buhay."
+        },
+        {
+            "id": "9-1",
+            "text": "Hindi isang panaginip ni isang pagkawala ng diwa. Tingnan ang tala 10-3 sa kapitulo 10."
+        },
+        {
+            "id": "9-2",
+            "text": "Isang lalawigan ng Emperyo Romano sa timog silangan ng Europa sa pagitan ng Thrace at Acaya sa Aegeano."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang “kami” ay ginamit dito sa kauna-unahang pagkakataon upang ibilang ang manunulat na si Lucas. Ito ay tumutukoy na mula sa Troas ay sumama si Lucas kina Apostol Pablo sa kanyang pangministeryong paglalakbay."
+        },
+        {
+            "id": "10-2",
+            "text": "O, naghanap."
+        },
+        {
+            "id": "10-3",
+            "text": "Ito ay isang malaking hakbang sa pagkilos ng Panginoon para sa pagpapalaganap ng Kanyang kaharian patungo sa ibang kontinente, sa Europa. Ipinaliliwanag nito ang hangarin ng Espiritu Santo sa pagpigil sa kanya, ng Espiritu ni Hesus sa hindi pagbibigay ng pahintulot sa kanya, at sa pagdating ng pangitain sa gabi. Ang isagawa ang ganitong natatanging pangunguna sa lubhang mahalagang pagkilos ng Panginoon ay nangangailangan ng pagsusumikap ng apostol at ng kanyang mga kamanggagawa. Ito ay kanilang tinupad kaagad."
+        },
+        {
+            "id": "10-4",
+            "text": "Pagkatapos makita ang pangitaing mula sa Diyos, nagkaroon ng pangangailangang magpalagay, ito ay, ang unawain ang kahulugan nito, sa pamamagitan ng pag-eensayo ng kaisipan, isang kaisipan na napuspusan at pinamahalaan ng espiritu (Efe. 4:23), ayon sa aktuwal na situwasyon at kapaligiran."
+        },
+        {
+            "id": "11-1",
+            "text": "Isang pantalan sa may hilagang kanlurang parte ng Asia Minor sa tapat ng Macedonia sa Dagat Aegeano (Aegean Sea)."
+        },
+        {
+            "id": "11-2",
+            "text": "Isang isla sa Dagat Aegeano sa pagitan ng Troas at Filipos."
+        },
+        {
+            "id": "11-3",
+            "text": "Isang pantalan ng Filipos."
+        },
+        {
+            "id": "12-1",
+            "text": "Isang pinagtibay na himpilan ng Emperyo Romano sa isang banyagang bansa, kung saan ang mga mamamayan ay may pantay-pantay na karapatan katulad ng mga nasa punong-lunsod, ang Roma. Kaya, ang Filipos ay isang estratehikong lugar para sa pagpapalaganap ng ebanghelyo sa simula nito sa Europa."
+        },
+        {
+            "id": "13-1",
+            "text": "Tumutukoy sa kung gaano kalaganap ang Hudaismo maging ang impluwensiya nito sa Europa."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang pananalangin ng tao tungo sa Diyos ay nagbibigay sa Diyos ng pagkakataon para sa Kanyang pagkilos dito sa gitna ng mga tao sa lupa."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang Panginoon dito, na Siyang nagbukas ng puso ni Lidia upang makinig sa ebanghelyong inihahayag, ay tiyak na ang Espiritu, na Siyang Panginoon Mismo (II Cor. 3:17)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang pagbabautismo ay kaagad na sumunod sa kanilang pagsampalataya, katulad ng iniutos ng Panginoon sa Mar. 16:16."
+        },
+        {
+            "id": "15-2",
+            "text": "Si Lidia, pagkatapos manampalataya at mabautismuhan, ay pumasok sa pakikipagsalamuha sa apostol at sa kanyang mga kamanggagawa, ang salamuha ng Katawan ni Kristo, bilang katunayan ng kanyang pagkaligtas."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang kauna-unahang bahay na nakamit ng Panginoon sa Europa sa pamamagitan ng Kanyang ebanghelyo at para sa Kanyang ebanghelyo (b. 40)."
+        },
+        {
+            "id": "16-1",
+            "text": "Tingnan ang tala 23-1 sa Mar. 1."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang pangalang Python ay ginamit upang ipakahulugan sa isang manghuhulang demonyo, at ginamit din sa mga manghuhula ng kapalaran."
+        },
+        {
+            "id": "16-3",
+            "text": "Ang sining o pagsasanay na nagnanais makita o mahulaan ang mga pangyayari sa hinaharap o tuklasin ang natatagong kaalaman sa tulong ng mga hindi pangkaraniwang kapangyarihan."
+        },
+        {
+            "id": "19-1",
+            "text": "Lit. lumabas na."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang hukom ng Romano, higit na mababa ang ranggo kaysa sa konsul."
+        },
+        {
+            "id": "24-1",
+            "text": "Lit. isang instrumento ng pagpapahirap na may mga butas upang pigilan ang pulsuhan, bukung-bukong, at leeg ng bilanggo. Ang katulad na salita ay ginamit para sa krus sa 5:30; 10:39; Gal. 3:13; I Ped. 2:24."
+        },
+        {
+            "id": "31-1",
+            "text": "Ipinakikitang ang sambahayan ng isang mananampalataya ay isang kumpletong yunit sa pagliligtas ng Diyos, tulad ng sambahayan ni Noe (Gen. 7:1), ang mga sambahayang nakikibahagi sa Paskua (Exo. 12:3-4), ang sambahayan ng patutot na si Rahab (Jos. 2:18-19), ang sambahayan ni Zaqueo (Luc. 19:9), ang sambahayan ni Cornelio (11:14), ang sambahayan ni Lidia (b. 15), ang sambahayan ng tagapamahala ng bilangguan dito, at ang sambahayan ni Crispo sa 18:8."
+        },
+        {
+            "id": "33-1",
+            "text": "Dito, muli, ang bautismo ay isinagawa kaagad pagkatapos na may manampalataya. Tingnan ang tala 15-1 . Ito ay tiyak na ginawa sa kanilang paliguan, at sa kasunod na bersikulo, ang salitang “ipinanhik” ay nagpapakita na ang pinagbautismuhan nila ay nasa ibaba ng bahay. Ang lahat ng ito ay nagpapakita at nagpapatunay na ang mga mananampalataya noong una sa kanilang pagbabautismo, ay walang anumang ritwal bagkus ginagamit ang anumang maaaring gamitin para sa pagbabautismo."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang tagapamahala ng bilangguan, matapos manampalataya at mabautismuhan, ay nakasama rin sa pakikipagsalamuha sa mga apostol, ang pakikipagsalamuha ng Katawan ni Kristo, bilang tanda ng kanyang kaligtasan. Tingnan ang tala 15-2 ."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang liktorio ng Romano, ang mga humahawak ng pamalo upang hawiin ang daan para sa mga hukom at maggawad ng kaparusahan sa mga kriminal."
         }
     ]
 }

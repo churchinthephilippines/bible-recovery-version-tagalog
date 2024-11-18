@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "makaraan",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": []
@@ -18,7 +18,7 @@
             "footnotes": [
                 {
                     "word": "pahayag,",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -29,11 +29,11 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "patuli.",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -44,15 +44,15 @@
             "footnotes": [
                 {
                     "word": "huwad",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "kalayaan",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "pagkaalipin;",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -63,7 +63,7 @@
             "footnotes": [
                 {
                     "word": "ebanghelyo",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -74,7 +74,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -97,11 +97,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "Santiago",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -126,19 +126,19 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "nakisalo",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "umurong",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "natatakot",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -149,15 +149,15 @@
             "footnotes": [
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "nangagpakunwari",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "Bernabe",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -168,15 +168,15 @@
             "footnotes": [
                 {
                     "word": "matuwid",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "namumuhay",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "mamuhay",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -193,31 +193,31 @@
             "footnotes": [
                 {
                     "word": "kay",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "kay",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "kay",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "16-4"
                 }
             ],
             "outlines": null
@@ -228,7 +228,7 @@
             "footnotes": [
                 {
                     "word": "ministro",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -239,15 +239,15 @@
             "footnotes": [
                 {
                     "word": "muling",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "sinira,",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -258,15 +258,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "namatay",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "mabuhay",
-                    "note": ""
+                    "id": "19-3"
                 }
             ],
             "outlines": null
@@ -277,35 +277,35 @@
             "footnotes": [
                 {
                     "word": "Naipako",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "20-3"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "20-4"
                 },
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "20-5"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "20-6"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "20-7"
                 },
                 {
                     "word": "umibig",
-                    "note": ""
+                    "id": "20-8"
                 }
             ],
             "outlines": null
@@ -316,18 +316,188 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "katuwiran",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "21-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang pangyayaring ito, ayon sa naitala sa Gawa 15, ay nangyari matapos maibangon ang maraming ekklesia sa lupain ng mga Hentil sa pamamagitan ng pangangaral ni Pablo (tingnan ang Gawa 13 at 14). Ito ay tumutukoy rin na ang pagpapahayag ni Pablo ng ebanghelyo upang ibangon ang mga ekklesia ng mga Hentil ay walang kinalaman sa mga mananampalataya sa Herusalem at Judea."
+        },
+        {
+            "id": "2-1",
+            "text": "Hindi lamang ang ebanghelyo ni Pablo bagkus maging ang kanyang pag-akyat sa Herusalem ay ayon sa pahayag ng Panginoon at hindi ayon sa anumang organisasyon o sistema. Ang kanyang pagkilos at gawain ay naaayon sa kagyat na pangunguna ng Panginoon. Ito muli ay tumutukoy na ang paghahayag niya ng ebanghelyo ay hindi ayon sa pagtuturo ng tao, kundi ayon sa tuwirang pahayag ng Panginoon."
+        },
+        {
+            "id": "3-1",
+            "text": "Ito ay tumutukoy na si Pablo, sa kanyang pagkilos para sa patotoo ng Panginoon, ay hindi nagbigay-pansin sa pagsunod sa kautusan."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang Hudaismo ay itinayo batay sa kautusang ibinigay ng Diyos na naglalaman ng tatlong haligi: ang pagtutuli, ang Sabbath, at ang banal na diyeta. Ang lahat ng tatlong ito ay itinalaga ng Diyos (Gen. 17:9-14; Exo. 20:8-11; Lev. 11) bilang mga anino ng mga bagay na darating (Col. 2:16-17). Ang pagtutuli ay isang anino ng pagkapako sa krus ni Kristo sa pag-aalis ng laman, tulad ng pagkasagisag sa bautismo (Col. 2:11-12). Ang Sabbath ay sumasagisag na si Kristo ang kapahingahan ng Kanyang mga tao (Mat. 11:28-30). Ang banal na diyeta ay sumasagisag sa malilinis o di-malilinis na tao na dapat o di-dapat kaugnayin ng mga banal na tao ng Diyos (Gawa 10: 11-16, 34-35). Yamang si Kristo ay dumating na, ang lahat ng mga aninong ito ay kinakailangang matapos na. Kung kaya, ang pangingilin ng Sabbath ay inalis ng Panginoong Hesus sa Kanyang ministeryo (Mat. 12:1-12), ang banal na diyeta ay pinawalang-saysay ng Espiritu sa ministeryo ni Pedro (Gawa 10:9-20), at ang pagtutuli ay napawalang- halaga sa pahayag na natanggap ni Pablo sa kanyang ministeryo (5:6; 6:15). Higit pa rito, ang kautusan, na siyang basehan ng Hudaismo, ay tinapos na at hinalinhan na ni Kristo (Roma 10: 4; Gal. 2:16). Samakatuwid, ang buong Hudaismo ay napawalang saysay na."
+        },
+        {
+            "id": "4-1",
+            "text": "Tumutukoy sa mga maka-Hudaismo na palihim na nagdala ng mga pagsunod sa kautusan sa loob ng ekklesia, pinilipit ang ebanghelyo ni Kristo at ginulo ang mga tunay na kapatid kay Kristo (1:7)."
+        },
+        {
+            "id": "4-2",
+            "text": "Kalayaan sa pagkagapos sa kautusan, ang kalayaang nasa loob ni Kristo Hesus na nagpapaloob ng mga sumusunod: 1) kalayaan mula sa pagkokontrol ng kautusan, yaon ay, kalayaan mula sa obligasyon ng pagtupad sa mga kautusan at mga reglamento, sa paraan ng paggawa at alituntunin nito; 2) pagkakamit ng lubos na kasiyahan at ng masagana at natatanging panustos; 3) pagtatamasa ng tunay na Sabbath o ng tunay na kapahingahan at pagiging wala na sa ilalim ng pasanin ng pagtupad sa kautusan; 4) lubusang pagtatamasa sa buháy na Kristo."
+        },
+        {
+            "id": "4-3",
+            "text": "Pagkaalipin sa ilalim ng kautusan."
+        },
+        {
+            "id": "5-1",
+            "text": "Hindi ang doktrina ng ebanghelyo ni ang pagtuturo ng ebanghelyo, kundi ang katotohanan ng ebanghelyo."
+        },
+        {
+            "id": "6-1",
+            "text": "*Lit. hindi tumatanggap ng panlabas na anyo ninuman."
+        },
+        {
+            "id": "9-1",
+            "text": "Pinagdurugtong ng salitang “at” ang salitang “makita” sa bersikulo 7 at ang salitang “malaman” dito."
+        },
+        {
+            "id": "9-2",
+            "text": "Sa pagtatala sa mga apostol, si Pedro ang laging unang nababanggit (Mat. 10:2; Mar. 3:16; Luc. 6:14; Gawa 1:13). Subali’t dito, ang unang nabanggit ay si Santiago. Ito ay tumutukoy na sa panahong ito hindi si Pedro ang nangunguna sa ekklesia, kundi si Santiago, ang kapatid ng Panginoon (1:19). Ito ay pinagtitibay ng Gawa 15:13-21, kung saan si Santiago, at hindi si Pedro, ang may awtoridad na magbigay ng huling pagpapasiya sa komperensiyang ginanap sa Herusalem. Marahil ito ay dahilan sa kahinaan ni Pedro na nakita sa hindi niya pagtangan sa katotohanan ng ebanghelyo, gaya ng nailarawan ni Pablo sa mga bersikulo 11-14, kung kaya’t si Santiago na ang nanguna sa mga apostol. Dahil dito, kapwa sa bersikulo 12 at Gawa 21:18, si Santiago ang itinuring na kinatawan ng ekklesia sa Herusalem at ng mga apostol. Ito ay isang malakas na katibayan na si Pedro ay hindi parating ang pinakapinuno sa mga nangunguna sa ekklesia. Ito rin ay nagpapahiwatig na ang pamumuno sa ekklesia ay hindi pang-organisasyon at panghabampanahon, kundi ito ay espirituwal at nagbabago batay sa espirituwal na kondisyon ng mga nangunguna. Ito ay matibay na sumasalansang sa iginigiit ng Katolisismo na si Pedro ang tanging kahalili ni Kristo sa pangangasiwa ng ekklesia."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang mga salitang “mula kay Santiago” ay nangangahulugang galing sa ekklesia sa Herusalem. Ito ay isa ring pagpapahiwatig na sa panahong yaon, si Santiago ang nangunguna sa mga apostol sa Herusalem, at hindi si Pedro."
+        },
+        {
+            "id": "12-2",
+            "text": "Ito ay laban sa kaugalian ng mga Hudyo sa pagtupad ng kanilang kautusan."
+        },
+        {
+            "id": "12-3",
+            "text": "Ito ay nagpapatunay na sa panahong yaon si Pedro ay mahina sa dalisay na pananampalatayang Kristiyano. Siya ay nakatanggap ng napakalinaw na pangitain buhat sa mga kalangitan hinggil sa pakikipagsalamuha sa mga Hentil, at siya ang nanguna sa pagsasagawa nito sa Gawa 10. Anong kahinaan at pagbalik-sa- dating-gawi ang umurong sa pakikisalo sa mga mananampalatayang Hentil dahil sa pagkatakot sa mga yaong nabibilang sa pagtutuli! Hindi kataka-takang naiwala niya ang pagkapinuno sa gitna ng mga apostol."
+        },
+        {
+            "id": "13-1",
+            "text": "Kapag ang namumuno ay bumalik sa dating-gawi madaling sumunod ang iba."
+        },
+        {
+            "id": "13-2",
+            "text": "Halos hindi kapani-paniwalang magagawa ni Pedro, ang nangungunang apostol, ang magkunwari sa bagay na may kaugnayan sa katotohanan ng ebanghelyo."
+        },
+        {
+            "id": "13-3",
+            "text": "Si Bernabe ay sumama sa unang paglalakbay ni Pablo sa pagpapahayag ng ebanghelyo sa mga Hentil at sa pagtatatag ng mga ekklesia ng mga Hentil. Kahit ang isang nagkaroon na ng maraming pagsasalamuha sa mga mananampalatayang Hentil ay nadala pa rin ng pagkukunwari ni Pedro. Anong negatibong impluwensiya ang naibigay ni Pedro sa iba! Karapat-dapat ngang mawala sa kanya ang kanyang pagkapinuno."
+        },
+        {
+            "id": "14-1",
+            "text": "Lit. matuwid ang pagtahak ng mga hakbang ng paa."
+        },
+        {
+            "id": "14-2",
+            "text": "Yaon ay, kumain, mamuhay at kumakain, nabubuhay, at nakikipagsalamuha sa mga Hentil."
+        },
+        {
+            "id": "14-3",
+            "text": "Lit. gawing Hudyo, yaon ay, ang mamuhay katulad ng mga Hudyo, hindi sumasalo ni nakikipagsalamuha sa mga Hentil."
+        },
+        {
+            "id": "16-1",
+            "text": "Dito, ang pananampalataya “kay Kristo Hesus” at “kay Kristo” ay nangangahulugang ang pananampalataya “kay Hesu-Kristo” gaya ng sa 3:22 at 26. Ang pananampalataya kay Kristo ay isang pananampalatayang ibinunga ng pananalig kay Kristo, at nagsanhi sa mga mananampalatayang magkaroon ng pakikipagkaisa sa Kanya; at ang pananampalatayang ito ay may kaugnayan sa pagpapahalaga at pagtatamasa ng mga mananampalataya sa Anak ng Diyos bilang ang pinakamahalagang Isa. Sa pamamagitan ng ebanghelyong ipinahayag sa kanila, ang kahalagahan ni Kristo ay nailalin sa kanila. Sa gayon ang Kristong ito ay napasaloob nila at naging kanilang kapangyarihan ng pananampalataya dahil sa kanilang pagpapahalaga sa Kanya. Ang ganitong pananampalataya ay lumikha ng isang organikong pakikipagkaisa na nagsasanhi sa kanila na maging kaisa ni Kristo sa loob ng pananampalatayang ito."
+        },
+        {
+            "id": "16-2",
+            "text": "Lit. tungo sa loob ni."
+        },
+        {
+            "id": "16-3",
+            "text": "Lit. mula sa."
+        },
+        {
+            "id": "16-4",
+            "text": "Dito, ang laman ay nangangahulugang natisod na tao na naging laman (Gen. 6:3). Ang ganitong uri ng tao ay hindi maaaring ariing-matuwid sa pamamagitan ng mga gawang ayon sa kautusan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang naghahain ng kasalanan sa ibang tao, o ang isa na ipinaglilingkod ang kasalanan sa iba."
+        },
+        {
+            "id": "18-1",
+            "text": "Yaon ay, ang bumalik sa Hudaismo. Ito ay tumutukoy sa pagbabalik ni Pedro sa maka-Hudaismong pagtupad ng hindi pagsalo sa mga Hentil."
+        },
+        {
+            "id": "18-2",
+            "text": "Maka-Hudaismong gawi. Ito ay tumutukoy sa hindi pagsalo sa mga Hentil."
+        },
+        {
+            "id": "18-3",
+            "text": "Inaring kalugihan, inaring sukal (Fil. 3:7-8). Dito, ito ay tumutukoy sa pag-iwan ni Pedro sa maka-Hudaismong gawi, yaon ay, ang hindi pagsalo sa mga Hentil."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang kahilingan ng kautusan sa akin, na isang makasalanan, ay ang mamatay, at ayon sa kahilingang yaon, si Kristo ay namatay para sa akin at namatay na kasama ako. Dahil dito, sa pamamagitan ng kautusan, ako ay namatay na sa loob ni Kristo at kasamang namatay ni Kristo."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang obligasyon sa ilalim ng kautusan, ang kaugnayan sa kautusan, ay natapos na."
+        },
+        {
+            "id": "19-3",
+            "text": "Ang magkaroon ng obligasyon sa Diyos sa loob ng dibinong buhay. Sa pagkamatay ni Kristo tayo ay napalaya na mula sa kautusan, at sa Kanyang pagkabuhay na muli tayo ay may pananagutan sa Diyos sa buhay ng pagkabuhay na muli."
+        },
+        {
+            "id": "20-1",
+            "text": "Ito ay nagpapaliwanag kung paano sa pamamagitan ng kautusan ako ay namatay sa kautusan. Ayon sa ekonomiya ng Diyos, nang si Kristo ay ipinako-sa-krus, ako ay inilakip sa Kanya. Ito ay isang katotohanang natupad na."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang “hindi na ako ang nabubuhay” ay hindi tumutukoy sa isang uri ng humahaliling buhay—pumasok si Kristo, ako ay lumabas; sapagka’t sa huling bahagi ng bersikulong ito ay may mga salitang “ikinabubuhay ko”. Tayong mga naisilang na muling tao ay may naipako at namatay na “lumang ako” (Roma 6:6) at mayroon ding naisilang na muling “bagong ako”. Tungkol sa lumang ako, sinabi ni Pablo na “hindi na ako ang nabubuhay”; tungkol sa bagong ako sinabi niyang “ikinabubuhay ko”. Ang naipako at namatay na lumang ako ay walang dibinidad; ang naisilang na muling bagong ako ay may Diyos na naidagdag sa loob upang maging buhay. Ang lumang ako na nabuhay na muli at naragdagan ng Diyos ang naging bagong ako. Sa isang banda, si Pablo ay natapos na nguni’t sa kabilang banda, ang nabuhay na muling Pablo, ang naisilang na muli at may Diyos bilang kanyang buhay na Pablo ay nananatili pa ring buháy. Hindi lamang ganoon, bagaman sinasabi ni Pablo na hindi na ako, kanya ring sinasabi na si Kristo ay nabubuhay sa loob ko. Kaya kahit na si Kristo ang nabubuhay, Siya naman ay nabubuhay sa loob ni Pablo. Ang dalawa, si Kristo at si Pablo, ay may iisang buhay, iisang pamumuhay."
+        },
+        {
+            "id": "20-3",
+            "text": "Ako ay namatay na sa loob ni Kristo sa pamamagitan ng Kanyang kamatayan, nguni’t ngayon Siya ay nabubuhay sa loob ko sa pamamagitan ng Kanyang pagkabuhay na muli. Ang Kanyang pamumuhay sa loob ko ay lubusang sa pamamagitan ng Kanyang pagiging Espiritung nagbibigay-buhay (I Cor. 15:45b). Ang puntong ito ay lubos na napaunlad sa lahat ng mga sumusunod na kapitulo, kung saan inilahad sa atin ang Espiritu at binigyang-diin na ang Espiritung yaon lamang ang Siyang natanggap natin upang maging buhay natin, at tayo ay nararapat mamuhay sa loob ng Espiritung yaon. Ninanais ng “ako,” ang likas na tao, na tuparin ang kautusan upang ako ay maging sakdal (Fil. 3:6), nguni’t ninanais ng Diyos na ibuhay ko si Kristo nang sa gayon, sa pamamagitan Niya, ay mahayag ang Diyos sa akin (Fil. 1:20-21). Samakatuwid, ang ekonomiya ng Diyos ay ang maipako-sa-krus ang “ako” sa loob ng kamatayan ni Kristo at si Kristo ay mabuhay sa loob ko sa Kanyang pagkabuhay na muli. Ang tuparin ang kautusan ay ang itaas ang kautusan nang higit sa lahat ng bagay sa aking buhay; ang ipamuhay si Kristo ay ang gawin Siyang sentro at lahat-lahat sa aking buhay. Ang kautusan ay ginamit ng Diyos sa loob ng isang panahon upang mapangalagaan ang Kanyang mga piniling tao (3:23), at sa kalaunan ay patnubayan sila tungo kay Kristo (3:24) nang sa gayon ay matanggap nila si Kristo bilang buhay at Siya ay maipamuhay bilang kahayagan ng Diyos. Yamang dumating na si Kristo, ang tungkulin ng kautusan ay natapos na at si Kristo ang Siyang papalit sa kautusan sa aking buhay para sa katuparan ng walang hanggang layunin ng Diyos."
+        },
+        {
+            "id": "20-4",
+            "text": "Hindi bios , ang pisikal na buhay, ni psuche, ang pangkaluluwang buhay, kundi zoe, ang espirituwal at dibinong buhay."
+        },
+        {
+            "id": "20-5",
+            "text": "Ipinamumuhay natin ang dibinong buhay, hindi sa pamamagitan ng paningin ni sa pamamagitan ng damdamin tulad ng ipinamumuhay natin sa pisikal at pangkaluluwang buhay. Ang dibinong buhay, ang espirituwal na buhay na nasa ating espiritu, ay ipinamumuhay sa pamamagitan ng pag-eensayo ng pananampalatayang pinasigla ng presensiya ng Espiritung nagbibigay- buhay."
+        },
+        {
+            "id": "20-6",
+            "text": "Yaon ay, sa loob ng Anak ng Diyos, tulad sa bersikulo 16, tala 1."
+        },
+        {
+            "id": "20-7",
+            "text": "Ang titulong “Kristo” ay tumutukoy sa misyon ni Kristo sa pagsasagawa ng plano ng Diyos; ang “Anak ng Diyos” ay tumutukoy sa Persona ni Kristo sa Kanyang pamamahagi ng buhay ng Diyos tungo sa loob natin. Samakatuwid, ang pananampalatayang ginagamit natin upang ipamuhay ang buhay ng Diyos ay nasa loob ng Anak ng Diyos, yaong namamahagi ng buhay."
+        },
+        {
+            "id": "20-8",
+            "text": "Tayo ay inibig ng Anak ng Diyos at sinadya Niyang ibigay ang Kanyang Sarili dahil sa atin upang maibigay Niya ang Kanyang dibinong buhay sa atin."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang “biyaya ng Diyos” ay si Kristo, ang pagsasakatawan ng Tres-unong Diyos, na sa pamamagitan ng Espiritung nagbibigay-buhay ay namahagi ng buhay ng Diyos sa loob natin. Ang hindi mamuhay sa pamamagitan ng Espiritung ito ay ang ipawalang-halaga ang biyaya ng Diyos."
+        },
+        {
+            "id": "21-2",
+            "text": "Si Kristo ay namatay para sa atin upang tayo ay magkaroon ng katuwiran sa Kanya, na sa pamamagitan nito tayo ay makatatanggap ng dibinong buhay (Roma 5:18,21). Ang katuwirang ito ay hindi natatamo sa pamamagitan ng kautusan kundi sa pamamagitan ng kamatayan ni Kristo."
+        },
+        {
+            "id": "21-3",
+            "text": "O, nang walang dahilan. Kung ang katuwiran ay natatamo sa pamamagitan ng kautusan, si Kristo ay namatay nang walang dahilan. Nguni’t ang katuwiran ay natatamo sa pamamagitan ng kamatayan ni Kristo, at naihiwalay na tayong palabas ng kamatayan ni Kristo mula sa kautusan."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 7,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Sapagkat",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Melquisedec,",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "hari",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -29,7 +29,7 @@
             "footnotes": [
                 {
                     "word": "hari",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -40,7 +40,7 @@
             "footnotes": [
                 {
                     "word": "Na",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -51,7 +51,7 @@
             "footnotes": [
                 {
                     "word": "kadakila",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -68,7 +68,7 @@
             "footnotes": [
                 {
                     "word": "pinagpala",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -79,7 +79,7 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -96,7 +96,7 @@
             "footnotes": [
                 {
                     "word": "Levi",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -113,7 +113,7 @@
             "footnotes": [
                 {
                     "word": "saserdote",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -124,11 +124,11 @@
             "footnotes": [
                 {
                     "word": "pagpapalit",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "palitan",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -139,7 +139,7 @@
             "footnotes": [
                 {
                     "word": "kabilang",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -150,11 +150,11 @@
             "footnotes": [
                 {
                     "word": "lumitaw",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Juda,",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -171,7 +171,7 @@
             "footnotes": [
                 {
                     "word": "di-nasisira",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -188,7 +188,7 @@
             "footnotes": [
                 {
                     "word": "pag-aalis",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -199,11 +199,11 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -226,7 +226,7 @@
             "footnotes": [
                 {
                     "word": "Tagapanagot",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -249,11 +249,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "mamagitan",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -264,7 +264,7 @@
             "footnotes": [
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -281,10 +281,100 @@
             "footnotes": [
                 {
                     "word": "pinasakdal",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ayon sa gawain at ministeryo ni Kristo, ang aklat na ito ay may isang pagbaling sa bersikulong ito, isang pagbaling mula sa lupa tungo sa langit. Mula sa kapitulo 1 hanggang sa katapusan ng kapitulo 6, ang pinakapangunahing inihayag ay ang gawain ni Kristo sa lupa na sinagisag ng pagkasaserdote ni Aaron. Ang bahaging yaon ay ang salitang pundasyon. Mula sa bersikulong ito, ang ministeryo ni Kristo sa langit ayon sa orden ni Melquisedec ay nahayag. Ang bahaging ito ay ang salita ng pagpapasakdal na nagpapakita sa atin kung paanong ang nasa langit na Kristo ay nagmiministeryo sa tabernakulo sa langit. Ang paglilinis Niya ng mga kasalanan ay sinagisag ng gawain ni Aaron, samantalang ang pagluklok Niya sa kanan ng Kamahalan sa kaitaasan (1:3) ay ayon sa orden ni Melquisedec (Awit 110:1, 4). Ang Kanyang gawain sa krus sa lupa na sinagisag ng gawain ni Aaron ay nagdudulot sa atin ng kapatawaran ng kasalanan. Ang Kanyang ministeryo sa trono sa langit ay nagtutustos sa atin upang madaig natin ang kasalanan. Ang Kanyang krus ay nagligtas sa atin palabas sa Ehipto; ang Kanyang trono ay nagdadala sa atin tungo sa loob ng Canaan. Ang mga mananampalatayang Hebreo ay nakibahagi sa Kanyang gawain sa krus. Ngayon sila ay kinakailangang magpatuloy upang makapasok sa katamasahan ng Kanyang ministeryo sa trono."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang Melquisedec ay nangangahulugang ang hari ng katuwiran, at ang hari ng Salem ay nangangahulugang ang hari ng kapayapaan (b. 2). Bilang ang Hari ng katuwiran (Isa. 32:1), ginawa ni Kristo ang lahat ng mga bagay na wasto sa Diyos at sa bawat isa. Ang katuwiran ay humahantong sa kapayapaan (Isa. 32:17). Bilang ang Hari ng kapayapaan (Isa. 9:6), sa pamamagitan ng katuwiran, si Kristo ay nagdadala ng kapayapaan sa pagitan natin at ng Diyos, kung saan ay isinasakatuparan Niya ang ministeryo ng Kanyang pagkasaserdote. Siya ang Hari upang maging ang Saserdote; kaya ang Kanyang pagkasaserdote ay panghari, maharlika (1 Ped. 2:9)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang kapitulong ito ay nagsisimula sa hari, at nagtatapos sa Anak ng Diyos (b. 28), nagpapakita na si Kristo bilang ating Mataas na Saserdote ay maharlika at dibino. Ang Kanyang pagkahari ay nagpapanatili ng isang matuwid at mapayapang kalagayan nang sa gayon tayo ay Kanyang matustusan ng dumaan-sa-maraminghakbanging Tres-unong Diyos upang maging ating katamasahan. Ang pagka-Diyos ng Anak ng Diyos ang gumawa sa Kanya na maging isang Mataas na Saserdote na nabubuhay at puspos ng buhay, nang sa gayon ay maipagpatuloy Niya nang walang hanggan ang Kanyang pagkasaserdote."
+        },
+        {
+            "id": "3-1",
+            "text": "May talaangkanan ang lahat ng mahahalagang tao sa Genesis subalit si Melquisedec ay walang talaangkanan. Sa dibinong akda, ang Espiritu Santo ay hindi nagbigay ng tala ng simula ng kanyang mga araw at ng katapusan ng kanyang buhay, nang sa gayon ay maging isa siyang wastong sagisag ni Kristo bilang ang walang hanggang Isa upang manatiling Mataas na Saserdote natin magpakailanman. Ito ay tulad ng paglalahad sa Ebanghelyo ni Juan tungkol sa Anak ng Diyos, na bilang walang hanggan ay walang talaangkanan (Juan 1:1). Subalit si Kristo bilang ang Anak ng Tao ay may talaangkanan (Mat. 1:1-17; Luc. 3:23-38)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang katibayang nagbigay si Abraham ng ikapu ng mga samsam ay nagpapatotoo sa kadakilaan ni Melquisedec, na isang sagisag ni Kristo. Si Kristo, bilang isang Saserdote ayon sa orden ni Melquisedec, ay higit na dakila kaysa sa mga saserdote ng lipi ni Levi, na naghandog din ng ikasampung bahagi kay Melquisedec sa pamamagitan ng kanilang amang si Abraham (b. 9), sapagkat sila ay nasa balakang pa ni Abraham nang sinalubong ni Abraham si Melquisedec (b. 10)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang katunayang pinagpala ni Melquisedec si Abraham ay nagpapatotoo rin na siya ay higit na dakila kaysa kay Abraham (b. 7)."
+        },
+        {
+            "id": "7-1",
+            "text": "*Gr. kritton , gayundin sa b. 19, na isinaling “lalong magaling” at sa b. 22 na isinaling “lalong mabuti.”*"
+        },
+        {
+            "id": "11-1",
+            "text": "Ang aklat na ito ay nakatuon sa makalangit na Kristo, at ang pangunahing paksa ukol sa Kristong ito ay yaong Siya ay isang Saserdote, hindi ayon sa orden ni Aaron kundi ayon sa orden ni Melquisedec. Ang lahat ng iba pang mga aspekto ni Kristo na nabanggit sa mga naunang kapitulo, gaya ng Siya ay Anak ng Diyos, Anak ng Tao, Pinuno ng kaligtasan, Apostol, at tunay na Josue, ay ang mga kinakailangan Niyang katangian upang maging gayong Saserdote, na makapaghahain sa atin ng lahat ng kailangan natin at makapagliligtas sa atin nang lubusan."
+        },
+        {
+            "id": "12-1",
+            "text": "Yaon ay, ang pagpapalit mula sa orden ni Aaron tungo sa orden ni Melquisedec (b. 11), mula sa pansaserdoteng lipi ni Levi tungo sa pangharing lipi ni Juda (b. 14), mula sa pagtatalaga ng mga tao tungo sa pagtatalaga ng bugtong na Anak, na Siya ring Panganay na Anak ng Diyos (b. 28)."
+        },
+        {
+            "id": "12-2",
+            "text": "Ito ay isang paglipat mula sa kautusan ng mga titik tungo sa kautusan ng buhay, na ayon dito ay ginawa si Kristo na isang buháy at Mataas na Saserdoteng nananatili magpakailanman (b. 16)."
+        },
+        {
+            "id": "13-1",
+            "text": "Lit. nakibahagi."
+        },
+        {
+            "id": "14-1",
+            "text": "Nagpapahiwatig ng pag-apaw at pagsupang."
+        },
+        {
+            "id": "14-2",
+            "text": "Sa Lumang Tipan, ang Levi ay ang lipi ng mga saserdote, at ang Juda ay ang lipi ng mga hari. Ang paglitaw ng Panginoon mula sa lipi ni Juda ay nagsanhi ng isang paglipat sa pagkasaserdote at pinagsama nito ang pagkasaserdote sa pagkahari sa iisang lipi (Zac. 6:13), gaya ng ipinakita ni Melquisedec, na kapwa mataas na saserdote at hari (b. 1)."
+        },
+        {
+            "id": "16-1",
+            "text": "O, di-nalilipol. Si Kristo ay naging Mataas na Saserdote hindi ayon sa mga walang kapangyarihang titik ng kautusan, kundi ayon sa makapangyarihang elemento ng isang di-nasisirang buhay, na walang maaaring makawasak. Ito ay isang walang katapusang buhay, bilang ang walang hanggan, dibino, di-nil ikhang buhay, at ang buhay ng pagkabuhay-na-muli na dumaan sa pagsubok ng kamatayan at ng Hades (Gawa 2:24; Apoc. 1:18). Sa pamamagitan ng gayong buhay nakapaghahain si Kristo sa atin bilang ating Mataas na Saserdote. Kaya nga, naililigtas Niya tayo nang lubusan (b. 25)."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang utos, o ang mga regulasyon ng kautusan hinggil sa maka-Leviticong pagkasaserdote ay inalis dahil sa kahinaan nito sa mga titik. Ang utos ay hindi isang bagay ng buhay, kundi isang patay na utos sa mga titik; kaya ito ay walang kapakinabangan."
+        },
+        {
+            "id": "19-1",
+            "text": "Dahil sa kahinaan ng laman ng tao kaya ang kautusan ay walang napasakdal (Roma 8:3)."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang lalong magaling na pag-asang ito ay ang pagkasaserdote sa buhay na di-nasisira (b.16)."
+        },
+        {
+            "id": "22-1",
+            "text": "Lit. Tagapaggarantiya, isang natatakdaan ng kontrata, tagapanagot: ang salitang-ugat nito sa literal ay nangangahulugang (tingnan ang balangkas D sa kap. 8) mga kamay at paa na ang ibig sabihin ay mga sangkap ng katawan, nagpapahiwatig na ang isang sangkap ng katawan ay nagsasangla ng sarili nito sa katawan, nagpapahiwatig na hindi mapalaya ng tagapaggarantiyang ito ang kanyang sarili. Si Kristo ay hindi lamang ang Tagapagpasakdal ng Bagong Tipan, Siya rin ang Tagapanagot, ang garantiya na ang lahat ng nakapaloob sa Bagong Tipan ay maisasakatuparan. Si Kristo ay naging Tagapanagot ng isang lalong mabuting tipan batay sa Kanyang pagiging Mataas na Saserdote na nabubuhay at nananatili magpakailanman."
+        },
+        {
+            "id": "25-1",
+            "text": "*Gr. panteles , mula sa pan , nangangahulugang lahat, at telos , nangangahulugang wakas, sukdulan.* O, buung-buo, ganap, sakdal, sa lahat ng mga panahon at sa kawalang-hanggan, at hanggang sa wakas."
+        },
+        {
+            "id": "25-2",
+            "text": "Pinangangalagaan ni Kristo bilang ating Mataas na Saserdote ang ating mga kaso sa pamamagitan ng Kanyang pamamagitan para sa atin. Siya ay humaharap sa Diyos para sa ating kapakanan, nananalangin para sa atin upang tayo ay maligtas at madala nang lubusan sa loob ng walang hanggang layunin ng Diyos."
+        },
+        {
+            "id": "26-1",
+            "text": "Si Kristo, sa Kanyang pag-akyat sa langit, ay dumaan sa mga kalangitan (4:14); kaya Siya ngayon ay hindi lamang nasa langit (9:24), bagkus ay nasa lalong mataas pa kaysa sa mga kalangitan, sa kaitaasan ng buong sangkalangitan (Efe. 4:10)."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang pinasakdal ay nangangahulugang nadala sa isang kaganapan ng layunin sa pamamagi tan ng pagkukumpleto o pagpapasakdal, nagpapahiwatig na naging kwalipikado. Ang Anak dito ay tumutukoy sa Anak ng Diyos; ito ay tiyak na hindi lamang nangangahulugang ang bugtong na Anak ng Diyos, bagkus maging ang Panganay rin na Anak ng Diyos. Siya ay pinasakdal magpakailanman sa pamamagitan ng pagiging laman, ng pantaong pamumuhay, ng kamatayan, at ng pagkabuhay na muli. Ngayon Siya ay pinasakdal na nang kumpleto, lubusang sinangkapan, higit pa sa kwalipikado na maging ating dibinong Mataas na Saserdote."
         }
     ]
 }

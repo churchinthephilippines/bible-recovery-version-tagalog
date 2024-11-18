@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,23 +7,23 @@
             "footnotes": [
                 {
                     "word": "matanda,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "ginang",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "katotohanan,",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "nakakikilala",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "katotohanan,",
-                    "note": ""
+                    "id": "1-5"
                 }
             ],
             "outlines": [
@@ -37,11 +37,11 @@
             "footnotes": [
                 {
                     "word": "Dahil",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "katotohanang",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -52,11 +52,11 @@
             "footnotes": [
                 {
                     "word": "atin,",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": [
@@ -69,15 +69,15 @@
             "footnotes": [
                 {
                     "word": "lubhang",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "katotohanan,",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "utos",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": [
@@ -91,11 +91,11 @@
             "footnotes": [
                 {
                     "word": "yaong",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "buhat",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": [
@@ -114,19 +114,19 @@
             "footnotes": [
                 {
                     "word": "manlilinlang",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "antikristo.",
-                    "note": ""
+                    "id": "7-4"
                 }
             ],
             "outlines": [
@@ -140,19 +140,19 @@
             "footnotes": [
                 {
                     "word": "Mag-ingat",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "mawala",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "gantimpala.",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": null
@@ -163,15 +163,15 @@
             "footnotes": [
                 {
                     "word": "lumalabis",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pagtuturo",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "mayroong",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -182,15 +182,15 @@
             "footnotes": [
                 {
                     "word": "dala",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "siyang",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "Magalak",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": [
@@ -203,7 +203,7 @@
             "footnotes": [
                 {
                     "word": "masasamang",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -214,15 +214,15 @@
             "footnotes": [
                 {
                     "word": "inaasahan",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "mukhaan,",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "ating",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": [
@@ -236,14 +236,152 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "kapatid-",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang Apostol Juan, katulad ni Pedro, ay isa ring matanda sa ekklesia sa Herusalem bago pa ang pagkasira nito noong A.D. 70 (Gal. 2:9, at tala 1-3 sa 1 Ped. 5). Ayon sa kasaysayan, pagkabalik niya mula sa kanyang pagkakatapon, nanatili si Juan sa Efeso upang alagaan ang mga ekklesia sa Asia. Kaya, malamang na siya ay isa ring matanda sa ekklesia sa Efeso, na kung saan niya isinulat ang Sulat na ito."
+        },
+        {
+            "id": "1-2",
+            "text": "Gr. kuria, ang pambabaeng anyo ng kurios, panginoon, amo. Maraming iba’t ibang pagpapakahulugan sa salita rito. Ang pinakaangkop ay ang sumusunod: ito ay tumutukoy sa isang kapatid na babaeng Kristiyano na kilala sa ekklesia, bilang “kasamang hinirang” na katulad sa 1 Ped. 5:13. Maaari ring Kuria ang kanyang pangalan, yamang ito ay isang pangkaraniwang pangalan noong panahong yaon. Binabanggit ng ilan na sinasabi sa atin ng kasaysayan na nakatira siya sa isang lugar na malapit sa Efeso, at ang kanyang kapatid-na-babae (b. 13) ay nakatira sa Efeso, na kung saan ang ekklesia ay nasa pangangalaga ni Juan. Sa kanyang lokalidad ay may ekklesia na nagpupulong sa kanyang tahanan."
+        },
+        {
+            "id": "1-3",
+            "text": "Ayon sa paggamit ni Juan ng salitang katotohanan, lalo na sa kanyang Ebanghelyo, ang “katotohanan” dito ay tumutukoy sa naihayag na dibinong realidad—ang Tres-unong Diyos na nasa loob ng Anak na si Hesu-Kristo na ipinamahagi paloob sa tao—nagiging pagkamakatotohanan at sinseridad ng tao, upang makapamuhay ng isang buhay na tumutugma sa dibinong liwanag (Juan 3:19-21) at sumasamba sa Diyos, na katulad ng hinahanap ng Diyos, ayon sa kung ano Siya (Juan 4:23-24). Ito ang kagalingan ng Diyos (Roma 3:7; 15:8), na nagiging ating kagalingan, na ipinang-iibig natin sa mga mananampalataya (tingnan ang tala 6-6 , punto 7, sa 1 Juan 1). Sa loob ng gayong katotohanan inibig ni Apostol Juan, na nabuhay sa loob ng dibinong realidad ng Tres-unong Diyos, ang kanyang sinulatan."
+        },
+        {
+            "id": "1-4",
+            "text": "Tumutukoy sa mga tumanggap kay Kristo na hindi lamang sumasampalatayang Siya ay kapwa Diyos at tao, bagkus mga ganap na nakaalam din ng katotohanan hinggil sa Persona ni Kristo."
+        },
+        {
+            "id": "1-5",
+            "text": "Tumutukoy sa dibinong realidad ng ebanghelyo (tingnan ang tala 6-6 sa 1 Juan 1), lalo na ang hinggil sa Persona ni Kristo na katulad nang inihayag sa Ebanghelyo at Unang Sulat ni Juan, yaon ay, si Kristo ay kapwa Diyos at tao, nagtataglay ng pagka-Diyos at pagka-tao, nagtataglay kapwa ng dibinong kalikasan at ng pantaong kalikasan, upang ihayag ang Diyos sa pantaong buhay at isagawa ang katubusan sa pamamagitan ng dibinong kapangyarihan sa loob ng pantaong laman para sa mga natisod na tao, nang sa gayon ay maibahagi Niya ang dibinong buhay tungo sa loob nila at madala sila tungo sa loob ng organikong pakikipagkaisa sa Diyos. Ang ikalawa at ikatlong Sulat ni Juan ay nagbibigay-diin sa katotohanang ito. Ang ikalawa ay nagbababala sa mga tapat na mananampalataya na huwag tanggapin ang mga hindi sumusunod sa katotohanang ito-sa pagtuturo hinggil kay Kristo. Ang ikatlo ay nagbibigay-sigla sa mga mananampalataya na tanggapin at tulungan ang mga gumagawa para sa katotohanang ito."
+        },
+        {
+            "id": "2-1",
+            "text": "Sa kanyang Ebanghelyo at unang Sulat, binakunahan ni Apostol Juan ang mga mananampalataya ng kanyang nagsusulsing ministeryo hinggil sa pahayag ng Persona ni Kristo laban sa mga erehiyang tungkol sa pagka-Diyos at pagka-tao ni Kristo. Dahil sa gayong pagbabakuna ng katotohanan, iniibig niya at ng lahat ng mga nakakikilala ng katotohanang ito, ang mga taong tapat sa katotohanang ito (b.1)."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang dibinong realidad, na binigyang-kahulugan sa tala 1-5 . Ang dibinong realidad na ito, na sa katunayan ay ang Tres-unong Diyos, ay nananahan na sa loob natin ngayon at sasa atin magpakailanman."
+        },
+        {
+            "id": "3-1",
+            "text": "Sa ilang manuskrito ay nababasang, inyo."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang katotohanan dito ay tumutukoy sa dibinong realidad ng ebanghelyo, katulad ng ipinakahulugan sa tala 1-5 , lalo na hinggil sa Persona ni Kristo na naghayag sa Diyos at nagsakatuparan ng Kanyang layunin; ang pag-ibig naman ay tumutukoy sa kahayagan ng mga mananampalataya sa kanilang pag-iibigan sa isa’t isa sa pamamagitan ng pagtanggap at pagkilala sa katotohanan. Ang dalawang bagay na ito ay ang pangunahing balangkas ng Sulat na ito. Sa loob ng katotohanan at pag-ibig, ang biyaya, awa, at kapayapaan ay sasa atin. Binabati at pinagpapala ng apostol ang mga mananampalataya ng biyaya, awa, at kapayapaan batay sa pananatili ng dalawang mahahalagang bagay na ito sa kanila. Kapag tayo ay lumalakad sa loob ng katotohanan (b. 4) at nag-iibigan sa isa’t isa (b. 5), matatamasa natin ang dibinong biyaya, awa, at kapayapaan."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang katotohanan hinggil sa Persona ni Kristo ay ang pangunahin at sentrong elemento ng nagsusulsing ministeryo ni Juan. Nang kanyang masumpungang lumalakad sa loob ng katotohanan ang mga anak ng tapat na mananampalataya, siya ay lubhang nagalak (3 Juan 3-4)."
+        },
+        {
+            "id": "4-2",
+            "text": "Tumutukoy sa dibinong realidad, lalo na hinggil sa Persona ni Kristo, katulad nang ipinakahulugan sa tala 1-5 . Inuutusan tayo ng Ama na lumakad sa realidad na ito, yaon ay, sa pagkatanto sa dibinong katotohanan na si Hesu-Kristo ay ang Anak ng Diyos (cf. Mat.17:5), upang igalang natin ang Anak na katulad ng ninanais ng Ama (Juan 5:23)."
+        },
+        {
+            "id": "4-3",
+            "text": "Tingnan ang tala 34-1 sa Juan 13. Gayundin sa mga sumusunod na bersikulo."
+        },
+        {
+            "id": "5-1",
+            "text": "Tumutukoy sa utos na ibinigay ng Anak na tayo ay dapat mag-ibigan sa isa’t isa (Juan 13:34). Inuutusan tayo ng Ama na lumakad sa loob ng katotohanan upang igalang ang Anak, at inuutusan tayo ng Anak na mag-ibigan sa isa’t isa upang ihayag Siya."
+        },
+        {
+            "id": "5-2",
+            "text": "Tingnan ang tala 1-2 , tal. 2, sa 1 Juan 1."
+        },
+        {
+            "id": "7-1",
+            "text": "Mga erehe, katulad ng mga Cerinto, ang mga huwad na propeta (1 Juan 4:1)."
+        },
+        {
+            "id": "7-2",
+            "text": "Yaon ay, hindi nagpapahayag na si Hesus ay Diyos na naging laman, sa gayon, itinatatwa ang pagka-Diyos ni Kristo."
+        },
+        {
+            "id": "7-3",
+            "text": "Tingnan ang tala 2-2 sa 1 Juan 4."
+        },
+        {
+            "id": "7-4",
+            "text": "Tingnan ang mga tala 18-2 at 22-2 sa 1 Juan 2."
+        },
+        {
+            "id": "8-1",
+            "text": "Yaon ay, bantayan ang inyong mga sarili, magbantay para sa inyong mga sarili."
+        },
+        {
+            "id": "8-2",
+            "text": "O, masira, mawasak."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang mga bagay na isinagawa ng mga apostol ay ang mga bagay ng katotohanan hinggil kay Kristo, na itinustos at ipinamahagi ng mga apostol sa mga mananampalataya. Ang maimpluwensiyahan ng mga erehiya hinggil sa Persona ni Kristo ay ang mawala, masira, at mawasak ang mahahalagang bagay hinggil sa Persona ni Kristo, na isinagawa ng mga apostol tungo sa loob ng mga mananampalataya. Binabalaan ng apostol ang mga mananampalataya na magbantay para sa kanilang mga sarili, kung hindi, sila ay maiimpluwensiyahan ng mga erehiya at mawawalan ng mga bagay ng katotohanan."
+        },
+        {
+            "id": "8-4",
+            "text": "Ayon sa ibig sabihin ng nilalaman, lalo na sa b. 9, ang lubos na gantimpala ay ang Ama at ang Anak bilang ang ganap na katamasahan sa mga tapat na mananampalataya, na nananahan sa katotohanan hinggil sa Persona ni Kristo at hindi lumilihis mula rito sa pamamagitan ng impluwensiya ng mga erehiya tungkol kay Kristo. Ang pagpapaliwanag na ito ay wasto sapagka’t hindi binanggit dito na ang gantimpalang ito ay ibibigay sa darating na panahon, katulad ng mga gantimpalang binanggit sa Mat. 5:12; 16:27; 1 Cor. 3:8, 13-14; Heb. 10:35-36; Apoc. 11:18; at 22:12. Kung tayo ay hindi maililihis ng mga erehe, bagkus mananatiling tapat sa katotohanan hinggil sa kamangha-mangha at nagpapaloob-ng-lahat na Kristo, na kapwa Diyos at tao, kapwa ating Manlilikha at Manunubos, matatamasa natin sa loob Niya ang Tres-unong Diyos hanggang sa sukdulan bilang ating lubos na gantimpala, maging sa ngayon sa lupa."
+        },
+        {
+            "id": "9-1",
+            "text": "Lit. ang manguna pasulong (sa isang negatibong kahulugan), yaon ay, ang lumampas sa kung ano ang tama, ang lumampas sa itinakdang kinikilalang pagtuturo hinggil kay Kristo. Ito ay salungat sa pagsunod sa pagtuturo ukol kay Kristo. Ang mga Cerintong Gnostiko, na nagmamayabang sa kanilang maunlad na kaisipan hinggil sa pagtuturo ukol kay Kristo, ay nagsagawa nito. Sila ay lumampas sa pagtuturo hinggil sa dibinong paglilihi kay Kristo, sa gayon ay itinatatwa ang pagka-Diyos ni Kristo. Kaya wala silang paraan upang matamo ang Diyos sa loob ng kaligtasan at buhay."
+        },
+        {
+            "id": "9-2",
+            "text": "Hindi tumutukoy sa pagtuturo ni Kristo kundi tumutukoy sa pagtuturo hinggil kay Kristo, yaon ay, ang katotohanan hinggil sa pagka-Diyos ni Kristo lalo na hinggil sa Kanyang pagiging laman sa pamamagitan ng dibinong paglilihi."
+        },
+        {
+            "id": "9-3",
+            "text": "Ang magkaroon ng Diyos ay ang magkaroon kapwa ng Ama at ng Anak. Sa pamamagitan ng hakbangin ng pagiging laman, ang Diyos na nasa loob ng Anak na kasama ang Ama, ay naipamahagi tungo sa loob natin (1 Juan 2:23) upang maging ating katamasahan at realidad (Juan 1:1, 14). Sa Diyos na naging laman nagkaroon tayo ng Anak sa loob ng Kanyang pagtutubos at ng Ama sa loob ng Kanyang buhay. Tayo sa gayon ay natubos at naisilang-na-muli upang maging kaisa ng Diyos nang organiko, nang sa gayon tayo ay makabahagi at makapagtamasa sa Diyos sa kaligtasan at sa buhay. Kaya, ang itatwa ang pagiging laman ng Diyos ay ang tanggihan ang ganitong uri ng dibinong katamasahan; subali’t ang manatili sa loob ng katotohanan ng pagiging laman ng Diyos ay ang magkaroon ng Diyos, na kapwa ang Ama at ang Anak, bilang ating pinagpalang bahagi sa loob ng walang hanggang kaligtasan at dibinong buhay."
+        },
+        {
+            "id": "10-1",
+            "text": "Hindi lamang itinuturo bilang isang teoriya, bagkus dinadala ito bilang isang realidad."
+        },
+        {
+            "id": "10-2",
+            "text": "Tumutukoy sa isang erehe, isang antikristo (b. 7; 1 Juan 2:22), isang huwad na propeta (1 Juan 4:1), na nagtatatwa sa dibinong paglilihi at pagka-Diyos ni Kristo, katulad ng ginagawa ng pangkasalukuyang Modernista. Ang ganitong uri ng tao ay dapat nating tanggihan, hindi dapat tanggapin sa ating bahay ni batiin man. Sa gayon, hindi tayo magkakaroon ng anumang pakikipag-ugnay sa kanya o anumang pakikibahagi sa kanyang erehiya. Ang ganitong erehiya ay lumalapastangan sa Diyos at nakahahawa katulad ng ketong."
+        },
+        {
+            "id": "10-3",
+            "text": "Gr. chairein, maging masaya, magalak, sumigaw, ginagamit para sa pagbati o pagpapaalam."
+        },
+        {
+            "id": "11-1",
+            "text": "Kung paanong ang pagdadala sa iba ng dibinong katotohanan ng kamangha-manghang Kristo ay isang ekselenteng gawa (Roma 10:15), ang pagkakalat naman ng makasatanas na erehiya, na nagpaparungis sa maluwalhating pagka-Diyos ni Kristo, ay isang karumal-dumal na masamang gawa. Ito ay isang kalapastanganan at kasuklam-suklam sa Diyos! Ito rin ay isang kasiraan at sumpa sa mga tao. Walang nananampalataya kay Kristo at anak ng Diyos ang dapat na magkaroon ng anumang bahagi sa kasamaang ito! Maging ang pagbati sa gayong masamang tao ay hindi dapat! Dapat nating panatilihin ang malinaw at mahigpit na paghiwalay sa ganitong kasamaan!"
+        },
+        {
+            "id": "12-1",
+            "text": "Ipinapahayag ng apostol ang kanyang naisin para sa isang higit na malalim at higit na mayamang pakikipagsalamuha sa mga sangkap ng ekklesia para sa kalubusan ng kagalakan sa loob ng katamasahan ng dibinong buhay (1 Juan 1:2-4)."
+        },
+        {
+            "id": "12-2",
+            "text": "Lit. bibig sa bibig."
+        },
+        {
+            "id": "12-3",
+            "text": "Sa ilang manuskrito ay mababasang, inyo."
+        },
+        {
+            "id": "13-1",
+            "text": "Ipinakikita nito kung gaano katalik ang pagsasalamuha sa mga sangkap ng ekklesia at kung gaano ang nagmamahal na pangangalaga ng may-edad na matanda sa kanila. Ginamit ng may-edad na si Apostol Juan ang buhay ng Tres-unong Diyos upang isagawa ang kanyang nagsusulsing ministeryo na may nagmamalasakit na pag-ibig sa mga mananampalataya, inaatasan ang mga mananampalataya na lumakad sa loob ng katotohanan ng Diyos. Ang katotohanan ng Diyos ay ang Tres-unong Diyos na naging laman upang maging Kristo na Diyos-Tao, na may kalikasan ng Diyos at ng tao, isinasakatuparan ang walang hanggang katubusan sa pamamagitan ng kamatayan sa krus, at sa pamamagitan ng pagkabuhay na muli ay nagbagong-anyo upang maging ang nagpapaloob-ng-lahat na Espiritung nagbibigay-buhay, bilang ang sukdulang kaganapan ng Tres-unong Diyos na dumaan sa iba’t ibang hakbangin, pinatamo sa mga nagsipagsisi at sumampalataya sa Kanyang mga tao bilang kanilang buhay at lahat-lahat. Ang may-edad nang apostol ay nagnais na ang mga mananampalataya ay mag-ibigan sa loob ng katotohanang ito sa pamamagitan ng dibinong pag-ibig ng Tres-unong Diyos upang ihayag Siya. Ang katotohanang ito, ang realidad na ito, ay naging praktikalidad ng kanyang pamumuhay, naging kagalingan na naihayag ni Juan sa loob ng kanyang natubos na pagka-tao. Inibig niya ang mga mananampalatayang kanyang pinagmamalasakitan sa loob ng katotohanan ng dibinong kagalingan. Pinagsama ng pag-ibig niya tungo sa mga mananampalataya ang realidad (katotohanan) ng Tres-unong Diyos at ang pag-ibig ng Tres-unong Diyos upang maging kanyang pamumuhay. Batay sa pag-ibig na ito, inaasam din niya na ang kanyang mga pinagmamalasakitang mananampalataya ay maging katulad niya na nag-iibigan sa isa’t isa at hindi magkakaroon ng anumang kaugnayan at bahagi sa mga ereheng lumalampas sa katotohanan ng Trinidad. Ang may-edad na apostol ay umaasa na ang kanyang mga pinagmamalasakitang mananampalataya ay magpapatuloy na manatili sa loob ng dibinong katotohanang ito at sa pamamagitan ng Espiritu ay tamasahin ang Ama at ang Anak hanggang sa kawalang-hanggan."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang hindi pagsama ng kapatid na ito sa pagbati ay maaaring nagpapakita na siya ay namatay na."
         }
     ]
 }

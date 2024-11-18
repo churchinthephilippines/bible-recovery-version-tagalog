@@ -1,5 +1,5 @@
 {
-    "chapter": 8,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "ipinahahayag",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "dinadala",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -24,7 +24,7 @@
             "footnotes": [
                 {
                     "word": "kababaihan",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -35,7 +35,7 @@
             "footnotes": [
                 {
                     "word": "kanila",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -54,7 +54,7 @@
             "footnotes": [
                 {
                     "word": "maghahasik",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -89,7 +89,7 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -118,7 +118,7 @@
             "footnotes": [
                 {
                     "word": "buhay,",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -135,7 +135,7 @@
             "footnotes": [
                 {
                     "word": "ilawan",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -158,11 +158,11 @@
             "footnotes": [
                 {
                     "word": "ina",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": [
@@ -187,7 +187,7 @@
             "footnotes": [
                 {
                     "word": "lumulan",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": [
@@ -200,7 +200,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -211,7 +211,7 @@
             "footnotes": [
                 {
                     "word": "Guro,",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -228,7 +228,7 @@
             "footnotes": [
                 {
                     "word": "naglayag",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": [
@@ -319,7 +319,7 @@
             "footnotes": [
                 {
                     "word": "bumalik,",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": [
@@ -332,7 +332,7 @@
             "footnotes": [
                 {
                     "word": "lumapit",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -343,7 +343,7 @@
             "footnotes": [
                 {
                     "word": "sumisiksik",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -354,7 +354,7 @@
             "footnotes": [
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "43-1"
                 }
             ],
             "outlines": null
@@ -371,7 +371,7 @@
             "footnotes": [
                 {
                     "word": "Pedro,",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": null
@@ -394,7 +394,7 @@
             "footnotes": [
                 {
                     "word": "yumaon",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -417,7 +417,7 @@
             "footnotes": [
                 {
                     "word": "Juan",
-                    "note": ""
+                    "id": "51-1"
                 }
             ],
             "outlines": null
@@ -451,6 +451,92 @@
             "text": "At nangagtaka ang kanyang mga magulang; datapuwa’t ipinagbilin Niya sa kanila na huwag sabihin kaninuman ang nangyari.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Nagpapatalastas bilang isang tagapagbalita."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 43-1 sa kapitulo 4."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang labindalawang tinawag ay sumusunod sa Tagapagligtas (b. 1), at ang mga pinagaling na babae ay naglilingkod sa Tagapagligtas at sa Kanyang mga tagasunod mula sa kanilang sariling ari-arian (b. 3). Isang napakagandang larawan!"
+        },
+        {
+            "id": "3-1",
+            "text": "Sa ilang manuskrito ay binabasang, Kanya."
+        },
+        {
+            "id": "5-1",
+            "text": "Para sa bb. 5-15, tingnan ang mga tala sa Mat. 13:3-23 at Mar. 4:2-20."
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang tala 43-2 sa kapitulo 4."
+        },
+        {
+            "id": "14-1",
+            "text": "Gr. bios. *Pisikal na buhay."
+        },
+        {
+            "id": "16-1",
+            "text": "Para sa bb. 16-18, tingnan ang mga tala sa Mar. 4:21-25."
+        },
+        {
+            "id": "19-1",
+            "text": "Para sa bb. 19-21, tingnan ang mga tala sa Mat. 12:46-50 at Mar. 3:31-35."
+        },
+        {
+            "id": "19-2",
+            "text": "*Gr. adelphos. Mga kapatid na lalake, gayundin sa bb. 20 at 21."
+        },
+        {
+            "id": "22-1",
+            "text": "Para sa bb. 22-25 tingnan ang mga tala sa Mat. 8:23-27 at Mar. 4:36-41."
+        },
+        {
+            "id": "23-1",
+            "text": "Lit. patungo sa."
+        },
+        {
+            "id": "24-1",
+            "text": "Tingnan ang tala 5-1 sa kap. 5."
+        },
+        {
+            "id": "26-1",
+            "text": "Para sa bb. 26-39, tingnan ang mga tala sa Mat. 8:28-34 at Mar. 5:1-20."
+        },
+        {
+            "id": "40-1",
+            "text": "Tingnan ang tala 1-1 sa Mateo 9."
+        },
+        {
+            "id": "41-1",
+            "text": "Para sa bb. 41-56, tingnan ang mga tala sa Mat. 9:18-26 at Mar. 5:22-43."
+        },
+        {
+            "id": "42-1",
+            "text": "O, iniinis Siya na halos hindi na makahinga."
+        },
+        {
+            "id": "43-1",
+            "text": "Ang ilang manuskristo ay nagdaragdag ng, “matapos magugol ang lahat ng kabuhayan sa mga manggagamot ay”."
+        },
+        {
+            "id": "45-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, at ng mga kasama Niya."
+        },
+        {
+            "id": "48-1",
+            "text": "Lit. yumaon ka sa loob ng kapayapaan. Bago naligtas ang tao, hindi niya alam ang landas ng kapayapaan (Roma 3:17). Inihahatid ng pagliligtas ng Panginoon ang tao sa landas ng kapayapaan (1:79)."
+        },
+        {
+            "id": "51-1",
+            "text": "Ang ilang manuskrito ay binabasang, Santiago at kay Juan."
         }
     ]
 }

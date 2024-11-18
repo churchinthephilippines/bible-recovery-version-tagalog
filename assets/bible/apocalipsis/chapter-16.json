@@ -1,5 +1,5 @@
 {
-    "chapter": 16,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "mangkok",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -20,7 +20,7 @@
             "footnotes": [
                 {
                     "word": "sugat",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -47,15 +47,15 @@
             "footnotes": [
                 {
                     "word": "Matuwid",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "Banal",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -72,11 +72,11 @@
             "footnotes": [
                 {
                     "word": "Oo,",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "tunay",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -101,7 +101,7 @@
             "footnotes": [
                 {
                     "word": "trono",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": [
@@ -120,7 +120,7 @@
             "footnotes": [
                 {
                     "word": "ikaanim",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -133,7 +133,7 @@
             "footnotes": [
                 {
                     "word": "karumal-",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": [
@@ -152,7 +152,7 @@
             "footnotes": [
                 {
                     "word": "pumaparitong",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -163,11 +163,11 @@
             "footnotes": [
                 {
                     "word": "tinipon",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "Armagedon.",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -178,11 +178,11 @@
             "footnotes": [
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "Naganap",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": [
@@ -195,7 +195,7 @@
             "footnotes": [
                 {
                     "word": "lindol,",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -206,15 +206,15 @@
             "footnotes": [
                 {
                     "word": "dakilang",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "Babilonia",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "alak",
-                    "note": ""
+                    "id": "19-3"
                 }
             ],
             "outlines": null
@@ -231,14 +231,100 @@
             "footnotes": [
                 {
                     "word": "talento,",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "nilapastangan",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “mga mangkok” ay sumasagisag dito na bagama’t ang huling pitong salot ng pitong mangkok ay ang sukdulang galit ng Diyos, ang Kanyang galit, gayunpaman, ay may limitasyon; kung hindi, ang buong lupa, kasama ang mga naninirahan dito ay mapupuksa. Para sa katuparan ng Kanyang walang hanggang layunin, ang Diyos ay nagsasagawa pa rin ng limitasyon sa Kanyang sukdulang galit sa paghahatol sa lupa."
+        },
+        {
+            "id": "2-1",
+            "text": "Sa Kanyang sukdulang galit, tatatakan ng Diyos ang mga mapanghimagsik ng “isang sugat” sa kanilang balat sapagka’t kanilang tinataglay ang marka ng halimaw."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 4-1 sa kapitulo 15."
+        },
+        {
+            "id": "5-2",
+            "text": "Kapwa rito at sa 11:17 ay hindi sinasabing, “na Siyang darating,” gaya ng sa 1:8 at 4:8. Ito ay nagpapatunay na ang pagbabalik ng Panginoon ay tiyak na pagkatapos ng 4:8 at nauuna sa 11:17.Tingnan ang tala 4-4 sa kap. 1."
+        },
+        {
+            "id": "5-3",
+            "text": "Tingnan ang tala 4-1 sa kapitulo 15."
+        },
+        {
+            "id": "7-1",
+            "text": "Ito ay ang papuring nagmula sa dambana tungkol sa paghahatol ng Diyos sa kinasasaklawan ng Antikristo."
+        },
+        {
+            "id": "7-2",
+            "text": "Tingnan ang tala 3-3 sa kapitulo 15."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang trono ay nagpapahiwatig na ang pitong mangkok ay para sa paghahatol sa halimaw at sa kanyang kaharian kasama ang kinasasaklawan nito."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang salot ng ikalawang mangkok ay higit na matindi kaysa roon sa ikalawang trumpeta (8:8-9); ang salot ng ikatlong mangkok ay higit kaysa roon sa ikatlong trumpeta (8:10-11); ang salot ng ikaapat na mangkok ay higit kaysa roon sa ikaapat na trumpeta (8:12). Ang salot ng ikalimang mangkok, ang kahatulan sa trono ng Antikristo at sa kanyang kaharian, ay may kaugnayan sa ikalimang trumpeta kung saan ang Antikristo ay ang hari ng mga balang na inalihan ng demonyo na nagpapahirap sa mga tao (9:7-11); at ang salot ng ikaanim na mangkok ay may kaugnayan sa ikaanim na trumpeta (9:14), sapagka’t ang mga salot ng dalawa ay may kaugnayan sa parehong ilog, ang Eufrates."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang mga karumal-dumal na espiritu ay magsusulsol sa mga mapanghimagsik na hari (b. 14), na isugo ang kanilang mga hukbo upang usigin ang bayan ng Diyos. Bilang mga espiritu, sila ay nararapat na nasa langit subali’t sila ay naging mga palaka at maaari lamang gumalaw sa lupa. Ito ay nagpapakita na si Satanas at ang paggalaw ng kanyang kapangyarihan ay malilimitahan sa lupa na lamang."
+        },
+        {
+            "id": "15-1",
+            "text": "Ayon sa ibig sabihin ng nilalaman, ang salitang ito ay malamang na binigkas ng Panginoon sa huling bahagi ng matinding kapighatian bago ang digmaan sa Armagedon. Ito ay nagpapatunay na sa panahong yaon ay mayroon pa ring ilang mananampalatayang naiwan sa lupa (ang naiwan sa pag-aani). Sa kanila, ang pagpapakita ng Panginoon sa Kanyang pagbabalik ay magiging katulad pa rin ng “isang magnanakaw,” sa isang oras na hindi nila nalalaman."
+        },
+        {
+            "id": "16-1",
+            "text": "Sa huling bahagi ng matinding kapighatian, tatlong espiritung karumal- dumal mula sa mga bibig ni Satanas, ng Antikristo, at ng huwad na propeta, ang hahayo upang sulsulan ang mga pinuno ng buong pinananahanang lupa (bb. 13- 14) at tipunin ang kanilang mga hukbo, kasama ang dalawang daang milyong hukbong-kabayuhan na binanggit sa 9:14-16 (Tingnan ang huling bahagi ng tala 12-1 sa kapitulong ito), sa digmaan sa Armagedon, na siyang magiging huling digmaan sa gitna ng sangkatauhan bago ang isang libong taon. Ang intensiyon ni Satanas sa digmaang yaon ay ang wasakin ang Israel (Zac. 14:2) at labanan si Kristo at ang Kanyang hukbo. Dahil dito ay kanyang gagamitin ang lahat ng mapanghimagsik na sangkatauhan (17:12-14; 19:11-19). Silang lahat ay dadaigin at pupuksain ni Kristo at ng Kanyang mga piniling mandaraig (19:20-21; Mik. 4:11-13; Zef. 3:8; Zac. 14:3, 12-15; 12:4, 9) at ililigtas ang bansang Israel (Zac. 12:3-8; 14:4-5; Joel 3:14-17). Ito ang pagyuyurak ng pisaan-ng-ubas na nakatala sa Apoc. 14:17-20, Isa. 63:1-6, at Joel 3:9-13."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang Armagedon sa Griyego ay binubuo ng “Ar” na nangangahulugang bundok, at ng “magedon” na siyang Megiddo (Huk. 5:19, II Hari 23:29, Zac. 12:11), na nangangahulugang pagpatay. Ang salitang ito na nangangahulugang bundok ng pagpatay."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang templo ay para sa patotoo ng Diyos, samantalang ang trono ay para sa paghahatol ng Diyos. Ang trono sa templo ay tumutukoy na ang paghahatol ng Diyos ay nagbubuhat sa patotoo ng Diyos at para rin sa patotoo ng Diyos. Sa pagkabuhos ng pinakahuling mangkok, yaon ay, sa pagtatapos ng matinding kapighatian, ang bawa’t negatibong panig ng bagay ay naalis at nalinis na, pagkatapos maihahayag na ang kasintahang babae (19:7-9)."
+        },
+        {
+            "id": "17-2",
+            "text": "O, tapos na, nakalipas na, naisagawa na. Tumutukoy na naganap na ang lahat ng mga bagay para sa paghahatol ng Diyos at para sa kahayagan ng Diyos, yaon ay, patotoo ng Diyos."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang lindol na ito ay katulad ng nasa ikapitong trumpeta sa 11:19. Tingnan ang tala 19-2 sa kapitulo 11."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang “dakilang lunsod” ay tumutukoy sa lunsod ng Herusalem. Tingnan ang tala 8-1 sa kapitulo 11."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang relihiyoso, mahiwagang Babilonia sa 14:8 ay winasak sa pasimula ng matinding kapighatian (Tingnan ang tala 8-1 sa kap. 14); samakatuwid, ang “dakilang Babilonia” rito, na mawawasak pagkatapos ng, o sa kalagitnaan ng, o bago ang digmaan sa Armagedon sa pagtatapos ng matinding kapighatian, ay tiyak na ang materyal na Babilonia, ang lunsod ng Roma. Ang dakilang Babilonia na nasa 14:8 ay tumutugma sa Babiloniang nasa kapitulo 17, samantalang ang dakilang Babilonia sa bersikulong ito ay tumutugma sa Babiloniang nasa kapitulo 18. Ang pangkalahatang balangkas ng dalawang Babilonia ay nakatala sa 14:8 at sa bersikulong ito; ang mga detalye ay ibinigay sa mga kapitulo 17 at 18."
+        },
+        {
+            "id": "19-3",
+            "text": "Ipinainom ng Roma ang alak ng galit ng kanyang pakikiapid sa mga tapat na banal sa gitna ng mga bansa (18:3). Ngayon, sa paghihiganti, ipinainom sa kanya ng Diyos ang alak ng matinding galit ng Mismong kapootan ng Diyos."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang isang talento ay katumbas ng mga 100 libra."
+        },
+        {
+            "id": "21-2",
+            "text": "Ito ay nagpapatunay na nanaisin pa ng tao, na walang pusong magsisi, ang maghimagsik laban sa Diyos hanggang wakas."
         }
     ]
 }

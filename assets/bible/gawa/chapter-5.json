@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -21,7 +21,7 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -32,19 +32,19 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "nilayon",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "Diyos.",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -55,7 +55,7 @@
             "footnotes": [
                 {
                     "word": "namatay;",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -84,11 +84,11 @@
             "footnotes": [
                 {
                     "word": "nagkasundo",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "Panginoon?",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -105,7 +105,7 @@
             "footnotes": [
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -116,7 +116,7 @@
             "footnotes": [
                 {
                     "word": "tanda",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -175,11 +175,11 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -208,7 +208,7 @@
             "footnotes": [
                 {
                     "word": "kapitan",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -237,7 +237,7 @@
             "footnotes": [
                 {
                     "word": "Binalaan",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -256,7 +256,7 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -267,19 +267,19 @@
             "footnotes": [
                 {
                     "word": "pinarangalan",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "Tagapanguna",
-                    "note": ""
+                    "id": "31-2"
                 },
                 {
                     "word": "magbigay",
-                    "note": ""
+                    "id": "31-3"
                 },
                 {
                     "word": "pagsisisi",
-                    "note": ""
+                    "id": "31-4"
                 }
             ],
             "outlines": null
@@ -290,15 +290,15 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "32-2"
                 },
                 {
                     "word": "nagsisipagtalima",
-                    "note": ""
+                    "id": "32-3"
                 }
             ],
             "outlines": null
@@ -309,7 +309,7 @@
             "footnotes": [
                 {
                     "word": "nangahiwa",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": [
@@ -322,7 +322,7 @@
             "footnotes": [
                 {
                     "word": "Fariseo",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -369,7 +369,7 @@
             "footnotes": [
                 {
                     "word": "maalimura",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": [
@@ -382,18 +382,128 @@
             "footnotes": [
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "42-1"
                 },
                 {
                     "word": "bahay-",
-                    "note": ""
+                    "id": "42-2"
                 },
                 {
                     "word": "Hesus",
-                    "note": ""
+                    "id": "42-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "3-1",
+            "text": "Tila baga nagsinungaling si Ananias sa mga apostol, subali’t sa katunayan ay sa Espiritu Santo, na siyang Diyos (b. 4), sapagka’t sa gawain ng Panginoon ang mga apostol ay kaisa ng Espiritu Santo. Tingnan ang tala 32-2 ."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang mga salitang ito ay nagsasaad na ang ipagbili ang mga ari-arian at ipamahagi ang mga yaon sa iba ay hindi ibinibilang ng mga apostol na gawi ng legalidad."
+        },
+        {
+            "id": "4-2",
+            "text": "O, inilagay, itinakda."
+        },
+        {
+            "id": "4-3",
+            "text": "Ito ay nagpapatunay na ang Espiritu Santo sa bersikulo 3 ay ang Diyos."
+        },
+        {
+            "id": "5-1",
+            "text": "Lit. binitiwan ang kanyang kaluluwa o inihinga palabas ang kaluluwa (Gayundin sa b. 10)."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang asawang babae ay dapat sumunod sa asawang lalake (Efe. 5:24) subali’t hindi nararapat na makiayon sa kanyang pagkakasala."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang Espiritu Santo sa bersikulo 3, ang Diyos sa bersikulo 4, at ang Panginoon sa bersikulong ito ay iisa, lalo na sa karanasan ng mga mananampalataya."
+        },
+        {
+            "id": "11-1",
+            "text": "Gr. ekklesia, ang tambalang salitang ito ay binubuo ng ek, “palabas” at kaleö, “tinawag”; kaya ang tinawag palabas (kongregasyon), ang kapulungan. Ito ang unang pagkakataon na ang ekklesia ay binanggit dito sa Mga Gawa bilang ekklesia lokal (tingnan ang mga tala 1-1 sa kap. 8 at 17-2 sa Mat. 18)."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 43-1 sa kap. 2."
+        },
+        {
+            "id": "20-1",
+            "text": "Gr. rhema, ang kagyat na salita."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang dibinong buhay na ipinangaral, inihain, at ipinamuhay ni Pedro na dumaig sa mga pag-uusig, pananakot, at pagbibilanggo ng mga tagapangunang Hudyo. Ang salitang ito ay nagsasaad na ginawang makatotohanan at angkop sa pangkasalukuyang buhay at gawain ni Pedro ang maka-Diyos na buhay sa kanyang kalagayan kaya maging ang anghel ay nakita ito at tinukoy ito."
+        },
+        {
+            "id": "24-1",
+            "text": "Tingnan ang tala 1-1 sa kap. 4."
+        },
+        {
+            "id": "28-1",
+            "text": "Lit. Inaatasan namin kayo ng isang atas."
+        },
+        {
+            "id": "30-1",
+            "text": "Tingnan ang tala 24-1 sa kap. 2."
+        },
+        {
+            "id": "31-1",
+            "text": "Si Hesus ay ginawang tao ng Kanyang pagiging laman. Ginawa Siyang karapat-dapat na maging Tagapagligtas ng tao ng Kanyang pantaong pamumuhay sa lupa, isinakatuparan ng Kanyang pagkapako ang ganap na pagtubos para sa tao, inaring matuwid ng Kanyang pagkabuhay na muli ang Kanyang nagtutubos na gawain, at ininagurahan Siya ng pagpaparangal sa Kanya na maging namumunong Tagapanguna upang Siya ang maging Tagapagligtas. Itong pagpaparangal sa Kanya ay ang sukdulang hakbangin sa Kanyang pagpapasakdal bilang Tagapagligtas ng tao (Heb. 2:10, 5:9)."
+        },
+        {
+            "id": "31-2",
+            "text": "O, Prinsipe, ang salitang Griyego ay kapareho ng sa Maykatha sa 3:15. Tingnan ang tala 1 roon. Tinanggihan at pinatay ng mga tagapangunang Hudyo si Hesus, nguni’t itinaas Siya ng Diyos bilang ang pinakamataas na Tagapanguna, ang Prinsipe, ang Pinuno ng mga hari upang mamuno sa buong sanlibutan (Apoc. 1:5; 19:16), at ang Tagapagligtas upang iligtas ang mga piniling tao ng Diyos. Ang Tagapanguna ay may kaugnayan sa Kanyang awtoridad, at ang Tagapagligtas ay may kaugnayan sa Kanyang pagliligtas. Ginagamit Niya ang Kanyang kapangyarihan sa ibabaw ng lupa kasama ang Kanyang awtoridad nang sa gayon ang kapaligiran ay maging angkop para sa mga piniling tao ng Diyos upang tanggapin nila ang Kanyang pagliligtas (cf. 17:26-27; Juan 17:2)."
+        },
+        {
+            "id": "31-3",
+            "text": "Ang magbigay ng pagsisisi at kapatawaran ng mga kasalanan sa mga piniling tao ng Diyos ay nangangailangan na si Kristo ay maitaas bilang namumunong Tagapanguna at Tagapagligtas. Ang Kanyang makapangyarihang pamumuno ay nagsasanhi at nagdadala sa mga piniling tao ng Diyos na magsisi. Ang Kanyang pagliligtas batay sa Kanyang pagtutubos ay nagdudulot sa kanila ng kapatawaran ng mga kasalanan."
+        },
+        {
+            "id": "31-4",
+            "text": "Ang pagsisisi ay para sa kapatawaran ng mga kasalanan (Mar. 1:4). Sa panig ng Diyos, ang kapatawaran ng mga kasalanan ay batay sa Kanyang pagtutubos (Efe. 1:7); sa panig ng tao, ang kapatawaran ng mga kasalanan ay sa pamamagitan ng pagsisisi ng tao."
+        },
+        {
+            "id": "32-1",
+            "text": "Gr. rhema, kagyat na salita."
+        },
+        {
+            "id": "32-2",
+            "text": "Ang Espiritu Santo ay kaisa ng mga apostol. Tingnan ang tala 3-1 ."
+        },
+        {
+            "id": "32-3",
+            "text": "Ang pagkamasunurin ay ang daan at ang kondisyon upang matanggap at matamasa ang Espiritu ng Diyos."
+        },
+        {
+            "id": "33-1",
+            "text": "Lit. nilagari, isang matibay na paglalarawan ng pagiging galit sa sukdulan at kumilos nang walang katalinuhan."
+        },
+        {
+            "id": "34-1",
+            "text": "Tingnan ang tala 7-1 sa Mateo 3."
+        },
+        {
+            "id": "41-1",
+            "text": "Yaon ay, ang malagay sa kahihiyan. Tunay na isang karangalan ang mawalan ng dangal alang-alang sa Pangalan, ang mismong Pangalan ni Hesus na winalang dangal ng tao subali’t pinarangalan ng Diyos. Kaya, ang mga inalimura ay nangagalak na sila ay ibinilang na karapat-dapat na maalimura dahil sa Pangalang ito."
+        },
+        {
+            "id": "42-1",
+            "text": "Tingnan ang tala 46-1 sa kap. 2."
+        },
+        {
+            "id": "42-2",
+            "text": "Tingnan ang tala 46-3 sa kap. 2."
+        },
+        {
+            "id": "42-3",
+            "text": "Lit. ang Kristo Hesus."
         }
     ]
 }

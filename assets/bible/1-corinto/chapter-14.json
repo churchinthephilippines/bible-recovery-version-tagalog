@@ -1,5 +1,5 @@
 {
-    "chapter": 14,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Habulin",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "pakanasain",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "makapagpropesiya.",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -29,7 +29,7 @@
             "footnotes": [
                 {
                     "word": "Sapagka’",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -40,7 +40,7 @@
             "footnotes": [
                 {
                     "word": "ikatatayo,",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -51,7 +51,7 @@
             "footnotes": [
                 {
                     "word": "itinatayo",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -74,7 +74,7 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -91,7 +91,7 @@
             "footnotes": [
                 {
                     "word": "dila",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -102,7 +102,7 @@
             "footnotes": [
                 {
                     "word": "tinig",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -113,19 +113,19 @@
             "footnotes": [
                 {
                     "word": "kahulugan",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "tinig,",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "barbaro",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "barbaro",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -136,15 +136,15 @@
             "footnotes": [
                 {
                     "word": "espiritu,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "magsipangibabaw",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "ikatatayo",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -161,15 +161,15 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "kaisipan",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -180,19 +180,19 @@
             "footnotes": [
                 {
                     "word": "din",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "din",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -203,11 +203,11 @@
             "footnotes": [
                 {
                     "word": "Amen",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -218,7 +218,7 @@
             "footnotes": [
                 {
                     "word": "naitatayo.",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -235,15 +235,15 @@
             "footnotes": [
                 {
                     "word": "limang",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "sampung",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -254,19 +254,19 @@
             "footnotes": [
                 {
                     "word": "mangagpakabata",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "pang-",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "pang-",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "lubusan-",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": [
@@ -279,11 +279,11 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -294,7 +294,7 @@
             "footnotes": [
                 {
                     "word": "tanda,",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -305,11 +305,11 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "nasisiraan",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -320,15 +320,15 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "mahihikayat",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "masisiyasat",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -339,11 +339,11 @@
             "footnotes": [
                 {
                     "word": "Diyos,",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -354,11 +354,11 @@
             "footnotes": [
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "ikatatayo.",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": [
@@ -380,7 +380,7 @@
             "footnotes": [
                 {
                     "word": "ekklesia,",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -391,7 +391,7 @@
             "footnotes": [
                 {
                     "word": "mangagsiyasat.",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": [
@@ -410,11 +410,11 @@
             "footnotes": [
                 {
                     "word": "kayong",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "mahikayat.",
-                    "note": ""
+                    "id": "31-2"
                 }
             ],
             "outlines": null
@@ -425,7 +425,7 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -436,7 +436,7 @@
             "footnotes": [
                 {
                     "word": "kapayapaan.",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -447,15 +447,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "mangagsalita;",
-                    "note": ""
+                    "id": "34-2"
                 },
                 {
                     "word": "kautusan.",
-                    "note": ""
+                    "id": "34-3"
                 }
             ],
             "outlines": [
@@ -475,7 +475,7 @@
             "footnotes": [
                 {
                     "word": "dumating",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -486,11 +486,11 @@
             "footnotes": [
                 {
                     "word": "propeta",
-                    "note": ""
+                    "id": "37-1"
                 },
                 {
                     "word": "utos",
-                    "note": ""
+                    "id": "37-2"
                 }
             ],
             "outlines": null
@@ -507,11 +507,11 @@
             "footnotes": [
                 {
                     "word": "masidhi",
-                    "note": ""
+                    "id": "39-1"
                 },
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": [
@@ -524,14 +524,228 @@
             "footnotes": [
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "40-1"
                 },
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang atas na ito ay batay sa pahayag sa 12:31 hanggang 13:13. Ang habulin ang pag-ibig ay ang hangarin ang paglago sa buhay para sa pag-unlad ng mga kaloob sa buhay. Kaya nga, ito ay dapat maitugma sa isang masidhing naisin para sa pinakakapaki-pakinabang na kaloob, ang kaloob ng pagpopropesiya."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 31-1 sa kap. 12."
+        },
+        {
+            "id": "1-3",
+            "text": "Yamang ang magpropesiya ay ang magsalita para sa Panginoon at salitain ang Panginoon, yaon ay, ang ihain si Kristo sa mga tao, na siyang pangunahing bagay sa pagpupulong ng ekklesia, kinakailangan nito ang kapuspusan ng buhay ng Diyos bilang nilalaman nito. Ang pag-ibig ang pinakamagaling na paraan upang maranasan ang buhay ng Diyos at upang sanhiin ang buhay ng Diyos na maging nilalaman ng kaloob ng pagpopropesiya para sa pagtatayo ng ekklesia. Kung kaya, dapat nating habulin ang pag-ibig at masidhing pakanasain ang higit na dakilang kaloob na ito."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang salita ng apostol sa mga bersikulo 2-6 ay nagbibigay ng malinaw at tiyak na pananaw na ang pagsasalita sa mga wika ay hindi gaanong mahalaga kaysa pagpopropesiya. Higit na minaliit niya ang kaloob ng mga wika at itinaas ang kaloob ng pagpopropesiya, sapagka’t ang kanyang pangunahing pinagmamalasakitan ay ang ekklesia, at hindi ang mga indibiduwal na mananampalataya. Ang pagsasalita sa mga wika, kahit na ito ay tunay at wasto, ay nagtatayo lamang sa tagapagsalita mismo, subali’t ang pagpopropesiya ay nagtatayo sa ekklesia. Ang magpropesiya sa pahayag o ang magturo sa kaalaman ng may mga malinaw at nauunawaang salita ay higit na kapaki-pakinabang sa ekklesia kaysa sa pagsasalita sa mga wika na may mga hindi kilalang salita."
+        },
+        {
+            "id": "3-1",
+            "text": "Yamang ang magpropesiya, ang salitain ang Panginoon, ay naghahain ng Kristo sa mga tao, ito ay nagtatayo sa mga tao at nagbibigay sa kanila ng mga pagpapalakas ng loob at kaaliwan."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang magpropesiya, ang salitain ang Panginoon, ay nagtatayo hindi lamang sa mga indibiduwal na banal bagkus sa ekklesia rin."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang pagsasalarawan ng apostol sa mga bersikulo 7-11 ay nagpapahiwatig na ang mga mananampalatayang taga-Corinto ay nagmalabis sa pagsasalita sa mga wika sa pamamagitan ng paggawa nito sa isang walang kabuluhang paraan, umuusal ng “walang katiyakang” tunog (b. 8) na “walang pagkakaiba” (b. 7), “walang kahulugan” (b. 10). Kanila ring ginamit ito nang labis sa pamamagitan ng pagsasalita sa mga wika kahit saanmang lugar, sa anumang paraan at sa anumang pangyayari. Sila ay iwinawasto at hinihigpitan ni Pablo sa kanilang pang-aabuso at pagmamalabis sa paggamit ng isang gayong maliit na kaloob na may kaunting pakinabang, upang sila ay maghangad ng mga higit na dakilang kaloob at magsisagana sa pagpapatibay sa mga banal at pagtatayo ng ekklesia."
+        },
+        {
+            "id": "9-1",
+            "text": "Tumutukoy sa pisikal na dila, hindi sa isang lengguwahe o wika."
+        },
+        {
+            "id": "10-1",
+            "text": "Sa Griyego ay katulad ng “tunog” sa bersikulo 7 (ang pang-isahan) at bersikulo 8. Dito, ito ay nangangahulugang mga tinig, yaon ay, mga lengguwahe."
+        },
+        {
+            "id": "11-1",
+            "text": "Lit. kapangyarihan, lakas."
+        },
+        {
+            "id": "11-2",
+            "text": "Tingnan ang tala 10-1 ."
+        },
+        {
+            "id": "11-3",
+            "text": "Gr. barbaros , isang dayuhan, yaon ay, isang di-Griyego, isang hindi nagsasalita ng Griyego. “Dati-rati, ito ay isang naglalarawang salita ukol sa mga yaong nagsasalita ng mga marahas, magaspang na punto… Sa kalaunan, ang salita ay nangahulugang kakatwa o magaspang” (Vincent)."
+        },
+        {
+            "id": "12-1",
+            "text": "Nang sabihin ng apostol ang, “Gayundin naman kayo, na yamang kayo ay mapagsikap para sa mga espiritu…” ay makikita natin na ang dating mga Hentil na mga mananampalatayang taga-Corinto, sa kanilang espirituwal na paghahabol, ay pinaghalu-halo nang magulo ang namumukod-tanging Espiritu Santo at ang maraming masasamang espiritu dahil sa kanilang nagdaang nagpapaligid-na-pangyayari. Hindi sila malinaw sa pagiging bukod-tangi ng Espiritu Santo at hindi rin lubusang pinangangalagaan ang pagiging bukod-tangi ng Espiritu Santo. Ito ay mapapatunayan sa mga salitang “datapuwa’t iisa rin namang Espiritu” sa 12:4. Ang ganitong salita ng apostol ay hindi nangangahulugang sila ay pinapayagan sa ganitong uring paghahabol na may magulong paghahalo kundi batay sa katunayan ng kanilang magulong paghahalo, hinihikayat sila na sa gitna ng ganitong magulong paghahalo, pagsikapan nilang pangibabawan ito."
+        },
+        {
+            "id": "12-2",
+            "text": "Sa Griyego ay tumutukoy sa iisang salita na may kahulugan ng nag-uumapaw, sumasagana, nangingibabaw. Tingnan ang tala 1 sa 8:8. Ayon sa ibig sabihin ng nilalaman ng bersikulong ito, hindi tumutukoy sa nag-uumapaw na sumasagana kundi nangingibabaw , hindi pangkaraniwan. Sa pagkakasabi ng unang bahagi ng bersikulong ito “yamang kayo ay mapagsikap para sa mga espiritu,” ay tumutukoy na ang mga mananampalatayang taga-Corinto noon ay ipinaghalu-halo ang Espiritu Santo at masasamang espiritu habang pinagsisikapang matamo ang mga espirituwal na kaloob. Ang ganoong uri ng magulong paghahabol, sa mata ng apostol, ay napakababa at maging sa mga mata ng iba ay barbaro. Kaya’t sila ay hinikayat ng apostol na huwag humabol sa walang pagkakilala at sa naihalo nang magulo na mga espirituwal na bagay dahil lamang sa sariling pagtatamasa at pagpapasikat, kundi pagsikapang pangibabawan ang gayong mabababang uri ng paghahabol sa ikatatayo ng ekklesia."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang apostol ay ganap na nasasaklawan (okupado) ng pagsasaalang-alang sa ikatitibay ng ekklesia. Siya ay ganap na may lubhang kamalayan sa ekklesia at nakasentro sa ekklesia, lubusang kaiba sa mga makasariling taga-Corinto. Ang kanilang suliranin tungkol sa mga espirituwal na kaloob ay dahil sa (ay sanhi ng) kanilang makasariling paghahangad (pagkamakasarili), walang pagmamalasakit para sa ikatatayo ng ekklesia. Sa pagtutuos sa naunang anim na suliranin, na kinasasaklawan ng pantaong buhay, binibigyang-diin ng apostol si Kristo bilang ating namumukod-tanging bahagi na ibinigay ng Diyos sa atin; sa pagtutuos sa huling limang suliranin, na kinasasaklawan ng maka-Diyos na pangangasiwa (administrasyon), kanyang binigyang-diin ang ekklesia bilang ang namumukod-tanging gol ng Diyos para sa atin. Ang mga taga-Corinto ay hindi lamang kulang na kulang ng Kristo, bagkus hindi rin nakakikilala sa ekklesia. Ang nagkukumpletong ministeryo ng apostol (Col. 1:25) ay binubuo ni Kristo bilang ang hiwaga ng Diyos (Col. 2:2) at ng ekklesia bilang ang hiwaga ni Kristo (Efe. 3:4). Gayunpaman, hindi nakita ng mga taga-Corinto ang dalawang ito, kahit na sila ay nasa ilalim ng ministeryo ng apostol. Sila ay kaawa-awang nasa loob ng kanilang mga sarili, bulag at mangmang."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang magamit at maensayo ang ating espiritu sa pananalangin ay tiyak na nakalulusog sa ating espirituwal na buhay. Subali’t ang hindi mamunga at hindi magamit ang ating kaisipan ay tunay na di-nakalulusog. Dapat nating ensayuhin ang ating naisilang-na-muling espiritu kasama ang ating nabagong kaisipan sa pananalangin sa Panginoon. Ang ating kaisipan ay nararapat na nakalagak sa ating espiritu (Roma 8:6), hindi kailanman nakawalay mula rito, maging sa ating pang-araw-araw na paglakad, di na kailangang sabihin pa, sa ating pananalangin. Ang ating panalangin ay nararapat na magmula sa ating espiritung nakipag-ugnay na sa Diyos at nakikipag-ugnay sa Diyos at dumaraan sa ating mahinahon at nakauunawang kaisipan na ginagamit ang mga malilinaw at nauunawaang salita, upang sanhiin ang ating panalangin na mahipo ang Diyos, mabigyang-sustansiya at mapalakas ang ating mga sarili at maitayo ang iba."
+        },
+        {
+            "id": "14-2",
+            "text": "O, walang epekto."
+        },
+        {
+            "id": "15-1",
+            "text": "Ito ay nagpapahiwatig na hinihikayat ng apostol ang mga tatanggap ng kanyang sulat na manalangin hindi lamang sa isang wikang hindi nauunawaan ng tao, bagkus taglay rin ang mga malilinaw at nauunawaang salita."
+        },
+        {
+            "id": "15-2",
+            "text": "Ito ay hindi nangangahulugang sa kaisipan lamang at hindi na sa espiritu. Sa Efe. 6:18 ay inaatasan tayo ng apostol na manalangin sa buong panahon sa espiritu. Ang pananalangin ay pagsamba, na nararapat na maging nasa espiritu (Juan 4:24). Kapag tayo ay nananalangin sa espiritu, hindi sa isang di-nalalamang wika, kundi sa mga nauunawaang salita, ang ating kaisipan ay kusang nagagamit upang bigyangkahulugan at ipahayag ang kaisipan ng espiritu. Ang ibig sabihin ng apostol dito ay yaong sa pagpupulong ng ekklesia, para sa kapakinabangan ng lahat ng nagsidalo, tayo ay dapat manalangin sa ating kaisipan sa mga nauunawaang salita (b. 19) upang maihayag ang kabigatan sa ating espiritu. Sa isang pagpupulong ng ekklesia ang ating panalangin ay hindi lamang dapat marinig ng Panginoon para sa Kanyang kasagutan, bagkus dapat ding maging nauunawaan ng lahat ng nagsisidalo para sa kanilang kapakinabangan. Sa layuning ito dapat din nating matutuhang gamitin ang ating kaisipan sa pampublikong pananalangin katulad ng ginagawa natin sa ating espiritu, sinasanay ang ating kaisipan na makipagtulungan sa ating espiritu, maging kaisa pa ng ating espiritu, upang ang espiritu ay maging ang espiritu ng ating kaisipan (Efe. 4:23)."
+        },
+        {
+            "id": "16-1",
+            "text": "Ito ay nagpapahayag na sa mga pagpupulong ng ekklesia noong kapanahunan ng apostol, kapag ang isa ay nananalangin, ang iba naman (lahat) ay nagsasabi (sumasagot) ng Amen, maging “ang Amen”, sa kanyang panalangin."
+        },
+        {
+            "id": "16-2",
+            "text": "Yaon ay hindi nakatanggap ng pagtuturo, ni ng paggagabay tungkol sa isang partikular na bagay. *(Sa kaso rito, tumutukoy sa mga hindi marunong ng wika).*"
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay nagpapakita na hindi lamang ang ating pagpopropesiya at pagtuturo sa mga pagpupulong ng ekklesia ang makapagtatayo sa iba, bagkus maging ang atin din namang mga pananalangin at pasasalamat sa Panginoon ay makapagtatayo sa iba. Ipinakikita nito kung gaanong ang apostol ay nagmamalasakit sa pagtatayo ng ekklesia at ng mga banal. Ang kanyang salita sa bersikulong ito ay hindi lamang isang pagwawasto bagkus isang pag-aatas."
+        },
+        {
+            "id": "19-1",
+            "text": "Ito ay nagpapakita kung gaanong ang pagsasalita sa mga nauunawaang salita ay kinakailangan sa pagpupulong ng ekklesia para sa pagtatayo ng ekklesia at hindi ang pagsasalita sa mga wika."
+        },
+        {
+            "id": "19-2",
+            "text": "Tingnan ang nakatala sa 15-2 ."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang mga mananampalatayang taga- Corinto ay hindi lamang mga sanggol sa buhay (3:1), kundi mga bata rin sa pang-unawa. Sila ay kinakailangang lumago kapwa sa buhay at sa pang-unawa ng kanilang kaisipan. Ang lahat ng pagtutuos ng apostol sa kanilang mga suliranin ay para sa layuning ito, upang sila ay gumulang sa bawa’t aspekto."
+        },
+        {
+            "id": "20-2",
+            "text": "O, pag-iisip, pangangatuwiran, kaisipan. Sa Griyego ito ay kaiba sa salitang “kaisipan” sa mga bersikulo 15 at 19. “Binibigyang-diin nito ang kaibhan sa panatikong kasidhian” (Vincent). Ito ay tungkol sa pang-unawa at kaisipan ng mga mananampalatayang taga-Corinto hinggil sa pagsasalita sa mga wika. Masidhi ang kanilang pagiging panatiko sa pagsasalita sa mga wika, kaya nangagpakababa sa kanilang pang-unawa hinggil dito, hindi ginagamit ang kanilang kaisipan nang wasto katulad ng dapat gawin ng isang husto na sa gulang na mananampalataya. Pinayuhan sila ng apostol na lumago at maging lubusan-nang lumago sa kanilang pang-unawa, yaon ay, sa wastong paggamit nila ng kanilang kaisipan, gaya ng kung paano niya ginagamit ang kanyang kaisipan (b. 19), sa bagay na ukol sa pagsasalita sa mga wika."
+        },
+        {
+            "id": "20-3",
+            "text": "Ang mga isip-batang mananampalatayang taga-Corinto ay kinakailangang maging lubusan-nang-lumago sa kanilang pang-unawa nang sa gayon ay kanilang malaman ang mga bagay na babanggitin sa mga bersikulo 21 hanggang 25."
+        },
+        {
+            "id": "21-1",
+            "text": "Tumutukoy sa Lumang Tipan. Tingnan ang nakatala sa 34-3 ."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang salitang ito sa Isa. 28:9-13 ay nagpapakita na ang pagsasalita sa mga di-kilalang wika ay isang pagpaparusa sa di-pagsampalataya ng mga Israelita sapagka’t hindi nila pinaniniwalaan ang malinaw na salita ng Diyos. Kaya, ang pagsipi ng apostol ng salitang ito ay nagpapahiwatig na ang mga taga-Corinto ay hindi pa tinanggap nang wasto ang malinaw na pahayag ng Diyos na ipinahayag sa pamamagitan ng apostol."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang “kaya nga” sa umpisa ng bersikulong ito ay nagpapakita na ayon sa salita sa bersikulo 21 na sinipi mula sa Isaias 28, ang mga iba’t ibang wika ay para sa isang negatibong tanda sa mga di-nagsisisampalataya, isinasagisag ang kanilang kaawa-awang kalagayan ng di-pagsampalataya. Ito ay nagpapahiwatig na sa tuwing sinasalita o saanman sinasalita ang isang di-kilalang wika, naroroon ang di-pananampalataya ng mga tao. Ang layunin ng apostol dito ay ang pigilan ang mga taga-Corinto sa kanilang malabis na pagsasalita sa mga wika. Datapuwa’t ang pagpopropesiya ay para sa positibong tanda sa mga nagsisisampalataya, sumasagisag sa kanilang wastong kalagayan ng pagsampalataya. Ito ay isang panghihikayat sa pagsasagawa ng pagpopropesiya."
+        },
+        {
+            "id": "23-1",
+            "text": "Sa pagpupulong ng ekklesia, kung ang lahat ng nagpapangsyon ay pawang nagsasalita sa mga wika, maaaring akalain ng iba na sila ay nasisiraan na ng bait. Kaya ang udyukan ang bawa’t isa na magsalita sa iba’t ibang wika sa panahon ng pagpupulong ng ekklesia ay hindi tama; ito ay salungat sa salita ni Apostol Pablo."
+        },
+        {
+            "id": "23-2",
+            "text": "O, sira ang ulo, nahihibang, nababaliw. Ang salitang ito ay isang malakas na pampasira ng loob sa malabis na pagsasagawa ng pagsasalita sa mga wika."
+        },
+        {
+            "id": "24-1",
+            "text": "Sa pagpupulong ng ekklesia, kung ang lahat ng nagpapangsyon ay pawang nagpopropesiya, ito ay makapanghihikayat sa mga tao. Ang ganitong uri ng pagpopropesiya, sa pangunahin, ay hindi ang manghula, kundi ang magsalita para sa Panginoon at salitain ang Panginoon."
+        },
+        {
+            "id": "24-2",
+            "text": "Tiyak na ito ay hindi sa pamamagitan ng pagpopropesiya ng panghuhula, kundi sa pamamagitan ng pagpopropesiya ng pagsasalita para sa Panginoon at sinasalita ang Panginoon. Ang ganitong uri ng pagpopropesiya ay nangangailangan ng kalaguan sa buhay. Ang salitang ito ay isa ring panghihikayat para sa pagsasagawa ng pagpopropesiya."
+        },
+        {
+            "id": "25-1",
+            "text": "Ito ay nagpapahiwatig na ang pagpopropesiya, ang pagsasalita para sa Diyos at ang pagsasalita natin ng Diyos na may Diyos bilang nilalaman nito, ay naghahain ng Diyos sa mga tagapakinig at nagdadala sa kanila sa Diyos. Ito ay nagpapakita rin na ang pagpupulong ng ekklesia ay nararapat na mapuno ng Diyos at ang lahat ng mga gawain nito ay dapat maghatid at magdala ng Diyos sa mga tao nang sa gayon sila ay malalinan ng Diyos."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang “may” na ginamit nang limang ulit sa bersikulong ito ay echo sa salitang Griyego, isang salitang madalas gamitin, na may maraming kahulugan; ang sumusunod ay ang tatlong pangunahing kahulugan: 1) hawakan, angkinin, panatilihin (ang isang bagay); 2) magkaroon (ng isang bagay) para sa katamasahan; 3) magkaroon ng paraan o kapangyarihan na gumawa ng isang bagay. Ang unang dalawang kahulugan ay dapat gamitin sa unang tatlo ng limang bagay na itinala sa bersikulong ito at ang ikatlong kahulugan ay sa huling dalawa-isang wika at isang pagpapaliwanag. Ito ay nagpapahiwatig na kapag tayo ay dumadalo sa pagpupulong ng ekklesia, tayo ay dapat magkaroon ng isang bagay mula sa Panginoon upang maibahagi sa iba, maging isang awit upang purihin ang Panginoon, isang aral (ng tagapagturo) upang ihain ang mga kayamanan ni Kristo upang mapatibay at mapalusog ang iba, isang pahayag (ng propeta, b. 30) upang magbigay ng mga pangitain ng walang hanggang layunin ng Diyos hinggil kay Kristo bilang hiwaga ng Diyos at hinggil sa ekklesia bilang hiwaga ni Kristo, isang wika bilang isang tanda sa mga di-mananampalataya (b. 22) upang malaman at matanggap nila si Kristo, o isang pagpapaliwanag upang ang wika hinggil kay Kristo at sa Kanyang Katawan ay maunawaan ng mga tao. Bago pumunta sa pagpupulong, dapat tayong magkaroon ng karanasan sa Panginoon at ng katamasahan sa salita ng Panginoon at ng pagsasalamuha sa Panginoon sa panalangin, upang magkaroon tayo ng mga bagay na binanggit sa unang bahagi ng bersikulong ito, mga bagay na nagmula at ukol sa Panginoon. Sa gayon, maihahanda natin ang ating mga sarili para sa pagpupulong. Pagdating sa loob ng pagpupulong, tayo ay hindi na dapat maghintay ng isang inspirasyon; dapat nating sanayin ang ating espiritu at gamitin ang ating nasanay na kaisipan upang magpangsyon at ihain ang kung ano ang inihanda natin sa Panginoon para sa Kanyang kaluwalhatian at kasiyahan at para naman sa mga nagsidalo, sa kanilang kapakinabangan- pagbibigay-liwanag, pagbibigaysustansiya at pagtatayo sa kanila."
+        },
+        {
+            "id": "26-2",
+            "text": "O, ikatitibay. Ano man ang ating ginagawa sa pagpupulong ng ekklesia ay dapat maging para sa ikatatayo ng mga banal at ng ekklesia. Ang magtanghal (magpahayag) ng Kristo at magtamasa sa Kanya sa ating mga pagpupulong para sa ikatatayo ng Kanyang Katawan ang siyang dapat maging namumukod-tanging mithiin at layunin natin."
+        },
+        {
+            "id": "28-1",
+            "text": "Ito ay nagpapahiwatig na ang pagpupulong ng ekklesia ay ang ekklesia."
+        },
+        {
+            "id": "29-1",
+            "text": "O, mangaghusga. (Lit. mangagkilala). Ito ay ang maghusga o magsiyasat kung ang ipinropesiya ay ukol sa Diyos o hindi, napagkikilanlan ang wasto sa mali. Ito ay nagpapahiwatig na ang ilang pagpopropesiya ay maaaring hindi nagmumula sa Diyos."
+        },
+        {
+            "id": "31-1",
+            "text": "Ninanais ng Diyos na ang bawa’t isa sa mga mananampalataya ay makapagpropesiya, yaon ay, ang makapagsalita para sa Kanya at ang salitain Siya (b. 1b; cf. Blg. 11:29)."
+        },
+        {
+            "id": "31-2",
+            "text": "O, maaliw."
+        },
+        {
+            "id": "32-1",
+            "text": "Ito ay nangangahulugang hindi ang mga propeta ang nasa ilalim ng pamamahala ng kanilang mga espiritu, kundi ang kanilang mga espiritu ang nasa ilalim ng kanilang pamamahala. Kung kaya, sila ay nakapagpapasiya kung kailan magpopropesiya at kung kailan titigil upang manatili ang mabuting kaayusan sa pagpupulong ng ekklesia. Ang kanilang espiritu ay hindi ang kanilang panginoon, kundi ang kanilang kaparaanan upang makapagpangsyon. Dapat silang matuto kung paano sanayin at gamitin ang kanilang mga espiritu ayon sa kanilang sariling pagpapasiya."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang prinsipyo ng pag-aatas sa mga bersikulo 26-32, na nauukol lamang sa pagsasalita sa mga wika at pagpopropesiya, ay ang panatilihin ang kapayapaan at wastong kaayusan ayon sa kung ano ang Diyos Mismo."
+        },
+        {
+            "id": "33-2",
+            "text": "Ito ay nagpapakita na ang lahat ng mga ekklesia lokal ay dapat maging nasa parehong pagsasagawa."
+        },
+        {
+            "id": "33-3",
+            "text": "Binabanggit ng 1:2 at 10:32 ang ekklesia ng Diyos. Nguni’t dito ay ating mababasa ang mga ekklesia ng mga banal. Ang ekklesia ng Diyos ay tumutukoy sa nilalaman ng ekklesia; ang ekklesia ay naglalaman ng elemento ng Diyos. Ang mga ekklesia ng mga banal ay tumutukoy sa bumubuo sa mga ekklesia; ang mga ekklesia ay binubuo ng mga banal."
+        },
+        {
+            "id": "34-1",
+            "text": "Ito ay nangangahulugang sa mga pagpupulong ng ekklesia. Tingnan ang tala 28-1 . Gayundin ang huling bahagi ng bersikulong ito."
+        },
+        {
+            "id": "34-2",
+            "text": "Ayon sa 11:5, ang mga kababaihan ay makapagpopropesiya (mangyari pa, sa publiko) na may takip sa ulo, at pinatutunayan ng Gawa 2:17-18 at 21:9 na may mga babae na nagpopropesiya. Subali’t sa I Timoteo 2:12 ang mga babae ay hindi pinahihintulutang magturo, yaon ay, ang magturo bilang isang awtoridad (doon ang pagtuturo ay nauugnay sa paggamit ng awtoridad), na nagpapaliwanag ng doktrina. Kaya, ayon sa Bagong Tipang prinsipyo, para sa mga babae na hindi mapahintulutang magsalita sa mga pagpupulong ng ekklesia ay nangangahulugang ang mga babae ay hindi pinahihintulutang magturo nang may awtoridad hinggil sa pagpapaliwanag ng doktrina. Sa ganitong kahulugan sila ay dapat maging tahimik sa mga pagpupulong ng ekklesia. Sila ay hindi pinahihintulutang magsalita sapagka’t sila ay dapat pasakop sa lalake. Ito ay may kaugnayan sa bagay ng awtoridad na itinalaga ng Diyos sa Kanyang pamahalaan. Sa pampamahalaang pagtatalaga ng Diyos, ang mga babae ay hindi pinahihintulutang gumamit ng awtoridad sa pagsasalita upang kontrolin ang mga lalake. Sila ay makapananalangin at makapagpopropesiya, yaon ay, sa pangunahin ay ang magsalita para sa Panginoon at ang salitain ang Panginoon. Gayunpaman, kailangang gawin nila ito sa ilalim ng pagtatakip ng mga kapatid na lalake sapagka’t sila ay inaatasan dito na magpasakop."
+        },
+        {
+            "id": "34-3",
+            "text": "Tumutukoy sa mga aklat na isinulat ni Moises (Mat. 5:17; 7:12; 11:13). Sa mga isinulat ni Moises, inaatasan ng Gen. 3:16 ang babae na magpasakop sa pamumuno ng lalake. Ito ang pagtatalaga ng Diyos."
+        },
+        {
+            "id": "36-1",
+            "text": "Tinutukoy rin nito na kinakailangang sundin ng isang ekklesia lokal ang iba pang ekklesia sa mga gawi ng mga ito. Ang lahat ng ekklesia ay dapat magpasakop sa pangkalahatang pag-aatas ng Espiritu ayon sa salita ng mga apostol, na mula kanino ang salita ng Diyos ay lumalabas."
+        },
+        {
+            "id": "37-1",
+            "text": "Tinutukoy rin nito na para sa pagsasakatuparan ng Bagong Tipang ekonomiya ng Diyos, ang maging propeta o maging espirituwal na tao ay lubhang pinahahalagahan sa ekklesia. Sa administrasyon ng Diyos sa ekklesia ang propeta ay pumapangalawa sa apostol (12:28), na nagsasalita para sa Diyos at sinasalita ang Diyos at ang siyang nakatanggap ng pahayag ng mga hiwaga hinggil kay Kristo at sa ekklesia (Efe. 3:5), upang maging pundasyon ng pagtatayo ng ekklesia (Efe. 2:20). Ang isang espirituwal na tao ay yaong namumuhay ayon sa kanyang espiritung hinaluan ng Espiritu ng Diyos at yaong may kakayahang magsiyasat ng lahat ng mga bagay na espirituwal (3:1; 2:15 at mga tala). Dapat malaman nang malinaw ng mga gayong tao na may kaalamang pang-espirituwal na ang pagtuturo ni Apostol Pablo ay ang utos ng Panginoon at ang kanilang pagsasalita ay dapat tumugma sa kanyang mga pagtuturo. Ang espiritu ni Pablo ay malakas at ang kanyang salita ay prangka sa pagtutuos sa magugulong taga-Corinto. Tinagubilinan niya ang mga taga-Corinto na dapat malaman nang tiyak na ang kanyang mga pagtuturo ay isang utos ng Panginoon at may tunay na awtoridad ng Panginoon."
+        },
+        {
+            "id": "37-2",
+            "text": "Yamang ang mga pagtuturo ng apostol ay naaayon sa pagtatalaga ng Diyos (b. 34), ang mga pagtuturong ito ay ang mga utos ng Panginoon."
+        },
+        {
+            "id": "39-1",
+            "text": "Sa katunayan, ang buong kapitulong ito ay tumatalakay sa pagpopropesiya at pagsasalita sa mga wika. Yamang ang pagpopropesiya ay may pinakamalaking kapakinabangan na kaloob sa ikatatayo kapwa ng mga banal at ng ekklesia kasama ang mayamang ministeryo ni Kristo, ito ay higit na binigyang-halaga at itinaguyod ng apostol. Dahil sa ang pagsasalita sa mga wika ay hindi nagbibigay ng anumang kapakinabangan para sa gayong pagtatayo, naging tapat ang apostol sa paglalantad sa kakauntian ng kahalagahan nito. Kapwa ang pagbibigay-halaga at ang paglalantad ng apostol ay naaayon sa kanyang pagmamalasakit na maisakatuparan ang layunin ng Diyos, yaon ay,ang gamitin ang mga kayamanan ni Kristo sa pagtatayo ng ekklesia. Sa katapusan ng kapitulong ito, siya ay nag-aatas pa sa atin na pakanasain nang masidhi ang magpropesiya para sa pagtatayo ng Diyos. Gayunpaman, siya ay nagtagubilin din sa atin na huwag ipagbawal ang pagsasalita sa mga wika upang mapanatili ang pagiging nagpapaloob-nglahat ng ekklesia at pagkakaisa sa ekklesia."
+        },
+        {
+            "id": "40-1",
+            "text": "Ang pagmamalasakit ni Pablo para sa ekklesia ay yaong si Kristo bilang sentro ng Diyos at ang ekklesia bilang layunin ng Diyos ay maisagawa at maisakatuparan nang nababagay at maayos sa mga mata ng mga tao at mga anghel (4:9; 11:10). Ang ating likas na buhay ay walang silbi sa pagsasakatuparan ng gayong mataas na layunin. Ang karanasan ng Kristong naipako (1:23; 2:2) para sa pagtatapos ng ating sarili at ang karanasan kay Kristo sa pagkabuhay-na-muli bilang ating pang-araw-araw na pagpapabanal at katubusan (1:30) ay kinakailangan para sa isang wastong buhay-ekklesia."
         }
     ]
 }

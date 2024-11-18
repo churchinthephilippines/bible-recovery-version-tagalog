@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Hesus,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -40,7 +40,7 @@
             "footnotes": [
                 {
                     "word": "tao.",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -57,7 +57,7 @@
             "footnotes": [
                 {
                     "word": "naibigay",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -74,11 +74,11 @@
             "footnotes": [
                 {
                     "word": "kanya,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "paglilingkuran.",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -89,7 +89,7 @@
             "footnotes": [
                 {
                     "word": "taluktok",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -112,7 +112,7 @@
             "footnotes": [
                 {
                     "word": "tutuksuhin",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -123,7 +123,7 @@
             "footnotes": [
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -134,7 +134,7 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": [
@@ -150,15 +150,15 @@
             "footnotes": [
                 {
                     "word": "nagtuturo",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "niluluwalhati",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": null
@@ -175,11 +175,11 @@
             "footnotes": [
                 {
                     "word": "aklat",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "aklat",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -190,31 +190,31 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "dalhan",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "dukha.",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "18-4"
                 },
                 {
                     "word": "pagpapanumbalik",
-                    "note": ""
+                    "id": "18-5"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "18-6"
                 },
                 {
                     "word": "nang-aaapi,",
-                    "note": ""
+                    "id": "18-7"
                 }
             ],
             "outlines": null
@@ -225,7 +225,7 @@
             "footnotes": [
                 {
                     "word": "kaaya-",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -248,11 +248,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -281,7 +281,7 @@
             "footnotes": [
                 {
                     "word": "babaeng",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -310,7 +310,7 @@
             "footnotes": [
                 {
                     "word": "pagdaan",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -330,7 +330,7 @@
             "footnotes": [
                 {
                     "word": "awtoridad",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -341,7 +341,7 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -352,11 +352,11 @@
             "footnotes": [
                 {
                     "word": "Ah!",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "Ano",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
@@ -373,7 +373,7 @@
             "footnotes": [
                 {
                     "word": "awtoridad",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -384,7 +384,7 @@
             "footnotes": [
                 {
                     "word": "kumalat",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -395,11 +395,11 @@
             "footnotes": [
                 {
                     "word": "ni",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "nilalagnat",
-                    "note": ""
+                    "id": "38-2"
                 }
             ],
             "outlines": null
@@ -434,15 +434,15 @@
             "footnotes": [
                 {
                     "word": "dalhin",
-                    "note": ""
+                    "id": "43-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "43-2"
                 },
                 {
                     "word": "ganito",
-                    "note": ""
+                    "id": "43-3"
                 }
             ],
             "outlines": null
@@ -453,14 +453,176 @@
             "footnotes": [
                 {
                     "word": "nangaral",
-                    "note": ""
+                    "id": "44-1"
                 },
                 {
                     "word": "Judea.",
-                    "note": ""
+                    "id": "44-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa bb. 1-13, tingnan ang mga tala sa Mat. 4:1-11."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 22-1 sa kap. 3."
+        },
+        {
+            "id": "1-3",
+            "text": "O, sa."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag, subalit sa bawat salita ng Diyos."
+        },
+        {
+            "id": "6-1",
+            "text": "Ito ay malamang na naganap bago ang kapanahunan ni Adam. Ang salita ng Diyablo rito ay nagsasaad na nang pinahiran ng Diyos ang Arkanghel upang maging pinuno ng kapanahunan bago kay Adam (Ezek. 28:13-14), ang awtoridad at kaluwalhatian ng kaharian ng daigdig ay maaaring naibigay sa kanya. Tinitiyak ito ng salita ng Panginoon sa Juan 12:31. Matapos na siya ay magrebelde laban sa Diyos at naging kaaway ng Diyos, si Satanas ay hinatulan ng Diyos (Isa. 14:12-15), subalit ang buong kaganapan ng kahatulan ng Diyos sa kanya ay makukumpleto lamang sa katapusan ng isang libong taong kaharian (Apoc. 20:7-10). Kaya, bago ang panahong yaon ay mayroon pa rin siyang awtoridad sa ibabaw ng mga kaharian ng daigdig. Tinukso niya ang Panginoong Hesus sa pamamagitan ng pag-aalok ng awtoridad na ito at ng kaluwalhatian nito sa Kanya. Ang kanyang masamang alok ay tinanggihan ng Kristo ng Diyos, subalit tatanggapin ng Antikristo, ang taong walang kinikilalang batas (2 Tes. 2:3-4), sa katapusan ng kapanahunang ito (Apoc. 13:4) upang isagawa ang kanyang masasamang pakana laban sa Diyos. Upang matanggihan ang masamang manunuksong ito ay kinakailangang umasa tayo sa Kristong nabubuhay sa loob natin."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag, Lumayas ka, mapasalikuran Ko, Satanas."
+        },
+        {
+            "id": "8-2",
+            "text": "Lit. paglilingkuran bilang isang saserdote."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 5-1 sa Mateo 4."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 7-2 sa Mateo 4."
+        },
+        {
+            "id": "13-1",
+            "text": "Tinutukoy na ang Diyablo ay maghahanap ng ibang panahon at muling babalik upang tuksuhin Siyang paulit-ulit sa anumang angkop na oras (Mat. 16:22-23; Juan 8:40; Luc. 22:53; Juan 6:70-71)."
+        },
+        {
+            "id": "14-1",
+            "text": "Tingnan ang tala 22-1 sa kap. 3."
+        },
+        {
+            "id": "15-1",
+            "text": "Tingnan ang tala 21-2 sa Marc. 1."
+        },
+        {
+            "id": "15-2",
+            "text": "Tingnan ang tala 21-1 sa Marcos 1 at 2-1 sa Santiago 2."
+        },
+        {
+            "id": "15-3",
+            "text": "Yaon ay, pinupuri, pinapurihang maigi."
+        },
+        {
+            "id": "17-1",
+            "text": "O, binalumbong kasulatan."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang tala 22-1 sa kap. 3."
+        },
+        {
+            "id": "18-2",
+            "text": "Tingnan ang tala 43-1 . Ang pagpapahayag ng ebanghelyo ay ang unang gawain ng Tagapagligtas bilang Mesiyas na Siyang Pinahirang Isa ng Diyos."
+        },
+        {
+            "id": "18-3",
+            "text": "Salat sa mga makalangit, espiritwal, at dibinong bagay (12:21; Apoc. 3:17; cf. Mat. 5:3)."
+        },
+        {
+            "id": "18-4",
+            "text": "Mga bilanggo ng digmaan, bilang mga itinapon at mga bilanggo sa ilalim ng gapos ni Satanas (Isa. 42:7)."
+        },
+        {
+            "id": "18-5",
+            "text": "Ang pagpapanumbalik ng paningin ay nauugnay sa paglaya mula sa kapangyarihan ni Satanas (Gawa 26:18)."
+        },
+        {
+            "id": "18-6",
+            "text": "Tumutukoy sa pampisikal at pang-espiritwal na kabulagan (Zef. 1:17; Juan 9:39-41; 1 Juan 2:11; Apoc. 3:17)."
+        },
+        {
+            "id": "18-7",
+            "text": "Buhat sa pandiwa na nangangahulugang pagpira-pirasuhin (Mat. 12:20). Naapi sa ilalim ni Satanas sa karamdaman o sa kasalanan (13:11-13; Juan 8:34)."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang kapanahunan ng Bagong Tipan na isinagisag ng taon ng Jubileo (Lev. 25:8-17), na siyang panahon kung kailan tatanggapin ng Diyos ang mga nagsibalik na bihag ng kasalanan (Isa. 49:8; 2 Cor. 6:2), at kung kailan ang mga nang-aaapi sa ilalim ng gapos ng kasalanan ay makapagtatamasa ng kalayaan ng pagliligtas ng Diyos, nang sa gayon ay matamasa nila ang Bagong Tipang Jubileo."
+        },
+        {
+            "id": "22-1",
+            "text": "Tumutukoy sa mga salita sa b. 21, kasama ang mga salita sa bb. 18-19, na siyang mga salita ng ebanghelyo."
+        },
+        {
+            "id": "22-2",
+            "text": "Kilala nila ang Tagapagligtas ayon sa Kanyang laman (2 Cor. 5:16), hindi ayon sa Espiritu (Roma 1:4)."
+        },
+        {
+            "id": "26-1",
+            "text": "Ito ay isang pangyayari ng pagpapakain, sumasagisag sa pagppakain ng Panginoon sa mga nagugutom (Juan 6:33, 35). Ang pangyayari ukol kay Naaman sa sumunod na bersikulo ay isang pangyayari ng paglilinis, na sumasagisag sa paglilinis ng Panginoon sa mga makasalanan (1 Cor. 6:11). Ang pagbanggit ng Tagapagligtas dito sa dalawang pangyayaring ito ay nagpapahiwatig na ang kanyang ebanghelyo ay ibabaling sa mga Hentil (Gawa 13:45-48; tingnan ang mga tala 21-1 at 22-1 sa Mateo 15), hindi dahil sa hindi makayanan ng pamantayan ng Kanyang moralidad na ipaloob ang mga Hudyo kundi dahil sa kanilang pagtanggi sa Kanya nang may katigasan ng puso."
+        },
+        {
+            "id": "30-1",
+            "text": "Pagpapakita ng Kanyang katatagan sa ilalim ng pagbabanta ng Kanyang mga kaaway."
+        },
+        {
+            "id": "32-1",
+            "text": "Tingnan ang tala 22-1 sa Marc. 1."
+        },
+        {
+            "id": "33-1",
+            "text": "Tingnan ang tala 23-1 sa Marc. 1."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang panamdam ng pagkagalit o pagkasuya. Ang salitang Griyego ay maaaring isalin, Pabayaan mo kami."
+        },
+        {
+            "id": "34-2",
+            "text": "Lit. Ano nga sa amin at sa Iyo. Isang kawikaang Hebreo."
+        },
+        {
+            "id": "36-1",
+            "text": "Tingnan ang 27-1 sa Marc. 1."
+        },
+        {
+            "id": "37-1",
+            "text": "O, kumalat ang balita tungkol kay Hesus sa apat na sulok ng lupa."
+        },
+        {
+            "id": "38-1",
+            "text": "Ang salaysay ng mga pangyayari sa 4:38-41; 5:12-14; 7:1-10 ay ayon sa pagkakasunud-sunod ng moralidad na kakaiba sa Mat. 8:2-16 at Marc. 1:29- 2:1. Tingnan ang tala 16-1 , talata 2, sa Mateo 8."
+        },
+        {
+            "id": "38-2",
+            "text": "Tingnan ang mga tala 30-1 at 31-1 sa Marcos 1."
+        },
+        {
+            "id": "43-1",
+            "text": "Gr. euaggelizo , ang mag-ebanghelyo, ipahayag ang mabuting balita, mag-ulat (magdala) ng masayang balita, mangaral (ng ebanghelyo). Kaya nga, ang “magdala ng mabuting balita ng kaharian ng Diyos” ay ang ipahayag ang kaharian ng Diyos bilang ang ebanghelyo, ang mabuting balita."
+        },
+        {
+            "id": "43-2",
+            "text": "Ang kaharian ng Diyos ay ang Tagapagligtas (tingnan ang tala 21-1 sa kap. 17) bilang ang binhi ng buhay, na inihasik sa loob ng Kanyang mananampalataya, na siyang mga piniling tao ng Diyos (Marcos 4:3, 26), at yumayabong hanggang maging isang saklaw na maaaring pagharian ng Diyos bilang Kanyang kaharian sa Kanyang maka-Diyos na buhay. Ang pasukan nito ay ang pagsisilang-na-muli (Juan 3:5), at ang pagyabong nito ay ang paglago ng mga mananampalataya sa maka-Diyos na buhay (2 Ped. 1:3-11). Ito ay ang buhay-ekklesia ngayon, kung saan ang mga tapat na mananampalataya ay nabubuhay (Roma 14:17), at ito ay uunlad hanggang sa maging ang darating na kaharian bilang isang pamanang gantimpala (Gal. 5:21; Efe. 5:5) para sa mga mandaraig na banal sa isang libong taong kaharian (Apoc. 20:4, 6). Sa katapus-tapusan, ito ay magwawakas sa Bagong Herusalem bilang walang-hanggangg pagpapala ng walang-hanggangg buhay ng Diyos para sa lahat ng tinubos ng Diyos upang magtamasa sa bagong langit at bagong lupa magpasawalang-hanggan – Apoc. 21:1-4; 22:1-5, 14 (tingnan ang mga tala sa 151 sa Marcos 1, at 31, 32, 26-1, 26-3 sa Marcos 4). Ang ganitong kaharian, ang kaharian ng Diyos, ang ipinangaral ng Tagapagligtas dito bilang ebanghelyo, ang mabuting balita. Ito ang ipinahayag sa mga tao na hiwalay sa buhay ng Diyos (Efe. 4:18)."
+        },
+        {
+            "id": "43-3",
+            "text": "Tingnan ang tala 38-2 sa Marc. 1."
+        },
+        {
+            "id": "44-1",
+            "text": "Tingnan ang tala 14-2 sa Marc. 1."
+        },
+        {
+            "id": "44-2",
+            "text": "Ang ilang manuskrito ay binabasang, Galilea, tumutugon sa Marc. 1:39 at Mat. 4:23. Ang Galilea ay isang bahagi ng lupain ng mga Hudyo na karaniwang tinatawag na Judea (tingnan ang mga tala 17-2 sa kap. 7 at 5-1 sa kap. 23)."
         }
     ]
 }

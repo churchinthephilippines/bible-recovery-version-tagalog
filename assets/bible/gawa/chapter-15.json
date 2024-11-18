@@ -1,5 +1,5 @@
 {
-    "chapter": 15,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "nagsilusong",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Malibang",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "patuli",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "kaugalian",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -34,11 +34,11 @@
             "footnotes": [
                 {
                     "word": "pakikipagtuligsaan",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "Herusalem",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -49,7 +49,7 @@
             "footnotes": [
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -66,15 +66,15 @@
             "footnotes": [
                 {
                     "word": "Fariseo",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "tuliin",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "ipangilin",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -85,7 +85,7 @@
             "footnotes": [
                 {
                     "word": "nangagkatipun-",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -96,7 +96,7 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -113,7 +113,7 @@
             "footnotes": [
                 {
                     "word": "puso",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -124,7 +124,7 @@
             "footnotes": [
                 {
                     "word": "pamatok",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -135,7 +135,7 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -158,7 +158,7 @@
             "footnotes": [
                 {
                     "word": "Simeon",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -175,7 +175,7 @@
             "footnotes": [
                 {
                     "word": "tabernakulo",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -192,7 +192,7 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -215,11 +215,11 @@
             "footnotes": [
                 {
                     "word": "Moises",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -238,7 +238,7 @@
             "footnotes": [
                 {
                     "word": "Pinadadala",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -261,7 +261,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -284,7 +284,7 @@
             "footnotes": [
                 {
                     "word": "Paalam",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -307,7 +307,7 @@
             "footnotes": [
                 {
                     "word": "propeta",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -324,7 +324,7 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -361,7 +361,7 @@
             "footnotes": [
                 {
                     "word": "matinding",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -372,7 +372,7 @@
             "footnotes": [
                 {
                     "word": "yumaon,",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": [
@@ -385,6 +385,116 @@
             "text": "At kanyang tinahak ang Siria at Cilicia na pinagtitibay ang mga ekklesia.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang mga taong ito na nagsilusong mula sa Judea ay may isang matinding layunin na gamitin ang maka-Hudaismong impluwensiya sa mga mananampalatayang Hentil."
+        },
+        {
+            "id": "1-2",
+            "text": "Ito ay isang pagpapawalang-bisa ng pananampalataya sa Bagong Tipang ekonomiya ng Diyos, at ito ay talagang isang erehiya, isang taliwas na pagtuturo. Kaya, ang “ilang taong” nagtuturo ng taliwas na pagtuturo sa mga Kristiyanong kapatid ay maaaring yaong mga itinuring ni Pablo sa Gal. 2:4 na mga huwad na kapatid."
+        },
+        {
+            "id": "1-3",
+            "text": "Tingnan ang mga tala 2-1 sa kapitulo 11 at 14-1 sa kapitulo10. Ang magpatuli sa loob ng Bagong Tipang ekonomiya ng Diyos ay ang gawing walang kapakinabangan si Kristo sa mga mananampalataya."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang ipangilin ang kaugalian ni Moises, yaon ay, ang sumunod sa mga panlabas na ordinansa ng kautusan, ay hindi lamang ang ipawalang-bisa ang biyaya ng Diyos at gawing walang kabuluhan ang pagkamatay ni Kristo (Gal. 2:21), bagkus ay ang dalhin din ang mga mananampalatayang pinalaya na ni Kristo pabalik sa pagkaalipin sa ilalim ng kautusan (Gal. 5:1; 2:4)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ito ang pakikipaglaban nina Pablo at Bernabe para sa pananampalataya (Judas 3) laban sa isa sa pinakamalalaking taliwas na pagtuturo, upang ang katotohanan ng ebanghelyo ay mapanatili sa mga mananampalataya (Gal. 2:5)."
+        },
+        {
+            "id": "2-2",
+            "text": "Ito ay hindi dahil sa ang Herusalem ang punong-tanggapan ng pagkilos ng Diyos, ni hindi dahil sa ang ekklesia sa Herusalem ang punong ekklesia na namamahala sa ibang mga ekklesia, kaya sina Pablo, Bernabe, at ilang iba pa ay pumunta sa mga apostol at sa mga matanda sa Herusalem. Ito ay dahil sa ang Herusalem ang pinanggalingan ng taliwas na pagtuturo hinggil sa pagtutuli. Upang malutas ang suliraning ito at mabunot ang ugat ng kaguluhan, kinakailangang puntahan nila ang pinagmulan nito. Ayon sa Bagong Tipang ekonomiya ng Diyos, walang punong-tanggapan para sa Kanyang pagkilos sa lupa at walang punong ekklesia, gaya ng Relihiyong Romano Katolisismo, na siyang namamahala sa iba’t ibang lugar. Ang punong-tanggapan ng pagkilos ng Diyos sa loob ng Kanyang Bagong Tipang ekonomiya ay nasa mga kalangitan (Apoc. 4:2-3; 5:1), at ang namumuno sa lahat ng mga ekklesia ay si Kristo na Siyang Ulo ng ekklesia (Col. 1:18; Apoc. 2:1)."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang pagpunta sa Herusalem nina Pablo, Bernabe, at ilang iba pa ay ang pagkilos ng ekklesia at ang hindi nila pagkilos sa kanilang sarili bilang mga indibidwal. Sila ay hindi kumilos nang pansarili na hiwalay sa ekklesia, kundi nang sama-sama sa loob ng ekklesia at kasama ng ekklesia. Ito ang pagkilos ng Katawan ni Kristo."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 7-1 sa Mateo 3."
+        },
+        {
+            "id": "5-2",
+            "text": "Tingnan ang tala 1-3 ."
+        },
+        {
+            "id": "5-3",
+            "text": "Tingnan ang tala 1-4 ."
+        },
+        {
+            "id": "6-1",
+            "text": "Ito ay ang namumukod-tanging komperensiya na idinaos ng mga apostol ng pansansinukob na ekklesia at ng mga matanda ng ekklesia-lokal sa Herusalem; sila ang kapwa mga nangunguna sa Bagong Tipang pagkilos ng Panginoon sa lupa. Dito ay walang tagapangulo. Ito ay nasa ilalim ng pamumuno ng Espiritu Santo (b. 28), ng Kristong Espiritu, ng Ulo ng ekklesia (Col. 1:18), at ng Panginoon ng lahat (10:36). Ipinahihiwatig ng mga katagang “At pagkatapos ng maraming pagtatalo” (b. 7) na ang lahat sa komperensiya ay nabigyan ng kalayaang makapagsalita. Ang pasiyang ginawa ay batay sa: 1) patotoo ni Pedro na ipinamahagi niya (bb. 7-11), 2) mga tunay na pangyayaring inilahad nina Bernabe at Pablo (b. 12), at 3) pagtatapos na salita ni Santiago (bb. 13-21). Dahil sa kabanalan ni Santiago (tingnan ang tala 4-1 sa Santiago 1), naimpluwensiyahan niya ang mga mananampalataya kaya siya ay ang naging nangunguna sa mga apostol at mga matanda sa Herusalem (12:17; 21:18; Gal. 1:19; 2:9)."
+        },
+        {
+            "id": "7-1",
+            "text": "Lit. sinaunang panahon, nakaraang panahon."
+        },
+        {
+            "id": "9-1",
+            "text": "Tumutukoy na hindi pinahahalagahan ng Diyos ang mga panlabas na pambatas na ordinansa na walang kakayahang linisin ang panloob na katauhan ng tao, kundi ang panloob na paglilinis ng puso ng tao. Ito ay tumutugma sa pagbibigay-diin ng Panginoon sa Mar. 7:1-23. Ang paglilinis ng puso ng tao ay maisasagawa lamang ng Espiritu Santo kasama ng dibinong buhay, hindi ng mga panlabas na ordinansa ng mga patay na titik."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang pamatok ng kautusan ay isang panggapos sa ilalim ng pang- aalipin (Gal. 5:1 at tala 4). Ang mag- utos sa mga tao na tupdin ang kautusan ng pang-aalipin ay hindi lamang umaalipin sa mga tao kundi sinusubukan pa ang Diyos. Maging ang Diyos ay hindi hinahayaan ni hindi humihiling na tupdin ng tao ang kautusan ng mga patay na titik."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang biyayang ito ay binubuo ng Persona ng Panginoon (tingnan ang tala 21-1 sa Gal. 2) at ng Kanyang nagtutubos na gawain (Roma 3:24). Si Pedro at ang mga Hudyong mananampalataya ay nailigtas ng biyayang ito, hindi sa pamamagitan ng pagtupad sa kautusan ni Moises. Kung ang pagliligtas ng Diyos ang pag-uusapan, ang pagtupad sa kautusan ay walang kabuluhan maging sa mga Hudyo o sa mga Hentil."
+        },
+        {
+            "id": "14-1",
+            "text": "Yaon ay, si Simon (Jn. 1:40, 42)."
+        },
+        {
+            "id": "16-1",
+            "text": "Tumutukoy sa kaharian ng Israel. Ang itayo muli ang tabernakulo ni David ay ang panumbalikin ang kaharian ng Israel (1:6)."
+        },
+        {
+            "id": "18-1",
+            "text": "Lit. mula sa pagkatatag ng sanlibutan."
+        },
+        {
+            "id": "21-1",
+            "text": "Tinutukoy nito na ang pangwakas na pananalita ni Santiago ay napapailalim pa rin sa impluwensiya ng kautusan ni Moises, dahil sa kanyang mabigat na maka-Hudaismong nakaraan (tingnan ang mga tala 26-1 sa Sant. 1 at 10-1 sa Sant. 2). Ang impluwensiya ng ganitong nakaraan ay nanatili pa rin, maging sa panahon nang huling pagdalaw ni Pablo sa Herusalem (21:20- 26)."
+        },
+        {
+            "id": "21-2",
+            "text": "Tingnan ang tala 2-1 sa Sant. 2."
+        },
+        {
+            "id": "23-1",
+            "text": "Lit. isinusulat sa pamamagitan ng kanilang mga kamay."
+        },
+        {
+            "id": "26-1",
+            "text": "Lit. mga kaluluwa, hindi lamang tumutukoy sa kanilang mga buhay, kundi maging sa kanila ring buong katauhan, na kanilang ibinigay alang-alang sa pangalan ng Panginoon."
+        },
+        {
+            "id": "29-1",
+            "text": "Lit. Maging matatag kayo."
+        },
+        {
+            "id": "32-1",
+            "text": "Tingnan ang 28-3 sa 1 Cor. 12."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang bersikulo 34 ay hindi matatagpuan sa ilang manuskrito."
+        },
+        {
+            "id": "39-1",
+            "text": "Sina Bernabe at Pablo ay mga taong nag-alay ng kanilang mga buhay alang-alang sa pangalan ng Panginoon (b. 26), subali’t pagkatapos na pagkatapos ng kanilang pagwawagi sa kanilang pakikipagtunggali para sa pananampalataya laban sa taliwas na pagtuturo ng pagtutuli, nagkaroon sila ng isang malaking pagtatalo tungkol sa kamag-anak ng isa sa kanila, at ito ay humantong sa kanilang paghihiwalay. Ang responsabilidad ng suliraning ito ay nararapat na mapataw kay Bernabe, sapagka’t pagkatapos ng pangyayaring ito ay hindi na siya nababanggit pa sa maka-Diyos na talaan sa Mga Gawa ng pagkilos ng Panginoon sa loob ng Bagong Tipang ekonomiya ng Diyos. Ang dahilan ng kanyang panghihina ay maaaring dahil sa kanyang natural na kaugnayan kay Marcos, na kanyang pinsan (Col. 4:10), na humiwalay kina Bernabe at Pablo sa kanilang unang pang-ministeryong paglalakbay sa isang negatibong paraan (13:13 at tala 1). Si Marcos, sa huli, ay muling nabawi sa ministeryo ni Pablo (2 Tim. 4:11; Filemon 24), datapuwa’t si Bernabe ay hindi na. Ang magkaroon ng pagtatalo sa gitna ng mga kamanggagawa dahil sa pantaong relasyon ay isang bagay na dapat katakutan! Dapat nating tandaan ito."
+        },
+        {
+            "id": "40-1",
+            "text": "Ito ang simula ng pangalawang pangministeryong paglalakbay ni Pablo, na natapos sa 18:22."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,27 +7,27 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "panlupang",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "tabernakulo",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "gusaling",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-6"
                 }
             ],
             "outlines": [
@@ -41,15 +41,15 @@
             "footnotes": [
                 {
                     "word": "ganito",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "mabihisan",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "tahanang",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -60,7 +60,7 @@
             "footnotes": [
                 {
                     "word": "hubad.",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -71,19 +71,19 @@
             "footnotes": [
                 {
                     "word": "nangabibigatan;",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "lulunin",
-                    "note": ""
+                    "id": "4-4"
                 }
             ],
             "outlines": null
@@ -94,11 +94,11 @@
             "footnotes": [
                 {
                     "word": "gumawa",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "prenda",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -109,11 +109,11 @@
             "footnotes": [
                 {
                     "word": "nangasatahanan",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -124,11 +124,11 @@
             "footnotes": [
                 {
                     "word": "nagsisilakad",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "paningin);",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -139,7 +139,7 @@
             "footnotes": [
                 {
                     "word": "maging",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -150,11 +150,11 @@
             "footnotes": [
                 {
                     "word": "masidhing-",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": [
@@ -169,23 +169,23 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "luklukan",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "tumanggap",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "masama.",
-                    "note": ""
+                    "id": "10-5"
                 }
             ],
             "outlines": null
@@ -196,15 +196,15 @@
             "footnotes": [
                 {
                     "word": "Yamang",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "pagkatakot",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "hinihikayat",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -215,11 +215,11 @@
             "footnotes": [
                 {
                     "word": "anyo,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "puso.",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -230,11 +230,11 @@
             "footnotes": [
                 {
                     "word": "hibang,",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "matino",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -245,23 +245,23 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "pumipilit",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "ipinasiya",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "Isa",
-                    "note": ""
+                    "id": "14-4"
                 },
                 {
                     "word": "kung",
-                    "note": ""
+                    "id": "14-5"
                 }
             ],
             "outlines": null
@@ -272,11 +272,11 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -287,19 +287,19 @@
             "footnotes": [
                 {
                     "word": "Kaya",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "nakikilala",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "nakilala",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "nakikilala",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": [
@@ -313,27 +313,27 @@
             "footnotes": [
                 {
                     "word": "Kaya’t",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "dating",
-                    "note": ""
+                    "id": "17-4"
                 },
                 {
                     "word": "narito,",
-                    "note": ""
+                    "id": "17-5"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "17-6"
                 }
             ],
             "outlines": null
@@ -344,11 +344,11 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -359,11 +359,11 @@
             "footnotes": [
                 {
                     "word": "ipinagkakatiwala",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -374,11 +374,11 @@
             "footnotes": [
                 {
                     "word": "embahador,",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "makipagkasundo",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -389,22 +389,256 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "kasalanan",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "katuwiran",
-                    "note": ""
+                    "id": "21-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "21-4"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “sapagka’t” ay nagpapakita na ang tatalakayin ay isang pagpapaliwanag ng kung ano ang sinasalita sa 4:13-18. Sa kapitulong ito ay sinasabi sa atin ng apostol ang mithiin ng mga apostol para sa pagtutubos ng kanilang katawan (bb. 1-8; Roma 8:23), ang kanilang ambisyon o masidhing pagnanasa na mabigyang-kaluguran ang Panginoon (bb. 9-15), at ang kanilang pag-aatas mula sa Panginoon para sa Kanyang bagong paglikha (bb. 16-21)."
+        },
+        {
+            "id": "1-2",
+            "text": "Hindi tumutukoy na “yari sa lupa,” kundi tumutukoy na “nasa lupa.”"
+        },
+        {
+            "id": "1-3",
+            "text": "Tumutukoy sa ating pisikal na katawan, na pinananahanan ng ating persona, hindi lamang para sa pamumuhay bagkus para rin sa pagsamba sa Diyos (cf. 1 Cor. 6:19)."
+        },
+        {
+            "id": "1-4",
+            "text": "Isang gusaling may pundasyon, hindi katulad ng tabernakulo na walang pundasyon. Ang gusaling ito ay ang katawan nating bubuhaying muli at babaguhing-anyo. Ito rin ang pang-espiritwal na katawan na binanggit sa 1 Cor. 15 na kabaligtaran ng ating likas na katawan sa ngayon na unti-unting namamatay."
+        },
+        {
+            "id": "1-5",
+            "text": "Ang ating espiritwal na katawan (1 Cor. 15:44)."
+        },
+        {
+            "id": "1-6",
+            "text": "Kabaligtaran ng “nasa lupa.”"
+        },
+        {
+            "id": "2-1",
+            "text": "Tumutukoy sa tabernakulo na binanggit sa bersikulo 1."
+        },
+        {
+            "id": "2-2",
+            "text": "Yaon ay, ang mabagong-anyo at maitulad sa katawan ng kaluwalhatian ni Kristo. Ang mga apostol ay nananabik para rito."
+        },
+        {
+            "id": "2-3",
+            "text": "Tumutukoy sa bahay na nasa sangkalangitan na binanggit sa bersikulo 1."
+        },
+        {
+            "id": "3-1",
+            "text": "Yaon ay, walang katawan. Ang isang patay na tao ay naghubad na ng katawan, yaon ay hubad, walang katawan bilang isang panakip sa harap ng Diyos. Ang mga apostol ay nag-aasam na mabagong-anyo sa kanilang katawan, upang mabihisan ng isang espiritwal na katawan bago sila mamatay (sapagka’t ang mamatay ay ang mahubaran ng katawan), sa gayon ay hindi sila masusumpungang hubad sa pagsalubong sa Panginoon."
+        },
+        {
+            "id": "4-1",
+            "text": "O, nangadadaganan."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang mga apostol ay nangagsisihibik sa pagnanasang hindi mahubaran, o mawalan ng katawan, yaon ay, ang hindi mamatay kundi ang mabihisan o ang magsuot ng espiritwal na katawan, yaon ay, ang mabagong-anyo ang ating katawan (Fil. 3:21), upang ang ating katawan ay matubos (Roma 8:23)."
+        },
+        {
+            "id": "4-3",
+            "text": "Tumutukoy sa ating katawang may kamatayan (4:11; Roma 8:11; 1 Cor. 15:53)."
+        },
+        {
+            "id": "4-4",
+            "text": "Ang ating katawang may kamatayan ay nababagong-anyo sa pamamagitan ng pagkabuhay na muling buhay na lumululon sa kamatayan na nasa ating katawang may kamatayan (1 Cor. 15:54)."
+        },
+        {
+            "id": "5-1",
+            "text": "O, naghubog, naghugis, naghanda, nag-akma. Tayo ay ginawa, hinubog, hinugis, inihanda, iniakma ng Diyos para sa layuning ang ating katawang may kamatayan ay malulon ng Kanyang pagkabuhay na muling buhay. Kaya, ang ating buong katauhan ay mapupuspusan ng Kristo. Binigyan tayo ng Diyos ng Espiritu bilang prenda, pangako, tikim, garantiya, nitong kamangha-mangha at kagila-gilalas na bahagi ng Kanyang kumpletong pagliligtas sa atin sa loob ni Kristo."
+        },
+        {
+            "id": "5-2",
+            "text": "Tingnan ang tala 22-2 sa kapitulo 1."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang ating katawan ay nasa materyal na kinasasaklawan; ang Panginoon ay nasa espiritwal na kinasasaklawan. Sa ganitong pagpapakahulugan, tayo ay wala sa harapan ng Panginoon kapag tayo ay nasa ating katawan."
+        },
+        {
+            "id": "7-1",
+            "text": "Isinasaayos ng mga apostol ang kanilang buhay at ikinikilos ang kanilang mga sarili sa pamamagitan ng pananampalataya, katulad ng binanggit sa Hebreo 11, hindi sa pamamagitan niyaong nakikita. Sa ganitong paraan nila natatanto na sila ay malayo sa Panginoon habang sila ay nasa kanilang pisikal na katawan. Ito ay tumutugon sa salitang nasa 4:18."
+        },
+        {
+            "id": "7-2",
+            "text": "Yaon ay, yaong nakikita; kaya nga, paningin."
+        },
+        {
+            "id": "8-1",
+            "text": "Yaon ay, ang mamatay mula sa materyal na kinasasaklawan at makasama ng Panginoon sa espiritwal na kinasasaklawan. Mamatamisin na lang ng mga apostol na palaging pinag-uusig hanggang kamatayan (1:8-9; 4:11; 11:23; 1 Cor. 15:31), na mamatay upang mapalaya sa kanilang nagkukulong na katawan nang sa gayon ay makasama ang Panginoon sa isang higit na mainam na kinasasaklawan (Fil. 1:23)."
+        },
+        {
+            "id": "9-1",
+            "text": "Masigasig para sa isang napakadakilang pakay, nagsisikap nang mabuti upang maging kalugud-lugod sa Panginoon."
+        },
+        {
+            "id": "9-2",
+            "text": "Yaon ay, mabuhay upang manatili sa katawan, o mamatay upang makasama ang Panginoon."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang “sapagka’t” ay nagpapaliwanag ng dahilan para sa ambisyon o masidhing-pagnanasang binanggit sa bersikulo 9."
+        },
+        {
+            "id": "10-2",
+            "text": "Kung saan ay hahatulan ni Kristo ang Kanyang mga mananampalataya sa Kanyang pagbabalik; hindi nauukol sa kanilang walang hanggang kaligtasan, kundi sa kanilang pampanahunang gantimpala (1 Cor. 4:4-5; 3:13-15). Tingnan ang tala 10-1 sa Roma 14."
+        },
+        {
+            "id": "10-3",
+            "text": "Lit. ayon sa kanyang ginawa, maging mabuti o masama, tatanggap ang bawa’t isa ng ganti sa mga ginawa niya sa pamamagitan ng katawan. (Ang teknikal na salita para sa pagtanggap ng kabayaran – Alford)."
+        },
+        {
+            "id": "10-4",
+            "text": "Habang tayo ay nasa katawan pa, kailangan nating gawin ang mga bagay sa pamamagitan ng katawan upang bigyang-kaluguran ang Panginoon, sa gayon ay magagantimpalaan tayo ng Panginoon sa Kanyang pagdating."
+        },
+        {
+            "id": "10-5",
+            "text": "O, walang kabuluhan."
+        },
+        {
+            "id": "11-1",
+            "text": "Yaon ay, ang damdamin ng pagkatakot sa Panginoon. Ang “yamang” ay nagpapakita na ang damdaming ito ay dahil sa luklukan ng paghahatol ni Kristo sa bersikulo 10."
+        },
+        {
+            "id": "11-2",
+            "text": "Hindi ang pagiging nakatatakot ng Panginoon, kundi ang ating pagkatakot sa Panginoon."
+        },
+        {
+            "id": "11-3",
+            "text": "Ang mga apostol, na may damdamin ng pagkatakot sa Panginoon, ay nanghihikayat sa mga tao tungkol sa kanilang integridad, tungkol sa kung anong uring mga tao sila, tungo sa Diyos at gayundin sa mga tao; subali’t hindi nila kailangang hikayatin ang Diyos, sapagka’t kung ano sila ay nahayag na sa Diyos; gayunpaman, umaasa ang mga apostol na sila ay nahayag na rin sa mga budhi ng mga mananampalataya."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. mukha. Ang panlabas na kaanyuan ng mga maka-Hudaismo."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang lugar na kinaroroonan ng katapatan at realidad ng mga kagalingan."
+        },
+        {
+            "id": "13-1",
+            "text": "Yaon ay, baliw dahil sa kaluwalhatian ng Diyos tulad sa isang hangal na tao (Gawa 26:24-25). Ang ekstasi o masidhing kagalakan ng mga apostol ay hindi isang kagalakan ng kahangalan, kundi ito ay tungkol sa Diyos at kasama ang Diyos para sa Kanyang kaluwalhatian."
+        },
+        {
+            "id": "13-2",
+            "text": "Napipigilan ang sarili para sa kabutihan ng iba sa loob ng pag-ibig."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang pag-ibig ni Kristo tungo sa atin, na nahayag sa krus sa pamamagitan ng Kanyang pagkamatay para sa atin (Gal. 2:20)."
+        },
+        {
+            "id": "14-3",
+            "text": "Yaon ay, napagpasiyahan (maaaring sa panahon ng pagbabalik-loob)."
+        },
+        {
+            "id": "14-4",
+            "text": "Ang mapagmahal na kamatayan ni Kristo ay ang nag-uudyok na salik ng pagiging napilit ng mga apostol na mamuhay ng isang mapagmahal na buhay para sa Kanya."
+        },
+        {
+            "id": "14-5",
+            "text": "Yamang si Kristo ay namatay bilang ating kahalili, nagdusa ng hatol ng kamatayan para sa kapakanan nating lahat, sa mga mata ng Diyos tayong lahat ay nangamatay na. Kaya, hindi na tayo kailangang mamatay katulad ng inilaan para sa mga tao (Heb. 9:27)."
+        },
+        {
+            "id": "15-1",
+            "text": "Hindi lamang tayo iniligtas ng kamatayan ni Kristo mula sa kamatayan upang hindi na tayo kailangang mamatay, bagkus ay sinasanhi rin tayo, sa pamamagitan ng Kanyang pagkabuhay na muli, na huwag nang mabuhay tungo sa ating mga sarili kundi tungo sa Kanya."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang “mabuhay tungo sa Kanya (Panginoon)” ay higit na malalim ang kahulugan kaysa sa “mabuhay para sa Kanya (Panginoon).” Ang “mabuhay para sa Panginoon” ay nagtataglay ng kahulugan na ako at ang Panginoon ay dalawa; samantalang ang “mabuhay tungo sa Panginoon” ay tumutukoy na ako at ang Panginoon ay iisa katulad ng buhay may-asawa na kung saan ang asawang babae at ang asawang lalake ay iisa."
+        },
+        {
+            "id": "16-1",
+            "text": "Yamang hinahatulan ng mga apostol na ginagawa tayong lahat ng kamatayan ni Kristo, sa pamamagitan ng Kanyang pagkabuhay na muli, na isang bagong tao, isang taong hindi ayon sa laman, sila mula ngayon ay hindi na kumikilala sa sinuman ayon sa laman. Nakilala nila si Kristo ayon sa laman noon, subali’t sa ngayon ay hindi na nila Siya nakikilala sa ganitong paraan."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang unang “nakikilala” ay tumutukoy sa subhektibong pagkaalam; ang ikalawa at ikatlong “nakikilala” ay tumutukoy sa panlabas na obhektibong kaalaman. Tingnan ang tala 6-1 sa Roma 6."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay nagpapatibay sa nabanggit sa naunang bersikulo. Hindi na kinikilala ng mga apostol ang tao ayon sa laman, sapagka’t ang sinumang nasa loob na ni Kristo ay isang bagong nilalang; ang mga dating bagay ng laman ay nagsilipas na sa pamamagitan ng kamatayan ni Kristo, at lahat ay pawang naging bago sa loob ng pagkabuhay na muli ni Kristo."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang “nasa loob ni Kristo” ay ang makipag-isa sa Kanya sa buhay at sa kalikasan. Ito ay pawang sa Diyos sa pamamagitan ng ating pananampalataya kay Kristo (1 Cor. 1:30; Gal. 3:26-28)."
+        },
+        {
+            "id": "17-3",
+            "text": "Ang lumang nilalang ay hindi nagtataglay ng dibinong buhay at kalikasan, subali’t ang bagong nilalang, ang mga mananampalatayang isinilang na muli ng Diyos, ay nagtataglay ng dibinong buhay at kalikasan (Juan 1:13; 3:15; 2 Ped. 1:4). Kaya, sila ay isang bagong nilalang (Gal. 6:15), hindi ayon sa lumang kalikasan ng laman, kundi ayon sa bagong kalikasan ng dibinong buhay."
+        },
+        {
+            "id": "17-4",
+            "text": "O, sinauna."
+        },
+        {
+            "id": "17-5",
+            "text": "Isang pagtawag upang masdan ang kagila-gilalas na pagbabago ng bagong nilalang."
+        },
+        {
+            "id": "17-6",
+            "text": "Ang “ang mga ito” rito ay tumutukoy sa mga dating bagay."
+        },
+        {
+            "id": "18-1",
+            "text": "Tumutukoy sa lahat ng mga positibong bagay na binanggit sa mga bersikulo 14-21, na kung saan ang Diyos ang Pinagmumulan at Tagapagsimula. Ang pagkamatay ni Kristo upang iligtas tayo mula sa kamatayan nang sa gayon tayo ay mabuhay tungo sa Kanya ay mula sa Diyos. Ang ating pagiging isang bagong nilalang sa loob ni Kristo ay mula sa Diyos. Ang paggawa kay Kristong maging kasalanan para sa atin upang tayo ay maging katuwiran ng Diyos sa loob Niya ay mula sa Diyos. Ang ipagkasundo ang sanlibutan sa Kanyang Sarili ay mula sa Diyos. At ang paggawa sa mga apostol na maging mga embahador ni Kristo, naatasan upang kumatawan sa Kanya para sa pagkakasundo ng mga tao sa Diyos, sa gayon ay maging katuwiran sila ng Diyos at maging isang bagong nilalang para sa katuparan ng walang hanggang layunin ng Diyos, ay mula sa Diyos."
+        },
+        {
+            "id": "18-2",
+            "text": "Lit. galing sa."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang salita ay para sa ministeryo (b. 18)."
+        },
+        {
+            "id": "19-2",
+            "text": "Lit. inilalagay sa loob namin."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang mga apostol ay inatasan ng isang tiyak na ministeryo, kinakatawan si Kristo upang isakatuparan ang layunin ng Diyos."
+        },
+        {
+            "id": "20-2",
+            "text": "Sa bersikulo 19, ang sanlibutan ang siyang ipakikipagkasundo sa Diyos; sa bersikulong ito, ang mga mananampalataya, yaong mga naipagkasundo na sa Diyos, ang siyang ipakikipagkasundo sa Kanya nang higit. Ito ay malinaw na nagpapakita na may dalawang hakbang para sa mga tao upang maging lubusang naipagkasundo sa Diyos. Ang unang hakbang ay bilang mga makasalanang naipagkasundo sa Diyos sa paglisan sa mga kasalanan. Para sa layuning ito si Kristo ay namatay para sa ating mga kasalanan (1 Cor. 15:3) upang ang mga ito ay mapatawad ng Diyos. Ito ang obhektibong panig ng kamatayan ni Kristo. Sa panig na ito, dinala Niya ang ating mga kasalanan sa krus at tinanggap ang kahatulan ng Diyos para sa atin. Ang ikalawang hakbang ay bilang mga mananampalatayang namumuhay sa likas na buhay na kinakailangang lumisan sa laman upang maipagkasundo sa Diyos. Para sa layuning ito si Kristo ay namatay para sa atin—na mga tao—upang tayo ay mabuhay tungo sa Kanya sa loob ng pagkabuhay na muling buhay (bb. 14-15). Ito ang subhektibong panig ng kamatayan ni Kristo. Sa panig na ito, Siya ay ginawang kasalanan para sa atin upang hatulan at tapusin ng Diyos nang sa gayon tayo sa loob Niya ay maging katuwiran ng Diyos. Sa pamamagitan ng dalawang panig ng Kanyang kamatayan ay ganap Niyang naipagkasundo sa Diyos ang mga piniling tao ng Diyos. Ang dalawang hakbang ng pakikipagkasundo ay malinaw na inilarawan ng dalawang tabing ng tabernakulo. Ang unang tabing ay ang iskreen (sa Ingles, screen, Exo. 26:37, lit.). Ang isang makasalanan ay dinadala sa Diyos sa pamamagitan ng pakikipagkasundo ng nagbabayad-pinsalang dugo upang makapasok sa loob ng Dakong Banal sa pamamagitan ng pagdaraan sa tabing na iskreen. Ito ay sumasagisag sa unang hakbang ng pakikipagkasundo. Ang ikalawang tabing o lambong (Exo. 26:31-35; Heb. 9:3) ay naghihiwalay pa rin sa kanya sa Diyos na nasa Dakong Kabanal-banalan. Ang tabing na ito ay kinakailangang mahapak upang siya ay madala sa Diyos sa Dakong Kabanal-banalan. Ito ang ikalawang hakbang ng pakikipagkasundo. Ang mga mananampalatayang taga-Corinto ay naipagkasundo na sa Diyos sapagka’t sila ay nakaraan na sa unang tabing at nakapasok na sa loob ng Dakong Banal, subali’t sila ay nabubuhay pa rin sa laman. Kinakailangan nilang dumaan sa ikalawang tabing na nahapak na (Mat. 27:51; Heb. 10:20) upang makapasok sa loob ng Dakong Kabanal-banalan nang sa gayon ay makapamuhay kasama ng Diyos sa kanilang espiritu (1 Cor. 6:17). Ang layunin ng Sulat na ito ay ang dalhin sila rito upang sila ay maging mga taong nasa espiritu (1 Cor. 2:14), mga taong nasa Dakong Kabanal-banalan. Ito ang ibig sabihin ng apostol sa pagsasabi ng “Kayo ay makipagkasundo sa Diyos.” Ito ay upang maihandog silang mga lumago na nang-lubusan kay Kristo (Col. 1:28)."
+        },
+        {
+            "id": "21-1",
+            "text": "Si Kristo ay hindi nakakilala ng kasalanan sa isang nararanasang paraan sa pamamagitan ng pakikipag-ugnay o personal na karanasan (cf. Juan 8:46; 1 Ped. 2:22; Heb. 4:15; 7:26)."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang kasalanan ay nagmula kay Satanas, ang nagrebelde sa Diyos (Isa. 14:12-14), pumasok sa loob ng tao (Roma 5:12), at ginawa ang taong hindi lamang isang makasalanan kundi kasalanan mismo na nasa ilalim ng paghahatol ng Diyos. Kaya, nang si Kristo ay naging tao sa laman (Juan 1:14), Siya ay ginawang kasalanan at hindi may kasalanan dahil sa atin upang mahatulan ng Diyos (Roma 8:3) nang sa gayon tayo ay maging katuwiran ng Diyos sa loob Niya."
+        },
+        {
+            "id": "21-3",
+            "text": "Ang katuwiran ay nagmumula sa Diyos para sa Kanyang pangangasiwa (Awit 89:14; 97:2; Isa. 32:1), na Siyang si Kristo upang maging ating katuwiran (Fil. 3:9; 1 Cor. 1:30), nang sa gayon sa loob Niya tayo ay maging katuwiran ng Diyos (hindi ang maging matuwid sa harap ng Diyos). Sa pamamagitan ng Kanyang pagtutubos, ang tao bilang isang makasalanan, samakatwid ay bilang kasalanan, ay naging katuwiran ng Diyos, naipagkasundo sa matuwid na Diyos, at naging isang bagong nilalang na nabubuhay tungo sa Kanya para sa walang hanggang layunin ng Diyos. Ang mga apostol ay inatasan upang maghain ng gayong Kristo, kasama ang lahat ng maluluwalhating kinalabasan ng Kanyang kahanga-hangang naisakatuparan sa mga mananampalataya na mga sangkap na bumubuo ng Kanyang Katawan. Suma Kanya ang papuri at kaluwalhatian magpakailanman!"
+        },
+        {
+            "id": "21-4",
+            "text": "Yaon ay, sa pakikipag-isa sa Kanya, hindi lamang sa pangkatayuan, bagkus maging sa pang-organiko sa loob ng pagkabuhay na muli. Tayo ay mga dating kaaway ng Diyos (Col. 1:21) sa dahilang tayo ay naging kasalanan, (ang kasalanan ay nagmula sa nagrebelde sa Diyos). Sa pamamagitan ng pagiging laman ni Kristo, naging kaisa natin Siya sa loob ng laman at naging kasalanan para sa atin. Sa pamamagitan ng Kanyang kamatayan, hinatulan ng Diyos si Kristo na naging kasalanan para sa atin upang tayo ay maging kaisa Niya sa Kanyang pagkabuhay na muli nang sa gayon tayo ay maging katuwiran ng Diyos. Sa pamamagitan ng katuwirang ito, tayo, na mga kaaway ng Diyos, ay maaari nang maipagkasundo sa Diyos at naipagkasundo na sa Diyos (bb. 18-20; Roma 5:10)."
         }
     ]
 }

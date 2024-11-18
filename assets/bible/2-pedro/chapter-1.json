@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,43 +7,43 @@
             "footnotes": [
                 {
                     "word": "Simon",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "alipin",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "inukulan",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "magkakatulad",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "1-6"
                 },
                 {
                     "word": "namin",
-                    "note": ""
+                    "id": "1-7"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-8"
                 },
                 {
                     "word": "katuwiran",
-                    "note": ""
+                    "id": "1-9"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -58,19 +58,19 @@
             "footnotes": [
                 {
                     "word": "maparami",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "pagkakilala",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "Hesus",
-                    "note": ""
+                    "id": "2-4"
                 }
             ],
             "outlines": null
@@ -81,47 +81,47 @@
             "footnotes": [
                 {
                     "word": "ipinagkaloob",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "dibinong",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "3-4"
                 },
                 {
                     "word": "pagkamakadiyos,",
-                    "note": ""
+                    "id": "3-5"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "3-6"
                 },
                 {
                     "word": "lubos",
-                    "note": ""
+                    "id": "3-7"
                 },
                 {
                     "word": "Kanya",
-                    "note": ""
+                    "id": "3-8"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "3-9"
                 },
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "kagalingan,",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": [
@@ -137,31 +137,31 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "napakadakilang",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-4"
                 },
                 {
                     "word": "yamang",
-                    "note": ""
+                    "id": "4-5"
                 },
                 {
                     "word": "kabulukang",
-                    "note": ""
+                    "id": "4-6"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "4-7"
                 }
             ],
             "outlines": null
@@ -172,23 +172,23 @@
             "footnotes": [
                 {
                     "word": "pagkaragdag",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "magtustos",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "kagalingan,",
-                    "note": ""
+                    "id": "5-4"
                 },
                 {
                     "word": "kaalaman,",
-                    "note": ""
+                    "id": "5-5"
                 }
             ],
             "outlines": [
@@ -202,15 +202,15 @@
             "footnotes": [
                 {
                     "word": "pagpipigil-",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "pagtitiis,",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "pagkamakadiyos,",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -221,11 +221,11 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -236,35 +236,35 @@
             "footnotes": [
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "nananagana,",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "mabubuuang",
-                    "note": ""
+                    "id": "8-4"
                 },
                 {
                     "word": "tamad",
-                    "note": ""
+                    "id": "8-5"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "8-6"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "8-7"
                 },
                 {
                     "word": "pagkakilala",
-                    "note": ""
+                    "id": "8-8"
                 }
             ],
             "outlines": null
@@ -275,15 +275,15 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "nakikita",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "nakalimot",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -294,15 +294,15 @@
             "footnotes": [
                 {
                     "word": "Kaya,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "magpakatatag",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -313,11 +313,11 @@
             "footnotes": [
                 {
                     "word": "itutustos",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -328,7 +328,7 @@
             "footnotes": [
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -342,7 +342,7 @@
             "footnotes": [
                 {
                     "word": "tabernakulong",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -353,11 +353,11 @@
             "footnotes": [
                 {
                     "word": "paghuhubad",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "rin",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -368,7 +368,7 @@
             "footnotes": [
                 {
                     "word": "exodo",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -379,23 +379,23 @@
             "footnotes": [
                 {
                     "word": "nagsisunod",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "kathang",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "pagparito",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "saksing",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "kamaharlikahan.",
-                    "note": ""
+                    "id": "16-5"
                 }
             ],
             "outlines": null
@@ -406,7 +406,7 @@
             "footnotes": [
                 {
                     "word": "maringal",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -423,19 +423,19 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "ilawang",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "dakong",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "pagbubukang-",
-                    "note": ""
+                    "id": "19-4"
                 }
             ],
             "outlines": [
@@ -448,11 +448,11 @@
             "footnotes": [
                 {
                     "word": "sariling",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "pagpapaliwanag;",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -463,18 +463,328 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "dinala",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "dinadala",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang Simon ay ang lumang pangalan ni Pedro, tumutukoy sa kanyang lumang tao sa kapanganakan; ang Pedro ay ang bagong pangalan na ibinigay sa kanya ng Panginoon (Juan 1:41-42), tumutukoy sa kanyang bagong tao sa pagkasilang na muli. Ang dalawang pangalan ay pinagsama rito bilang isa, sumasagisag na ang lumang taong si Simon ay naging ang bagong taong si Pedro."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “alipin” ay nagpapakita ng pagpapasakop ni Pedro sa Panginoon at ang “apostol” naman ay nagpapakita ng pag-aatas ng Panginoon kay Pedro."
+        },
+        {
+            "id": "1-3",
+            "text": "Tumutukoy sa mga mananampalatayang Hudyo na nasa pangangalat sa lupaing Hentil (1 Ped. 1:1)."
+        },
+        {
+            "id": "1-4",
+            "text": "Katulad ng pagkakaroon ng mga anak ni Israel ng kanya-kanyang bahagi sa mabuting lupa (Jos. 13:6; 14:1-5; 19:51). Ito ay nagpapakita na ang lahat ng bagay na may kaugnayan sa buhay at pagkamakadiyos (b. 3), kabilang na ang dibinong kalikasan (b. 4) na nabahagi ng mga mananampalataya sa pamamagitan ng magkakatulad na mahalagang pananampalataya ayon sa mga mahalaga at napakadakilang pangako, ay ang mga tunay na pamana na ibinigay ng Diyos sa mga mananampalataya sa Bagong Tipan."
+        },
+        {
+            "id": "1-5",
+            "text": "Lit. ukol sa parehong kahalagahan o pagpapahalaga o karangalan; kaya, parehong mahalaga. Hindi magkapareho sa sukat, subali’t magkapareho sa kahalagahan at karangalan sa lahat ng mga nagsisitanggap."
+        },
+        {
+            "id": "1-6",
+            "text": "Ang pananampalataya ay ang pagsusubstansiya sa nilalaman ng katotohanan (Heb. 11:1), na siyang realidad ng mga nilalaman ng Bagong Tipang ekonomiya. Ang mga nilalaman ng Bagong Tipang ekonomiya ay binubuo ng “lahat ng bagay na may kaugnayan sa buhay at sa pagkamakadiyos” (b. 3), yaon ay, ang Tres-unong Diyos na namamahagi ng Kanyang Sarili paloob sa atin bilang buhay sa loob at pagkamakadiyos sa labas (tingnan ang mga bilang 1, 2, 4, 5, at ang huling talata ng tala 1-1 sa 1 Tim. 1). Ang magkakatulad na mahalagang pananampalataya, na ibinahagi sa atin ng Diyos sa pamamagitan ng salita ng Bagong Tipang ekonomiya at ng Espiritu, ay tumutugon sa realidad ng mga gayong nilalaman at naghahatid sa atin paloob sa realidad, ginagawa ang nilalaman nito na mismong elemento ng ating buhay-Kristiyano at karanasan. Ang gayong pananampalataya ay ibinahagi sa lahat ng mga nananampalataya kay Kristo bilang kanilang bahagi, na parehong mahalaga sa lahat ng mga tumanggap nito. Bilang gayong bahagi mula sa Diyos, ang pananampalatayang ito ay obhektibo sa atin sa dibinong katotohanan. Subali’t dinadala nito ang lahat ng mga nilalaman ng pagsusubstansiya nito paloob sa atin, sa gayon ginagawa ang lahat ng mga ito sa sarili nito (pananampalataya) na subhektibo sa atin sa ating karanasan. Ito ay katulad ng, ang tanawin (katotohanan) at ang pagtingin (pananampalataya) ay obhektibo sa kamera (tayo). Subali’t kapag ang liwanag (ang Espiritu) ay nagdala ng tanawin sa pilm (ating espiritu) sa loob ng kamera, kapwa ang pagkakita at ang tanawin ay nagiging subhektibo rito."
+        },
+        {
+            "id": "1-7",
+            "text": "Tumutukoy kay Apostol Pedro at sa lahat ng iba pang mananampalataya sa lupain ng mga Hudyo. Ang lahat ng mga mananampalataya sa sanlibutang Hentil ay nakikibahagi sa mga yaong nasa lupain ng mga Hudyo ng magkakatulad na mahalagang pananampalataya upang patunayan ang pagpapala ng buhay ng Bagong Tipan bilang kanilang panlahat na bahagi na iniukol sa kanila ng Diyos."
+        },
+        {
+            "id": "1-8",
+            "text": "O, sa kinasasakupan ng katuwiran ng ating Diyos at Tagapagligtas na si Hesu-Kristo."
+        },
+        {
+            "id": "1-9",
+            "text": "O, katarungan. Ang ating Diyos ay matuwid, makatarungan. Ibinahagi Niya nang pantay-pantay ang mahalagang pananampalataya bilang isang dibinong bahagi sa lahat ng mga mananampalataya kay Kristo, kapwa sa Hudyo at Hentil, nang walang taong itinatangi. At ngayon Siya ay hindi lamang ang ating Diyos bagkus ang atin ding Tagapagligtas. Kaya, ang Kanyang katuwiran ngayon ay hindi ang katuwiran lamang ng Diyos, ni ang kay Kristo lamang, kundi ang katuwiran kapwa ng ating Diyos at ng ating Tagapagligtas na si Hesu-Kristo. Bilang ating Tagapagligtas, ang Kanyang katuwiran ay ang Kanyang matuwid na gawi, ang kamatayan Niya sa krus sa ganap na pagsunod (Fil. 2:8), na nagsakatuparan ng pagtubos sa atin (Heb. 9:12) upang tayo ay ariing-matuwid ng Diyos (Roma 5:18). Bilang ating Diyos, ang Kanyang katuwiran ay ang Kanyang katarungan, na batay roon sa matuwid na gawi, ang pagtubos ng ating Tagapagligtas na si Hesu-Kristo (Roma 3:24-25) ay nag-aaring matuwid sa lahat ng mga mananampalataya kay Kristo (Roma 3:26), kapwa Hudyo at Hentil (Roma 3:30). Sa loob at sa pamamagitan ng gayong dalawang ulit na katuwiran, ang katuwiran kapwa ng ating Diyos at ating Tagapagligtas na si Hesu-Kristo, ang mahalagang pananampalataya, ang mahalagang pagsusubstansiya ng Bagong Tipang pagpapala, ay ibinahagi nang pantay-pantay sa lahat ng mga mananampalataya sa lahat ng mga bansa."
+        },
+        {
+            "id": "1-10",
+            "text": "Ang Diyos at ang Tagapagligtas ay kapwa si Hesu-Kristo. Ito ay nangangahulugang si Hesu-Kristo ay Diyos upang maging ating Tagapagligtas. Siya ay ang mismong Diyos na sinasamba natin, naging Tagapagligtas upang magligtas sa atin. Ito ang nagpakilala at nagbukod sa mga nananampalataya kay Kristo mula sa mga Hudyo na hindi naniwala na Diyos si Hesu-Kristo; ito rin ang nagbukod sa mga mananampalataya mula sa mga Romano na naniwala na si Cesar at hindi si Hesu-Kristo, ang kanilang Diyos, noong kapanahunan ni Pedro."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang biyaya at kapayapaan ay dumating sa atin sa pamamagitan ng pananampalatayang ibinahagi ng Diyos, na nagsusubstansiya sa pagpapala ng buhay sa Bagong Tipan (b. 1). Ang pananampalatayang ito ay inilalin sa atin sa pamamagitan ng salita ng Diyos, na naghahatid sa atin ng tunay na pagkakilala sa Diyos at kay Hesus na ating Panginoon. Sa kinasasakupan, sa kaparaanan, ng lubos na pagkakilala, ang dumarami at naparaming pagkakilala, sa Diyos at kay Hesus na ating Panginoon, ang biyaya at kapayapaan na ating tinanggap, ay mapararami."
+        },
+        {
+            "id": "2-2",
+            "text": "Sa kinasasakupan ng ganitong lubos na pagkakilala, sa pamamagitan ng ganitong pagkakilala."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang lubos na pagkakilala sa Tres-unong Diyos ay para sa ating pakikibahagi at pagtatamasa sa Kanyang dibinong buhay at dibinong kalikasan. Ito ay salungat sa pumapatay na kaalaman ng pantaong lohika ng pilosopiya, na dumagsa sa ekklesia sa panahon ng pagtalikod nito sa katotohanan."
+        },
+        {
+            "id": "2-4",
+            "text": "Ang ilang manuskrito ay nababasang, Hesu-Kristo na ating Panginoon."
+        },
+        {
+            "id": "3-1",
+            "text": "Yaon ay, ipinamahagi, inilalin, at itinanim paloob sa atin ng nagpapaloob-ng-lahat na Espiritung nagbibigay-buhay, na nagsisilang muli sa atin at nananahanan sa atin (2 Cor. 3:6, 17; Juan 3:6; Roma 8:11)."
+        },
+        {
+            "id": "3-2",
+            "text": "Ipinapakita sa kapitulo dalawa na ang Sulat na ito, katulad ng 2 Timoteo, 2 Juan, 3 Juan, at Judas, ay isinulat sa kapanahunan ng pagbaba at pagtalikod-sa-katotohanan ng ekklesia. Kaya, ang nagpapaligid-na-pangyayari sa pagkasulat ng aklat na ito ay ang pagtalikod-sa-katotohanan. Ang kabigatan ng sumulat ay ang magbakuna sa mga mananampalataya laban sa lason ng pagtalikod-sa-katotohanan. Ang pagliligtas ng Diyos ay ang ipamahagi ang Kanyang Sarili sa Kanyang Trinidad paloob sa mga mananampalataya upang maging kanilang buhay at panustos ng buhay. Ito ang ekonomiya ng Diyos, plano ng Diyos. Ang bagay na pagtalikod-sa-katotohanan ay gumambala sa mga mananampalataya mula sa ekonomiya ng Diyos sa pagbubunsod sa kanila paloob sa pantaong lohika ng mga nakalilitong pilosopiya. Ito ay hindi ang pagsasanay ng pakikibahagi sa puno ng buhay na nagbibigay-buhay, kundi ang pakikibahagi sa puno ng kaalaman na naghahatid ng kamatayan (Gen. 2:9, 16-17). Sa gayon dinaya at nilinlang ng ahas si Eva (Gen. 3:1-6). Upang makapagbakuna laban sa ganitong nakamamatay na lason sa kanyang naglulunas na Sulat, unang inihatol ng apostol ang dibinong kapangyarihan bilang ang pinakamalakas at pinakamabisang pangontra. Ito ang nagbibigay sa mga mananampalataya ng lahat ng bagay na may kaugnayan sa nagpapasibol at nagtutustos na dibinong buhay (hindi ang pumapatay na kaalaman) at ng kabanalang naghahayag sa Diyos (hindi ang pagpapakita ng pantaong karunungan). Ang mayamang dibinong panlaan, na tinalakay ng detalye sa mga sumusunod na bersikulo (hanggang b. 11), ay higit sa sapat para sa mga mananampalataya na mabuhay ng isang wastong buhay-Kristiyano at madaig ang makasatanas na pagtalikod-sa-katotohanan. Ipinapakahulugan ng “dibino” ang pagiging walang hanggan, ang pagiging hindi nalilimitahan, at ang makapangyarihang dibinidad ng Diyos. Kaya, ang dibinong kapangyarihan ay ang kapangyarihan ng dibinong buhay na may kaugnayan sa dibinong kalikasan."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang lahat ng bagay na may kaugnayan sa buhay at pagkamakadiyos ay ang iba’t ibang aspekto ng dibinong buhay, na sinagisag ng mga kayamanan ng ani ng mabuting lupa sa Lumang Tipan. Ang mga ito ay ang mga substansiya ng pagbibigay-patunay ng ating pananampalataya na iniukol ng Diyos sa atin bilang ating bahagi para sa ating mana."
+        },
+        {
+            "id": "3-4",
+            "text": "Ang buhay ay nasa loob para tayo ay mabuhay, at ang pagkamakadiyos ay nasa labas bilang panlabas na kahayagan ng panloob na buhay. Ang buhay ay ang panloob na enerhiya, panloob na kalakasan, upang magbunga ng panlabas na pagkamakadiyos, na tumutungo at nagreresulta sa kaluwalhatian."
+        },
+        {
+            "id": "3-5",
+            "text": "Tingnan ang tala 2-2 sa 1 Timoteo 2."
+        },
+        {
+            "id": "3-6",
+            "text": "Ang pamamahagi ng lahat ng bagay ukol sa buhay tungo sa loob natin ay sa pamamagitan ng lubos na pagkakilala sa Diyos, na inihatid at inihayag sa atin sa pamamagitan ng Kanyang salita. Ito ang nagiging obhektibong pananampalataya na nagbubunga ng ating subhektibong pananampalataya."
+        },
+        {
+            "id": "3-7",
+            "text": "Ito ay tumutukoy sa lubos na pagkakilala sa pangkaranasan."
+        },
+        {
+            "id": "3-8",
+            "text": "Tumutukoy sa Diyos na ating Tagapagligtas at sa ating Panginoong Hesu-Kristo (bb. 1, 2). Tinawag Niya tayo sa Kanyang kaluwalhatian at kagalingan sa pamamagitan ng Kanyang kaluwalhatian at kagalingan. Nakita ng mga disipulo ang Kanyang kaluwalhatian at kagalingan (b. 16; Juan 1:14) at naakit ng mga ito. Sa gayon, sa pamamagitan ng kaluwalhatian at kagalingang ito, sila ay tinawag Niya sa kaluwalhatian at kagalingang ito. Ang lahat ng mga mananampalataya ni Kristo ay sa gayunding paraan tinawag at naakit."
+        },
+        {
+            "id": "3-9",
+            "text": "O, ng, sa pamamagitan ng."
+        },
+        {
+            "id": "3-10",
+            "text": "Yaon ay, ang kahayagan ng Diyos, ang Diyos na nahayag sa kaningningan."
+        },
+        {
+            "id": "3-11",
+            "text": "Lit. kahusayan (tingnan ang tala 8-7 sa Fil. 4), ipinapakahulugan ang enerhiya ng buhay upang daigin ang lahat ng mga hadlang at ipatupad ang lahat ng mga mahusay na katangian. Ang kaluwalhatian ay ang dibinong layunin; ang kagalingan ay ang enerhiya at kalakasan ng buhay upang maabot ang layunin. Ang kagalingang ito, kasama ang lahat ng bagay na may kaugnayan sa buhay, ay ibinigay sa atin sa pamamagitan ng dibinong kapangyarihan, subali’t nangangailangan itong mapaunlad patungo sa kaluwalhatian."
+        },
+        {
+            "id": "4-1",
+            "text": "O, dahil sa, batay sa. Gr. dia , may pakahulugan ng pagiging sanhi."
+        },
+        {
+            "id": "4-2",
+            "text": "Ginamit na ng Panginoon ang Kanyang kaluwalhatian at kagalingan sa pagtawag sa atin; tinawag na tayo ng Panginoon tungo sa Kanyang kaluwalhatian at kagalingan; sa pamamagitan at batay sa ganitong kaluwalhatian at kagalingan, ibinigay na ng Panginoon sa atin ang Kanyang mga mahalaga at napakadakilang pangako, katulad sa Mat. 28:20; Juan 6:57; 7:38-39; 10:28-29; 14:19-20, 23; 15:5; at 16:13-15. Ang lahat ng pangakong ito ay isinasakatuparan ng Kanyang pambuhay na kapangyarihan, bilang mahusay na kagalingan, sa Kanyang mga mananampalataya nang unti-unti hanggang umabot sa Kanyang kaluwalhatian."
+        },
+        {
+            "id": "4-3",
+            "text": "Lit. pinakadakila."
+        },
+        {
+            "id": "4-4",
+            "text": "Sa pamamagitan ng mga mahalaga at napakadakilang pangako, tayo, ang mga mananampalataya ni Kristo na ating Diyos at Tagapagligtas, ay naging mga kabahagi sa Kanyang dibinong kalikasan sa isang organikong pakikipag-isa sa Kanya, na ating pinasukan sa pamamagitan ng pananampalataya at bautismo (Juan 3:15; Gal. 3:27; Mat. 28:19). Ang kagalingan (enerhiya ng buhay) ng dibinong kalikasang ito ang naghahatid sa atin paloob sa Kanyang kaluwalhatian (pagkamakadiyos na nagiging buong kahayagan ng Tres-unong Diyos)."
+        },
+        {
+            "id": "4-5",
+            "text": "Sa kanyang unang Sulat, sinabi ng apostol sa mga mananampalataya na tinubos na sila ni Kristo mula sa kanilang walang kabuluhang paraan ng pamumuhay (1 Ped. 1:18-19), upang sila ay makaiwas mula sa masasamang pita ng laman (1 Ped. 2:11) at hindi na mabuhay sa laman sa mga pita ng mga tao (1 Ped. 4:2). Ngayon, sa kanyang ikalawang Sulat, ipinapakita niya sa kanila ang enerhiya, ang kalakasan, na nakapagsasanhi sa kanila na matakasan ang kasamaan sa pita, at ang resulta ng pagtakas na ito. Ang enerhiya ay ang kagalingan ng dibinong buhay, at ang resulta ay ang magkaroon ng bahagi sa dibinong kalikasan ng Diyos, ang magtamasa sa lahat ng mga kayamanan ng kung ano ang Tres-unong Diyos. Sa pakikibahagi sa dibinong kalikasan at sa pagtatamasa sa lahat ng kung ano ang Diyos, ang lahat ng mga kayamanan ng dibinong kalikasan ay lubusang mapauunlad, katulad ng inilarawan sa bb. 5-7. Yamang tayo ay nakatakas na sa kasamaan ng pita sa sanlibutan, at naalis na ang mga hadlang sa paglago ng dibinong buhay na nasa loob natin, tayo ay napalaya upang maging mga kabahagi sa dibinong kalikasan, nagtatamasa sa mga kayamanan nito sa pag-unlad nito hanggang sa ganap na antas sa pamamagitan ng kagalingan ng Diyos tungo sa Kanyang kaluwalhatian."
+        },
+        {
+            "id": "4-6",
+            "text": "Tingnan ang tala 1-6 , punto 3, sa kap. 2."
+        },
+        {
+            "id": "4-7",
+            "text": "O, nasa masamang pita."
+        },
+        {
+            "id": "5-1",
+            "text": "Maliban sa mga mahalaga at napakadakilang pangako na ibinigay sa atin ng Diyos, dapat pa tayong magdala ng lubos na kasipagan upang makipagtulungan sa pagbibigay-kakayahan ng malakas na dibinong kalikasan para sa pagsasakatuparan ng mga pangako ng Diyos."
+        },
+        {
+            "id": "5-2",
+            "text": "Tingnan ang tala 19-2 sa Fil. 1. Ang ibinigay sa atin ng dibinong kapangyarihan sa bb. 3-4 ay pinaunlad sa bb. 5-7. Ang magtustos ng kagalingan sa pananampalataya ay ang paunlarin ang kagalingan sa paggamit ng pananampalataya. Ang gayundin ay nagagamit sa lahat ng iba pang mga aytem."
+        },
+        {
+            "id": "5-3",
+            "text": "Ito ay ang magkakatulad na mahalagang pananampalataya na iniukol sa atin ng Diyos (b. 1) bilang ang panlahat na bahagi ng pagpapala ng buhay sa Bagong Tipan para sa pagsisimula ng buhay-Kristiyano. Ang pananampalatayang ito ay kinakailangang ensayuhin upang ang kagalingan ng dibinong buhay ay mapaunlad sa mga sumusunod na hakbang upang maabot ang kagulangan nito."
+        },
+        {
+            "id": "5-4",
+            "text": "Lit. kahusayan (tingnan ang tala 8-7 sa Fil. 4), tumutukoy sa enerhiya ng dibinong buhay na nagbubunga ng pagkilos na may buháy na lakas (cf. tala 3-11 )."
+        },
+        {
+            "id": "5-5",
+            "text": "Ang kagalingan, yaon ay, ang pagkilos na may buháy na lakas, ay nangangailangan ng masaganang panustos ng pagkakila sa Diyos at kay Hesus na ating Panginoon (bb. 2-3, 8) upang ating matamasa ang kasunod na pag-unlad. Ang kaalamang ito ay hinggil sa lahat ng bagay na may kaugnayan sa dibinong buhay at pagkamakadiyos at sa pakikibahagi sa dibinong kalikasan (bb. 3-4)."
+        },
+        {
+            "id": "6-1",
+            "text": "O, hinahon, ang pagsasanay ng pagtitimpi at pagpipigil sa mga simbuyo, pagnanasa, at kinaugalian. Nangangailangan itong matustusan at mapaunlad sa kaalaman para sa maayos na paglago sa buhay."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang pagpipigil-sa-sarili ay ang tuusin ang ating mga sarili; ang pagtitiis ay ang pagbabatá sa ibang tao at sa mga pangyayari."
+        },
+        {
+            "id": "6-3",
+            "text": "Tumutukoy sa isang pamumuhay na katulad ng Diyos at naghahayag ng Diyos. Kapag pinipigil natin ang ating sarili at nagbabatá tayo sa ibang tao at sa mga pangyayari, kinakailangang mapaunlad ang pagkamakadiyos sa ating espirituwal na pamumuhay upang tayo ay maging katulad ng Diyos at maihayag natin Siya."
+        },
+        {
+            "id": "7-1",
+            "text": "Gr. philadelphia , binubuo ng phileo , magkaroon ng pag-ibig, at adelphos , isang kapatid; kaya’t isang pagmamahal na pangkapatiran, isang pag-ibig ng kagalakan at kaluguran. Sa pagkamakadiyos, sa bagay ng paghahayag sa Diyos, kinakailangang itustos ang pag-ibig na ito upang mapanatili natin ang pangkapatirang kaugnayan (1 Ped. 2:17; 3:8; Gal. 6:10), upang makapagpatotoo sa sanlibutan (Juan 13:34-35), at upang makapamunga (Juan 15:16-17)."
+        },
+        {
+            "id": "7-2",
+            "text": "Gr. agape , ginamit sa Bagong Tipan para sa dibinong pag-ibig, na siyang Diyos sa Kanyang kalikasan (1 Juan 4:8, 16). Ito ay higit na marangal kaysa sa phileo (pag-ibig ng tao). Ginagayakan nito ang lahat ng mga katangian ng buhay-Kristiyano (1 Cor. 13; Roma 13:8-10; Gal. 5:13-14). Kung ihahambing ito sa pag-ibig ng tao, ito ay higit na malakas sa kakayahan at mas malaki sa kapasidad (Mat. 5:44, 46), gayunpaman ang isang mananampalataya na nabubuhay sa pamamagitan ng dibinong buhay (b. 3) at nakikibahagi sa dibinong kalikasan (b. 4) ay matitigmak nito at maihahayag ito nang ganap. Ang gayong pag-ibig ay kinakailangang mapaunlad sa pag-ibig ng kapatiran, upang mapamahalaan ang pag-iibigan ng kapatiran at maidaloy ito para sa buong kahayagan ng Diyos na siyang agape Mismo. Ang pananampalataya ay maituturing na binhi ng buhay, at ang mas marangal na pag-ibig na ito ay maituturing naman na bunga (b. 8) sa buong pag-unlad nito. Ang anim na hakbang ng pag-unlad ay ang mga hakbangin ng paglago nito tungo sa paggulang."
+        },
+        {
+            "id": "8-1",
+            "text": "Gr. huparcho , tumutukoy na may ilang mga bagay na mula’t sapul ay pag-aari na ng isang tao, sa ganitong dahilan ang mga bagay na ito ay nagiging kanyang legal na pag-aari hanggang sa pangkasalukuyan. Ito ay nagpapakita na ang lahat ng mga kagalingan na binanggit sa itaas ay pag-aari ng mga mananampalataya at nananatili magpakailanman sa loob nila sa pamamagitan ng kanilang pagdaranas sa pakikibahagi sa dibinong kalikasan sa lahat ng mga kayamanan nito."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang lahat ng mga kagalingan na tinalakay sa bb. 5-7, mula sa pananampalataya hanggang sa pag-ibig."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang mga dibinong kagalingan ay hindi lamang nananatili sa loob ng mga mananampalataya bilang pag-aari nila, bagkus, nananagana at dumarami pa sa kanila dahil sa pag-unlad at paglago ng dibinong buhay."
+        },
+        {
+            "id": "8-4",
+            "text": "Ito ay nagpapakita na ang mga kagalingan ng dibinong buhay at dibinong kalikasan ay ang mga bumubuo ng ating pang-espirituwal na kabuuan, ang mga elemento ng kung ano tayo sa pang-espirituwal, ginagawa tayong mga tao na walang mga elemento ng katamaran at walang mga elemento ng di-pamumunga."
+        },
+        {
+            "id": "8-5",
+            "text": "Lit. hindi gumagawa; kaya, tamad. Ang isang tao ay maaaring maging hindi tamad subali’t wala pa ring bunga. Ang maging mabunga ay nangangailangan ng higit pang paglago sa buhay at higit na panustos ng buhay. Ang katamaran at hindi pamumunga ay ang mga bumubuo ng ating natisod na likas na katauhan; ang paggawa (ang pagbibigay-lakas ng buhay), at ang pamumunga ay ang mga bumubuo ng ating katauhang lumago na sa pang-espirituwal na buhay."
+        },
+        {
+            "id": "8-6",
+            "text": "Ito ay nagpapakita na ang tinalakay sa bb. 5-7 ay ang pag-unlad ng paglago ng dibinong buhay hanggang sa pagkagulang nito."
+        },
+        {
+            "id": "8-7",
+            "text": "Ang kabuuan na may mga pang-espirituwal na kagalingan bilang mga elemento nito ay sumusulong sa maraming hakbang tungo sa lubos na pagkakilala sa ating Panginoong Hesu-Kristo, na may isang layuning maunawaan nang lubos ang nagpapaloob-ng-lahat na pagsasakatawan ng Tres-unong Diyos. Sa bahaging ito ng Salita, tatlong pang-ukol ang ginamit hinggil sa kaugnayan ng karanasan ng buhay sa pang-espirituwal na kaalaman; ang “sa loob”, sa b. 2, ay tumutukoy sa sakop ng kaalaman; ang sa pamamagitan ng, sa b. 3, ay tumutukoy sa daraanan ng kaalaman; at ang “tungo sa” sa b. 8, ay tumutukoy sa kaalamang tinatanaw bilang layunin."
+        },
+        {
+            "id": "8-8",
+            "text": "Tingnan ang tala 2-3 ."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 8-2 ."
+        },
+        {
+            "id": "9-2",
+            "text": "Mula sa salitang-ugat na nangangahulugang ipikit ang mga mata (dahil sa matinding liwanag); kaya, ang maging malabo ang paningin sa malayo. Ang ganitong pagiging malabo ang paningin sa malayo ay ang pang-espirituwal na kabulagan, walang kakayahang makita ang karagdagang bagay, ang lalong malayong bagay na ukol sa dibinong buhay at dibinong kalikasan ng Tres-unong Diyos na ipinamahagi tungo sa loob ng mga mananampalataya bilang kanilang masaganang panustos."
+        },
+        {
+            "id": "9-3",
+            "text": "Lit. tinatahak ang pagkamakakalimutin, yaon ay, nahahandang kalimutan ang karanasan ng paglilinis ng kanyang mga nakalipas na kasalanan. Ang paglilinis na yaon ay para sa kanya upang magpatuloy sa dibinong buhay sa pamamagitan ng pakikibahagi sa dibinong kalikasan upang maabot ang kagulangan nito. Ito ay hindi ang pagtatatwa ng tapat na pagpapahayag na ginawa niya nang siya ay manampalataya kay Kristo at nabautismuhan paloob sa Kanya, ni hindi ang pagkawala ng katiyakan ng kaligtasan na tinanggap niya nang oras na yaon, kundi ang kalimutan kung ano ang kahulugan sa kanya ng pagsisimula ng kaligtasan."
+        },
+        {
+            "id": "10-1",
+            "text": "O, Dahil nga dito, mga kapatid, maging masipag…"
+        },
+        {
+            "id": "10-2",
+            "text": "Yaon ay, ang paunlarin ang mga pang-espirituwal na kagalingan sa loob ng dibinong buhay, ang sumulong sa paglago sa dibinong buhay. Ginagawa nitong matibay ang pagtawag at pagpili ng Diyos sa atin."
+        },
+        {
+            "id": "10-3",
+            "text": "Tingnan ang tala 8-2 ."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang masaganang panustos na ating natatamasa sa pag-unlad ng dibinong buhay at dibinong kalikasan (bb. 3-7) ay masaganang magtutustos sa atin ng isang mayamang pagpasok sa walang hanggang kaharian ng ating Panginoon. Ito ay magbibigay-kakayahan at magpapaging-dapat sa atin upang makapasok sa darating na kaharian kasama ang lahat ng mga kayamanan ng dibinong buhay at dibinong kalikasan bilang ating mahuhusay na kagalingan sa nagniningning na kaluwalhatian ng Diyos. Ito ay hindi lamang ang maligtas bagkus matapos na maligtas ay naghahabol pa sa loob ng dibinong buhay upang lumago tungo sa pagkagulang upang makatanggap ng gantimpala ng kaharian. Tingnan ang tala 28-1 sa Heb. 12."
+        },
+        {
+            "id": "11-2",
+            "text": "Tumutukoy sa kaharian ng Diyos na ibinigay sa ating Panginoon at Tagapagligtas na si Hesu-Kristo (Dan. 7:13-14), na mahahayag sa Kanyang pagbabalik (Luc. 19:11-12). Ang kahariang ito ay magiging isang gantimpala sa Kanyang mga tapat na mananampalataya na naghahabol sa paglago sa Kanyang buhay na humahantong sa pagkagulang at pag-unlad ng mga kagalingan ng Kanyang kalikasan, upang sila ay makabahagi sa isang libong taong kaharian, sa Kanyang paghahari sa loob ng kaluwalhatian ng Diyos (2Tim. 2:12; Apoc. 20:4, 6). Ang ganitong pagpasok sa walang hanggang kaharian ng Panginoon ay may kaugnayan sa pagpasok sa loob ng walang hanggang kaluwalhatian ng Diyos. Tinawag tayo ng Diyos sa loob ni Kristo upang abutin ang walang hanggang kaluwalhatian ng Diyos. (1 Ped. 5:10; 1 Tes. 2:12 at tala 2, 3)."
+        },
+        {
+            "id": "12-1",
+            "text": "Yaon ay, ang katotohanang nasa loob ng mga mananampalataya, na taglay na nila at inaangkin sa ngayon. Sa unang bahagi ng kapitulong ito, bb. 3-11, ginagamit ni Pedro ang panlaan ng dibinong buhay para sa wastong buhay-Kristiyano upang magbakuna laban sa kataliwasan. Sa ikalawang bahagi, bb. 12-21, ginagamit niya ang pahayag ng dibinong katotohanan, bilang ikalawang gamot na pangontra, upang magbakuna laban sa erehiya sa kataliwasan, isang erehiyang katulad ng “Modernismo” sa ngayon. Laban sa erehiya, ang mga gamot na pangontra na ginamit ni Pedro ay ang panlaan ng buhay at pahayag ng katotohanan."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang pansamantalang katawan (2 Cor. 5:1)."
+        },
+        {
+            "id": "14-1",
+            "text": "Yaon ay, ang maalis ang katawan, hubarin ang katawan (2 Cor. 5:4), ang iwanan ang katawan, ang mamatay sa pisikal. Nababatid ni Pedro, katulad ni Pablo (2 Tim. 4:6), na iiwanan niya ang mundo sa pamamagitan ng pagkamartir, at siya ay nahahanda na ngayon para rito."
+        },
+        {
+            "id": "14-2",
+            "text": "Nagunita niya ang salita ng Panginoon sa kanya hinggil sa kanyang kamatayan, nang Siya ay mag-atas sa kanya na pakainin ang Kanyang mga tupa (Juan 21:15-19)."
+        },
+        {
+            "id": "15-1",
+            "text": "O, paglisan, yaon ay, ang pagyao. Katulad sa Luc. 9:31."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit. sumusunod nang mahigpit."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang mga katha ay ang mga kasaysayang mapamahiin na binalangkas na may katusuhan sa loob ng Griyegong pilosopiya, ito ay may kaugnayan sa erehiya."
+        },
+        {
+            "id": "16-3",
+            "text": "Gr. parousia, presensiya."
+        },
+        {
+            "id": "16-4",
+            "text": "“‘Nakapasok sa kaagad na pagkakita sa kaluwalhatian’ isang salitang ginamit upang tukuyin ang lubos na pagkapasok sa loob ng mga hiwaga” (Darby). Napagtanto ni Pedro na sa panahon ng pagbabagong-anyo ng Panginoon, siya, kasama nina Santiago at Juan, ay nabigyan ng permisong makapasok nang sukdulan at lubusan sa kalagayang yaon at makasaksi sa Kanyang kamaharlikahan. Itinuturing niya ang pagbabagong-anyo ng Panginoon bilang isang sagisag ng Kanyang ikalawang pagdating, kagaya ng ginawa ng Panginoon sa Luc. 9:26-36. Ang pagbabagong-anyo ng Panginoon sa kaluwalhatian ay isang katotohanan, at si Pedro ay napaloob dito. Ang pagparito muli ng Panginoon sa loob ng kaluwalhatian ay magiging isang katotohanan din na kasing tunay ng Kanyang pagbabagong-anyo, at si Pedro ay mapapasaloob din dito. Ito ay hindi isang tusong katha na isinalaysay ng mga apostol sa mga mananampalataya."
+        },
+        {
+            "id": "16-5",
+            "text": "Yaon ay, kaningningan, kadakilaan sa luwalhati, karangalan at kaluwalhatian, napakaringal na kaluwalhatian pa (b. 17), katulad ng nasaksihan ni Pedro at ng dalawa pang disipulo nang nagbagong-anyo ang Panginoon (Mat. 17:1-2; Luc. 9:32)."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang lumukob na ulap sa pagbabagong-anyo ng Panginoon (Luc. 9:34-35), katulad ng shekinah na kaluwalhatian na lumukob sa takip ng kaban na siyang luklukan ng awa o pampalubag-loob na takip (Exo. 25:20; 40:34)."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang “At” ay nangangahulugang ang paggamit sa katotohanan ng salita ng mga propeta bilang isang higit na tiyak na pagpapatibay ay karagdagan sa katotohanan ng pagbabagong-anyo ng Panginoon na tinalakay sa mga naunang bersikulo bilang pagbabakuna laban sa mga mapamahiing katha."
+        },
+        {
+            "id": "19-2",
+            "text": "Itinulad ni Pedro ang salita ng propesiya sa Kasulatan sa isang ilawang nagliliwanag sa isang madilim na lugar. Ito ay nangangahulugang: 1) ang panahong ito ay isang madilim na lugar sa madilim na gabi (Roma 13:12), at ang lahat ng tao sa sanlibutang ito ay kumikilos at gumagawa sa loob ng kadiliman; 2) ang salita ng mga propeta sa Kasulatan, katulad ng nagliliwanag na ilawan, ay naglalalin sa mga mananampalataya ng espirituwal na liwanag (hindi lamang ng pantitik na kaalaman para sa pangkaisipang pang-unawa), nagbibigay sa kanila ng liwanag sa loob ng kanilang kadiliman, gumagabay sa kanila upang makapasok sa isang maliwanag na araw at upang makaraan sa madilim na gabi hanggang sa pagbubukang-liwayway ng araw ng pagpapakita ng Panginoon. Bago dumating ang araw, na siyang panahon ng pagpapakita ng Panginoon, kinakailangan natin ang liwanag ng Kanyang salita upang silayan ang ating pagtahak."
+        },
+        {
+            "id": "19-3",
+            "text": "O, madilim na lugar, isang lugar na marumi, tuyo, at napabayaan. Ito ay isang metapora, naglalarawan ng kadiliman sa panahon ng pagtalikod-sa-katotohanan."
+        },
+        {
+            "id": "19-4",
+            "text": "Isang metapora na naglalarawan ng isang panahong darating na magiging punô ng liwanag, katulad ng isang maliwanag na araw na papasikat, kung saan naroroon ang pang-umagang tala na sumisikat bago ang pagbubukang-liwayway nito sa mga puso ng mga mananampalataya, na nailawan at naliwanagan sa pamamagitan ng pakikinig sa nagliliwanag na salita ng propesiya ng Kasulatan. Sa panahon ng kataliwasan ang mga mananampalataya ay nakinig nang mabuti sa bagay na ito upang ang salita ng mga propeta, bilang isang ilawan, ay makapagliwanag sa gitna ng kadiliman ng kataliwasan hanggang magbukang-liwayway sa kanila ang gayong araw. Ito ay magsasanhi at maghihikayat sa kanila na hanapin nang masigasig ang presensiya ng Panginoon at maging mapagbantay upang sa lihim na bahagi ng Kanyang parousia , sa Kanyang pagdating katulad ng isang magnanakaw, ay makita nila ang Panginoon (tingnan ang mga tala 27-1 sa Mat. 24 at 8-2 sa 2 Tes. 2). Kaya, ang metaporang ito ay dapat na tumukoy sa darating na panahon, ang panahon ng kaharian, na maihahalintulad sa isang araw na magbubukang-liwayway sa pagpapakita (sa pagdating) ng Panginoon (b. 16) bilang Araw ng katuwiran (Mal. 4:2), na ang liwanag ay sisilay upang tumagos sa karimlan ng madilim na gabi ng kapanahunang ito. Una rito, magpapakita ang Panginoon bilang tala sa umaga (Apoc. 2:28; 22:16) sa pinakamadilim na oras ng gabi noon sa mga mapagbantay at uhaw na umaasa sa Kanyang mahal na pagpapakita (2 Tim. 4:8). Sila ay nakatanggap ng liwanag dahil sa pagliliwanag ng mga salita ng propeta na may kakayahang maggabay sa kanila tungo sa araw ng pagbubukang-liwayway."
+        },
+        {
+            "id": "20-1",
+            "text": "Tumutukoy sa propeta na nagsalita ng propesiya o sa sumulat na nagsulat ng propesiya."
+        },
+        {
+            "id": "20-2",
+            "text": "Lit. niluluwagan, kinakalagan; kaya, paglalantad, paglalahad, paliwanag. Ang sariling pagpapaliwanag ay ang sariling paglalahad o paliwanag ng propeta o manunulat na hindi binigyang-inspirasyon ng Diyos sa pamamagitan ng Espiritu Santo. Ang kaisipan ni Pedro rito ay yaong walang propesiya ng Kasulatan na sariling kaisipan, ideya, o pagka-unawa ng propeta o manunulat; walang propesiyang nagmumula roon, na nagmula sa tao; walang propesiyang nagsisimula sa anumang pribado at pansariling kaisipan ng propeta o manunulat. Ito ay pinagtibay at ipinaliwanag sa sumusunod na bersikulo."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang “Sapagka’t” ay nagbibigay ng pagpapaliwanag sa naunang bersikulo. Walang propesiya ng Kasulatan na sariling paliwanag ng propeta o manunulat, sapagka’t walang propesiya na kailanman ay dinala o isinakatuparan sa pamamagitan ng kalooban ng tao, kundi ang mga tao ay nagsalita buhat sa Diyos, na dinadala ng Espiritu Santo."
+        },
+        {
+            "id": "21-2",
+            "text": "Sa Griyego ay katulad ng sa bb. 17, 18. Kailanman, walang propesiyang dinala ng kalooban ng tao. Ang kalooban, naisin, at hangarin ng tao, na may kanyang kaisipan at paliwanag, ay hindi ang pinagmumulan ng anumang propesiya; ang pinagmumulan ay ang Diyos, na sa pamamagitan ng Espiritu Santo ay dinala ang tao, gaya ng isang daong na dinala ng hangin, upang salitain ang kalooban, naisin, at hangarin ng Diyos."
         }
     ]
 }

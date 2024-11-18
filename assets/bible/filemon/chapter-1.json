@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -15,15 +15,15 @@
             "footnotes": [
                 {
                     "word": "Apia",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "Arquipo",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -49,7 +49,7 @@
             "footnotes": [
                 {
                     "word": "pag-ibig",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -60,23 +60,23 @@
             "footnotes": [
                 {
                     "word": "Upang",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "lubos",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "bawa’t",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "inyo",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "6-5"
                 }
             ],
             "outlines": null
@@ -87,15 +87,15 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "puso",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "napanariwa",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -112,11 +112,11 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "bilanggo",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -127,11 +127,11 @@
             "footnotes": [
                 {
                     "word": "ipinanganak",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "Onesimo,",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -142,11 +142,11 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "kapaki-pakinabang",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -157,7 +157,7 @@
             "footnotes": [
                 {
                     "word": "sariling",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -174,7 +174,7 @@
             "footnotes": [
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -185,19 +185,19 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "marahil",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "lubusang",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "magpakailanman,",
-                    "note": ""
+                    "id": "15-4"
                 }
             ],
             "outlines": null
@@ -208,19 +208,19 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "minamahal,",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "kapwa",
-                    "note": ""
+                    "id": "16-4"
                 }
             ],
             "outlines": null
@@ -231,11 +231,11 @@
             "footnotes": [
                 {
                     "word": "mong",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "kasama,",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": [
@@ -249,11 +249,11 @@
             "footnotes": [
                 {
                     "word": "nagkasala",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "ibilang",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -264,11 +264,11 @@
             "footnotes": [
                 {
                     "word": "magbabayad",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "iyong",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -279,15 +279,15 @@
             "footnotes": [
                 {
                     "word": "pakinabang",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "panariwain",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "puso",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": null
@@ -304,11 +304,11 @@
             "footnotes": [
                 {
                     "word": "inaasahan",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "mabiyayang",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -319,7 +319,7 @@
             "footnotes": [
                 {
                     "word": "Epafras,",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": [
@@ -338,18 +338,188 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "espiritu.",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "",
-                    "note": ""
+                    "id": "25-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Ayon sa pampamilyang kalikasan ng Sulat na ito, si Apia ay malamang na asawa ni Filemon, at si Arquipo ay kanyang anak."
+        },
+        {
+            "id": "2-2",
+            "text": "Si Filemon ay nakatira sa Colosas (b. 2 cf. Col. 4:17; b. 10 cf. Col. 1:2; 4:9). Ayon sa kasaysayan siya ay isang matanda sa ekklesia roon. Tiyak na ang ekklesia sa Colosas ay nagpupulong sa kanyang bahay. Kaya, ito ay ang ekklesia na nasa kanyang bahay."
+        },
+        {
+            "id": "5-1",
+            "text": "Nagsisimula ang pamumuhay ng mga mananampalataya sa pagkakaroon muna ng pananampalataya, at pagkatapos ibubunga naman ng pananampalataya ang pag-ibig (Gal. 5:6; Efe. 1:15; Col. 1:4; tingnan ang mga tala 14-2 sa 1 Timoteo 1, at 23-3 sa Efeso 6). Subali’t dito tinukoy muna ang pag-ibig at pagkatapos ay ang pananampalataya, sapagka’t ang tinatalakay sa Sulat na ito hinggil sa pantay-pantay na katayuan ng mga mananampalataya ay isang bagay ukol sa pag-ibig; ang pag-ibig na ito ay nagmumula sa pananampalataya. Sa loob ng bagong tao ang mga sangkap ay nagmamahalan sa isa’t isa sa loob ng pananampalataya (Tito 3:15). Ang kanilang kaugnayan ay mula sa pag-ibig sa pamamagitan ng pananampalataya. Pinahahalagahan ng apostol ang pakikipagsalamuha ng pananampalataya ni Filemon (b. 6) at nabibigyang-sigla siya ng kanyang pag-ibig (b. 7); sa gayon, ipinamamanhik niya kay Filemon na tanggapin si Onesimo dahil sa pag-ibig na ito (b. 9). Tinukoy ng apostol ang dalawang katangiang ito sa isang pinagsamang paraan; kapwa mayroon nito si Filemon, hindi lamang sa Panginoon, bagkus sa lahat din ng mga banal."
+        },
+        {
+            "id": "6-1",
+            "text": "Ito ay karugtong ng bersikulo 4."
+        },
+        {
+            "id": "6-2",
+            "text": "Yaon ay buong pagkakilala, buong pagpapahalaga, at makaranasang pagkilala."
+        },
+        {
+            "id": "6-3",
+            "text": "Hindi mga likas na bagay (cf. Roma 7:18), kundi mga espirituwal at dibinong mabubuting bagay, kagaya ng pag-ibig at pananampalataya ni Filemon sa Panginoong Hesus at iba pa. Ang mga ito ay pawang nasa mga naisilang na muling mananampalataya, hindi nasa mga likas na tao."
+        },
+        {
+            "id": "6-4",
+            "text": "May manuskrito na naglagay ng “atin.”"
+        },
+        {
+            "id": "6-5",
+            "text": "Lit. paloob, patungo. Ang lahat ng mga espirituwal at dibinong mabubuting bagay na nasa loob natin ay pawang kay Kristo, patungo kay Kristo, para kay Kristo. Nananalangin ang apostol na ang pakikipagsalamuha, ang komunikasyon, ang pagbabahagi ng pananampalataya ni Filemon sa lahat ng mga banal ay kumilos nawa sa kanila sa elemento at kinasasaklawan ng lubos na pagkaalam, lubos na pagkatanto, sa lahat ng mabubuting bagay na nasa kanila para kay Kristo, nagsasanhi sa kanila na tanggapin, pahalagahan, at kilalanin ang lahat ng espirituwal at dibinong mabubuting bagay na nasa mga mananampalataya para kay Kristo."
+        },
+        {
+            "id": "7-1",
+            "text": "Ipinakikilala ng “sapagka’t” ang dahilan kung bakit nananalangin ang apostol para sa pananampalataya ni Filemon na kumilos nang mabisa sa mga banal (b. 6). Ito ay sapagka’t ang kanyang pag-ibig ay nakapanariwa sa mga panloob na bahagi ng mga banal at sa gayon ay nakapagbigay ng lubhang kagalakan at kasiglahan sa apostol."
+        },
+        {
+            "id": "7-2",
+            "text": "Lit. mga panloob na bahagi."
+        },
+        {
+            "id": "7-3",
+            "text": "Napaginhawa, naaliw."
+        },
+        {
+            "id": "9-1",
+            "text": "O, isang embahador (Efe. 6:20)."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang bilanggo rito at sa bersikulo 23, at ang mga tanikala sa bersikulo 13, ay nagpapakita na ang Sulat na ito ay isinulat sa panahon ng unang pagkabilanggo ng apostol sa Roma. Tingnan ang tala 6-2 sa II Timoteo 4."
+        },
+        {
+            "id": "10-1",
+            "text": "Sa pamamagitan ng Espiritu, ipinanganak ng walang hanggang buhay ng Diyos (Juan 3:3; 1:13)."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang pangalan sa Griyego ay nangangahulugang kapaki-pakinabang, nagagamit, matulungin; ito ay isang pangkaraniwang pangalan para sa mga alipin. Siya ang biniling alipin ni Filemon, na ayon sa batas ng mga Romano, ay walang pantaong karapatan. Siya ay tumakas sa kanyang panginoon, nakagawa ng isang krimen na karapat-dapat sa kamatayan. Nang siya ay nasa bilangguan sa Roma na kasama ang apostol, siya ay naligtas sa pamamagitan niya. Ngayon isinugo siya ng apostol pabalik sa kanyang panginoon na dala ang Sulat na ito."
+        },
+        {
+            "id": "11-1",
+            "text": "O, walang silbi. Ito ay tumutukoy sa pagtakas ni Onesimo mula kay Filemon."
+        },
+        {
+            "id": "11-2",
+            "text": "O, may silbi. Ito ay dahil sa nagsisi at sumampalataya na sa Panginoon si Onesimo at handa nang bumalik kay Filemon."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. mga panloob na bahagi, katulad sa mga bersikulo 7, 20, Fil. 1:8; 2:1, at Col. 3:12, sumasagisag sa panloob na pagmamahal, mga pagkahabag, mga pagkaawa. Ang panloob na pagmamahal at mga pagkahabag ni Pablo ay napasa kay Onesimo patungo kay Filemon."
+        },
+        {
+            "id": "14-1",
+            "text": "Katulad ng Panginoon na hindi gagawa ng anumang bagay nang walang pahintulot natin."
+        },
+        {
+            "id": "15-1",
+            "text": "Ipinakikita ng “sapagka’t” ang dahilan ng pagpapabalik sa ber. 12."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang “marahil” ay hindi lamang isang kahayagan ng kababaang-loob, bagkus ng isa ring hindi pagpapakita na may kinikilingan."
+        },
+        {
+            "id": "15-3",
+            "text": "Maangkin nang buo."
+        },
+        {
+            "id": "15-4",
+            "text": "Magpasawalang-hanggan."
+        },
+        {
+            "id": "16-1",
+            "text": "Nagsisilbi ang maikling Sulat na ito ng natatanging layunin na ipakita sa atin ng pagkakapantay-pantay sa buhay na walang hanggan at dibinong pag-ibig ng lahat ng mga sangkap ng Katawan ni Kristo. Noong kapanahunan ni Pablo na hindi pa lubos na sibilisado, ang malakas na institusyon ng pang-aalipin ay pinawalang-bisa ng buhay ni Kristo sa gitna ng mga mananampalataya. Yamang ang damdamin ng pag-ibig ng Kristiyanong pagsasalamuha ay napakalakas at nananaig, na ang imbing panlipunang kaayusan sa gitna ng natisod na sangkatauhan ay kusang winalang-bahala, napawi na rin ang anumang pangangailangan para sa institusyonal na kalayaan. Dahil sa dibinong pagsilang at pamumuhay sa pamamagitan ng dibinong buhay, ang lahat ng mga mananampalataya ni Kristo ay may pantay-pantay na katayuan sa ekklesia, na siyang bagong tao sa loob ni Kristo, na walang pagtatangi sa pagitan ng malaya at alipin (Col. 3:10-11). Ito ay batay sa tatlong katotohanan: 1) inalis ng kamatayan sa krus ni Kristo ang mga ordinansa ng iba’t ibang paraan ng buhay para sa paglikha ng isang bagong tao (Efe. 2:15); 2) nabautismuhan tayong lahat paloob kay Kristo at ginawang isa sa loob Niya nang walang anumang pagkakaiba (Gal. 3:27-28); at 3) sa bagong tao, si Kristo ay ang lahat at nasa lahat (Col. 3:11). Ang gayong buhay na may gayong pag-ibig sa pantay-pantay na pagsasalamuha ay makapagpapanatili ng mabuting kaayusan sa ekklesia (sa Tito), makapagsasakatuparan ng ekonomiya ng Diyos hinggil sa ekklesia (sa 1 Timoteo), at makatatayo laban sa panahon ng pagbabà ng ekklesia (sa 2 Timoteo). Ang pagsasaayos ng pagkakasunud-sunod ng mga aklat ng Bagong Tipan na inilagay ang Sulat na ito pagkatapos ng naunang tatlong aklat (1 Timoteo, 2 Timoteo, at Tito) ay ayon sa mataas na kapangyarihan ng Panginoon."
+        },
+        {
+            "id": "16-2",
+            "text": "O, higit pa kaysa isang alipin. Siya ay higit pa sa isang malayang tao; siya ay isang minamahal na kapatid."
+        },
+        {
+            "id": "16-3",
+            "text": "Ang isang kapatid na minamahal, kapatid na babae (b. 2), aming minamahal at kamanggagawa (b. 1), kapwa kawal namin (b. 2), aking mga kamanggagawa (b. 24), aking kasama sa pagkabilanggo (b. 23), at isang kasama (b. 17), ay pawang matatalik na katawagan, nagpapakita ng matalik na damdamin ng apostol hinggil sa kanyang kaugnayan sa mga sangkap sa loob ng bagong tao."
+        },
+        {
+            "id": "16-4",
+            "text": "Yaon ay, sa laman ay isang alipin at sa loob ng Panginoon ay isang kapatid; sa laman ay isang kapatid na alipin, at sa loob ng Panginoon isang alipin na naging isang kapatid."
+        },
+        {
+            "id": "17-1",
+            "text": "Katulad ng ang ekklesia lokal, kasama ang mga matanda nito, ay nasa pakikipagsosyo sa o kasamá ng Panginoon, at sa kanila ipinagkakatiwala ng Panginoon ang mga bagong ligtas kagaya ng ginawa ng mabuting Samaritano sa isang pinagaling na kanyang ipinagkatiwala sa namamahala ng bahay-tuluyan (Luc. 10:33-35)."
+        },
+        {
+            "id": "17-2",
+            "text": "Ipinakikita nito ang malalim na kaugnayan ng pakikipagsalamuha sa loob ng Panginoon."
+        },
+        {
+            "id": "18-1",
+            "text": "Ipinakikita nito na dinaya ni Onesimo ang kanyang panginoon."
+        },
+        {
+            "id": "18-2",
+            "text": "Sa bagay ng pag-aalaga kay Onesimo, ginawa ni Pablo ang eksaktong ginawa sa atin ng Panginoon."
+        },
+        {
+            "id": "19-1",
+            "text": "Katulad ng pagbabayad na ginawa ng Panginoon sa lahat ng bagay para sa Kanyang mga tinubos."
+        },
+        {
+            "id": "19-2",
+            "text": "Ipinakikita nito na si Pablo mismo ang nagdala kay Filemon sa kaligtasan."
+        },
+        {
+            "id": "20-1",
+            "text": "Gr. onaimen , isang salita na ang pagbigkas ay nahahawig sa pangalang Onesimo. Ito ay isang paglaro ng mga salitang Griyegong onaimen at Oneesimos , nagpapahiwatig na yamang “maging ang iyong sarili ay utang mo pa sa akin”, ikaw ay isang “Onesimo” sa akin. Kaya, ikaw ay dapat na maging kapaki-pakinabang sa akin, magkaroon nawa ako ng pakinabang sa iyo sa Panginoon."
+        },
+        {
+            "id": "20-2",
+            "text": "Paginhawahin, aliwin."
+        },
+        {
+            "id": "20-3",
+            "text": "Lit. mga panloob na bahagi, katulad sa bersikulo 7. Yamang pinanariwa ni Filemon ang mga panloob na bahagi ng mga banal, hinihilingan siya ng kanyang kasama ngayon na gawin din ang parehong bagay sa kanya sa loob ng Panginoon."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang inaasahang ito, na mapalaya siya mula sa kanyang pagkabilanggo at madalaw niya muli ang mga ekklesia, ay nahayag din sa Fil. 1:25 at 2:24."
+        },
+        {
+            "id": "22-2",
+            "text": "Itinuring ni Pablo na ang kanyang pagbisita ay isang mabiyayang kaloob sa ekklesia."
+        },
+        {
+            "id": "23-1",
+            "text": "Isang pagpapaikli ng pangalang “Epafrodito” (Fil. 2:25; 4:18)."
+        },
+        {
+            "id": "25-1",
+            "text": "Sa pagbubukas at pagtatapos ng mga Sulat ng apostol, parating ginagamit niya ang biyaya ng Panginoon bilang pambati sa mga tagatanggap. Ipinakikita nito na siya ay nagtiwala sa biyaya ng Panginoon para sa kanila, gayundin para sa kanyang sarili (I Cor. 15:10), upang maisakatuparan ang kanyang isinulat sa kanila. Upang maisakatuparan ang ganitong kataas na pahayag katulad ng nagkukumpletong pahayag ni Apostol Pablo, walang maitutulong ang pantaong kalakasan; ang kinakailangan ay ang biyaya ng Panginoon."
+        },
+        {
+            "id": "25-2",
+            "text": "Tingnan ang tala 18-3 sa Gal. 6."
+        },
+        {
+            "id": "25-3",
+            "text": "May manuskrito na nagdaragdag ng, Amen."
         }
     ]
 }

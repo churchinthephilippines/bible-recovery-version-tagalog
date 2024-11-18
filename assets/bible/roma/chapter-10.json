@@ -1,5 +1,5 @@
 {
-    "chapter": 10,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -19,7 +19,7 @@
             "footnotes": [
                 {
                     "word": "maitatag",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -30,7 +30,7 @@
             "footnotes": [
                 {
                     "word": "kinauuwian",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": [
@@ -44,7 +44,7 @@
             "footnotes": [
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": [
@@ -57,7 +57,7 @@
             "footnotes": [
                 {
                     "word": "Kristo.",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -68,11 +68,11 @@
             "footnotes": [
                 {
                     "word": "kaila-",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -83,7 +83,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": [
@@ -96,11 +96,11 @@
             "footnotes": [
                 {
                     "word": "bibig,",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "ibinangon",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": [
@@ -113,11 +113,11 @@
             "footnotes": [
                 {
                     "word": "puso",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "bibig",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -134,7 +134,7 @@
             "footnotes": [
                 {
                     "word": "mayaman",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -145,11 +145,11 @@
             "footnotes": [
                 {
                     "word": "tumatawag",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "maliligtas.",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -160,11 +160,11 @@
             "footnotes": [
                 {
                     "word": "sinampalatayanan?",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "napakinggan?",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": [
@@ -183,7 +183,7 @@
             "footnotes": [
                 {
                     "word": "tumalima",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": [
@@ -219,6 +219,72 @@
             "text": "Datapuwa’t tungkol sa Israel ay sinasabi niya, Sa buong araw ay iniunat Ko ang Aking mga kamay sa isang bayang suwail at mapagtutol.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "3-1",
+            "text": "Ang mga Israelita ay nagsikap na magtatag ng kanilang sariling katuwiran sa pamamagitan ng pagtupad sa kautusan, sa gayon ay hindi sila napasakop sa katuwiran ng Diyos—si Kristo. Ito ay isang insulto sa Diyos, at ito ay nagsasanhi sa mga tao na mawaglit ang daan ng pagliligtas ng Diyos."
+        },
+        {
+            "id": "4-1",
+            "text": "Si Kristo ay dumating upang tuparin ang kautusan (Mat. 5:17), upang tapusin at upang halinhan ang kautusan (8:3-4), sa gayon ang lahat ng sumasampalataya sa Kanya ay makatatanggap ng katuwiran ng Diyos, na si Kristo Mismo."
+        },
+        {
+            "id": "5-1",
+            "text": "O, sa pamamagitan nito."
+        },
+        {
+            "id": "6-1",
+            "text": "Tumutukoy kay Kristong naging laman."
+        },
+        {
+            "id": "7-1",
+            "text": "Gr., abyssos . Ang salitang ito ay ginamit sa Luc. 8:31 na tumutukoy sa pinananahanan ng mga demonyo. Ito ay makikita rin sa Apoc. 9:1, 2, 11 kung saan isinasaad nito ang lugar na lalabasan ng “mga balang”, na ang hari ay si Apolyon (antikristo); sa Apoc. 11:7 at 17:8 na sumasagisag sa lugar kung saan ang halimaw na siyang antikristo ay lalabas nang paitaas; at sa Apoc. 20:1, 3 na tiyakang tumutukoy sa lugar na paghahagisan at pagkukulungan kay Satanas sa panahon ng isang libong taon. Ginagamit ng Septuagint (ang Griyegong pagsasalin ng Lumang Tipan) ang salitang abyssos para sa salitang “kalaliman” sa Gen. 1:2. Sa bersikulong ito, ito ay tumutukoy sa lugar na dinalaw ni Kristo pagkatapos ng Kanyang pagkamatay at bago ang Kanyang pagkabuhay na muli, ang lugar na ito, ayon sa Gawa 2:24, 27, ay ang Hades. Sapagka’t ipinahahayag ng Gawa 2:24, 27 na si Kristo ay pumunta sa loob ng Hades matapos Siyang mamatay at bumangon mula sa lugar na yaon sa Kanyang pagkabuhay na muli. Kaya, ayon sa paggamit nang alinsunod sa Bibliya ang salitang kaila-ilaliman ay palaging tumutukoy sa rehiyon ng kamatayan at sa kapangyarihan ng kadiliman ni Satanas na siyang binabaan ni Kristo pagkaraan ng Kanyang kamatayan katulad ng mga dakong kalaliman ng lupa (Efe. 4:9), na Kanyang nilupig, at mula rito Siya ay umakyat sa Kanyang pagkabuhay na muli."
+        },
+        {
+            "id": "7-2",
+            "text": "Tumutukoy kay Kristong nabuhay na muli."
+        },
+        {
+            "id": "8-1",
+            "text": "Dito “ang salita” at “Kristo” (bb. 6-7) ay ginamit nang halinhinan, tinutukoy na “ang salita” ay si “Kristo.” Si Kristo ay bumaba mula sa kalangitan, at naging laman, at Siya ay umakyat mula sa Hades at nabuhay na muli, naging ang buháy na salita, yaon ay, ang Espiritu (Efe. 6:17) na nasa ating bibig at nasa ating puso, katulad ng hangin, o hininga, na maaari nating tanggapin sa ating loob, napakalapit na at napakalaan pa."
+        },
+        {
+            "id": "9-1",
+            "text": "Tayo ay kailangan ni Kristo upang makibahagi sa Kanya. Yayamang tayo ay nilikha bilang mga sisidlan upang isilid Siya, kailangan nating sumampalataya sa Kanya sa ating mga puso, sa gayon ay tinatanggap Siya, at gamitin ang ating bibig upang tumawag sa Kanya nang walang humpay at hingahin Siya, sa gayon ay hinahayaan tayong mga sisidlan Niya na mapuno ng Kanyang mga kayamanan (9:21-23)."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang pagkabuhay na muli ni Kristo mula sa mga patay ay di-nakikita, sa gayon ang tao ay kinakailangang sumampalataya. Higit pa rito, bagama’t ang kamatayan ni Kristo ang nagtubos sa atin, ang Kanyang buhay na nasa pagkabuhay na muli naman ang kinakailangan upang tayo ay maligtas. Kaya, ang tao ay kailangang sumampalataya sa napakalaking himalang ginawa ng Diyos kay Kristo, yaon ay, ang pagbabangon sa Kanya mula sa mga patay, upang ang tao ay hindi lamang matubos, bagkus maligtas din."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang sumampalataya sa puso ay patungkol sa Diyos, samantalang ang magpahayag sa pamamagitan ng bibig ay patungkol sa tao. Ang sumampalataya sa puso ay ang sumampalataya kay Kristo, na niluwalhati ng Diyos at ibinangon mula sa mga patay; ang magpahayag sa pamamagitan ng bibig ay ang ipahayag si Hesus bilang Panginoon, na hinamak at itinakwil ng tao. Ang dalawa ay mga kahilingan upang matanggap ang katuwiran at kaligtasan."
+        },
+        {
+            "id": "12-1",
+            "text": "Ito ay tumutukoy na tayo ay pinili, tinubos, inaring-matuwid, pinabanal, iwinangis, at niluwalhati ng Diyos kay Kristo upang matamasa natin ang Kanyang mga di-masayod na kayamanan kay Kristo (Efe. 3:8). Ang lihim upang magtamasa ay sa pamamagitan ng pagtawag sa Kanyang pangalan."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang pagtawag sa pangalan ng Panginoon ay hindi lamang ang lihim para sa ating kaligtasan, ito rin ang lihim upang ating matamasa ang mga kayamanan ng Panginoon. Mula kay Enos, ang ikatlong henerasyon ng tao, hanggang sa mga mananampalataya sa Bagong Tipan, ang lahat ng mga pinili at tinubos ng Diyos ay nagtatamasa sa katubusan, sa kaligtasan, at sa lahat ng mga kayamanan ni Kristo sa pamamagitan ng lihim na ito (tingnan ang tala 21-1 sa Gawa 2)."
+        },
+        {
+            "id": "13-2",
+            "text": "Nangangahulugang madala tungo sa loob ng pagtatamasa sa mga kayamanan ng Panginoon. Ang Panginoon ay mayaman sa mga Hudyo at sa mga Griyego. Lahat ng tumatawag sa Kanyang pangalan ay nagtatamasa sa mayamang Panginoong ito, at sila ay napupunuan Niya upang ihayag Siya."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang sumampalataya tungo sa loob ng Panginoon ay humihiling ng pagtawag sa Kanyang pangalan. Ang bunga ng pagtawag sa pangalan ng Panginoon ay kagyat na kaligtasan (bb. 10, 13)."
+        },
+        {
+            "id": "14-2",
+            "text": "Nagpapahiwatig na ang pagsampalataya ay sa pamamagitan ng salita at dahil sa salita (b. 17)."
+        },
+        {
+            "id": "16-1",
+            "text": "Sa pantaong pakahulugan, ang pagtalima sa ebanghelyo ay higit na malalim kaysa pagsampalataya sa ebanghelyo. Ito ang pagpapasuko ng Espiritu Santo sa tao bago siya sumampalataya sa ebanghelyo. Yaong mga hindi tumatalima sa ebanghelyo ay magiging kaaway ng ebanghelyo ng Diyos (11:28), yaon ay, kaaway ng Diyos Mismo."
         }
     ]
 }

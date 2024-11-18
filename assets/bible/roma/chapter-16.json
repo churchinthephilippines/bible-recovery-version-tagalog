@@ -1,5 +1,5 @@
 {
-    "chapter": 16,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Itinatagubilin",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -24,11 +24,11 @@
             "footnotes": [
                 {
                     "word": "nararapat",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "katulong",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -45,15 +45,15 @@
             "footnotes": [
                 {
                     "word": "nagpain",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "buhay,",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -64,11 +64,11 @@
             "footnotes": [
                 {
                     "word": "ekklesiang",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "bahay.",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -103,7 +103,7 @@
             "footnotes": [
                 {
                     "word": "nabibilang",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -114,7 +114,7 @@
             "footnotes": [
                 {
                     "word": "nabibilang",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -131,7 +131,7 @@
             "footnotes": [
                 {
                     "word": "akin.",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -154,7 +154,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -165,11 +165,11 @@
             "footnotes": [
                 {
                     "word": "katitisurang",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "magsilayo",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -180,15 +180,15 @@
             "footnotes": [
                 {
                     "word": "nagsisipaglingkod",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "tiyan;",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -199,7 +199,7 @@
             "footnotes": [
                 {
                     "word": "musmos",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -210,11 +210,11 @@
             "footnotes": [
                 {
                     "word": "dudurugin",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -243,7 +243,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -254,23 +254,23 @@
             "footnotes": [
                 {
                     "word": "Ngayon",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "makapagpapatibay",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "aking",
-                    "note": ""
+                    "id": "25-3"
                 },
                 {
                     "word": "hiwaga,",
-                    "note": ""
+                    "id": "25-4"
                 },
                 {
                     "word": "panahong",
-                    "note": ""
+                    "id": "25-5"
                 }
             ],
             "outlines": [
@@ -283,7 +283,7 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -294,10 +294,124 @@
             "footnotes": [
                 {
                     "word": "marunong,",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang kapitulong ito ang konklusyon ng aklat na ito, kung saan nakapaloob ang lahat ng mga tagubilin at mga pagbati. Hindi lamang nito sinasalita ang tungkol sa pagmamalasakitan sa isa’t isa sa gitna ng mga banal, bagkus sinasalita rin ang tungkol sa pagsasalamuha sa gitna ng mga ekklesia (bb. 1, 4-5, 16, 23). Ang kapitulong ito ay nagpapakita sa atin ng ilan sa mga kondisyong nararapat taglayin ng isang ekklesia na nasa isang lokalidad. Ito ang nagiging pang-apat na istasyon ng mga pahayag ng aklat na ito, na siyang konklusyon ng mga pahayag ng aklat na ito. Ito ang nagdaragdag ng bigat sa mga nilalaman at kahalagahan ng aklat na ito na hindi lamang tagubilin at pagbati, bagkus higit pa, ay, ang pagtatanghal ng ekklesia lokal."
+        },
+        {
+            "id": "1-2",
+            "text": "Hindi ginamit sa aklat na ito ang terminong “ekklesia” hanggang sa umabot sa 16:1. Sa kapitulong ito limang ulit (bb. 1, 4, 5, 16, 23) na binanggit ang “ekklesia” at ang “mga ekklesia” Sa naunang labinlimang kapitulo, maraming bagay ang tinalakay para sa pagbubunga at pagtatayo ng ekklesia, gaya ng: ang Tres-unong Diyos Mismo (8:31), na Siyang Ama (1:7; 8:15), na Siyang Anak (1:4; 8:3), (ang Anak ay Siyang Panginoon-1:4, 7; 10:12; 14:9; na si Hesus-3:26; 4:24; na si Kristo-5:6; 6:4; 8:34; 6:3; 8:10; 13:14; na Tao-5:15; at siyang ugat ni Jesse-15:12), at Siyang Espiritu (5:5; 8:16, 26) (ang Espiritu bilang ang unang bunga-8:23); ang Kanyang awa (9:23; 11:32), ang Kanyang kahabagan (9:15; 12:1), ang Kanyang pag-ibig (5:5; 8:35, 39), ang Kanyang kabutihan (2:4; 11:22), ang Kanyang biyaya (5:2, 15), ang Kanyang mga walang bayad na kaloob (5:15-16; 11:29), ang Kanyang mga kaloob (12:6), ang Kanyang katuwiran (1:17; 3:21), ang Kanyang kabanalan (1:4), ang Kanyang katapatan (3:3), ang Kanyang kapayapaan (15:33; 16:20), ang Kanyang pag-asa (15:13), ang Kanyang kagalakan (15:13), ang Kanyang pagtitiis (15:5), ang Kanyang pagpapalakas-loob (15:5), ang Kanyang mga kayamanan (10:12; 11:33), ang Kanyang karunungan (11:33), ang Kanyang kaalaman (11:33), ang Kanyang kapangyarihan (1:16), ang Kanyang awtoridad (9:21), ang Kanyang buhay (5:21), ang Kanyang kautusan ng buhay (8:2), ang Kanyang pagka-anak (8:15), ang Kanyang kaluwalhatian (5:2; 9:23), at ang Kanyang kaharian (14:17); ang Kanyang pagkilala nang una pa man (8:29), ang Kanyang paghirang (9:11; 11:5), ang Kanyang pagtatalaga nang una pa man (8:29), ang Kanyang paghahanda (9:23), ang Kanyang pagtitira ng mga nalalabi (11:4-5), ang Kanyang pagtawag (8:30; 11:29), ang Kanyang pag-uugpong (11:17), ang Kanyang pagtutubos (3:24), ang Kanyang pagpapalubag-loob (3:25), ang Kanyang pagliligtas (1:16), ang Kanyang pag-aaring-matuwid (3:26, 30), ang Kanyang pakikipagkasundo (5:10-11), ang Kanyang pagpapalaya (8:2), ang Kanyang pagpapabanal (6:19, 22), ang Kanyang pagtatransporma (12:2), ang Kanyang pagpapabago (12:2), ang Kanyang pagwawangis (8:29), ang Kanyang pagtutubos ng ating katawan (8:23), at ang Kanyang pagluluwalhati sa atin (8:30); ang Kanyang pagtanggap (14:3; 15:7), ang Kanyang pananahanan (8:11), ang Kanyang pagbibigay-buhay (8:11) , ang Kanyang pagpapatnubay (8:14), ang Kanyang pagsaksi (8:16), ang Kanyang pagtulong (8:26), ang Kanyang pamamagitan sa ating loob (8:26), ang Kanyang pamamagitan sa kalangitan (8:34), ang Kanyang pagbibigay ng lahat ng bagay sa atin (8:32), at ang Kanyang pagsasanhi ng lahat ng bagay na gumawa para sa ating ikabubuti (8:28); dagdag pa, ang Kanyang pagkakatawang-tao (1:3; 10:6), ang Kanyang pagkapako sa krus (5:8; 6:6), ang Kanyang dugo (3:25), ang Kanyang pagiging ang kinauuwian ng kautusan (10:4), ang Kanyang pagkabuhay na muli (4:25; 10:7), at ang Kanyang pag-akyat sa langit (8:34); at ang lahat ng ito ay pawang nakahanda na at karamihan sa mga ito ay nagamit sa pagbubunga at pagtatayo ng ekklesia para sa katuparan ng layunin ng Diyos nang ayon sa Kanyang kalooban (12:2). Ang aklat na ito ay naghahayag ng apat na istasyon: ang unang istasyon, ang pag-aaring-matuwid, na tinalakay mula kapitulo 1 hanggang kapitulo 4, ay narating sa kapitulo 4; ang pangalawang istasyon, ang pagpapabanal, na tinalakay mula kapitulo 5 hanggang kapitulo 8, ay narating sa kapitulo 8; ang pangatlong istasyon, ang siyang Katawan ni Kristo, na tinalakay mula kapitulo 9 hanggang kapitulo 12, ay narating sa kapitulo 12; at ang pang-apat na istasyon, ang mga ekklesiang nahayag sa mga lokalidad o isang ekklesia sa isang lokalidad, yaon ay, ang praktikal na pamumuhay-Katawan ni Kristo sa bawa’t lokalidad, na tinalakay mula kapitulo 13 hanggang kapitulo 16, ay narating sa kapitulo 16. Ito ang ipinahayag ng aklat na ito: ang sukdulang kaganapan ng ganap na pagliligtas ng ebanghelyo ng Diyos ay hindi ayon sa doktrina kundi ayon sa realidad at praktikalidad. Sa unang istasyon, tayo ay naisilang-na-muli at nangaligtas; sa pangalawang istasyon tayo ay naibukod at napabanal; sa pangatlong istasyon tayo ay napabago at natransporma; sa pang-apat na istasyon, sa ating pagsasagawa ng buhay ekklesia; si Satanas ay dinurog natin sa ilalim ng ating mga paa at natatamasa natin nang lubos ang biyaya ng ating Panginoon at ang kapayapaan ng Diyos (b. 20)."
+        },
+        {
+            "id": "2-1",
+            "text": "Nangangahulugang tanggapin si Febe nang nababagay sa kanyang katayuan bilang isang banal. Sinasabi sa 1:7 na ang mga banal ay tinawag ng Diyos, naibukod mula sa lahat ng bagay maliban sa Diyos, tinawag tungo sa Diyos bilang mga banal at katangi-tanging tao, marangal, at hindi pangkaraniwan. Sa gayon, ninais ng apostol na si Febe ay tanggapin ng mga banal sa Roma nang ayon at angkop sa kanyang marangal na katayuan bilang isang banal."
+        },
+        {
+            "id": "2-2",
+            "text": "O, tagapagsanggalang. Ito ay isang salita ng karangalan, tumutukoy sa isang tumutulong, nagsusustento, at nagtutustos. Ito ay nagpapakita na mataas ang tingin ng mga mananampalataya kay Febe; ito ay dahil sa kanyang paglilingkod sa ekklesia na nasa Cencrea."
+        },
+        {
+            "id": "4-1",
+            "text": "Sina Prisca at Aquila ay sukdulang para sa mga ekklesia-lokal. Pinagmamalasakitan nila ang ekklesia at handa nilang isapanganib ang kanilang mga leeg at mamartir para sa mga apostol."
+        },
+        {
+            "id": "4-2",
+            "text": "Lit. kaluluwa."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang Katawan ni Kristo ay ang pansansinukob na ekklesia, ay namumukod-tanging isa (Efe. 1:23; 4:4). Ang pansansinukob na ekklesiang ito ay nahahayag sa maraming lokalidad sa lupa upang maging ang maraming ekklesia-lokal. Kaya sa bersikulong ito ay tinaguriang ”mga ekklesia.” Ang mga ekklesia sa mga lokalidad ay para sa mga banal sa kanilang mga sari-sariling lokalidad upang ipamuhay at isagawa ang buhay-ekklesia."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang ekklesia sa bahay nina Prisca at Aquila ay tiyak na ang ekklesia sa lunsod ng Roma. Nang sila ay tumira sa Efeso (Gawa 18:18-19), ang ekklesia sa Efeso ay nasa kanilang bahay rin (I Cor. 16:19). Saanman sila naroon, binuksan nila ang kanilang bahay at pinasan ang kabigatan ng aktuwal na pagsasagawa ng kahayagan ng ekklesia."
+        },
+        {
+            "id": "5-2",
+            "text": "Ito ay nagpapakita na ang pangunahing pulungang-lugar ng mga sinaunang banal ay ang kanilang mga bahay. Ito ay tumutugma sa Gawa 2:46 at 5:42 (tingnan ang tala 46-3 sa Gawa kapitulo 2)."
+        },
+        {
+            "id": "10-1 11",
+            "text": "Ayon sa pagkakayari at pagpapahiwatig ng salaysay na ito, yaong mga nabibilang kina Aristobulo at Narciso ay hindi mga miyembro ng sambahayan ng dalawa; posibleng sila ay mga alipin nila, na ayon sa kinaugalian noon ay nagiging mga pag-aari ng bumili sa kanila. Sina Aristobulo at Narciso, ang dalawang ulo ng dalawang pamilyang ito ay hindi mga mananampalataya sapagka’t sila ay hindi binati rito. Nang panahong yaon, maraming alipin na nagbenta ng kanilang mga sarili at naiwala ang kanilang kalayaan ang sumampalataya kay Kristo at naging mga banal. Gayunpaman, ang mga nagmamay-ari sa kanila ay hindi mananampalataya."
+        },
+        {
+            "id": "13-1",
+            "text": "Si Rufo ay isang kapatid na lalake na nasa Roma; ang kanyang ina ay nasa Roma rin. Tinukoy ni Pablo ang ina ni Rufo bilang kanyang ina. Ito ay nagpapahiwatig ng paggalang at pagiging malapit."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang mga ekklesia ay hindi mga personal na pag-aari o personal na gawa ninuman kundi kay Kristo."
+        },
+        {
+            "id": "17-1",
+            "text": "Tumutukoy sa pagiging natisod at sa pag-alis sa buhay-ekklesia. Tiyak na iba’t ibang opinyon at iba’t ibang pagtuturo ang naging sanhi nito."
+        },
+        {
+            "id": "17-2",
+            "text": "Sa kapitulo 14, si Pablo ay lubhang liberal at mapagbigay sa pagtanggap doon sa mga naiiba sa mga doktrina at mga gawi. Subali’t dito, lubhang mahigpit siya sa pag-aatas sa atin na lumayo roon sa mga tumatangan ng mga mapagtutol na opinyon, gumagawa ng mga pagbabaha-bahagi at ng mga sanhi ng pagkatisod. Ang dalawa ay kapwa para sa pagpapanatili ng pagkakaisa ng Katawan ni Kristo, upang tayo ay makapamuhay ng wastong buhay-ekklesia."
+        },
+        {
+            "id": "18-1",
+            "text": "Lit. nagsisipaglingkod bilang mga alipin."
+        },
+        {
+            "id": "18-2",
+            "text": "Sa orihinal na teksto, ito ay isang reperensiya sa butas, tumutukoy sa tiyan o sa buong tiyan na kinaroroonan ng katakawan ng tao."
+        },
+        {
+            "id": "18-3",
+            "text": "Tumutukoy sa inosente, walang pagdududa sa kapwa."
+        },
+        {
+            "id": "19-1",
+            "text": "Lit. dalisay."
+        },
+        {
+            "id": "20-1",
+            "text": "Dito, ang Diyos ay nangakong dudurugin si Satanas sa ilalim ng mga paa niyaong mga nagbubuhay-ekklesia, nagpapakita na ang pagdudurog kay Satanas ay iniugnay sa buhay-ekklesia. Ang pakikipagtuos kay Satanas ay hindi isang personal na bagay, kundi isang pangkatawang bagay. Kapag tayo ay may wastong ekklesia lokal bilang praktikal na kahayagan ng Katawan, si Satanas ay madudurog sa ilalim ng ating mga paa."
+        },
+        {
+            "id": "20-2",
+            "text": "Hindi lamang dinudurog ng buhay-ekklesia si Satanas sa ilalim ng ating mga paa, bagkus sinasanhi rin na maranasan natin ang Diyos ng kapayapaan at matamasa ang kayamanan ng biyaya ng ating Panginoon."
+        },
+        {
+            "id": "24-1",
+            "text": "Sa ibang manuskrito ay hindi nakatala ang bersikulo 24."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang mga bersikulo 25-27 ay maaring isalin nang literal gaya ng sumusunod: Nawa ang kaluwalhatian, sa pamamagitan ni Hesu-Kristo, ay mapasa Isa na may kakayahan (ayon sa aking ebanghelyo tungkol sa pagpapahayag kay Hesu-Kristo, ayon sa pahayag ng hiwagang inilihim sa buong itinagal ng mga henerasyon, subali’t ngayon ay nahayag, at ayon sa pag-uutos ng walang hanggang Diyos, sa pamamagitan ng mga sinulat ng mga propeta, upang malaman ng lahat ng mga bansa, tungo sa kanilang pagtalima sa pananampalataya) na magpatibay sa inyo, sa iisang Diyos na marunong; sumasa Kanya ang kaluwalhatian magpakailanman, Amen!"
+        },
+        {
+            "id": "25-2",
+            "text": "Tingnan ang tala 10-7 sa 1 Pedro kapitulo 5. Sa kapitulo 16, ang ating pangangailangan ay hindi na kaligtasan o pagpapabanal, kundi ang pagpapatibay. Ang lahat ay naisagawa na, kailangan na lamang nating magpatibay. Ang ating pagpapatibay ay ayon sa dalisay at kumpletong ebanghelyo ng Diyos tungkol sa pagpapahayag at pagtutustos ng nagpapaloob-ng-lahat na Kristo, at ayon din sa pahayag ng hiwagang inilihim sa buong itinagal ng mga henerasyon. Tangi lamang ang dalisay na ebanghelyo, ang nabubuhay na Kristo at ang hiwagang inihayag ng Diyos, ang makapagpapatibay sa atin at makapag-iingat sa atin sa loob ng pagkakaisa para sa buhay-ekklesia."
+        },
+        {
+            "id": "25-3",
+            "text": "Yaon ay, ang kumpletong ebanghelyo, na kinapapalooban ng pagtuturo ukol kay Kristo at sa ekklesia at nagtatapos sa mga ekklesia lokal gaya ng lubusang ipinahayag sa aklat na ito. Tingnan ang tala 1-9 sa kapitulo 1."
+        },
+        {
+            "id": "25-4",
+            "text": "Ang hiwaga ng Diyos na nakatago sa katahimikan noong mga panahong walang hanggan, sa pangunahin, ay ukol sa dalawang aspekto: ang isa ay ang hiwaga ng Diyos na si Kristo (Col. 2:2) na nasa loob ng mga mananampalataya (Col. 1:26-27) bilang kanilang buhay at kanilang lahat, ginagawa silang mga sangkap ng Kanyang Katawan; ang isa naman ay ang hiwaga ni Kristo na siyang ekklesia bilang Kanyang Katawan (Efe. 3:4-6), hinahayag ang Kanyang kapuspusan (Efe. 1:22-23). Kaya nga, si Kristo at ang ekklesia ay ang dakilang hiwaga (Efe5:32)."
+        },
+        {
+            "id": "25-5",
+            "text": "Tumutukoy sa umpisa ng sanlibutan."
+        },
+        {
+            "id": "26-1",
+            "text": "Sa mga kapitulo 15 at 16 ang Diyos ay tinawag na Diyos ng pagtitiis at pagpapalakas-loob (15:5), ang Diyos ng pag-asa (15:13), ang Diyos ng kapayapaan (b. 20), ang walang hanggang Diyos (b. 26), at ang iisang Diyos na marunong (b. 27). Ang ating Diyos ay isang mayamang Diyos sa maraming aspekto. Ang ebanghelyo sa aklat na ito ay ang ebanghelyo ng isang gayong mayamang Diyos. Ang ebanghelyong ito ay humahantong sa praktikal na buhay ekklesia."
+        },
+        {
+            "id": "27-1",
+            "text": "Tingnan ang tala 33-2 sa kapitulo 11. Sa pangkalahatan, tinalakay ng aklat na ito ang buhay-Kristiyano at buhay-ekklesia, at sa konklusyon nito ay ibinibigay ang “kaluwalhatian” sa Diyos na “marunong.” Ito ay nagpapakita na ang lahat ng mga bagay na tinalakay sa aklat na ito, katulad ng kung paano tayo pinili ng Diyos, kung paano tayo iniligtas mula sa kasalanan at kamatayan, kung paano Niya tayo tinubos, inaring-matuwid, kung paano tayong mga lubos na patay na makasalanan ay ginawa Niyang Kanyang mga dibinong anak, kung paano Niya tayo inilipat mula kay Adam tungo kay Kristo, kung paano Niya tayo pinababanal at tinatransporma, kung paano Niya tayo ginawang mga sangkap ni Kristo upang buuin ang Katawan ni Kristo, at kung paano Niya tayo ginawang ekklesia lokal na nahahayag sa bawa’t lokalidad, upang maging kahayagan sa lupa ng Katawan ni Kristo sa kapanahunang ito, atbp., ay pawang mga plano, ekonomiya, at katuparan ng Kanyang karunungan upang ang Tres-unong Diyos na may mga di-nalilimitahang kayamanan ay maluwalhati. Ito ay upang sanhiin ang Kanyang walang kaparis na kaluwalhatian na lubusang maihayag sa pamamagitan natin, na Kanyang mga pinasakdal magpasawalang-hanggan, at naging Kanyang Katawan at nakaugpong sa Kanya upang maging kaisa Niya. Ang sentrong punto ng Kanyang karunungan ay ang pamamahagi ng Kanyang dibinong Trinidad tungo sa loob ng tatlong bahagi ng mga tinubos: ang espiritu, kaluluwa, at katawan, upang tayo ay mapasakdal nang walang hanggan sa loob ng Kanyang pagtutubos, pagpapabanal, pagtatransporma, at pag-uugpong sa Kanyang masaganang dibinong buhay, at upang maisakatuparan nang walang hanggan ang Kanyang naising pinaghalo ng pagka-Diyos at pagkatao at pinag-ugpong ng pagkatao at pagka-Diyos. Tunay nga Siyang karapat-dapat sa ating pagpapahalaga at pagsamba! Lubhang pinagpala nga tayo sa pagkakaroon ng bahagi rito! Anong luwalhati! Ito ay karapat-dapat sa ating walang patid na pagpuri hanggang sa kawalang-hanggan! Maging ang ating buhay-Kristiyano o buhay-ekklesia ay nararapat magkaroon ng pagbibigay ng kaluwalhatian sa Diyos na marunong bilang sentro at gol. Kanyang pagpalain nawa ang bawa’t isa na Kanyang hinirang at pinasakdal! Sa pamamagitan ng dibinong pamamahagi ng Diyos sa loob natin at sa pamamagitan ng Kanyang dibinong pagkikipagkaisa sa atin, nararanasan at natatamasa natin ang pagliligtas ng Diyos ( tingnan ang tala 10-2 sa kapitulo 5), gaya ng ipinahahatid sa atin sa aklat na ito, sa mga sumusunod sa aspekto: (1) Sa pamamagitan ng kasaganahan ng biyaya (ang Diyos mismo) at ng kaloob ng katuwiran (si Kristo mismo) na ating natanggap, nakakayanan nating makapaghari sa loob ng dibinong buhay ni Kristo (5:17) sa ibabaw ng kasalanan, kamatayan, lumang tao, laman, kay Satanas, sa sanlibutan, at sa lahat ng tao, pangyayari, at bagay na hindi nagpapasakop sa Diyos. (2) Pinababanal ng banal na kalikasan ng Diyos ang ating makasanlibutang disposisyon (6:19,22; 15:16). Pinababanal tayo ng Diyos sa pandisposisyon mula sa Kanyang dibinong buhay at tungo sa Kanyang dibinong buhay upang higit pa nating matamasa ang Kanyang dibinong buhay. (3) Ang nananahang kautusan ng Espiritu ng buhay, yaon ay, ang awtomatiko at kusang paggawa ng Tres-unong Diyos bilang buhay sa loob natin, ay nagpapalaya sa atin mula sa kautusan ng kasalanan at ng kamatayan, sa pang-aalipin at gapos ng kasalanan (8:2,11). Ang paggawa ng kautusang ito ay nagmumula sa dibinong buhay ng Diyos, at sinasanhi rin nito ang pagdagdag ng dibinong buhay sa loob natin. (4) Ang dibinong pamamahagi ng Dibinong Trinidad sa ating espiritu, kaluluwa, at katawan, ay nagsasanhi sa tatlong bahaging ito na mababaran ng naprosesong dibinong buhay (8:5-11), nagreresulta sa pagsasanhi sa ating buong katauhan na maipagkaisa nang lubusan sa naprosesong Tres-unong Diyos at maihalo sa Kanya bilang iisa. (5) Ang pagpapabago ng ating kaisipan ng Espiritu ay nagreresulta sa transpormasyon ng ating kaluluwa, na nagliligtas sa atin mula sa pagiging naiwangis sa modernong estilo ng sanlibutan (12:2) at nagreresulta sa lahat ng mga kagalingan at pananagumpay, na binanggit sa mga kapitulo 12-16, bilang ating pang-araw-araw na buhay, isang buhay na nasa pinakamataas na pamantayan, at bilang ating buhay-ekklesia, isang buhay na lubusang nananagumpay. (6) Sa pamamagitan ng pagbabago ng ating kaisipan at transpormasyon ng ating kaluluwa, nagiging sangkap tayo ng isa’t isa kasama ang lahat ng mananampalataya sa katawan ni Kristo at naitayo bilang ang katawan ni Kristo at sa gayo’y natataglay ang paglilingkod ng katawan (12:1,3-8). Ito ang pagpapakristal ng ating karanasan ukol sa pagliligtas sa loob ng buhay ni Kristo. (7) Batay sa pahayag at pagtuturo sa mga kapitulo 14-16 ng aklat na ito, ipinamumuhay natin ang buhay ng ekklesia lokal sa iba’t ibang lokalidad bilang ang pagpapakita ng katawan ni Kristo, ang pansasinukob na ekklesia, sa iba’t ibang lokalidad. (8) Sa pamamagitan ng pagiging ang naitayong ekklesia, isang ekklesia na laban dito ang mga pintuan ng Hades ay hindi mananaig, sa iba’t ibang lokalidad, binibigyan natin ang Diyos ng pagkakataong durugin si Satanas sa ilalim ng ating mga paa upang matamasa natin si Kristo bilang ating mayamang biyaya at ang Diyos ng kapayapaan bilang ating humihigit na kapayapaan. (9) Sa ating karanasan ng iba’t ibang aspekto ng pagliligtas sa dibinong buhay, gaya ng nabanggit sa itaas, tayo ay naiwangis sa larawan ng panganay na Anak ng Diyos (8:28-29) sa pamamagitan ng “lahat na bagay” na isinaayos sa ilalim ng kataas-taasang kapangyarihan ng Diyos, nang sa gayon ay mataglay natin ang Kanyang mga dibinong katangian at ang Kanyang mga pantaong kagalingan at sa gayon ay ihayag ang kaluwalhatian at kagandahan Niya, ang Diyos-tao. (10) Sa hakbangin ng ating pagdaranas ng pagliligtas sa loob ng dibinong buhay, ang karilagan ng dibinong buhay ay unti-unting tumitigmak sa atin hanggang sa matigmakan nito ang ating katawan, na nagreresulta sa katubusan ng ating katawan (8:23), upang ang ating espiritu, kaluluwa, at katawan ay pawang makapasok sa kaluwalhatian ng Diyos (8:30,17). Ang pagluluwalhating ito ay ang rurok na naisakatuparan sa atin ng pagliligtas sa loob ng dibinong buhay, at ito ang kasukdulan ng ganap na pagliligtas ng Diyos."
         }
     ]
 }

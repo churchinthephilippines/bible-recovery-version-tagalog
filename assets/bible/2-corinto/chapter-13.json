@@ -1,5 +1,5 @@
 {
-    "chapter": 13,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -19,15 +19,15 @@
             "footnotes": [
                 {
                     "word": "katunayan",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "nagsasalita",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "makapangyarihan.",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -38,19 +38,19 @@
             "footnotes": [
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "kahinaan,",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "kami",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -61,19 +61,19 @@
             "footnotes": [
                 {
                     "word": "pananampalataya;",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "subukin",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "Hesu-",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "disaprobado?",
-                    "note": ""
+                    "id": "5-4"
                 }
             ],
             "outlines": null
@@ -84,7 +84,7 @@
             "footnotes": [
                 {
                     "word": "kami",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -95,7 +95,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -106,11 +106,11 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "katotohanan,",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -121,11 +121,11 @@
             "footnotes": [
                 {
                     "word": "mahihina",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pagpapasakdal.",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -142,27 +142,27 @@
             "footnotes": [
                 {
                     "word": "mangagsigalak",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "Mangagpakasakdal",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "mangagsilakas",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "mangagkaisa",
-                    "note": ""
+                    "id": "11-4"
                 },
                 {
                     "word": "mangabuhay",
-                    "note": ""
+                    "id": "11-5"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "11-6"
                 }
             ],
             "outlines": [
@@ -176,7 +176,7 @@
             "footnotes": [
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -195,12 +195,102 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": [
                 "C. Pagpapala\n b. 14"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "3-1",
+            "text": "Habang si Kristo ay nagsasalita sa loob ng apostol, Siya ay makapangyarihan sa loob ng mga mananampalataya. Ito ay totoong isang matibay at subhektibong katunayan para sa mga mananampalataya upang makita na si Kristo nga ay nagsasalita sa loob ng apostol."
+        },
+        {
+            "id": "4-1",
+            "text": "Lit. mula sa."
+        },
+        {
+            "id": "4-2",
+            "text": "Tumutukoy sa kahinaan ng katawan, katulad ng sa 10:10. Sa ganang Kanyang Sarili, si Kristo ay hindi kinakailangang maging mahina sa anumang paraan, subali’t para sa pagsasakatuparan ng pagtutubos alang-alang sa atin, Siya ay nahahandang maging mahina sa Kanyang katawan upang Siya ay maipako sa krus. Gayunpaman, Siya ay nabubuhay ngayon, matapos mabuhay na muli, sa pamamagitan ng kapangyarihan ng Diyos."
+        },
+        {
+            "id": "4-3",
+            "text": "Sinunod ng mga apostol ang halimbawa ni Kristo, kaya sa kanilang organikong pakikipagkaisa sa Kanya, sila ay nahahandang maging mahina upang makapamuhay sila na kasama ni Kristo sa isang napako sa krus na buhay. Kaya, sila ay namumuhay na kasama Niya sa pamamagitan ng kapangyarihan ng Diyos tungo sa mga mananampalataya. Sa wari sila ay mahina tungo sa kanila; subali’t sa katunayan sila ay makapangyarihan."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang obhektibong pananampalataya (Gawa 6:7; I Tim. 1:19 at tala 3). Kung ang sinuman ay nasa obhektibong pananampalataya, siya ay tiyak na may subhektibong pananampalataya, sumasampalataya kay Kristo at sa buong nilalaman ng Bagong Tipang ekonomiya ng Diyos. Ito ang hinihiling ng apostol sa mga taga-Corinto na siyasatin."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang “siyasatin” ay ang tiyakin ang iyong kondisyon; ang “subukin” ay ang tiyakin ang iyong katayuan kung kwalipikado."
+        },
+        {
+            "id": "5-3",
+            "text": "Hangga’t natatanto na ng isang mananampalataya na si Hesu-Kristo ay nasa loob niya, siya ay kwalipikado at aprobadong isang tunay na sangkap ni Kristo."
+        },
+        {
+            "id": "5-4",
+            "text": "Yaon ay, hindi naging karapat-dapat, o hindi kwalipikado."
+        },
+        {
+            "id": "6-1",
+            "text": "Sa pamamagitan ng mga salitang “hindi disaprobado” bumaling ang apostol sa kanyang sarili at sa mga apostol, ipinakikita na yamang sila ay may Kristo na namumuhay at nagsasalita sa loob nila, sila ay ganap na kwalipikado at hindi disaprobado, lalung-lalo na sa gitna ng mga magulong taga-Corinto. Masidhing inaasahan ng apostol na makilala nila ito, at mawalan sila ng iba pang mga katanungan tungkol sa kanya."
+        },
+        {
+            "id": "7-1",
+            "text": "Ito ay nagpapakita na pinatutunayan ng paggawa ng mabuti ng mga mananampalataya ang kwalipikasyon at pagtuturo ng mga apostol. Gayunpaman, hindi binibigyang pansin ito ng apostol bilang isang kinatatayuan upang gamitin ang kanyang apostolikong awtoridad sa pagdidisiplina sa kanila; siya ay nagbibigay-pansin sa kanilang paggawa ng mabuti upang sila ay maitatag at maitayo."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang salitang “sapagka’t” ay nagpapakita na ang bersikulo 8 ay isang pagpapaliwanag ng mga binanggit sa naunang bersikulo. Ang inaasahan ng apostol ay yaong ang mga mananampalatayang taga-Corinto ay gumawa ng mabuti, hindi yaong ang mga apostol ay magmukhang aprubado. Ang mapagtibay ang mga mananampalataya na gumawa ng mabuti ay para sa katotohanan, nguni’t ang palabasing aprubado ng mga apostol ang kanilang mga sarili at ang ipagtanggol ang kanilang mga sarili sa mga mananampalataya (12:19) ay laban sa katotohanan. Hindi pahihintulutan ng Panginoon ang mga apostol na gawin ito; kaya, hindi nila magagawa ang ganito."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang realidad ng nilalaman ng pananampalataya. Tingnan ang tala 4-2 sa I Timoteo 2."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang “mahihina” rito ay katulad ng “gaya ng disaprobado.” Nang ang mga apostol ay nagmukhang disaprobado, sila ay mahihina sa pamamahala ng pagdisiplina sa mga mananampalataya. Nang ang mga mananampalataya ay gumawa ng mabuti, sila ay makapangyarihan at ginawa nilang mahihina ang mga apostol at walang kakayahan sa pagdidisiplina sa kanila. Ang mga apostol ay natuwa rito at nanalangin para rito, yaon ay, para sa pagpapasakdal ng mga mananampalataya."
+        },
+        {
+            "id": "9-2",
+            "text": "Lit. pagbabawi, nagpapahiwatig ng pagkukumpuni, pagwawasto, pagsasaayos muli, at pagsusulsi, maganda at ganap na pagsasama (paghambingin ang I Cor. 1:10 at tala 4), ganap na pagsasangkap, mahusay na pagkakaloob, sa gayon ay pinasasakdal, binubuo, kinukumpleto at tinuturuan. Ang mga apostol ay nananalangin para sa mga taga-Corinto upang sila ay mapanumbalik, maisaayos muli, at ganap na masangkapan at mapagtibay upang lumago sa buhay para sa pagtatayo ng Katawan ni Kristo."
+        },
+        {
+            "id": "11-1",
+            "text": "Yamang ang mga apostol ay nangagagalak (b. 9), mahihikayat nila ang mga mananampalataya na mangagsigalak din. Ito ay hindi ginawa sa loob ng kanilang likas na buhay, kundi sa loob ng Panginoon (Fil. 3:1; 4:4; I Tes. 5:16)."
+        },
+        {
+            "id": "11-2",
+            "text": "Lit. ganap na binuo, yaon ay, kinumpuni o iwinasto, isinaayos muli, sinulsi, maganda at ganap na pinagsama, kaya pinanumbalik. Sa Griyego, i to ang ugat ng sali tang “pagpapasakdal” sa bersikulo 9, at gayun din ang ugat ng “ikasasakdal” sa Efe. 4:12."
+        },
+        {
+            "id": "11-3",
+            "text": "Pinalakas ng Diyos ng lahat ng pagpapalakas-loob ang loob ng mga apostol (1:3-6). Lubusang nalumbay ang mga taga-Corinto sa unang Sulat ng apostol sa kanila. Ngayon, sa ikalawang Sulat, pinalakas niya ang loob nila sa pamamagitan ng pagpapalakas-loob ng Diyos na kanyang naranasan (7:8-13)."
+        },
+        {
+            "id": "11-4",
+            "text": "Ito ang pangunahing bagay na kinakailangan ng mga naguluhan at nalitong taga-Corinto upang sila ay mapasakdal, maiayos, mailagay sa wastong lugar, at mapanumbalik, katulad ng panghihikayat na ginawa ni Pablo sa kanila sa kanyang unang Sulat (I Cor. 1:10)."
+        },
+        {
+            "id": "11-5",
+            "text": "Yaon ay, ang mapasa kapayapaan sa isa’t isa, at marahil gayundin sa Diyos."
+        },
+        {
+            "id": "11-6",
+            "text": "Ang mga taga-Corinto ay kulang sa pag-ibig (I Cor. 8:1; 13:1-3, 13; 14:1) at kulang sa kapayapaan dahilan sa pagiging naguluhan ng mga nakagugulong pagtuturo at mga nakalilitong konsepto. Kaya, ninais ng apostol na ang Diyos ng pag-ibig at kapayapaan ay mapasakanila upang sila ay maisaayos at mapasakdal. Kailangan nilang mapuspusan ng pag-ibig at kapayapaan ng Diyos upang sila ay makalakad ayon sa pag-ibig (Roma 14:15; Efe. 5:2) at magkaroon ng kapayapaan sa isa’t isa (Roma 14:19; Heb. 12:14)."
+        },
+        {
+            "id": "12-1",
+            "text": "Isang halik ng dalisay na pag-ibig na walang anumang halong nakahahawa."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang biyaya ng Panginoon ay ang Panginoon Mismo bilang buhay sa atin para sa ating pagtatamasa (Juan 1:17 at tala 1; I Cor. 15:10 at tala 1), ang pag-ibig ng Diyos ay ang Diyos Mismo (I Juan 4:8, 16) bilang pinagmumulan ng biyaya ng Panginoon, at ang pakikipagsalamuha ng Espiritu Santo ay ang Espiritu Santo Mismo bilang paghahatid ng biyaya ng Panginoon kasama ang pag-ibig ng Diyos para sa ating pakikibahagi. Ang mga ito ay hindi tatlong magkakahiwalay na bagay, kundi tatlong aspekto ng iisang bagay, katulad ng kung paanong ang Panginoon, ang Diyos, at ang Espiritu Santo ay hindi tatlong magkakahiwalay na Diyos, kundi tatlong ” hupostasis …gayon ding iisang hindi hati-hati at hindi nahahating Diyos” (Philip Schaff). Ang ” hupostasis ” sa Griyego ay nangangahulugang suporta sa ilalim, ang bagay na sumusuporta, ang substansya ng suporta (cf. tala 2 ng Heb. 11:1). Ang Ama, Anak, at Espiritu ay ang substansya ng suporta ng Tres-unong Diyos upang mabuo ang iisang Pamunuang-Diyos. Ang pag-ibig ng Diyos ang pinagmumulan, yamang ang Diyos ang orihen; ang biyaya ng Panginoon ang daanan ng pag-ibig ng Diyos, yamang ang Panginoon ang kahayagan ng Diyos; at ang pakikipagsalamuha ng Espiritu ang pagbabahagi ng biyaya ng Panginoon kasama ang pag-ibig ng Diyos, yamang ang Espiritu ang paghahatid ng Panginoon kasama ang Diyos, para sa ating karanasan at pagtatamasa sa Tres-unong Diyos—ang Ama, ang Anak, at ang Espiritu Santo, kasama ang Kanilang mga dibinong kagalingan. Dito, unang binanggit ang biyaya ng Panginoon, sapagka’t binibigyang-diin sa aklat na ito ang biyaya ni Kristo (1:12; 4:15; 6:1; 8:1, 9; 9:8, 14; 12:9). Ang gayong dibinong katangian ng tatlong kagalingan-pag-ibig, biyaya, at pakikipagsalamuha-at ang gayong Tres-unong Diyos ng tatlong dibinong hupostasis -ang Ama, ang Anak, at ang Espiritu-ay kinakailangan ng mga nagulo at nalito, subali’t napalakas ang loob at napanumbalik na mga mananampalatayang taga-Corinto. Kaya, ginamit ng apostol ang lahat ng dibino at mahahalagang bagay na ito sa isang pangungusap upang wakasan ang kanyang kaibig-ibig at mapagmahal na Sulat. Ang bersikulong ito ay matibay na katunayan na ang trinidad ng Pamunuang-Diyos ay hindi para sa pandoktrinang pag-unawa ng makasistemang teolohiya, kundi para sa pamamahagi ng Diyos Mismo sa Kanyang trinidad tungo sa loob ng Kanyang mga pinili at mga tinubos na tao. Sa Bibliya ang Trinidad kailanman ay hindi ipinahayag bilang isang doktrina lamang. Ito ay palaging ipinapahayag o binabanggit na may kinalaman sa kaugnayan ng Diyos sa Kanyang mga nilikha, lalung-lalo na sa mga taong nilikha Niya, at higit pa, sa Kanyang mga pinili at mga tinubos na tao. Ang unang dibinong titulo na ginamit sa Kanyang dibinong pahayag hinggil sa Kanyang nilikha ay ang Elohim sa Hebreo; ito ay pangmaramihan sa bilang (Gen. 1:1), nagpapahiwatig na Siya, bilang ang Lumikha ng langit at lupa para sa tao, ay tres-uno. Hinggil sa paglikha sa tao sa Kanyang Sariling larawan, ayon sa Kanyang wangis, ginamit Niya ang mga pangmaramihang panghalip na “Natin” at “Atin”, tumutukoy sa Kanyang Sarili na binabanggit ang Kanyang trinidad (Gen. 1:26), at ipinahihiwatig na Siya ay magiging kaisa ng tao at maihahayag Niya ang Kanyang Sarili sa pamamagitan ng tao sa Kanyang trinidad. Kalaunan, sa Gen. 3:22 at 11:7 at Isa. 6:8, tinukoy Niyang muli’t muli ang Kanyang Sarili bilang “Atin”, “Tayo”, at “Amin” hinggil sa Kanyang kaugnayan sa tao at sa Kanyang mga piniling tao. Upang matubos ang natisod na tao, nang sa gayon ay mataglay pa rin Niya ang katayuan na maging kaisa ng tao, Siya ay naging laman (Juan 1:1, 14) sa loob ng Anak at sa pamamagitan ng Espiritu (Luc. 1:31-35) upang maging tao, at namuhay ng isang pantaong buhay sa lupa, gayundin sa loob ng Anak (Luc. 2:49) at sa pamamagitan ng Espiritu (Luc. 4:1; Mat. 12: 28). Sa simula ng Kanyang ministeryo sa lupa, pinahiran ng Ama ang Anak ng Espiritu (Mat. 3:16-17; Luc. 4:18) upang maabot ang mga tao at madala sila pabalik sa Kanya. Bago pa nangyari ang Kanyang pagkapako sa krus sa laman at pagkabuhay na muli upang maging ang Espiritung nagbibigay-buhay (I Cor. 15:45), inalis Niya ang tabing ng Kanyang mahiwagang pagka-trinidad sa harapan ng Kanyang mga disipulo sa mga payak na salita (Juan 14-17), isinasaad na ang Anak ay nasa loob ng Ama at ang Ama ay nasa loob ng Anak (Juan 14:9-11), na ang Espiritu ang pagbabagong-anyo ng Anak (Juan 14:16-20), na ang Tatlo, sabay-sabay na umiiral at sabay-sabay na nananahanan sa isa’t isa ay nananahan sa loob ng mga mananampalataya para sa kanilang katamasahan (Juan 14:23; 17:21-23), at yaong lahat ng kung ano ang mayroon ang Ama ay sa Anak, at ang lahat ng tinataglay ng Anak ay tinanggap ng Espiritu upang maihayag sa mga mananampalataya (Juan 16:13-15). Ang ganitong Trinidad ay pawang kaugnay ng pamamahagi ng Diyos na dumaan sa iba’t ibang hakbangin tungo sa Kanyang mga mananampalataya (Juan 14:17, 20; 15:4-5), upang sila ay maging isa sa loob ng Tres-unong Diyos at kasama ang Tres-unong Diyos (Juan 17:21-23). Pagkatapos ng Kanyang pagkabuhay na muli, inatasan Niya ang Kanyang mga disipulo na gawing mga disipulo ang lahat ng mga bansa, bautismuhan sila tungo sa loob ng pangalan ng Ama, at ng Anak, at ng Espiritu Santo (Mat. 28:19), yaon ay, dalhin ang mga sumasampalataya tungo sa loob ng Tres-unong Diyos, tungo sa loob ng isang organikong pakikipag-isa sa Diyos na dumaan sa iba’t ibang hakbangin, na dumaan sa pagiging laman, pantaong pamumuhay, at pagkapako sa krus, at pumasok tungo sa loob ng pagkabuhay na muli. Batay sa ganitong organikong pakikipag-isa na binanggit sa konklusyon ng kanyang Sulat na ito sa mga taga-Corinto, pinagpapala ng apostol ang mga mananampalataya ng mapagpalang Trinidad sa pakikibahagi sa biyaya ng Anak kasama ang pag-ibig ng Ama sa pamamagitan ng pakikipagsalamuha ng Espiritu. Sa Trinidad na ito, pinakilos ng Diyos Ama ang lahat ng mga bagay sa lahat ng mga sangkap ng ekklesia, na siyang Katawan ni Kristo, sa pamamagitan ng mga ministeryo ng Panginoon, ang Diyos Anak, sa pamamagitan ng mga kaloob ng Diyos Espiritu (I Cor. 12:4-6). Ang buong dibinong pahayag sa aklat ng Efeso hinggil sa pamumunga, pag-iral, paglago, pagtatayo, at pakikipaglaban ng ekklesia bilang ang Katawan ni Kristo ay binubuo ng dibinong ekonomiyang ito, ang pamamahagi ng Tres-unong Diyos tungo sa loob ng mga sangkap ng Katawan ni Kristo. Inihahayag ng kapitulo 1 kung papaano pinili at itinalaga ng Diyos Ama ang mga sangkap na ito sa kawalang-hanggan (Efe. 1:4-5), tinubos sila ng Diyos Anak (bb. 6-12), at tinatakan sila ng Diyos Espiritu bilang isang prenda (Efe. 1:13-14), kaya ibinabahagi ang Kanyang Sarili tungo sa loob ng Kanyang mga mananampalataya para sa pagbubuo ng ekklesia, na siyang Katawan ni Kristo, ang kapuspusan Niyaong pumupuspos ng lahat sa lahat (Efe. 1:18-23). Ipinakikita sa atin ng kapitulo 2 na sa dibinong Trinidad ang lahat ng mga mananampalataya, kapwa ang mga Hudyo at Hentil, ay may pagpasok tungo sa Diyos Ama, sa pamamagitan ng Diyos Anak, sa loob ng Diyos Espiritu (Efe. 2:18). Ito ay nagpapakita rin na ang Tatlo ay sabay-sabay na umiiral at sabay-sabay na nananahanan sa isa’t isa maging pagkatapos ng lahat ng mga hakbangin ng pagiging laman, pantaong mumuhay, pagkapako sa krus, at pagkabuhay na muli. Sa kapitulo 3, nanalangin ang apostol na pagkalooban ng Diyos Ama ang mga mananampalataya ng kalakasan sa pamamagitan ng Diyos Espiritu tungo sa loob ng kanilang panloob na tao, upang si Kristo, ang Diyos Anak, ay makagawa ng Kanyang tahanan sa kanilang puso, yaon ay, maokupahan ang kanilang buong katauhan, upang sila ay mangapuspos upang maging ang buong kapuspusan ng Diyos (Efe. 3:14-19). Ito ang kasukdulan ng Diyos sa Kanyang trinidad upang maranasan at malahukan ng mga mananampalataya sa loob ni Kristo. Ang kapitulo 4 ay naglalarawan kung papaanong ang Diyos na dumaan sa iba’t ibang hakbangin bilang ang Espiritu, ang Panginoon, at ang Ama ay inihalo sa Katawan ni Kristo (Efe. 4:4-6) upang maranasan ng lahat ng mga sangkap nito ang dibinong Trinidad. Sa kapitulo 5, hinihikayat ang mga mananampalataya na purihin ang Panginoon, ang Diyos Anak, ng mga awitin ng Diyos Espiritu, at magbigay-pasalamat sa pangalan ng ating Panginoong Hesu-Kristo, ang Diyos Anak, sa Diyos Ama (Efe. 5:19-20). Ito ay ang purihin at pasalamatan ang Diyos na dumaan sa iba’t ibang hakbangin sa Kanyang dibinong Trinidad para sa ating pagtatamasa sa Kanya bilang ang Tres-unong Diyos. Tinuturuan tayo ng kapitulo 6 na lumaban ng espirituwal na pakikipagbaka sa pamamagitan ng pagiging napalakas sa Panginoon, yaon ay, sa Diyos Anak; sa pamamagitan ng pagbibihis ng buong kutamaya o pangmilitar na kagayakan ng Diyos Ama; at sa pamamagitan ng paggamit ng tabak ng Diyos Espiritu (Efe. 6:10, 11, 17). Ito ang karanasan at pagtatamasa ng mga mananampalataya sa Tres-unong Diyos maging sa espirituwal na pakikipagbaka. Sa kanyang mga sulat, pinagtibay ni Apostol Pedro na ang trinidad ng Diyos ay para sa pagtatamasa ng mga mananampalataya. Kanyang tinukoy ang Trinidad nang banggitin niya ang paghihirang ng Diyos Ama, ang pagpapabanal ng Diyos Espiritu, at ang pagtutubos ni Hesu-Kristo, ang Diyos Anak, sa pamamagitan ng Kanyang dugo (I Ped. 1:2). At pinalalakas din ni Juan na Apostol ang pahayag ng dibinong Trinidad para sa pakikibahagi ng mga mananampalataya sa dumaan sa iba’t ibang hakbanging Tres-unong Diyos. Sa aklat ng Apocalipsis, pinagpala niya ang mga ekklesia sa iba’t ibang lokalidad ng biyaya at kapayapaang mula sa Diyos Ama, na Siyang pangkasalukuyan, at Siyang nagdaan, at Siyang darating, at mula sa Diyos Espiritu, ang pitong Espiritu na Siyang nasa harapan ng Kanyang trono, at mula sa Diyos Anak, si Hesu-Kristo, ang tapat na Saksi, ang Panganay sa mga patay, at ang Tagapamuno ng mga hari sa lupa (Apoc. 1:4-5). Itong pagpapala ni Juan sa mga ekklesia ay nagpapakita rin na ang Tres-unong Diyos na dumaan sa iba’t ibang hakbangin sa lahat ng kung ano Siya bilang ang walang hanggang Ama, sa lahat ng Kanyang magagawa bilang ang makapitong pinatinding Espiritu at sa lahat ng Kanyang natamo at nakamit bilang pinahirang Anak, ay para sa pagtatamasa ng mga mananampalataya, upang sila ay maging Kanyang sama-samang patotoo bilang mga gintong patungan ng ilawan (Apoc. 1:9, 11, 20). Samakatuwid, malinaw na ang dibinong pahayag ng trinidad ng Pamunuang-Diyos sa Banal na Salita, mula sa Genesis hanggang Apocalipsis ay hindi para sa pag-aaral ng teolohiya, kundi para sa pag-unawa kung papaanong ang Diyos sa Kanyang mahiwaga at kamangha-manghang trinidad ay namamahagi ng Kanyang Sarili tungo sa loob ng Kanyang mga piniling tao, nang sa gayon tayo bilang Kanyang mga pinili at tinubos na tao, tulad ng ipinakita sa pagpapala ng apostol sa mga mananampalatayang taga-Corinto, ay makabahagi, makaranas, makapagtamasa, at makapagtaglay ng dumaan sa iba’t ibang hakbanging Tres-unong Diyos ngayon at magpasawalang-hanggan. Amen."
         }
     ]
 }

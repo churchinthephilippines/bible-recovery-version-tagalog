@@ -1,5 +1,5 @@
 {
-    "chapter": 17,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "luwalhatiin",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,11 +21,11 @@
             "footnotes": [
                 {
                     "word": "Mo",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -36,11 +36,11 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "isinugo,",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -51,7 +51,7 @@
             "footnotes": [
                 {
                     "word": "Niluwalhati",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -62,11 +62,11 @@
             "footnotes": [
                 {
                     "word": "luwalhatiin",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -77,11 +77,11 @@
             "footnotes": [
                 {
                     "word": "pangalan",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "salita.",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": [
@@ -101,11 +101,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -122,7 +122,7 @@
             "footnotes": [
                 {
                     "word": "naluwalhati",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -133,11 +133,11 @@
             "footnotes": [
                 {
                     "word": "Amang",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -148,11 +148,11 @@
             "footnotes": [
                 {
                     "word": "napahamak,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "kapahamakan,",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -169,27 +169,27 @@
             "footnotes": [
                 {
                     "word": "salita,",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "sanlibutan,",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "sanlibutan,",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "sanlibutan.",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": [
@@ -203,11 +203,11 @@
             "footnotes": [
                 {
                     "word": "ingatan",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "masama.",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -218,11 +218,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -233,19 +233,19 @@
             "footnotes": [
                 {
                     "word": "Pakabanalin",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "katotohanan;",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "katotohanan.",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -256,11 +256,11 @@
             "footnotes": [
                 {
                     "word": "isinugo",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "isinugo",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -271,7 +271,7 @@
             "footnotes": [
                 {
                     "word": "pinabanal",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -282,7 +282,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -293,7 +293,7 @@
             "footnotes": [
                 {
                     "word": "isa;",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -304,11 +304,11 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatiang",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "isa,",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": [
@@ -322,7 +322,7 @@
             "footnotes": [
                 {
                     "word": "inibig,",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -333,7 +333,7 @@
             "footnotes": [
                 {
                     "word": "dumuong",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -344,11 +344,11 @@
             "footnotes": [
                 {
                     "word": "Amang",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "nga",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": [
@@ -362,10 +362,152 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ito ang paksa ng panalangin ng Panginoon sa kapitulong ito. Siya ang Diyos na naging laman, at ang Kanyang laman ay isang tabernakulo upang maging tahanan ng Diyos sa lupa (1:14). Ang Kanyang dibinong elemento ay nakakulong sa Kanyang pagka-tao, tulad ng pagkakubli ng kaluwalhatiang shekinah ng Diyos sa loob ng tabernakulo. Minsan, sa bundok ng pagbabagong-anyo, ang Kanyang dibinong elemento ay napalaya mula sa Kanyang laman at inihayag sa kaluwalhatian, na nakita ng tatlong disipulo (Mat. 17:1-4; Juan 1:14). Subali’t ang dibinong elementong ito ay naikubling muli sa Kanyang laman. Bago ang panalanging ito, Kanyang naipropesiya na Siya ay maluluwalhati at ang Ama ay maluluwalhati sa Kanya (12:23; 13:31-32). Ngayon ay daraan Siya sa kamatayan nang sa gayon ang nagkukubling talukap ng Kanyang pagka-tao ay mabasag upang ang Kanyang dibinong elemento, ang Kanyang dibinong buhay, ay mapalaya; Siya ay muling mabubuhay rin upang Kanyang maitaas ang Kanyang pagka-tao sa loob ng dibinong elemento at upang ang Kanyang dibinong elemento ay maihayag, sa gayon ang Kanyang buong katauhan, kapwa pagka-Diyos at pagka-tao, ay mailuluwalhati. (Tingnan ang tala 23-1 sa kapitulo 12). Sa gayon ang Ama ay mailuluwalhati rin sa Kanya. (Tingnan ang tala 28-1 sa kapitulo 12). Kaya, nanalangin Siya para rito."
+        },
+        {
+            "id": "2-1",
+            "text": "Ito ay tumutukoy sa gawain ng Panginoon, na Siya ay may awtoridad ng Ama sa lahat ng sangkatauhan upang Siya ay makapagbigay ng buhay na walang hanggan, hindi para sa lahat ng sangkatauhan, kundi roon lamang sa mga ibinigay ng Ama sa Kanya, ang mga pinili ng Ama."
+        },
+        {
+            "id": "2-2",
+            "text": "Tingnan ang tala 15-2 sa kap. 3."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang buhay na walang hanggan ay ang dibinong buhay na may isang natatanging pangsyon, yaon ay, ang makilala ang Diyos at si Kristo (cf. Mat. 11:27). Ang Diyos at si Kristo ay dibino. Upang makilala ang dibinong Persona kailangan natin ang dibinong buhay. Yamang ang mga mananampalataya ay isinilang ng dibinong buhay, nakikilala nila ang Diyos at si Kristo (Heb. 8:11; Fil. 3:10)."
+        },
+        {
+            "id": "3-2",
+            "text": "Tingnan ang tala 6-1 sa kapitulo 1 (at gayon din para sa salitang isinugo sa bb. 8, 18, 21, 23, 25)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ito ay nangangahulugang ipinakita at inihayag ng Panginoon ang Ama nang Siya ay namumuhay pa sa lupa."
+        },
+        {
+            "id": "5-1",
+            "text": "Pinagtitibay ng salitang ito ang tinukoy na dibinong Persona ng Panginoon sa bersikulo 1. Bago pa ang sanlibutan, yaon ay, sa kawalang-hanggang lumipas, Siya at ang Ama ay magkasamang may dibinong kaluwalhatian, kaya ngayon Siya ay nararapat na mailuwalhati kasama ng Ama ng kaluwalhatiang yaon. Ang Panginoon ay hindi bukod-tanging nag-iisa na may bahagi sa dibinong kaluwalhatian, bagkus kasama ng Ama na magkasamang may bahagi, sapagka’t Siya at ang Ama ay iisa (10:30)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “Iyong pangalan” ay nangangahulugang ang mismong pangalan ng Ama. Ang pangalang Diyos at ang pangalang Jehovah ay lubos na naihayag sa tao sa Lumang Tipan, subali’t hindi ang pangalang Ama, kahit na bahagyang nabanggit sa Isa. 9:6; 63:16; 64:8. Ang Anak ay dumating at gumawa sa loob ng pangalan ng Ama (5:43; 10:25) upang ipakita ang Ama sa mga taong ibinigay sa Kanya ng Ama at ipakilala ang pangalan ng Ama sa kanila (b. 26), ang pangalang naghahayag sa Ama bilang ang pinagmumulan ng buhay (5:26) para sa pagpapalaganap at pagpaparami ng buhay, kung saan maraming anak na lalake ang maisisilang (1:12-13) upang ihayag Siya (ang Ama). Kaya, ang pangalan ng Ama ay may malaking kaugnayan sa dibinong buhay. Gayundin sa bersikulo 26."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang mga salitang sinalita ng Ama ay dalawang uri: ang logos, ang palagiang salita (b. 6), at ang rhema, ang mga kagyat na salita (b.8). Ginagamit ng Panginoon ang dalawang uri ng salitang ito upang ipamahagi ang walang hanggang buhay sa loob ng mga tumatanggap na mananampalataya."
+        },
+        {
+            "id": "8-1",
+            "text": "Tingnan ang tala 6-2."
+        },
+        {
+            "id": "8-2",
+            "text": "Tingnan ang tala14-4 sa kap. 1."
+        },
+        {
+            "id": "10-1",
+            "text": "Inihayag na ng mga disipulo ang Panginoon, kaya Siya ay “naluwalhati na sa loob nila”."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang mga mananampalataya ng Anak ay nasa sanlibutan pa. Kailangan nilang maingatan, upang sila ay maging isa tulad ng pagkakaisa ng dibinong Trinidad na naging isa sa loob ng dibinong Trinidad. Ang Anak ay humihiling sa banal na Ama na isakatuparan ang bagay na ito."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang maingatan sa pangalan ng Ama ay ang maingatan ng Kanyang buhay, sapagka’t yaon lamang mga isinilang ng Ama at may buhay ng Ama ang makababahagi sa pangalan ng Ama. Naibigay na ng Anak ang buhay ng Ama sa mga ibinigay ng Ama sa Kanya (b. 2), kaya’t sila ay nakikibahagi sa pangalan ng Ama, sa pamamagitan ng pagiging naingatan dito, at sa loob ng pangalang ito sila ay naging isa. Kaya, ang unang aspekto ng pagkakaisa, na siyang pagtatayo ng mga mananampalataya, ay ang pagkakaisa sa pangalan ng Ama sa pamamagitan ng Kanyang dibinong buhay. Sa aspekto ng pagkakaisa, ang mga mananampalatayang ipinanganak ng buhay ng Ama ay nagtatamasa sa pangalan ng Ama, yaon ay, ang Ama Mismo bilang salik ng kanilang pagkakaisa."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “napahamak” at “kapahamakan” ay pandiwa at pangngalang nagmumula sa iisang salitang-ugat na Griyego."
+        },
+        {
+            "id": "14-1",
+            "text": "Binigyan na ng Panginoon ang mga mananampalataya ng dalawang uri ng salita: logos, ang palagiang salita (bb. 14, 17), at rhema, ang mga kagyat na salita (b. 8)."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang sanlibutan ay ang sistema ni Satanas (12:31). Ang mga mananampalataya ay: 1) hindi nabibilang sa sanlibutan (bb. 14, 16), kundi 2) inihiwalay mula sa sanlibutan (b. 19); 3) hindi kinuha mula sa sanlibutan (b. 15), kundi 4) sinugo tungo sa sanlibutan (b. 18) para sa pag-aatas ng Panginoon. Gayundin sa bb. 15 at 16."
+        },
+        {
+            "id": "14-3",
+            "text": "Lit. mula sa. Gayundin sa b. 16."
+        },
+        {
+            "id": "15-1",
+            "text": "Lit. alisin Mo sila sa masamang isa."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang buong sanlibutan ay nakahilig sa masamang isa (I Juan 5:19). Kaya, ang mga mananampalataya ay kailangang maingatan mula sa masamang isa, at kailangan nilang palaging nagbabantay sa panalangin upang sila ay maligtas mula sa masamang isa (Mat. 6:13)."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit. mula sa."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang mapaging-banal (Efe. 5:26; I Tes. 5:23) ay ang maihiwalay mula sa sanlibutan at sa pag-ookupa ng sanlibutan upang mapasa Diyos at mapasa Kanyang layunin; ito ay hindi lamang ang mapabanal sa pamposisyon (Mat. 23:17, 19), bagkus ang mapabanal din sa pandisposisyon (Roma 6:19, 22). Ang buháy na salita ng Diyos ay gumagawa sa loob ng mga mananampalataya at naghihiwalay sa kanila sa lahat ng anumang bagay na makasanlibutan. Ito ay ang mapabanal sa loob ng salita ng Diyos ; ang salitang ito ay katotohanan, na siyang realidad."
+        },
+        {
+            "id": "17-2",
+            "text": "Lit. realidad. Ang realidad ay ang Tres-unong Diyos (1:14, 17; 14:6; I Juan 5:6). Ang Tres-unong Diyos ay nakapaloob sa Kanyang salita kaya ang Kanyang salita ay realidad din (Tingnan ang tala 14-4 sa kapitulo 1 at tala 6-6 sa I Juan 1). Tayo ay napababanal sa loob ng realidad ng salitang ito."
+        },
+        {
+            "id": "17-3",
+            "text": "Ang salita ng Ama ay nagdadala ng realidad ng Ama. Kapag sinabi ng salita ng Diyos, “Ang Diyos ay liwanag,” dinadala ng salitang ito ang Diyos na liwanag. Kaya, ang salita ng Diyos ay ang realidad na siyang katotohanan, hindi gaya ng salita ni Satanas na walang kabuluhan, at pawang kasinungalingan (8:44)."
+        },
+        {
+            "id": "18-1",
+            "text": "Isinugo ng Ama ang Anak tungo sa sanlibutan na kasama Siya bilang buhay at lahat-lahat sa Anak. Sa parehong paraan isinusugo ng Anak ang Kanyang mga mananampalataya tungo sa sanlibutan kasama Siya bilang buhay at lahat-lahat sa mga mananampalataya. Tingnan ang tala 21-2 sa kapitulo 20."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang Anak ay ganap na banal sa Kanyang Sarili. Subali’t Kanya pa ring pinabanal ang Kanyang Sarili sa paraan ng Kanyang pamumuhay habang Siya ay nasa lupa upang magbigay ng isang halimbawa ng pagpapabanal sa mga disipulo Niya."
+        },
+        {
+            "id": "20-1",
+            "text": "Lit. tungo sa."
+        },
+        {
+            "id": "21-1",
+            "text": "Ito ang ikalawang aspekto ng pagkakaisa ng mga mananampalataya, na siyang pagkakaisa sa loob ng Tres-unong Diyos sa pamamagitan ng pagpapabanal, ang paghihiwalay mula sa sanlibutan sa pamamagitan ng salita ng Diyos. Sa aspektong ito ng pagkakaisa, ang mga mananampalatayang hiwalay sa sanlibutan tungo sa Diyos ay nagtatamasa sa Tres-unong Diyos bilang salik ng kanilang pagkakaisa."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang kaluwalhatiang ibinigay na ng Ama sa Anak ay ang pagka-anak kalakip ang buhay at dibinong kalikasan ng Ama (5:26) upang ihayag ang Ama sa Kanyang kapuspusan (1:18; 14:9; Col. 2:9; Heb. 1:3). Ang kaluwalhatiang ito ay ibinigay na ng Anak sa Kanyang mga mananampalataya upang sila man ay magkaroon ng pagka-anak kalakip ang buhay at dibinong kalikasan ng Ama (b. 2; II Ped. 1:4) upang ihayag ang Ama sa loob ng Anak sa loob ng Kanyang kapuspusan (1:16)."
+        },
+        {
+            "id": "22-2",
+            "text": "Ito ang ikatlong aspekto ng pagkakaisa ng mga mananampalataya, na siyang pagkakaisa sa loob ng dibinong kaluwalhatian para sa sama-samang kahayagan ng Diyos. Sa aspektong ito ng pagkakaisa, ang mga mananampalatayang lubusang nagtakwil sa kanilang sarili ay nagtatamasa sa kaluwalhatian ng Ama bilang salik ng kanilang pinasakdal na pagkakaisa upang ihayag ang Diyos sa isang sama-sama at naitayong paraan. Ito ang pagkakaisa ng dibinong pag-aatas na tumutupad sa panalangin ng Anak upang Siya ay lubos na maihayag, yaon ay, maluwalhati, sa pagtatayo ng mga mananampalataya, at upang ang Ama ay lubos ding maihayag, maluwalhati, sa loob ng pagluluwalhati sa Anak. Kaya, ang katapus-tapusang pagkakaisa ng mga mananampalataya ay: 1) sa loob ng walang hanggang buhay ng Diyos (sa loob ng pangalan ng Ama); 2) sa pamamagitan ng banal na salita; at 3) sa dibinong kaluwalhatian upang ihayag ang Tres-unong Diyos hanggang sa kawalang-hanggan. Upang maisakatuparan ng Anak ang pagkakaisang ito, binigyan Siya ng Ama ng anim na kategorya ng mga bagay: ang awtoridad (b. 2), ang mga mananampalataya (bb. 2, 6, 9, 24), ang gawain (b. 4), ang mga salita (b. 8), ang pangalan ng Ama (bb. 11, 12), at ang kaluwalhatian ng Ama (b. 24). Upang makabahagi ang mga mananampalataya sa pagkakaisang ito, binigyan ng Anak ang mga mananampalataya ng tatlong bagay: ang buhay na walang hanggan (b. 2), ang banal na salita (bb. 8, 14), at ang dibinong kaluwalhatian (b. 22). Gayundin sa b. 23."
+        },
+        {
+            "id": "23-1",
+            "text": "Inibig ng Ama ang Anak kaya Kanyang ibinigay na sa Anak ang Kanyang buhay, Kanyang kalikasan, Kanyang kapuspusan, at Kanyang kaluwalhatian upang ihayag Siya. Gayundin, inibig ng Ama ang mga mananampalataya ng Anak sa pamamagitan ng pagbibigay sa kanila ng Kanyang buhay, Kanyang kalikasan, Kanyang kapuspusan, at Kanyang kaluwalhatian upang Siya ay maihayag nila sa loob ng Anak. Ito ay isang salaysay ng kaluwalhatian at isang salaysay rin ng pag-ibig."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang Anak ay nasa loob ng dibinong kaluwalhatian ng kahayagan ng Ama. Samakatuwid, para sa mga mananampalataya ng Anak na makasama Niya kung saan Siya naroroon ay ang makasama Niya sila sa loob ng dibinong kaluwalhatian upang ihayag ang Ama. Ang katuparan nito ay nagsimula sa pagkabuhay na muli ng Panginoon, nang Kanyang dalhin ang Kanyang mga mananampalataya tungo sa pakikibahagi sa Kanyang nabuhay na muling buhay, at mapalulubos sa Bagong Herusalem kapag ang Kanyang mga mananampalataya ay nadala na nang lubusan tungo sa maka-Diyos na kaluwalhatian, at sa loob ng kawalang-hanggan ay magiging sukdulang sama-samang kahayagan ng Tres-unong Diyos."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang sanlibutan ay hindi nakakikilala ni nagnanasa sa Ama, subali’t ang Anak at ang mga mananampalataya ng Anak ay nakakikilala at nagnanasa sa Ama. Kung gayon, ang Ama ay matuwid at makatarungan sa pagmamahal sa Anak at sa Kanyang mga mananampalataya kaya nga ibinibigay Niya ang Kanyang kaluwalhatian kapwa sa Anak at sa mga mananampalataya ng Anak. Ang Ama ay banal (b. 11); Siya ang nagpapabanal sa mga mananampalataya ng Anak. Ang Ama ay matuwid din; Kanyang iniibig ang Anak at ang mga mananampalataya ng Anak, at ibinigay pa sa kanila ang Kanyang kaluwalhatian."
+        },
+        {
+            "id": "25-2",
+            "text": "Gr. kai, ito ay nangangahulugang “rin” o “at”."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang pag-ibig dito ay ang pag-ibig ng Ama. Sa pag-ibig na ito ibinigay na ng Ama ang Kanyang buhay at kaluwalhatian sa Anak at sa mga mananampalataya ng Anak upang maihayag Siya ng Anak at ng mga mananampalataya ng Anak. Nananalangin ang Anak na ang pag-ibig na ito ay mapasa Kanyang mananampalataya, upang palagi nilang maramdaman ang pag-ibig na ito."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 17,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "hatol",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "malaking",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "patutot",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -30,11 +30,11 @@
             "footnotes": [
                 {
                     "word": "pinakiapiran",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "alak",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -45,27 +45,27 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "ilang;",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "eskarlatang",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "halimaw",
-                    "note": ""
+                    "id": "3-4"
                 },
                 {
                     "word": "panlalapastangan,",
-                    "note": ""
+                    "id": "3-5"
                 },
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "3-6"
                 }
             ],
             "outlines": null
@@ -76,19 +76,19 @@
             "footnotes": [
                 {
                     "word": "kulay-",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "matingkad",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "ginto",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "gintong",
-                    "note": ""
+                    "id": "4-4"
                 }
             ],
             "outlines": null
@@ -99,15 +99,15 @@
             "footnotes": [
                 {
                     "word": "Hiwaga,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Ina",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "Kasuklam-",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -118,11 +118,11 @@
             "footnotes": [
                 {
                     "word": "lasing",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "saksi",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -141,15 +141,15 @@
             "footnotes": [
                 {
                     "word": "halimaw",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "patungo",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "aklat",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -160,7 +160,7 @@
             "footnotes": [
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -171,7 +171,7 @@
             "footnotes": [
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -182,7 +182,7 @@
             "footnotes": [
                 {
                     "word": "ring",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -193,7 +193,7 @@
             "footnotes": [
                 {
                     "word": "sampung",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -204,7 +204,7 @@
             "footnotes": [
                 {
                     "word": "kaisipan,",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -215,11 +215,11 @@
             "footnotes": [
                 {
                     "word": "Makikipagdigma",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "pinili",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -230,7 +230,7 @@
             "footnotes": [
                 {
                     "word": "kinauupuan",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -241,7 +241,7 @@
             "footnotes": [
                 {
                     "word": "mangapopoot",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": [
@@ -254,15 +254,15 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "kaisipan,",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "kaisipan,",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -273,10 +273,152 @@
             "footnotes": [
                 {
                     "word": "babae",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "O, kaparusahan."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “malaki” rito ay tumutugma sa “lalong malaki” sa Mat. 13:32."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang “patutot” dito ay tumutukoy sa Romano Katolisismong tumalikod-sa-katotohanan. Ang isang patutot ay walang asawa. Tinutukoy nito na kailanman ay hindi inamin ng Diyos ang pagkakaroon Niya ng anumang kaugnayan sa tumalikod-sa-katotohanang Romano Katolisismo."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang ginagawa ng tumalikod-sa-pananampalatayang ekklesia ay hindi pangangalunya, na kasalanan ng isang taksil na asawa, kundi “pakikiapid,” na kasalanan ng isang patutot. Ito ay higit na makasalanan kaysa sa pangangalunya. Ang pakikiapid ng tumalikod-sa-pananampalatayang ekklesia ay binubuo ng kanyang mga makasalanang pakikipag-ugnayan sa mga pinuno ng lupa para sa kanyang pakinabang, katulad ng isang patutot na gumagawa ng kasalanan upang kumita. Ang ginagawa ng ekklesiang tumalikod-sa-pananampalataya ay espirituwal na pakikiapid. Ang mga hari sa lupa ay tuwirang gumagawa ng pakikiapid sa kanya."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang “alak” dito ay tumutukoy sa mga maka-ereheng doktrina ng ekklesiang tumalikod-sa-pananampalataya sa kanyang mapakiapid na kaugnayan sa iba’t ibang pulitikal na kapangyarihan sa lupa. Katulad ng ginagawa ng alak, nililito ng mga maka-ereheng doktrina yaong mga nagkakaroon ng kaugnayan sa kanyang relihiyon. Ito ang “alak ng kanyang pakikiapid.” Ang “mga nananahan sa lupa” sa di-tuwirang paraan ay nalasing sa pag-inom ng alak na ito."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 10-1 sa kapitulo 1."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang “ilang” ay isang disyertong lugar. Ito ay tumutukoy na ang tumalikod-sa-pananampalatayang ekklesia ay nasa isang disyerto kung saan walang mga bukal ng tubig na inihanda ang Diyos. Upang maipakita kay Apostol Juan na ang tumalikod-sa-pananampalatayang ekklesia ay nasa gayong isang napabayaang lugar, siya ay dinala ng anghel sa ilang."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang “eskarlata” ay matingkad na pula, ang kulay ng malaking dragon. (Tingnan ang tala 3-1 sa kap. 12.) Ito ay tumutukoy na ang Antikristo ay makakaisa ni Satanas sa anyo."
+        },
+        {
+            "id": "3-4",
+            "text": "Ang “halimaw” rito ay tumutukoy kapwa sa Emperyo Romano at sa Antikristo."
+        },
+        {
+            "id": "3-5",
+            "text": "Tinawag halos ng lahat ng mga Cesar ang kanilang mga sarili na diyos. Ito ay isang panlalapastangan sa Diyos."
+        },
+        {
+            "id": "3-6",
+            "text": "Tingnan ang tala 1-3 sa kap. 13, at tala 9-1 at 10-1 sa kapitulo na ito."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang “kulay-ube” ay sumasagisag sa karangalan na nagtataglay ng awtoridad (cf. Juan 19:2-3). Ang kulay-ube ay isang paghahalo ng bughaw at pula; ito ay sumasagisag sa paghahalo ng mga makalangit na bagay sa mga makalupang bagay. Ito ang panlabas na anyo ng tumalikod-sa-pananampalatayang ekklesia."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang “matingkad na pula” o eskarlata ay ang espesyalidad ng tumalikod-sa-katotohanang Romano Katolisismo. Sa Vatican, ang kulay na ito ay makikita sa lahat ng lugar; ang pinakahayag ay ang damit ng mga kardinal."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang “ginto, mahalagang bato, at mga perlas” ay ang mga materyal na ginamit sa pagtatayo ng Bagong Herusalem (21:18-19, 21). Subali’t “ang babae,” ang tumalikod-sa-pananampalatayang ekklesia, ay hindi naitayo nang solido sa pamamagitan ng mahahalagang bagay na ito; siya ay “nahihiyasan” lamang ng mga kayamanang ito bilang isang palamuti upang magparangya. Ito ay isang panlilinlang na umaakit sa mga tao, gayundin ang panlabas na huwad na palamuti ng malaking patutot na ito."
+        },
+        {
+            "id": "4-4",
+            "text": "Ang ginto sa paglalarawan ay sumasagisag sa dibinong kalikasan ng Diyos. Kaya, tinutukoy ng “gintong saro” rito na ang tumalikod-sa-pananampalatayang ekklesia ay may ilang bagay ng Diyos sa panlabas na kaanyuan. Subali’t sa panloob, ang kanyang “gintong saro” ay “puno ng mga kasuklam-suklam at ng maruruming bagay ng kanyang pakikiapid,” puno ng pagsamba sa diyus-diyusan, mga paganong gawi-gawi, at mga makasatanas na bagay sa isang heretikal na makarelihiyong kaugnayan. Samakatwid, bagama’t ang tumalikod-sa-katotohanang Katolisismo ay may ilang banal na bagay, napakaraming karumaldumal na bagay naman ang nairagdag nito sa mga banal na bagay."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “Hiwaga” rito ay tumutukoy na ang “Dakilang Babilonia” sa kapitulong ito ay hindi ang materyal na Babilonia na nasa kapitulo 18, kundi ang relihiyosong Babilonia. Ang relihiyosong Babilonia, yaon ay, ang tumalikod-sa-pananampalatayang ekklesia, ay tunay na mahiwaga sa kung ano siya, sa kung ano ang kanyang ginagawa, at sa kung ano ang kanyang itinuturo."
+        },
+        {
+            "id": "5-2",
+            "text": "Yamang ang “Ina ng mga Patutot” ay ang tumalikod-sa-pananampalatayang ekklesia, ang mga patutot, ang kanyang mga anak na babae, ay nararapat na tumutukoy sa lahat ng iba’t ibang sekta at mga grupo sa Kristiyanidad, na sa ilang sukat ay tumatangan sa pagtuturo, mga gawi-gawi, at mga tradisyon ng tumalikod-sa-katotohanang Romano Katolisismo. Ang dalisay na buhay ekklesia ay hindi nalalinan ng kasamaan ng tumalikod-sa-pananampalatayang ekklesia."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang mga “kasuklam-suklam” ay tumutukoy sa mga diyus-diyusan (Deut. 7:25-26); ang tumalikod-sa- katotohanang Romano Katolisismo ay punung-puno ng mga diyus-diyusan."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang Romano Katolisismo ay hindi tuwirang pumapatay sa mga banal, kundi di-tuwiran sa pamamagitan ng Emperyo Romano. Siya ay “lasing sa dugo ng mga banal at sa dugo ng mga saksi ni Hesus.”"
+        },
+        {
+            "id": "6-2",
+            "text": "O, mga martir. Ang “mga banal” ay yaong mga nakahiwalay, pinabanal tungo sa Diyos, namumuhay ng isang banal na buhay para sa Diyos hanggang kamatayan. Ang “mga saksi” ay yaong mga buháy na patotoo ng Panginoong Hesus, tapat din hanggang kamatayan. Ang mga saksi ni Hesus ay ang mga banal din; gayunpaman, ang mga banal ay maaaring namumuhay lamang ng isang nakahiwalay at banal na buhay, hindi tumatalima sa tumalikod-sa-pananampalatayang ekklesia, subali’t maaaring hindi manindigan upang magpatotoo laban sa pagtalikod sa katotohanan ng Romano Katolisismo katulad ng ginawa ng saksing si Antipas sa 2:13."
+        },
+        {
+            "id": "8-1",
+            "text": "“Ang halimaw”, na siyang Antikristo, ay nasa katauhan ni Cesar Nero noon bago sinulat ni Juan ang aklat na ito. Siya ay “wala na” sa panahon ng pagsusulat ni Juan, sapagka’t si Nero ay namatay na ng panahong yaon. Siya ay “malapit nang umahon mula sa kailalimangwalang- hanggan.” Ito ay nagpapahiwatig na ang espiritu ni Nero ngayon ay nasa kailalimang-walang-hanggan at malapit nang umahon mula rito upang alihan ang katawan ng napatay at nabuhay-na-muling Antikristo, gaya ng tinukoy sa 13:3."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang Antikristo ay “patungo sa kapahamakan.” Ito ay tumutukoy na ang Antikristo ay mapapahamak, gaya ng inilarawan sa 19:20 at 20:10, yaon ay, ibubulid siya sa dagat-dagatang apoy."
+        },
+        {
+            "id": "8-3",
+            "text": "Lit. balumbong may sulat."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang lunsod ng Roma ay itinayo sa “pitong bundok.” Ang mga ito ay sinagisag ng pitong ulo ng halimaw na kinauupuan ng patutot."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang “pitong hari” ay ang pitong Cesar ng Emperyo Romano. Ang naunang “lima ay nangabuwal na,” yaon ay, sila ay namatay hindi dahil sa karaniwang sanhi (Huk. 3:25; II Sam. 1:10, 25, 27). Sila ay sina Julius Cesar, Tiberius, Caligula, Claudio, at Nero, lahat sila, alinman sa kanila, ay pinatay o hindi kaya ay nagpakamatay bago sinulat ni Juan ang aklat na ito. Ang ikaanim na si Domitian, na pinatay rin, ay nabubuhay pa nang isulat ang aklat na ito; kaya’t sinabing “ang isa ay narito.” “Ang isa,” ang ikapito, na siyang Antikristo, “ay hindi pa dumarating” nang panahong yaon. “Pagdating niya, dapat siyang manatili nang sandaling panahon” at papatayin at pagkatapos ay bubuhaying-muli ng espiritu ng ikalima, na si Nero, upang maging ang ikawalo."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang Antikristo ay ang darating na ikapitong Cesar, subali’t siya “ring ikawalo.” Ayon sa 13:3, ang Antikristo ay papatayin at bubuhaying-muli. Sa pagkabuhay-na-muling yaon, ang espiritu ni Nero (ang ikalimang Cesar) na aahon mula sa kailalimang-walang-hanggan (ang lugar na pinagtapunan kay Satanas-12:10, 13) ay papasok sa patay na katawan ng Antikristo (ang ikapitong Cesar) upang ang bangkay na yaon ay magkaroon ng hininga at mabuhay, hinuhuwad ang pagkabuhay-na-muli ni Kristo. Ang isang ito na siyang ikawalo ay binubuo ng ikalima at ikapitong Cesar. Kaya nga, “siya ay sa pito,” taglay ang katawan ng ikapito at espiritu ng ikalima, samakatuwid, higit na may kakayahan, higit na talino, higit na may kapangyarihang manlinlang ng tao, mandaya ng tao, mang-akit ng tao, malinlang lahat ang mga di-sumasampalataya kay Kristo. Hindi katakataka na ang mga tao ay manggigilalas sa pagkakita sa gayong isang di-pangkaraniwang tao (b. 8; 13:3)."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “sampung hari” ay ibabangon bago ang matinding kapighatian sa napanumbalik na Emperyo Romano. Sila ay magiging kaisa ng Antikristo sa pagsalungat sa Diyos at sa pag-uusig sa Kanyang bayan- ang mga Hudyo at ang mga Kristiyano. Ang sampung haring ito ay inihalintulad sa sampung daliri ng paa ng malaking larawan na nakita ni Nebukadnezar sa kanyang panaginip (Dan. 2:42). Kanilang ipasasailalim ang kanilang mga sarili at ang kanilang kaharian sa Antikristo (b. 17)."
+        },
+        {
+            "id": "13-1",
+            "text": "Tumutukoy sa kaisipang inihayag upang maging opinyon."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang “makikipagdigma” rito ay katulad noong binanggit sa 19:11-21, ang digmaan sa Armagedon (16:14, 16)."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang “pinili” ay binanggit pagkatapos ng “tinawag.” Ang matawag ay ang maligtas, samantalang ang mapili ay ang maaprubahan ng Panginoon sa pamamagitan ng isang nananagumpay na buhay. Marami ang tinatawag na ngayon, subali’t kakaunti ang pipiliin sa hinaharap (Mat. 22:14)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang patutot na nakaupo sa “mga tubig,” na siyang “mga bayan at mga karamihan at mga bansa at mga wika,” ay naisakatuparan ng katunayan ng pagkasakay ng tumalikod-sa-katotohanang Romano Katolisismo sa mga bayan at mga bansa sa buong mundo."
+        },
+        {
+            "id": "16-1",
+            "text": "Na “ang sampung sungay at ang halimaw ay mangapopoot sa patutot at siya ay pababayaan” ay nangangahulugang uusigin ng Antikristo at ng sampung hari ang tumalikod-sa-katotohanang Romano Katolisismo. Ito ay magaganap sa pasimula ng matinding kapighatian. (Tingnan ang tala 8-1 sa kap. 14.) Kanilang “pababayaan at huhubaran” ang Romano Katolisismo, sisirain siya, nanakawan siya ng kanyang mga kayamanan at ihahantad siya; kanilang “kakainin ang kanyang laman,” papatayin ang kanyang mga miyembro; at siya ay kanilang “lubos na tutupukin ng apoy,” lubusan siyang lilipulin. Tinutukoy rin nito na ang Dakilang Babilonia na binanggit sa kapitulong ito ay ang relihiyosong Babilonia."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang pagwasak ng Antikristo at ng kanyang sampung hari sa tumalikod-sa-katotohanang Romano Katolisismo ay nagbu-buhat sa Diyos. Ito ay hindi dapat ituring na pagkamartir, kundi ang naghihiganting kahatulan ng Diyos."
+        },
+        {
+            "id": "17-2",
+            "text": "Tingnan ang tala 13-1 ."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang “patutot” ay tumutukoy sa relihiyosong Babilonia, na sumasagisag sa Romano Katolisismo; “ang babae” naman dito ay tumutukoy sa materyal na Babilonia, na sumasagisag sa lunsod ng Roma. Ito ay tinatawag na “ang dakilang lunsod, na may kaharian na naghahari sa mga hari sa lupa.” Nang sinulat ni Juan ang aklat na ito, ang Roma ay ang lunsod na naghahari sa mga hari sa lupa. Ang kamumuhian ng Antikristo at ng kanyang sampung hari ay “ang patutot,” ang Romano Katolisismo, hindi “ang babae,” ang lunsod ng Roma, kung saan nakahimpil ang kanilang administrasyon."
         }
     ]
 }

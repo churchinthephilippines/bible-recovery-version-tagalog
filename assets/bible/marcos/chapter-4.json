@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,23 +7,23 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "magturo",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "tabi",
-                    "note": ""
+                    "id": "1-a"
                 },
                 {
                     "word": "dagat;",
-                    "note": ""
+                    "id": "1-b"
                 },
                 {
                     "word": "daong",
-                    "note": ""
+                    "id": "1-c"
                 }
             ],
             "outlines": [
@@ -37,7 +37,7 @@
             "footnotes": [
                 {
                     "word": "pagtuturo:",
-                    "note": ""
+                    "id": "2-a"
                 }
             ],
             "outlines": null
@@ -48,11 +48,11 @@
             "footnotes": [
                 {
                     "word": "manghahasik",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "maghasik.",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -69,7 +69,7 @@
             "footnotes": [
                 {
                     "word": "kaagad",
-                    "note": ""
+                    "id": "5-a"
                 }
             ],
             "outlines": null
@@ -80,7 +80,7 @@
             "footnotes": [
                 {
                     "word": "sumikat",
-                    "note": ""
+                    "id": "6-a"
                 }
             ],
             "outlines": null
@@ -91,7 +91,7 @@
             "footnotes": [
                 {
                     "word": "dawagan,",
-                    "note": ""
+                    "id": "7-a"
                 }
             ],
             "outlines": null
@@ -102,11 +102,11 @@
             "footnotes": [
                 {
                     "word": "namunga,",
-                    "note": ""
+                    "id": "8-a"
                 },
                 {
                     "word": "sandaan.",
-                    "note": ""
+                    "id": "8-b"
                 }
             ],
             "outlines": null
@@ -117,7 +117,7 @@
             "footnotes": [
                 {
                     "word": "pandinig",
-                    "note": ""
+                    "id": "9-a"
                 }
             ],
             "outlines": null
@@ -128,7 +128,7 @@
             "footnotes": [
                 {
                     "word": "nag-",
-                    "note": ""
+                    "id": "10-a"
                 }
             ],
             "outlines": null
@@ -139,19 +139,19 @@
             "footnotes": [
                 {
                     "word": "hiwaga",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "labas,",
-                    "note": ""
+                    "id": "11-b"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "talinghaga,",
-                    "note": ""
+                    "id": "11-c"
                 }
             ],
             "outlines": null
@@ -162,15 +162,15 @@
             "footnotes": [
                 {
                     "word": "pagtingin",
-                    "note": ""
+                    "id": "12-a"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "12-b"
                 },
                 {
                     "word": "bumaling",
-                    "note": ""
+                    "id": "12-c"
                 }
             ],
             "outlines": null
@@ -181,15 +181,15 @@
             "footnotes": [
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "talinghagang",
-                    "note": ""
+                    "id": "13-a"
                 },
                 {
                     "word": "malalaman",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -200,11 +200,11 @@
             "footnotes": [
                 {
                     "word": "manghahasik",
-                    "note": ""
+                    "id": "14-a"
                 },
                 {
                     "word": "salita.",
-                    "note": ""
+                    "id": "14-b"
                 }
             ],
             "outlines": null
@@ -215,7 +215,7 @@
             "footnotes": [
                 {
                     "word": "kaagad",
-                    "note": ""
+                    "id": "15-a"
                 }
             ],
             "outlines": null
@@ -226,7 +226,7 @@
             "footnotes": [
                 {
                     "word": "pagkarinig",
-                    "note": ""
+                    "id": "16-a"
                 }
             ],
             "outlines": null
@@ -237,11 +237,11 @@
             "footnotes": [
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "17-a"
                 },
                 {
                     "word": "natitisod.",
-                    "note": ""
+                    "id": "17-b"
                 }
             ],
             "outlines": null
@@ -258,15 +258,15 @@
             "footnotes": [
                 {
                     "word": "kabalisahan",
-                    "note": ""
+                    "id": "19-a"
                 },
                 {
                     "word": "daya",
-                    "note": ""
+                    "id": "19-b"
                 },
                 {
                     "word": "kayamanan,",
-                    "note": ""
+                    "id": "19-c"
                 }
             ],
             "outlines": null
@@ -277,7 +277,7 @@
             "footnotes": [
                 {
                     "word": "namunga,",
-                    "note": ""
+                    "id": "20-a"
                 }
             ],
             "outlines": null
@@ -288,15 +288,15 @@
             "footnotes": [
                 {
                     "word": "ilawan",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "modios",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "patungan-",
-                    "note": ""
+                    "id": "21-3"
                 }
             ],
             "outlines": [
@@ -309,7 +309,7 @@
             "footnotes": [
                 {
                     "word": "natatago,",
-                    "note": ""
+                    "id": "22-a"
                 }
             ],
             "outlines": null
@@ -320,7 +320,7 @@
             "footnotes": [
                 {
                     "word": "pandinig",
-                    "note": ""
+                    "id": "23-a"
                 }
             ],
             "outlines": null
@@ -331,7 +331,7 @@
             "footnotes": [
                 {
                     "word": "panukat",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -342,7 +342,7 @@
             "footnotes": [
                 {
                     "word": "mayroon",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -353,15 +353,15 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "taong",
-                    "note": ""
+                    "id": "26-2"
                 },
                 {
                     "word": "binhi",
-                    "note": ""
+                    "id": "26-3"
                 }
             ],
             "outlines": [
@@ -374,11 +374,11 @@
             "footnotes": [
                 {
                     "word": "natutulog",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "lumalaki-",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -389,11 +389,11 @@
             "footnotes": [
                 {
                     "word": "lupa",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": null
@@ -404,11 +404,11 @@
             "footnotes": [
                 {
                     "word": "kaagad",
-                    "note": ""
+                    "id": "29-a"
                 },
                 {
                     "word": "panggapas,",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -419,15 +419,15 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "30-a"
                 },
                 {
                     "word": "isasaysay",
-                    "note": ""
+                    "id": "30-2"
                 }
             ],
             "outlines": [
@@ -440,7 +440,7 @@
             "footnotes": [
                 {
                     "word": "mustasa,",
-                    "note": ""
+                    "id": "31-a"
                 }
             ],
             "outlines": null
@@ -451,11 +451,11 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -466,11 +466,11 @@
             "footnotes": [
                 {
                     "word": "talinghaga",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "33-a"
                 }
             ],
             "outlines": null
@@ -481,11 +481,11 @@
             "footnotes": [
                 {
                     "word": "talinghaga,",
-                    "note": ""
+                    "id": "34-a"
                 },
                 {
                     "word": "bukod",
-                    "note": ""
+                    "id": "34-b"
                 }
             ],
             "outlines": null
@@ -496,7 +496,7 @@
             "footnotes": [
                 {
                     "word": "Tumawid",
-                    "note": ""
+                    "id": "35-a"
                 }
             ],
             "outlines": [
@@ -510,11 +510,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "36-1"
                 },
                 {
                     "word": "daong",
-                    "note": ""
+                    "id": "36-a"
                 }
             ],
             "outlines": null
@@ -525,11 +525,11 @@
             "footnotes": [
                 {
                     "word": "bagyong",
-                    "note": ""
+                    "id": "37-a"
                 },
                 {
                     "word": "daong,",
-                    "note": ""
+                    "id": "37-b"
                 }
             ],
             "outlines": null
@@ -540,7 +540,7 @@
             "footnotes": [
                 {
                     "word": "natutulog",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -551,15 +551,15 @@
             "footnotes": [
                 {
                     "word": "sinaway",
-                    "note": ""
+                    "id": "39-1"
                 },
                 {
                     "word": "tumahimik",
-                    "note": ""
+                    "id": "39-b"
                 },
                 {
                     "word": "kapanatagan.",
-                    "note": ""
+                    "id": "39-c"
                 }
             ],
             "outlines": null
@@ -570,11 +570,11 @@
             "footnotes": [
                 {
                     "word": "natatakot?",
-                    "note": ""
+                    "id": "40-a"
                 },
                 {
                     "word": "pananampalataya?",
-                    "note": ""
+                    "id": "40-b"
                 }
             ],
             "outlines": null
@@ -585,14 +585,132 @@
             "footnotes": [
                 {
                     "word": "natakot",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "tumatalima",
-                    "note": ""
+                    "id": "41-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa bb. 1-12, tingnan ang mga tala sa Mat. 13:1-15."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 21-2, tingnan ang mga tala sa Mat. 13:1-15."
+        },
+        {
+            "id": "3-1",
+            "text": "Isinasagisag ang Aliping-Tagapagligtas (Mat. 13:37), na Siyang Anak ng Diyos na dumating upang ihasik ang Kanyang Sarili bilang binhi ng buhay (tingnan ang tala 26-2) sa Kanyang salita (b. 14) tungo sa mga puso ng mga tao, upang Siya ay lumago at mabuhay sa kanila at maihayag mula sa kanilang kalooban."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang paghahasik na ito ay ang pangangaral ng Aliping-Tagapagligtas ng ebanghelyo ng Diyos na nagdala paparito ng kaharian ng Diyos (1:14-15). Ito ay katulad ng nasa b. 26, ang paghahasik ng binhi ng buhay na nasa loob ng salita (b. 14) na sinalita ng Aliping-Tagapagligtas, ipinakikita na ang Kanyang pang-ebanghelyong paglilingkod ay ang ihasik ang maka-Diyos na buhay tungo sa loob ng mga taong Kanyang pinaglingkuran. Ang paglago ng buhay na ito ay nakasalalay sa kalagayan ng mga pinaglilingkuran, ang kinalabasan nito ay nagkakaiba ayon sa kanilang iba’t ibang kalagayan, katulad ng inilarawan sa talinghagang ito."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang ekonomiya ng Diyos hinggil sa Kanyang kaharian ay isang nakakubling hiwaga na ipinahayag ng Aliping-Tagapagligtas sa mga disipulo. Subalit, yamang ang kalikasan at katangian ng kaharian ng Diyos ay ganap na maka-Diyos, at ang mga elementong nagdala nito ay ang maka-Diyos na buhay at maka-Diyos na liwanag (tingnan ang mga tala 3-1 , 21-1 at 26-1 ), ang kaharian ng Diyos, lalung-lalo na sa realidad nito bilang ang tunay na ekklesia sa kapanahunang ito (Roma 14:17), ay isa pa ring hiwaga para sa likas na tao. Kinakailangan nito ang dibinong pahayag bago maunawaan."
+        },
+        {
+            "id": "11-2",
+            "text": "O, ginawang, naging."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang unang nalalaman ay oida (tumutukoy sa subhektibong pagkaalam at pagkaunawa), ang pangalawa ay ginosko (tumutukoy sa obhektibong pagkakilala)."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang ilawang nagsisilay ng liwanag ay nagsasaad na ang pang-ebanghelyong paglilingkod ng Aliping-Tagapagligtas ay hindi lamang naghahasik ng buhay sa loob ng Kanyang mga pinaglingkurang tao, bagkus nagdadala rin ng liwanag sa kanila. Kaya, ang gayong maka-Diyos na paglilingkod ay nagreresulta sa mga mananampalataya bilang mga tagapagtaglay ng liwanag (Fil. 2:15) at mga ekklesia bilang mga patungan-ng-ilawan (Apoc. 1:20), lumiliwanag sa ganitong kapanahunan ng kadiliman bilang Kanyang patotoo, at napalulubos sa Bagong Herusalem na may mga namumukod na katangian ng buhay at liwanag (Apoc. 22:1-2; 21:11, 23-24)."
+        },
+        {
+            "id": "21-2",
+            "text": "Tingnan ang tala 15-1 sa Mat. 5."
+        },
+        {
+            "id": "21-3",
+            "text": "Tingnan Tingnan ang tala 15-2 sa Mat. 5."
+        },
+        {
+            "id": "24-1",
+            "text": "Sa Mat. 7:2 at Luc. 6:38, ang salitang ito ay iniaangkop sa paraan ng ating pagtrato sa iba. Dito ay inaangkop ito sa paraan ng ating pakikinig ng salita ng Panginoon. Kung gaano karami ang ibibigay sa atin ng Panginoon ay nakasalalay sa sukat ng ating pakikinig. Kung gaano rin karami ang kaya nating pakinggan ay ganoon karami ang ibibigay sa atin ng Panginoon."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang salita rito ay tungkol din sa kung papaano tayo nakikinig sa salita ng Panginoon katulad ng nasa Mat. 13:10-13 at Luc. 8:18."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang kaharian ng Diyos ay ang realidad ng ekklesiang isinilang ng nabuhay na muling buhay ni Kristo sa pamamagitan ng ebanghelyo (1 Cor. 4:15). Ang pagkasilang-na-muli ay ang pasukan nito (Juan 3:5), at ang paglago ng maka-Diyos na buhay sa loob ng mga mananampalataya ay ang pag-unlad nito (2 Ped. 1:3-11). Tingnan ang tala 15-1 sa kapitulo 1."
+        },
+        {
+            "id": "26-2",
+            "text": "Tumutukoy sa Aliping-Tagapagligtas bilang manghahasik. Tingnan ang tala 3-1."
+        },
+        {
+            "id": "26-3",
+            "text": "Ang binhi ng maka-Diyos na buhay (1 Juan 3:9; 1 Ped. 1:23) na naihasik sa loob ng mga mananampalataya ng Aliping-Tagapagligtas, nagpapahiwatig na ang kaharian ng Diyos na siyang kinalalabasan at layunin ng ebanghelyo ng Aliping-Tagapagligtas, at ang ekklesia sa kapanahunang ito (Roma 14:17), ay isang bagay ng buhay, ng buhay ng Diyos, na umuusbong, lumalago, namumunga, nahihinog, at nagkakaroon ng ani; ang kaharian ng Diyos at ang ekklesia ay kapwa hindi walang buhay na organisasyong ibinunga ng karunungan at kakayahan ng tao. Pinatutunayan ito ng mga salita ng mga apostol sa 1 Cor. 3:6-9 at Apoc. 14:4, 15-16."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang mga salitang “natutulog at bumabangon gabi at araw” at “kung paano ay hindi niya nalalaman,” ay hindi nararapat iangkop sa Aliping- Tagapagligtas. Inilalarawan ng pangungusap na ito ang pagiging kusang-kusa ng paglago ng binhi (cf. b. 28)."
+        },
+        {
+            "id": "27-2",
+            "text": "Yaon ay, lumago"
+        },
+        {
+            "id": "28-1",
+            "text": "Yaon ay, ang mabuting lupa (b. 8), isinasagisag ang mabuting pusong nilikha ng Diyos (Gen. 1:31) para sa Kanyang maka-Diyos na buhay na makalago sa loob ng tao. Ang gayong mabuting puso ay gumagawang kasama ng binhi ng maka-Diyos na buhay na inihasik sa loob nito upang lumago at mamunga nang kusa para sa kahayagan ng Diyos. Binibigyan tayo ng ganitong salita ng pananampalataya sa kakayahan ng buhay na kusang lumago. Kaya nga, ang mapanirang damo ay hindi binanggit dito, sa negatibong panig, katulad ng sa Mat. 13:24-30."
+        },
+        {
+            "id": "28-2",
+            "text": "O, kusang-kusa."
+        },
+        {
+            "id": "29-1",
+            "text": "Sumasagisag sa mga anghel na isinugo ng Panginoon upang gapasin ang ani (Apoc. 14:16; Mat. 13:39)."
+        },
+        {
+            "id": "30-1",
+            "text": "Para sa mga bb. 30-32, tingnan ang mgatala sa Mat. 13:31-32."
+        },
+        {
+            "id": "30-2",
+            "text": "Ang ilang manuskrito ay binabasang, ihahalintulad."
+        },
+        {
+            "id": "32-1",
+            "text": "Ipinakikita ng kahulugan ng binhi sa mga bb. 3 at 26, at ng ilawan sa b. 21 ang kalikasan at panloob na realidad ng kaharian ng Diyos; samantalang sinasalita ng kahulugan ng butil ng mustasa na naging malaki na hindi ayon sa uri nito, at ng mga ibong nakasilong sa ilalim ng lilim nito ang kabulukan ng panlabas na anyo ng kaharian ng Diyos."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang mga talinghagang ito ay nagpakita sa maka-Diyos na karunungan at kaalaman ng Aliping-Tagapagligtas (Mat. 13:34-35)."
+        },
+        {
+            "id": "36-1",
+            "text": "Para sa mga bb. 36-41, tingnan ang mga tala sa Mat. 8:23-27."
+        },
+        {
+            "id": "38-1",
+            "text": "Ang Aliping-Tagapagligtas ay natutulog at nagpapahinga sa daong na hinahampas ng bagyong hangin, samantalang ang mga disipulo ay nangangatal sa takot, ipinakikita na Siya ay nasa ibabaw ng nagbabantang bagyong hangin at hindi nabalisa nito. Hangga’t Siya ay kasama ng mga disipulo sa kanilang daong, sila ay nararapat, sa pamamagitan ng pananampalataya sa Kanya (b. 40), na makibahagi sa Kanyang kapahingahan at tamasahin ang Kanyang kapayapaan."
+        },
+        {
+            "id": "39-1",
+            "text": "Habang nagsisunod ang mga disipulo sa Kanya, pinahupa ng Aliping-Tagapagligtas, bilang isang Tao na may maka-Diyos na awtoridad, ang bagyong nagbabanta sa kanila."
+        },
+        {
+            "id": "41-1",
+            "text": "Lit. nangamba ng malaking takot."
+        },
+        {
+            "id": "41-2",
+            "text": "Hindi lamang nito itinanghal ang maka-Diyos na awtoridad ng Aliping-Tagapagligtas, bagkus ipinatotoo na Siya Mismo ang Manlilikha ng sansinukob (Gen. 1:9; Job 38:8-11)."
         }
     ]
 }

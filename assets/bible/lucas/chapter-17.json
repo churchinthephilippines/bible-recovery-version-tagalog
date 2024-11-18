@@ -1,5 +1,5 @@
 {
-    "chapter": 17,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -33,7 +33,7 @@
             "footnotes": [
                 {
                     "word": "Dagdagan",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -44,7 +44,7 @@
             "footnotes": [
                 {
                     "word": "sikomorong",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -89,7 +89,7 @@
             "footnotes": [
                 {
                     "word": "lalakeng",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -106,7 +106,7 @@
             "footnotes": [
                 {
                     "word": "nagsisiparoon",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -141,7 +141,7 @@
             "footnotes": [
                 {
                     "word": "nagpagaling",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -152,11 +152,11 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": [
@@ -169,11 +169,11 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "ninyo.",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -184,7 +184,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -201,15 +201,15 @@
             "footnotes": [
                 {
                     "word": "kidlat",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -226,11 +226,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -265,7 +265,7 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -276,7 +276,7 @@
             "footnotes": [
                 {
                     "word": "asawa",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -287,7 +287,7 @@
             "footnotes": [
                 {
                     "word": "ingatan",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -298,11 +298,11 @@
             "footnotes": [
                 {
                     "word": "Sinasabi",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "kukunin",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
@@ -313,7 +313,7 @@
             "footnotes": [
                 {
                     "word": "kukunin",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -324,7 +324,7 @@
             "footnotes": [
                 {
                     "word": "Magkakaroon",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -335,10 +335,100 @@
             "footnotes": [
                 {
                     "word": "katawan,",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "5-1",
+            "text": "O, -1dagdagan sa amin ang pananampalataya."
+        },
+        {
+            "id": "6-1",
+            "text": "O, itim na morales."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 40-1 sa Marc. 1."
+        },
+        {
+            "id": "14-1",
+            "text": "Yaon ay dahil sa pagsampalataya at pagtalima kaya sila ay nalinis."
+        },
+        {
+            "id": "19-1",
+            "text": "Lit., nagligtas."
+        },
+        {
+            "id": "20-1",
+            "text": "Tingnan ang tala 43-2 sa kap. 4."
+        },
+        {
+            "id": "20-2",
+            "text": "Tinutukoy na ang kaharian ng Diyos ay hindi materyal, kundi espiritwal. Ito ay ang Tagapagligtas sa Kanyang unang pagdating (bb. 21-22), sa Kanyang ikalawang pagdating (bb. 23-30), sa pag-akyat-na-may-masidhing-kagalakan ng Kanyang mga mandaraig na mananampalataya (bb. 31-36), at sa Kanyang pagpuksa sa Antikristo (b. 37) upang bawiin ang buong lupa para sa Kanyang paghahari roon (Apoc. 11:15)."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang mga sumusunod na bersikulo, 22-24, ay nagpapatunay na ang kaharian ng Diyos ay ang Tagapagligtas Mismo, na nasa gitna ng mga Fariseo nang Siya ay tinatanong nila. Kung saan naroroon ang Tagapagligtas, naroroon ang kaharian ng Diyos. Ang kaharian ng Diyos ay nasa Kanya, at Siya ang nagdadala nito sa Kanyang mga disipulo (b. 22). Siya ang binhi ng kaharian ng Diyos na inihasik sa loob ng mga hinirang na tao ng Diyos upang umunlad tungo sa kinasasaklawan ng paghahari ng Diyos (tingnan ang tala 43-2 sa kap. 4). Mula sa Kanyang pagkabuhay na muli, Siya ay nasa loob ng Kanyang mga mananampalataya (Juan 14:20; Roma 8:10). Kaya, ang kaharian ng Diyos ay nasa loob ng ekklesia ngayon (Roma 14:17)."
+        },
+        {
+            "id": "21-2",
+            "text": "Tumutukoy sa mga nagtatanong na Fariseo (b. 20). Ang Tagapagligtas bilang ang kaharian ng Diyos ay wala sa loob nila kundi nasa kalagitnaan lamang nila."
+        },
+        {
+            "id": "22-1",
+            "text": "Ito ay tumutukoy sa pagiging wala roon ng Tagapagligtas. Sa Kanyang pagiging wala roon, ang sanlibutan, na tumanggi sa Kanya, ay magiging isang masamang henerasyon, namumuhay sa pagpapalayaw ng laman (bb. 23-30), at isang kaaway ng Kanyang mga tagasunod, umuusig sa kanila dahil sa kanilang patotoo hinggil sa Kanya (18:1-8). Kaya, kailangang daigin ng Kanyang mga tagasunod ang nakatutulirong epekto ng malayaw na pamumuhay sa sanlibutan sa pamamagitan ng pagtatatwa sa kanilang pangkaluluwang buhay sa kapanahunang ito (bb. 31-33), at makipagtuos sa pag-uusig ng sanlibutan sa pamamagitan ng pagtitiis at walang lubay na panalangin sa loob ng pananampalataya (18:7-8), upang sila ay maiakyat-na-may-masidhing-kagalakan bilang mga mandaraig nang sa gayon ay makapasok sa loob ng pagtatamasa ng kaharian ng Diyos sa pagbabalik ng Tagapagligtas (bb. 34-37)."
+        },
+        {
+            "id": "24-1",
+            "text": "Tingnan ang 27-1 sa Mat. 24."
+        },
+        {
+            "id": "24-2",
+            "text": "Lit., sa ilalim ng."
+        },
+        {
+            "id": "26-1",
+            "text": "Para sa bb. 26-27, tingnan ang mga tala sa Mat. 24:37-39."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang mga kalagayan ng masamang pamumuhay na nagpatuliro sa henerasyon ni Noe bago ang dilubyo at sa henerasyon ni Lot bago ang pagsira sa Sodoma ay naglalarawan ng mapanganib na kalagayan ng pamumuhay ng tao bago ang parousia (presensiya, pagdating) ng Panginoon at ang matinding kapighatian (Mat. 24:3, 21). Upang makabahagi sa pag-akyat-na-may-masidhing-kagalakan ng mga mandaraig para matamasa ang parousia ng Panginoon at makatakas sa matinding kapighatian, kinakailangan nating madaig ang nakatutulirong epekto ng pamumuhay ng tao sa ngayon."
+        },
+        {
+            "id": "31-1",
+            "text": "Ang manatili sa mga makalupa at mga materyal na bagay ay magsasanhi sa atin na hindi makasama sa pag-akyat-na-may-masidhing-kagalakan ng mga mandaraig na nahayag sa bb. 34-36."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang asawa ni Lot ay naging haliging asin sapagkat siya ay napatagal sa paglingon sa Sodoma, nagpapakita siya ay nag-imbot at nagpahalaga sa masamang sanlibutan na huhusgahan at lubusang pupuksain ng Diyos. Siya ay naligtas mula sa Sodoma, ngunit hindi siya nakarating sa ligtas na lugar na narating ni Lot (Gen. 19:15-30). Siya ay hindi napahamak; ni hindi naligtas nang ganap. Siya, katulad ng asin na nawalan ng lasa (14:34-35 at tala 34-2 ), siya ay naiwan sa isang lugar ng kahihiyan. Ito ay isang taimtim na babala sa mga mananampalatayang nag-iimbot sa sanlibutan."
+        },
+        {
+            "id": "33-1",
+            "text": "Tingnan ang tala 39-1 sa Mat. 10. Ang ingatan ang ating pangkaluluwang buhay ay may kaugnayan sa matagal na pamamalagi sa mga makalupa at materyal na bagay sa b. 31. Tayo ay namamalagi sa mga makalupang bagay dahil mahal natin ang pagtatamasa ng ating kaluluwa sa kapanahunang ito. Ito ang magiging sanhi ng pagkawala ng ating kaluluwa; yaon ay, magdurusa ang ating kaluluwa sa pagkawala ng pagtatamasa nito sa darating na kapanahunan ng kaharian."
+        },
+        {
+            "id": "34-1",
+            "text": "Para sa bb. 34-36, tingnan ang mga tala sa Mat. 24:40-41. Sa mga bersikulong ito, ang pag-akyat-na-may-masidhing-kagalakan ng mga mandaraig na mananampalataya ay inihayag. Ito ay mangyayari nang palihim at hindi inaasahan, sa gabi sa ilang mananampalataya na natutulog, sa araw sa ilang kapatid na babae na naggigiling sa bahay at sa ilang kapatid na lalake na gumagawa sa bukid. Sila ay napili dahil nadaig nila ang nakatutulirong kalagayan ng pangkasalukuyang kapanahunan. Sa 14:25-35 ay inuutusan tayo ng Tagapagligtas na magbayad ng halaga hanggang kaya natin upang tayo ay makasunod sa Kanya. Sa 16:1-13 ay inuutusan Niya tayo na daigin ang mammon upang makapaglingkod tayo sa Kanya nang may maingat-na-katalinuhan bilang matatapat na katiwala. Dito sa bb. 22-37, inuutusan Niya tayo na daigin ang nakatutulirong kalagayan ng pamumuhay na pagpapalayaw-sa-sarili sa kapanahunang ito upang maiakyat tayo nang may-masidhing-kagalakan patungo sa pagtatamasa ng Kanyang parousia (presensiya, pagdating). Ang lahat ng pag-uutos na ito ay may kaugnayan sa pagiging mandaraig ng mga mananampalataya sa praktikal na pamumuhay."
+        },
+        {
+            "id": "34-2",
+            "text": "Lit. kukuning kasama. Ito ang pag-akyat-na-may-masidhing-kagalakan ng mga mandaraig (tingnan ang tala 36-2 sa kap. 21). Hindi sila nag-iimbot sa mga makasanlibutang bagay sa kapanahunang ito (bb. 26-32), hindi nila iniingatan ang kanilang pangkaluluwang buhay."
+        },
+        {
+            "id": "35-1",
+            "text": "Lit. kukuning kasama."
+        },
+        {
+            "id": "36-1",
+            "text": "Ang bersikulong ito ay wala sa ilang manuskrito."
+        },
+        {
+            "id": "37-1",
+            "text": "Yaon ay, bangkay. Tingnan ang tala 28-1 sa Mat. 24."
         }
     ]
 }

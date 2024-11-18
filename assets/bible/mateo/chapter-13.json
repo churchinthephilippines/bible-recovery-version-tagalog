@@ -1,5 +1,5 @@
 {
-    "chapter": 13,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -23,7 +23,7 @@
             "footnotes": [
                 {
                     "word": "daong",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -34,11 +34,11 @@
             "footnotes": [
                 {
                     "word": "Narito,",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "manghahasik",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -49,15 +49,15 @@
             "footnotes": [
                 {
                     "word": "binhi",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -68,7 +68,7 @@
             "footnotes": [
                 {
                     "word": "mababatong",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -79,7 +79,7 @@
             "footnotes": [
                 {
                     "word": "araw,",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -90,7 +90,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -101,7 +101,7 @@
             "footnotes": [
                 {
                     "word": "mabuting",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -112,7 +112,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -129,7 +129,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -140,11 +140,11 @@
             "footnotes": [
                 {
                     "word": "sinumang",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "sinumang",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -179,11 +179,11 @@
             "footnotes": [
                 {
                     "word": "nakita",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "naririnig",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -200,11 +200,11 @@
             "footnotes": [
                 {
                     "word": "sinuman",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "masama",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -239,7 +239,7 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": [
@@ -253,15 +253,15 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "25-3"
                 }
             ],
             "outlines": null
@@ -284,7 +284,7 @@
             "footnotes": [
                 {
                     "word": "tipunin",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -295,7 +295,7 @@
             "footnotes": [
                 {
                     "word": "tinitipon",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -306,7 +306,7 @@
             "footnotes": [
                 {
                     "word": "tumubo",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -317,7 +317,7 @@
             "footnotes": [
                 {
                     "word": "mustasa,",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": [
@@ -331,11 +331,11 @@
             "footnotes": [
                 {
                     "word": "punong-",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "32-2"
                 }
             ],
             "outlines": null
@@ -346,15 +346,15 @@
             "footnotes": [
                 {
                     "word": "lebadura,",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "babae",
-                    "note": ""
+                    "id": "33-2"
                 },
                 {
                     "word": "harina",
-                    "note": ""
+                    "id": "33-3"
                 }
             ],
             "outlines": [
@@ -374,7 +374,7 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -401,11 +401,11 @@
             "footnotes": [
                 {
                     "word": "mabuting",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -428,7 +428,7 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -439,11 +439,11 @@
             "footnotes": [
                 {
                     "word": "hurno",
-                    "note": ""
+                    "id": "42-1"
                 },
                 {
                     "word": "pagtatangis",
-                    "note": ""
+                    "id": "42-2"
                 }
             ],
             "outlines": null
@@ -454,11 +454,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "43-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "43-2"
                 }
             ],
             "outlines": null
@@ -469,15 +469,15 @@
             "footnotes": [
                 {
                     "word": "kayamanang",
-                    "note": ""
+                    "id": "44-1"
                 },
                 {
                     "word": "bukid,",
-                    "note": ""
+                    "id": "44-2"
                 },
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "44-3"
                 }
             ],
             "outlines": [
@@ -491,7 +491,7 @@
             "footnotes": [
                 {
                     "word": "mangangalakal",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": [
@@ -506,7 +506,7 @@
             "footnotes": [
                 {
                     "word": "perlas",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
@@ -517,15 +517,15 @@
             "footnotes": [
                 {
                     "word": "lambat",
-                    "note": ""
+                    "id": "47-1"
                 },
                 {
                     "word": "dagat",
-                    "note": ""
+                    "id": "47-2"
                 },
                 {
                     "word": "bawa’t",
-                    "note": ""
+                    "id": "47-3"
                 }
             ],
             "outlines": [
@@ -539,11 +539,11 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "48-1"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -560,11 +560,11 @@
             "footnotes": [
                 {
                     "word": "hurno",
-                    "note": ""
+                    "id": "50-1"
                 },
                 {
                     "word": "pagtatangis",
-                    "note": ""
+                    "id": "50-2"
                 }
             ],
             "outlines": null
@@ -584,7 +584,7 @@
             "footnotes": [
                 {
                     "word": "kayamanan",
-                    "note": ""
+                    "id": "52-1"
                 }
             ],
             "outlines": null
@@ -612,7 +612,7 @@
             "footnotes": [
                 {
                     "word": "anluwagi?",
-                    "note": ""
+                    "id": "55-1"
                 }
             ],
             "outlines": null
@@ -635,10 +635,220 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "58-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa katapusan ng kapitulo 12 ang makalangit na Hari, na tinanggihan nang lubusan ng mga pinuno ng Hudyo, ay humiwalay na sa kanila. “Nang araw na yaon,” Siya ay “lumabas ng bahay” upang maupo sa “tabi ng dagat.” Ito ay napakamakahulugan. Ang bahay ay sumasagisag sa bahay ni Israel (10:6), at ang dagat ay sumasagisag sa sanlibutan ng mga Hentil (Dan. 7:3, 17; Apoc. 17:15). Ang paglabas ng Hari sa bahay upang maupo sa tabi ng dagat ay sumasagisag na pagkatapos ng Kanyang paghiwalay sa mga Hudyo, pinabayaan Niya ang bahay ni Israel at bumaling sa mga Hentil. Pagkatapos nito, sa tabing-dagat, Kanyang ibinigay ang mga talinghaga tungkol sa mga hiwaga ng kaharian. Ito ay sumasagisag na ang mga hiwaga ng kaharian ay nahayag sa ekklesia. Dahil dito, ang lahat ng talinghaga sa kapitulong ito ay pawang sinabi sa Kanyang mga disipulo, at hindi sa mga Hudyo."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang “daong,” na nasa dagat ngunit hindi ukol sa dagat, ay sumasagisag sa ekklesia na nasa sanlibutan ngunit hindi ukol sa sanlibutan. Ang Hari ng makalangit na kaharian, pagkatapos bitiwan ang mga Hudyo, ay bumaling sa mga Hentil at napasadaong, na siyang ekklesia. Kanyang ginamit ang mga talinghaga upang ipahayag ang mga hiwaga ng kaharian."
+        },
+        {
+            "id": "3-1",
+            "text": "Sa simula ng pinakauna sa pitong talinghagang nauukol sa mga hiwaga ng kaharian, ang Panginoon ay hindi nagsabing, “ang kaharian ng mga kalangitan ay itinulad sa,” kagaya ng Kanyang ginawa sa iba pang anim na talinghaga (bb. 24, 31, 33, 44, 45, 47), sapagkat ang kaharian ng mga kalangitan ay nagsimula sa ikalawang talinghaga. Sa unang talinghaga, ang Panginoon lamang ang lumalabas upang maghasik ng binhi ng kaharian. Sa panahong yaon ang binhi ay hindi pa lumalago upang maging ani para sa pagbubuo ng kaharian. Kaya, ang kaharian ay hindi pa dumarating, kundi napalapit lamang sa pangangaral ng Panginoon (4:17)."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang manghahasik ay ang Panginoon Mismo (b. 37)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang “binhi” ay ang salita ng kaharian (b. 19). Ang Panginoon ay nasa loob ng salitang ito bilang buhay."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang “sa tabi ng daan” ay ang lugar na malapit sa daan. Ito ay pinatigas ng trapiko ng daan, kaya mahirap para sa mga binhi ang makapasok sa lupa. Ang ganitong uri ng tabing-daan ay sumasagisag sa pusong tumigas na sa pamamagitan ng trapiko ng sanlibutan at hindi nagbubukas upang makabatid, upang makaunawa, ng salita ng kaharian (b. 19)."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang “mga ibon” ay sumasagisag sa masamang isa, si Satanas, na dumating at umagaw sa salita ng kahariang naihasik sa napatigas na puso (b. 19)."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “mababatong lugar” na “walang sapat na lupa” ay sumasagisag sa isang pusong mababaw sa pagtanggap ng salita ng kaharian, sapagkat sa kaibuturan ay may mga bato—mga natatagong kasalanan, mga pansariling pagnanais, makasariling-paghahangad, at pagkaawa sa sarili na bumibigo sa binhi upang magkaugat sa kaibuturan ng puso."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “araw” na may nakapapasong init ay sumasagisag sa paghihirap o pag-uusig (b. 21), na tumutuyo sa binhing hindi nagkaugat. Ang init ng araw ay para sa paglago at pagpapahinog ng pananim kapag ang binhi ay nagkaugat nang malalim. Subalit dahil sa kakulangan ng ugat, ang nagpapalago at nagpapahinog na init ng araw ay naging isang hampas ng kamatayan sa binhi."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang “mga dawag” ay sumasagisag sa kabalisahan ng pangkasalukuyang kapanahunan at sa daya ng kayamanan na pumipigil sa salita mula sa paglago sa puso at nagsasanhi sa salita upang hindi mamunga (b. 22)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang “mabuting lupa” ay sumasagisag sa mabuting puso na hindi napatigas ng makasanlibutang trapiko, na walang mga natatagong kasalanan, at walang kabalisahan ng pangkasalukuyang kapanahunan at daya ng kayamanan. Ang gayong puso ay nagbibigay ng ganap na lugar sa pagtanggap sa salita ng Panginoon, hinahayaan ang salita ng Panginoon na lumago, mamunga, at makapamunga pa ng isang daang ulit (b. 23)."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang salitang ito ay nagpapakita na ang mga sumasalungat at tumatangging Hudyo ay walang “mga pandinig na ipakikinig.” Kaya, sila ay hindi nakaririnig."
+        },
+        {
+            "id": "11-1",
+            "text": "Ipinakita ng Hari ng makalangit na kaharian ang mga bagay ng kaharian sa talinghaga (b. 34) upang gawing “mga hiwaga” ang mga ito sa mga sumasalungat at tumatangging Hudyo, nang sa gayon ay hindi nila maunawaan ang mga ito. Mula sa panahon na ang Hari ay dumating upang maghasik ng binhi hanggang sa Siya ay bumalik upang gapasin ang ani, ang lahat ng bagay hinggil sa kaharian ay isang hiwaga sa likas na kaisipan. Tangi lamang ang naliwanagang kaisipan ng isang nagpapasakop na puso ang makauunawa ng mga hiwagang ito."
+        },
+        {
+            "id": "12-1",
+            "text": "Ito ay ang tagatanggap at tagasunod ng makalangit na Hari, kung kanino ang pahayag hinggil sa kaharian ay ibibigay “sa kasaganaan.”"
+        },
+        {
+            "id": "12-2",
+            "text": "Ito ay ang sumasalungat at tumatangging Hudyo, na kung kanino ang sinalita at ginawa ng makalangit na Hari “ay aalisin.” Ito ang tunay na kalagayan ng mga Hudyo sa kasalukuyan. Sila ay walang anumang kaalaman hinggil sa kaharian ng mga kalangitan. Ito ay lubusang isang hiwaga na inilingid sa kanila."
+        },
+        {
+            "id": "17-1",
+            "text": "Anong pagpapala ito, ang makita at marinig ang mga hiwaga ng makalangit na kaharian!"
+        },
+        {
+            "id": "19-1",
+            "text": "Gr. bawat isa."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang “masama” ay ang Diyablo (bb. 38-39)."
+        },
+        {
+            "id": "24-1",
+            "text": "Mula sa pangalawang talinghaga, ang Panginoon ay nagsimulang magsabi, “Ang kaharian ng mga kalangitan ay inihalintulad sa,” sapagkat nang ang ekklesia ay naitayo (16:18-19) sa araw ng Pentecostes, ang kaharian ng mga kalangitan ay saka lamang nagsimulang maitatag, ang panahon nang ang ikalawang talinghaga ay nagsimulang matupad. Pagkaraan ng panahong yaon nang ang ekklesia ay naitatag, sa gitna ng mga tunay na mananampalataya, na siyang mga trigo, ay naihasik ang mga mapanirang damo, ang mga huwad na mananampalataya, na siyang naging panlabas na anyo ng kaharian ng mga kalangitan."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang “mga tao” ay ang mga alipin (b. 27), tumutukoy sa mga alipin ng Panginoon, nang pangunahin, sa mga apostol. Nang ang mga alipin ng Panginoon ay natutulog, hindi nagbabantay, ang “kaaway” ng Panginoon, ang Diyablo, ay dumating at naghasik ng mga huwad na mananampalataya sa gitna ng mga tunay."
+        },
+        {
+            "id": "25-2",
+            "text": "Ang mapanirang damo ay isang uri ng “darnel,” isang damo na nakakamukha ng trigo. Ang mga binhi nito ay nakalalason, nakapagsasanhi ng pagkaantok, pagduruwal, kombulsiyon, at maging ng kamatayan. Ang usbong at mga dahon ng mga mapanirang damo ay katulad na katulad ng sa trigo. Imposibleng makilala ang kaibhan ng isa sa isa hanggang hindi pa nagkakabunga. Ang bunga ng trigo ay ginintuang dilaw, ngunit ang sa mga mapanirang damo ay itim."
+        },
+        {
+            "id": "25-3",
+            "text": "Sa Lumang Tipan, ang mga anak ni Israel sa kaharian ng Diyos ay inihalintulad sa mga ubas na lumalago sa ubasan (21:33-34); samantalang sa Bagong Tipan, ang mga tao ng kaharian sa kaharian ng mga kalangitan ay inihalintulad sa trigo na lumalago sa bukid. Ang ubasan ay nababakuran, limitado lamang sa mga Hudyo; samantalang ang bukid ay pangkalahatan, bukas, hindi limitado, ito ay para sa lahat ng tao."
+        },
+        {
+            "id": "28-1",
+            "text": "Bunutin upang matipon. Gayundin sa mga sumusunod na bersikulo."
+        },
+        {
+            "id": "29-1",
+            "text": "Kapwa ang mga mapanirang damo at ang trigo ay lumalago sa bukid, at ang bukid ay ang sanlibutan (b. 38). Ang mga huwad na mananampalataya at ang mga tunay na mananampalataya ay nabubuhay sa sanlibutan. Ang tipunin ang mga mapanirang damo mula sa bukid ay nangangahulugang alisin ang mga huwad na mananampalataya sa sanlibutan. Hindi ninais ng Panginoon na gawin ito ng Kanyang mga alipin, baka habang inaalis ang mga huwad na mananampalataya mula sa sanlibutan, ang mga tunay ay maaaring maalis mula sa sanlibutan. Maraming ganitong bagay ang ginawa ng Relihiyong Katolisismo at sa gayong paggawa ay nakapatay ng maraming tunay na mananampalataya."
+        },
+        {
+            "id": "30-1",
+            "text": "“Tumubo nang sabay” sa sanlibutan, hindi sa ekklesia."
+        },
+        {
+            "id": "31-1",
+            "text": "Kapwa ang bunga ng trigo sa naunang dalawang talinghaga at ang buto ng “mustasa” rito sa pangatlong talinghaga ay para sa pagkain. Ito ay nagpapakita na ang mga tao ng kaharian, ang mga sangkap ng kaharian, at ang ekklesia ay nararapat na makatulad ng isang tanim na nagbubunga ng pagkain na nakapagbibigay-kasiyahan sa Diyos at sa tao."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang ekklesia, bilang ang solidong kahayagan ng kaharian, ay nararapat na makatulad ng isang gulay na nagbibigay ng pagkain, subali’t ito ay naging isang “punong-kahoy,” isang silungan para sa mga ibon, dahil sa ang kanyang kalikasan at gawain ay nabago. (Ito ay laban sa kautusan ng paglikha ng Diyos, na ang bawat halaman ay nararapat maging ayon sa kanyang uri—Gen. 1:11-12). Ito ay nangyari nang paghaluin ni Emperador Constantino na Dakila ang ekklesia at ang sanlibutan sa unang bahagi ng ikaapat na siglo. Kanyang dinala ang libu-libong huwad na mananampalataya sa loob ng Kristiyanidad, ginawa itong sangkakristiyanuhan, hindi na ang ekklesia. Kaya, itong pangatlong talinghaga ay tumutugma sa ikatlo ng pitong ekklesia sa Apocalipsis 2 at 3, ang ekklesia sa Pergamo (Apoc. 2:12-17—tingnan ang tala 12-2 roon). Ang mustasa ay isang taunang gulay, samantalang ang punong-kahoy ay isang pangmatagalang halaman. Ang ekklesia, ayon sa kanyang makalangit at espiritwal na kalikasan, ay dapat maging katulad ng mustasa, pansamantalang nakatira sa lupa. Subalit sa pagbago ng kalikasan nito, ang ekklesia ay nagkaugat nang malalim at nakapirmi sa lupa bilang isang punong-kahoy na lumalago sa kanyang pangangalakal tulad sa mga sanga na nagpapasilong sa maraming masasamang tao at masasamang bagay. Ito ang bumubuo sa panlabas na organisasyon ng panlabas na anyo ng kaharian ng mga kalangitan."
+        },
+        {
+            "id": "32-2",
+            "text": "Yamang ang mga ibon sa unang talinghaga ay sumasagisag sa masama, si Satanas (bb. 4, 19), ang “mga ibon ng himpapawid” ay malamang na tumutukoy sa masasamang espiritu na kampon ni Satanas kasama ang masasamang tao at masasamang bagay na nasa ilalim ng kanilang panunulsol. Sila ay nakasilong sa mga sanga ng malaking punong-kahoy, yaon ay, sa mga pangangalakal ng sangkakristiyanuhan."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang “lebadura” sa Kasulatan ay sumasagisag sa masasamang bagay (1 Cor. 5:6, 8) at masasamang doktrina (Mat. 16:6, 11-12)."
+        },
+        {
+            "id": "33-2",
+            "text": "Ang ekklesia, bilang ang praktikal na kaharian ng mga kalangitan, na tinataglay si Kristo—ang walang lebadurang pinong harina-bilang kanyang nilalaman, ay nararapat na maging ang walang lebadurang tinapay (1 Cor. 5:7-8) . Gayon pa man, ang Relihiyong Katolisismo na ganap at opisyal na binuo sa ikaanim na siglo at sinasagisag ng “babae” rito, ay kumuha ng maraming kagawiang pagano, mga pagtuturong taliwas sa wastong doktrina, at masasamang bagay, at inihalo ang mga ito sa mga pagtuturo tungkol kay Kristo upang lebadurahan ang buong nilalaman ng Kristiyanidad. Ang ikaapat na talinghagang ito ay tumutugma sa ikaapat ng pitong ekklesia sa Apocalipsis 2 at 3, ang ekklesia sa Tiyatira (Apoc. 2:18-29, tingnan ang tala 20-1 roon). Ito ay naging panloob na pagkabulok ng panlabas na anyo ng kaharian ng mga kalangitan."
+        },
+        {
+            "id": "33-3",
+            "text": "Ang “harina,” para sa paggawa ng handog na pagkain (Lev. 2:1), ay sumasagisag kay Kristo bilang pagkain kapwa para sa Diyos at sa tao. Ang “tatlong takal” ay ang dami na kailangan upang gumawa ng isang kumpletong komida (Gen. 18:6). Kaya, ang itago ang lebadura “sa tatlong takal ng harina” ay sumasagisag na nilebadurahan ng Relihiyong Katolisismo sa isang kubling paraan ang lahat ng pagtuturo tungkol kay Kristo. Ito ang aktuwal na sitwasyon sa Relihiyong Romano Katolisismo. Ito ay sukdulang laban sa Kasulatan, na matibay na nagbabawal sa paglalagay ng anumang lebadura sa loob ng handog na pagkain (Lev. 2:4-5, 11)."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang mga tao ng kaharian ay pinili ng Diyos bago itinatag ang sanlibutan (Efe. 1:4), ngunit ang mga hiwaga ng kaharian ay nakukubli “mula sa pagkakatatag ng sanlibutan.”"
+        },
+        {
+            "id": "38-1",
+            "text": "Ipinaaalam ng talinghagang ito na hindi nagtagal pagkalipas ng pagtatatag ng kaharian sa pamamagitan ng pagtatayo ng ekklesia, ang kalagayan ng kaharian ng mga kalangitan ay nabago. Ito ay naitatag ng “mga anak ng kaharian,” ang mga trigo. Ngunit “ang mga anak ng masama,” ang mga mapanirang damo, ay lumago upang baguhin ang kalagayan. Dahil dito, isang pagkakaiba ang lumitaw sa pagitan ng kaharian ng mga kalangitan at ng panlabas na anyo nito. Samantalang ang kaharian ay binubuo ng mga anak ng kaharian, na siyang mga trigo, ang mga anak naman ng masama, na siyang mga mapanirang damo, ang bumubuo sa panlabas na anyo ng kaharian, na sa ngayon ay tinatawag na sangkakristiyanuhan."
+        },
+        {
+            "id": "41-1",
+            "text": "Ang “kaharian” ng Anak ng Tao, na siyang panlupang bahagi ng isang libong taong kaharian, ang Mesiyanikong kaharian."
+        },
+        {
+            "id": "42-1",
+            "text": "Tumutukoy sa dagat-dagatang apoy (Apoc. 20:10, 15)."
+        },
+        {
+            "id": "42-2",
+            "text": "Tingnan ang tala 12-3 sa kap. 8."
+        },
+        {
+            "id": "43-1",
+            "text": "Ang mga anak ng kaharian (b. 38), na siyang mga mandaraig."
+        },
+        {
+            "id": "43-2",
+            "text": "Ang “kaharian” ng Ama ay ang makalangit na bahagi ng isang libong taong kaharian, ang kahayagan ng kaharian ng mga kalangitan bilang isang gantimpala sa mga mandaraig."
+        },
+        {
+            "id": "44-1",
+            "text": "Ang nakaraang tatlong talinghaga tungkol sa panlabas na anyo ng kaharian ay hayag na sinalaysay sa kalipunan ng makalangit na Hari na nasa daong (bb. 2, 34); samantalang ang tatlong talinghagang sumusunod dito ay ibinigay nang bukod sa loob ng bahay sa mga disipulo (b. 36). Tinutukoy nito na ang mga bagay na kinapapalooban nitong tatlong talinghaga ay higit na kubli. Ang una ay “isang kayamanang natatago sa bukid.” Ang kayamanang natatago sa bukid ay dapat na binubuo ng ginto o mga mamahaling bato, ang mga materyal para sa pagtatayo ng ekklesia at ng Bagong Herusalem (1 Cor. 3:12; Apoc. 21:18-20). Yamang ang ekklesia ay ang praktikal na kaharian ngayon, at ang Bagong Herusalem ay magiging ang kaharian sa pagpapakita sa darating na kapanahunan, kaya ang kayamanang nakatago sa bukid ay sumasagisag sa kahariang nakukubli sa sanlibutang nilikha ng Diyos."
+        },
+        {
+            "id": "44-2",
+            "text": "Ang “bukid” ay ang lupa, na sumasagisag sa sanlibutang nilikha ng Diyos para sa Kanyang kaharian (Gen. 1:26-28)."
+        },
+        {
+            "id": "44-3",
+            "text": "Ang “tao” rito ay si Kristo na siyang “nakasumpong” sa kaharian ng mga kalangitan sa mga kapitulo 4:12 hanggang 12:23, “itinago” ito sa mga kapitulo 12:24 hanggang 13:43, at “sa kanyang kagalakan” ay nagtungo sa krus sa 16:21; 17:22-23; 20:18-19; at 26:1 hanggang 27:52 upang “ipagbili ang lahat” na mayroon Siya at “bilhin ang bukid na yaon”—upang tubusin ang nilikha at nawalang lupa-para sa kaharian."
+        },
+        {
+            "id": "45-1",
+            "text": "Ang “mangangalakal” ay si Kristo rin na “naghahanap” sa ekklesia para sa Kanyang kaharian. Matapos masumpungan ito sa kapitulo 16:18 at 18:17, Siya ay “pumaroon” sa krus at “ipinagbili ang lahat” na mayroon Siya at “binili ang perlas” para sa kaharian."
+        },
+        {
+            "id": "46-1",
+            "text": "Ang “perlas,” ibinunga sa mga tubig ng kamatayan (ang sanlibutang napuno ng kamatayan) sa pamamagitan ng buháy na kabibi (ang buháy na Kristo), nasugatan ng isang maliit na bato (ang makasalanan) at nabubuuan at nagbibigay ng pambuhay na katas sa paligid ng nanunugat na bato (ang mananampalataya—tingnan ang tala 21-1 ng Apoc. 21), ay siya ring materyal para sa pagtatayo ng Bagong Herusalem. Yamang ang perlas ay nagmumula sa dagat, na sumasagisag sa sanlibutang pinasama ni Satanas (Isa. 57:20; Apoc. 17:15), ito ay tiyak na tumutukoy sa ekklesia, na sa pangunahin ay binubuo ng mga naisilang-na-muling mananampalatayang nagmula sa sanlibutan ng mga Hentil, at ito ang “perlas na lubhang may halaga.”"
+        },
+        {
+            "id": "47-1",
+            "text": "Ang talinghagang ito ay tumutugon sa kapitulo 25:32-46. Ang “lambat” dito ay hindi sumasagisag sa ebanghelyo ng biyaya, na ipinahayag sa kapanahunan ng ekklesia, kundi sa walang hanggang ebanghelyo, na ipahahayag sa sanlibutan ng mga Hentil sa panahon ng matinding kapighatian (Apoc. 14:6-7-tingnan ang tala 6-1 roon)."
+        },
+        {
+            "id": "47-2",
+            "text": "Ang “dagat” ay sumasagisag sa sanlibutan ng mga Hentil."
+        },
+        {
+            "id": "47-3",
+            "text": "Ang “bawat uri” ay sumasagisag sa lahat ng bansa, sa lahat ng Hentil (25:32)."
+        },
+        {
+            "id": "48-1",
+            "text": "“Ang mga mabuti” ay ang mga tupa na inaring-matuwid; “ang mga masama” ay ang mga kambing na kinondena (25:32)."
+        },
+        {
+            "id": "50-1",
+            "text": "Tumutukoy sa dagat-dagatang apoy (25:41; Apoc. 20:10, 15)."
+        },
+        {
+            "id": "50-2",
+            "text": "Tingnan ang tala 12-3 kapitulo 8."
+        },
+        {
+            "id": "52-1",
+            "text": "Pagkatapos ibigay ang pitong talinghaga tungkol sa hiwaga ng kaharian, itinulad ng Panginoon ang naging disipulong eskriba sa “isang panginoon ng sambahayan.” Ang panginoon ng sambahayang ito ay may isang mayamang imbakan ng “mga bagay na bago at luma.” Ang mga bago at lumang bagay ay hindi lamang sumasagisag sa bago at lumang kaalaman ukol sa mga Kasulatan, bagkus sumasagisag din sa mga bago at lumang pambuhay na karanasan sa kaharian."
+        },
+        {
+            "id": "55-1",
+            "text": "Sa kapitulo 12:24, si Kristo ay sinalungat at itinakwil sa sukdulan ng mga Fariseo. Dito, nakilala Siya ng mga Galileo nang ayon sa laman, hindi ayon sa espiritu (2 Cor. 5:16). Sila ay binulag ng kanilang likas na kaalaman."
+        },
+        {
+            "id": "58-1",
+            "text": "Ang pagtanggi ng mga Fariseo ay nagsanhi sa makalangit na Hari na talikdan sila. Ang kawalan ng pananampalataya ng mga Galileo ay nagsanhi sa Panginoon na huwag gumawa ng maraming gawain ng kapangyarihan sa kanila."
         }
     ]
 }

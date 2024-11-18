@@ -1,5 +1,5 @@
 {
-    "chapter": 18,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "umalis",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -35,7 +35,7 @@
             "footnotes": [
                 {
                     "word": "lumabas",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -46,7 +46,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -69,7 +69,7 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -92,7 +92,7 @@
             "footnotes": [
                 {
                     "word": "sarong",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -103,7 +103,7 @@
             "footnotes": [
                 {
                     "word": "pangulong",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -118,7 +118,7 @@
             "footnotes": [
                 {
                     "word": "dinala",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -171,7 +171,7 @@
             "footnotes": [
                 {
                     "word": "Bakit",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -218,11 +218,11 @@
             "footnotes": [
                 {
                     "word": "pretorio;",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "maaga",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": [
@@ -253,7 +253,7 @@
             "footnotes": [
                 {
                     "word": "paraan",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -270,7 +270,7 @@
             "footnotes": [
                 {
                     "word": "Sinasabi",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -287,11 +287,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "36-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -302,11 +302,11 @@
             "footnotes": [
                 {
                     "word": "katotohanan.",
-                    "note": ""
+                    "id": "37-1"
                 },
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -323,7 +323,7 @@
             "footnotes": [
                 {
                     "word": "kasalanan",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": [
@@ -342,6 +342,68 @@
             "text": "Sila nga ay nagsigawang muli, na nangagsasabi, Huwag ang Taong ito, kundi si Barrabás. Si Barrabás nga ay isang tulisan.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ibinigay ng Panginoon ang Kanyang Sarili nang kusa sa hakbangin ng kamatayan, tulad ng binanggit Niya sa 10:17-18. Ginawa Niya yaon nang kusa at nang may katapangan."
+        },
+        {
+            "id": "4-1",
+            "text": "Tingnan ang tala 1-1 ."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “Ako Nga” ay ang pangalan ni Jehovah. Gayundin sa b. 6 at b. 8. Tingnan ang tala 24-1 sa kapitulo 8. Nang marinig ng mga kawal ang pangalang ito, sila ay napaurong at nabuwal sa lupa."
+        },
+        {
+            "id": "8-1",
+            "text": "Sa ilalim ng pagdurusa ng pagkakanulo ng Kanyang huwad na disipulo at ng pagdakip ng mga kawal, ang Panginoon ay nangalaga pa ring maigi sa Kanyang mga disipulo. Ito ay nagpapakita na ang Panginoon ay hindi nababalisa sa Kanyang pagdaan sa hakbangin ng kamatayan."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang salitang ito ay nagpapakita rin na ang Panginoon ay kusang loob na dumaan sa hakbangin ng kamatayan."
+        },
+        {
+            "id": "12-1",
+            "text": "*Gr. kiliarkos , ang pinuno ng isang libong sundalo."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang Panginoon ay ang Kordero ng Diyos (1:29), at Siya ay pinatay sa araw ng Paskua (b. 28). Kung papaano ang kordero ng Paskua ay sinusuri bago ito patayin (Exo. 12:3-6), gayundin naman Siya ay sinuri ng buong sangkatauhan na kinatawan ng mataas na saserdote ng mga Hudyo at ng gobernador ng mga Romano, at napatunayang walang kapintasan (b. 38b; 19:4, 6). Tingnan ang tala 37-1 sa Marcos 12."
+        },
+        {
+            "id": "21-1",
+            "text": "Habang ang Panginoon ay hinuhusgahan ng mataas na saserdote ng relihiyon ng mga Hudyo at ng gobernador ng Emperyo Romano, sa katunayan, sila ang hinatulan ng kagalang-galang na Panginoon."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang opisyal na tirahan ng gobernador."
+        },
+        {
+            "id": "28-2",
+            "text": "Isang pagtukoy sa ikaapat na pagbabantay, alas-tres ng umaga hanggang alas-sais ng umaga."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang paraan ng mga Hudyo sa pagpatay ng isang kriminal ay sa pamamagitan ng pagbato (Lev. 24:16); subali’t napropesiya ng Panginoong Hesus, ayon sa sagisag na nasa Lumang Tipan (Blg. 21:8-9), na Siya ay itataas (3:14; 8:28; 12:32). Ito ay nasa ilalim ng kataas-taasang kapangyarihan ng Diyos na hindi pa natatagalan bago ang pagkakataong ito, ang Emperyo Romano ay gumawa ng isang batas na ang mga kriminal na nahatulan ng kamatayan ay kinakailangang ipako sa krus. Sa ganitong paraan ng kamatayan pinatay ang Panginoon. Ito ay nagpapatunay na ang kamatayan ng Panginoon ay hindi isang aksidente kundi itinalaga ng Diyos (Gawa 2:23)."
+        },
+        {
+            "id": "34-1",
+            "text": "Tingnan ang tala 21-1 ."
+        },
+        {
+            "id": "36-1",
+            "text": "Lit. mula sa. Gayundin sa bersikulo 37."
+        },
+        {
+            "id": "37-1",
+            "text": "Ayon sa pahayag ng buong aklat, ang katotohanan dito ay tumutukoy sa dibinong realidad na ipinahayag ng Anak ng Diyos nang kongkreto. Tingnan ang tala 14-5 sa kapitulo 1 at tala 6-6 sa I Juan 1."
+        },
+        {
+            "id": "38-1",
+            "text": "Tumutukoy sa kasalanan (cf. 19:4, 6) ayon sa batas ng Emperyo Romano."
         }
     ]
 }

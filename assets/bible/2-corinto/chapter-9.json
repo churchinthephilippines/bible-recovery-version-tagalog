@@ -1,5 +1,5 @@
 {
-    "chapter": 9,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -15,7 +15,7 @@
             "footnotes": [
                 {
                     "word": "Acaya",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -32,7 +32,7 @@
             "footnotes": [
                 {
                     "word": "pagtitiwalang",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -43,15 +43,15 @@
             "footnotes": [
                 {
                     "word": "pagpapala",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "bilang",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "bilang",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -62,23 +62,23 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "pagpapala",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "pagpapala;",
-                    "note": ""
+                    "id": "6-4"
                 }
             ],
             "outlines": [
@@ -91,11 +91,11 @@
             "footnotes": [
                 {
                     "word": "iniibig",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "masaya.",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -106,7 +106,7 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -117,15 +117,15 @@
             "footnotes": [
                 {
                     "word": "nagsabog,",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "dukha,",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "katuwiran",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -136,7 +136,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -147,7 +147,7 @@
             "footnotes": [
                 {
                     "word": "pagbubukas-",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -158,7 +158,7 @@
             "footnotes": [
                 {
                     "word": "paglilingkod",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -169,15 +169,15 @@
             "footnotes": [
                 {
                     "word": "pagiging",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "bukas-",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "pakikisalamuha",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -188,11 +188,11 @@
             "footnotes": [
                 {
                     "word": "lubhang",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -203,14 +203,112 @@
             "footnotes": [
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "kaloob!",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 1-5 sa kapitulo 1."
+        },
+        {
+            "id": "4-1",
+            "text": "Gr. hupostasis , nangangahulugang pinaghukayan na lupa na pagtatayuan ng malaking gusali; samakatuwid, pundasyon, lupang tuntungan; sa gayon, pagtitiwala. Kagaya ng sa 11:17."
+        },
+        {
+            "id": "5-1",
+            "text": "O, kasaganaan, isang bukal sa loob na kaloob ng kagandahang-loob bilang isang pagpapala sa iba (Gen. 33:11; Huk. 1:15; Ezek. 34:26; Kaw. 11:25)."
+        },
+        {
+            "id": "5-2",
+            "text": "Ginagawa ng bukal sa loob at ng may kagandahang-loob na pagbibigay ang kaloob na isang pagpapala sa tatanggap; ginagawa ng di-bukal sa loob at masama ang loob na pagbibigay, yaon ay, pagbibigay na mula sa isang nagkakait at mapag-imbot na puso, ang kaloob na isang bagay ng pag-iimbot sa nagbibigay."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang naghahasik nang lubhang may kakuriputan ay aani rin nang may kakuriputan; yaong naghahasik na may kasamang pagpapala ay mag-aani rin na may kasamang pagpapala."
+        },
+        {
+            "id": "6-2",
+            "text": "Lit. sa loob ng."
+        },
+        {
+            "id": "6-3",
+            "text": "Mga masaganang pagbibigay bilang mga pagpapala sa mga tumatanggap."
+        },
+        {
+            "id": "6-4",
+            "text": "Mga masaganang ani bilang mga pagpapala mula sa Diyos para sa nagbibigay."
+        },
+        {
+            "id": "7-1",
+            "text": "Hinalaw sa Kaw. 22:9, kung saan binabasa ng Septuagint na, “Iniibig ng Diyos ang isang masaya at liberal na tao.”"
+        },
+        {
+            "id": "7-2",
+            "text": "O, tuwang-tuwa, maligayang-maligaya."
+        },
+        {
+            "id": "8-1",
+            "text": "Bawa’t uri ng biyaya. Tingnan ang tala 6-3 sa kapitulo 8."
+        },
+        {
+            "id": "9-1",
+            "text": "Katulad ng pagsasabog sa panahon ng paghahasik (b.6)."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang isang taong obligadong gumawa ng gawain ng isang utusan upang mabuhay. Ito ay hindi isang pangkaraniwang salita para sa dukha."
+        },
+        {
+            "id": "9-3",
+            "text": "Ang bukas-palad na pagbibigay sa isang banda, ay isang pagpapala sa mga tatanggap, at sa kabilang banda, katuwiran sa mga mata kapwa ng Diyos at ng tao."
+        },
+        {
+            "id": "10-1",
+            "text": "Sa pangangalaga ng Diyos sa Kanyang mga anak, dalawang paraan ang Kanyang ginagamit sa pagpapakain sa kanila: ang mahimalang paraan katulad ng pagpapadala ng manna, at ang paraan ayon sa batas ng kalikasan katulad ng paghahasik at pag-aani. Ang pinagmulan ng dalawang uri ng paraan ng pagtutustos ay ang Diyos. Siya ang yaong Tagapagpadala ng manna. Siya rin ang Tagapagtustos ng binhing ihahasik at ng tinapay na kakainin. Sa dahilan na ang apostol ay may malalim na pagkaunawa sa katotohanang ito at may malinaw na pagkakilala sa ekonomiya ng Diyos, siya ay may katiyakan at kapayapaan na hikayatin ang mga dukhang banal na taga-Macedonia (8:2; 9:2) upang ibigay ang lahat nilang makakaya nang sa gayon ay matustusan ang pangangailangan ng iba."
+        },
+        {
+            "id": "11-1",
+            "text": "Tingnan ang tala 2-2 sa kapitulo 8. Gayundin sa bersikulo13."
+        },
+        {
+            "id": "12-1",
+            "text": "Pansaserdoteng paglilingkod. Tingnan ang tala 25-3 sa Filipos 2."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang pag-apruba ng mga nangangailangang banal sa Judea sa pagtutustos sa kanila ng mga mananampalatayang Hentil. Ang Griyegong salitang dokime ay nangangahulugang pagsusuri, pagsubok (tingnan ang tala 2-1 sa kapitulo 8); kaya, pagkaaprubado, katibayan, nagpapakita na ang pagtutustos sa mga banal ay susuriin, susubukin, at aaprubahan ng mga banal upang maging isang katibayan ng bukas-palad na katangian ng pagtutustos."
+        },
+        {
+            "id": "13-2",
+            "text": "Tingnan ang tala 2-2 sa kapitulo 8."
+        },
+        {
+            "id": "13-3",
+            "text": "O, pakikiramay (cf. dumaramay sa Roma 12:13, at nakibahagi sa Filipos 4:15), tumutukoy sa bagay ng pagbibigay tustos, na siyang pakikipagsalamuha sa gitna ng mga mananampalatayang Hentil at yaong mga nasa Judea."
+        },
+        {
+            "id": "14-1",
+            "text": "Yaon ay, hindi masukat-sukat."
+        },
+        {
+            "id": "14-2",
+            "text": "Tingnan ang mga tala 1-1 at 6-1 sa kap. 8."
+        },
+        {
+            "id": "15-1",
+            "text": "*Gr. anekdieeyeetos . Lit. hindi maubos masambit."
+        },
+        {
+            "id": "15-2",
+            "text": "Yaon ay, ang biyayang ibinigay sa mga mananampalataya."
         }
     ]
 }

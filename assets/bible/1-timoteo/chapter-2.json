@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "manaing,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "mamagitan,",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -24,15 +24,15 @@
             "footnotes": [
                 {
                     "word": "panatag",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "pagka-",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "kahinahunan",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -49,11 +49,11 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "lubos",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -64,15 +64,15 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Tagapamagitan",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "Taong",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -83,15 +83,15 @@
             "footnotes": [
                 {
                     "word": "nagbigay",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "pantubos",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "patotoong",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -102,11 +102,11 @@
             "footnotes": [
                 {
                     "word": "tagapagbalita",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -117,23 +117,23 @@
             "footnotes": [
                 {
                     "word": "manalangin",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "kamay",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "banal,",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "galit",
-                    "note": ""
+                    "id": "8-4"
                 },
                 {
                     "word": "pakikipagtalo.",
-                    "note": ""
+                    "id": "8-5"
                 }
             ],
             "outlines": [
@@ -146,19 +146,19 @@
             "footnotes": [
                 {
                     "word": "Gayundin",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "maayos",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "kahinhinan",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "kahinahunan,",
-                    "note": ""
+                    "id": "9-4"
                 }
             ],
             "outlines": null
@@ -169,7 +169,7 @@
             "footnotes": [
                 {
                     "word": "makadiyos",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -180,11 +180,11 @@
             "footnotes": [
                 {
                     "word": "katahimikan",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "pagpapasakop;",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -195,11 +195,11 @@
             "footnotes": [
                 {
                     "word": "magturo,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "manahimik.",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -210,11 +210,11 @@
             "footnotes": [
                 {
                     "word": "Adam",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "nilalang,",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -225,11 +225,11 @@
             "footnotes": [
                 {
                     "word": "Adam",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "babae",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -240,18 +240,164 @@
             "footnotes": [
                 {
                     "word": "panganganak,",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "kahinahunan.",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang ministeryo ng panalangin ay ang pangunahing kailangan para sa pangangasiwa at pag-aalaga sa isang ekklesia-lokal. Hinggil sa kaibhan ng mga daing sa mga panalangin, tingnan ang tala 6-2 sa Filipos 4."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang salitang Griyego ay nangangahulugang lumapit sa Diyos sa isang pansarili at nagtatapat na paraan, yaon ay, pagmalasakitan ang iba sa harapan ng Diyos; mamagitan para sa kanilang kapakanan."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang isang panatag at tahimik na buhay ay isa na payapa, tiwasay, at walang kaguluhan, hindi lamang sa mga panlabas na pangyayari bagkus maging sa panloob din, sa ating puso at espiritu, upang tayo ay magkaroon ng katamatamasang buhay-ekklesia sa loob ng pagkamakadiyos at kahinahunan-ngpagiging- kagalang-galang."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang pagiging katulad ng Diyos, kagaya ng Diyos, naghahayag sa Diyos. Ang buhay-Kristiyano ay kinakailangang maging isang buhay na naghahayag sa Diyos at nagtataglay ng wangis ng Diyos sa lahat ng mga bagay."
+        },
+        {
+            "id": "2-3",
+            "text": "Isang katangian ng pantaong pag-uugali na karapat-dapat sa paggalang, nagpapahayag ng dignidad, at nagpapasigla at nag-aanyaya ng paggalang (tingnan ang tala 8-2 sa Filipos 4). Ang pagkamakadiyos ay ang kahayagan ng Diyos; ang kahinahunan-ng-pagiging-kagalang-galang ay tungo sa tao. Ang ating buhay-Kristiyano ay dapat maghayag ng Diyos sa tao na may isang kagalang-galang na pag-uugali na nag-aanyaya ng paggalang ng tao."
+        },
+        {
+            "id": "4-1",
+            "text": "Dapat tayong manalangin patungkol sa lahat ng mga tao (b. 1), sapagka’t ang Diyos na ating Tagapagligtas ang may ibig na ang lahat ng mga tao ay maligtas at lubos na makaalam ng katotohanan. Ang naisin ng Diyos ay nangangailangan ng ating panalangin upang ito ay maisakatuparan."
+        },
+        {
+            "id": "4-2",
+            "text": "Hindi lamang ibig ng Diyos na maligtas ang lahat ng mga tao, bagkus magkaroon din sila ng lubos na kaalaman ng katotohanan. Ang katotohanan ay nangangahulugang realidad, tumutukoy sa lahat ng mga tunay na bagay na inihayag sa Salita ng Diyos, na sa pangunahin ay si Kristo bilang pagsasakatawan ng Diyos at ang ekklesia bilang Katawan ni Kristo. Bawa’t naligtas na tao ay dapat magkaroon ng lubos na kaalaman, ng kumpletong pagkatanto, sa lahat ng mga bagay na ito. Ang layunin ng dalawang Sulat kay Timoteo ay ang tuusin ang pagbaba ng ekklesia. Sa unang Sulat, ang pagbaba ay gumapang paloob nang may katusuhan sa pamamagitan ng mga pagtuturo na naiiba sa ekonomiya ng Diyos (1:3), at sa ikalawang Sulat, ito ay lantarang kumalat at lumala sa pamamagitan ng mga erehiya (2 Tim. 2:16-18). Upang matuos ang gayong pagbaba, kinakailangang mapanatili ang katotohanan. Ang unang Sulat ay nagbibigay-diin na ibig ng Diyos na magkaroon ng lubos na kaalaman ng katotohanan ang lahat ng Kanyang iniligtas, at yaong ang ekklesia ay ang haligi at saligan ng katotohanan (3:15). Ang ikalawang Sulat ay nagbibigay-diin na ang salita ng katotohanan ay dapat ipaliwanag nang wasto (2 Tim. 2:15), at ang mga lumilihis ay dapat bumalik sa katotohanan (2 Tim. 2:25)."
+        },
+        {
+            "id": "5-1",
+            "text": "Bagama’t ang Diyos ay Tres-uno-ang Ama, ang Anak, at ang Espiritu-Siya pa rin ang iisang Diyos, hindi tatlong Diyos, gaya ng maling pagkatanto at maling pagkapaniwala ng maraming Kristiyano."
+        },
+        {
+            "id": "5-2",
+            "text": "Isang namamagitan."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang Panginoong Hesus ay ang Diyos mula pa noong walang hanggan (Juan 1:1). Sa loob ng panahon Siya ay naging isang tao sa pamamagitan ng pagiging laman (Juan 1:14). Habang Siya ay nabubuhay sa lupa bilang isang tao, Siya rin ay ang Diyos (3:16). Pagkaraan ng pagkabuhay-na-muli, Siya ay tao pa rin at Diyos din (Gawa 7:56; Juan 20:28). Kaya, Siya lamang ang Isang kwalipikadong maging Tagapamagitan, namamagitan sa Diyos at sa mga tao."
+        },
+        {
+            "id": "6-1",
+            "text": "Kinakailangang ibigay ni Kristo ang Kanyang Sarili para sa pagsasagawa ng pagtutubos para sa lahat ng mga tao, upang Siya ay maging ating Tagapamagitan. Siya ay karapat-dapat na maging Tagapamagitan sa Diyos at sa tao, hindi lamang sa loob ng Kanyang dibino at pantaong Persona, bagkus dahil din sa kanyang nagtutubos na gawain. Kapwa ang Kanyang Persona at gawain ay namumukod-tangi."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang salitang Griyego ay nangangahulugang ganting-kabayaran."
+        },
+        {
+            "id": "6-3",
+            "text": "Ibinigay ni Kristo ang Kanyang Sarili na pantubos para sa lahat ng mga tao; ang katunayang ito ay nagiging patotoo na ihahayag sa sariling kapanahunan nito. Sa tuwing ang katunayang ito ay naipahahayag, ito ay isang patotoong inihahayag sa mga tao sa sarili nitong kapanahunan."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang isang tagapagbalita ay isang tagapagpahayag ng ebanghelyo ni Kristo, isang opisyal na tagapagbalita ng Bagong Tipang ekonomiya ng Diyos. Ang apostol ay isang isinugo ng Diyos na may dibinong pag-aatas na magtatag ng mga ekklesia para sa Diyos, isang embahador mula sa Diyos tungo sa sanlibutan para sa pagsasagawa ng Kanyang layunin. Ang guro ay isang tagapagturo na nagtuturo, nagpapaliwanag, at nagpapalinaw ng mga nilalaman ng walang hanggang layunin ng Diyos at ng Kanyang Bagong Tipang ekonomiya. Si Pablo ay may ganitong tripleng katayuan at pag-aatas para sa mga Hentil. Tingnan ang tala 11-2 sa 2 Timoteo 1."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang pananampalataya rito ay tumutukoy sa pananampalataya kay Kristo (3:13; Gal. 3:23-26). Ang katotohanan ay tumutukoy sa realidad ng lahat ng mga bagay na inihayag sa Bagong Tipan (tingnan ang tala 4-2 ). Ito ay tumutugma sa 4:3. Itinalaga si Pablo na isang tagapagbalita, isang apostol, at isang guro ng Bagong Tipan sa saklaw at elemento ng pananampalataya at katotohanang ito, hindi sa saklaw at elemento ng mga kautusan, mga sagisag, at mga propesiya ng Lumang Tipan."
+        },
+        {
+            "id": "8-1",
+            "text": "Sa isang ekklesia-lokal, ang mga nangunguna ay kinakailangang magkaroon ng isang buhay-panalangin, katulad ng iniatas sa mga bersikulo 1 at 2, upang magtakda ng isang halimbawa ng pananalangin para sa lahat ng mga sangkap upang sila ay sumunod sa pamamagitan ng laging pananalangin sa bawa’t lugar."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang mga kamay ay isang simbolo ng ating mga gawain. Kaya, ang mga kamay na banal ay sumasagisag sa isang banal na pamumuhay, isang buhay na napabanal at naibukod tungo sa Diyos. Ang gayong banal na buhay ay nagpapalakas sa ating buhay-panalangin. Kapag ang ating mga kamay ay hindi banal, ang ating pamumuhay ay hindi naibubukod tungo sa Diyos; sa gayon ay wala tayong nagsusuportang lakas upang manalangin, walang mga kamay na banal na itataas sa pananalangin."
+        },
+        {
+            "id": "8-3",
+            "text": "Tingnan ang tala 75-1 sa Lucas 1."
+        },
+        {
+            "id": "8-4",
+            "text": "Ang galit at pakikipagtalo ay pumapatay sa ating pananalangin. Ang galit ay galing sa ating damdamin, at ang pakikipagtalo ay galing sa ating kaisipan. Upang magkaroon ng buhay-panalangin at panalanging walang patid, ang ating damdamin at kaisipan ay kinakailangang maregulahan tungo sa isang normal na kalagayan sa ilalim ng pagkokontrol ng Espiritu sa ating espiritu."
+        },
+        {
+            "id": "8-5",
+            "text": "Tumutukoy sa pangangatuwirang humahantong sa pakikipagtalo."
+        },
+        {
+            "id": "9-1",
+            "text": "Ito ay tumutukoy sa “ibig ko” sa b. 8."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang maayos dito ay tumutukoy sa pagiging angkop sa kalikasan at katayuan ng mga kapatid na babae bilang mga banal ng Diyos. Ang pananamit sa Griyego ay nangangahulugang tikas, pagkilos. Ang pagkilos ng isang kapatid na babae, na ang pangunahing palatandaan ay ang pananamit, ay kinakailangang umangkop sa kanyang banal na katayuan."
+        },
+        {
+            "id": "9-3",
+            "text": "Lit. kahihiyan, yaon ay, natatalian o nakokontrol ng isang kagalang-galang na kakimian (Vincent), nangangahulugang hindi bastos o pangahas, kundi mahinahon, tinutupad ang kagandahang-asal ng isang babae."
+        },
+        {
+            "id": "9-4",
+            "text": "Tumutukoy sa kahinahunan ng kaisipan, pagpipigil-sa-sarili, ang higpitan ang sarili nang mahinahon at maingat. Dapat damitan ng mga kapatid na babae sa isang ekklesia-lokal ang kanilang mga sarili ng dalawang katangiang ito-kahinhinan at pagpipigil-sa-sarili-bilang kanilang tikas. Gayundin sa b. 15."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang Griyegong Salita ay may parehong batayan o ugat na salita sa “pagkamakadiyos”. Pagpipitagan patungkol sa Diyos, ang pagpipitagan at paggalang sa Diyos na dapat gawin ng isang sumasamba sa Diyos."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang matuto sa loob ng katahimikan at magpasakop nang buo ay ang matanto ng mga kapatid na babae ang kanilang katayuan bilang babae. Ito ang nag-iingat sa mga kapatid na babae mula sa kapangahasang lumampas sa kanilang katayuan sa ekklesia-lokal."
+        },
+        {
+            "id": "11-2",
+            "text": "Gayundin sa 3:4."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang magturo rito ay nangangahulugang magturo nang may awtoridad, ang magpaliwanag at magpasiya ng kahulugan ng mga doktrina hinggil sa dibinong katotohanan. Para sa isang babae na magturo sa ganitong paraan o gumamit ng awtoridad sa isang lalake ay ang iwanan ang kanyang katayuan. Sa paglikha ng Diyos, ang lalake ay itinalagang maging ulo, at ang babae ay dapat magpasakop sa lalake (1 Cor. 11:3). Ang pagtatalagang ito ay dapat panatilihin sa ekklesia."
+        },
+        {
+            "id": "12-2",
+            "text": "Tahimik, hindi nagsasalita."
+        },
+        {
+            "id": "13-1",
+            "text": "Ito ay nagdadala sa atin sa simula. Ang Diyos ay laging nagnanais na dalhin tayong pabalik sa Kanyang pasimula (Mat. 19:8)."
+        },
+        {
+            "id": "13-2",
+            "text": "Lit. inanyo, hinulma mula sa alabok ng lupa (Gen. 2:7)."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang bersikulo 13 ay nagbibigay ng unang dahilan na dapat magpasakop ang babae sa lalake. Dito ay ibinibigay ang ikalawa."
+        },
+        {
+            "id": "14-2",
+            "text": "Si Eva ay nalinlang ng ahas (Gen. 3:1-6) dahil sa siya ay hindi nanatili sa pagpapasakop sa pagkaulo ni Adam, kundi lumampas sa kanyang katayuan at nakipag-ugnay nang tuwiran sa masamang manunukso nang hindi tinakpan ang kanyang ulo. Ito ay ang matibay na batayan para hindi pahintulutan ng apostol ang mga kapatid na babae sa isang ekklesia-lokal na magturo nang may awtoridad at gumamit ng awtoridad sa lalake, kundi matuto sa loob ng katahimikan at manatili na may buong pagpapasakop. Ang pagkaulo ng lalake ay ang proteksiyon ng babae."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang panganganak ay isang pagdurusa. Ang pagdurusa ay pumipigil at nag-iingat sa isang natisod mula sa pagsalansang."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang pananampalataya ay ang pagtanggap sa Panginoon (Juan 1:12), ang pag-ibig ay ang pagtatamasa sa Kanya (Juan 14:21, 23), at ang kabanalan ay ang paghahayag sa Kanya sa pamamagitan ng pagpapabanal. Sa pamamagitan ng pananampalataya, tinatanggap natin ang Panginoon at natatamo natin ang kaluguran ng Diyos (Heb. 11:6), sa pamamagitan ng pag-ibig tinatamasa natin ang Panginoon at tinutupad natin ang salita ng Panginoon (Juan 14:23), at sa pamamagitan ng pagpapabanal ay maihahayag natin ang Panginoon at makikita natin Siya (Heb. 12:14). Ang unang dalawang kapitulo ng aklat na ito ay nagbibigay ng mga praktikal na tagubilin upang magkaroon ng isang wastong ekklesia-lokal: 1) tinatapos ang paggambala ng mga naiibang pagtuturo (1:3-11); 2) binibigyang-diin ang ekonomiya ng Diyos, ginagawa itong sentrong linya at layunin ng buhay-Kristiyano (1:4-6); 3) ipinangangaral si Kristo upang iligtas ang mga makasalanan (1:12-17); 4) nakikipagbaka ng isang mabuting pakikipagbaka para sa Bagong Tipang ekonomiya ng Diyos sa pamamagitan ng pag-iingat sa pananampalataya at sa isang mabuting budhi (1:18-19); 5) tinutuos ang mga ereheng guro at ang mga tagasalungat ng apostol (1:20); 6) hinahayaan ang mga nangunguna na manguna sa pagkakaroon ng isang buhay-panalangin, namamagitan para sa lahat ng mga tao upang ang pagtutubos ni Kristo ay maipatotoo sa takdang panahon (bb. 1-7); 7) hinahayaan ang mga kapatid na lalake na sumunod sa tularan ng pananalangin, na nananalangin sa lahat ng panahon (b. 8); at 8) hinahayaan ang mga kapatid na babae na gayakan ang kanilang mga sarili ng wastong kagandahang-asal, at magpasakop sa mga kapatid na lalake, nananatili sa katahimikan, pananampalataya, pag-ibig, at kabanalan na may kahinahunan (bb. 9-15)."
+        },
+        {
+            "id": "15-3",
+            "text": "Tingnan ang tala 9-4 ."
         }
     ]
 }

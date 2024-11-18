@@ -1,5 +1,5 @@
 {
-    "chapter": 26,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -18,7 +18,7 @@
             "footnotes": [
                 {
                     "word": "Paskua,",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -44,7 +44,7 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -55,7 +55,7 @@
             "footnotes": [
                 {
                     "word": "ketongin,",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": [
@@ -75,7 +75,7 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -98,7 +98,7 @@
             "footnotes": [
                 {
                     "word": "subali’t",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -109,7 +109,7 @@
             "footnotes": [
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -120,11 +120,11 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -135,7 +135,7 @@
             "footnotes": [
                 {
                     "word": "Noon",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": [
@@ -149,7 +149,7 @@
             "footnotes": [
                 {
                     "word": "tatlumpung",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -166,7 +166,7 @@
             "footnotes": [
                 {
                     "word": "Tinapay",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": [
@@ -222,7 +222,7 @@
             "footnotes": [
                 {
                     "word": "Ikaw",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -233,15 +233,15 @@
             "footnotes": [
                 {
                     "word": "kumakain,",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "tinapay",
-                    "note": ""
+                    "id": "26-2"
                 },
                 {
                     "word": "katawan.",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": [
@@ -255,7 +255,7 @@
             "footnotes": [
                 {
                     "word": "saro",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -266,11 +266,11 @@
             "footnotes": [
                 {
                     "word": "dugo",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "kasunduan,",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": null
@@ -281,11 +281,11 @@
             "footnotes": [
                 {
                     "word": "bunga",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "29-2"
                 }
             ],
             "outlines": null
@@ -296,7 +296,7 @@
             "footnotes": [
                 {
                     "word": "makaawit",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -340,7 +340,7 @@
             "footnotes": [
                 {
                     "word": "Getsemani,",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": [
@@ -366,7 +366,7 @@
             "footnotes": [
                 {
                     "word": "sarong",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -377,15 +377,15 @@
             "footnotes": [
                 {
                     "word": "lumapit",
-                    "note": ""
+                    "id": "40-1"
                 },
                 {
                     "word": "nasumpungan",
-                    "note": ""
+                    "id": "40-1"
                 },
                 {
                     "word": "sinabi",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -396,7 +396,7 @@
             "footnotes": [
                 {
                     "word": "nakahanda,",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -452,7 +452,7 @@
             "footnotes": [
                 {
                     "word": "Magalak",
-                    "note": ""
+                    "id": "49-1"
                 }
             ],
             "outlines": null
@@ -463,7 +463,7 @@
             "footnotes": [
                 {
                     "word": "gawin",
-                    "note": ""
+                    "id": "50-1"
                 }
             ],
             "outlines": null
@@ -474,7 +474,7 @@
             "footnotes": [
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "51-1"
                 }
             ],
             "outlines": null
@@ -491,15 +491,15 @@
             "footnotes": [
                 {
                     "word": "makapamamanhik",
-                    "note": ""
+                    "id": "53-1"
                 },
                 {
                     "word": "padadalhan",
-                    "note": ""
+                    "id": "53-1"
                 },
                 {
                     "word": "pulutong",
-                    "note": ""
+                    "id": "53-1"
                 }
             ],
             "outlines": null
@@ -510,7 +510,7 @@
             "footnotes": [
                 {
                     "word": "gayon",
-                    "note": ""
+                    "id": "54-1"
                 }
             ],
             "outlines": null
@@ -560,7 +560,7 @@
             "footnotes": [
                 {
                     "word": "Kaya",
-                    "note": ""
+                    "id": "61-1"
                 }
             ],
             "outlines": null
@@ -571,7 +571,7 @@
             "footnotes": [
                 {
                     "word": "Wala",
-                    "note": ""
+                    "id": "62-1"
                 }
             ],
             "outlines": null
@@ -582,11 +582,11 @@
             "footnotes": [
                 {
                     "word": "tahimik",
-                    "note": ""
+                    "id": "63-1"
                 },
                 {
                     "word": "kung",
-                    "note": ""
+                    "id": "63-2"
                 }
             ],
             "outlines": null
@@ -597,7 +597,7 @@
             "footnotes": [
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "64-1"
                 }
             ],
             "outlines": null
@@ -626,7 +626,7 @@
             "footnotes": [
                 {
                     "word": "Magpropesiya",
-                    "note": ""
+                    "id": "68-1"
                 }
             ],
             "outlines": null
@@ -637,7 +637,7 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "69-1"
                 }
             ],
             "outlines": [
@@ -669,7 +669,7 @@
             "footnotes": [
                 {
                     "word": "nagsilapit",
-                    "note": ""
+                    "id": "73-1"
                 }
             ],
             "outlines": null
@@ -680,7 +680,7 @@
             "footnotes": [
                 {
                     "word": "manungayaw",
-                    "note": ""
+                    "id": "74-1"
                 }
             ],
             "outlines": null
@@ -690,6 +690,160 @@
             "text": "At naalala ni Pedro ang salitang sinabi ni Hesus, Bago tumilaok ang isang tandang,  tatlong ulit mo Akong ipagkakaila. At siya ay lumabas at nanangis nang buong kapaitan.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Ang “Paskua” ay isang sagisag ni Kristo (1 Cor. 5:7). Si Kristo ay ginawang ang Kordero ng Diyos upang tayong mga makasalanan ay lampasan ng Diyos, katulad ng paglalarawan sa tipolohiya ng Paskua sa Exodo 12. Sa gayon, si Kristo bilang Kordero ng Paskua ay kinakailangang patayin sa araw ng Paskua para sa katuparan ng sagisag na ito. Ayon sa sagisag, ang Kordero ng Paskua ay kinakailangang suriin para sa kasakdalan nito sa loob ng apat na araw bago ang araw ng Paskua (Exo. 12:3-6). Bago ang Kanyang pagkapako sa krus, si Kristo ay dumating sa Herusalem sa huling pagkakataon, anim na araw bago ang Paskua (Juan 12:1) at sinuri ng mga pinunong Hudyo nang ilang araw (21:23-22:46). Walang bahid-dungis na natagpuan sa Kanya, at Siya ay napatunayang sakdal at nararapat na maging Kordero ng Paskua para sa atin. Tingnan ang tala 37-1 sa Marcos 12."
+        },
+        {
+            "id": "5-1",
+            "text": "Sa katapus-tapusan, sa ilalim ng kataas-taasang kapangyarihan ng Diyos, kanilang pinatay ang Panginoong Hesus sa kapistahan (27:15) para sa katuparan ng sagisag."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “ketongin” ay sumasagisag sa isang makasalanan (8:2 at tala). Si Simon, bilang isang ketongin, ay malamang na napagaling ng Panginoon. Sa laki ng kanyang pagpapasalamat sa Panginoon at pag-ibig sa Kanya, siya ay naghanda ng isang piging (b. 7) sa kanyang tahanan para sa Panginoon at sa Kanyang mga disipulo upang matamasa ang Kanyang presensiya. Ang isang naligtas na makasalanan ay laging gagawa nito."
+        },
+        {
+            "id": "8-1",
+            "text": "Itinuring ng mga disipulo ang pag-aalay ng pag-ibig ni Maria sa Panginoon na isang “pag-aaksaya.” Sa nagdaang dalawampung siglo, libu-libong mahahalagang buhay, kayamanan ng puso, matataas na katungkulan, at mga ginintuang kinabukasan ang “naaksaya” sa Panginoong Hesus. Sa mga ganyang mangingibig Siya ay ganap na kaibig-ibig at karapat-dapat sa kanilang handog. Ang kanilang naibuhos sa Kanya ay hindi isang pag-aaksaya, kundi isang mabangong patotoo ng Kanyang katamisan."
+        },
+        {
+            "id": "11-1",
+            "text": "Dapat nating ibigin ang Panginoon at sunggaban ang pagkakataong ibigin Siya."
+        },
+        {
+            "id": "12-1",
+            "text": "Natanggap ni Maria ang pahayag ng kamatayan ng Panginoon sa pamamagitan ng salita ng Panginoon sa 16:21; 17:22-23; 20:18-19; at 26:2. Dahil dito, sinunggaban niya ang pagkakataon upang ibuhos sa Panginoon ang lahat na kanyang pinakamainam. Ang ibigin ang Panginoon ng ating pinakamainam ay nangangailangan ng isang pahayag hinggil sa Kanya."
+        },
+        {
+            "id": "13-1",
+            "text": "Sa sinusundang bersikulo, ang Panginoon ay nagsalita hinggil sa Kanyang paglilibing, ipinahihiwatig ang Kanyang kamatayan at pagkabuhay na muli para sa ating katubusan. Dahil dito, sa bersikulong ito, tinawag Niya ang ebanghelyo na “ang ebanghelyong ito,” tumutukoy sa ebanghelyo ng Kanyang kamatayan, paglilibing, at pagkabuhay na muli (1 Cor. 15:1-4)."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang kasaysayan ng ebanghelyo ay yaong inibig tayo ng Panginoon, at ang kasaysayan ni Maria ay yaong inibig niya ang Panginoon. Dapat nating ipangaral kapwa—ang pag-ibig ng Panginoon sa atin at ang ating pag-ibig sa Panginoon. Ang isa ay para sa ating kaligtasan, at ang isa pa ay para sa ating pag-aalay ng sarili."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang “noon nga” ay tumutukoy na habang ang isa sa mga disipulo ay nagpapahayag ng kanyang pag-ibig sa Panginoon sa sukdulan, may isa namang nagkakanulo sa Kanya. Ang isa ay nagpapahalaga sa Panginoon, at kasabay nito ay may isa namang nagkakanulo sa Kanya."
+        },
+        {
+            "id": "15-1",
+            "text": "Ito ang halaga ng isang alipin (Exo. 21:32)."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang ‘Tinapay na Walang Lebadura” ay isang pista sa loob ng pitong araw (Lev. 23:6). Ito rin ay tinatawag na Paskua (Luc. 22:1; Marc. 14:1). Sa katunayan, ang pista ng Paskua ay ang unang araw ng pista ng Tinapay na Walang Lebadura (Exo. 12:6, 11, 15-20; Lev. 23:5)."
+        },
+        {
+            "id": "25-1",
+            "text": "Hinayaan ng Panginoon ang sariling salita ni Judas na kumondena sa kanya."
+        },
+        {
+            "id": "26-1",
+            "text": "Unang kinain ng Panginoon at ng mga disipulo ang Paskua (bb. 20-25; Luc. 22:14-18). Pagkatapos ay itinatag ng Panginoon ang Kanyang hapag sa pamamagitan ng tinapay at ng saro (bb. 26-28; Luc. 22:19-20; 1 Cor. 11:23-26) upang palitan ang pista ng Paskua, sapagkat isasakatuparan Niya ang sagisag at magiging ang tunay na Paskua para sa atin (1 Cor. 5:7). Sa kasalukuyan ay ipinangingilin natin ang tunay na pista ng Tinapay na Walang Lebadura (b. 17; 1 Cor. 5:8)."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang “tinapay” ng hapag ng Panginoon ay isang simbolo na sumasagisag sa “katawan” ng Panginoon na nahapak para sa atin sa krus upang palayain ang Kanyang buhay nang sa gayon ay makabahagi tayo sa buhay na ito. Sa pamamagitan ng pakikibahagi sa buhay na ito, tayo ang nagiging mistikong Katawan ni Kristo (1 Cor. 12:27), na sinasagisag din ng tinapay na nasa hapag (1 Cor. 10:17). Kaya nga, sa pakikisalo sa tinapay na ito, tayo ay may pakikipagsalamuha sa Katawan ni Kristo (1 Cor. 10:16)."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang dugo ng Panginoon ang tumubos sa atin mula sa ating natisod na kalagayan pabalik sa Diyos, pabalik sa mana na naiwala natin, at pabalik sa ganap na pagpapala ng Diyos. Tungkol sa hapag ng Panginoon (1 Cor. 10:21), ang tinapay ay sumasagisag sa ating pakikibahagi sa buhay, at ang saro ay sumasagisag sa ating pagtatamasa sa pagpapala ng Diyos. Kaya nga, ito ay tinawag na saro ng pagpapala (1 Cor. 10:16). Sa loob ng sarong ito, naririto ang lahat ng pagpapala ng Diyos at maging ang Diyos Mismo bilang ating bahagi (Awit 16:5). Sa loob ni Adam ang ating bahagi ay ang saro ng kapootan ng Diyos (Apoc. 14:10). Ininom ni Kristo ang sarong yaon para sa atin (Juan 18:11), at ang Kanyang dugo ang bumuo sa saro ng kaligtasan para sa atin (Awit 116:13), ang sarong umaapaw (Awit 23:5). Sa pakikisalo sa sarong ito tayo ay may pakikipagsalamuha rin sa dugo ni Kristo (1 Cor. 10:16)."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang “bunga ng ubas” (b. 29) sa loob ng “saro” ng hapag ng Panginoon ay isa ring simbolo, sinasagisag ang dugo ng Panginoon na binubo sa krus para sa ating mga kasalanan. Ang Kanyang dugo ay hiniling ng katuwiran ng Diyos para sa ikapagpapatawad ng ating mga kasalanan (Heb. 9:22)."
+        },
+        {
+            "id": "28-2",
+            "text": "Ang ibang manuskrito ay nagsisingit ng “bago.” Ang dugo ng Panginoon, na nakapagbigay-kasiyahan sa katuwiran ng Diyos, ang nagtatag ng bagong kasunduan. Sa bagong kasunduang ito, ang Diyos ay nagbibigay sa atin ng kapatawaran ng kasalanan, buhay, kaligtasan, at lahat ng espiritwal, makalangit at dibinong pagpapala. Nang ibinigay ng Diyos sa atin ang bagong kasunduang ito, ito ay isang saro (Luc. 22:20), isang bahagi para sa atin. Ang Panginoon ang nagbubo ng dugo, ang Diyos ang nagtatag ng kasunduan, at tayo ang nagtatamasa ng saro. Sa sarong ito, ang Diyos at lahat ng ukol sa Kanya ay naging ating bahagi. Ang dugo ay ang halagang ibinayad ni Kristo para sa atin, ang kasunduan ay ang titulong katibayan na ginawa ng Diyos para sa atin, at ang saro ay ang bahaging tinanggap natin, mula sa Diyos."
+        },
+        {
+            "id": "29-1",
+            "text": "Tumutukoy sa katas ng ubas."
+        },
+        {
+            "id": "29-2",
+            "text": "Ito ang makalangit na bahagi ng isang libong taong kaharian, ang pagpapakita ng kaharian ng mga kalangitan, kung saan ang Panginoon ay iinom kasama natin pagkaraan ng Kanyang pagbabalik."
+        },
+        {
+            "id": "30-1",
+            "text": "Ito ay ang papuri sa Ama na pinangunahan ng Panginoon kasama ang mga disipulo, pagkatapos ng hapag ng Panginoon."
+        },
+        {
+            "id": "36-1",
+            "text": "Ang Getsemani ay nangangahulugang lugar ng pigaan ng langis. Ang Panginoon ay piniga rito upang idaloy ang langis, ang Espiritu."
+        },
+        {
+            "id": "39-1",
+            "text": "Ito ay tumutukoy sa Kanyang kamatayan sa krus."
+        },
+        {
+            "id": "40-1",
+            "text": "Sa Griyego ang mga pandiwang ito ay nasa pangkasalukuyang panahunan, kaya’t “lumalapit,” “nasusumpungan” at “sinasabi.” Gayundin sa b. 45."
+        },
+        {
+            "id": "41-1",
+            "text": "Sa mga espiritwal na bagay, tayo ay laging ganyan."
+        },
+        {
+            "id": "49-1",
+            "text": "Salitang pagbati. Kapareho ng 27:29, kapwa ginamit na mapagkunwaring pagbati. Tingnan din ang 28:9."
+        },
+        {
+            "id": "50-1",
+            "text": "Ang pangungusap na ito ay katumbas ng: ano ang ginagawa mo rito? Ipinagkanulo mo Ako! Ito ay isang paghahantad sa masamang intensiyon ni Judas sa pagkanulo sa Panginoon."
+        },
+        {
+            "id": "51-1",
+            "text": "Ito ay si Pedro (Juan 18:10, 26)."
+        },
+        {
+            "id": "53-1",
+            "text": "Ang tatlong salitang ito ay pawang salitang pangmilitar."
+        },
+        {
+            "id": "54-1",
+            "text": "Ang “gayon” ay tumutukoy sa Kanyang kamatayan sa krus, na pinropesiya sa mga Kasulatan at kinakailangang matupad."
+        },
+        {
+            "id": "61-1",
+            "text": "Ito ay isang pagpilipit ng salita ng Panginoon na nakatala sa Juan 2:19: “Gibain ninyo ang templong ito.”"
+        },
+        {
+            "id": "62-1",
+            "text": "Ang Panginoon, nakatayo sa harap ng Sanedrin tulad ng isang tupang nasa harapan ng manggugupit nito, ay hindi magsasalita upang ipawalang-sala ang Kanyang Sarili, tinutupad ang Isa. 53:7."
+        },
+        {
+            "id": "63-1",
+            "text": "Tingnan ang tala 62-1 ."
+        },
+        {
+            "id": "63-2",
+            "text": "Ito ay ang parehong tanong na ginamit ng Diyablo sa pagtukso sa Panginoon nang ang Panginoon ay magsisimula pa lamang sa Kanyang ministeryo (4:3, 6)."
+        },
+        {
+            "id": "64-1",
+            "text": "Ang mataas na saserdote ay nagtanong sa Panginoon kung Siya ang Anak ng Diyos, subalit sumagot Siya ng “ang Anak ng Tao.” Kanyang sinagot ang Diyablo sa gayunding paraan sa kanyang panunukso (4:4, at tala 2). Ang Panginoon ay ang Anak ng Tao, hindi lamang sa panahong bago Siya naipako sa krus nang Siya ay nasa lupa pa, kundi Siya ay Anak pa rin ng Tao pagkaraan ng Kanyang pagkabuhay na muli sa Kanyang pag-akyat sa kalangitan at napasakanan ng Diyos (Gawa 7:56), at maging sa Kanyang pagbabalik na nakasakay sa alapaap Siya ay Anak pa rin ng Tao. Upang maisakatuparan ang layunin ng Diyos at maitatag ang kaharian ng mga kalangitan, ang Panginoon ay kinakailangang maging tao. Kung walang tao, hindi rin maisasakatuparan ang layunin ng Diyos sa lupa, ni mabubuo ang kaharian ng mga kalangitan sa lupa."
+        },
+        {
+            "id": "68-1",
+            "text": "Nangangahulugang magpropesiya ng mahimalang salita ng Diyos. Ang ganitong mapang-insultong pananalita ay nagpapahiwatig na: yamang ikaw ang nagpopropesiya para sa Diyos, magpropesiya ka kung sino ang sumampal sa iyo."
+        },
+        {
+            "id": "69-1",
+            "text": "Maging ang isang mahinang maliit na babae ay hindi nakayanang harapin ni Pedro!"
+        },
+        {
+            "id": "73-1",
+            "text": "Sa ilalim ng kataas-taasang kapangyarihan ng Diyos, hindi hinayaan ng kapaligiran na si Pedro ay makaalis hanggang sa siya ay masubukan sa sukdulan, upang mapagtanto niya na ang kanyang sarili ay tunay na hindi mapagkakatiwalaan at hindi na dapat magkaroon ng tiwala sa kanyang sarili."
+        },
+        {
+            "id": "74-1",
+            "text": "Sa una niyang pagkakaila sa Panginoon, si Pedro ay nagsalita lamang (b. 70); sa kanyang pangalawang pagkakaila, siya ay tumugon na may sumpa (b. 72); sa kanyang pangatlong pagkakaila, siya ay nanungayaw at nanumpa."
         }
     ]
 }

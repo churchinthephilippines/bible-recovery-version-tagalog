@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "ebanghelyo",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "Hesu-",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -34,27 +34,27 @@
             "footnotes": [
                 {
                     "word": "Maging",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "Narito,",
-                    "note": ""
+                    "id": "2-a"
                 },
                 {
                     "word": "Ko",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "sugo",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "Iyong",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "maghahanda",
-                    "note": ""
+                    "id": "2-5"
                 }
             ],
             "outlines": null
@@ -65,19 +65,19 @@
             "footnotes": [
                 {
                     "word": "Isang",
-                    "note": ""
+                    "id": "3-a"
                 },
                 {
                     "word": "tinig",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "ilang,",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "Ihanda",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -88,27 +88,27 @@
             "footnotes": [
                 {
                     "word": "Juan,",
-                    "note": ""
+                    "id": "4-a"
                 },
                 {
                     "word": "ilang",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "bautismo",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "pagsisisi",
-                    "note": ""
+                    "id": "4-d"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "ikapagpapatawad",
-                    "note": ""
+                    "id": "4-e"
                 }
             ],
             "outlines": [
@@ -121,23 +121,23 @@
             "footnotes": [
                 {
                     "word": "taga-",
-                    "note": ""
+                    "id": "5-a"
                 },
                 {
                     "word": "Judea,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "binautismuhan",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "ilog",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "nagpapahayag",
-                    "note": ""
+                    "id": "5-b"
                 }
             ],
             "outlines": null
@@ -148,19 +148,19 @@
             "footnotes": [
                 {
                     "word": "nararamtan",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "balahibo",
-                    "note": ""
+                    "id": "6-a"
                 },
                 {
                     "word": "balang",
-                    "note": ""
+                    "id": "6-b"
                 },
                 {
                     "word": "pulut-",
-                    "note": ""
+                    "id": "6-c"
                 }
             ],
             "outlines": null
@@ -171,7 +171,7 @@
             "footnotes": [
                 {
                     "word": "Isang",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": [
@@ -184,11 +184,11 @@
             "footnotes": [
                 {
                     "word": "tubig,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "8-b"
                 }
             ],
             "outlines": null
@@ -199,19 +199,19 @@
             "footnotes": [
                 {
                     "word": "nanggaling",
-                    "note": ""
+                    "id": "9-a"
                 },
                 {
                     "word": "Nazaret",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "binautismuhan",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": [
@@ -225,27 +225,27 @@
             "footnotes": [
                 {
                     "word": "kaagad,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "nabuksan",
-                    "note": ""
+                    "id": "10-b"
                 },
                 {
                     "word": "langit,",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "10-c"
                 },
                 {
                     "word": "kalapati",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "Kanya.",
-                    "note": ""
+                    "id": "10-4"
                 }
             ],
             "outlines": null
@@ -256,19 +256,19 @@
             "footnotes": [
                 {
                     "word": "tinig",
-                    "note": ""
+                    "id": "11-a"
                 },
                 {
                     "word": "Ikaw",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "minamahal",
-                    "note": ""
+                    "id": "11-b"
                 },
                 {
                     "word": "nalulugod.",
-                    "note": ""
+                    "id": "11-c"
                 }
             ],
             "outlines": null
@@ -279,15 +279,15 @@
             "footnotes": [
                 {
                     "word": "kaagad",
-                    "note": ""
+                    "id": "12-a"
                 },
                 {
                     "word": "itinaboy",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "ilang.",
-                    "note": ""
+                    "id": "12-b"
                 }
             ],
             "outlines": [
@@ -300,19 +300,19 @@
             "footnotes": [
                 {
                     "word": "apatnapung",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "tinutukso",
-                    "note": ""
+                    "id": "13-a"
                 },
                 {
                     "word": "Satanas;",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "anghel",
-                    "note": ""
+                    "id": "13-b"
                 }
             ],
             "outlines": null
@@ -323,23 +323,23 @@
             "footnotes": [
                 {
                     "word": "madakip",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Galilea",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "ipinangangaral",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "ebanghelyo",
-                    "note": ""
+                    "id": "14-c"
                 },
                 {
                     "word": "Diyos,",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": [
@@ -354,23 +354,23 @@
             "footnotes": [
                 {
                     "word": "Naganap",
-                    "note": ""
+                    "id": "15-a"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "Mangagsisi",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "magsisampalataya",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "ebanghelyo!",
-                    "note": ""
+                    "id": "15-4"
                 }
             ],
             "outlines": null
@@ -381,23 +381,23 @@
             "footnotes": [
                 {
                     "word": "pagdaan",
-                    "note": ""
+                    "id": "16-a"
                 },
                 {
                     "word": "Dagat",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "Simon",
-                    "note": ""
+                    "id": "16-c"
                 },
                 {
                     "word": "naghahagis",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "lambat",
-                    "note": ""
+                    "id": "16-d"
                 }
             ],
             "outlines": null
@@ -414,11 +414,11 @@
             "footnotes": [
                 {
                     "word": "kaagad,",
-                    "note": ""
+                    "id": "18-a"
                 },
                 {
                     "word": "nagsisunod",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -429,11 +429,11 @@
             "footnotes": [
                 {
                     "word": "Juan",
-                    "note": ""
+                    "id": "19-a"
                 },
                 {
                     "word": "naghahayuma",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -444,15 +444,15 @@
             "footnotes": [
                 {
                     "word": "kaagad,",
-                    "note": ""
+                    "id": "20-a"
                 },
                 {
                     "word": "tinawag;",
-                    "note": ""
+                    "id": "20-b"
                 },
                 {
                     "word": "nagsisunod",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -463,23 +463,23 @@
             "footnotes": [
                 {
                     "word": "nagsipasok",
-                    "note": ""
+                    "id": "21-a"
                 },
                 {
                     "word": "Capernaum.",
-                    "note": ""
+                    "id": "21-b"
                 },
                 {
                     "word": "kaagad",
-                    "note": ""
+                    "id": "21-c"
                 },
                 {
                     "word": "sinagoga,",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "nagturo.",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": [
@@ -492,15 +492,15 @@
             "footnotes": [
                 {
                     "word": "namangha",
-                    "note": ""
+                    "id": "22-a"
                 },
                 {
                     "word": "pagtuturo,",
-                    "note": ""
+                    "id": "22-b"
                 },
                 {
                     "word": "awtoridad",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -511,11 +511,11 @@
             "footnotes": [
                 {
                     "word": "kaagad",
-                    "note": ""
+                    "id": "23-a"
                 },
                 {
                     "word": "espiritu;",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": [
@@ -528,23 +528,23 @@
             "footnotes": [
                 {
                     "word": "Anong",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "pakialam",
-                    "note": ""
+                    "id": "24-a"
                 },
                 {
                     "word": "Nazareno?",
-                    "note": ""
+                    "id": "24-b"
                 },
                 {
                     "word": "Nakikilala",
-                    "note": ""
+                    "id": "24-c"
                 },
                 {
                     "word": "Banal",
-                    "note": ""
+                    "id": "24-d"
                 }
             ],
             "outlines": null
@@ -555,11 +555,11 @@
             "footnotes": [
                 {
                     "word": "sinaway",
-                    "note": ""
+                    "id": "25-a"
                 },
                 {
                     "word": "Tumahimik",
-                    "note": ""
+                    "id": "25-b"
                 }
             ],
             "outlines": null
@@ -570,15 +570,15 @@
             "footnotes": [
                 {
                     "word": "karumal-",
-                    "note": ""
+                    "id": "26-a"
                 },
                 {
                     "word": "mapangatal",
-                    "note": ""
+                    "id": "26-b"
                 },
                 {
                     "word": "malakas",
-                    "note": ""
+                    "id": "26-c"
                 }
             ],
             "outlines": null
@@ -589,19 +589,19 @@
             "footnotes": [
                 {
                     "word": "namangha,",
-                    "note": ""
+                    "id": "27-a"
                 },
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "27-b"
                 },
                 {
                     "word": "awtoridad",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "tumatalima",
-                    "note": ""
+                    "id": "27-d"
                 }
             ],
             "outlines": null
@@ -612,7 +612,7 @@
             "footnotes": [
                 {
                     "word": "kaagad,",
-                    "note": ""
+                    "id": "28-a"
                 }
             ],
             "outlines": null
@@ -623,7 +623,7 @@
             "footnotes": [
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "29-a"
                 }
             ],
             "outlines": [
@@ -636,15 +636,15 @@
             "footnotes": [
                 {
                     "word": "biyenang",
-                    "note": ""
+                    "id": "30-a"
                 },
                 {
                     "word": "nilalagnat,",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "kaagad",
-                    "note": ""
+                    "id": "30-b"
                 }
             ],
             "outlines": null
@@ -655,15 +655,15 @@
             "footnotes": [
                 {
                     "word": "hinawakan",
-                    "note": ""
+                    "id": "31-a"
                 },
                 {
                     "word": "inibsan",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "naglingkod",
-                    "note": ""
+                    "id": "31-2"
                 }
             ],
             "outlines": null
@@ -680,7 +680,7 @@
             "footnotes": [
                 {
                     "word": "nangagkatipon",
-                    "note": ""
+                    "id": "33-a"
                 }
             ],
             "outlines": null
@@ -691,27 +691,27 @@
             "footnotes": [
                 {
                     "word": "pinagaling",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "karamdaman,",
-                    "note": ""
+                    "id": "34-a"
                 },
                 {
                     "word": "pinalayas",
-                    "note": ""
+                    "id": "34-2"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "34-b"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "34-3"
                 },
                 {
                     "word": "nakikilala",
-                    "note": ""
+                    "id": "34-c"
                 }
             ],
             "outlines": null
@@ -722,11 +722,11 @@
             "footnotes": [
                 {
                     "word": "maagang-",
-                    "note": ""
+                    "id": "35-a"
                 },
                 {
                     "word": "nanalangin.",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -749,19 +749,19 @@
             "footnotes": [
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "38-a"
                 },
                 {
                     "word": "mangaral",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "layuning",
-                    "note": ""
+                    "id": "38-2"
                 },
                 {
                     "word": "lumabas.",
-                    "note": ""
+                    "id": "38-c"
                 }
             ],
             "outlines": null
@@ -772,7 +772,7 @@
             "footnotes": [
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "39-a"
                 }
             ],
             "outlines": null
@@ -783,15 +783,15 @@
             "footnotes": [
                 {
                     "word": "ketongin,",
-                    "note": ""
+                    "id": "40-1"
                 },
                 {
                     "word": "naninikluhod",
-                    "note": ""
+                    "id": "40-b"
                 },
                 {
                     "word": "linisin!",
-                    "note": ""
+                    "id": "40-c"
                 }
             ],
             "outlines": [
@@ -804,19 +804,19 @@
             "footnotes": [
                 {
                     "word": "pagkahabag,",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "iniunat",
-                    "note": ""
+                    "id": "41-2"
                 },
                 {
                     "word": "Ibig",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "luminis",
-                    "note": ""
+                    "id": "41-3"
                 }
             ],
             "outlines": null
@@ -827,11 +827,11 @@
             "footnotes": [
                 {
                     "word": "kaagad",
-                    "note": ""
+                    "id": "42-a"
                 },
                 {
                     "word": "nalinis.",
-                    "note": ""
+                    "id": "42-b"
                 }
             ],
             "outlines": null
@@ -842,7 +842,7 @@
             "footnotes": [
                 {
                     "word": "napagbilinan,",
-                    "note": ""
+                    "id": "43-a"
                 }
             ],
             "outlines": null
@@ -853,11 +853,11 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "44-1"
                 },
                 {
                     "word": "saserdote",
-                    "note": ""
+                    "id": "44-a"
                 }
             ],
             "outlines": null
@@ -868,26 +868,296 @@
             "footnotes": [
                 {
                     "word": "ipamalitang",
-                    "note": ""
+                    "id": "45-a"
                 },
                 {
                     "word": "nangyari,",
-                    "note": ""
+                    "id": "45-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "45-2"
                 },
                 {
                     "word": "ilang",
-                    "note": ""
+                    "id": "45-b"
                 },
                 {
                     "word": "nagtungo",
-                    "note": ""
+                    "id": "45-c"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang manunulat ng Ebanghelyong ito ay si Marcos, na tinawag ding Juan (Gawa 12:25), ang anak ng isa sa mga Maria (na malapit din kay Apostol Pedro sa ekklesia sa Herusalem, Gawa 12:12), at ang pinsan ni Bernabe (Col. 4:10). Siya ay sumama kina Bernabe at Saulo sa kanilang ministeryo (Gawa 12:25), at sumama kay Pablo sa unang paglalakbay sa kanyang pagmiministeryo sa mga Hentil, humiwalay sa kanya at nagbalik sa Perga (Gawa 13:13). Dahil sa kanyang pagbalik siya ay tinanggihan ni Pablo sa kanyang ikalawang paglalakbay. Sa ganoon, si Marcos ay sumama kay Bernabe sa kanyang gawain nang panahong si Bernabe ay humiwalay kay Pablo (Gawa 15:36-40). Gayon pa man, si Marcos ay napalapit kay Pablo sa kanyang mga huling taon (Col. 4:10; Filem. 24), at naging kapaki-pakinabang sa kanya sa bagay ng paglilingkod hanggang sa pagkamartir ni Pablo (2 Tim. 4:11). Siya ay malapit kay Pedro, maaaring palagian, sapagkat itinuring siya ni Pedro na kanyang sariling anak (1 Ped. 5:13). Mula sa mga unang araw ng ekklesia ang Ebanghelyo ni Marcos ay itinuturing na isang isinulat na tala ng sinalitang paglalahad ni Pedro, na naging kasama ng Tagapagligtas sa Kanyang pang-ebanghelyong paglilingkod mula sa pasimula nito (1:16-18) hanggang sa katapusan nito (14:54, 66-72). Ang tala ay naaayon sa pangkasaysayang pagkakasunud-sunod, at nagbibigay nang higit na mga detalye ng mga tunay na nangyari sa kasaysayan kaysa pagbibigay ng ibang mga Ebanghelyo. Ang buong Ebanghelyo ay ibinuod sa salita ni Pedro sa Gawa 10:36-42. Inilalahad ni Juan ang Diyos na Tagapagligtas, na nagbibigay-diin sa pagka-Diyos ng Tagapagligtas sa Kanyang pagkatao."
+        },
+        {
+            "id": "1-2",
+            "text": "Yaon ay masayang balita, mabuting balita (Roma 10:15). Ang ebanghelyo ay ang paglilingkod (ministeryo) ng Aliping-Tagapagligtas bilang isang Alipin ng Diyos upang paglingkuran ang Kanyang bayan. Ang Ebanghelyo ni Mateo ay nagsisimula sa mga makaharing salinlahi ng Haring si Kristo (Mat. 1:1-17), ang Ebanghelyo ni Lucas ay nagsisimula sa isang pantaong talaangkanan ng Taong si Hesus (Luc. 3:23-38), at ang Ebanghelyo ni Juan ay nagsisimula sa walang hanggang pinagmulan ng Anak ng Diyos (Juan 1:1-2); samantalang ang Ebanghelyo ni Marcos ay nagsisimula sa pasimula ng ebanghelyo, ang paglilingkod ni Hesus bilang isang mapagkumbabang Alipin ng Diyos (Fil. 2:7; Mat. 20:27-28), ay hindi nagsisimula sa pinagmulan ng Kanyang Persona. Bilang isang tuntunin, ang paglilingkod, hindi ang persona, ng isang alipin ang kapansin-pansin. Tingnan ang tala 1-1 sa Mateo 1."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang Ebanghelyong ito ay isang talambuhay ng Aliping-Tagapagligtas, na Siyang Diyos na nagkatawang-tao bilang isang Alipin upang iligtas ang mga makasalanan. Ang tambalang titulong ito ay nagsasaad ng Kanyang pagkatao bilang “Hesu-Kristo,” at ng Kanyang pagka-Diyos bilang “ang Anak ng Diyos,” na kapwa inihahayag nang sapat ng Kanyang mga pantaong kagalingan at mga maka-Diyos na katangian sa Kanyang ministeryo at pagkilos para sa Kanyang pang-ebanghelyong paglilingkod, katulad ng nakatala sa Ebanghelyong ito."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang ilang sinaunang manuskrito ay hindi nagtataglay ng “Anak ng Diyos.”"
+        },
+        {
+            "id": "2-1",
+            "text": "Ang pasimula ng ebanghelyo ng Aliping-Tagapagligtas ay katulad ng nakasulat sa Isaias hinggil sa ministeryo ni Juan Bautista. Ito ay nagpapakita na ang pangangaral ni Juan ng bautismo ng pagsisisi ay bahagi rin ng ebanghelyo ni Hesu-Kristo. Winakasan nito ang kapanahunan ng kautusan at binago ito tungo sa kapanahunan ng biyaya. Kaya nga, ang kapanahunan ng biyaya ay nagsimula sa ministeryo ni Juan bago ang ministeryo ng Aliping-Tagapagligtas."
+        },
+        {
+            "id": "2-2",
+            "text": "Tumutukoy kay Jehovah ng mga hukbo (Mal. 3:1)."
+        },
+        {
+            "id": "2-3",
+            "text": "Lit. anghel, katulad ng nasa Apoc. 1:20."
+        },
+        {
+            "id": "2-4",
+            "text": "Tumutukoy sa mukha ni Hesu-Kristo."
+        },
+        {
+            "id": "2-5",
+            "text": "Ang pangangaral ng bautismo ng pagsisisi (b. 4) ay nagbukas ng daan upang makalapit ang Aliping-Tagapagligtas sa mga makasalanan (Luc. 1:76)."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang simula ng ministeryo ng ebanghelyo ng Aliping-Tagapagligtas ay isang tinig lamang, hindi isang malaking kilusan."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang pangangaral ng ebanghelyo ng Aliping-Tagapagligtas ay hindi nagsimula sa anumang sentro ng sibilisasyon, kundi sa ilang, na malayo sa impluwensiya ng pantaong kultura. Tingnan ang mga tala 3-1 at 1-2 sa Mat. 3."
+        },
+        {
+            "id": "3-3",
+            "text": "Yaon ay, ang baguhin ang kaisipan ng mga tao, ibinabaling ang kanilang kaisipan sa Aliping-Tagapagligtas, at ang gawing wasto ang kanilang puso, itinutuwid ang bawat bahagi ng kanilang puso sa pamamagitan ng pagsisisi, upang ang Aliping-Tagapagligtas ay makapasok sa kanila upang maging kanilang buhay at maangkin sila (Luc. 1:17)."
+        },
+        {
+            "id": "4-1",
+            "text": "Si Juan ay isinilang na saserdote (Luc. 1:8-13, 57-63); kaya, siya ay dapat na mamuhay ng buhay ng isang saserdote sa templo upang gumawa ng pansaserdoteng paglilingkod. Subalit siya ay pumunta sa ilang at nangaral ng ebanghelyo. Ito ay nagpapakita na ang kapanahunan ng pagkasaserdote upang mag-alay ng mga handog sa Diyos ay hinalinhan na ng kapanahunan ng ebanghelyo nang sa gayon ay madala ang mga makasalanan sa Diyos, nang makamtan sila ng Diyos at makamtan nila ang Diyos."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang pagsisisi ay ang baguhin ang kaisipan, ibinabaling ito sa Aliping-Tagapagligtas, at ang bautismo ay ang ilibing ang mga nagsisising tao, tinatapos sila, upang sa pamamagitan ng pagkasilang na muli ay mapasibol sila ng Aliping-Tagapagligtas (Juan 3:3, 5-6)."
+        },
+        {
+            "id": "4-3",
+            "text": "O, tungo sa. Ang pagsisisi na may kasamang bautismo ay para sa, at nagreresulta sa pagpapatawad ng mga kasalanan, upang ang hadlang ng pagkatisod ng tao ay maalis at ang tao ay maipagkasundo sa Diyos."
+        },
+        {
+            "id": "5-1",
+            "text": "Isang rehiyon na may banal na lunsod, banal na templo, at mataas na kultura; kaya nga, isang rehiyon ng karangalan."
+        },
+        {
+            "id": "5-2",
+            "text": "Nang ang mga tao ay nagsisi sa pamamagitan ng kanyang pangangaral, sila ay inilubog ni Juan sa tubig-ng-kamatayan upang ilibing sila, tapusin sila, sa gayon ay inihahanda sila na maibangon sa pamamagitan ng Espiritu Santo na ginamit ng Aliping-Tagapagligtas sa pagpapasimula ng bagong buhay sa kanila, sa pamamagitan ng pagpapahayag ng kanilang mga kasalanan. Tingnan ang tala 6-1 sa Mat. 3."
+        },
+        {
+            "id": "5-3",
+            "text": "Tingnan ang tala 6-2 sa Mateo 3."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang paraan ng pamumuhay ni Juan Bautista ay sumasagisag na ang kanyang pamumuhay at gawain ay lubusang nasa loob ng bagong kapanahunan, hindi ayon sa paraan ng lumang relihiyon, kultura, at tradisyon. Tingnan ang tala 4-1 sa Mat. 3."
+        },
+        {
+            "id": "7-1",
+            "text": "Bagama’t ang ipinangaral ni Juan ay bautismo ng pagsisisi, ang gol ng kanyang ministeryo ay ang kagila-gilalas na Persona, si Hesu-Kristo, ang Anak ng Diyos. Hindi niya ginawa ang kanyang sarili na sentro ng kanyang ministeryo, bilang isang batubalani na umaakit sa iba tungo sa kanyang sarili. Napagtanto niya na siya ay isa lamang tagapaghatid na isinugo ni Jehovah ng mga hukbo upang dalhin ang mga tao tungo sa Kanyang Anak na si Hesu-Kristo, at itaas si Kristo bilang gol ng kanyang ministeryo."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang tubig ay sumasagisag sa kamatayan at paglilibing upang tapusin ang mga nagsisising tao; ang Espiritu Santo ay ang Espiritu ng buhay at pagkabuhay na muli upang pasibulin ang mga tinapos na tao. Ang una ay isang tanda ng ministeryo ng pagsisisi ni Juan; ang huli, isang tanda ng ministeryo ng buhay ng Aliping-Tagapagligtas. Inilibing ni Juan ang mga nagsisising tao sa tubig-ng-kamatayan; ibinangon naman sila ng Aliping-Tagapagligtas para sa kanilang pagkasilang na muli sa Espiritu ng Kanyang buhay ng pagkabuhay na muli. Hindi lamang ang mga nabautismuhang tao ang inilibing ng tubig-ng-kamatayan, na tumutukoy at sumasagisag sa nagpapaloob ng lahat na kamatayan ni Kristo, tungo sa kung saan ang Kanyang mga mananampalataya ay binabautismuhan (Roma 6:3), bagkus pati ang kanilang mga kasalanan, ang sanlibutan, at ang kanilang nagdaang buhay at kasaysayan, (katulad sa pagkalibing sa Pulang Dagat ni Faraon at ng hukbo ng Egipto para sa mga anak ni Israel—Exo. 14:26-28; 1 Cor. 10:2), at ibinukod din sila ng tubig na ito ng kamatayan mula sa sanlibutang nagtatakwil-sa-Diyos at sa kabulukan nito (katulad ng ginawa ng baha para kay Noe at sa kanyang pamilya—1 Ped. 3:20-21). Ang Espiritu Santo, na tungo sa kung kanino ay binautismuhan ng Aliping-Tagapagligtas yaong mga sumampalataya sa Kanya, ay ang Espiritu ni Kristo at ang Espiritu ng Diyos (Roma 8:9). Kaya, ang mabautismuhan sa Espiritu Santo ay ang mabautismuhan tungo sa loob ni Kristo (Gal. 3:27; Roma 6:3), tungo sa loob ng Tres-unong Diyos (Mat. 28:19), at maging tungo sa loob ng Katawan ni Kristo (1 Cor. 12:13), na nakaugpong kay Kristo sa iisang Espiritu (1 Cor. 6:17). Sa pamamagitan ng pagbabautismo sa gayong tubig at gayong Espiritu isinisilang na muli ang mga mananampalataya kay Kristo tungo sa kaharian ng Diyos, tungo sa kinasasaklawan ng dibinong buhay at dibinong pamumuno (Juan 3:3, 5 at tala 2), upang sila ay makapamuhay sa pamamagitan ng walang hanggang buhay ng Diyos sa Kanyang walang hanggang kaharian."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang Galilea ay tinawag na “Galilea ng mga Hentil,” isang rehiyon na walang dangal, kaya, isang hamak na rehiyon (Juan 7:52; tingnan ang tala 15-1 sa Mat. 4), at ang Nazaret ay isang hamak na lunsod ng hamak na rehiyong ito (Juan 1:46). Ang abang Alipin ng Diyos ay lumaki at nagmula rito."
+        },
+        {
+            "id": "9-2",
+            "text": "Bilang isang Alipin ng Diyos, ang Aliping-Tagapagligtas ay binautismuhan din, sumasagisag na Siya ay handang maglingkod sa Diyos, at sa gayon Siya ay hindi maglilingkod sa isang natural na paraan, kundi sa pamamagitan ng kamatayan at pagkabuhay na muli (tingnan ang tala 13-1 at 16-1 sa Mat. 3). Ang isang gayong bautismo ay ang pasimula-ng-pagpapakilala-tungo-sa-pagtanggap sa Kanyang paglilingkod."
+        },
+        {
+            "id": "9-3",
+            "text": "Lit. tungo sa."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang tala ni Marcos tungkol sa isang Alipin ay hindi nagpapakita ng karilagan ng katayuan ng Persona ng Aliping ito, kundi ng kasipagan ng Kanyang paglilingkod. Ang salitang “kaagad” ay ginamit sa kanyang tala ng apatnapu’t dalawang beses at sa lumang manuskrito ay naragdagan ng isa pang beses. Sa ating Salin ng Pagbabawi, ang salita ay maaaring “kaagad” o “kapagdaka.”"
+        },
+        {
+            "id": "10-2",
+            "text": "Ang pagbubukas ng langit sa Aliping-Tagapagligtas ay sumasagisag na ang Kanyang kusang-loob na paghahandog ng Kanyang sarili bilang isang Alipin sa Diyos ay tinanggap na mabuti ng Diyos, at ang pagbaba sa Kanya ng Espiritu katulad ng isang kalapati ay sumasagisag na pinahiran Siya ng Diyos ng Espiritu para sa Kanyang paglilingkod sa Kanya (Luc. 4:18-19)."
+        },
+        {
+            "id": "10-3",
+            "text": "Tingnan ang tala 16-4 sa Mat. 3."
+        },
+        {
+            "id": "10-4",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, “at nananatili.”"
+        },
+        {
+            "id": "11-1",
+            "text": "Tingnan ang tala 17-1 sa Mat. 3."
+        },
+        {
+            "id": "12-1",
+            "text": "Makaraan ang pagtanggap at pagpapahid ng Diyos, ang unang bagay na ginawa ng Espiritu sa Aliping ito ng Diyos ay ang itaboy Siya tungo sa isang pagsubok upang patunayan ang Kanyang integridad, ang Kanyang kasakdalan at kawalan ng kakulangan."
+        },
+        {
+            "id": "13-1",
+            "text": "Isang panahon ng pagsubok at pagdurusa (Deut. 9:9, 18; 1 Hari 19:8)."
+        },
+        {
+            "id": "13-2",
+            "text": "Si Satanas, ang kaaway ng Diyos, ay ginamit para sa pagsubok at pagpapatunay sa Alipin ng Diyos. Ang mga hayop sa lupa, sa isang negatibong panig, at ang mga anghel mula sa langit, sa isang positibong panig, ay ginamit din para sa pagsubok na ito."
+        },
+        {
+            "id": "14-1",
+            "text": "Lit. maibigay."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang pagkabilanggo ni Juan ay isang tanda ng hindi pagtanggap sa ebanghelyo, lalung-lalo na sa rehiyon ng karangalan. Kaya nga nilisan ng Aliping-Tagapagligtas ang rehiyon na yaon at bumalik sa hamak na rehiyon para sa Kanyang paglilingkod ng ebanghelyo. Tingnan ang mga tala 12-1 at 15-1"
+        },
+        {
+            "id": "14-3",
+            "text": "Ang pangangaral ng Aliping-Tagapagligtas ay upang maipatalastas ang masayang balita ng Diyos sa mga miserableng taong nakagapos; ang Kanyang pagtuturo (bb. 21-22) ay upang liwanagan ang mga mangmang na nasa kadiliman ng maka-Diyos na liwanag ng katotohanan. Ang Kanyang pangangaral ay nagpapaloob ng pagtuturo, at ang Kanyang pagtuturo ay nagpapaloob ng pangangaral (Mat. 4:23). Ito ang unang bagay na ginawa Niya sa Kanyang ministeryo, at ito ang nagpapaloob-ng-lahat na balangkas ng Kanyang pangebanghelyong paglilingkod (bb. 38-39; 3:14; 6:12; 14:9; 16:15, 20)."
+        },
+        {
+            "id": "14-4",
+            "text": "Sa ilang manuskristo ay isinalin na, kaharian ng Diyos. Ang ebanghelyo ni Hesu-Kristo (b. 1) ay ang ebanghelyo ng Diyos (Roma 1:1) at ang ebanghelyo ng kaharian ng Diyos (cf. Mat. 4:23)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang kaharian ng Diyos ay ang pamumuno, ang paghahari, ng Diyos kasama ang lahat ng pagpapala at pagtatamasa nito. Ito ang gol ng ebanghelyo ng Diyos at ng ebanghelyo ni Hesu-Kristo (tingnan ang mga tala 3-2 at 26-3 sa kap. 4). Upang makapasok sa kahariang ito, ang mga tao ay kailangang magsisi sa kanilang mga kasalanan at manampalataya sa ebanghelyo upang ang kanilang mga kasalanan ay mapatawad at upang sila ay maisilang-na-muli sa pamamagitan ng Diyos nang sa gayon ay magkaroon ng maka-Diyos na buhay, na tumutugma sa maka-Diyos na kalikasan ng kahariang ito (Juan 3:3, 5). Ang lahat ng mananampalataya kay Kristo ay makababahagi sa kaharian sa kapanahunan ng ekklesia para sa kanilang pagtatamasa ng Diyos sa loob ng Kanyang katuwiran, kapayapaan, at kagalakan sa Espiritu Santo (Roma 14:17). Ito ay magiging kaharian ni Kristo at ng Diyos para sa mga mandaraig na mananampalataya upang magmana at magtamasa sa darating na panahon ng kaharian (1 Cor. 6:9-10; Gal. 5:21; Efe. 5:5), upang sila ay magharing kasama ni Kristo ng isang libong taon (Apoc. 20:4, 6). Sa gayon, bilang ang walang hanggang kaharian, ito ay magiging isang walang hanggang pagpapala ng walang hanggang buhay ng Diyos para sa lahat ng tinubos ng Diyos upang magtamasa sa bagong langit at bagong lupa magpasa-walang-hanggan (Apoc. 21:1-4; 22:1-5, 14, 17). Ganitong uri ng kaharian ng Diyos ang napalapit na at kung saan ipapasok ng ebanghelyo ng Aliping-Tagapagligtas ang Kanyang mananampalataya. Para sa kahariang ito, ang Aliping-Tagapagligtas ay nagsabi sa mga tao na magsisi at manampalataya sa ebanghelyo. Tingnan ang mga tala 3-3 sa Juan 3, 28-1 sa Hebreo 12, at 3-3 sa Mateo 5."
+        },
+        {
+            "id": "15-2",
+            "text": "Lit. pagkatapos ay mag-iba ng iniisip, yaon ay, ang magkaroon ng isang pagbabago ng kaisipan. Ang magsisi ay ang magkaroon ng isang pagbabago ng kaisipan na may pagsisisi sa nakaraan at isang pagbaling sa hinaharap. Sa negatibong panig, ang magsisi sa harapan ng Diyos ay ang pagsisihan hindi lamang ang mga kasalanan at mga pagkakamali, bagkus pagsisihan din ang sanlibutan at ang kasamaan nito na nangangamkam at nagpapasama sa mga taong ginawa ng Diyos para sa Kanyang Sarili, at pagsisihan ang ating nagtatakwil-sa-Diyos na buhay sa nakaraan. Sa positibong panig, ito ay ang bumaling sa Diyos sa bawat paraan at sa lahat ng bagay para sa pagsasakatuparan ng Kanyang layunin sa paglikha ng mga tao. Ito ay isang “pagsisisi tungo sa Diyos,” upang “magsipagsisi at magsibaling sa Diyos” (Gawa 20:21; 26:20). Tingnan ang mga tala 2-1 at 2-2 sa Mat. 3."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang magsisi ay pangunahing nasa kaisipan; ang manampalataya ay pangunahing nasa puso (Roma 10:9). Ang manampalataya sa ay ang manampalataya tungo sa mga bagay na ating pinaniniwalaan, at tanggapin sa ating loob ang mga bagay na ating pinaniniwalaan. Ang manampalataya sa ebanghelyo, sa pangunahin, ay ang manampalataya sa Aliping-Tagapagligtas (Gawa 16:31), at ang manampalataya sa Kanya ay ang manampalataya tungo sa Kanya (Juan 3:15-16) at tanggapin Siya sa ating loob (Juan 1:12), upang tayo ay organikong maipagkaisa sa Kanya. Ang gayong pananampalataya kay Kristo (Gal. 3:22) ay ibinigay sa atin ng Diyos (Efe. 2:8) sa pamamagitan ng ating pakikinig sa salita ng katotohanan ng ebanghelyo (Roma 10:17; Efe. 1:13). Ang pananampalatayang ito ay nagdadala sa atin sa loob ng lahat ng pagpapala ng ebanghelyo (Gal. 3:14). Kaya nga, ito ay mahalaga sa atin (2 Ped. 1:1). Hinihiling ng gayong mahalagang pananampalataya na mauna rito ang pagsisisi. Tingnan ang tala 16-1 sa kapitulo 16."
+        },
+        {
+            "id": "15-4",
+            "text": "Ito ang ebanghelyo ni Hesu-Kristo na Anak ng Diyos (b. 1), ang ebanghelyo ng Diyos, at ang ebanghelyo ng kaharian ng Diyos. Si Hesu-Kristo na Anak ng Diyos, taglay ang lahat ng hakbanging Kanyang dinaanan (halimbawa, pagkakatawang-tao, pagkapako sa krus, pagkabuhay na muli at pag-akyat sa langit) at lahat ng gawaing pagtutubos na Kanyang naisagawa, ay ang mga nilalaman ng ebanghelyo (Roma 1:2-4; Luc. 2:10-11; 1 Cor. 15:1-4; 2 Tim. 2:8). Kaya nga ang ebanghelyo ay ebanghelyo ni Hesu-Kristo. Ang ebanghelyo ay pinlano, ipinangako, at isinagawa ng Diyos (Efe. 1:8-9; Gawa 2:23; Roma 1:2; 2 Cor. 5:21; Gawa 3:15), at ito ang kapangyarihan ng Diyos tungo sa ikaliligtas sa bawat mananampalataya (Roma 1:16), upang sila ay maipagkasundo sa Diyos (2 Cor. 5:19) at maisilang-na-muli ng Diyos (1 Ped. 1:3) upang maging mga anak ng Diyos (Juan 1:12-13; Roma 8:16) at matamasa ang lahat ng Kanyang mga kayamanan at pagpapala bilang kanilang mana (Efe. 1:14). Kaya nga, ito ay ang ebanghelyo ng Diyos. Dinadala nito ang mga mananampalataya sa loob ng kinasasaklawan ng maka-Diyos na pamamahala upang sila ay makalahok sa mga pagpapala ng maka-Diyos na buhay sa maka- Diyos na kaharian (1 Tes. 2:12). Kaya nga, ito rin ay ang ebanghelyo ng kaharian ng Diyos. Kaya nga, ang buong nilalaman nito ay katulad ng yaong sa Bagong Tipan kasama ang lahat ng minana nito. Nang tayo ay sumampalataya sa ebanghelyong ito, ating minana ang Tres-unong Diyos kasama ang Kanyang pagtutubos, ang Kanyang pagliligtas, at ang Kanyang maka-Diyos na buhay na taglay ang mga kayamanan nito para maging ating walang hanggang bahagi."
+        },
+        {
+            "id": "16-1",
+            "text": "Tingnan ang tala 18-1 sa Mat. 4."
+        },
+        {
+            "id": "16-2",
+            "text": "Tingnan ang tala 18-2 sa Mat. 4."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang tala 20-1 Sa Mat. 4."
+        },
+        {
+            "id": "19-1",
+            "text": "Tingnan ang tala 21-1 sa Mat. 4."
+        },
+        {
+            "id": "20-1",
+            "text": "Lit. lumisan. Tingnan ang tala 22-1 sa Mat. 4."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang isang sinagoga ay isang pulungang-lugar ng mga Hudyo kung saan nila binabasa at pinag-aaralan ang mga Banal na Kasulatan (Luc. 4:16-17; Gawa 13:14-15)."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang pagkatisod ng tao sa loob ng kasalanan ay pumutol sa kanyang pakikisalamuha sa Diyos, ginagawang mangmang ang lahat ng tao sa kaalaman ng Diyos. Ang gayong kamangmangan ay unang nagresulta sa kadiliman at pagkatapos ay sa kamatayan. Ang Aliping-Tagapagligtas, bilang ilaw ng sanlibutan (Juan 8:12; 9:5), ay dumating sa Galilea, ang lupain ng kadiliman, kung saan ang mga tao ay nakaupo sa lilim ng kamatayan, bilang isang malaking ilaw upang silayan sila (Mat. 4:12-16). Ang Kanyang pagtuturo ay nagpalaya ng salita ng ilaw upang liwanagan yaong mga nasa kadiliman ng kamatayan upang sila ay makatanggap ng ilaw ng buhay (Juan 1:4). Ang ikalawang bagay na ginawa ng Alipin ng Diyos bilang Aliping-Tagapagligtas sa mga natisod na tao sa Kanyang paglilingkod ay ang isakatuparan ang gayong pagtuturo (2:13; 4:1; 6:2, 6, 30, 34; 10:1; 11:17; 12:35; 14:49) upang dalhin ang mga tao palabas mula sa maka-Satanas na kadiliman tungo sa loob ng maka-Diyos na kaliwanagan (Gawa 26:18)."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang mga humihirang-sa-sariling eskriba, na nagtuturo ng hungkag na kaalaman sa pamamagitan ng kanilang mga sarili, ay walang awtoridad at walang kapangyarihan, ngunit itong Aliping awtorisado ng Diyos, na nagtuturo ng mga katotohanan sa pamamagitan ng Diyos, ay hindi lamang may espiritwal na kapangyarihan upang supilin ang mga tao, bagkus may maka-Diyos na awtoridad din upang ipailalim sila sa maka-Diyos na pamamahala."
+        },
+        {
+            "id": "23-1",
+            "text": "Hindi isang natisod na anghel, kundi isang demonyo (bb. 32, 34, 39; Luc. 4:33), isa sa mga espiritu ng mga nabubuhay na nilikhang nabuhay noong mga panahong bago nilalang si Adam at hinatulan ng Diyos nang sila ay sumama sa paghihimagsik ni Satanas (tingnan ang Pag-aaral-Pambuhay ng Genesis Mensahe 2). Ang mga natisod na anghel ay gumagawang kasama ni Satanas sa hangin (Efe. 2:2; 6:11-12), at ang mga demonyong ito, ang mga karumaldumal na espiritu, ay gumagalaw na kasama niya sa lupa. Sila kapwa ay gumagawa ng kasamaan sa tao para sa kaharian ni Satanas. Ang pag-aali ng demonyo sa mga tao ay nangangahulugan ng pangangamkam ni Satanas sa taong nilalang ng Diyos para sa Kanyang layunin. Ang pangatlong bagay na ginawa ng Aliping-Tagapagligtas, na pumarito upang wasakin ang mga gawain ni Satanas (1 Juan 3:8), bilang isang bahagi ng Kanyang paglilingkod sa Diyos, ay ang palayasin ang mga demonyong ito mula sa mga inalihang tao (bb. 34, 39; 3:15; 6:7, 13; 16:17) upang sila ay mapalaya mula sa panggagapos ni Satanas (Luc. 13:16), mula sa awtoridad ng kadiliman ni Satanas (Gawa 26:18; Col. 1:13), patungo sa kaharian ng Diyos (b. 15). May limang pangyayari ang itinala sa Ebanghelyong ito upang ilarawan ito (bb. 23-27; 5:2-20; 7:25-30; 9:17-27; 16:9)."
+        },
+        {
+            "id": "24-1",
+            "text": "Lit. Ano sa amin at sa Iyo? (Isang Hebreong kawikaan)."
+        },
+        {
+            "id": "27-1",
+            "text": "Hindi kapangyarihan, kundi awtoridad na magpalayas ng demonyo. Ang Aliping-Tagapagligtas, sa Kanyang paglilingkod, ay may maka-Diyos na awtoridad hindi lamang sa pagtuturo sa mga tao (b. 22), bagkus pati na rin sa pagpapalayas ng mga demonyo."
+        },
+        {
+            "id": "30-1",
+            "text": "Ito ay maaaring sumasagisag sa di-mapigilang init ng ulo ng isang tao, di-normal at labis."
+        },
+        {
+            "id": "31-1",
+            "text": "Ang karamdaman ay isang bunga ng kasalanan at isang tanda ng di-normal na kalagayan ng tao sa harap ng Diyos dahil sa kasalanan. Ang pang-apat na bagay na ginawa ng Aliping-Tagapagligtas upang iligtas ang mga makasalanan, bilang isang bahagi ng Kanyang pang-ebanghelyong paglilingkod, ay ang pagalingin sila sa kanilang sakit, kapwa sa katawan at sa espiritu at ibalik sila sa normal upang Siya ay kanilang mapaglingkuran (b. 34; 3:10; 6:5, 13, 56). May siyam na pangyayari ang itinala sa Ebanghelyong ito upang ilarawan ang ganoong pagpapagaling (bb. 30-31, 40-45; 2:3-12; 3:1-5; 5:22-43; 7:32-37; 8:22-26; 10:46-52)."
+        },
+        {
+            "id": "31-2",
+            "text": "Una ay pinagaling, pagkatapos ay naglingkod."
+        },
+        {
+            "id": "34-1",
+            "text": "Tingnan ang tala 31-1 ."
+        },
+        {
+            "id": "34-2",
+            "text": "Tingnan ang tala 23-1 ."
+        },
+        {
+            "id": "34-3",
+            "text": "Ang ilang manuskrito ay binabasang, kanilang nakikilala na Siya ang Kristo."
+        },
+        {
+            "id": "35-1",
+            "text": "Upang makisalamuha sa Diyos, hinahanap ang kalooban at kaluguran ng Diyos para sa Kanyang pang-ebanghelyong paglilingkod (b. 38). Ang Aliping-Tagapagligtas ay hindi gumawa ng pang-ebanghelyong paglilingkod sa pamamagitan ng Kanyang sarili lamang na hiwalay sa Diyos at ayon sa Kanyang sariling kalooban, kundi ayon sa kalooban at kaluguran ng Diyos sa pamamagitan ng Kanyang pakikiisa sa Diyos upang isakatuparan ang Kanyang layunin (tala 38-2 )."
+        },
+        {
+            "id": "38-1",
+            "text": "Tingnan ang tala 14-2 ."
+        },
+        {
+            "id": "38-2",
+            "text": "Bilang Alipin ng Diyos na naglilingkod sa Diyos sa Kanyang ebanghelyo, ang Aliping-Tagapagligtas ay hindi gumanap ng Kanyang pang-ebanghelyong paglilingkod upang tuparin ang Kanyang sariling kalooban, ni ang panukala ng mga tao, kundi ang kalooban ng Diyos na nagsugo sa Kanya (Juan 6:38; 4:34)."
+        },
+        {
+            "id": "40-1",
+            "text": "Ang ketongin ay naglalarawan ng isang tipikal na makasalanan. Ang ketong ay ang pinakanakahahawa at pinakanakapipinsalang sakit, higit pang malala kaysa sa lagnat (b. 30), inihihiwalay ang biktima nito kapwa sa Diyos at sa mga tao (tingnan ang mga tala 2-1 at 3-1 sa Mat. 8). Ang linisin ang ketongin ay sumasagisag sa pagpapanumbalik ng pakikisalamuha ng makasalanan sa Diyos at sa mga tao. Ito ang nagtatapos na bahagi ng pang-ebanghelyong paglilingkod ng Aliping-Tagapagligtas ayon sa tala sa kapitulong ito."
+        },
+        {
+            "id": "41-1",
+            "text": "Ang pagkahabag at pagkukusang-loob ng Aliping-Tagapagligtas na nagbubuhat sa Kanyang pag-ibig ay mahal at mahalaga sa walang pag-asang ketongin."
+        },
+        {
+            "id": "41-2",
+            "text": "Ipinakikita ang Kanyang pakikiramay at pagiging malapit sa miserableng ketongin, na walang sinumang nangangahas na humipo."
+        },
+        {
+            "id": "41-3",
+            "text": "Hindi lamang pinagaling (tingnan ang tala 31-1 ) bagkus nilinis. Ang ketong ay hindi lang nangangailangan ng pagpapagaling gaya ng ibang mga sakit; ito ay nangangailangan din ng paglilinis, tulad ng kasalanan (1 Juan 1:7), dahil sa marumi at nakahahawang kalikasan nito."
+        },
+        {
+            "id": "44-1",
+            "text": "Ang gayong atas sa buong tala ng pang-ebanghelyong paglilingkod ng Aliping-Tagapagligtas ay nakatatawag-pansin (5:43; 7:36; 9:9). Ito ay tulad sa naipropesiya tungkol sa Kanyang tahimik na ugali sa Isa. 42:2. Nais Niyang ang Kanyang gawain ay maisagawa sa loob ng hangganan ng paggalaw na walang pasubaling ayon sa layunin ng Diyos, hindi itinaguyod sa pamamagitan ng katuwaan at propaganda ng tao. Tingnan ang tala 26-1 sa kap. 8."
+        },
+        {
+            "id": "45-1",
+            "text": "Lit. salita."
+        },
+        {
+            "id": "45-2",
+            "text": "Ang pagkilos ng tao ayon sa natural na kaisipan ay gumagambala sa paglilingkod ng Aliping-Tagapagligtas ayon sa layunin ng Diyos."
         }
     ]
 }

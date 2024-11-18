@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Ano",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Abraham",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -24,7 +24,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -35,7 +35,7 @@
             "footnotes": [
                 {
                     "word": "sumampalataya",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -46,11 +46,11 @@
             "footnotes": [
                 {
                     "word": "kanya",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "ganti",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -97,11 +97,11 @@
             "footnotes": [
                 {
                     "word": "pagtutuli,",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "nagsisisampalataya,",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -112,7 +112,7 @@
             "footnotes": [
                 {
                     "word": "nagsisilakad",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -123,11 +123,11 @@
             "footnotes": [
                 {
                     "word": "tagapagmana",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "pananampalataya.",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -156,19 +156,19 @@
             "footnotes": [
                 {
                     "word": "ama",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "pinanampalatayanan",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "nagbibigay",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "tumatawag",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -179,7 +179,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -190,7 +190,7 @@
             "footnotes": [
                 {
                     "word": "patay",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -225,7 +225,7 @@
             "footnotes": [
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -236,10 +236,88 @@
             "footnotes": [
                 {
                     "word": "binuhay",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Matapos talakayin sa kapitulo tatlo ang tungkol sa ating obhektibong pamposisyong pagkaaring-matuwid sa pamamagitan ng kamatayan ni Kristo, ipinakita sa atin ni Pablo sa kapitulo apat ang ating subhektibo, pandisposisyong pagkaaring-matuwid sa pamamagitan ng pagkabuhay-na-muli ni Kristo. Ginamit ni Pablo si Abraham bilang isang modelo, nagpapakita na ang sapat, buháy na pagkaaring-matuwid ay higit na malalim na gawa ng Diyos sa pagtawag sa natisod na mga tao palabas sa lahat ng bagay maliban sa Diyos, upang lubusang bumalik sa Diyos Mismo, magtiwala sa Kanya at hindi sa kanilang mga sarili. Ang pag-aaring-matuwid ng Diyos kay Abraham sa Genesis 15 ay walang kinalaman sa mga kasalanan, kundi nauukol sa pagtatamo ng isang binhing mamumunga ng isang kaharian upang manahin ang sanlibutan (b. 13). Gayundin, ipinaliliwanag ng kapitulong ito na sa pagkaaring-matuwid ay hindi lamang tinatawag ang tao palabas mula sa kahatulan ng Diyos sa kasalanan, bagkus ay binibigyang-kakayahan nito ang Diyos na magkaroon ng maraming mga anak (8:29-30), upang buuin para kay Kristo ang isang Katawan (kap. 12), bilang kaharian ng Diyos (14:17) upang maisakatuparan ang Kanyang layunin. Ang obhektibong pamposisyong pag-aaring-matuwid sa kapitulo tatlo ay nauukol sa pagtutubos upang tayo ay maipagkasundo sa Diyos; ang subhektibong pandisposisyong pag-aaring-matuwid sa kapitulong ito ay nauukol sa buhay upang gawin tayong mga tagapagmana na nagsasakatuparan ng layunin ng Diyos. Ang ating laman at ang likas na kalakasan nito ay kinakailangang maalis-matuli."
+        },
+        {
+            "id": "1-2",
+            "text": "Si Abraham ang ama ng lahat ng mananampalataya. Siya ang ama ng di- pagtutuli na nagtataglay ng gayunding pananampalataya, at siya rin ang ama ng pagtutuli na lumalakad sa mga yapak ng gayunding pananampalataya."
+        },
+        {
+            "id": "2-1",
+            "text": "Ito ay nagpapakita na ginamit ni Abraham ang kanyang sariling lakas upang gumawa para sa Diyos, katulad ng pagkagusto niya na aprubahan ng Diyos ang mga bunga ng kanyang pagpapagal (ang unang bunga ay si Lot, pagkaraan ay si Eliezer, nang kalaunan ay si Ismael na isinilang ni Agar) upang maging ang ipinangakong binhi ng Diyos. Subali’t ang resulta ng pagkaaring-matuwid kay Abraham ay yaong siya ay tumigil mula sa lahat ng kanyang mga gawa para sa Diyos na sinagisag ng pagtutuli ng pag-aalis ng laman (b. 11). Sa gayon, ang pagtutuli ay naging palagiang pagpapaalala ng Diyos kay Abraham, sinasabihan siyang tumigil mula sa kanyang mga gawa at mabuhay sa pamamagitan ng pananampalatayang nasa Diyos. Ang pag-aaring-matuwid ay walang kinalaman sa gawa at sa nagawa ng laman."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang sumampalataya sa Diyos ang kusang-kusang reaksiyon ni Abraham sa Diyos na nagpakita sa kanya nang paulit-ulit. Ang Diyos ay nagpakita kay Abraham nang ilang ulit (Gen. 12:1-3, 7; 13:14-17; 15:1-7; kap. 18; Gawa 7:2), sa bawa’t pagpapakita ay Kanyang inilalalin ang Kanyang kaluwalhatian at ang elemento ng Kanyang Sarili tungo sa loob ni Abraham. Sa gayon, ang pananampalatayang ito ay ang pag-aagos ng elementong inilalin ng Diyos sa loob ni Abraham. Ang reaksiyon ng Diyos sa pananampalataya ni Abraham ay ang ariin siyang matuwid, ang ibilang siyang matuwid. Ito ay hindi sa pamamagitan ng gawa kundi batay sa kanyang pananampalataya sa Diyos."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang likas na tao ay palaging nagnanais na gumawa para sa Diyos upang makatanggap ng bayad (ganti). Ang gayong uri ng tao ay walang biyaya, ni pananampalataya, ni pagtatamasa (tingnan ang Exo. 12:45)."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang pagkaaring-matuwid sa atin ng Diyos ay isang libreng biyaya sa atin dahil sa pagtutubos ni Kristo, hindi ganti (bayad) sa ating mabubuting pagkilos (mga gawa). Kung tayo ay inaaring-matuwid ng Diyos nang ayon sa ating mabubuting gawa, ang pag-aaring-matuwid ng Diyos samakatuwid ay ang kabayarang ating kinita sa pamamagitan ng ating mabubuting gawa at ito ay hindi na libreng kaloob ng Diyos. Yamang ito ay sa pamamagitan ng biyaya ng Diyos, ito ay hindi na mula sa mga gawa, kung hindi, ang biyaya ay hindi na biyaya (11:6). Ang ating mga gawa kailanman ay hindi makahahalili sa biyaya ng Diyos, ang biyaya ng Diyos ay kinakailangang lubusang biyaya lamang."
+        },
+        {
+            "id": "11-1",
+            "text": "Hindi ang pagtutuli ang dahilan ng pagkaaring-matuwid ni Abraham, sa halip, ito ang panlabas na tanda na nagpapatibay na siya ay inaring- matuwid na ng Diyos. Ang pagtutuli ay tumutukoy sa pag-aalis ng likas na kalakasan ng tao. Sinubok ni Abraham na gamitin ang kanyang likas na kalakasan, at ang kanyang likas na pagsusumikap upang ibunga si Ismael upang makamit ang kaluguran ng Diyos. Si Abraham ay inaring-matuwid bago pa mangyari ang kanyang pagtutuli. Pinagtibay ng Diyos ang Kanyang kasunduan kay Abraham sa Genesis 15. Ang pagtutuli ay ang pagpapatibay, sa kanyang panig, ng kasunduan ng Diyos sa kanya; ito ay isang pagpapaalala sa kanya: hindi na niya muling gagamitin ang kanyang likas na lakas upang bigyang-kaluguran ang Diyos."
+        },
+        {
+            "id": "11-2",
+            "text": "Tingnan ang tala 13-2 ."
+        },
+        {
+            "id": "12-1",
+            "text": "Sa Griyego nangangahulugang lumakad nang ayon sa isang tuntunin, isang tiyak na paraan (Tingnan ang tala 25-2 sa Galacia 5 at tala 16-4 ng Filipos 3). Dito, ito ay tumutukoy sa paglakad na ayon sa mga pinagbabatayang prinsipyo ng pananampalataya. Kung tayo ay lalakad nang ayon sa mga yapak ng pananampalataya ni Abraham, siya ay isang ama sa atin, ang mga tinuli, sa gayon tayo ay papasok tungo sa loob ng isang buhay na nakasalalay hindi sa ating mga sarili, kundi sa Diyos, upang makamit natin ang subhektibong pag-aaring-matuwid ng Diyos nang sa gayon ay maging Kanyang mga tunay na tagapagmana."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang pag-aaring-matuwid ay ang gawin ang mga hinirang na tao ng Diyos na makapagmana ng sanlibutan, ang makapamahala sa lupa (Gen. 1:26)."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang kautusan ay ang pansamantalang ekonomiya (pagsasaayos) ng Diyos sa Kanyang bayan sa Lumang Tipan, ito ay idinagdag dahil sa pagsasalangsang ng tao (Gal. 3:19); samantalang ang pananampalataya ay ang walang hanggang ekonomiya (pagsasaayos) ng Diyos sa Kanyang bayan sa Bagong Tipan, sapagka’t ang pananampalataya ay batay sa walang hanggang plano ng Diyos (cf. tala 4-4 sa I Timoteo 1). Sa Lumang Tipan, ginamit ng Diyos ang kautusan upang tuusin ang mga tao. Kung ang mga tao ay gagawa nang ayon sa pagsasaayos na ito na nakasulat sa kautusan, siya ay aariing-matuwid, ito ang katuwiran ng kautusan (9:31), na siya ring katuwirang batay sa kautusan (10:5; Fil. 3:9). Sa Bagong Tipan, tinutuos ng Diyos ang mga tao ayon sa pananampalataya. Kung ang mga tao ayon sa ganitong pagsasaayos ng Diyos, ay sumampalataya kay Kristo, na itinalaga ng Diyos na sampalatayanan, siya ay aariing-matuwid (I Juan 3:23); ito ang katuwiran ng pananampalataya (b. 11), na siyang katuwiran na batay sa pananampalataya (9:30; 10:6). Ang pananampalatayang isinaayos ng Diyos sa Kanyang Bagong Tipang pamamahagi, na dumarating sa panahon ng Bagong Tipan, ay pumapalit sa kautusan ng Lumang Tipan (Gal. 3:23, 25). Pinalitan nito ang pananamplataya ng kautusan, at sa atin, ito ay obhektibo. Ayon sa obhektibong pananampalatayang ito, tayo ay subhektibong sumasampalataya kay Kristo na ninanais ng Diyos na ating sampalatayanan, sa gayon ay natatamo natin ang katuwiran ng pananampalataya. Ang katuwirang ito ay si Kristo, ang katuwiran ng Diyos, na ating natamo sa pamamagitan ng subhektibong pananampalataya sa obhektibong pananampalataya na isinaayos ng Diyos (I Cor. 1:30)."
+        },
+        {
+            "id": "17-1",
+            "text": "Si Abraham ang ama ng lahat ng tinawag, at ang una sa hinirang na lahi ng Diyos. Tayo ay isinilang sa natisod na lahi ni Adam, subali’t ngayon ay isinilang-na-muli, at pumasok sa loob ng tinawag na lahi ni Abraham. Yaong mga mula sa pananampalataya katulad ni Abraham ay mga tao ng bagong lahi, mga inapo ni Abraham (Gal. 3:7)."
+        },
+        {
+            "id": "17-2",
+            "text": "Si Abraham ay sumampalataya sa Diyos sa dalawang bagay: (1) ang pagkasilang ni Isaac. Ito ay iniugnay sa Diyos na tumatawag sa mga bagay na hindi pa umiiral na umiiral na; (2) ang paghahandog at ang pagkakamit muli kay Isaac. Ito ay iniugnay sa Diyos na nagbibigay-buhay sa mga patay! Si Abraham ay sumampalataya sa isang gayong Diyos at ginamit niya ang Diyos na ito sa kanyang situwasyon. Sapagka’t si Abraham ay may isang gayong pananampalataya, sinampalatayanan niya ang anumang sinabi ng Diyos, na si Isaac ay isisilang, na sa wari ay imposible; bukod pa rito, kapagdaka niyang sinunod ang utos ng Diyos, at inihandog si Isaac, sumasampalatayang ibabangon siya ng Diyos mula sa mga patay (Heb. 11:17-19)."
+        },
+        {
+            "id": "17-3",
+            "text": "Ito ang pagkabuhay na muling kapangyarihan ng Diyos. Ang kapangyarihang ito ang nagbibigay-kakayahan sa atin upang daigin ang kamatayan at ang mga nakakamatay na bagay. Inihandog ni Abraham si Isaac ayon sa utos ng Diyos, at naranasan ang kapangyarihang ito ng pagkabuhay na muli."
+        },
+        {
+            "id": "17-4",
+            "text": "Ito ang lumilikhang kapangyarihan ng Diyos. Siya ang Diyos ng paglikha. Kaya Niyang lumikha ng isang bagay nang walang anumang materyal; magsalita lamang Siya, kahit na wala ay magkakaroon “sapagka’t Siya ay nagsalita at nangyari” (Awit 33:9)."
+        },
+        {
+            "id": "18-1",
+            "text": "Si Abraham ang modelo niyaong mga inaring-matuwid ng pananampalataya. Siya ay namuhay sa pamamagitan ng mga bagay na inaasahan (tingnan ang tala 1-3 sa Heb. 11)."
+        },
+        {
+            "id": "19-1",
+            "text": "Ipinakikita nito ang pagtatapos ng likas na kalakasan ni Abraham, at ang pagtatapos na ito ay iniugnay sa subhektibong pag-aaring-matuwid sa kanya ng Diyos."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang pananampalatayang ibinilang na katuwiran sa atin ay ang pananampalataya sa Diyos na makatuwirang humatol kay Kristo para sa ating mga kasalanan, na makatuwirang naglagay sa Kanya sa kamatayan para sa ating kapakanan, at siyang bumuhay na muli sa Kanya mula sa mga patay ayon sa katuwiran."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang mga matuwid na kahilingan ng Diyos ay lubos na natupad at nabigyang- kasiyahan ng kamatayan ni Kristo, sa gayon tayo ay inaring-matuwid ng Diyos sa pamamagitan ng Kanyang kamatayan (3:24). Ang Kanyang pagkabuhay na muli ay isang katunayang ang Diyos ay nasiyahan sa Kanyang kamatayan para sa atin at yaong tayo ay inaring-matuwid ng Diyos dahil sa Kanyang kamatayan, at sa loob Niya, ang nabuhay-na-muling Isa, tayo ay tinanggap sa harap ng Diyos. Hindi lamang gayon, Siyang nabuhay na muling Isa ay nasa loob natin, ipinamumuhay para sa atin ang isang buhay na inaaring-matuwid ng Diyos at kalugud-lugod sa Diyos. Kaya sinasabi rito na Siya ay binuhay na muli sa ikaaaring-matuwid natin."
         }
     ]
 }

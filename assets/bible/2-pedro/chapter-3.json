@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -15,11 +15,11 @@
             "footnotes": [
                 {
                     "word": "salitang",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "utos",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -30,11 +30,11 @@
             "footnotes": [
                 {
                     "word": "huling",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "manunuya",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -45,15 +45,15 @@
             "footnotes": [
                 {
                     "word": "pangako",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "pagparito?",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "magulang,",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -64,27 +64,27 @@
             "footnotes": [
                 {
                     "word": "ito",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "sangkalangitan",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "5-4"
                 },
                 {
                     "word": "lupang",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "umiral",
-                    "note": ""
+                    "id": "5-5"
                 }
             ],
             "outlines": null
@@ -95,23 +95,23 @@
             "footnotes": [
                 {
                     "word": "nito,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "sanlibutan",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "noon,",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "inapawan",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "napahamak.",
-                    "note": ""
+                    "id": "6-5"
                 }
             ],
             "outlines": null
@@ -122,31 +122,31 @@
             "footnotes": [
                 {
                     "word": "ngayon,",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "gayon",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "iniingatang",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "apoy,",
-                    "note": ""
+                    "id": "7-4"
                 },
                 {
                     "word": "paghuhukom",
-                    "note": ""
+                    "id": "7-5"
                 },
                 {
                     "word": "paglipol",
-                    "note": ""
+                    "id": "7-6"
                 },
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "7-7"
                 }
             ],
             "outlines": null
@@ -157,11 +157,11 @@
             "footnotes": [
                 {
                     "word": "makubli",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -172,31 +172,31 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "iba,",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "mapagpahinuhod",
-                    "note": ""
+                    "id": "9-4"
                 },
                 {
                     "word": "mapahamak,",
-                    "note": ""
+                    "id": "9-5"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "9-6"
                 },
                 {
                     "word": "magsipagsisi.",
-                    "note": ""
+                    "id": "9-7"
                 }
             ],
             "outlines": null
@@ -207,39 +207,39 @@
             "footnotes": [
                 {
                     "word": "kaarawan",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "darating",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "sangkalangitan",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "malaking",
-                    "note": ""
+                    "id": "10-5"
                 },
                 {
                     "word": "elemento",
-                    "note": ""
+                    "id": "10-6"
                 },
                 {
                     "word": "mapupugnaw",
-                    "note": ""
+                    "id": "10-7"
                 },
                 {
                     "word": "gawang",
-                    "note": ""
+                    "id": "10-8"
                 },
                 {
                     "word": "masusunog.",
-                    "note": ""
+                    "id": "10-7"
                 }
             ],
             "outlines": [
@@ -253,11 +253,11 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -268,19 +268,19 @@
             "footnotes": [
                 {
                     "word": "hinihintay",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "pagdating",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "kaarawan",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "dito",
-                    "note": ""
+                    "id": "12-4"
                 }
             ],
             "outlines": null
@@ -291,19 +291,19 @@
             "footnotes": [
                 {
                     "word": "pangako",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "tinatahanan",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "katuwiran.",
-                    "note": ""
+                    "id": "13-4"
                 }
             ],
             "outlines": [
@@ -317,11 +317,11 @@
             "footnotes": [
                 {
                     "word": "masumpungan",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": [
@@ -335,19 +335,19 @@
             "footnotes": [
                 {
                     "word": "ariin",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "pagpapahinuhod",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "pagliligtas,",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "rin",
-                    "note": ""
+                    "id": "15-4"
                 }
             ],
             "outlines": [
@@ -360,23 +360,23 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "pinipilipit",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "ikapapahamak",
-                    "note": ""
+                    "id": "16-4"
                 }
             ],
             "outlines": null
@@ -387,19 +387,19 @@
             "footnotes": [
                 {
                     "word": "magsipag-",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "matangay",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "tiwali,",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "mahulog",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": [
@@ -414,22 +414,296 @@
             "footnotes": [
                 {
                     "word": "magsilago",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "pagkakilala",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "Kanya",
-                    "note": ""
+                    "id": "18-4"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Ang mga salitang ipinahayag ng mga propeta ay ang mga nilalaman ng Lumang Tipan, ang mga Kasulatan (b. 16; 1:20), at ang mga utos sa pamamagitan ng mga apostol ay ang mga nilalaman ng Bagong Tipan, ang pagtuturo ng mga apostol (Gawa 2:42). Kapwa ito ginagamit ni Pedro upang pagtibayin at palakasin ang kanyang mga isinulat bilang isang pagbabakuna laban sa mga taliwas na pagtuturo sa panahon ng kataliwasan. Sa kanyang unang Sulat, hinggil sa ganap na pagliligtas ng Diyos, kapwa niya tinukoy ang mga propeta at ang mga apostol (I Ped. 1:9-12). Pagkatapos, sa ikalawang Sulat, hinggil sa pagliliwanag ng dibinong katotohanan, tinukoy niyang muli ang dalawa (1:12-21). Sa bersikulong ito ay binanggit niya ito sa ikatlong pagkakataon."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 12 sa II Timoteo 3."
+        },
+        {
+            "id": "3-2",
+            "text": "Maaaring sila ang mga bulaang guro sa 2:1. Ang kanilang panunuya ay isang bahagi ng kataliwasan."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pangako ng pagparito ng Panginoon ay ibinigay sa mga magulang sa pamamagitan ng mga banal na propeta (b. 2) sa Lumang Tipan (Awit 72:6-17; 110:1-3; 118:26; Dan. 7:13-14; Zac. 14:3-9; Mal. 4:1-3)."
+        },
+        {
+            "id": "4-2",
+            "text": "Gr. parousia, presensiya."
+        },
+        {
+            "id": "4-3",
+            "text": "Lit. mga ama."
+        },
+        {
+            "id": "5-1",
+            "text": "Lit. ito ay naikubli sa kanila dahil sa kanilang pananadya; yaon ay, sinadya nilang hindi malaman ang ukol dito; kaya, ito ay nakawala sa kanilang pansin. Sadyang hindi pinansin at nilayong itatwa ng mga taliwas na manunuya ang salita ng Diyos na ipinahayag ng mga propeta sa mga Kasulatan. Kaya pinaalalahanan ni Pedro ang mga mananampalataya na alalahanin ang mga banal na salita na ipinahayag kapwa ng mga propeta sa Lumang Tipan at ng mga apostol sa Bagong Tipan (bb. 1-2)."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang pangako hinggil sa pagparito ng Panginoon (b. 4) ay ang salita ng Diyos. Hindi dapat ipagwalang-bahala ng mga manunuya na nagkaroon ng sangkalangitan at ng lupa sa pamamagitan ng salita ng Diyos (Heb. 11:3), at sa pamamagitan din ng gayong salita, ang sangkalangitan at ang lupa ay naiingatan (Heb. 1:3) hanggang sa araw ng paghuhukom at paglipol sa mga makasalanang tao (b. 7). Kaya dapat na maniwala nang tiyak ang mga manunuya na sa pamamagitan ng salita ng Diyos, ang lahat ng materyal na sansinukob, kabilang na sila, ay hahatulan sa pagdating ng Panginoon."
+        },
+        {
+            "id": "5-3",
+            "text": "Sa pasimula, yaon ay, noong una, ang sangkalangitan at ang lupa ay nilikha ng Diyos (Gen. 1:1). Sa pamamagitan ng salita ng Diyos (Awit 33:6) nagkaroon muna ng sangkalangitan at pagkatapos ng lupa (Job 38:4-7)."
+        },
+        {
+            "id": "5-4",
+            "text": "Yaon ay, naroon na mula pa noong unang panahon."
+        },
+        {
+            "id": "5-5",
+            "text": "Lit. katulad sa Col. 1:17, nakatayong magkasama, nakatayong kasama (magkaagapay, magkatabi). Unang nagkaroon ng lupa sa Gen. 1:1, at mula sa Gen. 1:9, sa pamamagitan din ng salita (ang pagsasalita) ng Diyos (Awit 33:9), ang lupa ay nagsimulang umiral mula sa tubig, at sa pamamagitan ng tubig, yaon ay, ang tumayong kasama ng tubig na magkasabay, na may bahaging nakalabas mula sa tubig at may bahaging nakalubog sa ilalim ng tubig."
+        },
+        {
+            "id": "6-1",
+            "text": "Tumutukoy sa tubig sa b. 5. Ang lupa ay umiral mula sa tubig at sa pamamagitan ng tubig sa isang maayos na kalagayan. Subali’t sa pamamagitan din ng gayunding tubig, ito ay hinatulan at nilipol sa pamamagitan ng baha noong kapanahunan ni Noe (Gen. 7:17-24), nagpapakita na ang lahat ng bagay ay hindi nanatiling katulad noong una sa pasimula ng paglalang."
+        },
+        {
+            "id": "6-2",
+            "text": "Gr. kosmos, isang kaayusan, isang sistema, ang sanlibutan kasama ang mga nakatira rito. Ang lupa sa naunang bersikulo ay naging ang sanlibutan sa bersikulong ito, hindi lamang ang lupa, bagkus ang naisistemang lupa na kasama ang mga nakatira rito. Ito ay tumutukoy sa sanlibutan noong kapanahunan ni Noe, na hinatulan ng Diyos ng pagbaha dahil sa pagiging makasalanan at di-pagkamakadiyos ng kapanahunang yaon (Gen. 6:5-7, 11-13, 17). Ang aklat na ito ay pangunahing nahihinggil sa dibinong pamahalaan at sa lahat ng mga paghahatol nito. Ang unang paghahatol sa sanlibutan ay yaong ipinatupad sa pamamagitan ng pagbaha sa panahon ni Noe, na naglinis sa masamang sanlibutang yaon. Ang kaisipang ito ay maaaring na kay Pedro habang isinusulat niya ang bersikulong ito, nagpapahiwatig na ang kapanahunang ito ng kataliwasan ay hahatulan din sa araw ng pagpapakita ng Panginoon, katulad noong sa araw ni Noe (Mat. 24:37-39)."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang “noon” ay tumutukoy sa kapanahunan ni Noe."
+        },
+        {
+            "id": "6-4",
+            "text": "Tumutukoy sa pagbaha noong kapanahunan ni Noe (2:5), na nagsanhi sa lupa na malipol (Gen. 6:13, 17; 9:11). Hindi na naging pareho ang lupa kundi nagkaroon ng isang pagbabago, nagkaroon ng isang dilubyo, at sa pag-apaw ng tubig, ay nalipol. Narito ang malakas na pangangatuwiran ni Pedro sa mga taliwas na manunuya. Sinabi nila na ang “lahat ng bagay ay nangagpapatuloy na gaya ng kalagayan nila mula noong pasimulan ang paglalang.” Subali’t sa katunayan, isang dilubyo ang dumating sa lupa dahil sa di-pagkamakadiyos ng mga naninirahan dito. Ito ay nagpapahiwatig na ang pangkasalukuyang sanlibutan ay hindi mananatili nang ganito, subali’t magkakaroon din ng malaking kapahamakan sa pagdating ng Panginoon na may Kanyang paghahatol sa mga mapagrebelde, kabilang na ang mga bulaang guro at mga taliwas na manunuya sa panahon ng pagtalikod sa pananampalataya."
+        },
+        {
+            "id": "6-5",
+            "text": "Yaon ay, nalipol, nawasak, nasira (Gen. 6:13, 17). Tingnan ang tala 16, punto 1, sa kapitulo 2."
+        },
+        {
+            "id": "7-1",
+            "text": "Kabaligtaran sa “noon” sa b. 6, tumutukoy sa pangkasalukuyang sangkalangitan at lupa, na nananatili sa pamamagitan ng salita ng Diyos (Gen. 8:22), hindi na lilipuling muli sa pamamagitan ng tubig (Gen. 9:11), subali’t susunugin sa apoy sa araw ng paghahatol at paglipol sa mga taong di-makadiyos."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang gayon ding salita na tumutukoy sa salita ng Diyos sa b. 5 ay kinabibilangan ng salita ng mga propeta sa Lumang Tipan. Ang mga huwad at taliwas na pagtuturo sa kataliwasan ay isang pagkiling mula sa salita ng Diyos na ipinahayag ng mga propeta sa Lumang Tipan at ng mga apostol sa Bagong Tipan. Kaya, ang pangontra na inilapat ng pagbabakuna ni Pedro laban sa lason ng mga taliwas na pagtuturo ay ang banal na salita na may dibinong pahayag, na kanyang binibigyang-diin nang paulit-ulit."
+        },
+        {
+            "id": "7-3",
+            "text": "Yaon ay, itinatabi."
+        },
+        {
+            "id": "7-4",
+            "text": "Ang apoy na susunog sa sangkalangitan at sa lupa (b. 10) sa katapusan ng isang libong taon kapag ang paghahatol sa malaking puting trono ay dumating (Apoc. 20:11). Ang unang paghatol ng Diyos sa ibabaw ng sansinukob ay sa pamamagitan ng tubig (b. 6), subali’t ang Kanyang sukdulang paghahatol ay magiging sa pamamagitan ng apoy. Ang tubig ay naghuhugas lamang ng mga karumihang nasa ibabaw, subali’t ang apoy ay nagpapalit ng kalikasan ng buong nilalaman. Ito ay nagpapakita pa na ang sangkalangitan at ang lupa ay hindi mananatiling katulad ng dati, subali’t malilinis sa pamamagitan ng apoy, at yaong masasamang huwad na guro (2:1) at mga manunuya (b. 3) ay hahatulan at lilipulin sa ilalim ng dibinong pamahalaan."
+        },
+        {
+            "id": "7-5",
+            "text": "Ang paghuhukom sa malaking puting trono, na susunod sa isang libong taon at mauuna sa bagong langit at bagong lupa (Apoc. 20:11-21:1). Sa pamamagitan ng paghuhukom na yaon, ang lahat ng taong di-makadiyos ay itatapon sa dagat-dagatang apoy upang lipulin (tingnan ang tala 31 sa kap. 2). Yamang ito ang magiging pangwakas na paghatol sa mga tao at mga demonyo (Apoc. 20:13 at tala), ito ang may pinakamalaking kaugnayan sa pamahalaan ng Diyos sa sansinukob. Tingnan ang tala 17-2 , talata 2, sa I Pedro 1. Nilalaktawan dito ni Pedro ang isang libong taon ng isang libong taong kaharian, mula sa pagdating ng Panginoon hanggang sa paghuhukom sa malaking puting trono. Para sa kanya, katulad sa Panginoon, ang isang libong taon na yaon ay magiging katulad ng isang araw (b. 8), isang maikling panahon. Binabanggit niya rito ang pampamahalaang paghahatol ng Diyos. Sa ekonomiya ng Diyos, ang isang libong taon ay hindi para sa ganitong layunin."
+        },
+        {
+            "id": "7-6",
+            "text": "Tingnan ang tala 16, punto 2, sa kap. 2."
+        },
+        {
+            "id": "7-7",
+            "text": "Kinabibilangan ng mga huwad na guro (2:1) at ng mga ereheng manunuya (b. 3)."
+        },
+        {
+            "id": "8-1",
+            "text": "Lit. makawala sa inyo, yaon ay, mawala sa inyong pansin."
+        },
+        {
+            "id": "8-2",
+            "text": "Sa Panginoong Diyos na walang hanggan, ang kamalayan sa panahon ay nabawasan ng libu-libong ulit kung ihahambing doon sa kamalayan sa panahon ng tao. Kaya, para sa katuparan ng Kanyang salita, lalo na ang salita ng Kanyang pangako, ang panahon ay hindi ang pinakamahalagang bagay kundi ang katunayan. Anuman ang Kanyang ipinangako ay magiging isang katunayan sa malao’t madali. Hindi tayo dapat mabagabag nang dahil sa kamalayan ng pagkaantala na ayon sa ating pagbibilang ng panahon."
+        },
+        {
+            "id": "9-1",
+            "text": "O, hindi nahuhuli ang Panginoon."
+        },
+        {
+            "id": "9-2",
+            "text": "O, pagkahuli."
+        },
+        {
+            "id": "9-3",
+            "text": "Malamang na tumutukoy sa mga manunuya (b. 3)."
+        },
+        {
+            "id": "9-4",
+            "text": "Ang puso ng Panginoon ay hindi nakalagak sa panahon ng katuparan ng Kanyang pangako, kundi sa Kanyang bayan na Kanyang natatanging inaangkin bilang isang kayamanan (I Ped. 2:9; Tito 2:14 at tala 3) upang ni isa sa atin, ang Kanyang mga mahalagang tinubos, ay hindi maparusahan ng Kanyang pampamahalaang paghahatol, kundi magkaroon ng isang napahabang panahon upang magsisi nang sa gayon tayo ay maligtas mula sa Kanyang kaparusahan."
+        },
+        {
+            "id": "9-5",
+            "text": "Yaon ay, ang malipol. Tingnan ang tala 16, punto 1, sa kapitulo 2. Yamang ang “inyo” sa bersikulong ito ay tumutukoy sa mga nananampalataya kay Kristo, “ang mapahamak” ay hindi tumutukoy sa walang hanggang kapahamakan ng mga di-mananampalataya, kundi sa parusa ng pampamahalaang pagdidisiplina ng Diyos sa mga mananampalataya (I Ped. 4:17-18 at tala 18-2 ; I Tes. 5:3, 8 at tala 3)."
+        },
+        {
+            "id": "9-6",
+            "text": "Tumutukoy sa mga mananampalataya."
+        },
+        {
+            "id": "9-7",
+            "text": "Pagsisisi sa ikaliligtas (b. 15), nagsisisi dahil sa hindi pagiging mapagbantay sa araw ng pagdating ng Panginoon (b. 10) at hindi pamumuhay ng isang buhay sa banal na kaparaanan at pagkamakadiyos (b. 11)."
+        },
+        {
+            "id": "10-1",
+            "text": "Kalimitang tumutukoy sa pampamahalaang paghahatol ng Diyos (I Tes. 5:2 tala 1)."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang kaarawan ng Panginoon para sa Kanyang paghahatol (I Tes. 5:3-4) ay darating bago ang isang libong taon (Apoc. 18:1; 19:11; 20:4-6)."
+        },
+        {
+            "id": "10-3",
+            "text": "Tumutukoy sa kaarawan ng Panginoon."
+        },
+        {
+            "id": "10-4",
+            "text": "Ito ay mangyayari pagkatapos ng isang libong taon (Apoc. 20:7, 11). Ito ay nagpapakitang muli na nilalaktawan ni Pedro ang isang libong taon ng isang libong taong kaharian (tingnan ang tala 7-5 )."
+        },
+        {
+            "id": "10-5",
+            "text": "Yaon ay, isang biglang tunog o ingay. Ito ay maaaring isang proklamasyon ng isang malaking pagbabago sa sansinukob mula sa luma patungo sa bago."
+        },
+        {
+            "id": "10-6",
+            "text": "Yaon ay, ang mga pisikal na elemento na bumubuo sa sangkalangitan."
+        },
+        {
+            "id": "10-7",
+            "text": "Ihambing ang “mapupugnaw” at “masusunog” sa “babalumbunin” at “mapapalitan” sa Heb. 1:12, “tumakas” at “walang nasumpungang kalalagyan nila” sa Apoc. 20:11, at “lumipas na” sa Apoc. 21:1. Ang pagkasunog sa matinding init upang mapugnaw ang sangkalangitan at ang lupa ay ang hakbanging gagamitin ng Diyos upang balumbunin ang sangkalangitan at ang lupa at alisin ang mga ito upang mapalitan ang mga ito mula sa luma patungo sa bago (b. 13; Apoc. 21:1). Ito ay ang magiging pangwakas at sukdulang pagtutuos ng Diyos sa Kanyang nilikha sa Kanyang pamahalaan. Ang lahat ng materyal na bagay sa pangwakas na pagtutuos ng Diyos ay lilipas, subali’t ang Kanyang walang hanggang salita ay mananatili magpakailanman (Mat. 24:35; I Ped. 1:25). Kahit na anumang pagbabago ang mangyari sa pisikal na sansinukob, ang salita ng propesiya ng Diyos ay mananatili at matutupad sa Kanyang itinakdang panahon para sa katuparan ng Kanyang walang hanggang kalooban."
+        },
+        {
+            "id": "10-8",
+            "text": "Maaaring tumutukoy kapwa sa mga gawa ng Diyos sa kalikasan at sa lahat ng mga gawa ng tao."
+        },
+        {
+            "id": "11-1",
+            "text": "May ilang manuskrito ang nagdaragdag ng, samakatuwid. Ang lahat ng mga bagay, kapwa sa sangkalangitan at sa lupa, ay narumihan ng pagrerebelde ni Satanas at ng pagkatisod ng mga tao. Bagama’t ang lahat ng mga bagay, maging sa lupa o sa sangkalangitan, ay naipagkasundo na sa Diyos sa pamamagitan ng dugo ni Kristo at sa pamamagitan ni Kristo (Col. 1:20 at tala 4), at ang mga bagay na nasa langit ay napadalisay na ng dugo ni Kristo (Heb. 9:23 at tala 1), kinakailangan pa rin ng mga ito na malinis sa pamamagitan ng pagsusunog, sa pampamahalaang pagtutuos ng Diyos, upang ang mga ito ay maging bago kapwa sa kalikasan at sa anyo sa loob ng bagong sansinukob ng Diyos (b. 13). Sa gayon, bilang mga anak ng banal na Diyos, anong uri ng mga tao tayo nararapat maging sa banal na paraan ng pamumuhay at pagkamakadiyos; yaon ay, anong uri ng transpormasyon ang dapat nating taglayin upang ibuhay ang isang buhay sa paraan ng banal na kalikasan at kabanalan ng Diyos upang ihayag Siya, nang sa gayon tayo ay maging karapat-dapat na itugma sa Kanyang banal na pamahalaan!"
+        },
+        {
+            "id": "11-2",
+            "text": "Ang dibinong kapangyarihan ay nagbigay sa atin ng lahat ng mga bagay na kinakailangan upang maipamuhay ang isang buhay sa banal na paraan at pagkamakadiyos (1:3)."
+        },
+        {
+            "id": "12-1",
+            "text": "Habang ibinubuhay natin ang isang natranspormang buhay sa isang banal at makadiyos na paraan, ating inaasahan, hinihintay, at pinadadali ang pagdating ng kaarawan ng Diyos."
+        },
+        {
+            "id": "12-2",
+            "text": "Gr. parousia, presensiya."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang kaarawan ng Diyos ay ang kaarawan ng Panginoon (b. 10), at ang kaarawan ng Panginoon ay ang kaarawan ni Jehovah sa mga anak ni Israel sa Lumang Tipan (Isa. 2:12; Joel 1:15; 2:11, 31; 3:14; Amos 5:18, 20; Obad. 15; Zef. 1:7, 14, 18; 2:2-3; Zac. 14:1; Mal. 4:1, 5). Ang “kaarawan,” sa mga gayong katawagan, ay pangunahing ginamit upang ipakahulugan ang paghahatol para sa pampamahalaang pagtutuos. Bago dumating ang Panginoon, ito ay ang “kaarawan ng tao.” Dito, ang tao pa ang naghahatol hanggang sa dumating ang Panginoon (I Cor. 4:3-5). Pagkatapos ito ay magiging “ang kaarawan ng Panginoon,” na magsisimula sa parousia ng Panginoon (presensiya – Mat. 24:3 at tala 3) na kasama ang lahat ng mga paghahatol nito, at magwawakas sa paghahatol sa mga tao at mga demonyo sa malaking puting trono (Apoc. 20:11-15 at mga tala). Ang parousia ng Panginoon (presensiya) ay magsisimula kapag naiakyat na may masidhing kagalakan sa trono ng Diyos sa sangkalangitan ang mga mandaraig na banal bago magsimula ang matinding kapighatian ng tatlo at kalahating taon (Apoc. 12:5-6; 14:1). Pagkatapos, kasama ang mga mandaraig, ang Kanyang parousia ay darating sa himpapawid (Apoc. 10:1). Kasabay niyaon, ang lahat ng mga likas na kalamidad ng ikaanim na tatak at ng unang apat na trumpeta ay igagawad upang saktan ang sangkalangitan na kasama ang mga makalangit na bagay at ang lupa na kasama ang mga bagay rito (Apoc. 6:12-17; 8:7-12). Pagkaraan, ang matinding kapighatian ay magsisimula at tatagal ng tatlo at kalahating taon na may mga pighati at mga salot ng huling tatlong trumpeta at ng pitong mangkok (Mat. 24:21-22, 29; Apoc. 8:13-9:21; 11:14; 15:5-16:21). Yaon ay magiging isang panahon ng pagsubok sa mga naninirahan sa buong lupa (Apoc. 3:10), kabilang na ang mga Hudyo (Isa. 2:12; Zac. 14:1-2; Mal. 4:1, 5; Joel 1:15-20; 2:1, 11, 31) at ang mga nananampalataya kay Kristo na maiiwan upang dumaan sa matinding kapighatian (Apoc. 12:17). Bago matapos ang matinding kapighatian, ang mga patay na banal ay bubuhaying muli at iaakyat na may masidhing kagalakan na kasama ang karamihan ng mga nabubuhay na mananampalataya, na maaaring nakaraan na sa malaking bahagi ng kapighatian, upang salubungin ang Panginoon sa himpapawid (I Cor. 15:52; I Tes. 4:16-17; Apoc. 14:14-16). Kasunod nito, ang lahat ng mga mananampalataya ay hahatulan ng Panginoon sa Kanyang luklukan ng paghahatol sa himpapawid (II Cor. 5:10). Sa panahong ito, ang dakilang Babilonia ay pupuksain sa lupa (Apoc. 17:1-19:3). Pagkatapos, ang Panginoon ay magkakaroon ng Kanyang piging ng kasalan na kasama ang mga mandaraig na banal (Apoc. 19:7-8). Kaagad-agad, pagkatapos nito, ang Panginoon kasama ang Kanyang kasintahang babae na binubuo ng mga mandaraig na banal bilang Kanyang hukbo, ay lalaban at tatalunin ang Antikristo at ang kanyang hukbo. Lulupigin nila ang Antikristo at ang kanyang huwad na propeta at itatapon sila sa dagat-dagatang apoy (Apoc. 19:11-21). Kasabay nito, ililigtas, titipunin ng Panginoon ang mga napanumbalik na Israelita (Zac. 12:2-14; Roma 11:26; Mat. 24:31; Gawa 1:6). Kasunod nito, si Satanas ay igagapos at ihahagis sa kalaliman, ang kailalimang walang-hanggan (Apoc. 20:1-3). Pagkatapos, ang Panginoon ay darating na kasama ang Kanyang mga banal sa lupa (Zac. 14:4-5; Jud. 14; I Tes. 3:13) at hahatulan ang mga bansa (ang mga buháy – Mat. 25:31-46; Joel 3:2). Pagkatapos nito ay ang isang libong taong kaharian (Apoc. 20:4-6). Kasunod ng isang libong taon, pakakawalan si Satanas mula sa kailalimang-walang-hanggan upang sulsulan ang bahagi ng mga bansa, ang Gog at Magog sa hilaga ng silanganan ng mundo, upang sa huling pagkakataon ay magrebelde laban sa Diyos. Sila ay matatalo at masusunog, at ang mandarayang Diyablo ay itatapon sa dagat-dagatang apoy (Apoc. 20:7-10). Kasunod nito, ang sangkalangitan at ang lupa ay lubusang malilinis sa pagkakasunog (bb. 7, 10). Pagkatapos ay darating ang panghuling paghahatol sa mga tao (ang mga patay) at sa mga demonyo, at malamang din sa mga natisod na anghel (2:4 at tala 4), sa malaking puting trono (Apoc. 20:11-15). Yaon ang magiging sukdulang pagtutuos ng Diyos sa Kanyang lumang paglikha sa Kanyang pansansinukob na pamahalaan, na karagdagan sa napakaraming paghahatol at pagtutuos na ipinatupad sa loob ng kaarawan ng Panginoon upang linisin ang lumang sansinukob. Pagkatapos, isang bagong sansinukob ang magsisimula na may bagong langit at bagong lupa hanggang sa kawalang-hanggan (Apoc. 21:1), na wala nang magiging paghahatol ng pampamahalaang pagtutuos ng Diyos, sapagka’t wala nang kalikuan na mananahan doon. Samakatuwid, kung hindi bibilangin ang isang libong taon, ang kaarawan ng Panginoon ay magiging napakaikli, at ang pangunahing bahagi nito ay malamang na hindi hihigit sa pitong taon, na siyang huling linggo (pitong taon) ng pitumpung linggo sa Dan. 9:24-27. Hindi ayon sa kasulatan na ituring ang kaarawan ng Diyos at ang kaarawan ng Panginoon na dalawang magkakaibang araw; maling sabihin na ang kaarawan ng Panginoon ay nagwawakas sa isang libong taong kaharian, at ang kaarawan ng Diyos ay nagsisimula sa pagsunog ng sangkalangitan at ng lupa na sinundan ng paghahatol sa malaking puting trono. Sa katunayan, yamang ang paghahatol sa malaking puting trono ay ipatutupad pa ng Panginoong Hesus (Gawa 10:42; 17:31; II Tim. 4:1), ito rin ay magiging nasa kaarawan ng Panginoon. Hindi naghahatol ang Diyos sa sinuman; ibinigay Niya sa Panginoon ang lahat ng gawain ng paghahatol (Juan 5:22)."
+        },
+        {
+            "id": "12-4",
+            "text": "Tumutukoy sa pagdating ng kaarawan ng Diyos, na maggagawad ng kahatulan sa bawa’t bahagi ng lumang paglikha upang linisin ito. Kaugnay sa pagdating ng ganoong araw, ang sangkalangitan ay hindi na makatatagal at mananatiling katulad nang dati, kundi mapupugnaw, ang kanilang mga elemento ay matutunaw sa matinding init ng nagdiringas na apoy."
+        },
+        {
+            "id": "13-1",
+            "text": "Pagkatapos na mapugnaw ang lahat ng mga materyal na bagay, ang pangako ng Diyos bilang Kanyang walang hanggang salita ay mananatili pa rin upang ang Kanyang mga tinubos na tao ay magtiwala at maghintay, na umaasa sa isang bagong sansinukob. Hindi natin dapat ilagak ang ating pag-asa sa mga elementong nakikita, kundi sa mga pangako ng salita ng Diyos bilang ating hantungan, na siyang bagong langit at bagong lupa, na hindi pa kailanman natin nakikita."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang bagong langit at ang bagong lupa ay ang lumang sangkalangitan at lumang lupa na nabago at natransporma sa pamamagitan ng pagdiringas ng naghahatol na apoy ng Diyos, katulad ng ang bagong tao ay ang ating lumang tao na nabago at natransporma (Col. 3:9-10; II Cor. 3:18)."
+        },
+        {
+            "id": "13-3",
+            "text": "O, ginagawan ng sariling tahanan."
+        },
+        {
+            "id": "13-4",
+            "text": "Ang katuwiran ay ang pangunahing batayan ng paggagawad ng pampamahalaang kahatulan ng Diyos sa lahat ng mga nilikha sa Kanyang lumang paglikha. Kaya, sa dalawang aklat na ito hinggil sa pamahalaan ng Diyos, ang bagay na ito ay binigyang-diin nang paulit-ulit (I Ped. 2:23, 24; 3:12, 14; 4:18; II Ped. 1:1; 2:5, 7-8, 21; 3:13). Ang pangunahing bagay na nakikita natin sa mga isinulat ni Juan ay ang pag-ibig ng Diyos na inihayag sa Kanyang buhay; sa mga isinulat ni Pablo ay ang biyaya ng Diyos na ipinamahagi sa Kanyang ekonomiya; at sa mga isinulat ni Pedro ay ang katuwiran ng Diyos na pinanatili sa Kanyang pamahalaan. Ang buhay, ekonomiya, at pamahalaan ng Diyos ay ang mga batayang balangkas ng ministeryo ng tatlong apostol. Ang buhay ay nagmula sa pag-ibig, ang ekonomiya ay sa pamamagitan ng biyaya, at ang pamahalaan ay nababatay sa katuwiran. Ang katuwirang ito ay mananahan sa bagong langit at bagong lupa, bababaran nang lubusan ang buong bagong sansinukob ng Diyos upang matagumpay na panatilihin ito sa ilalim ng matuwid na pagsasaayos ng Diyos, nang sa gayon, hindi na muling kakailanganin ang anumang paghahatol."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang masumpungan ng Panginoon sa kapayapaan ay ang matagpuang matuwid, wasto, at walang suliranin sa Kanyang mga paningin sa Kanyang pagdating. Yamang ang aklat na ito ay nagbibigay-diin sa katuwiran para sa pampamahalaang pagtutuos ng Diyos (tingnan ang tala 13-4 ), i to ay nag-aatas sa mga mananampalatayang lumakad sa daan ng katuwiran (cf. 2:21) na magsikap mamuhay sa loob ng kapayapaan, upang maging handa ang kanilang sarili para sa pagdating ng Panginoon na may kasamang paghahatol."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang mga erehe, na tumalikod sa tuwid na landas at sumunod sa daan ng kalikuan (2:15), ay ang mga kapintasan at dungis, sa gitna ng mga mananampalataya (tingnan ang tala 13-3 sa kap. 2); subali’t ang mga mananampalatayang nagsisikap na mamuhay sa loob ng kapayapaan sa pamahalaan ng Diyos, ay dapat na maging walang kapintasan at walang dungis, maging katulad ng Panginoon, na Siyang Korderong walang kapintasan at walang dungis (I Ped. 1:19)."
+        },
+        {
+            "id": "15-1",
+            "text": "O, ituring. Inari ng mga manunuya ang pagpapahinuhod ng Panginoon sa mga mananampalataya bilang pagkaantala, pagkahuli, at kakuparan (b. 9). Ito ang kanilang pagpipilipit sa salita ng Panginoon na sinalita ng mga propeta sa mga Kasulatan at ng mga apostol sa kanilang mga pagtuturo (b. 16). Kaya, inaatasan ni Pedro ang mga mananampalataya na ariin ang pagpapahinuhod ng Panginoon bilang pagkakataon upang maligtas sa halip na ituring itong pagkaantala, at huwag pilipitin ang mga propesiya ng mga propeta ni ang mga pagtuturo ng mga apostol, kabilang na ang kay Pedro at gayundin ang kay Pablo, upang sila ay hindi mahatulan sa ikapapahamak, katulad ng mangyayari sa mga erehe sa pagdating ng Panginoon. Ang gawin ang ganito at ang maging masigasig sa paghahabol na matagpuan ng Panginoon sa loob ng kapayapaan nang walang kapintasan at dungis (b. 14) ay ang paghahanda ng mga mananampalataya ng kanilang mga sarili sa pagsalubong sa Panginoong darating na may kasamang kahatulan."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang pagpapahinuhod ng Panginoon na tila isang pagkaantala tungkol sa Kanyang pangako ay dapat na ariin ng mga mananampalataya na isang pinahabang pagkakataon upang sila ay makapagsisi sa ikaliligtas (b. 9 at tala 4)."
+        },
+        {
+            "id": "15-3",
+            "text": "Hindi ang kaligtasan sa unang yugto, kundi ang kaligtasan sa katapusang yugto (tingnan ang tala 5-5 sa I Ped. 1). Ipinagpapaliban ng Panginoon ang Kanyang pagdating na may layuning hindi mawaglit ng Kanyang mga hinirang ang pinakamabuting bahagi ng Kanyang ganap na pagliligtas."
+        },
+        {
+            "id": "15-4",
+            "text": "Hindi lamang si Pedro bilang isa sa mga apostol (b. 2) ang nagtuturo na dapat na ariing isang pagkakataon sa ikaliligtas ang pagpapahinuhod ng Panginoon sa halip na ariing pagkaantala, na may pagpapatunay ng mga propesiya ng mga propeta, bagkus maging si Pablo na isa rin sa mga apostol ay nagtuturo rin ng gayong bagay sa kanyang mga isinulat, batay sa salita ng mga Lumang Tipang propeta. Tinutukoy ni Pedro ang ganitong katunayan upang pagtibayin ang kanyang isinulat."
+        },
+        {
+            "id": "16-1",
+            "text": "Yamang ang pangontra ni Pedro upang magbakuna laban sa mga taliwas na pagtuturo ay ang banal na salita na ipinahayag ng mga propeta sa Lumang Tipan at ng mga apostol sa Bagong Tipan, hindi niya maaaring makaligtaan ang mga isinulat ni Apostol Pablo, na siyang pinakamalaking bahagi ng mga pagtuturo ng mga apostol para sa pagbubuo ng Bagong Tipan. Sa kanyang dalawang Sulat (isa ring bahagi ng mga pagtuturo ng mga apostol at bahagi ng kabuuan ng Bagong Tipan) paulit-ulit na tinukoy ni Pedro kapwa ang mga propeta sa Lumang Tipan at ang mga apostol sa Bagong Tipan (I Ped. 1:10-12; II Ped. 1:12-21; 3:2). Ngayon kanyang tinutukoy si Apostol Pablo sa pinakamalakas na paraan, sinasabing tinatalakay ni Pablo sa lahat ng kanyang mga isinulat ang ilang bagay na mahirap maintindihan, hinggil sa mga bagay na tinatalakay ni Pedro sa kanyang mga isinulat, at yaong ang pilipitin ang mga isinulat ni Pablo ay katumbas ng pagpipilipit sa mga Kasulatan gaya ng ginawa ng mga erehe na hahantong sa kanilang kapahamakan, yaon ay, mahahatulan ng Panginoon sa Kanyang pagbabalik. Ito ay isang malakas na babala kapwa sa mga mananampalataya at sa mga erehe."
+        },
+        {
+            "id": "16-2",
+            "text": "Sa kanyang dalawang Sulat na may walong kapitulo, tinalakay ni Pedro ang buong ekonomiya ng Diyos, mula sa kawalang hanggang lumipas, bago pa ang pagtatatag ng sanlibutan (I Ped. 1:2, 20) hanggang sa bagong langit at bagong lupa, sa kawalang hanggang hinaharap (b. 13). Ipinakikita niya ang mahahalagang bagay na may kaugnayan sa ekonomiya ng Diyos, na ipinropesiya ng mga propeta at ipinangaral ng mga apostol (I Ped. 1:10-12), mula sa apat na panig katulad ng mga sumusunod: 1) Mula sa panig ng Tres-unong Diyos: Pinili ng Diyos Ama ang isang bayan sa kawalang-hanggan ayon sa Kanyang paunang-kaalaman (I Ped. 1:1-2; 2:9) at tinawag sila tungo sa loob ng Kanyang kaluwalhatian (I Ped. 5:10; II Ped. 1:3). Si Kristo ay nakilala na ng Diyos noong una pa bago pa man ang pagtatatag ng sanlibutan, subali’t sa mga huling panahon lamang Siya nahayag (I Ped. 1:20). Tinubos Niya ng Kanyang naghahaliling kamatayan (I Ped. 2:24; 3:18) ang bayang pinili ng Diyos (I Ped. 1:18-19, 2) sa pamamagitan ng Kanyang pagkabuhay na muli sa buhay at pag-akyat sa langit sa loob ng Kanyang kapangyarihan (I Ped. 1:3; 3:21-22). Pinabanal at pinadalisay ng Espiritu, na isinugo mula sa langit, ang mga tinubos ni Kristo (I Ped. 1:2, 12, 22; 4:14). (Pinananabikang makita ng mga anghel ang mga bagay na ito – I Ped. 1:12.) Pinaglaanan sila ng dibinong kapangyarihan ng Tres-unong Diyos ng lahat ng mga bagay na nauugnay sa buhay at pagkamakadiyos (1:3-4), iniingatan sila upang matamo nila ang ganap na kaligtasan (I Ped. 1:5). Dinidisiplina rin sila ng Diyos (I Ped. 5:6) sa pamamagitan ng iba’t ibang pampamahalaang paghahatol Niya (I Ped. 1:17; 2:23; 4:5, 6, 17; II Ped. 2:3, 4, 9; 3:7), at Kanyang pasasakdalin, patatatagin, palalakasin, at palalalimin sila sa pamamagitan ng lahat ng Kanyang biyaya (I Ped. 5:10). Nagpapahinuhod ang Panginoon sa kanila upang silang lahat ay magkaroon ng pagkakataon upang makapagsisi sa ikaliligtas (bb. 9, 15). Pagkatapos, si Kristo ay magpapakita sa loob ng kaluwalhatian na dala ang ganap na kaligtasan para sa mga umiibig sa Kanya (I Ped. 1:5, 7-9, 13; 4:13; 5:4). 2) Mula sa panig ng mga mananampalataya: Ang mga mananampalataya, bilang pag-aari ng Diyos, ay hinirang ng Diyos (I Ped. 1:1-2; 2:9), tinawag ng Kanyang kaluwalhatian at kagalingan (I Ped. 2:9; 3:9; II Ped. 1:3, 10), tinubos ni Kristo (I Ped. 1:18-19), isinilang na muli ng Diyos sa pamamagitan ng Kanyang buháy na salita (I Ped. 1:3, 23), at naligtas sa pamamagitan ng pagkabuhay na muli ni Kristo (I Ped. 3:21). Sila ngayon ay iniingatan ng kapangyarihan ng Diyos (I Ped. 1:5), pinadadalisay upang mag-ibigan sa isa’t isa (I Ped. 1:22), pinalalago sa pamamagitan ng pagpapakain ng gatas ng salita (I Ped. 2:2), pinauunlad sa buhay ang mga espirituwal na kagalingan (1:5-8), at tinatransporma at itinatayong espirituwal na tahanan, isang banal na pagkasaserdote upang maglingkod sa Diyos (I Ped. 2:4-5, 9). Sila ay ang lahing hirang ng Diyos, maharlikang pagkasaserdote, bansang banal, bayang pag-aaring sarili ng Diyos upang ipahayag ang Kanyang mga kagalingan (I Ped. 2:9), dinidisiplina ng Kanyang pampamahalaang paghahatol (I Ped. 1:17; 2:19-21; 3:9, 14, 17; 4:6, 12-19; 5:6, 9), namumuhay ng isang banal na buhay sa isang mahusay na paraan at sa pagkamakadiyos upang luwalhatiin Siya (I Ped. 1:15; 2:12; 3:1-2), naghahain bilang mabubuting katiwala ng Kanyang iba’t ibang biyaya para sa Kanyang kaluwalhatian sa pamamagitan ni Kristo (I Ped. 4:10-11) (sa ilalim ng ulirang pag-aalaga ng mga matanda – I Ped. 5:1-4), at umaasa at pinadadali ang pagdating ng Panginoon (I Ped. 1:13; II Ped. 3:12) upang mayamang matustusan ng isang pagpasok patungo sa walang hanggang kaharian ng Panginoon (1:11). Sila ay umaasa rin sa pagdating ng bagong langit at bagong lupa sa kawalang-hanggan kung saan nananahan ang katuwiran ng Diyos (b. 13), at sila ay patuloy na lumalago sa biyaya at sa pagkilala sa ating Panginoon at Tagapagligtas na si Hesu-Kristo (b. 18). 3) Mula sa panig ni Satanas: Si Satanas na kalaban ng mga mananampalataya ay ang Diyablo, na gaya ng leong umuungal ay gumagala na naghahanap ng masisila niya (I Ped. 5:8). 4) Mula sa panig ng sansinukob: Ang mga natisod na anghel ay kinondena, naghihintay sa walang hanggang kahatulan (2:4); ang sinaunang di-makadiyos na sanlibutan ay pinuksa ng isang baha (2:5; 3:6); ang mga di-makadiyos na lunsod ay naging abo (2:6); ang mga erehe at bulaang guro at mga taliwas na manunuya at ang mga taong namumuhay sa loob ng kasamaan ay hahatulan sa ikapupuksa (2:1, 3, 9-10, 12; 3:3-4, 7; I Ped. 4:5); ang sangkalangitan at ang lupa ay masusunog (bb. 7, 10-11); at ang lahat ng mga namatay at ang mga demonyo ay hahatulan (I Ped. 4:5). Pagkatapos, ang bagong langit at ang bagong lupa ay darating bilang isang bagong sansinukob, kung saan mananahan ang katuwiran ng Diyos hanggang sa kawalanghanggan (b. 13). Sa kanyang mga isinulat ay nagsasalita rin si Pablo ng tungkol sa “mga bagay na ito” (maliban sa bagong langit at bagong lupa). Kaya, tinukoy ni Pedro ang mga isinulat ni Pablo upang pagtibayin ang kanyang mga isinulat, lalo na ang hinggil sa pampamahalaan at nagdidisiplinang paghahatol ng Diyos sa mga mananampalataya. Mariin at paulit-ulit na binibigyang-diin ni Pablo ang bagay na ito sa kanyang mga isinulat (I Cor. 11:30-32; Heb. 12:5-11; 2:3; 4:1; 6:8; 10:27-31, 39; 12:29; I Cor. 3:13-15; 4:4-5; II Cor. 5:10; Roma 14:10). Malamang na ito ay ang dahilan ng mataas na pagtatagubilin ni Pedro sa mga isinulat ni Pablo. Anong ganda at anong husay na pagtatagubilin ito! Bagama’t tinangkang paghiwalayin ng mga taga-Corinto sina Pedro at Pablo ayon sa kanilang mapaghating pagtatangi (I Cor. 1:11-12), minamahalaga ni Pedro si Pablo, sinasabing itinuturo ni Pablo “ang mga bagay na ito” katulad ng ginagawa niya, at yaong ang mga isinulat ni Pablo ay hindi dapat na pilipitin, kundi igalang katulad ng paggalang sa iba pang mga Kasulatan at igalang katulad ng paggalang sa Lumang Tipan. Ang ganitong pagpapahalaga ni Pedro kay Pablo ay hindi isang maliit na bagay, sapagka’t siya ay pinagwikaan ni Pablo nang mukhaan hinggil sa Bagong Tipang pananampalataya (Gal. 2:11-12). Ito ay nangangahulugang si Pedro ay matapang sa pag-amin na ang mga naunang apostol, katulad ni Juan, ni Pablo, at ng kanyang sarili, bagama’t nagkakaiba-iba sa isa’t isa ang kanilang estilo, katawagan, pagsasalita, mga aspekto ng kanilang pananaw, at paglalahad ng kanilang mga pagtuturo, ay pawang nakikibahagi namang lahat sa parehong natatanging ministeryo na siyang ministeryo ng Bagong Tipan (II Cor. 3:8-9; 4:1). Ang sentrong punto ng ganitong ministeryo ay naghahain sa mga tao ng nagpapaloob ng lahat na Kristo bilang nadaramang pahayag ng pinakadiwa ng Tres-unong Diyos, na pagkatapos na magdaan sa hakbangin ng pagiging laman, pantaong pamumuhay, pagkapako sa krus, pagkabuhay na muli, at pag-akyat sa langit, ay namahagi ng Kanyang Sarili sa pamamagitan ng pagtutubos ni Kristo at sa pamamagitan ng pagkilos ng Espiritu Santo sa Kanyang mga tinubos na tao bilang kanilang namumukod-tanging bahagi ng buhay, panustos ng buhay, at lahat-lahat, para sa pagtatayo ng ekklesia bilang Katawan ni Kristo, na sukdulang magaganap sa buong kahayagan ng Tres-unong Diyos na siyang kapuspusan ng Tres-unong Diyos, ayon sa walang hanggang layunin ng Ama."
+        },
+        {
+            "id": "16-3",
+            "text": "Ito ay nangangahulugang malamang na pinilipit, hindi lamang winalang-halaga (b. 5) ng mga manunuya (b. 3) at ng kanilang mga tagasunod ang mga Kasulatan at ang mga pagtuturo ng mga apostol."
+        },
+        {
+            "id": "16-4",
+            "text": "Tingnan ang tala 16, punto 2, sa kapitulo 2. Ayon sa ibig sabihin ng nilalalaman, ang “ikapapahamak” dito ay tumutukoy hindi sa walang hanggang kapahamakan, *(sa dagat-dagatang apoy)* kundi sa pagpaparusa ng dibinong pampamahalaang disiplina. Tingnan ang mga tala 18-2 sa I Pedro 4 at 9-5 sa kapitulong ito."
+        },
+        {
+            "id": "17-1",
+            "text": "Maging mapagbantay dahil sa kataliwasan, ang mga pagtuturo ng mga erehe, na magdadala sa inyo sa ikapapahamak sa pamamagitan ng pagpipilipit sa mga isinulat ng mga apostol o pagpipilipit sa mga Kasulatan (b. 16)."
+        },
+        {
+            "id": "17-2",
+            "text": "Sa Griyego ay katulad ng salitang “madala” na ginamit sa Gal. 2:13 hinggil kay Pedro, Bernabe, at iba pang mga mananampalatayang Hudyo."
+        },
+        {
+            "id": "17-3",
+            "text": "Tingnan ang tala 7-3 sa kapitulo 2. Ang “mga tiwali” ay tiyak na tumutukoy sa mga bulaang guro at mga manunuya (2:1; 3:3) bilang mga sinaunang erehe."
+        },
+        {
+            "id": "17-4",
+            "text": "Ito ay ang maging hindi matatag (b. 16)."
+        },
+        {
+            "id": "18-1",
+            "text": "Ito ay nangangahulugang ang isinulat ni Pedro sa kanyang dalawang Sulat ay isang bagay ukol sa buhay. Ang lumago sa biyaya ay ang lumago sa pamamagitan ng masaganang panustos ng walang hanggang buhay na inilaan ng dibinong kapangyarihan (1:3-4), at ang lumago sa pagkakilala sa Panginoon ay ang lumago sa pagkatanto kung ano si Kristo. Ito ay ang lumago sa pamamagitan ng pagtatamasa sa biyaya at pagkatanto ng katotohanan (tala 14-6 at 171 sa Juan 1)."
+        },
+        {
+            "id": "18-2",
+            "text": "Tingnan ang mga tala 14-6 sa Juan 1, 101 sa I Cor. 15, at 14-1 sa II Cor. 13."
+        },
+        {
+            "id": "18-3",
+            "text": "Ang pagkatanto sa pagkakilala sa ating Panginoon ay katumbas ng katotohanan, ang realidad ng lahat ng kung ano Siya, katulad sa Juan 1:14, 17 (tingnan ang tala 17-1 sa Juan 1). Inaatasan ni Pedro ang mga mananampalataya na lumago hindi lamang sa biyaya bagkus sa katotohanan ding ito."
+        },
+        {
+            "id": "18-4",
+            "text": "Tumutukoy sa ating Panginoon at Tagapagligtas na si Hesu-Kristo. Yamang ang gayong papuri ay isa na ibinibigay sa Diyos (Roma 11:36; 16:27), ito ay nangangahulugang ang ating Panginoon at Tagapagligtas na si Hesu-Kristo ay Diyos."
         }
     ]
 }

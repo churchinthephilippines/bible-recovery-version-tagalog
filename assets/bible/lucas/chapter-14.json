@@ -1,5 +1,5 @@
 {
-    "chapter": 14,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "binabantayan",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -20,7 +20,7 @@
             "footnotes": [
                 {
                     "word": "pamamanas",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -43,7 +43,7 @@
             "footnotes": [
                 {
                     "word": "asno",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -98,7 +98,7 @@
             "footnotes": [
                 {
                     "word": "dukha,",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -109,7 +109,7 @@
             "footnotes": [
                 {
                     "word": "pagkabuhay",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -128,7 +128,7 @@
             "footnotes": [
                 {
                     "word": "malaking",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -195,7 +195,7 @@
             "footnotes": [
                 {
                     "word": "Kung",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -206,7 +206,7 @@
             "footnotes": [
                 {
                     "word": "krus",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -217,7 +217,7 @@
             "footnotes": [
                 {
                     "word": "sapat",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -258,11 +258,11 @@
             "footnotes": [
                 {
                     "word": "Kaya,",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "asin;",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
@@ -272,6 +272,52 @@
             "text": "Ito ay hindi angkop para sa lupa ni sa tambakan ng dumi; itatapon ito sa labas.  Ang may mga pakinig upang ipakinig ay makinig.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Na may isang masamang tangka upang akusahin Siya (Marc. 3:2)."
+        },
+        {
+            "id": "2-1",
+            "text": "Isang sakit na nagiging sanhi upang mamaga ang katawan dahilan sa likidong namumuo sa mga butas at mga himaymay. Ito ay maaaring sumagisag sa di-normal na pagkilos ng panloob na buhay na nagiging sanhi ng espiritwal na kamatayan sa harapan ng Diyos."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang ilang manuskrito ay binabasang, anak."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang mga ito ang mga taong inanyayahan ng Diyos upang makamtan ang Kanyang pagliligtas (b. 21)."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang pagkabuhay na muli ng buhay (Juan 5:29; Apoc. 20:4-6), kung kailan gagantimpalaan ng Diyos ang mga banal (Apoc. 11:18) sa pagbalik ng Panginoon (1 Cor. 4:5)."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang malaking hapunang ito ay naiiba sa piging ng kasalan sa Mat. 22:2-14. Ang piging ng kasalan na yaon ay para sa gantimpala ng kaharian. Ang malaking hapunang ito ay para sa ganap na pagliligtas ng Diyos. Ang Diyos, bilang ang taong ito, ay naghanda ng Kanyang ganap na pagliligtas bilang isang malaking hapunan at isinugo ang mga unang apostol bilang Kanyang mga alipin upang anyayahan ang mga Hudyo (bb. 16-17). Ngunit dahil sa okupado sila ng kanilang kayamanan, katulad ng lupa, baka, o ng asawang babae, tinanggihan nila ang Kanyang paanyaya (bb. 18-20). Sa gayon, isinugo ng Diyos ang mga apostol upang anyayahan ang mga taong lansangan — ang mga dukha, at ang mga pingkaw, at ang mga bulag, at ang mga pilay. Dahil sa kanilang kahirapan at karalitaan, tinanggap nila ang paanyaya ng Diyos (bb. 21-22a). Ngunit ang pagliligtas ng Diyos ay mayroon pa ring lugar para sa higit na marami pang tao; kaya isinugo Niya ang Kanyang mga alipin upang yumaon pa sa mga lugar ng mga Hentil sa mga lansangan at mga daang makipot, upang pilitin ang mga Hentil na magsipasok at punuin ang puwang ng Kanyang pagliligtas (bb. 22b-23; Gawa 13:46-48; Roma 11:25)."
+        },
+        {
+            "id": "26-1",
+            "text": "Sa bb. 26-33, inihayag ng Panginoon sa mga taong sumasama sa Kanya (b. 25) ang halaga ng pagsunod sa Kanya. Ang tumanggap ng kaligtasan ay ang maligtas (13:23); ang sumunod sa Panginoon ay ang tamasahin Siya bilang pagpapala ng pagliligtas ng Diyos. Hinihiling nito sa atin na talikuran ang lahat, maging ang ating buhay, at pasanin ang ating krus (bb. 26-27, 33)."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang layunin ng krus ay hindi ang pagdusahin ang tao, kundi ang tapusin ang ating katauhan. Ang mga mananampalataya kay Kristo ay napako na sa krus (natapos na) kalakip Niya (Gal. 2:20; Roma 6:6). Pagkatapos magkaroon ng organikong pakikipag-isa sa Kanya sa pamamagitan ng pananampalataya, dapat silang manatili sa krus, panatilihin ang kanilang lumang tao sa pagtatapos ng krus (cf. Roma 6:3; Col. 2:20-21). Ito ay ang pagpasan ng sariling krus. Si Kristo ay nagpasan muna ng krus, at pagkatapos ay ipinako sa krus (Juan 19:17-18). Subalit ang mga mananampalataya Niya ay napako muna sa krus, at saka nagpasan ng krus upang sila ay manatili sa pagtatapos ng kanilang lumang tao, kaya, kanilang nararanasan at natatamasa si Kristo bilang buhay at panustos ng buhay."
+        },
+        {
+            "id": "28-1",
+            "text": "Tinutukoy ng salitang ito at ng nasa b. 31 na ang pagsunod sa Panginoon sa ating buong buhay ay humihiling na ibigay natin ang lahat ng nasa atin at ang lahat ng kaya nating gawin; kung hindi, tayo ay mabibigo, magiging asin na walang alat na itatapon sa labas ng maluwalhating kaharian tungo sa kalagayan ng kahihiyan (bb. 34-35)."
+        },
+        {
+            "id": "34-1",
+            "text": "Para sa bb. 34-35, tingnan ang mga tala sa Mat. 5:13 at Marc. 9:50."
+        },
+        {
+            "id": "34-2",
+            "text": "Ang mga mananampalataya kay Kristo ay ang asin sa lupa na ginagamit ng Diyos upang puksain at pawiin ang pagkasira ng lupa. Ang kanilang lasa ay nakasalalay sa pagtalikod nila sa mga makalupang bagay. Lalo nilang tinatalikuran ang mga bagay sa lupa, lalong tumitindi ang kanilang lasa. Mawawala ang kanilang lasa sa hindi kusang-loob na pagtalikod sa lahat ng bagay sa kapanahunan ngayon. Kung mangyayari ito, sila ay hindi magiging angkop para sa lupa, sumasagisag sa ekklesia bilang bukid ng Diyos (1 Cor. 3:9) na magreresulta sa darating na kaharian (Apoc. 11:15), ni sa tambakan ng dumi, sumasagisag sa dagat-dagatang apoy, ang maruming lugar sa sansinukob (Apoc. 21:8; 22:15). Sila ay itatapon sa labas ng kaharian ng Diyos, lalung-lalo na sa labas ng kaluwalhatian ng kaharian sa isang libong taon (tingnan ang tala 12-2 sa Mateo 8). Sila ay naligtas na mula sa walang hanggang kapahamakan, subalit hindi nila tinalikuran ang mga makalupang bagay at nawala ang kanilang pangsyon sa kaharian ng Diyos, sa gayon ay hindi naangkop sa darating na kaharian, kundi kinakailangang maisaisantabi upang madisiplina (tingnan ang tala 32-1 sa kapitulo 17)."
         }
     ]
 }

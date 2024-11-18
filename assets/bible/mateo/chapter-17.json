@@ -1,5 +1,5 @@
 {
-    "chapter": 17,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "dinadalang",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "mataas",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": []
@@ -22,7 +22,7 @@
             "footnotes": [
                 {
                     "word": "nagbagong-",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -33,7 +33,7 @@
             "footnotes": [
                 {
                     "word": "Moises",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -44,7 +44,7 @@
             "footnotes": [
                 {
                     "word": "tatlong",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -55,11 +55,11 @@
             "footnotes": [
                 {
                     "word": "Ito",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Siya!",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -82,7 +82,7 @@
             "footnotes": [
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -93,7 +93,7 @@
             "footnotes": [
                 {
                     "word": "pangitain,",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -104,7 +104,7 @@
             "footnotes": [
                 {
                     "word": "pumarito",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -115,7 +115,7 @@
             "footnotes": [
                 {
                     "word": "Tunay",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -126,7 +126,7 @@
             "footnotes": [
                 {
                     "word": "dumating",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -152,7 +152,7 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -193,7 +193,7 @@
             "footnotes": [
                 {
                     "word": "Subali’",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -204,7 +204,7 @@
             "footnotes": [
                 {
                     "word": "nagtitipun-",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": [
@@ -225,11 +225,11 @@
             "footnotes": [
                 {
                     "word": "kalahating",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "kalahating",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": [
@@ -243,11 +243,11 @@
             "footnotes": [
                 {
                     "word": "Oo.",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "inunahan",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -258,7 +258,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -269,22 +269,116 @@
             "footnotes": [
                 {
                     "word": "magtungo",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "siklo;",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "ibigay",
-                    "note": ""
+                    "id": "27-3"
                 },
                 {
                     "word": "at",
-                    "note": ""
+                    "id": "27-4"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Mula sa 13:53 hanggang 17:8, ang talâ ay naglalarawan ng pamamaraan ng pagsunod sa makalangit na Hari, mula sa pagtanggi sa Kanya hanggang sa pagpasok sa loob ng pagpapakita ng kaharian. Ang Kanyang mga tagasunod ay hindi lamang nakabahagi sa pagtanggi sa Kanya ng mga Hudyo (13:53-58), bagkus pinag-usig din at minartir ng mga pulitikong Hentil (14:1-12). Kaya, sila ay nasa ilang na kasama Niya sa kalagayan ng pagdarahop, subali’t masaganang pinangangalagaan Niya (14:13-21). Nang sila ay nasa binabagyong dagat sa ilalim ng sumasalungat na hangin, Siya ay lumakad sa ibabaw ng dagat, pinayapa Niya ang bagyo, at itinawid sila (14:22-34). Sa panahong yaon, maraming maysakit ang napagaling sa pamamagitan ng paghipo sa Kanya (14:35-36), datapuwa’t dumating ang mga mapagpaimbabaw na mananamba ng Diyos upang yamutin Siya sapagka’t ang Kanyang mga tagasunod ay lumabag sa kanilang tradisyon (15:1-20). Pagkatapos, ang Kanyang mga disipulo ay nagsisunod sa Kanya sa lupaing Hentil, kung saan ang mga Hentil na inalihan ng demonyo ay napagaling (15:21-28). Pagkatapos nito, sila ay nagsisunod sa Kanya sa dagat ng Galilea at pataas sa bundok, kung saan ang lahat ng uri ng mga taong maysakit ay napagaling at ang pangangailangan ng Kanyang mga tagasunod at ng kalipunan ay muling mayamang natustusan sa isang tigang na ilang (15:29-39). Kasunod nito, kapwa ang mga pundamentalista at mga makabago nang araw na yaon ay dumating upang tuksuhin Siya, at Kanyang tinukoy na Siya ay mamamatay upang maging isang namumukod-tanging tanda para sa kanila (16:1-4). Pagkatapos ay Kanyang binabalaan ang Kanyang mga tagasunod na mag-ingat sa lebadura ng kapwa pundamentalista at makabago (16:5-12). Pagkatapos ng lahat ng ito, Kanyang dinala ang Kanyang mga tagasunod sa hangganan ng banal na lupa, malapit sa lupaing Hentil, upang magkaroon sila ng isang pahayag ukol sa Kanya, sa ekklesia, at sa krus bilang landas para sa kanila upang makapasok sa loob ng kaharian (16:13-28). Sa katapus-tapusan, sila ay dinala Niya sa loob ng kaluwalhatian sa pagpapakita ng kaharian (bb. 1-8)."
+        },
+        {
+            "id": "1-2",
+            "text": "Yayamang ang pagbabagong-anyo ng Panginoon ay nangyari anim na araw pagkatapos ng mga pahayag tungkol kay Kristo at sa ekklesia sa kapitulo 16 (ibinigay sa mismong paanan ng Bundok Hermon), ang “mataas na bundok” dito ay tiyak na ang Bundok Hermon. Upang matanggap ang pahayag tungkol kay Kristo at sa ekklesia, tayo ay kinakailangang maging malayo mula sa kapaligiran ng relihiyon; subali’t upang makita ang pangitain ng nagbagong-anyong Kristo, kinakailangan tayong mapasa-isang mataas na bundok, higit na mataas kaysa sa makalupang kapatagan."
+        },
+        {
+            "id": "2-1",
+            "text": "Sa literal ay natransporma."
+        },
+        {
+            "id": "3-1",
+            "text": "Si Moises ay namatay at itinago ng Diyos ang kanyang katawan (Deut. 34:5-6), at si Elias ay buháy na kinuha ng Diyos patungo sa langit (2 Hari 2:11). Sinadyang gawin ng Diyos ang dalawang bagay na ito upang si Moises at si Elias ay makasama ni Kristo sa bundok ng Kanyang pagbabagong-anyo. Sila rin ay iningatan ng Diyos upang maging dalawang saksi sa matinding kapighatian (Apoc. 11:3-4). Si Moises ang kumatawan sa kautusan at si Elias sa mga propeta; at ang kautusan at mga propeta ang nilalaman ng Lumang Tipan bilang ganap na patotoo ni Kristo (Juan 5:39). Ngayon, si Moises at Elias ay nagpakita upang makipag-usap kay Kristo tungkol sa Kanyang kamatayan (Luc. 9:31) ayon sa Lumang Tipan (Luc. 24:25-27, 44; 1 Cor. 15:3)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang kakatwang panukala ni Pedro ay ang ilagay si Moises at si Elias sa parehong antas kay Kristo, na nangangahulugang gawin ang kautusan at ang mga propeta na kapantay ni Kristo. Ito ay lubusang labag sa ekonomiya ng Diyos. Sa ekonomiya ng Diyos, ang kautusan at ang mga propeta ay mga patotoo lamang kay Kristo; sila ay hindi dapat ipantay sa Kanya."
+        },
+        {
+            "id": "5-1",
+            "text": "Itong pahayag ng Ama upang bigyang-katuwiran ang Anak ay unang ibinigay pagkatapos ng pag-ahon ni Kristo mula sa bautismo, na sumasagisag sa Kanyang pagkabuhay na muli mula sa mga patay. Ang pangyayaring ito ay ang pangalawang pagkakataong ipinahayag ng Ama ang gayunding bagay, sa pagkakataong ito upang bigyang-katuwiran ang Anak sa Kanyang pagbabagong-anyo na siyang sagisag ng darating na kaharian."
+        },
+        {
+            "id": "5-2",
+            "text": "Sa ekonomiya ng Diyos, pagkaraan ng pagdating ni Kristo, dapat nating “pakinggan Siya,” hindi na ang kautusan ni ang mga propeta, yayamang ang kautusan at ang mga propeta ay naisakatuparang lahat sa loob ni Kristo at sa pamamagitan ni Kristo."
+        },
+        {
+            "id": "8-1",
+            "text": "Si Pedro ay nagpanukalang sina Moises at Elias, na siyang mga sagisag ng kautusan at ng mga propeta ay panatilihing kasama ni Kristo, subali’t inalis ng Diyos sina Moises at Elias, na walang iniwang sinuman maliban kay Hesus Mismo. Ang kautusan at ang mga propeta ay mga anino at mga propesiya, hindi ang realidad; ang realidad ay si Kristo. Ngayong si Kristo na Siyang realidad ay naririto, ang mga anino at mga propesiya ay hindi na kailangan. Walang iba maliban kay Hesus Mismo ang dapat na manatili sa Bagong Tipan. Si Hesus ay ang pangkasalukuyang Moises na namamahagi ng kautusan ng buhay tungo sa loob ng Kanyang mga mananampalataya. Si Hesus din ang pangkasalukuyang Elias na nagsasalita para sa Diyos at nagsasalita ng Diyos sa loob ng Kanyang mga mananampalataya. Ito ang Bagong Tipang ekonomiya ng Diyos."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang pangitain ng nagbagong-anyo at naluwalhating Hesus ay hindi mapagtatanto ninuman maliban sa loob ng pagkabuhay na muli ni Kristo."
+        },
+        {
+            "id": "10-1",
+            "text": "Ito ay ayon sa Mal. 4:5-6."
+        },
+        {
+            "id": "11-1",
+            "text": "Ito ay maisasakatuparan sa panahon ng matinding kapighatian, kung kailan si Elias ay magiging isa sa dalawang saksi (Apoc. 11:3-4), katulad ng pinropesiya sa Mal. 4:5-6."
+        },
+        {
+            "id": "12-1",
+            "text": "Ito ay tumutukoy kay Juan Bautista (b. 13), na dumating sa espiritu at kapangyarihan ni Elias (Luc. 1:13-17) at tinanggihan (11:18) at pinugutan ng ulo (14:3-12)."
+        },
+        {
+            "id": "15-1",
+            "text": "Gr., bubuwanin. Ibinibigay ng pagiging himatayin ang tunay na kapintasan ng karamdaman."
+        },
+        {
+            "id": "21-1",
+            "text": "Nilalaktawan halos lahat ng awtoridad ang bersikulo 21."
+        },
+        {
+            "id": "22-1",
+            "text": "Binabasang “naninirahan’’ ng ilang may awtoridad."
+        },
+        {
+            "id": "24-1",
+            "text": "Isang kabayaran ng buwis ng mga Hudyo para sa templo, na katumbas ng kalahating siklo (Exo. 30:12-16; 38:26)."
+        },
+        {
+            "id": "25-1",
+            "text": "Sa bundok ng pagbabagong-anyo, narinig ni Pedro ang tinig mula sa langit, inaatasan siyang makinig kay Kristo (17:5). Kung natatandaan Niya ang salitang yaon, malamang na itinanong niya kay Kristo kung ano ang dapat isagot sa mga nagtitipon ng buwis. Subali’t siya ang sumagot sa halip na pakinggan kung ano ang sasabihin ni Kristo."
+        },
+        {
+            "id": "25-2",
+            "text": "Si Pedro ay mapangahas na nagsalita. Kaya, ipinahinto siya ng Panginoon at itinuwid siya bago siya nagsimulang magsalita sa Kanya."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang mga anak ng hari ay laging libre mula sa pagbabayad ng kabayaran ng rentas o buwis. Ang kalahating siklo ay ibinayad ng mga tao ng Diyos para sa templo. Yamang si Kristo ay ang Anak ng Diyos, Siya ay libre sa pagbabayad niyaon. Kaya, ito ay salungat sa kasagutan ni Pedro tungkol sa bagay na ito."
+        },
+        {
+            "id": "27-1",
+            "text": "Pagkatapos itikom ang bibig ni Pedro, ang Panginoon, bilang propeta ng Bagong Tipan, ang pangkasalukuyang Elias, ay nagsabi kay Pedro na pumaroon at mamingwit ng isda upang siya ay makatagpo ng isang siklo. Ang propesiyang ito ay natupad. Gayunpaman, walang alinlangan na si Pedro ay nahirapan sa pamimingwit at paghihintay sa isang isda na may isang siklo."
+        },
+        {
+            "id": "27-2",
+            "text": "Sa wikang Ingles ay “stater.” Ang isang “stater” ay katumbas ng isang siklo."
+        },
+        {
+            "id": "27-3",
+            "text": "Pagkatapos kumbinsihin si Pedro na hindi Niya kailangang magbayad pa ng kalahating siklo, ang Panginoon bilang Bagong Tipang tagapamigay ng kautusan, ang pangkasalukuyang Moises, ay nagbigay ng utos kay Pedro na bayaran ito para sa Kanya. Sadyang ginawa ito ng Panginoon upang turuan si Pedro na sa Bagong Tipang ekonomiya ng Diyos, Siya ang namumukod-tanging Isa; maging si Moises, si Elias, si Pedro, ni sino pa man ay walang katayuang magsalita at magbigay ng utos."
+        },
+        {
+            "id": "27-4",
+            "text": "Habang iwinawasto at tinuturuan si Pedro ng Panginoon, Kanyang tinustusan ang pangangailangan ni Pedro. Laging ganito ang paraan ng Panginoon sa pakikipagtuos sa atin."
         }
     ]
 }

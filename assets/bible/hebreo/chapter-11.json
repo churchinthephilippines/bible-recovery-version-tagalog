@@ -1,5 +1,5 @@
 {
-    "chapter": 11,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,27 +7,27 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "pagsusubstansiya",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "inaasahan,",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "katibayan",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "1-5"
                 }
             ],
             "outlines": [
-                "III. Ang Pananampalataya-\nang Namumukod-tanging Daan 11:1-40",
+                "III. Ang Pananampalataya-\nang Namumukod-tanging Daan\n 11:1-40",
                 "A. Ang Kahulugan ng Pananampalataya\n b. 1"
             ]
         },
@@ -45,15 +45,15 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "sansinukob",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -64,7 +64,7 @@
             "footnotes": [
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -81,7 +81,7 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -98,7 +98,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -115,7 +115,7 @@
             "footnotes": [
                 {
                     "word": "lunsod",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -132,11 +132,11 @@
             "footnotes": [
                 {
                     "word": "bituin",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "buhangin",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -147,7 +147,7 @@
             "footnotes": [
                 {
                     "word": "manlalakbay",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -176,7 +176,7 @@
             "footnotes": [
                 {
                     "word": "subukin",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -193,7 +193,7 @@
             "footnotes": [
                 {
                     "word": "halimbawa.",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -210,7 +210,7 @@
             "footnotes": [
                 {
                     "word": "nakahilig",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -239,11 +239,11 @@
             "footnotes": [
                 {
                     "word": "pansamantalang",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "katamasahan",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -254,15 +254,15 @@
             "footnotes": [
                 {
                     "word": "Itinuturing",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "kadustaan",
-                    "note": ""
+                    "id": "26-2"
                 },
                 {
                     "word": "gantimpala.",
-                    "note": ""
+                    "id": "26-3"
                 }
             ],
             "outlines": null
@@ -273,7 +273,7 @@
             "footnotes": [
                 {
                     "word": "matatag",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -284,11 +284,11 @@
             "footnotes": [
                 {
                     "word": "pagwiwisik",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "lipulin",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": null
@@ -299,7 +299,7 @@
             "footnotes": [
                 {
                     "word": "nangalunod",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -310,7 +310,7 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -345,11 +345,11 @@
             "footnotes": [
                 {
                     "word": "kalayaan",
-                    "note": ""
+                    "id": "35-1"
                 },
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "35-2"
                 }
             ],
             "outlines": null
@@ -372,7 +372,7 @@
             "footnotes": [
                 {
                     "word": "yaon",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -389,18 +389,152 @@
             "footnotes": [
                 {
                     "word": "naghanda",
-                    "note": ""
+                    "id": "40-1"
                 },
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "40-2"
                 },
                 {
                     "word": "bukod",
-                    "note": ""
+                    "id": "40-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Pagkatapos mailahad ang isang lubusang paghahambing ng Hudaismo sa ekonomiya ng Diyos sa sampung kapitulo, ang aklat na ito ay nag-aatas sa mga mananampalatayang Hebreo, na nasa panganib ng pag-urong, na mamuhay, lumakad, at magpatuloy sa pamamagitan ng pananampalataya (10:38-39), yaon ay, hindi sa pamamagitan ng paningin (2 Cor. 5:7). Pagkaraan, sa kapitulo labing-isa ito ay nagpapatuloy upang bigyang-kahulugan kung ano ang pananampalataya sa isang makasaysayang paraan. Kapwa ang walang hanggang mana (9:15) at ang malaking gantimpala (10:35) na ipinangako ng Diyos ay ang mga bagay na inaasahan at mga bagay na hindi pa nakikita. Ang pananampalataya ang siyang pagsusubstansiya ng mga bagay na inaasahan. Kaya nga, ito ang katiyakan, ang pagtitiwala, ang pagpapatunay, ang realidad, ang esensiya, ang nagtataguyod na batayan ng mga bagay na inaasahan, ang saligang nagtataguyod sa mga bagay na inaasahan. Ang pananampalataya ay ang katibayan din ng mga bagay na hindi pa nakikita. Ito ay nagkukumbinsi sa atin sa hindi pa natin nakikita. Kaya nga, ito ang ebidensiya, ang katibayan ng mga bagay na hindi pa nakikita."
+        },
+        {
+            "id": "1-2",
+            "text": "*Gr. hupostasis , lit. suporta sa ilalim.* Ang salitang Griyego ring ito ay ginamit para sa “substansiya” sa 1:3, “katiyakan” sa 3:14, at “pagtitiwala” (na nalalaman na ito ay nakapatong sa isang tiyak na saligan) sa 2 Cor. 11:17. Ito ay maaari ring isaling pagpapatibay, realidad, esensiya (tumutukoy sa tunay na kalikasan ng mga bagay salungat sa panlabas na anyo nito), pinagsasaligan, o nagtataguyod na batayan."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang mga di-mananampalataya, sa dahilang hindi sila nagtataglay ng Kristo, ay walang pag-asa (Efe. 2:12; 1 Tes. 4:13). Subali’t tayo, ang mga mananampalatayang nasa loob ni Kristo, ay mga taong may pag-asa. Ang pagtawag na tinanggap natin mula sa Diyos ay naghahatid sa atin ng pag-asa (Efe. 1:18; 4:4). Tayo ay isinilang na muli tungo sa isang buháy na pag-asa (1 Ped. 1:3). Si Kristo, na nasa loob natin, ay ang pag-asa ng kaluwalhatian (Col. 1:27; 1 Tim. 1:1), na magreresulta sa katubusan, ang pagbabagong-anyo ng ating katawan sa kaluwalhatian (Roma 8:23-25). Ito ang pag-asa ng kaligtasan (1 Tes. 5:8), isang pinagpalang pag-asa (Tito 2:13), isang mabuting pag-asa (2 Tes. 2:16), ang pag-asa sa buhay na walang hanggan (Tito 1:2; 3:7), na siyang pag-asa ng kaluwalhatian ng Diyos’ (Roma 5:2), ang pag-asa ng ebanghelyo (Col. 1:23), ang pag-asang natataan para sa atin sa mga kalangitan (Col. 1:5). Dapat natin panatilihing palagi ang pag-asang ito (1 Juan 3:3), at ipagmapuri ito (Roma 5:2). Ang ating Diyos ay ang Diyos ng pag-asa (Roma 15:13), at sa pamamagitan ng pagpapalakas-loob ng mga Kasulatan ay mangagkaroon tayo ng pag-asa (Roma 15:4) sa Diyos sa lahat ng panahon (1 Ped. 1:21) at mangagalak sa pag-asang ito (Roma 12:12). Ang aklat na ito ay nag-aatas sa atin na ating pakaingatan ang kalakasang-loob at ang pagmamapuri sa pag-asa nang matibay hanggang sa katapusan (3:6), magpakita ng gayon ding sigasig sa ikalulubos ng katiyakan ng pag-asa hanggang sa katapusan (6:11), at manangan sa pag-asang nalalagay sa ating unahan (6:18). Ang aklat na ito ay nagsasabi rin sa atin na ang bagong tipan ay naghahatid ng isang lalong magaling na pag-asa na sa pamamagitan nito ay nagsisilapit tayo sa Diyos (7:19). Ang buhay natin ay kinakailangang maging isang buhay na punung-puno ng pag-asa, na kasabay at nananatiling kasama ng pananampalataya (1 Ped. 1:21; 1 Cor. 13:13). Dapat nating sundan si Abraham na sa kawalang-pag-asa ay nanalig sa pag-asa (Roma 4:18)."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang katibayan ng katotohanan. Ang salitang Griyego ay maaari ring isaling ebidensiya."
+        },
+        {
+            "id": "1-5",
+            "text": "Ang lahat ng bagay na inaasahan ay mga bagay na hindi pa nakikita (Roma 8:24-25). Bilang mga tao ng pag-asa hindi natin dapat ituon ang ating buhay sa mga bagay na nakikita, kundi sa mga bagay na hindi nakikita; sapagka’t ang mga bagay na nakikita ay pansamantala, datapuwa’t ang mga bagay na hindi nakikita ay walang hanggan (2 Cor. 4:18). Kaya nga, nagsisilakad tayo sa pamamagitan ng pananampalataya, hindi sa pamamagitan ng paningin (1 Cor. 5:7)."
+        },
+        {
+            "id": "3-1",
+            "text": "Mula sa b. 3, ang kapitulong ito ay naglalahad sa atin ng isang maikling kasaysayan ng pananampalataya — mula sa paglikha ng Diyos, patuloy sa lahat ng mga salinlahi ng mga piniling tao ng Diyos, hanggang sa lahat ng mga mananampalataya sa Bagong Tipan (b. 40) — upang mapatunayang ang pananampalataya ay ang namumukod-tanging landas para sa mga naghahanap sa Diyos upang matanggap ang Kanyang pangako at matahak ang Kanyang daan."
+        },
+        {
+            "id": "3-2",
+            "text": "Lit. mga kapanahunan. Tingnan ang tala 2-5 sa kapitulo 1."
+        },
+        {
+            "id": "3-3",
+            "text": "Gr. rhema ; kagyat na salita."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang lalong mabuting haing ito ay isang sagisag ni Kristo na Siyang tunay na “lalong mabubuting hain” (9:23)."
+        },
+        {
+            "id": "6-1",
+            "text": "Lit. ang Diyos ay umiiral."
+        },
+        {
+            "id": "8-1",
+            "text": "Ito ay nagbigay kay Abraham ng madalas na pagkakataon upang ensayuhin ang kanyang pananampalataya na magtiwala sa Diyos para sa Kanyang kagyat na pangunguna, ginagamit ang presensiya ng Diyos bilang kanyang mapa sa paglalakbay."
+        },
+        {
+            "id": "10-1",
+            "text": "Ito ay ang lunsod ng buháy na Diyos, ang makalangit na Herusalem (12:22), ang Herusalem na nasa itaas (Gal. 4:26), ang banal na lunsod, ang Bagong Herusalem (Apoc. 21:2; 3:12) na inihanda ng Diyos para sa Kanyang bayan (b. 16), at ang tabernakulo ng Diyos kung saan ang Diyos ay mananahan kasama ng mga tao magpasawalang-hanggan (Apoc. 21:3). Kung papaanong hinintay ng mga patriarka ang lunsod na ito, gayundin natin hinahanap ito (13:14)."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang mga bituin sa langit ay sumasagisag sa mga makalangit na inapo ni Abraham, ang mga inapo sa pananampalataya (Gal. 3:7, 29); samantalang ang buhangin sa dalampasigan ay sumasagisag sa kanyang mga panlupang inapo, ang mga inapo sa laman."
+        },
+        {
+            "id": "13-1",
+            "text": "O mga ipinatapon, mga itinapon mula sa sariling bansa. Si Abraham ang kauna-unahang Hebreo (Gen. 14:13), isang mananawid-ilog, iniwan ang Caldeo, ang sinumpang lupain kung saan sinasamba ang mga diyus-diyusan, tinawid ang baha, ang ilog ng Perath o Eufrates (Jos. 24:2-3), at dumating sa Canaan, ang mabuting lupa ng pagpapala. Gayunpaman ay hindi siya namalagi rito; kundi siya ay naglakbay sa lupang pangako bilang isang manlalakbay, samakatuwid ay isang ipinatapon, isang itinapon mula sa sariling bansa, na nagnanasa ng isang lalong magaling na bayan, yaon ay, makalangit (b. 16), naghahanap ng isang lupain na kanilang sarili (b. 14). Ito ay maaaring magpahiwatig na siya ay handang tumawid sa iba pang ilog, mula sa panlupang panig tungo sa makalangit na panig. Sina Isaac at Jacob ay sumunod sa kanya sa mga gayunding hakbang, namumuhay sa lupa bilang mga estranghero at mga manlalakbay at naghihintay sa itinayo-ng-Diyos na lunsod na may mga pundasyon (b. 10). Sa mga salita sa bb. 9-16, ito ay maaaring magpahiwatig na ang sumulat ng aklat na ito ay naglayon na makintalan ang mga mananampalatayang Hebreo ng katotohanan na sila bilang ang mga tunay na Hebreo ay dapat sumunod sa kanilang mga ninuno, ibinibilang din ang kanilang mga sarili na mga estranghero at mga manlalakbay sa ibabaw ng lupa at umaasa sa makalangit na bayan, na lalong magaling kaysa sa panlupa."
+        },
+        {
+            "id": "17-1",
+            "text": "*Gr. peirazo , isinaling pinagtutukso sa b. 37."
+        },
+        {
+            "id": "19-1",
+            "text": "Lit. talinghaga."
+        },
+        {
+            "id": "21-1",
+            "text": "Ito ay sumasagisag na ipinahayag ni Jacob na siya ay isang manlalakbay sa lupa (b. 13), at ang Diyos ang nagpastol sa kanya sa buong buhay niya (Gen. 48:15)."
+        },
+        {
+            "id": "25-1",
+            "text": "O, sa ilang sandali, panandalian, madaling lumipas, nagdaraan."
+        },
+        {
+            "id": "25-2",
+            "text": "Tumutukoy sa katamasahan sa Ehipto, yaon ay, ang katamasahan sa sanlibutang makasalanan sa mga mata ng Diyos. Ito ang katamasahan sa pagkakasala, sa isang makasalanang buhay, at pansamantala, panandalian, madaling lumipas, at nagdaraan."
+        },
+        {
+            "id": "26-1",
+            "text": "O, ibinilang na, isinaalang-alang na."
+        },
+        {
+            "id": "26-2",
+            "text": "Si Kristo, bilang ang Anghel ng Panginoon, ay palaging kasama ng mga anak ni Israel sa kanilang mga kahirapan (Exo. 3:2, 7-9; 14:19; Blg. 20:16; Isa. 63:9). Higit pa roon, itinuturing ng banal na Kasulatan si Kristo at ang mga Israelita bilang isa (Ose. 11:1; Mat. 2:15). Kaya nga, ang pagdusta sa Kanila at ang mga pagdusta ng mga yaong nandusta sa Diyos ay bumagsak din sa Kanya (Roma 15:3). Ang mga mananampalataya sa Bagong Tipan, bilang mga tagasunod Niya, ay nagdadala ng Kanyang pagkadusta (13:13) at dinudusta dahil sa Kanyang pangalan (1 Ped. 4:14). Si Moises, sa pagpili na mapagmalupitang kasama ng bayan ng Diyos (b. 25), ay nag-ari sa ganitong uri ng pagdusta, ang pagkadusta sa Kristo ng Diyos, na nakahihigit na mga kayamanan kaysa sa mga kayamanan ng Ehipto sa palasyo ng Faraon, sapagka’t siya ay tumitig sa gantimpala."
+        },
+        {
+            "id": "26-3",
+            "text": "Sapagka’t handa niyang pagdusahan ang pagkadusta ng Kristo, si Moises ay makatatanggap ng gantimpala ng kaharian. Siya ay hindi pinayagang makapasok sa kapahingahan ng mabuting lupa dahil sa kanyang pagkabigo sa Meriba (Blg. 20:12-13; Deut. 4:26-27; 32:50-52), subali’t siya ay makakasama ni Kristo sa kaharian (Mat. 16:28-17:3). Sa pagtukoy rito, tiyak na nilayon ng manunulat na palakasin ang loob ng kanyang mga mambabasang dumaranas ng pag-uusig sa kapakanan ni Kristo na sundan si Moises sa pamamagitan ng pagtuturing sa pagkadusta kay Kristo na mga nakahihigit na kayamanan kaysa sa mga bagay na nawala sa kanila, at pagtitig sa gantimpala. Tingnan ang tala 35-1 sa kapitulo 10."
+        },
+        {
+            "id": "27-1",
+            "text": "O, tapat at hindi nakikilos,"
+        },
+        {
+            "id": "28-1",
+            "text": "Lit. pagbubuhos."
+        },
+        {
+            "id": "28-2",
+            "text": "Lit. hipuin."
+        },
+        {
+            "id": "29-1",
+            "text": "Lit. nilamon."
+        },
+        {
+            "id": "30-1",
+            "text": "Walang binanggit dito tungkol sa apatnapung taon nang ang mga anak ni Israel ay nagpagala-gala sa ilang. yamang wala silang ginawa sa pamamagitan ng pananampalataya na ikinalugod ng Diyos, kundi sa halip ay pina-galit ang Diyos sa pamamagitan ng kanilang kawalang-pananampalataya nang mga taong yaon (3:16-18). Maging ang kanilang pagtawid sa ilog ng Jordan ay hindi rin itinala rito, sapagka’t ang pagtawid na yaon ay isa nang pagkaantalang sinanhi ng kanilang di-pagsampalataya. Ang pagtawid na ito ay hindi na sana kinailangan kung hindi sila nagkaroon ng di-pananalig na nag-alis sa kanila ng kakayahang makapasok sa mabuting lupa mula sa Kades-barnea (Deut. 1:19-46), sapagka’t pagkatapos nilang lisanin ang Bundok Sinai (Deut. 1:2) sa isang maikling panahon lamang ay maaari na sana silang makapasok sa mabuting lupa mula sa Kades-barnea."
+        },
+        {
+            "id": "35-1",
+            "text": "Gr. katubusan (ibinibigay nang may mga kondisyon)."
+        },
+        {
+            "id": "35-2",
+            "text": "Ang lalong mabuting pagkabuhay na muli ay hindi lamang ang unang pagkabuhay na muli (Apoc. 20:4-6). ang pagkabuhay-na-muli ng buhay (Juan 5:28-29). bagkus maging ang higit pang pagkabuhay na muli (Fil. 3:11, Gr.), ang ekstrang pagkabuhay na muli, ang pagkabuhay na muli kung saan ang mga mandaraig ng Panginoon ay makatatanggap ng gantimpala (b. 26) ng kaharian, na hinahabol ni Apostol Pablo."
+        },
+        {
+            "id": "38-1",
+            "text": "Ang mga tao-ng-pananampalatayang ito ay mga ekstra-ordinaryong tao, nasa pinakamataas na kalagayan, kung kanino ang pinasamang sanlibutan ay hindi karapat-dapat. Tangi lamang ang banal na lunsod ng Diyos, ang Bagong Herusalem, ang karapat-dapat sa kanila."
+        },
+        {
+            "id": "40-1",
+            "text": "O. nakikini-kinita, naglaan."
+        },
+        {
+            "id": "40-2",
+            "text": "Ang salitang Griyegong krietton ay nangangahulugang higit na malakas, higit na makapangyarihan., higit na marangal, at higit na dakila; kaya nga, nakahihigit. Ito ay ginamit nang labintatlong ulit sa aklat na ito: ang higit na mabuting Kristo (1:4). lalong magagaling na bagay (6:9), isang lalong magaling na pag-asa (7:19), isang lalong mabuting tipan (7:22; 8:6), lalong mabubuting pangako (8:6), lalong mabubuting hain (9:23), isang pag-aaring lalong mabuti (10:34), isang lalong magaling na bayan (b. 16), isang lalong mabuting pagkabuhay na muli (b. 35), lalong mabuting bagay (b. 40), at lalong mabuting pagsasalita (12:24). (Ang isa pang pagkakataon ay sa 7:7, kung saan ito ay isinaling “mataas”). Ang lahat ng lalong mabubuting bagay na ito ay ang katuparan at realidad ng mga bagay na tinamo ng mga banal sa Lumang Tipan sa mga uri, mga larawan, at mga anino. Ang inihanda ng Diyos noong panahong yaon ay ang mga bagay na darating sa bagong tipan patungkol sa atin, na siyang mga totoo at mga tunay na bagay, lalong mabuti, higit na malakas, higit na makapangyarihan, higit na marangal, at higit na dakila kaysa kanilang mga uri, mga larawan, at mga anino. Kinakailangan tayo ng mga banal sa Lumang Tipan, na mayroon lamang mga anino, para sa kanilang pagpapasakdal upang sila ay makabahagi sa mga tunay na bagay ng bagong tipan kasama natin. Kung gayon, bakit natin lilisanin ang mga tunay na bagay ng bagong tipan at babaling sa mga anino ng lumang tipan?"
+        },
+        {
+            "id": "40-3",
+            "text": "Kapwa ang pakikibahagi sa kaharian sa isang libong taon (Apoc. 20:4, 6) at ang pakikibahagi sa Bagong Herusalem sa kawalang-hanggan (Apoc. 21:2-3; 22:1-5) ay isang sama-samang bagay. Ang pangkahariang piging ay magiging kapwa para sa mga Lumang Tipan at Bagong Tipang mandaraig (Mat. 8:11)."
         }
     ]
 }

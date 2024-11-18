@@ -1,5 +1,5 @@
 {
-    "chapter": 6,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "buksan",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "nilalang",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -26,23 +26,23 @@
             "footnotes": [
                 {
                     "word": "puting",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "yaong",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "busog;",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "putong,",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "nagtatagumpay,",
-                    "note": ""
+                    "id": "2-5"
                 }
             ],
             "outlines": null
@@ -62,15 +62,15 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "pulang",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "mag-",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -81,11 +81,11 @@
             "footnotes": [
                 {
                     "word": "itim",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "timbangan",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": [
@@ -99,23 +99,23 @@
             "footnotes": [
                 {
                     "word": "denario",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "takal",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "denario",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "takal",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "langis",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -135,19 +135,19 @@
             "footnotes": [
                 {
                     "word": "maputlang",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "Hades",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "salot,",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "ganid",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": null
@@ -158,11 +158,11 @@
             "footnotes": [
                 {
                     "word": "ikalimang",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "ilalim",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": [
@@ -177,11 +177,11 @@
             "footnotes": [
                 {
                     "word": "sumigaw",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "malakas",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -192,11 +192,11 @@
             "footnotes": [
                 {
                     "word": "puting",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "papatayin",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -207,11 +207,11 @@
             "footnotes": [
                 {
                     "word": "ikaanim",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "lindol;",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -238,7 +238,7 @@
             "footnotes": [
                 {
                     "word": "kapitan,",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -249,7 +249,7 @@
             "footnotes": [
                 {
                     "word": "sinasabi",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -259,6 +259,124 @@
             "text": "Sapagka’t dumating na ang dakilang araw ng Kanilang kapootan, at sino ang makatatayo?",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang pagbubukas ng Kordero sa pitong tatak ay naganap pagkatapos na pagkatapos ng pag-akyat ni Kristo sa kalangitan. Sa pamamagitan ng Kanyang pagiging laman, pagkapako-sa-krus, at pagkabuhay-na-muli, si Kristo ay lubusang naging kwalipikado sa Kanyang pag-akyat-sa-langit na magbukas ng hiwaga ng ekonomiya ng Diyos, na nakapaloob sa pitong tatak."
+        },
+        {
+            "id": "1-2",
+            "text": "Sa kadahilanang ang ekonomiya ng Diyos hinggil sa bawa’t bagay na nilalang ay nakapaloob sa pitong tatak, ang apat na nilalang na buháy ay interesadong ianunsiyo ang pagbubukas ng naunang apat na tatak."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang “puti” ay sumasagisag sa malinis, dalisay, marapat, at aprubado. Ang “puting kabayo” ay isang sagisag ng pagpapahayag ng ebanghelyo, na malinis, dalisay, marapat, at aprubado sa tao at gayundin sa Diyos."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang naunang apat na tatak ay binubuo ng apat na kabayo kasama ang kanilang mga sakay gaya ng sa isang karera ng apat na kabayo. Ang lahat ng apat na sakay ay hindi mga tunay na tao kundi mga bagay na binigyang katauhan. Malinaw na ang sakay ng ikalawang kabayo, ang pulang kabayo, (b.4) ay digmaan; ang sakay ng ikatlong kabayo, ang itim na kabayo, ay taggutom (b.5); at ang sakay ng ikaapat na kabayo, ang maputlang kabayo, ay kamatayan (b.8). Ayon sa mga tunay na pangyayari sa kasaysayan, ang sakay ng unang kabayo, ang puting kabayo, ay tiyak na ang ebanghelyo, hindi si Kristo ni ang Antikristo gaya ng pagpapakahulugan ng iba. Pagkatapos na pagkatapos ng pag-akyat-sa-langit ni Kristo, ang apat na bagay na ito – ang ebanghelyo, ang digmaan, ang taggutom, at ang kamatayan – ay nagsimulang tumakbo katulad ng mga sakay sa apat na kabayo at magpapatuloy hanggang sa pagbabalik ni Kristo. Simula pa noong unang siglo, ang ebanghelyo ay lumalaganap sa buong itinagal ng lahat ng dalawampung siglong ito. Ang digmaan sa gitna ng pantaong lahi ay kasabay din nitong nagpapatuloy. Ang digmaan ay palaging nagsasanhi ng taggutom, at ang taggutom ay humahantong sa kamatayan. Lahat ng mga ito ay magpapatuloy hanggang sa wakas ng kapanahunang ito."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang busog na may kasamang pana ay para sa pakikipaglaban. Subali’t dito ay mayroon lamang isang busog na walang pana. Ito ay tumutukoy na ang pana ay pinakawalan na upang wasakin ang kaaway, at ang tagumpay ay nakamtan na para sa pagbubuo ng ebanghelyo ng kapayapaan. Ngayon ay tapos na ang labanan, at ang ebanghelyo ng kapayapaan ay idinedeklara sa isang mapayapang paraan."
+        },
+        {
+            "id": "2-4",
+            "text": "Ang putong ay isang tanda ng kaluwalhatian. Ang Ebanghelyo ay naputungan na ng kaluwalhatian ni Kristo (2 Cor. 4:4)."
+        },
+        {
+            "id": "2-5",
+            "text": "O, dumadaig at sa gayon siya ay makadaig. Sa buong itinagal ng lahat ng mga siglo, saanman ipahayag ang ebanghelyo, ito ay nagtatagumpay at dumaraig sa lahat ng uri ng pagsalungat at pagtuligsa."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang ilang manuskrito ay walang: “At nakita ko, at narito,”."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang “pula” rito ay sumasagisag sa pagdanak ng dugo. Ang “pulang kabayo” ay isang sagisag ng pagpapatuloy ng digmaan, na lubusang isang bagay ng pagdanak ng dugo."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang mga pariralang “mag-alis ng kapayapaan sa lupa,” “upang mangagpatayan ang isa’t isa,” at “binigyan siya ng isang malaking tabak,” ay pawang malinaw na tumutukoy sa digmaan."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “itim” dito, tumutukoy sa taggutom (Jer. 14:1-4), ay sumasagisag sa nangingitim na mukha ng mga taong gutom na gutom (Panag. 4:8-9; 5:9-10). Ang “itim na kabayo” ay isang sagisag ng paglaganap ng taggutom, na nagsasanhi ng pangingitim ng mukha ng tao."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang timbangan ay isang panukat na ginagamit upang timbangin ang bigat ng mahahalagang bagay. Subali’t dito, ito ay ginagamit upang timbangin ang pagkain, gaya ng binanggit sa b. 6, sa gayon ay ipinakikita ang kakauntian ng pagkain (cf. Lev. 26:26; Ezek. 4:16)."
+        },
+        {
+            "id": "6-1 Ang denario ay ang pangunahing baryang pilak ng mga Romano; at ipinagpalagay na mainam na kabayaran para sa isang araw na trabaho (cf. Mat. 20:2).",
+            "text": "6-2"
+        },
+        {
+            "id": "6-2",
+            "text": "Sa Ingles ay choenix . Isang tuyong panukat na halos ay katumbas ng isang ikaapat na bahagi ng isang galon."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang langis at ang alak ay para sa kasiyahan ng tao (Awit 104:15). Sa panahon ng taggutom ang langis at alak ay laging kulang at nagiging mahalaga. Sa panahon ng taggutom, ang langis at ang alak ay kailangang ingatan at hindi pinsalain o aksayahin."
+        },
+        {
+            "id": "8-1",
+            "text": "O, “maputlang berde,” sumasagisag sa kulay ng mukha ng mga taong tinamaan ng peste. Ang “maputlang kabayo” ay isang sagisag ng pagpatay ng kamatayan, nagsasanhi ng isang maputlang anyo."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang “Hades” ay ang lugar sa ilalim ng lupa na siyang kinaroroonan ng mga kaluluwa ng mga namatay na di-ligtas bago sila buhaying muli para sa paghahatol na isasagawa sa malaking tronong puti (20:11-15). Pagkatapos ng paghahatol na ito ang mga di-ligtas ay ihahagis sa dagat-dagatang apoy magpasawalang-hanggan. Ang Hades ay maaaring ihalintulad sa isang pansamantalang kulungan, at ang dagat-dagatang apoy sa isang permanenteng bilangguan. Dito ay sinusundan ng “Hades” ang “Kamatayan” upang tanggapin yaong mga pinapatay ng Kamatayan."
+        },
+        {
+            "id": "8-3",
+            "text": "O, kamatayan."
+        },
+        {
+            "id": "8-4",
+            "text": "Ang mamatay sa pamamagitan ng mga ganid na hayop ay kahatulan ng Diyos – 2 Hari 2:24; 17:25; Blg. 21:6."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang pitong tatak ay unang-unang hinati sa apat at tatlo, at sa pangalawa ay sa anim at isa. Ang bilang na apat ay sumasagisag sa mga nilalang, gaya ng sinagisag ng apat na nilalang na buháy, at ang bilang na anim ay sumasagisag sa paglikha, yamang ang paglikha ay natapos sa anim na araw. Ang bilang na tatlo ay sumasagisag sa Tres-unong Diyos, at ang bilang na isa ay sa namumukod- tanging Diyos. Kaya, apat dagdagan ng tatlo at gayundin ang anim dagdagan ng isa ay tumutukoy na ang pitong tatak, sa pamamagitan ng paghahatol ng Diyos, ay nagdadala sa paglikha ng Diyos kasama ang lahat ng mga nilalang tungo sa Diyos. Inilalahad ng ikalimang tatak ang pagmamartir sa mga Kristiyano mula sa unang siglo hanggang sa panahon na malapit nang magwakas ang kapanahunang ito. (Malamang na ibinilang nito ang pagmamartir sa mga banal ng lumang tipan – Mat. 23:34-36). Habang ang ebanghelyo ay ipinahahayag, gaya ng tinukoy ng unang tatak, palaging may pangyayaring pagmamartir sa matatapat na banal."
+        },
+        {
+            "id": "9-2",
+            "text": "Sa paglalarawan, ang “dambana” ay nasa labas-na-looban ng tabernakulo at ng templo, at ang labas-na-looban ay palaging sumasagisag sa lupa. Kaya, ang “sa ilalim ng dambana” ay tumutukoy sa ilalim ng lupa, na siyang kinaroroonan ng mga kaluluwa ng mga minartir na banal. Ito ang paraiso na pinuntahan ng Panginoong Hesus pagkatapos ng Kanyang pagkamatay (Luc. 23:43). Ito ay nasa pusod ng lupa (Mat. 12:40) at isang seksiyon ng Hades (Gawa 2:27), ang komportableng seksiyon, na siyang kinaroroonan ni Abraham (Luc. 16:22-26)."
+        },
+        {
+            "id": "10-1",
+            "text": "Ayon sa salitang, “na mangagpahinga pa ng kaunting panahon hanggang sa makumpleto ang bilang,” ang sigaw ng mga minartir na banal ay magaganap kapag malapit nang magtapos ang kapanahunang ito."
+        },
+        {
+            "id": "10-2",
+            "text": "Lit. malaki."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang “puting balabal” dito ay sumasagisag na ang kanilang pagkamartir ay inaprubahan ng Diyos."
+        },
+        {
+            "id": "11-2",
+            "text": "Ito ang magiging pagmamartir sa panahon ng matinding kapighatian (20:4)."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang ikaanim na tatak ay ang pasimula ng mga sobrenatural na kalamidad, ang tugon ng Diyos sa mga banal na minartir sa panahon ng ikalimang tatak, at ang babala rin sa mga taong nananahan sa lupa. Ayon sa Joel 2:30-31, walang gaanong lubhang pagkakaiba sa panahon sa pagitan “ng ikaanim na tatak” at ng naunang limang trumpeta (9:1-11). Ang Joel 2:30-31, unang-una ay may “dugo” ng una at ng ikalawang mga trumpeta, “apoy” ng una, ikalawa, at ng ikatlong mga trumpeta (8:7-10), at “usok” ng ikalimang trumpeta (9:1-3), at pagkaraan ay may “araw” at “buwan” ng ikaanim na tatak. Ang 9:4 na ikinumpara sa 7:3 ay tumutukoy na ang ikalimang trumpeta ay lubhang malapit sa ikaanim na tatak."
+        },
+        {
+            "id": "12-2",
+            "text": "Magkakaroon ng dalawang kalamidad sa mga pagyuyugyog at mga pagbabago ng lupa at ng mga bagay sa langit. Ang una ay mangyayari bago ang araw ng Panginoon, bago ang matinding kapighatian (Joel 2:30-31) at ang ikalawa ay mangyayari pagkatapos ng matinding kapighatian (Joel 3:11-16; Mat. 24:29-30; Luc. 21:25-26). Anumang tinalakay sa ikaanim na tatak ay ang unang kalamidad, na hindi dapat ituring na isa lamang babala bagkus ay ang pagpasok ng darating na matinding kapighatian."
+        },
+        {
+            "id": "15-1",
+            "text": "Lit. kapitan ng 1,000 katao."
+        },
+        {
+            "id": "16-1",
+            "text": "“Sinasabi nila” ito ayon sa damdamin ng kanilang budhi, kinatatakutan ang pagdating ng kahatulan ng Diyos. Hindi ito ang proklamasyon ng Diyos hinggil sa pagdating ng Kanyang kahatulan."
         }
     ]
 }

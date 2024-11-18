@@ -1,5 +1,5 @@
 {
-    "chapter": 20,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Macedonia.",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -26,11 +26,11 @@
             "footnotes": [
                 {
                     "word": "tatlong",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "ipinasiya",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -41,7 +41,7 @@
             "footnotes": [
                 {
                     "word": "Gayo",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -64,11 +64,11 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "kami",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -91,7 +91,7 @@
             "footnotes": [
                 {
                     "word": "buhay.",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -102,7 +102,7 @@
             "footnotes": [
                 {
                     "word": "makakain,",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -140,7 +140,7 @@
             "footnotes": [
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -175,11 +175,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "Hesus.",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -190,15 +190,15 @@
             "footnotes": [
                 {
                     "word": "natatali",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "doon,",
-                    "note": ""
+                    "id": "22-3"
                 }
             ],
             "outlines": null
@@ -209,7 +209,7 @@
             "footnotes": [
                 {
                     "word": "Maliban",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -220,15 +220,15 @@
             "footnotes": [
                 {
                     "word": "itinuturing",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "takbuhin",
-                    "note": ""
+                    "id": "24-3"
                 }
             ],
             "outlines": null
@@ -239,11 +239,11 @@
             "footnotes": [
                 {
                     "word": "kaharian,",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -254,11 +254,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "ako",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -275,23 +275,23 @@
             "footnotes": [
                 {
                     "word": "kawan,",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "28-2"
                 },
                 {
                     "word": "episkopo",
-                    "note": ""
+                    "id": "28-3"
                 },
                 {
                     "word": "magpastol",
-                    "note": ""
+                    "id": "28-4"
                 },
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "28-5"
                 }
             ],
             "outlines": null
@@ -302,7 +302,7 @@
             "footnotes": [
                 {
                     "word": "mangagpapatawad",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -313,7 +313,7 @@
             "footnotes": [
                 {
                     "word": "akitin",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -330,19 +330,19 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "biyaya,",
-                    "note": ""
+                    "id": "32-2"
                 },
                 {
                     "word": "mana",
-                    "note": ""
+                    "id": "32-3"
                 },
                 {
                     "word": "pinapaging-",
-                    "note": ""
+                    "id": "32-4"
                 }
             ],
             "outlines": null
@@ -359,7 +359,7 @@
             "footnotes": [
                 {
                     "word": "kamay",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -370,15 +370,15 @@
             "footnotes": [
                 {
                     "word": "Ipinakita",
-                    "note": ""
+                    "id": "35-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "35-2"
                 },
                 {
                     "word": "Lalo",
-                    "note": ""
+                    "id": "35-3"
                 }
             ],
             "outlines": null
@@ -400,6 +400,156 @@
             "text": "Na ikinahahapis nang lalo sa lahat ang salitang sinabi niya, na hindi na nila makikita pang muli ang kanyang mukha.  At kanilang inihatid siya sa daong.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Dito isinulat ni Pablo ang kanyang pangalawang Sulat para sa ekklesia sa Corinto (2 Cor. 2:13 at tala 2; 7:5-6; 8:1; 9:2, 4)."
+        },
+        {
+            "id": "3-1",
+            "text": "Sa panahong ito sa Corinto isinulat ng apostol ang Sulat para sa mga banal sa Roma (Roma 15:22-32; cf. Gawa 19:21; 20:1-3; 1 Cor. 16:3-7)."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang orihinal na layon ni Pablo ay sa Siria magdaan patungong Herusalem mula sa Acaya sa Grecia (19:21; 1 Cor. 16:3-7). Dahil sa pakana ng mga Hudyo laban sa kanya, binago niya ang kanyang ruta pahilaga tungo sa Macedonia. Mula roon siya ay bumalik sa Herusalem. Alam niya na ipapahamak siya ng mga Hudyo at magdurusa siya (b. 19). Dahil dito, namanhik siya sa mga banal sa Roma na manalangin para sa kanya tungkol sa kanyang pagbabalik sa Herusalem (Roma 15:25-26, 30-31). Ito rin ang maaaring naging dahilan kung bakit siya ay natali sa kanyang espiritu upang magtungo sa Herusalem (b. 22). Sa kahuli-hulihan, matapos siyang makabalik sa Herusalem, siya ay sinunggaban ng mga Hudyo (21:27-30), na nagnanasang patayin siya (21:31; 23:12-15)."
+        },
+        {
+            "id": "4-1",
+            "text": "Tingnan ang tala 1-2 sa 3 Juan."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang Araw ng Panginoon (Apoc. 1:10). Si Pablo ay nanatili sa Troas ng pitong araw (b. 6), subali’t sa unang araw lamang ng sanlinggo sila nagtipun-tipon upang magpira-piraso ng tinapay sa pag-alaala sa Panginoon. Tinutukoy na sa panahong yaon isinaalang-alang ng apostol at ng ekklesia ang unang araw ng sanlinggo bilang araw ng pagtitipun-tipon para sa Panginoon."
+        },
+        {
+            "id": "7-2",
+            "text": "Kasama ang manunulat na si Lucas."
+        },
+        {
+            "id": "10-1",
+            "text": "O, kaluluwa."
+        },
+        {
+            "id": "11-1",
+            "text": "O, makatikim."
+        },
+        {
+            "id": "16-1",
+            "text": "Maaaring para makatagpo ang mga tao mula sa iba’t ibang bansa na mangagsisiparoon sa Herusalem sa araw na ito (cf. 2:1, 5)."
+        },
+        {
+            "id": "21-1",
+            "text": "Lit. tungo sa loob ng, parehong salita sa “tungo sa” sa bersikulong ito."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, Kristo."
+        },
+        {
+            "id": "22-1",
+            "text": "Tingnan ang tala 32."
+        },
+        {
+            "id": "22-2",
+            "text": "Ang naisilang na muling espiritu ni Pablo, na kung saan siya ay naglingkod sa Diyos (tingnan ang tala 16-1 sa kapitulo 17). Sa kanyang espiritu, isang espiritung nakaugnay sa Panginoon na Espiritu (1 Cor. 6:17), naramdaman agad ni Pablo na may mangyayari sa kanya sa Herusalem, at ito ay pinatotohanan ng Espiritu Santo sa kanya (b. 23)."
+        },
+        {
+            "id": "22-3",
+            "text": "Lit. sa loob niyaon."
+        },
+        {
+            "id": "23-1",
+            "text": "Hindi alam ni Pablo kung ano ang kanyang matatagpuan sa Herusalem (b. 22), subali’t isang bagay ang alam niya, na ang Espiritu Santo ay tapat na nagpatotoo sa kanya na ang mga tanikala at ang mga kapighatian ay nagsisipaghintay sa kanya. Ang patotoo ng Espiritu Santo ay isa lamang propesiya, isang hula, at hindi isang pag-aatas. Kaya, hindi niya dapat ituring ito bilang isang utos kundi bilang isang babala. Tingnan ang mga tala 4-1 at 11-1 sa kapitulo 21."
+        },
+        {
+            "id": "24-1",
+            "text": "Nagpapahiwatig na naramdaman ni Pablo na siya ay mamamartir."
+        },
+        {
+            "id": "24-2",
+            "text": "O, kaluluwa."
+        },
+        {
+            "id": "24-3",
+            "text": "*Tingnan ang tala 25-1 sa kapitulo 13."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang kaharian ng Diyos. Tingnan ang tala 3-4 sa kapitulo 1."
+        },
+        {
+            "id": "25-2",
+            "text": "Tumutukoy na bago nangyari ang lahat, natanto ni Pablo na siya ay mamamartir."
+        },
+        {
+            "id": "26-1",
+            "text": "Lit. sa araw ng ngayon. Isang mapuwersang pananalita."
+        },
+        {
+            "id": "26-2",
+            "text": "Ibig sabihin, sinuman sa inyo ang mamatay, ang kasalanan ay hindi sa akin."
+        },
+        {
+            "id": "28-1",
+            "text": "Tingnan ang tala 2-2 sa I Pedro 5."
+        },
+        {
+            "id": "28-2",
+            "text": "Ang mga apostol ang siyang nagtalaga ng mga matanda sa bawa’t ekklesia (14:23). Nguni’t dito si Pablo, ang nangunguna, na siyang gumanap ng pagtatalaga, ay nagsasabi na ang Espiritu Santo ang gumawa nito, tumutukoy na ang Espiritu Santo ay nakiisa sa mga apostol sa kanilang pagtatalaga ng mga matanda, at yaong ginawa ito ng mga apostol ayon sa pangunguna ng Espiritu Santo."
+        },
+        {
+            "id": "28-3",
+            "text": "Ang mga matanda ng ekklesia sa bersikulo 17, pinatutunayan na ang mga episkopo at mga matanda ay mga magkasing-kahulugang katawagan na tumutukoy sa mga tao ring yaon. Ang gawing obispo ng isang relihiyon ang isang episkopo upang mamuno sa mga matanda ng iba’t ibang lokalidad sa rehiyong yaon ay malaking kamalian. Ito ang ginawa ni Ignacio. Ang kanyang maling pagtuturo ay nagbigay ng batayan upang magkaroon ng ranggo at nagdala ng herarkiya (tingnan ang tala 2-1 sa 1 Tim. 3 at *ang tala 1-3 sa Fil. 1)."
+        },
+        {
+            "id": "28-4",
+            "text": "Ang pangunahing responsabilidad ng mga matanda bilang mga episkopo ay hindi ang mamuno kundi ang magpastol, magkaroon ng nagpapaloob-ng-lahat na maingat na pag-aalaga sa kawan, ang ekklesia ng Diyos (tingnan ang mga tala 2-1 at 3-1 sa 1 Ped. 5)."
+        },
+        {
+            "id": "28-5",
+            "text": "Tinutukoy ang mahalagang pag-ibig ng Diyos para sa ekklesia at ang kahalagahan, ang humihigit na halaga, ng ekklesia sa mga mata ng Diyos. Dito ay hindi binanggit ng apostol ang maka-Diyos na buhay at kalikasan ng ekklesia katulad sa Efe. 5:23-32, kundi ang halaga ng ekklesia bilang isang kayamanan sa Diyos, isang kayamanang Kanyang nakamit sa pamamagitan ng Kanyang Sariling mahalagang dugo. Inaasahan ni Pablo na ang mga matanda bilang mga episkopo ay magbibigay-halaga nang may pagmamahal sa ekklesia gaya ng ginawa ng Diyos. Kapwa ang Espiritu Santo at ang dugo ng Diyos ay pawang mga dibinong panustos para sa ekklesia na Kanyang binibigyang-halaga. Ang Espiritu Santo ay tumutukoy sa Diyos Mismo at ang Kanyang Sariling dugo ay tumutukoy sa gawain ng Diyos. Ang ekklesia ay binili ng nagtutubos na gawain ng Diyos; ngayon ang Diyos Mismo na siyang nagpapaloob-ng-lahat at nagbibigay-buhay na Espiritu (1 Cor. 15:45), ang nag-aalaga sa ekklesia sa pamamagitan ng mga episkopo. Ang sariling dugo ng Diyos ay ang dugo ni Hesu-Kristo. Ito ay nagpapahiwatig din na ang Panginoong Hesus ay ang Diyos."
+        },
+        {
+            "id": "29-1",
+            "text": "Hindi binibigyang-pansin ng apostol ang kanyang sariling buhay, datapuwa’t siya ay lubhang nagmamalasakit sa kinabukasan ng ekklesia, na isang kayamanan sa kanya at gayundin sa Diyos. Ang “hindi nangagpapatawad sa kawan” ay nangangahulugang, walang patawad na sisilain ang kawan."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang mga lobo sa gitna ng mga mananampalataya sa ekklesia ay laging ginagamit ng Diyablong namumuhi sa ekklesia, upang akitin ang tupa para magtatag ng ibang “kawan.”"
+        },
+        {
+            "id": "32-1",
+            "text": "Ang ilang manuskrito ay binabasang, Panginoon."
+        },
+        {
+            "id": "32-2",
+            "text": "Tingnan ang tala 23-1 sa kap. 11."
+        },
+        {
+            "id": "32-3",
+            "text": "*Sa orihinal na lengguwahe ay tumutukoy na makabahagi sa legal na mana, cf. 18-6 sa kapitulo 26."
+        },
+        {
+            "id": "32-4",
+            "text": "Ang makibahagi sa mana ng Diyos ay nangangailangan na tayo ay mapabanal, at ang mapabanal ay nangangailangan ng salita ng biyaya ng Diyos (Juan 17:17 at tala 1)."
+        },
+        {
+            "id": "34-1",
+            "text": "Gumagawa ng mga tolda (18:3)."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang pandiwa ay nangangahulugang ipakita sa pamamagitan ng halimbawa."
+        },
+        {
+            "id": "35-2",
+            "text": "O, sa may sakit, tumutukoy sa mga mahihina sa pisikal na katawan (1 Cor. 11:30), sa gayon ay tumutukoy sa mga taong dukha."
+        },
+        {
+            "id": "35-3",
+            "text": "Ang salitang ito ay hindi nakatala sa mga Ebanghelyo; ito ay maaaring natanggap sa pamamagitan ng pasalitang komunikasyon."
         }
     ]
 }

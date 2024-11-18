@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "bundok;",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -33,19 +33,19 @@
             "footnotes": [
                 {
                     "word": "Pinagpala",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "espiritu,",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": null
@@ -56,11 +56,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "aaliwin.",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -71,11 +71,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "mamanahin",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -86,11 +86,11 @@
             "footnotes": [
                 {
                     "word": "katuwiran,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "bubusugin.",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -101,7 +101,7 @@
             "footnotes": [
                 {
                     "word": "",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -112,11 +112,11 @@
             "footnotes": [
                 {
                     "word": "dalisay",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "makikita",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -127,11 +127,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -142,11 +142,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "kanila",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -157,11 +157,11 @@
             "footnotes": [
                 {
                     "word": "nang-",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -172,7 +172,7 @@
             "footnotes": [
                 {
                     "word": "gantimpala",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -183,23 +183,23 @@
             "footnotes": [
                 {
                     "word": "Kayo",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "asin",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "mawalan",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "itapon",
-                    "note": ""
+                    "id": "13-4"
                 },
                 {
                     "word": "yurakan",
-                    "note": ""
+                    "id": "13-5"
                 }
             ],
             "outlines": [
@@ -213,11 +213,11 @@
             "footnotes": [
                 {
                     "word": "ilaw",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "lunsod",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -228,11 +228,11 @@
             "footnotes": [
                 {
                     "word": "modios,",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "patungan-",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -243,15 +243,15 @@
             "footnotes": [
                 {
                     "word": "mabubuting",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "luwalhatiin",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "inyong",
-                    "note": ""
+                    "id": "16-3"
                 }
             ],
             "outlines": null
@@ -262,7 +262,7 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": [
@@ -276,15 +276,15 @@
             "footnotes": [
                 {
                     "word": "langit",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "tuldik",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "kudlit",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -295,7 +295,7 @@
             "footnotes": [
                 {
                     "word": "mga utos",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -306,19 +306,19 @@
             "footnotes": [
                 {
                     "word": "katuwiran",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "katuwiran",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "20-3"
                 },
                 {
                     "word": "makapapasok",
-                    "note": ""
+                    "id": "20-4"
                 }
             ],
             "outlines": null
@@ -335,19 +335,19 @@
             "footnotes": [
                 {
                     "word": "sinasabi",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "mapoot",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "kapatid",
-                    "note": ""
+                    "id": "22-3"
                 },
                 {
                     "word": "kahatulan;",
-                    "note": ""
+                    "id": "22-4"
                 }
             ],
             "outlines": null
@@ -358,15 +358,15 @@
             "footnotes": [
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "dambana",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "anumang",
-                    "note": ""
+                    "id": "23-3"
                 }
             ],
             "outlines": null
@@ -377,7 +377,7 @@
             "footnotes": [
                 {
                     "word": "makipagkasundo",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -388,19 +388,19 @@
             "footnotes": [
                 {
                     "word": "kaagad",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "kaalit,",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "25-3"
                 },
                 {
                     "word": "ibigay",
-                    "note": ""
+                    "id": "25-4"
                 }
             ],
             "outlines": null
@@ -411,11 +411,11 @@
             "footnotes": [
                 {
                     "word": "makalalabas",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "kodrantes.",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -432,7 +432,7 @@
             "footnotes": [
                 {
                     "word": "puso.",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -443,11 +443,11 @@
             "footnotes": [
                 {
                     "word": "dukitin",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "Gehenna.",
-                    "note": ""
+                    "id": "29-2"
                 }
             ],
             "outlines": null
@@ -464,7 +464,7 @@
             "footnotes": [
                 {
                     "word": "pahihiwalayin",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -475,11 +475,11 @@
             "footnotes": [
                 {
                     "word": "bawa’t",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "pakikiapid,",
-                    "note": ""
+                    "id": "32-2"
                 }
             ],
             "outlines": null
@@ -490,11 +490,11 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "tutupdin",
-                    "note": ""
+                    "id": "33-2"
                 }
             ],
             "outlines": null
@@ -505,7 +505,7 @@
             "footnotes": [
                 {
                     "word": "langit,",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -528,11 +528,11 @@
             "footnotes": [
                 {
                     "word": "Oo,",
-                    "note": ""
+                    "id": "37-1"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "37-2"
                 }
             ],
             "outlines": null
@@ -549,7 +549,7 @@
             "footnotes": [
                 {
                     "word": "ibaling",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -560,7 +560,7 @@
             "footnotes": [
                 {
                     "word": "tunika,",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -571,7 +571,7 @@
             "footnotes": [
                 {
                     "word": "milya,",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -582,7 +582,7 @@
             "footnotes": [
                 {
                     "word": "magbigay",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -605,11 +605,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "45-1"
                 },
                 {
                     "word": "pagpapaulan",
-                    "note": ""
+                    "id": "45-2"
                 }
             ],
             "outlines": null
@@ -632,10 +632,352 @@
             "footnotes": [
                 {
                     "word": "magpakasakdal,",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tinawag ng bagong Hari ang Kanyang mga tagasunod sa tabi ng dagat, subalit Siya ay “umakyat sa bundok” upang ibigay sa kanila ang saligang-batas ng kaharian ng mga kalangitan. Ito ay nagpapakita na kailangan tayong umakyat sa higit na mataas na lugar kasama Siya para sa pagtanto ng kaharian ng mga kalangitan."
+        },
+        {
+            "id": "1-2",
+            "text": "Nang ang bagong Hari ay umupo sa bundok, ang Kanyang “mga disipulo,” hindi ang “maraming kalipunan,” ang lumapit sa Kanya upang maging Kanyang tagapakinig. Sa katapus-tapusan, hindi lamang ang mga nananampalatayang Hudyo ang naging Kanyang mga disipulo, bagkus maging ang mga nadisipulong bansa (ang mga Hentil, 28:19). Nang kalaunan ang mga disipulo ay tinawag na mga Kristiyano (Gawa 11:26). Kaya nga, ang salita na sinalita ng bagong Hari sa bundok sa mga kapitulo 5, 6, at 7 hinggil sa saligang-batas ng kaharian ng mga kalangitan ay sinalita sa mga mananampalataya ng Bagong Tipan, hindi sa mga Hudyo ng Lumang Tipan."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang “pinagpala” sa orihinal na lengguwahe ay may kahulugang maligaya. Kaya ang pinagpala ay maaari ring isaling mapalad at maligaya. Gayundin sa mga sunusunod na bersikulo. Ang salita na sinalita ng bagong Hari bilang ang saligang-batas ng kaharian ng mga kalangitan ay isang pahayag ng espiritwal na pamumuhay at mga makalangit na prinsipyo ng kaharian ng mga kalangitan. Ito ay binubuo ng pitong bahagi. Ang unang bahagi, 5:3-12, ay naglalarawan ng kalikasan ng mga tao ng kaharian ng mga kalangitan sa ilalim ng siyam na pagpapala. Sila ang mga taong dukha sa espiritu, nagdadalamhati sa kasalukuyang situwasyon, maaamo sa pagsasalungat, nagugutom at nauuhaw sa katuwiran, maawain sa iba, dalisay sa puso, mapagpayapa, pinag-uusig dahil sa katuwiran, inaalimura, at pinagwiwikaan ng masama dahil sa Panginoon."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang maging “dukha sa espiritu” ay hindi lamang maging mapagpakumbaba, bagkus maging nabasyuhan sa ating espiritu, sa kailaliman ng ating katauhan, hindi humahawak sa mga lumang bagay ng lumang pamamahagi, bagkus ay naalisan ng mga ito upang matanggap ang mga bagong bagay, ang mga bagay ng kaharian ng mga kalangitan."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang “espiritu” rito ay hindi tumutukoy sa Espiritu ng Diyos, kundi sa ating pantaong espiritu, ang pinakamalalim na bahagi ng ating katauhan, ang sangkap upang ating makaugnay ang Diyos at matanto ang mga espiritwal na bagay. Tayo ay kailangang maging dukha, nabasyuhan, naalisan, sa bahaging ito ng ating katauhan upang ating matanto at maangkin ang kaharian ng mga kalangitan. Ito ay nagpapahiwatig na ang kaharian ng mga kalangitan ay isang espiritwal na bagay, hindi isang materyal na bagay."
+        },
+        {
+            "id": "3-4",
+            "text": "“Ang kaharian ng mga kalangitan” ay isang natatanging katawagan na ginamit ni Mateo, ipinakikita na ang kaharian ng mga kalangitan ay naiiba sa kaharian ng Diyos. (Tingnan ang tsart sa pahina 28-29) Ang katagang ginamit sa iba pang tatlong Ebanghelyo ay ang “kaharian ng Diyos” na tumutukoy sa paghahari ng Diyos sa pangkalahatang paraan, mula sa kawalang-hanggang lumipas tungo sa kawalang-hanggang hinaharap. Sinasaklaw nito ang kawalang-hanggan na walang simula, ang mga hinirang na Patriarka (napapaloob ang paraiso ni Adam), ang bansang Israel sa Lumang Tipan, ang ekklesia sa Bagong Tipan, ang darating na isang libong taong kaharian (kasama ang pagpapakita ng kaharian ng mga kalangitan na siyang panlangit na bahagi at ang Mesiyanikong kaharian na siyang panlupang bahagi), at ang bagong langit at bagong lupa kasama ang Bagong Herusalem na walang katapusan magpasawalang-hanggan. Ang kaharian ng mga kalangitan ay isang natatanging bahagi na nasa loob ng kaharian ng Diyos, binubuo lamang ng ekklesia sa ngayon at ng makalangit na bahagi ng darating na isang libong taong kaharian. Kaya nga, ang kaharian ng mga kalangitan, na isang bahagi ng kaharian ng Diyos, sa iba pang tatlong Ebanghelyo sa Bagong Tipan, ay tinawag ding kaharian ng Diyos. Habang ang kaharian ng Diyos ay umiiral na sa bansang Israel sa isang pangkalahatang paraan sa Lumang Tipan (21:43), ang kaharian ng mga kalangitan ay hindi pa dumarating sa isang natatanging paraan, kundi lumapit lamang nang dumating si Juan Bautista (3:1-2; 11:11-12). May tatlong panig, ayon kay Mateo, hinggil sa kaharian ng mga kalangitan: ang realidad, ang anyo, at ang pagpapakita. Ang realidad ng kaharian ng mga kalangitan ay ang mga panloob na nilalaman ng kaharian ng mga kalangitan sa makalangit at espiritwal na kalikasan nito, katulad ng inihayag ng bagong Hari sa bundok sa mga kapitulo 5, 6, at 7. Ang anyo ng kaharian ng mga kalangitan ay ang panlabas na katayuan ng kaharian ng mga kalangitan sa pangalan, katulad ng pinahayag ng Hari sa tabing-dagat sa kapitulo 13. Ang pagpapakita ng kaharian ng mga kalangitan ay ang praktikal na pagdating ng kaharian ng mga kalangitan sa kapangyarihan, katulad ng ipinakita ng Hari sa Bundok ng mga Olivo sa mga kapitulo 24 at 25. Kapwa ang realidad at anyo ng kaharian ng mga kalangitan ay nasa ekklesia ngayon. Kapwa ang realidad ng kaharian ng mga kalangitan at ang anyo ng kaharian ng mga kalangitan ay nasa buhay-ekklesia (Roma 14:17), samantalang ang anyo ng kaharian ng mga kalangitan, ay nasa tinatawag na sangkakristiyanuhan. Ang pagpapakita ng kaharian ng mga kalangitan ay ang makalangit na bahagi ng darating na isang libong taong kaharian, na tinawag na kaharian ng Ama, sa 13:43; ang panlupang bahagi ng isang libong taong kaharian ay ang Mesiyanikong kaharian, na tinawag na kaharian ng Anak ng Tao sa 13:41, at magiging ang napanumbalik na tabernakulo ni David, ang kaharian ni David (Gawa 15:16). Sa makalangit na bahagi ng isang libong taong kaharian, na magiging ang kaharian ng mga kalangitan na nahayag sa kapangyarihan, ang mga mandaraig na mananampalataya ay maghahari kasama ni Kristo sa isang libong taon (Apoc. 20:4, 6); sa panlupang bahagi ng isang libong taong kaharian, na siyang magiging kaharian ng Mesiyas sa lupa, ang naligtas na labi ng Israel ay magiging mga saserdote, tuturuan ang mga bansa na sambahin ang Diyos (Zac. 8:20-23). Kung tayo ay dukha sa ating espiritu, ang kaharian ng mga kalangitan ay atin: tayo ay nasa realidad nito ngayon sa kapanahunan ng ekklesia, at tayo ay makikibahagi sa pagpapakita nito sa kapanahunan ng kaharian."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang buong situwasyon ng sanlibutan ay negatibo patungkol sa ekonomiya ng Diyos. Si Satanas, ang kasalanan, ang sarili, ang kadiliman, at ang pagkamakasanlibutan ang nangingibabaw sa gitna ng lahat ng tao sa lupa. Ang kaluwalhatian ng Diyos ay nainsulto, si Kristo ay tinanggihan, ang Espiritu Santo ay nasiphayo, ang ekklesia ay napabayaan, ang sarili ay napasama, at ang buong sanlibutan ay masama. Kaya nga, gusto ng Diyos na tayo ay “magdalamhati” sa gayong situwasyon."
+        },
+        {
+            "id": "4-2",
+            "text": "Kung tayo ay magdadalamhati ayon sa Diyos at sa Kanyang ekonomiya, tayo ay “aaliwin” sa pamamagitan ng pagiging nagantimpalaan ng kaharian ng mga kalangitan. Makikita natin ang makalangit na pamumuno ng Diyos sa lahat ng negatibong situwasyon."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang maging “maamo” ay nangangahulugang hindi labanan ang pagsalungat ng sanlibutan, kundi pagtiisan ito nang kusang-loob."
+        },
+        {
+            "id": "5-2",
+            "text": "Kung tayo ay maaamo, handang pagtiisan ang pagsalungat ng sanlibutan sa kapanahunang ito, ating “mamanahin ang lupa” sa darating na kapanahunan katulad ng ipinahayag sa Heb. 2:5-8 at Luc. 19:17, 19."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “katuwiran” dito ay ang maging matuwid sa ating pagkilos. Kailangan nating maging mga “nagugutom at nauuhaw” sa katuwirang ito, ang maghanap ng gayong katuwiran, upang tayo ay makapasok sa loob ng kaharian ng mga kalangitan (bb. 10, 20)."
+        },
+        {
+            "id": "6-2",
+            "text": "Kung tayo ay nangagugutom at nangauuhaw sa katuwiran, tayo ay pagkakalooban ng Diyos na “mabusog” sa mismong katuwirang ating hinahanap."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang maging matuwid ay ang bigyan ang isa ng nararapat para sa kanya, samantalang ang maging “maawain” ay ang bigyan ang isa ng hindi nararapat sa kanya. Para sa kaharian ng mga kalangitan, hindi lamang tayo dapat na maging matuwid bagkus maawain din."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang “tumanggap ng awa” ay ang makamit ang hindi nararapat sa atin. Kung tayo ay maawain sa iba, ang Panginoon ay magbibigay sa atin ng awa ( 2 Tim. 1:16, 18), lalung-lalo na sa Kanyang luklukan ng paghahatol (Sant. 2:12- 13)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang maging “dalisay sa puso” ay ang maging tapat sa layunin, ang magkaroon ng iisang gol na maisakatuparan ang kalooban ng Diyos para sa kaluwalhatian ng Diyos (1 Cor. 10:31). Ito ay para sa kaharian ng mga kalangitan. Ang ating espiritu ang sangkap upang matanggap si Kristo (Juan 1:12; 3:6), samantalang ang ating puso ang lupa kung saan lumalago si Kristo bilang ang binhi ng buhay (13:19). Para sa kaharian ng mga kalangitan, kailangan tayong maging dukha sa espiritu, nabasyuhan sa ating espiritu, upang matanggap natin si Kristo. Kailangan din nating maging dalisay, tapat-sa-kaisahan sa ating puso, upang si Kristo ay lumago sa atin nang walang pagkabigo."
+        },
+        {
+            "id": "8-2",
+            "text": "Kung tayo ay dalisay sa puso sa paghahanap sa Diyos, ating “makikita ang Diyos.” Ang makita ang Diyos ay isang gantimpala sa may dalisay na puso. Ang pagpapalang ito ay kapwa sa ngayon at sa darating na kapanahunan."
+        },
+        {
+            "id": "9-1",
+            "text": "Si Satanas, ang mapanghimagsik na isa, ay ang manunulsol ng lahat ng paghihimagsik. Para sa kapakanan ng kaharian ng mga kalangitan, sa ilalim ng makalangit na pamumuno nito, kinakailangan nating maging mga mapagpayapa sa lahat ng tao (Heb. 12:14)."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang ating Ama ay ang Diyos ng kapayapaan (Roma 15:33; 16:20), nagtataglay ng isang mapayapang buhay na may isang mapayapang kalikasan. Bilang yaong mga isinilang Niya, kung tayo ay magiging mga mapagpayapa, tayo ay kinakailangang lumakad sa Kanyang dibinong buhay, ayon sa Kanyang dibinong kalikasan. Sa gayon, maihahayag natin ang Kanyang buhay at kalikasan at “tatawaging mga anak na lalake ng Diyos.”"
+        },
+        {
+            "id": "10-1",
+            "text": "Ang buong sanlibutan ay nakahilig sa masamang isa (1 Juan 5:19, Gr.), at puspos ng di-pagkamakatuwiran. Kung tayo ay nangagugutom at nangauuhaw sa katuwiran, tayo ay “pag-uusigin dahil sa katuwiran.” Tayo ay kinakailangang magbayad ng isang halaga para sa katuwiran na ating hinahanap para sa kaharian ng mga kalangitan."
+        },
+        {
+            "id": "10-2",
+            "text": "Kung ating hahanapin ang katuwiran sa isang halaga, ang kaharian ng mga kalangitan ay magiging atin; kung tayo ay nasa realidad nito ngayon, tayo ay gagantimpalaan sa pagpapakita nito sa darating na kapanahunan."
+        },
+        {
+            "id": "11-1",
+            "text": "Kapag tayo ay namumuhay ng isang buhay para sa kaharian ng mga kalangitan sa espiritwal na kalikasan nito at ayon sa mga makalangit na prinsipyo nito, tayo ay “inaalimura,” pinag-uusig, at pinagwiwikaan ng masama, na karamihan ang pinagmumulan ng mga ito ay yaong mga relihiyosong tao na humahawak sa kanilang mga makatradisyon na relihiyosong kaisipan. Ginawa ng mga relihiyonistang Hudyo ang lahat ng bagay na ito sa mga apostol sa mga naunang araw ng kaharian ng mga kalangitan (Gawa 5:41; 13:45, 50; 2 Cor. 6:8; Roma 3:8)."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang pag-uusig sa bersikulo 10 ay para sa kapakanan ng katuwiran, dahil sa ating paghahanap sa katuwiran; samantalang ang pag-uusig sa bersikulo 11 ay tuwirang para sa kapakanan ni Kristo, ang bagong Hari, dahil sa ating pagsunod sa Kanya."
+        },
+        {
+            "id": "12-1",
+            "text": "Itong “gantimpala” ng ikasiyam na pagpapala ay nagpapakita na lahat ng resulta ng naunang walong pagpapala ay mga gantimpala rin. Ang gantimpalang ito ay “malaki” at “nasa mga kalangitan,” isang makalangit na gantimpala, hindi isang panlupa."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang ikalawang bahagi ng salita ng bagong Hari sa bundok ay nasa 5:13-16. Ito ay tungkol sa impluwensiya ng mga tao ng kaharian ng mga kalangitan sa sanlibutan. Sila ang asin sa nabulok na lupa at ilaw sa nadimlang sanlibutan."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang “asin” sa kalikasan ay isang elemento na pumapatay at nag-aalis ng mga mikrobyo ng pagkabulok. Para sa nabulok na lupa, ang mga tao ng kaharian ng mga kalangitan ay isang gayong elemento, iniingatan ang lupa mula sa pagiging lubusang nabulok."
+        },
+        {
+            "id": "13-3",
+            "text": "Para sa mga tao ng kaharian na maging “walang lasa” ay nangangahulugang naiwala na nila ang kanilang nagpapaalat na pangsyon. Sila ay naging katulad na ng mga makalupang tao, walang pagkakaiba sa mga di-mananampalataya."
+        },
+        {
+            "id": "13-4",
+            "text": "“Ang itapon sa labas” ay ang alisin mula sa kaharian ng mga kalangitan (Luc. 14:35)."
+        },
+        {
+            "id": "13-5",
+            "text": "“Ang yurakan ng mga tao” ay ang tratuhin katulad ng walang pakinabang na alikabok."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang “ilaw” ay ang pagliliwanag ng isang ilawan upang bigyang-liwanag yaong mga nasa kadiliman. Sa nadimlang sanlibutan, ang mga tao ng kaharian ng mga kalangitan ay isang gayong ilaw na pumapawi ng kadiliman nito. Sa kalikasan sila ang nagpapagaling na asin, at sa pagkilos sila ang nagliliwanag na ilaw."
+        },
+        {
+            "id": "14-2",
+            "text": "Bilang ang nagliliwanag na ilaw, ang mga tao ng kaharian ay katulad ng “isang lunsod na nakatayo sa ibabaw ng isang bundok” na “hindi maitatago.” Ito ay sukdulang malulubos sa banal na lunsod ng Bagong Herusalem (Apoc. 21:10-11, 23-24)."
+        },
+        {
+            "id": "15-1",
+            "text": "*Ang salitang modios ay isang salitang Griyego.* Ang “modios” ay isang takalan ng butil. Ang isang sinindihang ilawan na nilagay “sa ilalim ng modios” ay hindi makapagsisilay ng liwanag nito. Yamang ang mga tao ng kaharian ay katulad ng sinindihang ilawan, hindi sila nararapat na matakpan ng “modios,” isang bagay na nauukol sa pagkain, na nagsasanhi ng kabalisahan (6:25)."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang ilaw bilang isang lunsod na nasa ibabaw ng isang bundok ay nagliliwanag sa mga tagalabas, samantalang ang sinindihang ilawan “sa patungan-ng-ilawan” ay nagliliwanag doon sa “lahat ng nasa bahay.” Bilang isang lunsod na nasa ibabaw ng bundok ang ilaw ay hindi maitatago, at bilang ilawan na nasa patungan-ng-ilawan ang ilaw ay hindi nararapat na nakatago."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang “mabubuting gawa” ay ang pagkilos ng mga tao ng kaharian, sa pamamagitan nito ay makikita ng mga tao ang Diyos at madadala sila sa Kanya."
+        },
+        {
+            "id": "16-2",
+            "text": "“Ang luwalhatiin” ang Diyos Ama ay ang ibigay sa Kanya ang kaluwalhatian. Ang kaluwalhatian ay ang Diyos na naihayag. Kapag inihahayag ng mga tao ng kaharian ang Diyos sa kanilang pagkilos at mabubuting gawa, nakikita ng mga tao ang Diyos at ibinibigay ang kaluwalhatian sa Diyos."
+        },
+        {
+            "id": "16-3",
+            "text": "Ang titulong “inyong Ama” ay nagpapatunay na ang mga disipulo, na siyang mga tagapakinig ng bagong Hari, ay mga naisilangna- muling anak ng Diyos (Juan 1:12; Gal. 4:6)."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang ikatlong bahagi ng salita ng Hari sa bundok, 5:17-48, ay nauukol sa kautusan ng mga tao ng kaharian ng mga kalangitan."
+        },
+        {
+            "id": "17-2",
+            "text": "“Ang ganapin” ang kautusan dito ay nangangahulugang: 1) tinupad ni Kristo ang kautusan sa positibong panig; 2) sa pamamagitan ng Kanyang humahaliling kamatayan sa krus, ginanap ni Kristo ang mga kahilingan ng kautusan sa negatibong panig; at 3) hinuhusto ni Kristo ang lumang kautusan sa pamamagitan ng Kanyang bagong kautusan sa bahaging ito, katulad ng patuloy na ipinahahayag ng salitang, “Subalit sinasabi Ko sa inyo” (bb. 22, 28, 32, 34, 39, 44). Ang pagtupad ni Kristo sa kautusan ay nagpaging-dapat sa Kanya na tuparin ang kahilingan ng kautusan sa pamamagitan ng Kanyang humahaliling kamatayan sa krus. Ang pagtupad ni Kristo sa kahilingan ng kautusan sa pamamagitan ng Kanyang humahaliling kamatayan sa krus ang nagdala ng buhay ng pagkabuhay-na-muli upang hustuhin ang kautusan nang lubusan. Ang lumang kautusan, ang mas mababang kautusan, kasama ang kahilingan-ng-pagtupad at kahilingan-ng-pagpaparusa nito ay tapos na. Ang mga tao ng kaharian, bilang mga anak ng Ama, ay kailangan lamang ngayong tumupad sa bagong kautusan, ang mas mataas na kautusan, sa pamamagitan ng buhay ng pagkabuhay-na-muli, na siyang buhay na walang-hanggang ng Ama. Ang lumang kautusan ay ibinigay sa pamamagitan ni Moises. Ang bagong kautusan ay ipinroklama ni Kristo Mismo. Hinggil sa kautusan, may dalawang panig: ang mga utos ng kautusan, at ang prinsipyo ng kautusan. Ang mga utos ng kautusan ay tinupad at hinusto ng pagparito ng Panginoon, samantalang ang prinsipyo ng kautusan ay hinalinhan ng prinsipyo ng pananampalataya ayon sa Bagong Tipang ekonomiya ng Diyos."
+        },
+        {
+            "id": "18-1",
+            "text": "Pagkatapos ng isang libong taong kaharian, ang lumang langit at lumang lupa ay lilipas at ang bagong langit at bagong lupa ay darating (Apoc. 21:1; Heb. 1:11-12; 2 Ped. 3:10-13). Ang nasasakupan ng kautusan ay hanggang sa wakas lamang ng isang libong taong kaharian; samantalang ang nasasakupan ng mga propeta ay hanggang sa bagong langit at bagong lupa (Isa. 65:17; 66:22). Ito ang dahilan kung bakit kapwa ang kautusan at ang mga propeta ay tinukoy sa bersikulo 17, subalit tangi lamang ang kautusan, hindi ang mga propeta, ang binanggit sa bersikulo 18."
+        },
+        {
+            "id": "18-2",
+            "text": "Yaon ay, ang Griyegong titik na iota, katumbas ng Hebreong titik na yod, ang pinakamaliit na titik sa Hebreo."
+        },
+        {
+            "id": "18-3",
+            "text": "Yaon ay, ang Griyegong keraia, ang pinakamaliit na yuko o tuldik sa mga titik ng Hebreo na nagbibigay ng kaibhan sa ilang mga titik na may parehong anyo."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang “mga utos” dito ay tumutukoy sa kautusan sa bersikulo 18. Hindi lamang tinutupad ng mga tao ng kaharian ang kautusan, bagkus hinuhusto ito. Kaya nga, sa katunayan ay hindi nila pinawawalang-bisa ang anumang utos ng kautusan."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang “katuwiran” dito ay hindi tumutukoy sa obhektibong katuwiran, na Siyang Kristong ating tinanggap nang tayo ay sumampalataya sa Kanya upang tayo ay maaring-matuwid sa harap ng Diyos (1 Cor. 1:30; Roma 3:26); bagkus ito ay tumutukoy sa subhektibong katuwiran, na Siyang nananahanang Kristo na ating ibinuhay bilang ating katuwiran nang sa gayon ay makapamuhay tayo ngayon sa realidad ng kaharian at makapasok sa loob ng pagpapakita nito sa hinaharap. Ang subhektibong katuwirang ito ay hindi natamo sa pamamagitan lamang ng pagtupad sa lumang kautusan, kundi sa pamamagitan ng pagkumpleto sa lumang kautusan sa pamamagitan ng katuparan ng bagong kautusan ng kaharian ng mga kalangitan, na ibinigay ng bagong Hari rito sa bahaging ito ng Salita. Ang katuwirang ito ng mga tao ng kaharian, ayon sa bagong kautusan ng kaharian, ay humihigit sa katuwiran ng mga eskriba at mga Fariseo ayon sa lumang kautusan. Imposible para sa ating likas na buhay na makamit ang humihigit na katuwirang ito; ito ay maaari lamang maibunga sa pamamagitan ng isang mas mataas na buhay, ang pagkabuhay na muling buhay ni Kristo. Ang katuwirang ito, na inihalintulad sa damit pangkasalan (22:11-12), ay nagpapaging-dapat sa ating makilahok sa kasal ng Kordero (Apoc. 19:7-8) at manahin ang kaharian ng mga kalangitan sa pagpapakita nito, yaon ay, ang “makapasok sa kaharian ng mga kalangitan” sa hinaharap."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang katuwiran ng mga eskriba at mga Fariseo ay yaong isinagawa nila nang ayon sa kanilang pantaong buhay, sumusunod sa lumang titik ng kautusan bilang katuwiran ayon sa titik; samantalang ang humihigit na katuwiran ng mga tao ng kaharian ay ang katuwiran ng buhay na kanilang ipinamumuhay sa pamamagitan ng pagkuha kay Kristo bilang kanilang buhay na ayon sa bagong kautusan ng buhay. Ang ganitong katuwiran sa kalidad at pamantayan ay humihigit sa walang buhay na katuwiran na isinasagawa ng mga eskriba at mga Fariseo."
+        },
+        {
+            "id": "20-3",
+            "text": "Tingnan ang tala 4-1 sa kap. 2."
+        },
+        {
+            "id": "20-4",
+            "text": "Ang pagpasok sa kaharian ng Diyos ay humihiling ng pagsilang-na-muli bilang isang bagong panimula ng ating buhay (Juan 3:3, 5), subalit ang “pagpasok sa kaharian ng mga kalangitan” ay humihiling ng humihigit na katuwiran sa ating pamumuhay pagkatapos ng pagsilang-na-muli. Ang pumasok sa kaharian ng mga kalangitan ay nangangahulugang mamuhay sa realidad nito sa ngayon at makilahok sa pagpapakita nito sa hinaharap."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang “Narinig ninyo” sa mga bersikulo 21, 27, 33, 38, 43 ay ang kautusan ng lumang kapanahunan; samantalang ang “sinasabi Ko sa inyo” sa mga bersikulo 22, 28, 32, 34, 39, 44 ay ang bagong kautusan ng kaharian, hinuhusto ang kautusan ng lumang kapanahunan."
+        },
+        {
+            "id": "22-2",
+            "text": "Ang kautusan ng lumang kapanahunan ay tumutuos sa akto ng pagpatay (b. 21), subalit ang bagong kautusan ng kaharian ay tumutuos sa poot, ang motibo ng pagpatay. Kaya nga, ang kahilingan ng bagong kautusan ng kaharian na mas malalim kaysa sa kahilingan ng kautusan ng lumang kapanahunan ay nangangailangan ng bagong nilikha at mataas na uri ng buhay upang matugunan ito."
+        },
+        {
+            "id": "22-3",
+            "text": "Ang salitang “kapatid” ay nagpapatunay na ang salita ng Hari rito ay sinasalita sa mga mananampalataya."
+        },
+        {
+            "id": "22-4",
+            "text": "Sa bersikulong ito ay may tatlong uri ng “paghahatol.” Ang una ay ang paghahatol sa pintuan ng lunsod, ang pandistritong paghahatol. Ang ikalawa ay ang paghahatol ng Sanedrin, ang mas mataas na paghahatol. Ang ikatlo ay ang paghahatol ng Diyos sa pamamagitan ng apoy ng Gehenna, ang pinakamataas na paghahatol. Ang tatlong uri ng paghahatol na ito ay binanggit ng bagong Hari, ginagamit ang mga larawan ng pumapaligid-na-pangyayari sa mga Hudyo sapagkat lahat ng Kanyang tagapakinig ay mga Hudyo. Gayunpaman, hinggil sa mga tao ng kaharian, ang mga mananampalataya ng Bagong Tipan, lahat ng paghahatol na ito ay tumutukoy sa paghahatol ng Panginoon sa luklukan ng paghahatol ni Kristo, katulad ng inihayag sa 2 Cor. 5:10; Roma 14:10, 12; 1 Cor. 4:4-5; 3:13-15; Mat. 16:27; Apoc. 22:12; at Heb. 10:27, 30. Ito ay malinaw na nagpapakita na ang mga Bagong Tipang mananampalataya, bagaman pinatawad na ng Diyos magpasawalang-hanggan, ay mananagot pa rin sa paghahatol ng Panginoon, hindi para sa kapahamakan, kundi para sa disiplina, kung sila ay magkakasala laban sa bagong kautusan ng kaharian katulad ng ibinigay rito. Gaayunpaman kapag tayo ay nagkakasala laban sa bagong kautusan ng kaharian, kung tayo ay magsisisi at magpapahayag ng ating mga kasalanan, tayo ay patatawarin at lilinisin ng dugo ng Panginoong Hesus (1 Juan 1:7, 9)."
+        },
+        {
+            "id": "22-5",
+            "text": "Yaon ay, tanga, walang kuwenta. Isang pagpapahayag ng pagdusta."
+        },
+        {
+            "id": "22-6",
+            "text": "Ang “Sanedrin” ay isang konseho na binubuo ng mga pinunong saserdote, mga matanda, mga tagapagtanggol ng kautusan, at ng mga eskriba. Ito ang pinakamataas na hukuman ng mga Hudyo (Luc. 22:66; Gawa 4:5-6, 15; 5:27, 34, 41)."
+        },
+        {
+            "id": "22-7",
+            "text": "Yaon ay, hangal, isang Hebreong katawagan ng pagkokondenang tumutukoy sa isang rebelde (Blg. 20:10). Ang katawagang ito ay higit na malubha kaysa sa katawagan ng pagdusta, Raca."
+        },
+        {
+            "id": "22-8",
+            "text": "Ang Griyegong katumbas ng Hebreong Ge Hinnom, libis ng Hinnom. Ito ay isang malalim at makitid na libis na malapit sa Herusalem, ang tambakan ng basura ng lunsod, kung saan itinatapon ang mga katawan ng mga kriminal at lahat ng uri ng dumi. Ito rin ay tinawag na Tophet, o Topheth (2 Hari 23:10; Isa. 30:33; Jer. 19:13). Dahil sa patuloy na paglalagablab nito, ito ay naging sagisag ng lugar ng walang hanggang pagpaparusa, ang dagat-dagatang apoy (Apoc. 20:15). Ang salitang ito ay ginamit din sa 5:29, 30; 10:28; 18:9; 23:15, 33; Marc. 9:43, 45, 47; Luc. 12:5; at Sant. 3:6."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang hain, katulad ng hain para sa kasalanan, ay para sa pagtutuos sa kasalanan; samantalang ang “kaloob” ay para sa pakikipagsalamuha sa Diyos."
+        },
+        {
+            "id": "23-2",
+            "text": "Ang “dambana” ay isang piraso ng kasangkapan (Exo. 27:1-8) na nasa loob ng labas na looban ng templo (1 Hari 8:64), kung saan ang lahat ng hain at mga kaloob ay inihandog (Lev. 1:9, 12, 17). Ang Hari, sa pagtatalaga ng bagong kautusan ng kaharian, ay tumutukoy rito sa kaloob at dambana ng lumang pamamahagi sapagkat, noong panahon ng transitoryo ng Kanyang ministeryo sa lupa, ang ritwal na kautusan ng lumang pamamahagi ay hindi pa natatapos. (Sa apat na Ebanghelyo, bago ang Kanyang kamatayan at pagkabuhay na muli, sa mga bagay hinggil sa mga pangyayari, pinakitunguhan ng Panginoon ang Kanyang mga disipulo bilang mga Hudyo ayon sa lumang kautusan; samantalang sa mga bagay hinggil sa espiritu at buhay, sila ay Kanyang itinuring bilang mga mananampalataya na siyang bumubuo ng ekklesia ayon sa Bagong Tipang ekonomiya.)"
+        },
+        {
+            "id": "23-3",
+            "text": "Ang “anumang laban sa iyo” dito ay tiyak na dahil sa poot o pagmumura sa bersikulo 22."
+        },
+        {
+            "id": "24-1",
+            "text": "O, makipagpayapa. Tayo ay kinakailangang “makipagkasundo muna sa” ating kapatid upang ang ating alaala sa pagkakasala ay maalis at ang ating budhi ay maging walang sala. Sa gayon ay maaari tayong dumulog at maghandog ng ating kaloob sa Panginoon upang makipagsalamuha sa Kanya nang may isang dalisay na budhi. Hindi pahihintulutan ng Hari ng kaharian kailanman ang magkapatid na hindi nakipagkasundo sa isa’t isa na makabahagi sa kaharian sa realidad nito ni makapaghari sa pagpapakita nito."
+        },
+        {
+            "id": "25-1",
+            "text": "“Makipagkasundo ka kaagad” baka ikaw ay mamatay, o ang iyong kaalit ay mamatay, o ang Panginoon ay bumalik, at kung magkagayon ay wala ka nang pagkakataong makipagkasundo sa iyong kaalit."
+        },
+        {
+            "id": "25-2",
+            "text": "Ang “kaalit” sa Griyego ay nangangahulugang isang kaalit sa batas, isang nagsasakdal."
+        },
+        {
+            "id": "25-3",
+            "text": "Ang “sa daan” ay sumasagisag na tayo ay nabubuhay pa sa buhay na ito."
+        },
+        {
+            "id": "25-4",
+            "text": "Ito ay magaganap sa luklukan ng paghahatol ni Kristo kapag Siya ay bumalik (2 Cor. 5:10; Roma 14:10). Ang “hukom” ay ang Panginoon, ang “punong kawal” ay ang anghel, at ang “bilangguan” ay ang lugar ng pagdidisiplina."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang “makalalabas doon” (bilangguan) ay ang mapatawad sa darating na kapanahunan, ang isang libong taon."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang isang Romanong “kodrantes” ay isang maliit na tansong sensilyo na katumbas ng isang ikaapat na bahagi ng asarion. Ang asarion ay katumbas ng isang sentimo ng dolyar ng Amerika. Ang pagpapakahulugan dito ay yaong maging sa pinakamaliit na bagay ay kinakailangang maging malinaw at malinis tayo. Ipinakikita nito kung gaano kaistrikto ang bagong kautusan."
+        },
+        {
+            "id": "28-1",
+            "text": "Tinutuos ng kautusan ng lumang pamamahagi ang panlabas na kilos ng pangangalunya, samantalang tinutuos ng bagong kautusan ng kaharian ang panloob na motibo ng “puso.”"
+        },
+        {
+            "id": "29-1",
+            "text": "Ang pagbibigay-diing ito at ng isa na nasa bersikulo 30 ng bagong kautusan ng kaharian ay nagpapakita ng kalubhaan ng kasalanan sa kaugnayan nito sa kaharian ng mga kalangitan at ng pangangailangang alisin ang motibo ng kasalanan sa anumang halaga. Ito ay hindi dapat tuparin nang literal; ito ay maisasagawa lamang sa pang-espiritwal, katulad ng ipinahayag sa Roma 8:13 at Col. 3:5."
+        },
+        {
+            "id": "29-2",
+            "text": "Tingnan ang tala 22-8 . Gayundin sa kasunod na bersikulo."
+        },
+        {
+            "id": "30-1",
+            "text": "Tingnan ang tala 29-1 ."
+        },
+        {
+            "id": "30-2",
+            "text": "Tingnan ang tala 22-8 ."
+        },
+        {
+            "id": "31-1",
+            "text": "Gr. magpapalaya. Gayundin sa kasunod na bersikulo."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang itinalaga ng Hari sa mga bersikulo 21-30 bilang ang bagong kautusan ng kaharian ang naghuhusto sa kautusan ng lumang pamamahagi, samantalang ang ipinahahayag ng Hari sa mga bersikulo 31-48 bilang ang bagong kautusan ng kaharian ang nagbabago ng kautusan ng lumang pamamahagi. Ang kautusan ng lumang pamamahagi hinggil sa diborsiyo ay itinalaga dahil sa katigasan ng puso ng mga tao; ito ay hindi ayon sa disenyo ng Diyos sa pasimula (19:7-8). Binabawi ng bagong pagtatalaga ng Hari ang pag-aasawa pabalik sa pasimula na dinisenyo ng Diyos (19:4-6)."
+        },
+        {
+            "id": "32-2",
+            "text": "Ang tali ng pag-aasawa ay mapapatid lamang ng kamatayan (Roma 7:3) o ng “pakikiapid.” Kaya nga, ang pagdiborsyo dahil sa ibang kadahilanan ay ang “mangalunya.”"
+        },
+        {
+            "id": "33-1",
+            "text": "O, huwag kang susumpa nang huwad."
+        },
+        {
+            "id": "33-2",
+            "text": "Isusulit. Kabilang sa isang sumpa (oath), ang isang pangako (vow) na dapat na maisulit. Kaya ang isulit ang anumang ipinangako ay ang isakatuparan ang kung ano ang ating mga pinanumpaang gawin."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang bagong kautusan ng kaharian ay nagbabawal sa mga tao ng kaharian na sumumpa sa anumang paraan, “sa pamamagitan ng langit,” ni “sa pamamagitan ng lupa,” ni “sa pamamagitan ng Herusalem,” ni sa pamamagitan ng kanilang ulo, sapagkat ang langit, ang lupa, ang Herusalem, at ang kanilang ulo ay wala sa ilalim ng kanilang kontrol, kundi sa kontrol ng Diyos."
+        },
+        {
+            "id": "37-1",
+            "text": "Ang pananalita ng mga tao ng kaharian ay kinakailangang maging payak at totoo: kung “oo” sabihing oo; kung “hindi,” sabihing hindi; hindi na dapat hikayatin ang mga tao ng maraming salita. Dapat maging isang taong nagsasalita ng katotohanan."
+        },
+        {
+            "id": "37-2",
+            "text": "Gr. nagmula sa."
+        },
+        {
+            "id": "39-1",
+            "text": "Ang ibaling ang kabilang pisngi sa sumampal, ang hayaan ang nagsasakdal na makuha ang tunika (b. 40), at lumakad kasama ang namimilit ng ikalawang milya (b. 41), ay nagpapatunay na ang mga tao ng kaharian ay may kapangyarihang magtiis sa halip na lumaban, at lumakad hindi sa laman, ni sa kaluluwa para sa kanilang kapakanan, kundi sa espiritu para sa kaharian."
+        },
+        {
+            "id": "40-1",
+            "text": "Ang kasuotang tuwirang nakadikit sa katawan tulad ng kamiseta. Ang ganitong kahulugan ay totoo sa buong Bagong Tipan."
+        },
+        {
+            "id": "41-1",
+            "text": "Milya ng sinaunang Roma, ang haba ay isang libong hakbang."
+        },
+        {
+            "id": "42-1",
+            "text": "“Ang magbigay” at “huwag tumalikod” mula sa nanghihiram ay nagpapatunay na ang mga tao ng kaharian ay hindi nagbibigay-pansin sa mga materyal na bagay at hindi naaangkin ng mga ito."
+        },
+        {
+            "id": "45-1",
+            "text": "Ang titulong “mga anak na lalake ng inyong Ama na nasa mga kalangitan,” ay isang matibay na katunayan na ang mga tao ng kaharian na siyang tagapakinig dito ng pagtatalaga ng bagong Hari sa bundok, ay ang mga naisilang-na-muling mananampalataya ng Bagong Tipan."
+        },
+        {
+            "id": "45-2",
+            "text": "Ang “pagpapaulan sa mga matutuwid at di-matutuwid” ay nasa kapanahunan ng biyaya, subalit sa darating na kapanahunan, ang kapanahunan ng kaharian, walang ulan na babagsak sa mga di-matuwid (Zac. 14:17-18)."
+        },
+        {
+            "id": "46-1",
+            "text": "Ang mga tao ng kaharian na tumutupad sa bagong kautusan ng kaharian sa realidad nito ay bibigyan ng isang “gantimpala” sa pagpapakita ng kaharian. Ang gantimpala ay naiiba mula sa kaligtasan. Ang isa ay maaaring maligtas subalit hindi magagantimpalaan. (Tingnan ang tala 35-1 sa Heb. 10.)"
+        },
+        {
+            "id": "46-2",
+            "text": "Ang mga maniningil ng buwis na inatasan ng Imperyo Romano na mangulekta ng buwis. Halos lahat sa kanila ay nagmalabis sa kanilang katungkulan sa pamamagitan ng huwad na pagpaparatang (Luc. 3: 12-13; 19:2, 8). Ang magbayad ng buwis sa mga Romano ay napakapait sa mga Hudyo. Yaong nasa pangungulekta nito ay kinutya ng mga tao at ibinilang na di-karapat-dapat ng anumang paggalang (Luc. 18:9-10). Kaya nga, sila ay iniuri kasama ng mga makasalanan (Mat. 9:10-11)."
+        },
+        {
+            "id": "48-1",
+            "text": "Para sa mga tao ng kaharian na maging “sakdal katulad ng kanilang makalangit na Ama” ay ang maging sakdal sa Kanyang pag-ibig. Sila ang mga anak ng Diyos, nagtataglay ng dibinong buhay at dibinong kalikasan ng Ama. Kaya nga, sila ay maaaring maging sakdal katulad ng Ama. Ang kahilingan ng bagong kautusan ng kaharian ay lubhang mas mataas kaysa sa kahilingan ng kautusan ng lumang pamamahagi. Ang mas mataas na kahilingan na ito ay matutugunan lamang ng dibinong buhay ng Ama, hindi ng kanilang likas na buhay. Ang kaharian ng mga kalangitan ay ang pinakamataas na kahilingan, at ang dibinong buhay ng Ama ay ang pinakamataas na panustos upang matugon ang kahilingang yaon. Inilalahad unang-una ng ebanghelyo ang pinakamataas na kahilingan ng kaharian ng mga kalangitan sa Ebanghelyo ni Mateo, at sa kahuli-hulihan ay binibigyan tayo ng pinakamataas na panustos ng dibinong buhay ng makalangit na Ama sa Ebanghelyo ni Juan upang maipamuhay natin ang pamumuhay ng kaharian ng mga kalangitan. Ang kahilingan ng bagong kautusan ng kaharian sa Mateo 5 hanggang 7 sa katunayan ay ang kahayagan ng bagong buhay, ang dibinong buhay, na nasa loob ng mga naisilang-na-muling tao ng kaharian. Ang kahilingang ito, sa pamamagitan ng pagbubukas sa panloob na katauhan ng mga naisilang-na-muling tao, ay para maipakita sa kanila na kaya nilang maabot ang isang gayong kataas na antas, ang isang gayong kataas na uri ng pamumuhay."
         }
     ]
 }

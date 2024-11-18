@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "pahayag",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "tanda,",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
-                "I. Pambungad—\nAng Pahayag ni Kristo at ang Patotoo ni Hesus 1:1-8"
+                "I. Pambungad—\nAng Pahayag ni Kristo at ang Patotoo ni Hesus\n 1:1-8"
             ]
         },
         {
@@ -24,7 +24,7 @@
             "footnotes": [
                 {
                     "word": "patotoo",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -35,7 +35,7 @@
             "footnotes": [
                 {
                     "word": "propesiya",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -46,23 +46,23 @@
             "footnotes": [
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "Asia:",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "Kanya",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "yaong",
-                    "note": ""
+                    "id": "4-4"
                 },
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "4-5"
                 }
             ],
             "outlines": null
@@ -73,11 +73,11 @@
             "footnotes": [
                 {
                     "word": "nagkalag",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -88,15 +88,15 @@
             "footnotes": [
                 {
                     "word": "kaharian,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "saserdote",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "magpakailan",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -107,19 +107,19 @@
             "footnotes": [
                 {
                     "word": "pumaparitong",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "alapaap,",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "lupa",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "magsisitaghoy",
-                    "note": ""
+                    "id": "7-4"
                 }
             ],
             "outlines": null
@@ -130,7 +130,7 @@
             "footnotes": [
                 {
                     "word": "Alpha",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -141,15 +141,15 @@
             "footnotes": [
                 {
                     "word": "pagtitiis",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "Hesus,",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "Patmos",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": [
@@ -165,19 +165,19 @@
             "footnotes": [
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "malakas",
-                    "note": ""
+                    "id": "10-4"
                 }
             ],
             "outlines": null
@@ -188,11 +188,11 @@
             "footnotes": [
                 {
                     "word": "aklat",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -203,19 +203,19 @@
             "footnotes": [
                 {
                     "word": "lumingon",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "lumingon",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "gintong",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "patungan-",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -226,19 +226,19 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "damit",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "bigkis",
-                    "note": ""
+                    "id": "13-4"
                 }
             ],
             "outlines": null
@@ -249,23 +249,23 @@
             "footnotes": [
                 {
                     "word": "buhok",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "lana,",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "niebe;",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "mata",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "apoy;",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": null
@@ -276,19 +276,19 @@
             "footnotes": [
                 {
                     "word": "paa",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "tansong",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "dinalisay",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "lagaslas",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": null
@@ -299,19 +299,19 @@
             "footnotes": [
                 {
                     "word": "bituin;",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "bibig",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "tabak",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "mukha",
-                    "note": ""
+                    "id": "16-3"
                 }
             ],
             "outlines": null
@@ -322,7 +322,7 @@
             "footnotes": [
                 {
                     "word": "Una",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -333,11 +333,11 @@
             "footnotes": [
                 {
                     "word": "nabubuhay",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "susi",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -354,14 +354,216 @@
             "footnotes": [
                 {
                     "word": "hiwaga",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "sugo",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Bilang ang huling aklat ng Biblia, ang Apocalipsis ay ang konklusyon,kakumpletuhan, at kaganapan ng buong dibinong pahayag, ang buong Biblia. Ang mga binhi ng karamihan sa mga katotohanan ng dibinong pahayag ay inihasik sa Genesis, ang unang aklat ng Biblia. Ang paglago ng lahat ng mga binhing ito ay pasulong na umuunlad sa mga sumusunod na aklat, lalo na sa mga aklat ng Bagong Tipan, at ang ani ay ginapas sa aklat ng Apocalipsis. Kaya nga, karamihan sa mga bagay na tinalakay sa aklat na ito ay hindi lubusang bago, kundi tumutukoy sa mga bagay na nabanggit na sa mga naunang aklat ng Biblia at pinatindi ang kaganapan. Ang sentro ng mga ito ay ang namumukod-tanging sukdulang pahayag ni Kristo, at ang natatanging kaganapan ng patotoo ni Hesus, at ang walang hanggang ekonomiya ng Diyos sa sansinukob."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang pahayag ng aklat na ito ay pangunahing binubuo ng “mga tanda,” yaon ay, mga sagisag na may mga espirituwal na kahulugan, katulad ng pitong patungan-ng-ilawan na sumasagisag sa mga ekklesia, ang pitong bituin na sumasagisag sa mga sugo ng mga ekklesia (b. 20), atbp… Maging ang Bagong Herusalem ay isang tanda, sinasagisag ang sukdulang kaganapan ng ekonomiya ng Diyos (mga kap. 21-22). Ang aklat na ito, kung gayon, ay isang aklat ng mga sagisag na sa pamamagitan nito ay ginagawang malinaw sa atin ang pahayag. Ang Ebanghelyo ni Juan ay isang aklat ng mga tanda, sumasagisag kung paanong si Kristo ay naging buhay natin upang maibunga ang ekklesia, ang Kanyang kasintahang-babae. Ang Apocalipsis ni Juan ay isang aklat ng mga tanda, ipinakikita kung paanong si Kristo ngayon ay nangangalaga sa ekklesia, at kung paanong Siya ay paririto upang hatulan at angkinin ang lupa, at dalhin ang ekklesia, ang Kanyang kasintahang-babae, tungo sa loob ng buong ekonomiya ng Diyos."
+        },
+        {
+            "id": "2-1",
+            "text": "Sa isang panig ay ibinibigay sa atin ng aklat na ito “ang pahayag ni Kristo,” at sa kabilang panig ay ipinakikita nito sa atin “ang patotoo ni Hesus,” ang ekklesia. Ito ay naglalahad sa atin ng naihayag na Kristo at ng nagpapatotoong ekklesia. Ang mga patungan-ng-ilawan sa kapitulo 1, ang lubhang karamihan ng mga tinubos sa kapitulo 7, ang maningning na babae kasama ang kanyang lalakeng-anak sa kapitulo 12, ang ani kasama ang mga unang-bunga nito sa kapitulo 14, ang mga mandaraig sa ibabaw ng malasalaming dagat sa kapitulo 15, ang kasintahang-babae na handa nang pakasal sa kapitulo 19, at ang Bagong Herusalem sa mga kapitulo 21 at 22 ay pawang ” ang patotoo ni Hesus.” Ang patotoong ito ni Hesus ay ang espiritu ng propesiya (19:10) – ang substansiya, ang disposisyon, at ang katangian ng propesiya. Si Kristo ay ang Saksi (b. 5), ang patotoo, ang kahayagan ng Diyos. Ang ekklesia ay ang patotoo, ang kahayagan ni Kristo. Bilang gayon, ang ekklesia ay ang pagpaparami ng patotoo, ang kahayagan ng Diyos sa loob ni Kristo."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang pahayag sa aklat na ito ay nasa kalikasan ng “propesiya.” Karamihan sa mga pangitain ay tumutukoy sa mga bagay na darating. Maging ang pitong sulat sa pitong ekklesia sa mga kapitulo 2 at 3, sa pagpapakahulugan ng mga tanda, ay mga propesiya hinggil sa ekklesia sa lupa hanggang sa pagbabalik ng Panginoon."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang “pito” ay ang bilang para sa kumpletong paggawa ng Diyos, katulad ng pitong araw para sa paglikha ng Diyos (Gen. 1:31-2:3), pitong tatak (5:5), pitong trumpeta (8:2), at pitong mangkok (15:7) para sa pagkilos ng Diyos sa lupa. Kaya nga, ang pitong ekklesia ay para sa kumpletong pagkilos ng Diyos."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang Asia ay isang lalawigan ng sinaunang Romanong Emperyo na kinaroroonan ng pitong lunsod na binanggit sa b. 11. Ang pitong ekklesia ay nasa pitong lunsod ng lalawigang yaon; ang pitong ekklesia ay hindi nasa iisang lunsod lamang. Hindi tinatalakay ng aklat na ito ang ukol sa iisang pansansinukob na ekklesia, kundi tinatalakay nito ang ukol sa mga ekklesia-lokal na nasa maraming lunsod. Ang ekklesia ay unang inihayag bilang pansansinukob sa Mat. 16:18 at pagkaraan, bilang lokal sa Mat. 18:17. Sa Gawa, ang ekklesia ay isinagawa sa paraan ng mga ekklesia lokal, katulad ekklesia sa Herusalem (Gawa 8:1), ekklesia sa Antioquia (Gawa 13:1), ekklesia sa Efeso (Gawa 20:17), at mga ekklesia sa mga lalawigan ng Syria at Cilicia (Gawa 15:41). Lahat ng mga Sulat ay isinulat sa mga ekklesia-lokal, maliban sa iilan na isinulat sa ilang indibiduwal. Ni isa ay walang isinulat sa pansansinukob na ekklesia. Kung walang ekklesia-lokal, ang pansansinukob na ekklesia ay walang praktikalidad at aktuwalidad. Ang pansansinukob na ekklesia ay napagtanto at naging makatotohanan sa pamamagitan ng mga ekklesia-lokal. Ang pagkakilala sa ekklesia sa pansansinukob ay kinakailangang malubos sa pagkakilala sa ekklesia sa panlokal. Isang napakalaking pagsulong para sa atin na malaman at maisagawa ang mga ekklesia-lokal. Ang aklat ng Apocalipsis hinggil sa ekklesia ay nasa sumulong na yugto. Upang malaman ang aklat na ito, tayo ay kailangang sumulong mula sa pagkaunawa ng pansansinukob na ekklesia tungo sa pagkatanto at pagsasagawa ng mga ekklesia-lokal, sapagka’t ang aklat na ito ay isinulat sa mga ekklesia-lokal. Tangi lamang yaong mga nasa mga ekklesia lokal ang nakaposisyon nang tama na may tamang anggulo at wastong pananaw upang makita ang mga pangitain sa aklat na ito."
+        },
+        {
+            "id": "4-3",
+            "text": "Siya “na ngayon at nang nakaraan at yaong darating” ay ang walang hanggang Diyos Ama. “Ang pitong Espiritu” na nasa harapan ng trono ng Diyos ay ang kumikilos na Espiritu ng Diyos, ang Diyos Espiritu. Si “Hesu-Kristo,” na sa Diyos ay “tapat na Saksi,” sa ekklesia ay “ang Panganay sa mga patay,” at sa sanlibutan ay “ang Pangulo ng mga hari sa lupa” (b. 5), ay ang Diyos Anak. Ito ang Tres-unong Diyos. Bilang ang walang hanggang Ama, Siya ay nasa nakaraan, Siya ay nasa kasalukuyan, at Siya ay darating sa hinaharap. Bilang ang Diyos Espiritu, Siya ay ang maka-pitong-ulit na pinatinding Espiritu para sa paggawa ng Diyos. (Tingnan ang tala 4-5 ). Bilang ang Diyos Anak, Siya ay: 1) “ang Saksi,” ang patotoo, ang kahayagan ng Diyos; 2) “ang Panganay sa mga patay” para sa ekklesia, ang bagong nilalang; at 3) “ang Pangulo ng mga hari sa lupa” para sa sanlibutan. Mula sa isang gayong Tres-unong Diyos, ang biyaya at kapayapaan ay ipinamamahagi sa mga ekklesia."
+        },
+        {
+            "id": "4-4",
+            "text": "Ang “yaong darating” ay maaaring nagpapahiwatig ng ikalawang pagparito ni Kristo. Ito ay nangangahulugan na sa pagsapit ng panahong yaon, kung anuman ang Tres-unong Diyos ay magiging higit na praktikal kaysa sa nakaraan at sa kasalukuyan, sa Kanyang mga nilikha, lalung-lalo na sa Kanyang mga tinubos na tao. Gayundin sa b. 8 at 4:8."
+        },
+        {
+            "id": "4-5",
+            "text": "Ang “pitong Espiritu” ay walang alinlangang ang Espiritu ng Diyos, sapagka’t Sila ay iniranggo sa gitna ng Tres-unong Diyos sa mga bersikulo 4 at 5. Kung paanong ang pito ay ang bilang para sa kakumpletuhan sa paggawa ng Diyos, gayundin, “ang pitong Espiritu” ay tiyak na para sa pagkilos ng Diyos sa lupa. Sa substansiya at pag-iral, ang Espiritu ng Diyos ay iisa; sa pinatinding pangsyon at gawa ng pagkilos ng Diyos, ang Espiritu ng Diyos ay makapitongulit. Ito ay katulad ng patungan-ng-ilawan sa Zac. 4:2. Sa pag-iral, ito ay isang patungan-ng-ilawan, subali’t sa pangsyon, ito ay pitong ilawan. Nang isulat ni Juan ang Apocalipsis, ang ekklesia ay napababá na; ang kapanahunan ay madilim. Kaya ang makapitong-ulit na pinatinding Espiritu ng Diyos ay kailangan para sa pagkilos at paggawa ng Diyos sa lupa."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang kalagan tayo mula sa mga kasalanan ay nangangahulugang hugasan tayo mula sa mga kasalanan."
+        },
+        {
+            "id": "5-2",
+            "text": "Lit. sa loob ng."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang mga mananampalatayang tinubos ng dugo ni Kristo ay hindi lamang isinilang ng Diyos tungo sa loob ng Kanyang kaharian (Juan 3:5), bagkus sila ay ginawa ring isang kaharian para sa ekonomiya ng Diyos, ang ekklesia (Mat. 16:18-19). Si Juan, ang manunulat ng aklat na ito, ay nasa kahariang ito (b.9), at ang lahat ng mga tinubos at isinilang-na-muling mananampalataya ay bahagi rin ng kahariang ito (Roma 14:17)."
+        },
+        {
+            "id": "6-2",
+            "text": "Hindi lamang tayo ginawang “isang kaharian” sa Diyos ng katubusan sa pamamagitan ng dugo ni Kristo, bagkus “mga saserdote” rin sa Kanya (I Ped. 2:5). Ang “kaharian” ay para sa awtoridad ng administrasyon ng Diyos, samantalang “ang mga saserdote” ay yaong mga naghahayag ng larawan ng Diyos. Ito ang makahari, at maharlikang pagkasaserdote (I Ped. 2:9) para sa katuparan ng orihinal na layunin ng Diyos sa paglikha sa tao (Gen. 1:26-28). Ang makaharing saserdoteng ito ay isinasagawa sa kasalukuyang buhay-ekklesia (5:10). Ito ay matinding isasagawa sa isang libong taong kaharian (20:6), at ito ay sukdulang malulubos sa Bagong Herusalem (22:3,5)."
+        },
+        {
+            "id": "6-3",
+            "text": "Lit. hanggang sa mga kapanahunan ng mga kapanahunan."
+        },
+        {
+            "id": "7-1",
+            "text": "Sa aklat na ito, ang pagbabalik ni Kristo ay inihayag sa dalawang aspekto. Sa isang aspekto, Siya ay darating nang lihim “katulad ng isang magnanakaw” (3:3; 16:15), at sa isa pang aspekto, Siya ay darating nang hayagan “nasasa mga alapaap” (b. 7; 14:14). Ito ay tumutugma sa Mat. 24:43 at 30. Ang araw at oras ng Kanyang pagdating sa unang aspekto ay hindi alam (Mat. 24:36); samantalang ang araw ng Kanyang pagdating sa ikalawang aspekto ay malinaw na inihayag, yaon ay, sa huling trumpeta (ang ikapitong trumpeta), sa wakas ng matinding kapighatian (1 Tes. 4:16; 1 Cor. 15:52; 2 Tes. 2:1-3)."
+        },
+        {
+            "id": "7-2",
+            "text": "Si Kristo ay umakyat sa langit na nakasakay sa isang alapaap. Siya ay babalik sa lupa sa gayunding paraan (Gawa 1:9,11; Mat. 26:64; Apoc. 14:14)."
+        },
+        {
+            "id": "7-3",
+            "text": "O, mundo, katulad na salita sa Griyego ng nasa 6:8, 10; 8:13. Tumutukoy sa mga lipi sa lupain ng Israel, na nangagsiulos kay Kristo. Tingnan ang Zac. 12:10 at Juan 19:34, 37."
+        },
+        {
+            "id": "7-4",
+            "text": "Lit. babayuhin ang dibdib."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang walang hanggan at Makapangyarihan sa lahat na Diyos ay “ang Alpha,” ang pasimula para sa pinagmulan, at “ang Omega,” ang wakas para sa pagsasakatuparan ng Kanyang walang hanggang layunin. Siya ay “ang Alpha” sa aklat ng Genesis. Ngayon, sa aklat ng Apocalipsis, Siya ay “ang Omega.” Anuman ang Kanyang sinimulan ay Kanyang kukumpletuhin. Sa pampamahalaan, Kanyang ipinagpapatuloy ang Kanyang pansansinukob na pagkilos, na Kanyang sinimulan noong mga sinaunang panahon at dadalhin sa pagtatapos (21:6)."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang pagtitiis ay kinakailangan para sa kapighatian at kaharian."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang Hesus ay tumutukoy sa Tagapagligtas na isang tao ng kapanglawan, at sanay sa pighati (Isa. 53:3)."
+        },
+        {
+            "id": "9-3",
+            "text": "Ang pulo ng Patmos ay ang pinagtapunan kay Juan dahil sa “salita ng Diyos at sa patotoo ni Hesus”; sa panahon ng kanyang pagkatapon natanggap niya ang pahayag ng aklat na ito."
+        },
+        {
+            "id": "10-1",
+            "text": "Napasa."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang aklat na ito ay hindi lamang nagbibigay-diin sa Espiritu ng Diyos bilang ang makapitong pinatinding Espiritu para sa pinatinding pagkilos ng Diyos, bagkus maging sa ating pantaong “espiritu” bilang ang sangkap upang ating matanto at matugunan ang pagkilos ng Diyos. Tanging ang (ating) espiritu ang makatutugon sa Espiritu (ng Diyos). Ang aklat na ito ay binubuo ng apat na pangunahing pangitain: 1) ang pangitain ng mga ekklesia (mga kap. 1-3); 2) ang pangitain ng kahihinatnan ng sanlibutan (mga kap.4-16); 3) ang pangitain ng dakilang Babilonia (mga kap. 17-20); at 4) ang pangitain ng Bagong Herusalem (mga kap. 21-22). Si Juan ay nasa kanyang espiritu nang makita niya ang apat na pangitaing ito (b. 10; 4:2; 17:3; 21:10), katulad ng binanggit sa Efe. 3:5 na sa loob ng espiritu natamo ang pahayag ng hiwaga ni Kristo. Upang makita natin ang mga pangitain ng aklat na ito kinakailangan din nating mapasa ating espiritu. Ito ay hindi isang bagay ng pangkaisipang pagkaunawa sa ating kaisipan, kundi isang espirituwal na pagkatanto sa loob ng ating espiritu."
+        },
+        {
+            "id": "10-3",
+            "text": "Ang “araw ng Panginoon” dito ay nararapat na ang unang araw ng sanlinggo, ang araw na siyang araw ng pagkabuhay-na-muli ng Panginoon (Juan 20:1). Ang ekklesia sa mga naunang araw ay nagpupulong sa araw na ito (Gawa 20:7; 1 Cor. 16:2). Sa araw ngang ito, nang si Juan ay nasa espiritu, ay nakita niya ang mga pangitain ng ekonomiya ng Diyos."
+        },
+        {
+            "id": "10-4",
+            "text": "Lit. malaki."
+        },
+        {
+            "id": "11-1",
+            "text": "Gr. balumbon ng papel na may sulat."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang pagpapadala ng aklat na ito “sa pitong ekklesia” ay katumbas ng pagpapadala nito sa pitong lunsod. Ito ay malinaw na nagpapakita na ang pagsasagawa ng buhay-ekklesia sa mga naunang araw ay yaong isang ekklesia para sa isang lunsod, isang lunsod na may iisang ekklesia. Walang isang lunsod ang may higit sa isang ekklesia. Ito ang ekklesia-lokal, lokal ayon-sa-lunsod hindi ayon-sa-kalye, ni sa distrito ni rehiyon. Ang kinasasaklawan ng administrasyon ng isang ekklesia lokal ay nararapat sumaklaw sa buong lunsod na kinaroroonan ng ekklesia; ito ay hindi dapat hihigit o kukulangin sa hangganan ng lunsod. Lahat ng mga mananampalatayang nasa loob ng hangganang yaon ang nararapat na mabuong isang namumukod-tanging ekklesia-lokal sa loob ng lunsod na yaon."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang makakita ng anumang bagay ay humihiling ng tamang kinalalagyan nang may tamang anggulo. Unang narinig ng Apostol Juan ang tinig (b.10), at nang siya ay “lumingon upang makita” kung sino ang pinagmulan ng tinig, kanyang nakita ang pitong gintong patungan-ngilawan. Siya ay nakaposisyon nang tama, subali’t kailangan pa rin niya ang tamang anggulo upang makita ang pangitain hinggil sa mga ekklesia; kaya siya ay lumingon. Ito rin ay kagaya sa atin ngayon. Maraming Kristiyano ang kailangang maiwasto sa kanilang kinalalagyan at lumingon upang kanilang makita ang pangitain ng mga ekklesia."
+        },
+        {
+            "id": "12-2",
+            "text": "Sa tipolohiya, ang ginto ay sumasagisag sa dibinong kalikasan ng Diyos. Dito ang “mga patungan-ng-ilawan” ay “ginto”, sumasagisag na ang mga ekklesia ay binubuuan ng dibinong kalikasan ng Diyos."
+        },
+        {
+            "id": "12-3",
+            "text": "Sa Biblia, ang patungan-ng-ilawan ay palaging iniuugnay sa pagtatayo ng Diyos. Ito ay binanggit, sa unang pagkakataon, sa Exo. 25:31-40 nang itinayo ang tabernakulo. Ang ikalawang pagkakataon ay sa pagtatayo ng templo sa 1 Hari 7:49. Ang ikatlong pagkakataon ay malaki ang kinalaman sa muling pagtatayo ng templo ng Diyos sa Zac. 4:2-10. Dito sa Apocalipsis, ang patungan-ng-ilawan ay iniugnay sa pagtatayo ng mga ekklesia. Sa Exodo 25, ang diin ay na kay Kristo sa pagiging patungan-ng-ilawan bilang ang dibinong ilaw, nagliliwanag sa pamamagitan ng Espiritu (ang langis) bilang ang pitong ilawan. Sa Zacarias 4, ang diin ay sa Espiritu (Zac. 4:6), nagliliwanag bilang ang pitong ilawan. na siyang pitong mata ng Diyos (Zac. 4:2, 10). Ang pitong mata ng Diyos ay ang pitong Espiritu ng Diyos (5:6) para sa pinatinding pagkilos ng Diyos. Ito ay tumutukoy na ang patungan-ng-ilawan sa Zacarias ay ang realidad ng patungan-ng-ilawan sa Exodo; ang mga patungan-ng-ilawan naman sa Apocalipsis ay ang pagpaparami ng patungan-ng-ilawan sa Zacarias. Si Kristo ay natatanto bilang ang Espiritu, at ang Espiritu ay naihahayag bilang ang mga ekklesia. Ang nagliliwanag na Espiritu ay ang realidad ng nagliliwanag na Kristo, at ang nagliliwanag na ekklesia ay ang pagpaparami at kahayagan ng nagliliwanag na Espiritu upang maisagawa ang walang hanggang layunin ng Diyos, sa gayon ay madala sa kaganapan ang Bagong Herusalem bilang ang nagliliwanag na lunsod. Si Kristo, ang Espiritu, at ang mga ekklesia ay pawang may magkakatulad na dibinong kalikasan."
+        },
+        {
+            "id": "13-1",
+            "text": "Si Kristo ngayon ay nasa gitna ng mga ekklesia. Sa isang banda, bilang ang Mataas na Saserdote, Siya ay namamagitan sa sangkalangitan para sa mga ekklesia (Heb. 9:24; 7:25-26; Roma 8:34), at sa kabilang banda, Siya ay lumalakad sa gitna ng mga ekklesia upang sila ay pangalagaan. Kung nais nating makabahagi sa Kanyang pagkilos at makapagtamasa sa Kanyang pangangalaga, kailangan nating mapasaloob ng mga ekklesia, *yaon ay, mga ekklesia lokal.*"
+        },
+        {
+            "id": "13-2",
+            "text": "Si Kristo ay hindi lamang inilarawan dito bilang ang Mataas na Saserdote, katulad ng ipinakita ng Kanyang mga damit, bagkus inihayag ding “katulad ng Anak ng Tao.” Siya ay Diyos at Siya ay tao rin. Bilang ating Mataas na Saserdote, pinangangalagaan Niya ang mga ekklesia sa loob ng Kanyang pagka-tao. Si Kristo bilang ang Anak ng Tao ay hindi lamang para sa pagsasagawa ng katubusan, bagkus para rin sa buhay-ekklesia, sapagka’t ang ekklesia ay binubuuan ng mga tao. Pagkatapos Niyang umakyat-sa-langit, tinutukoy rin ng Kanyang pagiging Anak ng Tao na sa Kanyang pagkabuhay-na-muli ay hindi Siya hinubaran ng Kanyang pagka-tao. Dito ang Kanyang pakikitungo sa mga ekklesia ay batay sa Kanyang pagka-tao. Sa loob ng Kanyang pagka-tao, Siya ay nagpapatotoo para sa Diyos at lubusang mapagwagi at matagumpay. Lahat ng mga ekklesia ay tunay na makapagpapatotoo rin sa pagwawagi at tagumpay ng Diyos."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang “damit na umaabot hanggang sa mga paa” ay ang makasaserdoteng kasuotan (Exo. 28:33-35) at sumasagisag sa kapuspusan ng mga dibinong katangian at mga pantaong kagalingan ni Kristo (cf. Isa. 6:1,3)."
+        },
+        {
+            "id": "13-4",
+            "text": "Ang mga saserdote sa Lumang Tipan ay nabibigkisan sa baywang para sa kanilang ministeryo (Exo. 28:4). Sa Dan. 10:5, si Kristo ay nabibigkisan din ng dalisay na ginto sa Kanyang baywang. Subali’t dito, si Kristo bilang ang ating Mataas na Saserdote ay “nabibigkisan sa dibdib.” Ang dibdib ay sumasagisag sa pag-ibig. Ang mabigkisan sa baywang ay ang mapalakas para sa gawain, samantalang ang “mabigkisan sa dibdib” ay sumasagisag sa pangangalaga sa loob ng pag-ibig. Ang gawain ni Kristo sa pagbubunga ng mga ekklesia ay naisagawa na. Ngayon ay hindi na Niya kailangang mabigkisan sa Kanyang baywang para sa gawain. Ang Kanyang ginagawa ngayon sa gitna ng mga ekklesia ay ang pangalagaan sila sa loob ng pag-ibig. Hinihiling nito na Siya ay mabigkisan sa dibdib ng isang pamigkis na ginto. Ang “pamigkis na ginto” ay sumasagisag sa dibinong kalakasan.Siya ay kumikilos sa mga ekklesia upang pangalagaan sila sa loob ng Kanyang pagka-tao na ginagamit ang Kanyang dibinong kalakasan."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang puting buhok ay sumasagisag sa malaking gulang (Job 15:10). Dito ay sinasagisag nito ang pagiging sinauna ng Panginoon. Ang itim na buhok na naglarawan sa Kanya sa A.A. 5:11 ay sumasagisag sa Kanyang walang kupas at palaging nananatiling kalakasan."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang puting lana ay lumalabas mula sa kalikasan ng buhay, at ang puting niebe ay bumababa mula sa langit. Kaya, ang puting lana rito at sa Dan. 7:9 ay sumasagisag na ang pagiging sinauna ni Kristo ay ukol sa Kanyang kalikasan, hindi sa dahilan na Siya ay tumanda; at ang puting niebe ay sumasagisag na ang Kanyang pagiging sinauna ay makalangit, hindi makalupa."
+        },
+        {
+            "id": "14-3",
+            "text": "Sa A.A. 5:12, ang mga mata ni Kristo ay gaya ng mga kalapati. Yaon ay para sa kahayagan ng Kanyang pag-ibig. Dito ang Kanyang mga mata ay gaya ng isang ningas ng apoy. Ito ay para sa Kanyang pagmamasid at pagsasaliksik para sa Kanyang paghahatol sa pamamagitan ng pagliliwanag. Sa aklat na ito, ang Kanyang mga mata ay hindi dalawa kundi pito (5:6). Ang pito ay ang bilang ng kakumpletuhan sa pagkilos ng Diyos. Kaya nga, ang Kanyang mga mata sa aklat na ito ay para sa gawain ng Diyos. Ang Kanyang pitong mata ay ang pitong ilawan ng apoy (cf. Dan. 10:6) na nagliliyab sa harapan ng trono, na siyang pitong Espiritu ng Diyos (4:5). Ang “nagliliyab na apoy” ay katumbas ng “ningas ng apoy” at para sa pagmamasid at pagsasaliksik. Ang pitong Espiritu ng Diyos na sinugo sa buong lupa (5:6) ay para rin sa pagkilos ng Diyos sa lupa. Kaya ang mga mata ni Kristo sa aklat na ito ay ang pitong Espiritu ng Diyos para sa pagkilos at gawain ng Diyos sa lupa ngayon."
+        },
+        {
+            "id": "14-4",
+            "text": "Ang aklat na ito ay isang may naghahatol na kalikasan. Ang apoy ay para sa dibinong paghahatol (1 Cor. 3:13; Heb. 6:8; 10:27). Ang Diyos natin ay isang apoy na namumugnaw (Heb. 12:29); ang Kanyang trono ay ang mga liyab na apoy at ang mga gulong niyaon ay ang nagniningas na apoy, at isang mabangis na sigalbo ang lumalabas at nagmumula sa harap Niya (Dan. 7:9-10). Lahat ng ito ay para sa paghahatol. Ang pangunahing kahulugan ng mga mata ng Panginoon sa pagiging katulad ng isang ningas ng apoy ay para sa Kanyang paghahatol (2:18-23; 19: 11-12). Sa Kanyang pagdating upang angkinin ang lupa sa pamamagitan ng pagpapataw ng hatol dito, maging ang Kanyang mga paa ay magiging katulad ng mga haliging apoy (10:1)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang mga paa ay sumasagi sag sa paglakad. Ang tanso, sa tipolohiya, ay sumasagisag sa dibinong paghahatol (Exo. 27:1-6). Ang mga paa ni Kristo ay katulad ng tansong binuli, gaya ng binanggit din sa Dan. 10:6, sumasagisag na ang Kanyang sakdal at maliwanag na paglakad ay ginagawa Siyang kwalipikado upang magpataw ng dibinong paghahatol. Kaya nga, sa Kanyang pagdating upang angkinin ang lupa sa pamamagitan ng paghahatol dito, ang Kanyang mga paa ay magiging katulad ng mga haliging apoy (10:1)."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang dalisayin sa isang pugon ay ang subukin sa pamamagitan ng pagsunog. Ang paglakad ni Kristo ay sinubok sa pamamagitan ng Kanyang mga paghihirap, maging ng Kanyang kamatayan sa krus. Kaya nga, ang Kanyang paglakad ay maliwanag katulad ng binuling tanso, na nagsanhi sa Kanya na maging kwalipikadong humatol sa di-matuwid."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang lagaslas ng maraming tubig, isang napakaingay na lagaslas, ay ang ugong ng tinig ng Diyos na Makapangyarihan sa lahat (Ezek. 1:24; 43:2). Ito ay sumasagisag sa kaseryosohan at kataimtiman ng Kanyang pagsasalita (cf. 10:3)."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang mga patungan-ng-ilawan at gayundin ang mga bituin ay para sa pagliliwanag sa gabi. Ang isang patungan-ng-ilawan na kumakatawan sa isang ekklesia-lokal ay isang sama-samang yunit, samantalang ang isang bituin na kumakatawan sa isang sugo ng isang ekklesia-lokal ay isang indibiduwal na entidad. Sa madilim na gabi ng pagbabà ng ekklesia, may pangangailangan ng pagliliwanag ng mga sama-samang ekklesia at gayundin ng mga indibiduwal na sugo."
+        },
+        {
+            "id": "16-2",
+            "text": "Sa A.A. 5:16, “ang Kanyang bibig ay ubod ng tamis,” at sa mga Ebanghelyo, ” mga mabibiyayang salita …ang lumalabas mula sa Kanyang bibig” (Luc. 4:22); subali’t dito, “mula sa Kanyang bibig ay lumalabas ang isang matalas na tabak na may dalawang talim.” Ito ang Kanyang nag-aaninaw, naghahatol, at pumapaslang na salita (Heb. 4:12; Efe. 6:17). Ang “mga mabiyayang salita” ay para sa Kanyang panustos ng biyaya sa Kanyang mga kinalulugdan, samantalang ang “matalas na tabak na may dalawang talim” ay para sa Kanyang pakikipagtuos sa mga negatibong tao, pangyayari, at bagay."
+        },
+        {
+            "id": "16-3",
+            "text": "Sa A.A. 5:10 at 13, ang Kanyang mukha ay kaibig-ibig para sa paghanga sa Kanya ng Kanyang mga tagahanap, at sa mga Sulat, ang Kanyang mukha ay nag- aaninag ng kaluwalhatian ng Diyos (2 Cor. 4:6) para sa pamamahagi ng buhay tungo sa loob ng Kanyang mga mananampalataya. Dito sa Apocalipsis, ang Kanyang mukha ay gaya ng araw na sumisikat nang matindi, katulad ng nasa Dan. 10:6, para sa naghahatol na pagliliwanag upang maipasok ang kaharian. Nang Siya ay nabagong-anyo at ang Kanyang mukha ay nagliwanag katulad ng araw, yaon ang Kanyang pagdating sa loob ng kaharian (Mat. 16:28-17:2). Sa Kanyang pagdating upang angkinin ang lupa para sa kaharian, ang Kanyang mukha ay magiging katulad ng araw (10:1)."
+        },
+        {
+            "id": "17-1",
+            "text": "Si Kristo ang Una at ang Huli. Ito ay sumasagisag na Kanyang tiyak na isasagawa ang anumang Kanyang sinimulan. Tingnan ang 13-2 ng Apocalipsis 22."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang Mismong Kristo na lumalakad sa gitna ng mga ekklesia, na Siyang Ulo ng mga ekklesia at kung Kanino nabibilang ang mga ekklesia, ay ang nabubuhay na Isa. Kaya nga, ang bawa’t ekklesia bilang kahayagan ng Kanyang Katawan sa bawa’t lokalidad ay nararapat ding maging buháy, sariwa, at malakas."
+        },
+        {
+            "id": "18-2",
+            "text": "Dahil sa pagkatisod ng tao, nagkaroon ang mga tao ng kasalanan, at ang kamatayan ay dumating sa lupa upang gumawa, tinitipon nito ang lahat ng namatay na makasalanan sa Hades. Kaya nga, sa mga makasalanan, ang kamatayan ay ang tagapagtipon, samantalang ang Hades ay ang tagapag-ingat. Subali’t, ang mga susi ng kamatayan at ng Hades ay nasa mga kamay ng at ing Tagapagligtas, na namatay at muling-nabuhay."
+        },
+        {
+            "id": "20-1",
+            "text": "Nang makita ni Juan ang pitong bituin sa kanang kamay ni Kristo at ang pitong gintong patungan-ng-ilawan na kung saang kalagitnaan lumalakad si Kristo, ito ay isang hiwaga sa kanya. Hindi niya maunawaan ang kahulugan ng pitong makalangit na bituin at ng pitong gintong patungan-ng-ilawan. Kaya nga, inilahad ng Panginoon ang hiwaga sa kanya, sinasabi na ang pitong bituin ay mga sugo ng pitong ekklesia, at ang pitong patungan-ng-ilawan ay pitong ekklesia. Ang kahulugan nito ay hindi lamang isang hiwaga kay Juan, bagkus maging sa mga mananampalataya sa ngayon. Lahat ng mananampalataya ay nangangailangan ng paglalahad ng hiwagang ito upang makita ang mga ekklesia at ang kanilang mga sugo."
+        },
+        {
+            "id": "20-2",
+            "text": "Lit. mga anghel. Gayundin sa b. 1."
         }
     ]
 }

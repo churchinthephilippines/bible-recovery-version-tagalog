@@ -1,5 +1,5 @@
 {
-    "chapter": 12,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Betania,",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -28,11 +28,11 @@
             "footnotes": [
                 {
                     "word": "libra",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -49,7 +49,7 @@
             "footnotes": [
                 {
                     "word": "denario",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -60,7 +60,7 @@
             "footnotes": [
                 {
                     "word": "kinukuha",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -71,7 +71,7 @@
             "footnotes": [
                 {
                     "word": "Sinabi",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -100,7 +100,7 @@
             "footnotes": [
                 {
                     "word": "kay",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -122,7 +122,7 @@
             "footnotes": [
                 {
                     "word": "Hosanna,",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -187,7 +187,7 @@
             "footnotes": [
                 {
                     "word": "luwalhatiin.",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -198,11 +198,11 @@
             "footnotes": [
                 {
                     "word": "mahulog",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "maraming",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -213,15 +213,15 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -238,11 +238,11 @@
             "footnotes": [
                 {
                     "word": "nagugulumihanan",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "dito",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -253,15 +253,15 @@
             "footnotes": [
                 {
                     "word": "luwalhatiin",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "Niluwalhati",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "luluwalhatiin.",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -284,11 +284,11 @@
             "footnotes": [
                 {
                     "word": "paghatol",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "sanlibutang",
-                    "note": ""
+                    "id": "31-2"
                 }
             ],
             "outlines": null
@@ -299,7 +299,7 @@
             "footnotes": [
                 {
                     "word": "maitataas",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -328,11 +328,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "36-1"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "36-2"
                 }
             ],
             "outlines": null
@@ -343,7 +343,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": [
@@ -356,7 +356,7 @@
             "footnotes": [
                 {
                     "word": "bisig",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -373,7 +373,7 @@
             "footnotes": [
                 {
                     "word": "Binulag",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -384,7 +384,7 @@
             "footnotes": [
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -395,7 +395,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -412,19 +412,19 @@
             "footnotes": [
                 {
                     "word": "sumigaw",
-                    "note": ""
+                    "id": "44-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "44-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "44-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "44-3"
                 }
             ],
             "outlines": [
@@ -443,7 +443,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
@@ -454,7 +454,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "47-1"
                 }
             ],
             "outlines": null
@@ -465,7 +465,7 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -482,10 +482,144 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "50-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “Betania” ay nangangahulugang bahay ng kahirapan. Ngayon ang Panginoon ay nasa labas ng Hudaismo at sa pamamagitan ng Kanyang pagkabuhay na muling buhay ay natamo Niya ang isang bahay rito sa Betania kung saan Siya ay maaaring magpista at magkaroon ng kapahingahan at kasiyahan. Ang bahay ng pistahang ito ay isang maliit na anyo ng buhay-ekklesia na nagsasaad ng kalagayan ng ekklesia: 1) naibunga ng buhay ng pagkabuhay na muli-si Lazaro (11:43-44); 2) binubuo ng mga nilinis na makasalanan-si Simon na ketongin (Mar. 14:3); 3) sa panlabas ay naghihirap-Betania; 4) sa panloob ay nasa presensiya ng Panginoon at kasama ng Panginoon na nagpipista (b.2); 5) higit na marami ang mga kapatid na babae kaysa sa mga kapatid na lalake (bb. 2-3); 6) may iba’t ibang pangsyon: naglilingkod-si Marta, nagpapatotoo-si Lazaro, at nagmamahal sa Panginoon-si Maria (bb. 2-3); 7) nadungisan ng bulaang tao-si Hudas (b. 4); 8) inuusig ng relihiyon (b. 10); 9) nagsisilbing pagsusulit at naghahantad ng tunay na kalagayan ng mga tao (bb. 6, 10); at 10) nag-aakit ng maraming mananampalataya."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang yunit ng timbang ng kapanahunan noon; humigit-kumulang katumbas ng ikatlong bahagi ng isang kilo."
+        },
+        {
+            "id": "3-2",
+            "text": "Ito ang bahay ni Simon na ketongin (Marc. 14:3)."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 7-1 sa kapitulo 6."
+        },
+        {
+            "id": "6-1",
+            "text": "O, tinatangay."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang Panginoong Hesus ay isang pagsubok sa lahat ng taong nasa paligid Niya. Ang mga pangulong saserdote at mga Fariseo ay nagsabwatan na patayin Siya (11:47, 53, 57), si Simon na ketongin ay naghanda ng kanyang bahay para sa Kanya (Mat. 26:6), si Marta ay nagsilbi sa Kanya, si Lazaro ay nagpatotoo patungkol sa Kanya, si Maria ay nagmahal sa Kanya (bb.2-3), si Judas ay malapit nang magkanulo sa Kanya (b.4), at marami ang nanampalataya sa Kanya (b.11). Ang Panginoon ang sentro ng ekonomiya ng Diyos. Siya rin ang itinalaga ng Diyos na tanda (Luc. 2:34). Ang sinumang nakikipag-ugnay sa Kanya ay tiyak na masusubok at tiyak na mahahantad."
+        },
+        {
+            "id": "11-1",
+            "text": "Lit. tungo sa loob ni Hesus."
+        },
+        {
+            "id": "13-1",
+            "text": "Heb. Magligtas Ka ngayon (Awit 118:25)."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang maluwalhati si Hesus bilang ang Anak ng Tao ay ang mabuhay na muli, yaon ay, ang mapalaya ang Kanyang dibinong elemento, ang Kanyang dibinong buhay, mula sa saklob ng Kanyang pagkatao upang ibunga ang maraming mananampalataya sa loob ng pagkabuhay na muli (1 Ped. 1:3), katulad ng isang butil ng trigo, sa kasunod na bersikulo, na nagpapalaya sa elemento ng buhay nito sa pamamagitan ng pagkahulog sa lupa at pagtubo mula sa lupa upang mamunga ng marami, yaon ay, ang mamunga ng maraming butil. Tingnan ang tala 1-1 sa kapitulo 17."
+        },
+        {
+            "id": "24-1",
+            "text": "Sa puntong ito, ayon sa makasanlibutang pananaw, si Hesus ay nasa Kanyang ginintuang kapanahunan. Marami sa mga Hudyo ang nagpahalaga sa Kanya at mainit na tumanggap sa Kanya dahil sa pagkabuhay na muli ni Lazaro (bb.12-19), at maging ang mga Griyego ay naghahanap sa Kanya (bb. 20-22). Nguni’t ninais pa Niyang mahulog sa lupa at mamatay na katulad ng isang butil ng trigo upang maibunga ang maraming butil para sa ekklesia."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang maraming butil na ito ay naging pagpaparami ni Kristo sa loob ng pagkabuhay na muli; ang pagpaparaming ito ay ang kaluwalhatiang pinasok ni Kristo pagkaraan ng Kanyang kamatayan at pagkabuhay na muli (Luc. 24:26). Mula sa bersikulo 23 ng kapitulong ito hanggang sa katapusan ng kapitulo 17 masusing tinalakay ang maluwalhating hiwagang ito. Si Kristo sa simula pa ay kasama na ng Diyos na nagtataglay ng kaluwalhatian (17:5). Siya ay naging laman, sa gayon, ang Kanyang dibinong kaluwalhatian ay nakubli sa loob ng Kanyang laman. Sa pamamagitan ng Kanyang kamatayan at pagkabuhay na muli, ang kaluwalhatian Niyang ito ay napalaya at nagbunga ng maraming butil na naging Kanyang pagpaparami upang ihayag ang Kanyang kaluwalhatian. Ang mga tinalakay sa bb. 23, 28; 13:31-32; 14:13; 15:8; 16:14; at 17:1, 4, 5, 10, 22, 24 ay pawang may kaugnayan sa kaluwalhatiang ito. Ang kaluwalhatiang ito na Kanyang sinalita sa mga disipulo sa kapitulo 14-16 ay may tatlong kongkretong pangsama-samang kahayagan: sa 14:2-ang bahay ng Ama (ang ekklesia); sa 15:1-5-ang mga sanga ng puno ng ubas (ang mga sangkap na bumubuo sa Katawan ni Kristo) at sa 16:21-ang isang sama-samang tao sa bagong buhay (ang bagong tao). Ang tatlong ito ay pawang tumutukoy sa ekklesia, isinasaad na ang ekklesia ay ang maluwalhating pagpaparaming ibinunga ng pagdaan ni Kristo sa kamatayan at pagkabuhay na muli. Sa maluwalhating pagpaparaming ito, ang Anak ng Diyos na si Kristo ay nagkamit ng kaluwalhatian, sinasanhi ang Amang Diyos na magkamit din ng kaluwalhatian sa loob ng Kanyang pagkakamit ng kaluwalhatian, samakatuwid ay sa pamamagitan ng ekklesia nakamit ang puspos at masaganang kahayagan (Efe. 3:19-21). Ito ay mapananatili lamang sa pagkakaisa na nasa loob ng Tres-unong Diyos. Kaya sa nagtatapos na panalangin ng Panginoon sa kapitulo 17, ipinamanhik Niya ito nang natatangi (17:20-23). Ang maluwalhating pagpaparaming ito ni Kristo ay ang tugatog ng mahiwagang pahayag ng Ebanghelyo ni Juan at ang sukdulang kaganapan nito ay ang Bagong Herusalem na binanggit sa Apocalipsis na isinulat ni Juan. Ang bagong banal na lunsod ay ang kabuuan ng pagpaparami ni Kristo sa buong kapanahunan; ang dibinong kaluwalhatian ni Kristo ay maihahayag nang lubusan sa gitna nito. Ang pagkamit ng kaluwalhatian ng Diyos Ama sa kaluwalhatiang natanggap ng Diyos Anak ay magtatamo ng walang hanggan, di-mapaparisang kaluwalhatian na magiging Kanyang puspos at masaganang kahayagan sa kawalang-hanggan. Ang Kanyang walang hanggang ekonomiya ay maisasakatuparan hanggang sa kawalang-hanggan."
+        },
+        {
+            "id": "25-1",
+            "text": "Gr. psuche , kaluluwa, pangkaluluwang buhay, katulad ng sa 10:11, 15, 17. Bilang isang butil ng trigo na nahulog sa lupa, iwinala ng Panginoon ang Kanyang pangkaluluwang buhay sa pamamagitan ng kamatayan upang mapalaya Niya sa “maraming butil” ang Kanyang walang hanggang buhay sa loob ng pagkabuhay na muli. Bilang ang maraming butil, dapat nating iwala ang ating pangkaluluwang buhay sa pamamagitan ng kamatayan upang matamasa natin ang buhay na walang hanggan sa loob ng pagkabuhay na muli. Kung tayo ay susunod sa Kanya upang Siya ay paglingkuran, dapat nating iwala ang pangkaluluwang buhay, at mamuhay sa landas ng Kanyang pagkabuhay na muli na kasama Siya sa pagtahak, katulad ng pagkabanggit sa bersikulo 26."
+        },
+        {
+            "id": "25-2",
+            "text": "Tingnan ang tala 15-2 sa kap. 3."
+        },
+        {
+            "id": "27-1",
+            "text": "Bilang tao ang Panginoon ay nagulumihanan sa Kanyang kaluluwa dahil sa pagdurusa na Kanyang daranasin sa Kanyang nalalapit na kamatayan. Kaya idinalangin Niya, “Ama, iligtas Mo Ako sa oras na ito.” Nguni’t, tiyak na sa Kanyang espiritu ay natanto Niya na kaya Siya pumarito sa oras na ito ay upang luwalhatiin ang Ama."
+        },
+        {
+            "id": "27-2",
+            "text": "Tumutukoy sa pangalan ng maluwalhating Ama na binanggit sa sumusunod na bersikulo."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang luwalhatiin ang pangalan ng Ama ay ang sanhiing maihayag ang dibinong elemento ng Ama. Ang dibinong elemento ng Ama, ang walang hanggang buhay, ay nasa loob ng nagkatawang-taong Anak. Ang saklob ng pagkakatawang-tao ng Anak ay kailangang mabasag sa pamamagitan ng kamatayan upang mapalaya at maihayag sa loob ng pagkabuhay na muli ang dibinong elemento, ang walang hanggang buhay ng Ama, katulad ng pagkalaya ng elemento ng buhay ng isang butil ng trigo sa pamamagitan ng pagkabasag ng balat nito at pagkahayag sa pamamagitan ng pamumulaklak nito. Ito ang pagkaluwalhati ng Diyos Ama sa pamamagitan ng Anak. Tingnan ang tala 1-1 sa kapitulo 17."
+        },
+        {
+            "id": "31-1",
+            "text": "Sa krus ang Panginoon bilang ang Anak ng Tao sa bersikulo 23 ay itinaas sa anyo ng ahas (3:14), yaon ay, “sa anyo ng laman ng kasalanan” (Roma 8:3). Itinurok ni Satanas, ang pinuno ng sanlibutang ito bilang ang “matandang ahas” (Apoc. 12:9; 20:2), ang kanyang sarili sa laman ng tao. Sa pamamagitan ng Kanyang kamatayan sa krus, “na nasa anyo ng laman ng kasalanan”, winasak ng Panginoon si Satanas na nasa laman (Heb. 2:14). Sa pamamagitan ng paghatol kay Satanas (16:11) sa ganitong paraan, ang sanlibutang nakabitin kay Satanas, ay nahatulan din. Sa gayon, nahatulan ng Panginoon sa Kanyang pagiging naitaas sa krus ang sanlibutan at pinalayas ang pinuno nito na si Satanas."
+        },
+        {
+            "id": "31-2",
+            "text": "Gr. kosmos , pagkakaayos. Tingnan ang tala 15-2 ng 1 Juan 2. Ang sanlibutan ay isang masamang sistema, na isinaayos ni Satanas nang masistema. Sinistema ni Satanas ang lahat ng bagay sa mundo, lalung-lalo na ang mga may kaugnayan sa sangkatauhan, at mga bagay na nasa hangin, tungo sa kanyang kaharian ng kadiliman upang okupahin at hadlangan ang mga tao sa layunin ng Diyos at gambalain sila mula sa pagtatamasa sa Diyos. Ang masamang sistemang ito, ang kaharian ng kadiliman, ay nahusgahan nang ang pinuno nito na si Satanas, ay pinalayas sa pamamagitan ng pagkapako sa krus ng Panginoon sa laman. Tingnan ang tala 31-1 ."
+        },
+        {
+            "id": "32-1",
+            "text": "Sa isang aspekto, ang kamatayan ng Panginoon ay ang pagkahulog sa lupa, katulad ng pagkahayag sa bersikulo 24; sa kabilang aspekto, ito ay ang pagkabitin sa kahoy (1 Ped. 2:24). Ang mahulog sa lupa ay ang mamunga ng maraming butil; ang maibitin sa kahoy ay ang mapalapit ang lahat ng tao sa Kanyang Sarili. Ang maraming butil na ibinunga ng Kanyang pagkahulog sa lupa ay ang lahat ng taong napalapit ng Kanyang pagiging naibitin sa kahoy."
+        },
+        {
+            "id": "36-1",
+            "text": "Lit. tungo sa loob ng."
+        },
+        {
+            "id": "36-2",
+            "text": "*Lit. anak na lalake."
+        },
+        {
+            "id": "37-1",
+            "text": "Lit. tungo sa loob Niya."
+        },
+        {
+            "id": "38-1",
+            "text": "Ang bisig ng Panginoon ay ang Panginoong Hesus Mismo."
+        },
+        {
+            "id": "40-1",
+            "text": "Ang kabulagan at katigasan ng puso ay magkaugpong at ang mga ito ay parusa sa mga hindi nananampalataya."
+        },
+        {
+            "id": "41-1",
+            "text": "Ang Kanyang kaluwalhatian dito ay nagpapatibay na ang Panginoong Hesus ay ang Diyos Mismo, si Jehovah ng mga hukbo, na kung kaninong kaluwalhatian ay nakita ni Isaias (Isa. 6:1, 3). Ang kaluwalhatiang ito ay nakita at pinahalagahan ni Isaias, nguni’t hindi inibig ng ibang mahihinang mananampalataya ng Panginoon (bb. 42-43)."
+        },
+        {
+            "id": "42-1",
+            "text": "Lit. tungo sa loob Niya."
+        },
+        {
+            "id": "44-1",
+            "text": "Ito ay ang deklarasyon ng Panginoon sa mga di-nananampalatayang relihiyonista na nagpapahiwatig na: 1) Siya ang Diyos na nagpakita sa tao (bb. 44-45); 2) dumating Siya bilang Ilaw sa sanlibutan upang ang nananampalataya tungo sa Kanya ay hindi manatili sa kadiliman (bb. 46, 36); 3) dumating Siya sa tao na may mga buháy na salita at ang sinumang tumanggap sa Kanyang mga salita ay magkakaroon ng walang hanggang buhay ngayon at magpakailanman, at ang sinumang tumatanggi sa Kanyang mga salita ay hahatulan ng Kanyang mga salita sa huling araw (bb. 47-50)."
+        },
+        {
+            "id": "44-2",
+            "text": "Lit. tungo sa loob Ko."
+        },
+        {
+            "id": "44-3",
+            "text": "Lit. tungo sa loob Niya."
+        },
+        {
+            "id": "46-1",
+            "text": "Lit. tungo sa loob Ko."
+        },
+        {
+            "id": "47-1",
+            "text": "Gr. rhema . Tingnan ang tala 63-3 sa kapitulo 6."
+        },
+        {
+            "id": "48-1",
+            "text": "Gr. rhema . Tingnan ang tala 63-3 sa kapitulo 6."
+        },
+        {
+            "id": "50-1",
+            "text": "Tingnan ang tala 15-1 sa kap. 3."
         }
     ]
 }

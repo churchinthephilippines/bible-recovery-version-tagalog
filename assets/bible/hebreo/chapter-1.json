@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Diyos,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "iba’t",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -25,23 +25,23 @@
             "footnotes": [
                 {
                     "word": "huling",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "Anak,",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "Tagapagmana",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "sansinukob:",
-                    "note": ""
+                    "id": "2-5"
                 }
             ],
             "outlines": null
@@ -52,31 +52,31 @@
             "footnotes": [
                 {
                     "word": "ningning",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "hayag",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "paglilinis",
-                    "note": ""
+                    "id": "3-4"
                 },
                 {
                     "word": "lumuklok",
-                    "note": ""
+                    "id": "3-5"
                 },
                 {
                     "word": "Kamahalan",
-                    "note": ""
+                    "id": "3-6"
                 },
                 {
                     "word": "kaitaasan;",
-                    "note": ""
+                    "id": "3-7"
                 }
             ],
             "outlines": null
@@ -87,7 +87,7 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": [
@@ -102,7 +102,7 @@
             "footnotes": [
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -113,7 +113,7 @@
             "footnotes": [
                 {
                     "word": "Panganay",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -124,11 +124,11 @@
             "footnotes": [
                 {
                     "word": "hangin",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "tagapaglingkod",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -139,7 +139,7 @@
             "footnotes": [
                 {
                     "word": "O",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -150,11 +150,11 @@
             "footnotes": [
                 {
                     "word": "Iyong",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "kasama.",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -165,7 +165,7 @@
             "footnotes": [
                 {
                     "word": "Panginoon,",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -188,7 +188,7 @@
             "footnotes": [
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -199,10 +199,112 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Purihin ang Diyos! Siya ay nagsalita! Kung walang pagsasalita, ang Diyos ay mahiwaga. Nguni’t ipinahayag Niya ang Kanyang sarili sa Kanyang pagsasalita. Siya ay hindi na mahiwaga. Ngayon Siya na ang naihayag na Diyos. Ang binigyang-diin ng aklat na ito ay yaong ang Diyos, hindi ang tao, ang nagsalita. Kaya, hindi nito binabanggit kung sino ang sumulat ng aklat na ito, ni ang pangalan ng tagapagsalita sa lahat ng mga sinipi nito mula sa Lumang Tipan. Ayon sa kaisipan ng aklat na ito, ang buong Kasulatan ay ang pagsasalita ng Diyos. Kaya, kapag ito ay tumutukoy sa Lumang Tipan, palagian nitong sinasabi na yaon ay ang pagsasalita ng Espiritu Santo (3:7; 9:8; 10:15-17). Ang aklat na ito, bilang isang sulat ng pagsasalita-ng-Diyos, ay angkop na angkop at lubhang makahulugang tinawag na aklat ng mga Hebreo. Ang unang Hebreo ay si Abraham (Gen. 14:13), na siyang ama niyaong mga nakikipag-ugnay sa Diyos sa pamamagitan ng pananampalataya (Roma 4:11-12). Sa gayon, ang Diyos ay tinawag na ang Diyos ng mga Hebreo (Exo. 9:1, 13). Ang salitang-ugat ng salitang “Hebreo” ay tumawid, tumutukoy lalung-lalo na sa pagtawid sa ilog, mula sa panig na ito ng ilog hanggang sa kabilang panig ng ilog, mula sa panig na ito hanggang sa kabilang panig. Kaya, ang mga Hebreo ay ang mga taong tumawid sa ilog. Si Abraham ay isang gayong tao na tumatawid mula sa panig na yaon ng ilog Eufrates, ang lugar na sumasamba sa diyos-diyosan, hanggang sa kabilang panig ng ilog Eufrates, ang Canaan na naglilingkod-sa-Diyos (Jos. 24:2-3). Ang sinasalita ng Diyos sa aklat na ito ay yaong ninanais Niya yaong mga mananampalatayang Hudyo na sumampalataya na sa Panginoon subali’t umiibig pa rin sa Hudaismo, na lumisan mula sa kautusan at tumawid tungo sa biyaya (4:16; 7:18-19; 12:28; 13:9), na lumisan mula sa lumang tipan at tumawid tungo sa bagong tipan (8:6-7, 13), na lumisan mula sa ritwal na paglilingkod ng lumang tipan at tumawid tungo sa espiritwal na katotohanan ng bagong tipan (8:5; 9:9-14). Ito rin ay ang lumisan mula sa Hudaismo at tumawid tungo sa ekklesia (13:13; 10:25), ang lumisan mula sa makalupa at tumawid tungo sa makalangit (12:18-24), ang lumisan mula sa labas na looban kung saan naroon ang dambana at tumawid tungo sa Dakong Kabanal-banalan kung saan naroon ang Diyos (13:9-10; 10:19-20), ang lumisan mula sa kaluluwa at tumawid tungo sa espiritu (4:12), at ang lumisan mula sa pasimula ng katotohanan at buhay at tumawid tungo sa paggulang ng buhay sa katotohanan (5:11-6:1). Hindi lamang ang mga mananampalatayang Hudyo, bagkus ang lahat ng mga nakikipag-ugnay sa Diyos sa pamamagitan ng pananampalataya, ang kinakailangang maging isang gayong taong tumatawid sa ilog. Ito ang layunin ng pagsasalita ng Diyos sa aklat na ito."
+        },
+        {
+            "id": "1-2",
+            "text": "Sa Lumang Tipan ang Diyos ay nagsalita sa mga tao hindi lamang nang minsanan at sa iisang paraan lamang, bagkus sa iba’t ibang bahagi at sa iba’t ibang paraan: sa isang bahagi sa mga Patriarka sa isang paraan, sa isa pang bahagi sa pamamagitan ni Moises sa ibang paraan; sa isang bahagi sa pamamagitan ni David sa isang paraan, sa iba pang mga bahagi sa pamamagitan ng ilang propeta sa ilang magkakaibang paraan."
+        },
+        {
+            "id": "2-1",
+            "text": "O, sa katapusan ng mga araw na ito, isang maka-Hebreong pananalita na tumutukoy sa katapusan ng pamamahagi ng kautusan, at ang pagpapakilala sa Mesiyas. Tingnan ang Isa. 2:2; Mik. 4:1."
+        },
+        {
+            "id": "2-2",
+            "text": "Sa Lumang Tipan, ang Diyos ay nagsalita sa pamamagitan ng mga propeta, sa mga taong pinakilos ng Kanyang Espiritu (2 Ped. 1:21). Sa Bagong Tipan, Siya, na nasa loob ng Anak, ay nagsasalita sa Persona ng Anak. Ang Anak ay ang Diyos Mismo (b. 8), ang Diyos na nahayag. Ang Diyos Ama ay nakukubli; ang Diyos Anak ay nahahayag. Wala pang nakakita sa Diyos; tangi lamang ang Anak, bilang ang Salita ng Diyos (Juan 1:1; Apoc. 19:13) at ang pagsasalita ng Diyos, ang nagdeklara sa Kanya sa isang puspos na kahayagan, kapaliwanagan, at pagpapakahulugan (Juan 1:18). Ang Anak ang sentro, ang pinagtutuunan ng pansin, ng aklat na ito. Sa Pamunuang-Diyos, Siya ang ningning ng kaluwalhatian ng Diyos at ang hayag na larawan ng substansiya ng Diyos. Sa paglikha, Siya ay: 1) ang kaparaanan na sa kaninong pamamagitan ginawa ang sansinukob (b. 2); 2) ang kapangyarihang umaalalay sa lahat ng mga bagay (b. 3); at 3) ang Tagapagmanang itinalagang magmana ng lahat ng mga bagay. Sa pagtutubos ay naisagawa na Niya ang paglilinis ng mga kasalanan ng tao at nakaupo ngayon sa kanang kamay ng Diyos na nasa mga kalangitan (b. 3).Ipinahahayag sa atin ng aklat na ito ang kaibhan ng Lumang Tipan sa Bagong Tipan. Ang Lumang Tipan ay sa kautusan sa mga titik at mga anyo, pantao, panlupa, pansamantala, at sa pamamagitan ng paningin, nauuwi sa isang relihiyong tinatawag na Hudaismo. Ang Bagong Tipan ay sa buhay, espirituwal, makalangit, pangwalang-hanggan, at sa pamamagitan ng pananampalataya, nakatuon sa isang Persona na Siyang Anak ng Diyos."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang maikling rekomendasyong ito sa Anak sa bb. 2 at 3 ay nagpapahayag sa atin kapwa ng Persona at gawa ng Anak. Sa Kanyang Persona, Siya ang ningning ng kaluwalhatian ng Diyos at ang hayag na larawan ng substansiya ng Diyos. Sa Kanyang gawa, nilikha Niya ang sansinukob at inaalalayan ang lahat ng mga bagay, at nilinis na Niya ang ating mga kasalanan."
+        },
+        {
+            "id": "2-4",
+            "text": "Tumutukoy sa mga legal na tagapagmana na magmamana ng lahat ng mga nasa ekonomiya ng Diyos. Siya ay hindi lamang ang Anak ng Diyos, kundi ang Tagapagmana rin ng Diyos, kaya nga, ang lahat ng kung ano ang Ama at mayroon ang Ama ay para sa Kanya (Juan 16:15). Sa nagdaan, ang Anak ang Manlilikha ng lahat ng mga bagay (bb. 2, 10; Juan 1:3; Col. 1:16; 1 Cor. 8:6); ngayon Siya ang Tagaalalay, Tagataguyod at Tagapagpakilos ng lahat ng mga bagay (b. 3); sa hinaharap, Siya ang Tagapagmana ng lahat ng mga bagay (cf. Roma 11:36)."
+        },
+        {
+            "id": "2-5",
+            "text": "Lit. mga kapanahunan. “Ang mga kapanahunan” ay isang maka-Hudyong pananalita na nangangahulugang sansinukob. Ang “mga kapanahunan” dito ay hindi tumutukoy sa bagay na nauukol sa panahon. kundi sa paglikhang naipahayag sa panahon sa pamamagitan ng mga sunud-sunod na kapanahunan."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang ningning ng kaluwalhatian ng Diyos ay katulad ng pagliliwanag o ng kaningningan ng liwanag ng araw. Ang Anak ay ang pagliliwanag at ang kaningningan, ng kaluwalhatian ng Ama. Ito ay tumutukoy sa kaluwalhatian ng Diyos. Ang hayag na larawan ng substansiya ng Diyos ay katulad ng bakas ng isang tatak. Ang Anak ang kahayagan ng kung ano ang Diyos Ama. Ito ay tumutukoy sa substansiya ng Diyos."
+        },
+        {
+            "id": "3-2",
+            "text": "*Gr. charaktër . Isinalin dito na “hayag na larawan,” literal na nangangahulugang larawang itinatak, yaon ay, eksaktong kopya."
+        },
+        {
+            "id": "3-3",
+            "text": "Gr. rhema , ang kagyat na salita. Inaalalayan ng Anak ang lahat ng mga bagay, hindi sa pamamagitan ng Kanyang gawa, kundi sa pamamagitan ng Kanyang kagyat na salita, ang salita ng Kanyang kapangyarihan. Sa paglikha, ang lahat ng mga bagay ay umiral sa pamamagitan Niya bilang ang Salita (Juan 1:1-3). “Ang sansinukob ay naitatag sa pamamagitan ng salita ng Diyos” (11:3). “Siya ay nagsalita, at ito ay nangyari; Siya ay nag-utos, at ito ay tumayong matatag” (Awit 33:9). Sa kaligtasan tayo ay naligtas sa pamamagitan ng Kanyang salita (Juan 5:24; Roma 10:8, 17). Sa pamamagitan nga ng Kanyang salita, ang Kanyang awtoridad na may kapangyarihan ay naisasakatuparan (Mat. 8:8-9). Sa pamamagitan ng Kanyang salita, ang Kanyang kapangyar ihang magpagal ing ay naisasakatuparan (Juan 4:50-51). Sinasabi rito sa Hebreo na ang Diyos ay nagsasalita sa loob ng Anak at ang lahat ng mga bagay ay inaalalayan at pinakikilos ng Anak sa pamamagitan ng Kanyang salita. Ito ay lubusang isang bagay ng pagsasalita. Kapag nagsalita ang Panginoon, ang lahat ng mga bagay ay nasa kaayusan."
+        },
+        {
+            "id": "3-4",
+            "text": "Sa sagisag na nasa Lumang Tipan, ang pagtubos-ng-kasalanan ( atonement ) ay makapagtatakip lamang ng mga kasalanan (Awit 32:1), ngunit walang kakayahang mag-alis ng mga kasalanan. Kaya ang mga saserdoteng nanunubos-ng-kasalanan ( atoning ) ay nakatayo araw-araw, naghahandog ng mga parehong hain (10:11) at hindi kailanman makauupo. Datapuwa’t inalis ng Anak ang kasalanan (Juan 1:29) at isinagawa ang paglilinis ng mga kasalanan nang minsanan. Kaya Siya ay naupo magpakailanman (10:10, 12)."
+        },
+        {
+            "id": "3-5",
+            "text": "Ang aklat na ito, taglay ang konsepto na ang lahat ng mga positibong bagay ay makalangit, ay naghahatid sa atin sa mismong Kristo na nasa mga kalangitan. Sa mga Ebanghelyo ay ang Kristo na namuhay sa lupa at namatay sa krus para sa pagsasakatuparan ng katubusan. Sa Gawa ay ang nabuhay na muli at umakyat sa langit na Kristo na naipalaganap at naihain sa mga tao. Sa Roma ay ang Kristo na katuwiran natin para sa pag-aaring-matuwid at ang buhay natin para sa pagpapabanal, pagtatransporma, pagwawangis, pagluluwalhati, at pagtatayo. Sa Galacia ay ang Kristo para sa ating pamumuhay laban sa kautusan, relihiyon, tradisyon, at mga rituwal. Sa Filipos ay ang Kristo na naibuhay sa Kanyang mga sangkap. Sa Efeso at sa Colosas ay ang Kristo na Siyang buhay, nilalaman, at Ulo ng Katawan, ang ekklesia. Sa Corinto ay ang Kristo na Siyang lahat -lahat sa prakt ikal na buhay-ekklesia. Sa Tesalonica ay ang Kristo na Siyang kabanalan natin para sa Kanyang pagbabalik. Sa Timoteo at Tito ay ang Kristo na Siyang ekonomiya ng Diyos upang malaman natin ang ating dapat ugaliin sa bahay ng Diyos. Sa mga Sulat ni Pedro ay ang Kristo na para sa at in upang ating matanggap ang mga pampamahalaang pagtutuos ng Diyos sa pamamagitan ng mga pagdurusa. Sa mga Sulat ni Juan ay ang Kristo na Siyang buhay at pagsasalamuha ng mga anak ng Diyos sa sambahayan ng Diyos. Sa Apocalipsis ay ang Kristo na lumalakad sa gitna ng mga ekklesia sa kapanahunang ito, na maghahari sa daigdig sa kaharian sa darating na kapanahunan, at inihayag sa bagong langit at bagong lupa sa buong kaluwalhatian sa kawalang-hanggan. Sa aklat na ito ay ang pangkasalukuyang Kristo na ngayon ay nasa mga kalangitan bilang ating Ministro (8:2) at ating Mataas na Saserdote (4:14-15; 7:26), naghahain sa atin ng makalangit na buhay, biyaya, awtoridad, at kapangyarihan, at nagtutustos sa atin upang makapamuhay ng isang makalangit na buhay sa lupa. Siya ang Kristo ngayon, ang Kristo sa kasalukuyan, at ang Kristo na nasa luklukan na Siyang pang-araw-araw nating kaligtasan at panustos sa bawat sandali."
+        },
+        {
+            "id": "3-6",
+            "text": "O, kadakilaan, tumutukoy sa Diyos bilang Siyang pinakadakila na taglay ang Kanyang karangalan."
+        },
+        {
+            "id": "3-7",
+            "text": "Ang mataas na dako, ang ikatlong langit, ang pinakamataas na dako sa sansinukob."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang higit na ekselenteng pangalang ito ay ang Anak, na lubos na binigyang-kahulugan sa mga sumusunod na bersikulo."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “araw na ito” ay tumutukoy sa araw ng pagkabuhay-na-muli (Gawa 13:33). Binibigyan tayo ng kapitulong ito ng isang ulat ni Kristo mula sa kawalang-hanggang lumipas hanggang sa kawalang-hanggang hinaharap. Siya ang mismong Diyos sa kawalang-hanggang lumipas (b. 8); Siya ang Lumikha ng lupa at ng kalangitan (bb. 10, 2); Siya ang Tagaalalay at Tagapagpakilos ng lahat ng mga bagay (b. 3); Siya ang Tagapagmana ng lahat ng mga bagay (b. 2); Siya ay naging laman para sa katubusan sa pamamagitan ng pagkapako sa krus (b. 3); Siya ay ipinanganak bilang Anak ng Diyos sa loob ng pagkabuhay na muli para sa pamamahagi ng buhay sa maraming anak ng Diyos (b. 5); bilang panganay na Anak ng Diyos Siya ay babalik (b. 6); sa kaharian, Siya ang magiging Hari sa trono na taglay ang setro (bb. 8-9); at Siya ay mananatili magpakailanman sa kawalang-hanggang hinaharap (b. 12)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang bersikulong ito ay tumutukoy sa ikalawang pagdating ng Anak. Sa Kanyang unang pagdating Siya ang bugtong na Anak ng Diyos (Juan 1:14). Sa pamamagitan ng hakbangin ng pagkabuhay na muli, ang bugtong na Anak ay naging ang Panganay sa maraming magkakapatid (Roma 8:29). Kaya sa Kanyang pagbabalik, Siya ang magiging Panganay."
+        },
+        {
+            "id": "7-1",
+            "text": "Gr. pneumata , parehong salita para sa mga espiritu. Dito, ito ay tumutukoy sa mga hangin upang bagayan ang ningas ng apoy. Ang mga anghel ay katulad ng mga hangin at ng isang ningas ng apoy. Sila ay pawang mga nilikha lamang, samantalang ang Anak ay ang Manlilikha. Bilang mga nilikha, ang mga anghel ay higit na mababa sa Anak, at bilang ang Manlilikha, ang Anak ay higit na mataas sa mga anghel."
+        },
+        {
+            "id": "7-2",
+            "text": "*Tingnan ang tala 6-1 sa Roma 13."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang “O Diyos” at “Iyong Diyos” sa b. 9 ay pawang mga salitang tumutukoy sa Anak. Yamang ang Anak ay ang Diyos Mismo, Siya ay Diyos; kaya, sinasabi sa bersikulong ito na “O Diyos.” Yamang ang Anak ay tao rin, ang Diyos ay Kanyang Diyos; kaya, sinasabi sa b. 9 na “Iyong Diyos,”Ang pakay ng aklat na ito ay ang ipakita sa mga mananampalatayang Hebreo na ang pagliligtas ng Diyos ay nakahihigit sa Hudaismo. Sa Hudaismo, ang ipinagmamalaki ay ang Diyos, ang mga anghel, si Moises, si Aaron na mataas na saserdote, at ang Lumang Tipan kalakip ang mga paglilingkod dito. Una munang tinukoy ng manunulat na sa pagliligtas ng Diyos ang unang nakahihigit na bagay ay hindi lamang ang Diyos, bagkus ang naihayag na Diyos, na Siyang Diyos Anak (bb. 2, 3, 5, 8-12). Pagkatapos ay patuloy niyang inihayag na si Kristo ay nakahihigit sa mga anghel (b. 4 -2:18), nakahihigit kay Moises (3:1-6), at nakahihigit kay Aaron (4:14-7:28), at yaong ang bagong tipan ng buhay na Kanyang ginawa ay nakahihigit sa lumang tipan ng mga titik (8:1-10:18)."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 8-1 ."
+        },
+        {
+            "id": "9-2",
+            "text": "Sa ekonomiya ng Diyos, si Kristo ang Siyang itinalaga ng Diyos upang magsakatuparan ng plano ng Diyos, at tayo ang mga kasama ni Kristo sa dibinong kapakinabangan. Siya ay pinahiran ng Diyos, at tayo ay nakikibahaging kasama Niya sa pagpapahid na ito para sa ikatutupad ng layunin ng Diyos. Tingnan ang tala 14-1 sa kapitulo 3."
+        },
+        {
+            "id": "10-1",
+            "text": "Yamang ang Anak ay Diyos (b. 8) Siya ang walang hanggang Panginoon na nananatili magpakailanman (b. 11)."
+        },
+        {
+            "id": "13-1",
+            "text": "Binibigyang-diin ng aklat na ito ang katotohanang naisakatuparan na ni Kristo ang lahat ng bagay para sa Diyos at para sa atin, na walang iniwang anumang bagay para gawin natin. Sinasagisag ng Kanyang pagluklok sa kanan ng Diyos na ang Kanyang gawain ay naisakatuparan na at Siya ay namamahinga roon, naghihintay lamang ng isang bagay – na gagawin ng Diyos ang Kanyang mga kaaway na tuntungan para sa Kanyang mga paa. Siya ay nakaluklok doon sa mga kalangitan, naghihintay ng isang tuntungan ng paa upang Siya ay magkaroon ng kumpletong kapahingahan."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang Anak ay ang it inalagang Tagapagmana ng lahat ng mga bagay (b. 2). Tayo, ang Kanyang mga mananampalataya, ay ang Kanyang mga kasama (b. 9). Sa gayon tayo ang Kanyang mga kasamang tagapagmana (Roma 8:17), nagmamana hindi lamang ng kaligtasan, bagkus maging ng lahat ng mga bagay (1 Cor. 3:21-22) kasama Niya. Kaya nga, tayo ay mga kasama Niyang may-ari ng sansinukob, samantalang ang mga anghel ay mga tagapaglingkod lamang natin, hindi lamang mababa sa Kanya, bagkus maging sa atin din. Ang Anak ay itinalagang maging Tagapagmana. Tayo ay naligtas upang maging Kanyang mga kasamang tagapagmana, nakikibahagi sa Kanyang mana. Ang ganitong kadakilang kaligtasan na tinutukoy sa 2:3, ay makapagliligtas sa atin hanggang sa isang hangganan na dinadala tayo nito sa loob ng pakikipagsosyo sa pagtatalaga ng Diyos. Sa gayon tayo ay nakikibahagi sa anumang mamanahin Niya. Tayo, bilang mga kasama ng Anak ay ang bahay ng Diyos, ang tunay na Bethel, ang pintuan ng langit, kung saan ang Anak ay ang makalangit na hagdanan, idinurugtong ang lupa sa langit at dinadala ang langit sa lupa. Sa ibabaw ng hagdanang ito ay ang mga anghel ng Diyos na nagmamanhik manaog (Gen. 28:12, 16-19; Juan 1:51) bilang mga naglilingkod na espiritu upang paglingkuran tayo na mga nagmamana ng ganitong kadakilang kaligtasan. Ang tinalakay sa aklat na ito ay katulad ng “pintuan ng langit.” Dito ay tinatamasa natin ang Kristo bilang ang makalangit na Isa na nag-uugpong sa atin sa langit at nagdadala ng langit sa atin upang tayo ay maging mga makalangit na tao, namumuhay ng isang makalangit na buhay sa lupa at nagmamana ng lahat ng mga makalangit na bagay. Paano pa nagawang talikdan ng mga mananampalatayang Hebreo ang mga ito at balikan ang kanilang lumang relihiyon at ipagmalaki ang mga anghel, gayong ang mga anghel ay ating mga tagapaglingkod lamang?"
         }
     ]
 }

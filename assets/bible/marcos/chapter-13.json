@@ -1,5 +1,5 @@
 {
-    "chapter": 13,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -25,7 +25,7 @@
             "footnotes": [
                 {
                     "word": "Walang",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -36,7 +36,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -77,7 +77,7 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -94,7 +94,7 @@
             "footnotes": [
                 {
                     "word": "sasabihin,",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -117,11 +117,11 @@
             "footnotes": [
                 {
                     "word": "Nguni’",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "roon",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -150,7 +150,7 @@
             "footnotes": [
                 {
                     "word": "ito",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -179,7 +179,7 @@
             "footnotes": [
                 {
                     "word": "mangagpapakita",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -190,7 +190,7 @@
             "footnotes": [
                 {
                     "word": "Aking",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -225,7 +225,7 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -236,7 +236,7 @@
             "footnotes": [
                 {
                     "word": "tag-",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -277,7 +277,7 @@
             "footnotes": [
                 {
                     "word": "gabi,",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -293,6 +293,72 @@
             "text": "At ang sinasabi Ko sa inyo ay sinasabi ko sa lahat, Mangagbantay kayo!",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa bb. 1-2, tingnan ang mga tala sa Mat. 24:1-2."
+        },
+        {
+            "id": "1-2",
+            "text": "Sa paghahanda ng Aliping-Tagapagligtas para sa Kanyang nagtutubos na gawain (11:15 – 14:42), pagkatapos harapin ang mga tagasalungat (11:15-12:37), Siya ay namalagi sa Kanyang mga tagasunod upang sila ay ihanda sa Kanyang kamatayan (13:1 14:42)—isang nakapanghihilakbot at nakabibigong aksidente para sa kanila—sa pamamagitan ng: 1) pagsasabi sa kanila ng mga bagay na darating (13:2-37); (2) pagtatamasa sa kanilang pagmamahal na naihayag sa isang kapistahan at sa pagiging napahiran ng mamahaling purong nardo (14:3-9); (3) pagtatatag ng Kanyang hapunan (1 Cor. 11:20) upang kanilang alalahanin Siya (14:12-26); at (4) pagbababala sa kanila sa kanilang pagkakatisod at pag-uutos sa kanilang magsipagbantay at manalangin (14:27-42). Agad-agad pagkatapos ng isang ganitong paghahanda Siya ay hinuli upang maipako (14:43 – 15:28)."
+        },
+        {
+            "id": "2-1",
+            "text": "Sa paghahanda ng mga disipulo sa Kanyang kamatayan, sila ay unang sinabihan ng Aliping-Tagapagligtas, sa kapitulong ito, ng mga bagay na darating, ng mga bagay na mangyayari sa sanlibutan, sa kapanahunan ng ekklesia, pagkatapos ng Kanyang pagkabuhay na muli hanggang sa panahon ng Kanyang pagbabalik, hindi sila hinahayaan sa kadiliman tungkol sa mga araw na darating: 1) tungkol sa paggiba ng templo, na mangyayari sa A.D. 70 (bb. 1-2); 2) tungkol sa mga salot sa simula ng kirot ng panganganak, na magsisimula pagkatapos ng Kanyang pag-akyat sa langit at magpapatuloy hanggang sa matinding kapighatian (bb. 3-8); 3) tungkol sa pagpapahayag ng ebanghelyo at sa mga pag-uusig sa kapanahunan ng ekklesia (bb. 9-13); 4) tungkol sa tatlo at kalahating taon ng matinding kapighatian sa katapusan ng kapanahunang ito at sa Kanyang pagbabalik (bb. 14-27); at 5) tungkol sa pagbabantay, pananalangin, at paghihintay sa Aliping-Tagapagligtas sa buong kapanahunan ng ekklesia (bb. 28-37). Ang ganitong nagbibigay-liwanag na salita sa mga nagdurusang tagasunod ng Aliping-Tagapagligtas ay katulad ng “isang nagliliwanag na ilawan sa isang lugar na madilim hanggang sa pagbubukang-liwayway” (2 Ped. 1:19)."
+        },
+        {
+            "id": "3-1",
+            "text": "Para sa bb. 3-8, tingnan ang mga tala sa Mat. 24:3-8."
+        },
+        {
+            "id": "9-1",
+            "text": "Para sa bb. 9-13, tingnan ang mga tala sa Mat. 10:17-22 at 24:9-13."
+        },
+        {
+            "id": "11-1",
+            "text": "Isinisingit ng ilang manuskrito ang, ni pag-isipan nang pauna."
+        },
+        {
+            "id": "14-1",
+            "text": "Para sa bb. 14-23, tingnan ang mga tala sa Mat. 24:15-26."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang ilang manuskrito ay nagdagdag ng, na sinalita ni Daniel na propeta."
+        },
+        {
+            "id": "14-3",
+            "text": "Ang dakong banal, yaon ay, sa loob ng templo ng Diyos (Mat. 24:15)."
+        },
+        {
+            "id": "18-1",
+            "text": "Sa ilang manuskrito ay binabasang, ang inyong pagtakas."
+        },
+        {
+            "id": "22-1",
+            "text": "Lit. magbibigay."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, Pagmasdan ninyo."
+        },
+        {
+            "id": "28-1",
+            "text": "Para sa bb. 28-31, tingnan ang mga tala sa Mat. 24:32-35."
+        },
+        {
+            "id": "29-1",
+            "text": "O, ito. Tumutukoy sa tag-araw na binanggit sa b. 28 na sumasagisag sa pagpapanumbalik ng bansang Israel."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, at magsipanalangin."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang gabi, hatinggabi, pagtilaok ng manok, at umaga ay mga katawagang ibinigay ng mga Romano sa apat na pagbabantay sa gabi."
         }
     ]
 }

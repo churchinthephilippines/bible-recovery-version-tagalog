@@ -1,353 +1,368 @@
 {
-    "chapter": 21,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
-            "text": "At nang mangyaring kami ay nangakahiwalay na sa kanila at nangaglayag, tuluy-tuloy kaming dumating sa Coos, at kinabukasan ay sa Rodas, at buhat doon ay sa Patara;",
-            "footnotes": [],
-            "outlines": null
+            "text": "Mga ginoo, mga kapatid na lalake, at mga ama, pakinggan ninyo ang aking pagtatanggol na gagawin ko ngayon sa inyo.",
+            "footnotes": [
+                {
+                    "word": "pagtatanggol",
+                    "id": "1-1"
+                }
+            ],
+            "outlines": []
         },
         {
             "id": "2",
-            "text": "At nang aming masumpungan ang isang daong na dumaraang patungo sa Fenicia, nagsilulan kami at nagsipaglayag.",
-            "footnotes": [],
+            "text": "At nang marinig nilang sila ay kinausap niya sa diyalektong Hebreo, sila ay naging lalong tahimik. At sinabi niya,",
+            "footnotes": [
+                {
+                    "word": "diyalektong",
+                    "id": "2-1"
+                }
+            ],
             "outlines": null
         },
         {
             "id": "3",
-            "text": "At nang matanaw namin ang Chipre,  na maiiwan namin sa dakong kaliwa, nagsilayag kami hanggang sa Siria at nagsidaong sa Tiro; sapagka’t ilulunsad doon ng daong ang kanilang lulan.",
+            "text": "Ako ay isang Hudyo,  ipinanganak sa Tarso ng Cilicia, datapuwa’t pinapag-aral sa lunsod na ito sa paanan ni Gamaliel,  tinuruan ayon sa kahigpitan ng kautusan ng ating mga ama, palibhasa ay masikap para sa Diyos, na gaya ninyong lahat ngayon.",
             "footnotes": [],
             "outlines": null
         },
         {
             "id": "4",
-            "text": "At nang masumpungan ang mga disipulo, nanatili kami roon ng pitong araw; at sinabi ng mga ito kay Pablo sa pamamagitan ng Espiritu na huwag siyang tutuntong sa Herusalem.",
+            "text": "At aking inusig ang daang ito hanggang sa kamatayan, tinatalian at ipinapasok sa mga bilangguan kapwa ang mga lalake at mga babae,",
             "footnotes": [
                 {
-                    "word": "sinabi",
-                    "note": ""
+                    "word": "daang",
+                    "id": "4-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "5",
-            "text": "At nang mangyari na maganap namin ang mga araw na yaon, nangagsialis kami at nangagpatuloy sa aming paglalakbay, at silang lahat kasama ang mga kababaihan at mga bata ay naghatid sa amin sa aming paglalakad hanggang sa labas ng lunsod. At sa pagluhod namin sa baybayin, kami ay nagsipanalangin.",
-            "footnotes": [],
+            "text": "Gaya rin ng mataas na saserdote at lahat ng kapulungan ng mga matanda na nagpapatotoo para sa akin; na sa kanila ay tumanggap ako ng mga sulat para sa mga kapatid na lalake, at pumunta sa Damasco upang dalhin ko sa Herusalem ang mga nangaroon na nangagapos upang maparusahan.",
+            "footnotes": [
+                {
+                    "word": "kapulungan",
+                    "id": "5-1"
+                }
+            ],
             "outlines": null
         },
         {
             "id": "6",
-            "text": "At kami ay nangagpaalam sa isa’t isa at nagsilulan kami sa daong, at sila ay nagsiuwi sa kanilang tahanan.",
-            "footnotes": [],
+            "text": "Ngayon nangyari na habang ako ay naglalakbay at papalapit sa Damasco, nang magtatanghaling-tapat, biglang may isang matinding liwanag mula sa langit ang nagliwanag sa palibot ko,",
+            "footnotes": [
+                {
+                    "word": "matinding",
+                    "id": "6-1"
+                }
+            ],
             "outlines": null
         },
         {
             "id": "7",
-            "text": "At nang matapos namin ang paglalayag buhat sa Tiro, nagsidating kami sa Tolemaida; at nagsibati kami sa mga kapatid, at nakitahan kami ng isang araw sa kanila.",
-            "footnotes": [],
+            "text": "At ako ay napasubasob sa lupa at narinig ko ang isang tinig na nagsasabi sa akin, Saulo, Saulo, bakit mo Ako inuusig?",
+            "footnotes": [
+                {
+                    "word": "Ako",
+                    "id": "7-1"
+                }
+            ],
             "outlines": null
         },
         {
             "id": "8",
-            "text": "At kinabukasan ay nagsilabas kami at nagsidating sa Cesarea;  at sa pagpasok namin sa bahay ni Felipe na ebanghelista,  na isa sa pito,  ay nakitahan kami sa kanya.",
+            "text": "At ako ay sumagot, Sino Ka ba, Panginoon?  At sinabi Niya sa akin, Ako ay si Hesus, ang Nazareno,  na iyong inuusig.",
             "footnotes": [
                 {
-                    "word": "bahay",
-                    "note": ""
+                    "word": "Panginoon?",
+                    "id": "8-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "9",
-            "text": "Ang tao ngang ito ay may apat na anak na dalaga na nagsisipagpropesiya.",
-            "footnotes": [],
+            "text": "At nakita ng mga kasama ko ang liwanag, datapuwa’t hindi nila narinig ang tinig ng Isa na nagsasalita sa akin.",
+            "footnotes": [
+                {
+                    "word": "narinig",
+                    "id": "9-1"
+                }
+            ],
             "outlines": null
         },
         {
             "id": "10",
-            "text": "At sa pagtira namin doon ng maraming araw, dumating na galing sa Judea ang isang propeta na nagngangalang Agabo.",
-            "footnotes": [],
+            "text": "At sinabi ko, Ano ang gagawin ko, Panginoon? At sinabi ng Panginoon sa akin, Tumindig ka, pumaroon ka sa Damasco, at doon ay sasabihin sa iyo ang tungkol sa lahat ng mga bagay na itinalagang gagawin mo.",
+            "footnotes": [
+                {
+                    "word": "sasabihin",
+                    "id": "10-1"
+                }
+            ],
             "outlines": null
         },
         {
             "id": "11",
-            "text": "At paglapit sa amin at pagkakuha ng pamigkis ni Pablo, ginapos niya ang kanyang sariling mga paa at kamay, at sinabi, Ganito ang sinasabi ng Espiritu Santo, Sa ganitong paraan gagapusin ng mga Hudyo sa Herusalem ang lalakeng may-ari ng pamigkis na ito, at siya ay kanilang ibibigay sa mga kamay ng mga Hentil.",
+            "text": "At nang hindi ako makakita dahil sa kaluwalhatian ng liwanag na yaon, inakay ako ng mga kasamahan ko at nakarating sa Damasco.",
             "footnotes": [
                 {
-                    "word": "sinasabi",
-                    "note": ""
+                    "word": "hindi",
+                    "id": "11-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "12",
-            "text": "At nang marinig namin ang mga bagay na ito, kami at gayon din ang nangaroroon sa lugar na yaon ay nagsipamanhik sa kanya na huwag nang umahon sa Herusalem.",
+            "text": "At isang Ananias,  isang lalakeng masipag sa kabanalan ayon sa kautusan, na pinatototohanang mabuti ng lahat ng mga Hudyong nagsisitahan doon,",
             "footnotes": [
                 {
-                    "word": "kami",
-                    "note": ""
+                    "word": "Ananias,",
+                    "id": "12-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "13",
-            "text": "At sumagot si Pablo, Ano ang ginagawa ninyo, nagsisitangis at dinudurog ang aking puso? Sapagka’t ako ay hindi lamang nahahandang magapos, bagkus mamatay rin sa Herusalem alang-alang sa pangalan ng Panginoong Hesus.",
-            "footnotes": [],
+            "text": "Ang lumapit sa akin, at nang nakatayo na sa aking tabi ay nagsabi sa akin, Saulo, kapatid, tanggapin mo ang iyong paningin! At sa oras ding yaon ay tumingin ako sa kanya.",
+            "footnotes": [
+                {
+                    "word": "tanggapin",
+                    "id": "13-1"
+                }
+            ],
             "outlines": null
         },
         {
             "id": "14",
-            "text": "At nang hindi siya pahikayat, tumahimik kami, na nagsisipagsabi, Mangyari ang kalooban ng Panginoon.",
+            "text": "At sinabi niya, Ang Diyos ng ating mga ama ay nagtalaga sa iyo upang malaman ang Kanyang kalooban,  at makita ang Matuwid,  at marinig ang tinig ng Kanyang bibig;",
             "footnotes": [],
             "outlines": null
         },
         {
             "id": "15",
-            "text": "At pagkatapos ng mga araw na ito, nagsipaghanda kami at nagsiahon sa Herusalem.",
+            "text": "Sapagka’t ikaw ay magiging isang saksi sa Kanya sa lahat ng mga tao ng mga bagay na iyong nakita at narinig.",
             "footnotes": [],
             "outlines": null
         },
         {
             "id": "16",
-            "text": "At nagsisama naman sa amin mula sa Cesarea ang ilan sa mga disipulo, at dinala nila kami sa isang Mnason, na taga-Chipre,  isa sa mga kauna-unahang disipulo, kung kanino kami magsisipanuluyan.",
+            "text": "At ngayon, bakit ka nag-aatubili? Tumindig ka at magpabautismo at hugasan mo ang iyong mga kasalanan, na tumatawag sa Kanyang pangalan.",
             "footnotes": [
                 {
-                    "word": "magsisipanuluyan.",
-                    "note": ""
+                    "word": "magpabautismo",
+                    "id": "16-1"
+                },
+                {
+                    "word": "tumatawag",
+                    "id": "16-2"
+                },
+                {
+                    "word": "Kanyang",
+                    "id": "16-3"
                 }
             ],
             "outlines": null
         },
         {
             "id": "17",
-            "text": "At nang magsidating kami sa Herusalem,  tinanggap kami ng mga kapatid nang may kagalakan.",
+            "text": "At nangyari na nang ako ay nakabalik na sa Herusalem at nang ako ay nananalangin sa templo,  ako ay nakapasok sa isang pagkawala-ng-diwa,",
             "footnotes": [
                 {
-                    "word": "magsidating",
-                    "note": ""
+                    "word": "pagkawala-",
+                    "id": "17-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "18",
-            "text": "At nang sumunod na araw, kami nina Pablo ay pumaroon kay Santiago,  at ang lahat ng mga matanda ay nangaroon.",
-            "footnotes": [
-                {
-                    "word": "Santiago,",
-                    "note": ""
-                }
-            ],
+            "text": "At Siya ay nakita ko na nagsasabi sa akin, Magmadali ka, at umalis ka kaagad sa Herusalem, sapagka’t hindi nila tatanggapin ang iyong patotoo tungkol sa Akin.",
+            "footnotes": [],
             "outlines": null
         },
         {
             "id": "19",
-            "text": "At nang mabati na niya sila, isa-isang isinalaysay niya ang mga bagay na ginawa ng Diyos sa mga Hentil sa pamamagitan ng kanyang ministeryo.",
+            "text": "At aking sinabi, Panginoon, nalalaman nila na aking ibinibilanggo at hinahampas ang mga nagsisisampalataya sa Iyo sa bawa’t sinagoga,",
             "footnotes": [],
             "outlines": null
         },
         {
             "id": "20",
-            "text": "At nang marinig nila yaon, niluwalhati nila ang Diyos; at sinabi nila sa kanya, Tingnan mo, kapatid, kung ilang libo sa mga Hudyo ang nagsisisampalataya, at silang lahat ay pawang masisikap sa kautusan;",
-            "footnotes": [
-                {
-                    "word": "libo",
-                    "note": ""
-                },
-                {
-                    "word": "masisikap",
-                    "note": ""
-                }
-            ],
+            "text": "At nang ang dugo ng Iyong saksing si Esteban ay pinadaranak,  ako rin mismo ay nakatayo sa malapit at sinasang-ayunan at iniingatan ang mga kasuotan ng mga pumatay sa kanya.",
+            "footnotes": [],
             "outlines": null
         },
         {
             "id": "21",
-            "text": "At nabalitaan nila tungkol sa iyo, na itinuturo mo sa lahat ng mga Hudyo na nangasa lahat ng mga bansa na magsihiwalay kay Moises, na sinasabi mo sa kanila na huwag tuliin ang kanilang mga anak, ni magsilakad nang ayon sa mga kaugalian.",
-            "footnotes": [
-                {
-                    "word": "magsihiwalay",
-                    "note": ""
-                }
-            ],
+            "text": "At sinabi Niya sa akin, Yumaon ka, sapagka’t susuguin kita sa mga Hentil sa malayo.",
+            "footnotes": [],
             "outlines": null
         },
         {
             "id": "22",
-            "text": "Ano nga ang dapat gawin? Tunay na mababalitaan nila na dumating ka.",
-            "footnotes": [
-                {
-                    "word": "Tunay",
-                    "note": ""
-                }
-            ],
-            "outlines": null
+            "text": "At kanilang pinakinggan siya hanggang sa salitang ito, at sila ay nangagtaas ng kanilang tinig, na nangagsasabi, alisin ang ganyang tao mula sa lupa sapagka’t siya ay hindi nararapat mabuhay!",
+            "footnotes": [],
+            "outlines": [
+                "(4) Iginapos ng mga Romano\n 22:22-29"
+            ]
         },
         {
             "id": "23",
-            "text": "Kaya gawin mo ang yaong sasabihin namin sa iyo: Apat na katao ang kasama namin na may panata sa kanilang sarili;",
-            "footnotes": [
-                {
-                    "word": "panata",
-                    "note": ""
-                }
-            ],
+            "text": "At habang sila ay nangagsisigawan, at ipinaghahagisan ang kanilang mga kasuotan at nangagsasabog ng alabok sa hangin,",
+            "footnotes": [],
             "outlines": null
         },
         {
             "id": "24",
-            "text": "Isama mo ang mga ito at magpadalisay ka kasama nila, at bayaran mo ang kanilang magugugol upang sila ay makapag-ahit ng kanilang ulo; at malalaman ng lahat na walang katotohanan ang mga bagay na kanilang nabalitaan tungkol sa iyo, kundi ikaw rin naman ay lumalakad nang maayos na tumutupad sa kautusan.",
+            "text": "Ang pangulong kapitan ay nag-utos na siya ay ipasok sa kuwartel,  na sinasabing siya ay dapat sulitin sa pamamagitan ng paghahampas upang kanyang matiyak kung ano ang dahilan at sila ay nangagsisigawan ng gayon laban sa kanya.",
             "footnotes": [
                 {
-                    "word": "magpadalisay",
-                    "note": ""
-                },
-                {
-                    "word": "magugugol",
-                    "note": ""
-                },
-                {
-                    "word": "makapag-",
-                    "note": ""
+                    "word": "pangulong",
+                    "id": "24-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "25",
-            "text": "Nguni’t tungkol sa mga Hentil na nagsisampalataya, kami ay sumulat, matapos magpasiya na dapat silang magsilayo sa mga inihain sa mga diyus-diyusan at sa dugo at sa anumang binigti at pakikiapid.",
-            "footnotes": [],
-            "outlines": null
-        },
-        {
-            "id": "26",
-            "text": "Nang magkagayon ay isinama ni Pablo ang mga tao nang sumunod na araw, at  nang mapadalisay kasama nila ay pumasok sa templo, binibigyang-pansin ang katapusan ng mga araw ng pagpapadalisay hanggang sa ihain ang handog na patungkol sa bawa’t isa sa kanila.",
+            "text": "Subali’t habang siya ay idinidipa at tinatalian ng katad, sinabi ni Pablo sa senturyong nakatayo sa malapit, Matuwid ba sa iyo na hampasin ang isang taong Romano at hindi pa nahahatulan?",
             "footnotes": [
                 {
-                    "word": "",
-                    "note": ""
+                    "word": "ng",
+                    "id": "25-1"
                 },
                 {
-                    "word": "katapusan",
-                    "note": ""
+                    "word": "sinabi",
+                    "id": "25-2"
                 }
             ],
             "outlines": null
         },
         {
+            "id": "26",
+            "text": "At nang ito ay marinig ng senturyon, siya ay naparoon sa pangulong kapitan at ipinaalam ito, na sinasabi, Ano po ang gagawin ninyo? Sapagka’t ang taong ito ay isang Romano.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
             "id": "27",
-            "text": "Ngayon nang matatapos na ang pitong araw, nakita siya ng mga Hudyong taga-Asia sa templo at kanilang ginulo ang buong kalipunan; at kanilang dinakip siya,",
+            "text": "At lumapit ang pangulong kapitan at nagsabi sa kanya, Sabihin mo sa akin, ikaw ba ay isang Romano? At sinabi niya, Oo.",
             "footnotes": [],
             "outlines": null
         },
         {
             "id": "28",
-            "text": "Na nangagsisigawan, Mga ginoo, mga Israelita, tulungan ninyo kami! Ito ang taong nagtuturo sa mga tao sa lahat ng dako laban sa bayan,  at sa kautusan, at sa dakong ito; at bukod pa rito, siya ay nagdala rin ng mga Griyego sa templo, at dinungisan ang banal na dakong ito.",
-            "footnotes": [
-                {
-                    "word": "bayan,",
-                    "note": ""
-                },
-                {
-                    "word": "dakong",
-                    "note": ""
-                },
-                {
-                    "word": "banal",
-                    "note": ""
-                }
-            ],
+            "text": "At sumagot ang pangulong kapitan, Aking nakamit ang pagkamamamayang ito sa pamamagitan ng isang malaking halaga ng salapi. At sinabi ni Pablo, Datapuwa’t ako ay katutubong Romano.",
+            "footnotes": [],
             "outlines": null
         },
         {
             "id": "29",
-            "text": "Sapagka’t nakita nila noong nakaraan sa lunsod na kasama niya si Trofimo na taga-Efeso, na kanilang inakala na dinala ni Pablo sa templo.",
+            "text": "Sa gayon, kapagdaka ay nagsilayo sa kanya ang mga magsusulit sana sa kanya; at ang pangulong kapitan din ay natakot,  nang matanto na siya ay isang Romano at dahil sa kanyang paggapos sa kanya.",
             "footnotes": [],
             "outlines": null
         },
         {
             "id": "30",
-            "text": "At ang buong lunsod ay napukaw, at ang mga tao ay sama-samang nagsitakbuhan, at pagkadakip kay Pablo, kanilang kinaladkad siya sa labas ng templo; at kapagdaka ay isinara ang mga pinto.",
-            "footnotes": [],
-            "outlines": null
-        },
-        {
-            "id": "31",
-            "text": "At habang kanilang hinahangad na patayin siya, dumating ang isang balita sa pangulong kapitan ng pulutong na ang buong Herusalem ay nasa kaguluhan.",
+            "text": "At nang sumunod na araw, sa hangaring malaman ang katotohanan kung bakit siya isinakdal ng mga Hudyo, kanyang pinawalan siya at inatasan ang mga pangulong saserdote at ang buong Sanedrin na magsama-sama; at ipinanaog si Pablo at iniharap sa kanila.",
             "footnotes": [
                 {
-                    "word": "pangulong",
-                    "note": ""
-                },
-                {
-                    "word": "pulutong",
-                    "note": ""
+                    "word": "Sanedrin",
+                    "id": "30-1"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "(5) Ipinagtatanggol ang Kanyang Sarili sa harap ng Sanedrin\n 22:30-23:10"
+            ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Hinarap ni Pablo ang kanyang mga kalaban sa isang paraang iba sa ginawa ni Kristo. Si Kristo ay katulad ng isang korderong dinala sa patayan, at katulad ng isang tupang umid sa harap ng kanyang tagagupit para sa katuparan ng Kanyang pagtutubos, hindi Niya binuksan ang Kanyang bibig nang hinatulan ng mga tao (Isa. 53:7; Mat. 26:62-63; 27:12, 14). Subali’t si Pablo, bilang isang tapat at matapang na apostol na ipinadala ng Panginoon, ay nangailangang gumawa ng pagtatanggol at gumamit ng kanyang karunungan upang iligtas ang kanyang buhay mula sa kanyang mga tagapag-usig para maisakatuparan niya ang hakbang ng kanyang ministeryo. Bagama’t siya ay may kusang-loob at nahahandang maghain ng kanyang buhay sa Panginoon (20:24; 21:13, at tala 12-1 sa kap. 21), nais pa rin niyang mabuhay nang mas matagal hangga’t maaari upang isakatuparan ang ministeryo ng Panginoon. Tingnan ang mga tala 25-2 sa kapitulong ito, at 3-1 at 6-3 sa kapitulo 23."
         },
         {
-            "id": "32",
-            "text": "At kapagdaka ay kumuha siya ng mga kawal at mga senturyon at nagsitakbo palusong sa kanila; at nang makita nila ang pangulong kapitan at ang mga kawal, sila ay nagsitigil sa paghampas kay Pablo.",
-            "footnotes": [],
-            "outlines": null
+            "id": "2-1",
+            "text": "Tingnan ang tala 40-1 sa kap. 21."
         },
         {
-            "id": "33",
-            "text": "Pagkatapos, lumapit ang pangulong kapitan at siya ay tinangnan at ipinagapos ng dalawang tanikala,  at tinanong niya kung sino siya at kung ano ang ginawa niya.",
-            "footnotes": [],
-            "outlines": null
+            "id": "4-1",
+            "text": "Tingnan ang tala 2-1 sa kap. 9."
         },
         {
-            "id": "34",
-            "text": "Nguni’t ang ilan sa gitna ng karamihan ay sumisigaw ng isang bagay at ang iba ay iba naman. At nang hindi niya malaman ang mga katotohanan dahil sa paghihiyawan, nag-utos siya na siya ay dalhin sa kuwartel.",
-            "footnotes": [],
-            "outlines": null
+            "id": "5-1",
+            "text": "Gr. presbuterion , presbiteryo, pagka-matanda (ng Sanedrin), kaya, ang Sanedrin. Tingnan ang 22-6 sa Mateo 5."
         },
         {
-            "id": "35",
-            "text": "At nang siya ay dumating sa hagdanan, nangyari na siya ay binuhat ng mga kawal dahil sa karahasan ng marami;",
-            "footnotes": [],
-            "outlines": null
+            "id": "6-1",
+            "text": "Lit. malaking."
         },
         {
-            "id": "36",
-            "text": "Sapagka’t ang karamihan sa mga tao ay sumusunod at nangagsisigawang, Iligpit siya!",
-            "footnotes": [],
-            "outlines": null
+            "id": "7-1",
+            "text": "Tingnan ang tala 4-1 sa kap. 9."
         },
         {
-            "id": "37",
-            "text": "At nang siya ay dadalhin na sa kuwartel, sinabi ni Pablo sa pangulong kapitan, Ako ba ay pinapayagang magsabi ng anuman sa iyo? At sinabi niya, Marunong ka ba ng Griyego?",
-            "footnotes": [],
-            "outlines": null
+            "id": "8-1",
+            "text": "Tingnan ang tala 5-1 sa kap. 9."
         },
         {
-            "id": "38",
-            "text": "Kung ganoon, hindi ikaw yaong Egipcio na noong mga nakaraang araw ay pumukaw ng isang pag-aalsa at nagdala ng apat na libong katao ng mga Mamamatay-tao sa ilang?",
-            "footnotes": [],
-            "outlines": null
+            "id": "9-1",
+            "text": "Yaon ay, sa kahulugang naunawaan gaya sa Mar. 4:33; 1 Cor. 14:2. Narinig nila ang tinig (9:7) nguni’t hindi nila naunawaan ito, gaya ng pagkakita nila ng liwanag, subali’t wala silang nakitang sinuman (9:7)."
         },
         {
-            "id": "39",
-            "text": "Datapuwa’t sinabi ni Pablo, Ako nga ay isang Hudyo na taga-Tarso sa Cilicia, isang mamamayan ng hindi basta-bastang lunsod; at ako ay namamanhik sa iyo, pahintulutan mo akong magsalita sa mga tao.",
-            "footnotes": [],
-            "outlines": null
+            "id": "10-1",
+            "text": "Tingnan ang tala 6-1 sa kap. 9."
         },
         {
-            "id": "40",
-            "text": "At nang siya ay mapahintulutan na niya, si Pablo ay tumayo sa hagdanan at inihudyat ang kanyang kamay sa mga tao; at nang magkaroon na ng matinding katahimikan, siya ay nagsalita sa kanila sa diyalektong Hebreo,  na nagsasabi,",
-            "footnotes": [
-                {
-                    "word": "diyalektong",
-                    "note": ""
-                }
-            ],
-            "outlines": null
+            "id": "11-1",
+            "text": "Tingnan ang tala 8-1 sa kap. 9."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 11-1 sa kap. 9."
+        },
+        {
+            "id": "13-1",
+            "text": "O, tumingala ka. Tingnan ang tala 12-1 sa kapitulo 9."
+        },
+        {
+            "id": "16-1",
+            "text": "Tingnan ang mga tala 36-1 sa kapitulo 8 at 16-1 sa Marcos 16."
+        },
+        {
+            "id": "16-2",
+            "text": "Tingnan ang tala 21-1 sa kapitulo 2. Ang pagtawag sa pangalan ng Panginoon dito ay isang paraan para kay Pablo upang mahugasan ang kanyang mga kasalanan sa pagdarakip ng napakaraming mananampalatayang nagsitawag sa pangalan ng Panginoon. Alam ng lahat ng mga mananampalataya na itinuring niya ang pagtawag sa pangalan ng Panginoon na isang tanda sa kanyang mga darakpin (9:14, 21). Ngayon, siya ay bumaling sa Panginoon. Upang mahugasan ang kanyang mga kasalanan sa ginawa niyang pag-uusig at pagdarakip sa mga tumatawag sa Panginoon, sa panahon ng kanyang pagbabautismo, inutusan siya ni Ananias na gawin din ang gayong pagtawag, na kanyang kinondena, hindi lamang sa harapan ng Diyos bagkus maging sa harapan din ng mga mananampalataya, bilang isang pangmadlang pag-amin sa Panginoon na kanyang inusig."
+        },
+        {
+            "id": "16-3",
+            "text": "Ang “Kanyang” ay makahulugan dito, ipinakikita ang bukod-tanging pangalan ng Isa na kinapootan at inusig ni Pablo (b.8)."
+        },
+        {
+            "id": "17-1",
+            "text": "O, masidhing kagalakan. Tingnan ang tala 10-3 sa kapitulo 10."
+        },
+        {
+            "id": "24-1",
+            "text": "Tingnan ang tala 31-1 sa kap. 21."
+        },
+        {
+            "id": "25-1",
+            "text": "O, para sa mga latigo."
+        },
+        {
+            "id": "25-2",
+            "text": "Ito ay karunungan ni Pablo, ginagamit ang kanyang pagkamamamayang Romano upang iligtas ang sarili mula sa pagdurusa ng pag-uusig. Tingnan ang tala 1-1 ."
+        },
+        {
+            "id": "30-1",
+            "text": "Tingnan ang tala 5-1 ."
         }
     ]
 }

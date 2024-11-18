@@ -1,5 +1,5 @@
 {
-    "chapter": 16,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "katiwala,",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -30,11 +30,11 @@
             "footnotes": [
                 {
                     "word": "magbungkal.",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "magpalimos.",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -45,7 +45,7 @@
             "footnotes": [
                 {
                     "word": "matanggap",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -62,7 +62,7 @@
             "footnotes": [
                 {
                     "word": "takal",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -73,7 +73,7 @@
             "footnotes": [
                 {
                     "word": "takal",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -84,15 +84,15 @@
             "footnotes": [
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": null
@@ -103,19 +103,19 @@
             "footnotes": [
                 {
                     "word": "makipagkaibigan",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "kalikuan,",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "pagkawala",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "9-4"
                 }
             ],
             "outlines": null
@@ -126,11 +126,11 @@
             "footnotes": [
                 {
                     "word": "pinakakaunti",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "marami;",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -141,7 +141,7 @@
             "footnotes": [
                 {
                     "word": "tunay",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -152,11 +152,11 @@
             "footnotes": [
                 {
                     "word": "iba,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "inyong",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -167,11 +167,11 @@
             "footnotes": [
                 {
                     "word": "iibigin",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "kakapit",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -182,7 +182,7 @@
             "footnotes": [
                 {
                     "word": "tinuya",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": [
@@ -195,7 +195,7 @@
             "footnotes": [
                 {
                     "word": "kasuklam-",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -206,23 +206,23 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "ebanghelyo",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "nagpipilit",
-                    "note": ""
+                    "id": "16-5"
                 }
             ],
             "outlines": null
@@ -233,11 +233,11 @@
             "footnotes": [
                 {
                     "word": "mahulog",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "kudlit",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -248,7 +248,7 @@
             "footnotes": [
                 {
                     "word": "humihiwalay",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -259,7 +259,7 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": [
@@ -284,7 +284,7 @@
             "footnotes": [
                 {
                     "word": "sinapupunan",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -295,7 +295,7 @@
             "footnotes": [
                 {
                     "word": "Hades,",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -318,7 +318,7 @@
             "footnotes": [
                 {
                     "word": "bangin",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -341,7 +341,7 @@
             "footnotes": [
                 {
                     "word": "Moises",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -358,10 +358,164 @@
             "footnotes": [
                 {
                     "word": "Moises",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tumutukoy sa pagpapatuloy. Sa naunang kapitulo ang Panginoon ay nagsalita ng tatlong talinghaga tungkol sa kaligtasan ng isang makasalanan. Sa kapitulong ito nagpatuloy Siya sa isa pang talinghaga, ang isang ito ay tungkol sa paglilingkod ng isang mananampalataya. Matapos na ang isang makasalanan ay maging mananampalataya, kinakailangan niyang maglingkod sa Panginoon bilang isang katiwalang may maingat-na-katalinuhan."
+        },
+        {
+            "id": "1-2",
+            "text": "Ipinakikita kung paanong ang mga mananampalataya, na naligtas sa pamamagitan ng pag-ibig at biyaya ng Tres-unong Diyos, ay ang mga katiwala ng Panginoon (12:42; 1 Cor. 4:1-2; 1 Ped. 4:10), na siyang pinagkatiwalaan Niya ng Kanyang mga ari-arian."
+        },
+        {
+            "id": "3-1",
+            "text": "Tumutukoy sa pagiging isang magsasaka na nagbubungkal sa bukid."
+        },
+        {
+            "id": "3-2",
+            "text": "Tumutukoy sa pagiging isang pulubi na namamalimos ng tulong."
+        },
+        {
+            "id": "4-1",
+            "text": "Sumasagisag sa pagkatanggap tungo sa loob ng mga walang hanggang tabernakulo (b. 9)."
+        },
+        {
+            "id": "6-1",
+            "text": "Gr. batos, isang panukat ng likido ng mga Hebreo, na katumbas na humigit-kumulang sa 8 o 9 na galon."
+        },
+        {
+            "id": "7-1",
+            "text": "Gr. koros, isang tuyong panukat na katumbas ng mga 10 hanggang 12 na “modios” (ang isang “modios” ay katumbas ng 8 galon.)"
+        },
+        {
+            "id": "8-1",
+            "text": "Ang papuri ay hindi para sa di-makatuwirang pagkilos ng katiwala kundi para sa kanyang maingat-na-katalinuhan."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang mga di-ligtas, ang mga tagamundo."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang mga ligtas, ang mga mananampalataya (Juan 12:36; 1 Tes. 5:5; Efe. 5:8)."
+        },
+        {
+            "id": "8-4",
+            "text": "Sa pakikitungo sa mga tao ng kanilang henerasyon."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang tulungan ang iba sa pamamagitan ng paggamit ng salapi sa paggawa ng mga bagay ayon sa pangunguna ng Diyos."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang mammon, yaon ay, ang salapi, ay bahagi ng makasatanas na mundo. Ito ay di-matuwid sa kanyang kinalalagyan at pag-iral. Ang katiwala sa talinghaga ay gumamit ng kanyang maingat-na-katalinuhan sa pamamagitan ng kanyang di-matuwid na pagkilos. Tayong mga mananampalataya ay tinuruan ng Panginoon na sanayin ang ating maingat-na-katalinuhan sa paggamit ng di-matuwid na kayamanan."
+        },
+        {
+            "id": "9-3",
+            "text": "Kapag ang makasatanas na mundo ay lumipas na, ang salapi ay mawawalan na ng gamit sa kaharian ng Diyos."
+        },
+        {
+            "id": "9-4",
+            "text": "Ang mga walang hanggang tirahan na kung saan ang mga mananampalatayang may-maingat-na-katalinuhan ay tatanggapin ng mga nakibahagi sa pakinabang ng kanilang maingat-na-katalinuhan. Ito ay sa darating na kapanahunan ng kaharian (cf. 14:13-14; Mat. 10:42)."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang pinakakaunti ay tumutukoy sa mammon, ang mga ari-arian ng kapanahunang ito; ang marami ay tumutukoy sa masaganang ari-arian sa susunod na kapanahunan (cf. Mat. 25:21, 23)."
+        },
+        {
+            "id": "11-1",
+            "text": "Tumutukoy sa mga tunay na ari-arian sa darating na kapanahunan ng kaharian (cf. Mat. 24:47)."
+        },
+        {
+            "id": "12-1",
+            "text": "Hindi layon ng Diyos sa Kanyang Bagong Tipang ekonomiya na ang Kanyang mga Bagong Tipang mananampalataya ay magpahalaga sa mga materyal na ari-arian. Kahit na ang lahat ng materyal na bagay rito sa sanlibutan ay nilikha ng Diyos at pag-aari Niya (1 Cron. 29:14, 16), ang mga ito ay nasira sa pagkatisod ng tao (Roma 8:20-21) at nakamkam ni Satanas, ang masamang isa (1 Juan 5:19); kaya, ang mga ito ay di-matuwid at pag-aari ng natisod na tao (b. 9). Samantalang ang Diyos ay nagbibigay ng panustos sa mga mananampalataya sa kanilang pang-araw-araw na pangangailangan mula sa mga materyal na bagay ng kapanahunang ito (Mat. 6:31-33), at inihahabilin sa kanila bilang Kanyang katiwala ang isang bahagi ng mga materyal na bagay na para sa kanilang pag-eensayo at pagkakatuto upang Kanyang mapatunayan sila sa kapanahunang ito, walang anumang bagay sa mga ito ang dapat ituring na kanila hanggang sa pagpapanumbalik ng lahat ng bagay sa susunod na kapanahunan (Gawa 3:21). Sa pagdating lamang ng kapanahunang yaon makapagmamana ng sanlibutan ang lahat ng mananampalataya ang sanlibutan (Roma 4:13) at magkakaroon ng nananatiling ari-arian (Heb. 10:34) para sa kanilang sarili. Sa kapanahunang ito kinakailangang ensayuhin nilang maging tapat sa mga pansamantalang materyal na bagay na naibigay sa kanila ng Diyos upang matutunan nila ang pagiging tapat patungo sa kanilang walang-hanggang ari-arian sa darating na kapanahunan."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang ilang manuskrito ay binabasang, ating sarili."
+        },
+        {
+            "id": "13-1",
+            "text": "Ito ay tumutukoy na ang maglingkod sa Panginoon ay nangangailangan na tayo ay magmahal sa Kanya, ibigay ang puso natin sa Kanya at kumapit sa Kanya, ibigay ang buong katauhan natin sa Kanya. Sa gayon, tayo ay makalalaya sa mga pag-ookupa at pangangamkam ng mammon upang makapaglingkod tayo sa Panginoon ng buong-buo at lubusan. Binigyang-diin ng Panginoon dito na sa paglilingkod sa Kanya kinakailangang madaig natin ang mapanggayuma, at madayang di-matuwid na mammon."
+        },
+        {
+            "id": "13-2",
+            "text": "Sa Griyego, ang panghawakan ang isa ay nangangahulugang kumapit sa isa, hindi sa isa. Nagpapahiwatig ito na ang maglingkod sa Panginoon ay humihiling sa atin na ibigin Siya, ibinibigay ang ating puso sa Kanya, at kumakapit sa Kanya, ibinibigay ang ating buong katauhan sa Kanya. Sa gayon tayo ay napalalaya mula sa pang-ookupa at pangangamkam ng mammon, upang mapaglingkuran natin ang Panginoon nang buung-buo at lubusan. Binibigyang-diin ng Panginoon dito na upang mapaglingkuran Siya kailangan nating madaig ang mapang-akit at mapandayang mammon ng kalikuan."
+        },
+        {
+            "id": "13-3",
+            "text": "Tingnan ang tala 24-3 sa Mat. 6."
+        },
+        {
+            "id": "14-1",
+            "text": "Lit., pinagtaasan nila ng ilong. *o, inismiran.*"
+        },
+        {
+            "id": "15-1",
+            "text": "Ang pag-aaring-matuwid sa sarili ng mga Fariseo ay isang pagdadakila sa sarili sa loob ng kapalaluan; kaya nga, ito ay isang kasuklam-suklam sa paningin ng Diyos."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang kautusan at ang mga propeta ay tumutukoy sa Lumang Tipan."
+        },
+        {
+            "id": "16-2",
+            "text": "Ipinakikita ang pagbabago ng pamamahagi mula sa kautusan tungo sa ebanghelyo. Tingnan ang tala 13-1 sa Mat. 11."
+        },
+        {
+            "id": "16-3",
+            "text": "Tingnan ang tala 43-2 sa kap. 4."
+        },
+        {
+            "id": "16-4",
+            "text": "Dito, ipinangaral ng Tagapagligtas ang ebanghelyo ng kaharian ng Diyos sa mga Fariseo, ang mga mangingibig ng salapi (b. 14). Ang salapi at pita ng laman na nasa pagsusulsol ng salapi, ang pumipigil sa kanila upang makapasok sa kaharian ng Diyos. Kaya nga, sinadya at malakas na pinatamaan ng pangangaral ng Tagapagligtas ang dalawang puntong ito sa bb. 18-31."
+        },
+        {
+            "id": "16-5",
+            "text": "Upang ang mga Fariseo ay sapilitang makapasok sa kaharian ng Diyos, kinakailangan nilang magpakumbaba (cf. b. 15) at makipaghiwalay sa kanilang salapi (cf. b. 14), hindi sa kanilang mga asawang babae (cf. b. 18), yaon ay, ang daigin ang salapi at pita ng laman na nasa pagsusulsol ng salapi."
+        },
+        {
+            "id": "17-1",
+            "text": "O, mawala."
+        },
+        {
+            "id": "17-2",
+            "text": "Maliit na nakausli katulad ng sungay na nagpapakita ng kaibhan ng iba’t ibang titik sa Hebreo."
+        },
+        {
+            "id": "18-1",
+            "text": "Lit., nagpapalaya."
+        },
+        {
+            "id": "19-1",
+            "text": "Ito ay hindi isang talinghaga, sapagkat binabanggit nito ang mga pangalan Abraham, Lazaro, at Hades. Ito ay isang salaysay na ginamit ng Tagapagligtas bilang isang naglalarawang kasagutan sa mga Fariseong maibigin sa salapi at nag-aaring-matuwid sa sarili (bb. 14-15); binabalaan sila sa pamamagitan ng paglalantad na ang kanilang kahabag-habag na kinabukasan ay matutulad sa mayamang yaon, bunga ng pagtalikod nila sa ebanghelyo ng Tagapagligtas dahilan sa kanilang pagkagahaman sa salapi."
+        },
+        {
+            "id": "22-1",
+            "text": "Isang rabinikong parirala, katumbas ng pagiging kasama ni Abraham sa Paraiso (Vincent). Tingnan ang tala 4-2 sa 2 Cor. 12."
+        },
+        {
+            "id": "23-1",
+            "text": "Tingnan ang tala 23-1 sa Mat. 11."
+        },
+        {
+            "id": "26-1",
+            "text": "Isang malaking look na naghahati sa Hades sa dalawang bahagi: ang kawili-wiling bahagi, kung saan naroroon sina Abraham, Lazaro, at ang lahat ng ligtas na banal (b. 22); at ang bahagi ng paghihirap, kung saan naroroon ang mayaman at ang lahat ng napahamak na makasalanan (bb. 23a, 28). Ang dalawang bahagi ay nakahiwalay sa isa’t isa at walang tulay para daanan, Subalit ang mga tao sa dalawang bahaging ito ay maaring makita ang isa’t-isa at mag-usap (bb. 23-25)."
+        },
+        {
+            "id": "29-1",
+            "text": "Tumutukoy sa kautusan ni Moises at mga aklat ng mga propeta (cf. b. 16), na mga salita ng Diyos (Mat. 4:4). Ang kaligtasan o kapahamakan ng isang tao ay nakasalalay sa kanyang pakikinig o hindi pakikinig sa salita ng Diyos. Ang pulubi ay naligtas hindi dahil siya ay dukha kundi dahil sa pinakinggan niya ang salita ng Diyos (Juan 5:24, Efe. 1:13). Ang taong mayaman ay napahamak hindi dahil siya ay mayaman kundi dahil sa tinanggihan niya ang salita ng Diyos (Gawa 13:46)."
+        },
+        {
+            "id": "31-1",
+            "text": "Kung hindi pakikinggan ng mga tao ang salitang sinasabi ng Diyos, hindi sila mahihikayat kahit na may isa pang mahimalang nabuhay sa mga patay. Ipinahihiwatig ng salita ng Tagapagligtas dito na kung hindi pakikinggan ng mga Hudyo na kinakatawan ng mga Fariseo ang salita ng Diyos sa pamamagitan ni Moises at ng mga propeta sa Lumang Tipan, kahit pa nga Siya ay magbangon mula sa mga patay ay hindi pa rin sila mahihikayat. Ang trahedyang ito ay naganap pagkatapos ng Kanyang pagkabuhay na muli. (Mat. 28:11-15; Gawa 13:30-40, 44-45)."
         }
     ]
 }

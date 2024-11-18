@@ -1,5 +1,5 @@
 {
-    "chapter": 6,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -15,7 +15,7 @@
             "footnotes": [
                 {
                     "word": "magturo",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -26,7 +26,7 @@
             "footnotes": [
                 {
                     "word": "anluwagi,",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -43,11 +43,11 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "pinagaling",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -58,7 +58,7 @@
             "footnotes": [
                 {
                     "word": "nagtuturo",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -69,7 +69,7 @@
             "footnotes": [
                 {
                     "word": "awtoridad",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": [
@@ -82,7 +82,7 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -93,7 +93,7 @@
             "footnotes": [
                 {
                     "word": "tunika.",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -104,7 +104,7 @@
             "footnotes": [
                 {
                     "word": "magsialis",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -121,7 +121,7 @@
             "footnotes": [
                 {
                     "word": "nangaral",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -132,11 +132,11 @@
             "footnotes": [
                 {
                     "word": "nagpalayas",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "pinagaling",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -147,7 +147,7 @@
             "footnotes": [
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": [
@@ -196,7 +196,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -237,7 +237,7 @@
             "footnotes": [
                 {
                     "word": "pinugutan",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -268,7 +268,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -279,7 +279,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -296,7 +296,7 @@
             "footnotes": [
                 {
                     "word": "nahabag",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -319,7 +319,7 @@
             "footnotes": [
                 {
                     "word": "denario",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -336,7 +336,7 @@
             "footnotes": [
                 {
                     "word": "pulu-",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -347,7 +347,7 @@
             "footnotes": [
                 {
                     "word": "pangkat-",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -370,7 +370,7 @@
             "footnotes": [
                 {
                     "word": "labindalawang",
-                    "note": ""
+                    "id": "43-1"
                 }
             ],
             "outlines": null
@@ -387,7 +387,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": [
@@ -400,7 +400,7 @@
             "footnotes": [
                 {
                     "word": "manalangin.",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
@@ -417,7 +417,7 @@
             "footnotes": [
                 {
                     "word": "lumalakad",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -434,7 +434,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "50-1"
                 }
             ],
             "outlines": null
@@ -477,14 +477,128 @@
             "footnotes": [
                 {
                     "word": "laylayan",
-                    "note": ""
+                    "id": "56-1"
                 },
                 {
                     "word": "nagsigaling.",
-                    "note": ""
+                    "id": "56-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 21-2 sa kap. 1."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 55-1 sa Mat. 13. Ang salita rito ng mga bulag na nanghahamak ay maaaring ituring na isang katuparan ng propesiya hinggil sa Aliping-Tagapagligtas sa Isa. 53:2-3: “Na gaya ng ugat mula sa tuyong lupa: Siya ay walang anyo o kagandahan; at kapag ating minamasdan Siya ay walang kagandahan na magnanais tayo sa Kanya. Siya ay hinamak at itinakwil ng mga tao.” Ito ay ang makilala Siya ayon sa laman sa Kanyang pagkatao (2 Cor. 5:16), hindi ayon sa Espiritu sa Kanyang pagka-Diyos (Roma 1:4). Sa Kanyang pagkatao, Siya ay isang ugat mula sa tuyong lupa, isang usbong mula sa puno ni Isai, at isang Sanga mula sa kanyang mga ugat (Isa. 11:1), isang Sanga kay David (Jer. 23:5; 33:15), ang Sanga na isang Tao at Tagapaglingkod ni Jehovah (Zac. 3:8; 6:12), mula sa binhi ni David ayon sa laman (Roma 1:3). Sa Kanyang pagka-Diyos, Siya ang Sanga ni Jehovah para sa kagandahan at kaluwalhatian (Isa. 4:2), ang Anak ng Diyos na itinalaga sa kapangyarihan ayon sa Espiritu (Roma 1:4)."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 58-1 sa Mat. 13."
+        },
+        {
+            "id": "5-2",
+            "text": "Tingnan ang tala 31-1 sa kap. 1."
+        },
+        {
+            "id": "6-1",
+            "text": "Tingnan ang tala 21-2 sa kap. 1."
+        },
+        {
+            "id": "7-1",
+            "text": "Tingnan ang mga tala 23-1 sa kap. 1 at 1-2 sa Mateo 10."
+        },
+        {
+            "id": "8-1",
+            "text": "Tingnan ang tala 9-1 sa Mateo 10."
+        },
+        {
+            "id": "9-1",
+            "text": "Isang katulad ng kamiseta na kasuotang panloob."
+        },
+        {
+            "id": "10-1",
+            "text": "Lit. lumabas mula roon."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 14-2 sa kap. 1."
+        },
+        {
+            "id": "13-1",
+            "text": "Tingnan ang tala 23-1 sa kap. 1."
+        },
+        {
+            "id": "13-2",
+            "text": "Tingnan ang tala 31-1 sa kap. 1."
+        },
+        {
+            "id": "14-1",
+            "text": "O, kumikilos at nahahayag."
+        },
+        {
+            "id": "21-1",
+            "text": "Gr. kiliarkos , mga kapitan ng isang libong sundalo."
+        },
+        {
+            "id": "27-1",
+            "text": "Ipinakikita nito ang pagkamuhi ni Satanas, ipinahayag sa pamamagitan ng kadiliman at ng pagiging walang katarungan ng mga makasanlibutang tao na nasa kapangyarihan, patungkol sa matapat na tagapagpáuná ng Aliping-Tagapagligtas. Tingnan ang tala 10-1 sa Mateo 14."
+        },
+        {
+            "id": "31-1",
+            "text": "Tingnan ang tala 20-2 sa kap. 3."
+        },
+        {
+            "id": "32-1",
+            "text": "Para sa bb. 32-44, tingnan ang mga tala sa Mat. 14:13-21."
+        },
+        {
+            "id": "34-1",
+            "text": "Itinanghal nito ang kagalingan ng Aliping-Tagapagligtas sa Kanyang pagkatao na isinagawa sa pamamagitan ng kapangyarihan ng Kanyang pagka-Diyos (cf. tala 43-1 ). Ang Kanyang pantaong kagalingan at ang Kanyang maka-Diyos na kapangyarihan ay naghalo upang patunayan na Siya ay Tao at Diyos."
+        },
+        {
+            "id": "37-1",
+            "text": "Tingan ang tala 7-1 sa Juan 6."
+        },
+        {
+            "id": "39-1",
+            "text": "Sa Griyego ito ay tumutukoy sa pagpapangkat-pangkat na nasa kapistahan. Ang pagkaupo nila sa bawat pulutong ay maitutumbas sa pagkaupo sa bawat dulang. Kaya ito ay nagpapahiwatig na sa paggamit ng Panginoon ng tinapay at ng isda upang busugin ang kalipunan ng mga tao, para bang Siya ay nag-anyaya ng mga bisita sa isang kapistahan."
+        },
+        {
+            "id": "40-1",
+            "text": "Lit. Pitak. Ang pagkahati-hati sa loob ng halamanan. Ito ay maitutulad sa maayos na pagkakahanay ng pangkat-pangkat na tao. Nang ang kalipunan ay umupo nang maayos nang pangkat-pangkat sila ay nagkorteng kwadrado at kung titingnan ay katulad ng mga bulaklak sa halamanan na tumutubo sa mga pitak ng halamanan. Ipinahihiwatig nito na ang mga taong tumatanggap ng pagpapakain ng Panginoon, sa Kanyang harapan, ay naihahalintulad sa mababango at magagandang pitak ng bulaklak (A.A. 5:13; 6:2)."
+        },
+        {
+            "id": "43-1",
+            "text": "Hindi lamang ipinakikita nito ang kapangyarihan ng pagka-Diyos ng Aliping-Tagapagligtas bilang ang Manlilikha, na tumatawag sa mga bagay na hindi pa umiiral na umiiral na (Roma 4:17), bagkus sinasagisag din ang masagana at walang pagkaubos na panustos ng Kanyang maka-Diyos na buhay (Efe. 3:8; Fil. 1:19)."
+        },
+        {
+            "id": "45-1",
+            "text": "Para sa bb. 45-51, tingnan ang mga tala sa Mat. 14:22-32."
+        },
+        {
+            "id": "46-1",
+            "text": "Tingnan ang tala 35-1 sa kap. 1."
+        },
+        {
+            "id": "48-1",
+            "text": "Sa 4:38 ang Aliping-Tagapagligtas ay natutulog sa isang daong na hinahampas ng isang unos na tumakot sa Kanyang mga tagasunod. Dito Siya ay lumalakad sa dagat habang ang Kanyang mga tagasunod ay nahihirapan sa paggaod sa mga alon ng dagat. Ipinakikita ng mga pangyayaring ito na ang Aliping-Tagapagligtas, bilang ang Manlilikha at Pinuno ng sansinukob (Job 9:8), ay hindi nabagabag ng anumang mga pangyayari, kundi nag-intindi ng mga suliranin ng Kanyang mga tagasunod sa kanilang paglalakbay sa pagsunod sa Kanya."
+        },
+        {
+            "id": "50-1",
+            "text": "Lit. Ako nga."
+        },
+        {
+            "id": "56-1",
+            "text": "Tingnan ang mga tala 20-4 sa Mateo 9 at 30-1 sa kap. 5."
+        },
+        {
+            "id": "56-2",
+            "text": "Tingnan ang mga tala 31-1 sa kap. 1 at 28-1 sa kap. 5. Cf. Mat. 14:36 at tala 2."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "naipako",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,19 +21,19 @@
             "footnotes": [
                 {
                     "word": "Tinanggap",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "pananampalataya?",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -44,19 +44,19 @@
             "footnotes": [
                 {
                     "word": "pagsisimula",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "Espiritu,",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "pinasasakdal",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "laman?",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -67,7 +67,7 @@
             "footnotes": [
                 {
                     "word": "Natiis",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -78,19 +78,19 @@
             "footnotes": [
                 {
                     "word": "nagtutustos",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "5-4"
                 }
             ],
             "outlines": null
@@ -101,7 +101,7 @@
             "footnotes": [
                 {
                     "word": "Abraham",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -112,7 +112,7 @@
             "footnotes": [
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -123,11 +123,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "ebanghelyo",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -138,11 +138,11 @@
             "footnotes": [
                 {
                     "word": "pinagpapala",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "nananampalatayang",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -153,7 +153,7 @@
             "footnotes": [
                 {
                     "word": "sumpa;",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -164,15 +164,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "mabubuhay;",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -183,11 +183,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -198,11 +198,11 @@
             "footnotes": [
                 {
                     "word": "naging",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -213,15 +213,15 @@
             "footnotes": [
                 {
                     "word": "pagpapala",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "tanggapin",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -241,7 +241,7 @@
             "footnotes": [
                 {
                     "word": "Kristo.",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -252,15 +252,15 @@
             "footnotes": [
                 {
                     "word": "tipang",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "kautusan,",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "apat",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
@@ -271,7 +271,7 @@
             "footnotes": [
                 {
                     "word": "mana",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -282,15 +282,15 @@
             "footnotes": [
                 {
                     "word": "idinagdag",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "itinalaga",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "tagapamagitan.",
-                    "note": ""
+                    "id": "19-3"
                 }
             ],
             "outlines": null
@@ -301,7 +301,7 @@
             "footnotes": [
                 {
                     "word": "tagapamagitan",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -312,11 +312,11 @@
             "footnotes": [
                 {
                     "word": "magbigay-buhay",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "katuwiran",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -327,15 +327,15 @@
             "footnotes": [
                 {
                     "word": "ikinulong",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "22-3"
                 }
             ],
             "outlines": null
@@ -346,23 +346,23 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "nababantayan",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "nakukulong",
-                    "note": ""
+                    "id": "23-3"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "23-4"
                 },
                 {
                     "word": "pananampalatayang",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -373,11 +373,11 @@
             "footnotes": [
                 {
                     "word": "tagapatnubay-",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -388,7 +388,7 @@
             "footnotes": [
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -399,11 +399,11 @@
             "footnotes": [
                 {
                     "word": "anak-",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -414,11 +414,11 @@
             "footnotes": [
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "ibinihis",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -429,23 +429,23 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "Hudyo",
-                    "note": ""
+                    "id": "28-2"
                 },
                 {
                     "word": "alipin",
-                    "note": ""
+                    "id": "28-3"
                 },
                 {
                     "word": "lalake",
-                    "note": ""
+                    "id": "28-4"
                 },
                 {
                     "word": "iisa",
-                    "note": ""
+                    "id": "28-5"
                 }
             ],
             "outlines": null
@@ -456,14 +456,256 @@
             "footnotes": [
                 {
                     "word": "binhi",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "pangako.",
-                    "note": ""
+                    "id": "29-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang krus ay ang sentro ng gawain ng Diyos sa Kanyang ekonomiya. Sa aklat na ito, dinala ni Pablo pabalik sa krus ang mga mananampalatayang natangay muli sa kautusan. Hinikayat silang pagmasdan ang Kristong naipako sa krus upang kailanman ay hindi na sila muling matangay sa kautusan. Sa 1:4; 2:19-21; 3:13; 5:24; at 6:14 ng aklat na ito ay ipinakita sa atin ang isang malinaw na larawan ng isang Kristong naipako sa krus.Ang pagkapako sa krus ni Kristo ay nagpapahiwatig na sa pagkamatay ni Kristo, ang lahat ng kahilingan ng kautusan ay natupad na, at sa pamamagitan ng Kanyang kamatayan ay napalaya ni Kristo ang Kanyang buhay upang ito ay maibahagi sa atin sa Kanyang pagkabuhay na muli, nang sa gayon ay mapalaya tayo sa pagkatali sa ilalim ng kautusan. Sa salita ng ebanghelyo, ito ay ganap na inilarawan sa harapan ng mga taga-Galacia. Paano nila nagawang kaligtaan ito at paano silang nagayuma, na bumabalik sa kautusan? Anong kamangmangan!"
+        },
+        {
+            "id": "2-1",
+            "text": "Kapag ang isang tao ay nanampalataya tungo kay Kristo, siya ay makatatanggap ng Espiritu. Kaya kung inaakala natin na si Kristo at ang Espiritu ay magkahiwalay, yaon ay isang malaking kamalian. Sa panahon ng pagkasilang na muli, tayo ay nanampalataya tungo kay Kristo at nakatanggap ng Espiritu at nakatanggap din ng tatak Niya (Efe. 1:13). Sa mismong sandaling yaon, isang organikong pagkakaisa ang nangyari, yaon ay, naihugpong tayo sa Tres-unong Diyos (Roma 11:17), at nakamtan natin ang Espiritu bilang garantiya (Efe. 1:14), bilang ang sukdulang pagpapala ng ebanghelyo (b. 14). Pagkatapos, ang pagtanggap sa Espiritung yaon ay isang bagay na panghabambuhay, patuloy, at walang patid.Ginagamit ng Diyos ang Espiritu para sa walang patid na pag-tutustos sa atin (b. 5)."
+        },
+        {
+            "id": "2-2",
+            "text": "Sa pamamagitan ng pakikinig sa ebanghelyo, ang mga taga-Galacia ay sumampalataya sa Kristong naipako sa krus, subalit ang kanilang natanggap ay ang Espiritu. Ang naipako sa krus ay si Kristo, ngunit ang pumasok sa loob ng mga mananampalataya ay ang Espiritu. Sa pagkapako sa krus para sa katubusan ng mga mananampalataya, Siya ay si Kristo, ngunit sa pananahanan upang maging buhay ng mga mananampalataya, Siya ay ang Espiritu. Ito ay ang nagpapaloob ng lahat na Espiritung nagbibigay-buhay, na siyang ang nagpapaloob ng lahat at ang sukdulang pagpapala ng ebanghelyo. Ang mga mananampalataya ay nakatanggap ng gayong dibinong Espiritu sa pamamagitan ng pakikinig ng pananampalataya at hindi sa pamamagitan ng mga gawa ng kautusan. Ang Espiritung ito ay pumapasok sa mga mananampalataya at nananahan sa kanila, hindi sa pamamagitan ng kanilang pagtupad sa kautusan, kundi sa pamamagitan ng kanilang pananampalataya sa naipako sa krus at nabuhay na muling Kristo. Sa naunang dalawang kapitulo ng aklat na ito, mayroon tayong Kristo sa dibinong pahayag bilang sentro ng ekonomiya ng Diyos; sa huling apat na kapitulo, mayroon tayong Espiritu sa ating mga karanasan upang makamtan natin ang dibinong buhay (kap. 3), maisilang ng Diyos (kap. 4), makagawa at makapamuhay sa pamamagitan ng naisilang-namuling buhay (kap. 5), at tanggapin ang layunin ng Diyos bilang ating gol (kap. 6). Sa gayon, matatamasa natin ang nagpapaloob ng lahat na Espiritung nagbibigay-buhay ni Kristo (b. 5)."
+        },
+        {
+            "id": "2-3",
+            "text": "Sa Lumang Tipang ekonomiya ng Diyos, ang kautusan ang siyang batayan sa pag-uugnayan ng tao at ng Diyos (b.23); sa Kanyang Bagong Tipang ekonomiya, ang pananampalataya ang bukod-tanging kahilingan upang makaugnay ng tao ang Diyos (Heb. 11:6). Ang kautusan ay may kaugnayan sa laman (Roma 7:5), umaasa sa pagpupunyagi ng laman, at ang laman ang kahayagan ng “ako.” Ang pananampalataya ay may kaugnayan sa Espiritu, nagtitiwala sa paggawa ng Espiritu, at ang Espiritu ay ang pagkatanto kay Kristo. Sa Lumang Tipan, ang “ako” at ang laman ay mahalaga sa pagtupad ng kautusan. Sa Bagong Tipan, si Kristo at ang Espiritu ang siyang pumapalit sa posisyon ng “ako” at ng laman, at ang pananampalataya ang siyang humahalili sa kautusan upang maipamuhay natin si Kristo sa pamamagitan ng Espiritu. Ang tumupad sa kautusan sa pamamagitan ng laman ay ang likas na pamamaraan ng tao; ito ay nasa kadiliman ng kaisipan ng tao at nagreresulta sa kamatayan at kaabahan (Roma 7:10-11,24). Ang tanggapin ang Espiritu sa pamamagitan ng pananampalataya ay ang hayag na pamamaraan ng Diyos; ito ay nasa liwanag ng pahayag ng Diyos na nagreresulta sa buhay at kaluwalhatian (Roma 8:2, 6, 10-11, 30). Dahil dito, kinakailangan nating pahalagahan ang pananampalataya, hindi ang mga gawa ng kautusan. Sa pamamagitan ng pakikinig ng pananampalataya ay natanggap natin ang Espiritu upang magkaroon tayo ng bahagi sa ipinangakong pagpapala ng Diyos at maipamuhay natin si Kristo. Ang pananampalatayang nabanggit sa mga bersikulo 7, 8, 9, 11, 12, 22, 24, at 25 ay ang ganitong pananampalataya. (Tingnan ang tala 23-2 sa kapitulo1)."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang magsimula sa pamamagitan ng Espiritu ay ang dumepende sa pananampalataya kay Kristo; ang mapasakdal sa pamamagitan ng laman ay ang dumepende sa mga gawa ng kautusan (b.2)."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang Espiritu, na si Kristong nabuhay na muli, ay nauukol sa buhay; ang laman, na siyang ating natisod na tao, ay nauukol sa kasalanan at kamatayan. Huwag tayong magsimula sa pamamagitan ng Espiritu at tangkaing mapasakdal sa pamamagitan ng laman. Dapat tayong mapasakdal sa pamamagitan ng Espiritu at wala nang kinalaman pa sa laman, yamang tayo ay nakapagsimula na sa pamamagitan ng Espiritu. Sa 2:20, ang pagkakaiba ay nasa pagitan ni Kristo at ng “ako”; dito ang pagkakaiba ay nasa pagitan ng Espiritu at ng laman. Ipinakikita nito na sa ating karanasan ang Espiritu ay si Kristo at ang laman ay ang “ako.” Magmula sa kapitulo 3 hanggang sa katapusan ng Sulat na ito, ang Espiritu ay si Kristo sa ating karanasan sa buhay. Sa pahayag, ito ay si Kristo; sa karanasan ito ay ang Espiritu.Ang laman ay hinatulan at itinakwil sa buong aklat na ito (1:16; 2:16; 3:3; 4:23, 29; 5:13,16-17, 19, 24; 6:8,12,13), at magmula sa kapitulo 3 bawat kapitulo ay nagbibigay ng isang paghahambing sa laman at sa Espiritu (b.3; 4:29; 5:16-17,19,22; 6:8). Ang laman ay ang sukdulang kahayagan ng natisod na taong may tatlong bahagi, at ang Espiritu ay ang sukdulang pagkatanto sa Tres-unong Diyos na dumaan sa iba’t ibang hakbangin. Ang laman natin ay kumikiling sa pagtupad sa kautusan at sinusubukan ng kautusan; ang Espiritu ay natatanggap at natatamasa natin sa pamamagitan ng pananampalataya. Ang ekonomiya ng Diyos ay nagpapalaya sa atin mula sa laman tungo sa Espiritu upang tayo ay magkaroon ng bahagi sa pagpapala ng mga kayamanan ng Tres-unong Diyos. Ang magkaroon ng bahagi sa pagpapala ng mga kayamanan ng Tres- unong Diyos ay hindi mapangyayari sa pamamagitan ng laman na tumutupad ng kautusan, kundi sa pamamagitan ng Espiritung natatanggap at nararanasan natin sa pamamagitan ng pananampalataya."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang kanilang pagtitiis sa pag-uusig dahil sa kanilang pananampalataya kay Kristo ang naging sanhi ng kanilang pagbaling kay Kristo mula sa Hudaismo at mula sa mga kaugalian ng mga Hentil."
+        },
+        {
+            "id": "5-1",
+            "text": "Lit., nagtutustos nang masagana, nang lubos, nang mariwasa, at nang bukas-palad. Tingnan ang Fil. 1:19. Sa panig ng Diyos, Kanyang mayaman na itinutustos ang Espiritu; sa panig natin, ating tinatanggap ang Espiritu. Nagtutustos ang Diyos, tayo naman ang tumatanggap. Ang ganitong kagila-gilalas na dibinong paglalalin ay nangyayari araw-araw. Ang paraan upang mabuksan ang ating sarili sa makalangit na paglalaling ito upang matanggap ang panustos ng nagpapa loob ng lahat na Espiritung nagbibigay-buhay ay sa pamamagitan ng paggamit ng espiritu sa pananalangin at pagtawag sa Panginoon."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang nagpapaloob ng lahat na timpladang Espiritu na sinasagisag ng timpladang ungguwento sa Exo. 30:23-25. Ito ang Espiritung nabanggit sa Juan 7:39, na siya ring Kristong namamahagi ng buhay sa loob ng pagkabuhay na muli. Ang Espiritung ito ang masaganang panustos sa mga mananampalataya sa Bagong Tipang ekonomiya ng Diyos. Ito ay lubusang hindi sa pamamagitan ng mga gawa ng kautusan, kundi sa pamamagitan ng pananampalataya sa naipako sa krus at naluwalhating Kristo."
+        },
+        {
+            "id": "5-3",
+            "text": "Lit., kumikilos."
+        },
+        {
+            "id": "5-4",
+            "text": "Sa pagnanais ng kaaway ng Diyos na si Satanas na hadlangan ang ekonomiya ng Diyos, ang kautusan na pansamantalang ibinigay ng Diyos para sa Kanyang layunin ay ginamit ng kaaway upang magambala ang mga piniling tao ng Diyos sa Kanyang ekonomiya. Ang kautusan ay ginamit upang maudyukan ang hangarin ng natisod na tao na nag-aakalang sa pamamagitan ng pagtupad sa kautusan ay mapatataas ang sarili at makagagawa ng sariling katuwiran; sa gayon ang kautusan ay nagamit na sa maling paraan."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang mga nagayumang taga-Galacia, sa kanilang pagbabalik sa kautusan, ay humawak kay Moises na kung kaninong pamamagitan ang kautusan ay naibigay; ngunit sinabihan sila ni Pablo tungkol kay Abraham, na siyang ama ng pananampalataya. Ang pananampalataya ay kabilang sa orihinal na ekonomiya ng Diyos, samantalang ang kautusan ay idinagdag sa bandang huli dahil sa mga pagsalansang (b.19). Matapos matupad ni Kristo ang kautusan sa pamamagitan ng Kanyang kamatayan, ninais ng Diyos na ang Kanyang mga tao ay bumalik sa Kanyang orihinal na ekonomiya. Kay Abraham ito ay hindi isang bagay ng pagtupad sa kautusan, kundi ito ay isang bagay ng pananampalataya sa Diyos. Gayundin ang nararapat sa lahat ng mga mananampalataya sa Bagong Tipan."
+        },
+        {
+            "id": "7-1",
+            "text": "8-1"
+        },
+        {
+            "id": "8-1",
+            "text": "Lit., mula sa."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang pangakong ibinigay ng Diyos kay Abraham, “Sa iyo ang lahat ng mga bansa ay pagpapalain,” ay ang ebanghelyo. Ang ebanghelyong ito ay ipinahayag sa kanya, hindi lamang bago isakatuparan ni Kristo ang Kanyang pagtutubos, bagkus bago pa ibigay ang kautusan sa pamamagitan ni Moises. Ang pangakong ibinigay ng Diyos kay Abraham ay tumutugma sa kung ano ang naisakatuparan ng Diyos sa pamamagitan ni Kristo; ito ang katuparan ng Kanyang pangako kay Abraham. Ang Bagong Tipang ekonomiya ay isang pagpapatuloy ng Kanyang pakikitungo kay Abraham, at walang kinalaman sa kautusan ni Moises. Ang lahat ng mga Bagong Tipang mananampalataya ay nararapat na nasa pagpapatuloy na ito at dapat na walang kinalaman sa kautusang naibigay sa pamamagitan ni Moises."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang pananampalataya sa loob ni Kristo ang nagdadala sa atin tungo sa loob ng pagpapala ng Diyos na Kanyang naipangako kay Abraham, na walang iba kundi ang ipinangakong Espiritu (b. 14)."
+        },
+        {
+            "id": "9-2",
+            "text": "Si Abraham, na nasa ilalim ng pagtutuos ng Diyos, ay hindi gumagawa noon ng anumang bagay upang magbigay-kasiyahan sa Diyos, kundi nananampalataya sa Kanya."
+        },
+        {
+            "id": "10-1",
+            "text": "Dahil sa pananampalataya kay Kristo, ang mga mananampalatayang taga-Galacia ay nadala tungo sa loob ng pagpapala ni Kristo, nagtatamasa sa biyaya ng buhay na nasa loob ng Espiritu; ngunit sila ay ginayuma ng mga maka-Hudaismo at sinanhi silang mapasailalim ng sumpa ng kautusan, sa gayon ay naiwala nila ang pagtatamasa kay Kristo, at sinanhi silang mahulog mula sa biyaya (5:4)."
+        },
+        {
+            "id": "11-1",
+            "text": "Lit. sa, na ang ibig sabihin ay, sa kapangyarihan ng, sa bisa ng (Darby’s New Translation)."
+        },
+        {
+            "id": "11-2",
+            "text": "Lit. mula sa pananampalataya; ito ay salungat sa “sa pamamagitan ng kautusan.”"
+        },
+        {
+            "id": "11-3",
+            "text": "Ang salitang “mabubuhay” rito ay hindi lamang kinapapalooban ng pagpapakahulugan na “mabuhay” kundi ipinahihiwatig din nito ang kahulugan ng “magkaroon ng buhay.” Tingnan sa bersikulo 21 ang “magbigay-buhay.”"
+        },
+        {
+            "id": "12-1",
+            "text": "Lit,. mula sa."
+        },
+        {
+            "id": "12-2",
+            "text": "Lit., sa loob ng mga yaon, yaon ay, sa loob ng antas ng bisa ng mga yaon."
+        },
+        {
+            "id": "13-1",
+            "text": "Bilang ating kahalili sa krus, hindi lamang pinasan ni Kristo ang sumpa para sa atin, bagkus Siya Mismo ay naging isang sumpa para sa atin. Ang sumpa ng kautusan ay bunga ng kasalanan ng tao (Gen. 3:17). Nang inalis ni Kristo sa krus ang ating kasalanan, tayo ay tinubos Niya mula sa sumpa."
+        },
+        {
+            "id": "13-2",
+            "text": "Yaon ay, sa krus."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang pagpapalang ipinangako ng Diyos kay Abraham (Gen. 12:3) para sa lahat ng mga bansa sa daigdig. Ang pangakong ito ay natupad na, at ang pagpapalang ito ay nakarating na sa mga bansa sa loob ni Kristo sa pamamagitan ng Kanyang pagtutubos sa krus."
+        },
+        {
+            "id": "14-2",
+            "text": "Sa loob ng ebanghelyo, hindi lamang natin tinanggap ang kapatawaran ng kasalanan, ang pagpapala ng paglilinis at pagpapadalisay, bagkus tinanggap din natin ang pinakadakilang pagpapala, yaon ay, ang Tres-unong Diyos, ang Ama, ang Anak, at ang Espiritu na dumaan sa iba’t ibang hakbangin at naging ang nagpapaloob ng lahat na Espiritung nagbibigay buhay at subhektibong nananahan sa loob natin bilang ating katamasahan. Ang matamasa natin ang nagpapaloob ng lahat na Ito bilang ating pang-araw-araw na bahagi ay isang napakadakilang pagpapala!"
+        },
+        {
+            "id": "14-3",
+            "text": "Ang ibig sabihin ng nilalaman ng bersikulong ito ay ang Espiritu ang Siyang pagpapalang ipinangako ng Diyos kay Abraham para sa lahat ng mga bansa, at siya ring natanggap ng mga mananampalataya sa pamamagitan ng pananampalataya kay Kristo. “Ang Espiritu” ay ang timpladang Espiritung nabanggit sa tala 52, at sa katunayan ay ang Diyos na dumaan sa maraming hakbangin sa Kanyang dibinong Trinidad sa pamamagitan ng pagiging- laman, pagkapako sa krus, pagkabuhay na muli, pag-akyat sa langit, at pagbaba, upang matanggap natin bilang ating buhay at ating lahat-lahat. Ito ang sentro ng ebanghelyo ng Diyos.Ang pisikal na aspekto ng pagpapalang ipinangako ng Diyos kay Abraham ay ang mabuting lupa (Gen. 12:7; 13:15; 17:8; 26:3-4), na isang sagisag ng Kristong nagpapaloob ng lahat (tala 12-2 ng Colosas 1). Yamang si Kristo sa katapustapusan ay natanto bilang ang nagpapaloob ng lahat na Espiritung nagbibigay-buhay (1 Cor. 15:45; 2 Cor. 3:17), ang pagpapala ng ipinangakong Espiritu ay tumutugma sa pagpapala ng ipinangakong lupa. Sa katunayan, ang Espiritu bilang ang pagkatanto kay Kristo sa ating karanasan ay ang mabuting lupa bilang ang pinanggagalingan ng masaganang panustos ng Diyos para sa ating katamasahan."
+        },
+        {
+            "id": "16-1",
+            "text": "Si Kristo ang binhi, at ang binhi ang siyang tagapagmanang nagmamana ng mga pangako. Dito, si Kristo ang namumukod tanging binhi na nagmamana ng mga pangako. Samakatwid, upang manahin ang ipinangakong pagpapala, kinakailangang makiisa tayo kay Kristo. Kung wala tayo sa loob Niya, hindi natin mamamana ang mga pangakong ibinigay ng Diyos kay Abraham. Sa mga mata ng Diyos, si Abraham ay may isang binhi lamang, yaon ay, si Kristo. Tayo ay nararapat na nasa loob Niya upang tayo ay makabahagi sa mga pangakong ibinigay kay Abraham. Hindi lamang Siya ang binhing nagmamana ng mga pangako, bagkus Siya rin ang pagpapala ng mga pangakong mamanahin. Ang pagbabalik ng mga mananampalatayang taga-Galacia sa kautusan mula kay Kristo ay nangangahulugang nawaglit nila kapwa ang Tagapagmana at ang ipinangakong mana."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay nagpapakita na ang pangakong ibinigay ng Diyos kay Abraham ay naging isang tipan, na higit na matatag kaysa sa pangako. Ang pangako at ang tipan ay ang ebanghelyong ipinahayag kay Abraham. Ang ebanghelyo ay ang tipan, ang tipan ay ang pangako, at ang pangako ay ang salitang sinalita ng Diyos. Bagama’t ang ebanghelyo ay isang bagay sa Bagong Tipan, dapat nating makita na ang Bagong Tipan ay ang pagpapatuloy o ang pag-uulit ng pangakong ibinigay ng Diyos kay Abraham."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang pangako ng Diyos kay Abraham ay ibinigay muna. Dumating lamang ang kautusan pagkaraan ng 430 taon. Ang pangako ay permanente, ngunit ang kautusan ay pansamantala lamang. Hindi magagawang ipawalang-bisa ng nahuli at pansamantalang kautusan ang nauna at permanenteng pangako. Iniwan ng mga taga-Galacia ang nauna at permanenteng pangako at bumalik sa nahuli at pansamantalang kautusan."
+        },
+        {
+            "id": "17-3",
+            "text": "Binilang mula sa panahong ibinigay ng Diyos ang pangako kay Abraham sa Genesis 12 hanggang sa panahong ibinigay Niya ang kautusan sa pamamagitan ni Moises sa Exodo 20. Ang panahong ito ay itinuring ng Diyos bilang ang panahon ng paninirahan ng mga anak ni Israel sa Ehipto (Exo. 12:40-41). Ang apat na raang taong nabanggit sa Gen. 15:13 at sa Gawa 7:6 ay nagsimula sa panahong hinamak ni Ismael si Isaac sa Genesis 21, hanggang sa panahong nakalaya ang mga anak ni Israel sa paniniil ng mga Ehipcio sa Exodo 12. Ito ang panahon ng paghihirap ng mga inapo ni Abraham sa ilalim ng pag-uusig ng mga Hentil."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang kautusan ay hindi nagtutustos; ito ay humihiling lamang. Walang mana sa pamamagitan ng kautusan; ang mana ay sa pamamagitan ng pangako. Kung kaya, ang mana ay ibinigay kay Abraham sa pamamagitan ng pangako."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang kautusan ay hindi kasama sa simula ng ekonomiya ng Diyos. Ito ay idinagdag lamang habang ang ekonomiya ng Diyos ay nagpapatuloy dahilan sa mga pagsalansang ng tao, hanggang sa pumarito ang Kristo, na Siyang binhing pinangakuan ng Diyos. Yamang ang kautusan ay idinagdag lamang dahil sa mga pagsalansang ng tao, ito ay nararapat maalis matapos na ang mga pagsalansang ay maalis. At yamang si Kristo, ang binhi, ay dumating na, ang kautusan ay nararapat nang wakasan."
+        },
+        {
+            "id": "19-2",
+            "text": "Yamang ang kautusan ay itinalaga sa pamamagitan ng mga anghel sa kamay ng isang tagapamagitan, at hindi tuwirang ibinigay ng Diyos sa mga tao tulad ng pagkabigay ng pangako, ito, bagama’t mahalaga, ay hindi pangunahin sa ekonomiya ng Diyos."
+        },
+        {
+            "id": "19-3",
+            "text": "Ang taong si Moises."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang kautusan ay may isang tagapamagitan sa gitna ng dalawang partido, sa gitna ng Diyos at ng mga Israelita. Ang pangako ay walang tagapamagitan, may tuwirang relasyon lamang ng Diyos at ng tagatanggap. Ang responsabilidad ng kautusan ay nakaatang sa dalawang partido, hindi lamang sa iisa; nguni’t ang responsabilidad ng pangako ay nakaatang lamang sa Diyos, ang tagapagbigay ng pangako. Dahil dito, ang kautusan ay higit na mababa kaysa sa pangako. Itinakwil ng mga taga-Galacia ang pinakamahusay at bumalik sa higit na mababa."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang kautusan ay humihiling at humahatol lamang; hindi ito makapagbibigay ng buhay. (Tingnan ang tala 10-1 sa Roma 7). Ang kautusan ay walang buhay; ito ay may mga utos lamang. Ang buhay ay nasa loob ni Kristo (Juan 1:4). Siya ang Espiritung nagbibigay-buhay (1 Cor. 15:45), ang tanging Isa na makapagbibigay ng buhay. Ang pagbibigay-buhay ay ang pinakasentrong punto ng pahayag ng apostol. Dapat lamang nating kunin ang mga bagay kung saan ang buhay ay naibibigay. Dapat lamang nating tanggapin ang yaong nagbibigay-buhay."
+        },
+        {
+            "id": "21-2",
+            "text": "Upang maibigay ang buhay, kinakailangang may katuwiran. Gayunpaman, ang katuwiran ay hindi nanggagaling sa kautusan, kundi ito ay nasa loob ni Kristo (Roma 5:17, 18). Samakatuwid, ang kautusan ay hindi makapagbibigay ng buhay. Bukod pa rito, yamang ang kautusan ay hindi makapagbibigay ng buhay, ito ay walang lakas na tumupad sa mga kahilingan nito (kautusan) upang magbunga ng katuwiran. Samakatuwid, sa ganitong pakahulugan din, ang katuwiran ay hindi nanggaling sa kautusan."
+        },
+        {
+            "id": "22-1",
+            "text": "Katulad ng pagkulong ng isang bantay-bilangguan sa mga bilanggo. Ikinulong ng Kasulatan (na binigyang-katauhan) ang lahat ng sangkatauhan sa ilalim ng kasalanan, hindi upang hayaang tuparin ng mga nakabilanggong makasalanan ang kautusan kundi upang maibigay ng Diyos ang Kanyang pangako sa mga mananampalatayang pinaging-dapat tumanggap dahil sa pagsampalataya kay Kristo. Ang makulong sa ilalim ng kasalanan ay ang makulong sa ilalim ng kautusan, katulad ng pagkahayag sa bersikulo 23."
+        },
+        {
+            "id": "22-2",
+            "text": "Yaon ay, ang sangkatauhan."
+        },
+        {
+            "id": "22-3",
+            "text": "Ang pananampalataya kay Hesu-Kristo. Lit. ang pananampalataya ni Hesu-Kristo o ang pananampalataya sa loob ni Hesu-Kristo. Tingnan ang tala 22-1 sa Roma 3."
+        },
+        {
+            "id": "23-1",
+            "text": "Tumutukoy sa pananampalataya kay Kristo sa bersikulo 22. Tingnan ang tala 23-2 sa kapitulo 1 at tala 2-3 sa kapitulo 3. Ang pananampalatayang ito ay hindi naihayag hanggang sa dumating si Kristo (cf. Juan 1:12; 3:16,"
+        },
+        {
+            "id": "23-2",
+            "text": "Nanatili sa ilalim ng pangangalaga, nanatili sa ilalim ng pagbabantay."
+        },
+        {
+            "id": "23-3",
+            "text": "Ang mabantayan sa ilalim ng kautusan sa pamamagitan ng pagkakulong ay katulad ng mga tupang nakakulong sa isang kulungan (Juan 10:1,16). Ang kautusan, sa ekonomiya ng Diyos, ay ginamit bilang isang kulungan upang panatilihin ang mga taong pinili ng Diyos hanggang sa dumating si Kristo (tingnan ang tala 1-2 sa Juan 10). Yamang si Kristo ay dumating na, ang mga tao ng Diyos ay hindi na nararapat pang makulong sa ilalim ng kautusan (tingnan ang tala 9-2 sa Juan 10)."
+        },
+        {
+            "id": "23-4",
+            "text": "O, para sa, nagpapakita na ang pagkakulong ay may isang layunin, yaon ay, nagreresulta sa pananampalataya, dinadala ang mga binantayang tao sa pananampalataya."
+        },
+        {
+            "id": "24-1",
+            "text": "O, bantay, tagapag-alaga, tagapag-ingat, yaong isang nag-aalaga sa isang batang hindi pa husto ang gulang at dinadala siya sa guro ng paaralan. Ang kautusan ay ginamit ng Diyos bilang isang tagapag-ingat, tagapag-alaga, at isang tagapatnubay-ng-bata upang bantayan ang kanyang mga piniling tao bago dumating si Kristo, at upang bantayan at dalhin sila kay Kristo sa panahon ng Kanyang pagdating. Sa gayon, ang kanilang pagiging naaring-matuwid ay nagmula sa pananampalataya at sa pamamagitan ng pananampalataya ay nagkaroon sila ng bahagi sa ipinangakong pagpapala na naging tipan."
+        },
+        {
+            "id": "24-2",
+            "text": "Lit., mula sa."
+        },
+        {
+            "id": "25-1",
+            "text": "Yamang ang pananampalataya sa loob ni Kristo ay dumating na, tayo ay hindi na nararapat pang magpasailalim sa nagbabantay na kautusan."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang mga anak na lalake ay tumutukoy sa mga yaong lumaki na nang husto at hindi na nangangailangan pa ng pangangalaga ng bantay-alipin. Sa ilalim ng Lumang Tipan, ang mga taong pinili ng Diyos ay itinuring na mga sanggol. Ngayon sa ilalim ng Bagong Tipan, sila ay itinuturing na mga anak na lalakeng husto na sa gulang upang magmana ng ipinangakong pagpapala, at ang pagpapalang yaon ay ang nagpapaloob ng lahat na Espiritu ni Kristo."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang pananampalataya kay Kristo ay nagdadala sa atin tungo sa loob ni Kristo, ginagawa tayong kaisa ni Kristo kung Kanino naroroon ang pagka-anak ( sonship -sa wikang Ingles). Tayo ay nararapat na maging kaisa ni Kristo sa pamamagitan ng pananampalataya upang sa loob Niya tayo ay maging mga anak na lalake ng Diyos."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang manampalataya ay nangangahulugang manampalataya tungo sa loob ni Kristo (Juan 3:16), at ang mabautismuhan ay nangangahulugang mabautismuhan tungo sa loob ni Kristo. Sa pamamagitan ng kapwa pananampalataya at bautismo, tayo ay pumasok tungo sa loob ni Kristo, at dahil dito ay ibinihis natin si Kristo at naging kaisa Niya. Ang wasto, tunay, at buháy na pagbabautismo ay ang ipasok ang mga mananampalataya sa loob ng pangalan ng Tres-unong Diyos (Mat. 28:19), sa loob ng buháy na Persona ni Kristo (b. 27), sa loob ng mabisang kamatayan ni Kristo (Roma 6:3), at sa loob ng buháy na organismo na siyang Katawan ni Kristo (1 Cor. 12:13). Sa gayon ang mga mananampalataya ay hindi lamang papasok tungo sa loob ng organikong pakikipagkaisa kay Kristo, bagkus papasok din sa loob ng organikong pakikipagkaisa sa Kanyang Katawan at mapangyayari na maalis sila sa lumang kalagayan at maipasok sa loob ng bagong kalagayan upang tapusin ang kanilang lumang buhay. Sa ganitong paraan, kanilang magagamit ang bagong buhay ni Kristo at mabibigyan sila ng panimula sa bagong buhay upang sa pamamagitan ng elemento ng Tres-unong Diyos ay makapamuhay sila sa loob ng organismo na siyang Katawan ni Kristo."
+        },
+        {
+            "id": "27-2",
+            "text": "Yaon ay, damtan ang inyong sarili ng Kristo."
+        },
+        {
+            "id": "28-1",
+            "text": "Tingnan ang tala 11-2 sa Col. 3."
+        },
+        {
+            "id": "28-2",
+            "text": "Ang mga pagkakaiba ng mga lahi at mga nasyonalidad."
+        },
+        {
+            "id": "28-3",
+            "text": "Ang mga pagkakaiba sa katayuang panlipunan."
+        },
+        {
+            "id": "28-4",
+            "text": "Ang mga pagkakaiba sa kasarian."
+        },
+        {
+            "id": "28-5",
+            "text": "Kaisa sa loob ni Kristo sa Kanyang pagkabuhay na muling buhay at sa Kanyang dibinong kalikasan upang maging isang bagong tao, gaya ng nabanggit sa Efe. 2:15. Ang isang bagong taong ito ay lubusang nasa loob ni Kristo. Walang puwang para sa ating likas na katauhan, likas na disposisyon, at likas na pag-uugali; sa loob nitong iisang bagong tao, si Kristo ang lahat at nasa lahat (Col. 3:10-11). Ang pakikipagkaisang ito sa loob ni Kristo ay napangyayari sa pamamagitan ng bautismo. Tinatapos ng pagbabautismo ang lahat ng iba’t ibang pagkakaibang nakapaghihiwalay at inihahatid nito ang mga mananampalataya sa loob ng organikong pakikipagkaisa sa Tres-unong Diyos na dumaan sa iba’t ibang hakbangin nang sa gayon ang mga mananampalataya ay manalig nang subhektibo na sila nga ay lubusang nagkakaisa."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang binhi ni Abraham ay iisa lamang, yaon ay, si Kristo (b.16). Samakatuwid, upang tayo ay maging binhi ni Abraham, nararapat na tayo ay kay Kristo, isang bahagi ni Kristo. Sapagkat tayo ay kaisa ni Kristo, tayo rin ay binhi ni Abraham, mga tagapagmana ayon sa pangako na magmamana ng ipinangakong pagpapala ng Diyos, yaon ay, ang Espiritung nagpapaloob-ng-lahat bilang ang sukdulang kaganapan ng Tres-unong Diyos na dumaan sa iba’t ibang hakbangin upang maging bahagi natin. Sa ilalim ng Bagong Tipan, ang mga mananampalataya bilang mga piniling tao ng Diyos, na mga anak na lalakeng husto na sa gulang, ay ang mga gayong tagapagmana, hindi sa ilalim ng kautusan kundi sa loob ni Kristo. Ang mga maka-Hudaismong nanatili pa sa ilalim ng kautusan at naghiwalay ng kanilang mga sarili kay Kristo ay katulad ni Ismael (4:23), ang mga inapo ni Abraham ayon sa laman, hindi katulad ni Isaac (4:28), ang kanyang mga tagapagmana ayon sa pangako. Ngunit ang mga mananampalataya sa loob ni Kristo ay mga gayong tagapagmana, nagmamana ng ipinangakong pagpapala. Samakatuwid, nararapat tayong manatili sa loob ni Kristo at huwag bumaling sa kautusan. Yamang ang kautusan ay hindi makapagbibigay ng buhay sa atin (b.21), hindi ito makapamumunga ng mga anak na lalake ng Diyos; nguni’t ang Espiritung natatanggap sa pamamagitan ng pananampalataya (b.2) at nagbibigay ng buhay sa atin (2 Cor. 3:6) ay makapamumunga ng mga anak na lalake ng Diyos. Pinamalagi ng kautusan ang mga taong pinili ng Diyos sa ilalim ng pangangalaga nito hanggang sa dumating ang pananampalataya (b.23). Ang mga taong pinili ng Diyos ay naging binhi ni Abraham sa pamamagitan ng pananampalataya sa loob ni Kristo bilang ang nagpapaloob-ng-lahat na Espiritung nagbibigay-buhay. Ang mga piniling taong ito na naging binhi ni Abraham ay ang “mga bituin ng mga kalangitan” (Gen. 22:17) ayon sa pangako ng Diyos."
+        },
+        {
+            "id": "29-2",
+            "text": "Ang kapitulong ito ay nagpapahayag na nagbigay ang Diyos ng pangako kay Abraham ayon sa Kanyang itinakdang kapasiyahan. Bago natupad ang pangako, ang kautusan ay ibinigay upang maging tagapag-alaga ng mga piniling tao ng Diyos. Pagkatapos, ayon sa itinakdang panahon, isinakatuparan ni Kristo, ang ipinangakong Tagapagmana, ang pangako at inihatid ang ipinangakong pagpapala. Ito ang biyaya. Sa gayon, ang biyaya ay kasabay ni Kristong dumating at sa Kanyang pagdating ay dala ang pagsasakatuparan ng pangako. Ang lahat ng ito ay pawang sa panig ng Diyos. Sa panig naman natin, kinakailangan ang isang daan upang maunawaan, matanto, at matamasa ang lahat ng kung ano at ang lahat ng naisakatuparan ng Tagapagmanang ito na si Kristo. Kaya sa panig ng Diyos ay may biyaya, sa panig natin ay may pananampalataya. Ngayon, yamang mayroon nang biyaya, pananampalataya, at yaong Tagapagmanang tumupad ng pangako, hindi na muling kinakailangan ang kautusan upang maging tagapag-alaga ng tao. Kaya dapat na nating isaisantabi ang kautusan, layuan na ang tagapag-alaga at makipagkaisa kay Kristo upang sa ating pananatili sa loob ng biyaya at sa pananampalataya ay matamasa natin ang ipinangakong pagpapala. Ang pagpapalang ito ay walang iba kundi ang nagpapaloob ng lahat na Espiritung nagbibigay-buhay, na siyang ang Tres-unong Diyos na dumaan sa iba’t ibang hakbangin."
         }
     ]
 }

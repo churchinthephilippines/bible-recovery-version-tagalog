@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -24,7 +24,7 @@
             "footnotes": [
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -41,7 +41,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -52,15 +52,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "kahariang",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "nagsisiibig",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -71,7 +71,7 @@
             "footnotes": [
                 {
                     "word": "hukuman?",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -82,11 +82,11 @@
             "footnotes": [
                 {
                     "word": "marangal",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -97,11 +97,11 @@
             "footnotes": [
                 {
                     "word": "maharlikang",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "Iibigin",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -112,7 +112,7 @@
             "footnotes": [
                 {
                     "word": "nagkakasala",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -123,7 +123,7 @@
             "footnotes": [
                 {
                     "word": "gumaganap",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -140,7 +140,7 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -151,7 +151,7 @@
             "footnotes": [
                 {
                     "word": "nagtatagumpay",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -162,7 +162,7 @@
             "footnotes": [
                 {
                     "word": "Makapagliligtas",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": [
@@ -177,7 +177,7 @@
             "footnotes": [
                 {
                     "word": "ay",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -188,11 +188,11 @@
             "footnotes": [
                 {
                     "word": "Magsiyaon",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "kinakailangan",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -203,11 +203,11 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -230,7 +230,7 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -241,7 +241,7 @@
             "footnotes": [
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -264,7 +264,7 @@
             "footnotes": [
                 {
                     "word": "inaaring-matuwid",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -275,11 +275,11 @@
             "footnotes": [
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "pinadaan",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -290,10 +290,124 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tinutukoy nito na ang Sulat na ito, lalung-lalo na ang kapitulong ito, ay isinulat sa mga Bagong Tipang mananampalataya ng Panginoong Hesu-Kristo ng kaluwalhatian. Tingnan ang tala 22-1 sa Roma 3."
+        },
+        {
+            "id": "1-2",
+            "text": "Karamihan sa mga tagapagsalin ay nagsasaling: Ang Panginoon ng kaluwalhatian o nagdaragdag ng “ang Panginoon.”"
+        },
+        {
+            "id": "2-1",
+            "text": "Nagmumula sa salitang Griyego na sunagoge , binubuo ng sun , magkasama, at ago , dalhin; kaya, isang pagtitipon, kongregasyon, asembliya; o kaya, ang lugar na pinagtitipunan. Ito ay ginamit sa Bagong Tipan upang tumukoy sa kongregasyon (Gawa 13:43; 9:2; Luc. 12:11) at sa pinagtitipunang lugar (Luc. 7:5) ng mga Hudyo, kung saan hinahanap nila ang kaalaman ukol sa Diyos sa pamamagitan ng pag-aaral ng Banal na Kasulatan (Luc. 4:16-17; Gawa 13:14-15). Sa Herusalem, may ilan-ilang sinagoga ng iba’t ibang uri ng mga Hudyo (Gawa 6:9). Maaaring ipinakikita ng salitang “sinagoga” na ginamit dito ni Santiago na itinuring ng mga Hudyong mananampalataya ang kanilang asembliya at lugar ng asembliya bilang isa rin sa mga sinagoga sa kalagitnaan ng mga Hudyo. Kung magkagayon, ito ay nagdadala, katulad ng pagkadala ng buong Sulat, ng isang maka-Hudyong katangian, at maaaring magpakita na ibinibilang pa rin ng mga Hudyong Kristiyano ang kanilang mga sarili na isang bahagi ng bansang Hudyo, bilang ang hinirang na bayan ng Diyos ayon sa Lumang Tipan, at kulang sila sa isang malinaw na pangitain hinggil sa kaibhan ng hinirang na bayan ng Diyos sa Lumang Tipan at ng mga mananampalataya ni Kristo sa Bagong Tipan. Tingnan ang tala 1-3 sa kapitulo 1."
+        },
+        {
+            "id": "4-1",
+            "text": "Isang kahihiyan sa Panginoon at sa pagliligtas na isinagawa ng Kanyang dibinong buhay ang mga pagtatanging umiral sa mayayaman at mga dukha sa gitna ng mga Kristiyanong kapatid."
+        },
+        {
+            "id": "5-1",
+            "text": "Yaon ay, mga dukha sa paningin ng sanlibutan."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang kaharian ng Diyos dito ay ang kaharian din ni Kristo, na siyang mamanahin sa darating na kapanahunan ng mga mandaraig na mananampalataya (Efe. 5:5; Gal. 5:21; I Cor. 6:10; Apoc. 20:4, 6). Ang realidad ng kahariang ito (tingnan ang tala 3-4 sa Mateo 5) ay hindi dapat isagawa sa sinagoga ng mga Hudyo, kundi sa ekklesia ng mga Kristiyano, na siyang Katawan ni Kristo (Roma 14:17)."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang sumampalataya sa Panginoon ay para sa ating kaligtasan (Gawa 16:31); ang umibig sa Diyos (1 Juan 2:5, 15) ay para sa ating pagtatagumpay, upang matanggap natin ang ipinangakong kaharian bilang gantimpala (tingnan ang mga tala 28-1 sa Hebreo 12 at 35-1 sa Hebreo 10)."
+        },
+        {
+            "id": "6-1",
+            "text": "O, mga tribunal."
+        },
+        {
+            "id": "7-1",
+            "text": "Tingnan ang Gawa 15:17. Ang marangal na pangalan, sa literal ay, ang mabuting pangalan. Tumutukoy sa marangal na pangalan ni Hesu-Kristo."
+        },
+        {
+            "id": "7-2",
+            "text": "Lit. pantawag sa inyo."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang maharlikang kautusan ay tumutukoy sa utos na, Ibigin mo ang iyong kapwa na gaya ng sa iyong sarili. Ito ang hari ng lahat ng mga kautusan, at sumasaklaw at tumutupad sa lahat ng mga kautusan (Gal. 5:14; Roma 13:8-10)."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang ibigin ang Diyos (b. 5) at ang ibigin ang ating kapwa ay ang mga pinakamalaking kahilingan ng mga kautusan. Ang lahat ng mga utos ay nakasalalay sa dalawang ito (Mat. 22:36-40)."
+        },
+        {
+            "id": "9-1",
+            "text": "Lit. gumagawa ng kasalanan."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang salita sa bb. 8-11 ay nagpapakita na isinasagawa pa ng mga Hudyong mananampalataya sa kapanahunan ni Santiago ang pagtupad sa Lumang Tipang kautusan. Ito ay tumutugon sa salita sa Gawa 21:20 na sinalita ni Santiago at ng mga matanda sa Herusalem kay Pablo. Si Santiago, ang mga matanda sa Herusalem, at ang maraming libu-libong mananampalatayang Hudyo ay nananatili pa rin sa isang paghahalo ng Kristiyanong pananampalataya at ng Mosaikong kautusan. Pinayuhan pa man din nila si Pablo na isagawa ang isang gayong medyo-maka-Hudyong paghahalo (Gawa 21:17-26). Hindi nila namamalayan na ang kapanahunan ng kautusan ay lubusang lumipas na at ang kapanahunan ng biyaya ay nararapat na bigyan ng lubusang puwang, at ang anumang pagpapawalang-bahala sa kaibhan ng dalawang kapanahunang ito ay magiging laban sa pampanahunang administrasyon ng Diyos at magiging isang malaking kapinsalaan sa pang-ekonomiyang plano ng Diyos para sa pagtatayo ng ekklesia bilang kahayagan ni Kristo. Kaya, ang Sulat ni Santiago ay isinulat sa ilalim ng ulap ng isang medyo-maka-Hudaismong paghahalo, sa ilalim ng isang malabong pumapaligid-na- pangyayari. Gayunpaman, hindi kakaunting tao, na nagsasagawa ng pagkamakadiyos nang ayon sa natural na konsepto, ang hindi nakakakita sa gayong nagpapaligid-na-pangyayari ng aklat na ito."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang kautusan ng kalayaan dito at sa 1:25 ay tumutukoy sa parehong kautusan, na siyang kautusan ng buhay. Ang bb. 8-11, gaya rin ng 4:11, ay nagsasalita ng tungkol sa pagtupad sa kautusan ng mga titik. Ang bersikulong ito ay nagsasalita ng tungkol sa hatol sa mga mananampalataya sa pamamagitan ng kautusan ng buhay. Ang mga mananampalataya ay dapat na magsalita at gumawa nang ayon sa kautusan ng buhay, na humihigit sa kautusan ng mga titik. Dapat silang mamuhay nang ayon sa kautusan ng buhay. Hinihigitan ng ganitong uri ng pamumuhay ang pagtupad sa kautusan ng mga titik. Ang mga di-mananampalataya ay hahatulan sa pamamagitan ng kautusan ng mga titik, na siyang kautusan ni Moises, sa malaking tronong puti (Apoc. 20:11- 15); ang mga mananampalataya ay hahatulan sa pamamagitan ng kautusan ng buhay, ang kautusan ng kalayaan, na siyang kautusan ni Kristo, sa Kanyang luklukan ng paghahatol (2 Cor. 5:10)."
+        },
+        {
+            "id": "13-1",
+            "text": "O, nagmamapuri, nagmamalaki laban sa."
+        },
+        {
+            "id": "14-1",
+            "text": "Ayon sa nilalaman ng mga nauna at nahuling bersikulo, ang “makapagliligtas” na binanggit sa bersikulong ito ay ang makapagliligtas sa paghuhukom na walang awa sa luklukan ng paghahatol ni Kristo (b. 13). Upang maligtas tayo mula sa paghuhukom na walang awa, kinakailangang gumawa nang may awa at pag-ibig sa mga mananampalataya."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang pandiwa ay tumutukoy na sila ay nasa ganitong kalagayan na nang ilang panahon."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit. magsialis."
+        },
+        {
+            "id": "16-2",
+            "text": "Nakahihiyang hindi mapangalagaan ang mga pangangailangan ng mga dukhang banal sa buhay-ekklesia. Subalit, ang salita rito ni Santiago, para sa pagpapatibay ng kanyang pananaw ukol sa praktikal na pang-Kristiyanong kasakdalan, ay nagdadala ng lasa ng Lumang Tipang pagmamalasakit para sa mga taong nangangailangan (Deut. 15:7-8)."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang pananampalataya ay ukol sa buhay; ito ay buháy at gumagawa sa pamamagitan ng pag-ibig (Gal. 5:6). Kung hindi, ito ay isang patay na pananampalataya, hindi tunay (bb. 20, 26)."
+        },
+        {
+            "id": "17-2",
+            "text": "Lit. ayon sa."
+        },
+        {
+            "id": "20-1",
+            "text": "O, baog. Sa ilang manuskrito ay nababasang, patay."
+        },
+        {
+            "id": "21-1",
+            "text": "O, nang."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang ariing-matuwid sa pamamagitan ng pananampalataya ay para sa pagtanggap ng buhay ng Diyos (Roma 5:18); ang ariing-matuwid sa pamamagitan ng mga gawa ay sa pamamagitan ng pamumuhay ng buhay ng Diyos. Yamang ang pamumuhay ay ang kinalabasan ng buhay, ang ariing-matuwid sa pamamagitan ng mga gawa ay ang bunga ng pagiging inaring-matuwid sa pamamagitan ng pananampalataya. Ang paghandog ni Abraham kay Isaac at ang pagtanggap ni Rahab sa mga sugo at ang pagpapaalis niya sa mga ito ay kapwa mga gawain na ibinunga ng kanilang buháy na pananampalataya. Ang isang buháy na punong-kahoy ay tiyak na magbubunga. Ang ariing-matuwid sa pamamagitan ng mga gawa ay hindi sumasalungat sa pagiging inaring-matuwid sa pamamagitan ng pananampalataya. Ang huli ay ang sanhi, nagbubunga ng una, at ang una ay ang epekto, ang resulta at katibayan ng huli. Ang kapitulong ito ay nagsisimula sa hindi pagtatangi sa mga tao (bb. 1-13), at nagtatapos sa praktikal na pangangalaga para sa mga pangangailangan ng mga dukhang banal; ito ay ang gawain ng pananampalataya sa ikaaaring-matuwid (bb. 14-26). Ang lahat ng mga kagalingang ito, ayon sa pananaw ni Santiago, ay maaaring ituring na mga katangian ng praktikal na pang- Kristiyanong kasakdalan."
+        },
+        {
+            "id": "25-1",
+            "text": "O, nang."
+        },
+        {
+            "id": "25-2",
+            "text": "Tinulak palabas."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang espiritu ay nagbibigay ng buhay sa katawan (Gen. 2:7); ang mga gawa ay nagpapakita at naghahayag ng buhay na nasa pananampalataya."
         }
     ]
 }

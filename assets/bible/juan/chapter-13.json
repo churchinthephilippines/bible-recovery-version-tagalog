@@ -1,5 +1,5 @@
 {
-    "chapter": 13,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Bago",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -34,15 +34,15 @@
             "footnotes": [
                 {
                     "word": "itinabi",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "tuwalya,",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "binigkisan",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -53,15 +53,15 @@
             "footnotes": [
                 {
                     "word": "tubig",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "hugasan",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -78,11 +78,11 @@
             "footnotes": [
                 {
                     "word": "nauunawaan",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "malalaman",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -105,7 +105,7 @@
             "footnotes": [
                 {
                     "word": "napaliguan",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -148,7 +148,7 @@
             "footnotes": [
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -165,7 +165,7 @@
             "footnotes": [
                 {
                     "word": "kumakain",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": [
@@ -178,7 +178,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -255,11 +255,11 @@
             "footnotes": [
                 {
                     "word": "naluluwalhati",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "naluluwalhati",
-                    "note": ""
+                    "id": "31-2"
                 }
             ],
             "outlines": [
@@ -273,19 +273,19 @@
             "footnotes": [
                 {
                     "word": "Kung",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "naluluwalhati",
-                    "note": ""
+                    "id": "32-2"
                 },
                 {
                     "word": "luluwalhatiin",
-                    "note": ""
+                    "id": "32-3"
                 },
                 {
                     "word": "luluwalhatiin",
-                    "note": ""
+                    "id": "32-3"
                 }
             ],
             "outlines": null
@@ -302,7 +302,7 @@
             "footnotes": [
                 {
                     "word": "utos",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -325,7 +325,7 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -336,10 +336,92 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang Ebanghelyong ito ay nahahati sa dalawang seksiyon. Ang unang seksiyon na binubuo ng kapitulo 1-13 ay nagsasaad kung paano ang Panginoon bilang ang walang hanggang Salita, na Siyang Diyos Mismo, at bilang ang Anak ng Diyos ay pumarito sa pamamagitan ng Kanyang pagkakatawang-tao upang dalhin ang Diyos tungo sa loob ng tao nang sa gayon ay maging buhay ng tao para sa pagbubunga ng ekklesia. Ang pangalawang seksiyon na binubuo ng kapitulo 14-21 ay naghahayag kung paano ang Panginoon bilang ang Anak ng Tao ay nagdaan sa Kanyang kamatayan at pagkabuhay na muli upang dalhin ang tao tungo sa loob ng Diyos, nang sa gayon ang tao at ang Diyos at ang Diyos at ang tao ay maitayong magkasama bilang tahanan para sa isa’t isa. Ang kapitulo 13 sa katapusan ng unang seksiyon ay isang linyang naghahati at isang punto ng pagbaling."
+        },
+        {
+            "id": "4-1",
+            "text": "*Ang itinabing damit dito ay ang damit na ipinapatong sa panloob na kasuotan. *Ang mga damit dito ay sumasagisag sa mga kagalingan at katangian ng Panginoon sa Kanyang kahayagan. Samakatwid, ang pagtatabi ng Kanyang mga damit ay sumasagisag sa paghuhubad ng kung ano Siya sa Kanyang kahayagan."
+        },
+        {
+            "id": "4-2",
+            "text": "Galing sa salitang Latin na nangangahulugang tuwalyang lino."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang bigkisan ang Kanyang Sarili ay sumasagisag na ginapos at nilimitahan ang Sarili ng kapakumbabaan (cf. 1 Ped. 5:5)."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang tubig dito ay sumasagisag sa Espiritu Santo (Tito 3:5), sa salita (Efe. 5:26; Juan 15:3), at sa buhay (19:34)."
+        },
+        {
+            "id": "5-2",
+            "text": "Mula kapitulo 1 hanggang 12, ang buhay ay pumarito at nagbunga ng ekklesia na binubuo ng mga taong naisilang na muli. Sa kanilang espiritu sila ay nasa loob ng Diyos at nasa kalangitan, nguni’t sa kanilang katawan sila ay namumuhay pa rin sa laman at lumalakad sa lupa. Dahil sa panlupang pakikipag-ugnayan, sila ay madalas na narurumihan. Ito ang humahadlang sa kanilang pakikipagsalamuha sa Panginoon at sa isa’t isa. Kaya, kinakailangan ang paghuhugas ng Espiritu Santo, ng salita, at ng buhay. Ito ang paghuhugas ng kanilang dumi, hindi ng kanilang mga kasalanan na katulad ng ginagawa ng dugo (1 Juan 1:7, 9) , upang mapanatili ang pakikipagsalamuha sa Panginoon at sa isa’t isa. Ito ang dahilan kung bakit pagkatapos ng kapitulo 12 ay kinakailangan ang ganitong tanda sa kapitulo 13. Ang Ebanghelyong ito ay isang aklat ng mga tanda. Ang nakatala rito sa kapitulo 13 ay dapat ituring na isang tanda na may espirituwal na kahulugan. Hindi natin dapat ituring ang paghuhugas ng paa sa isang pisikal na paraan lamang, manapa’y sa isang espirituwal na paraan."
+        },
+        {
+            "id": "5-3",
+            "text": "Noong sinaunang panahon, ang mga Hudyo ay nagsusuot ng mga sandalyas, at dahil sa ang kanilang mga kalsada ay maalikabok, ang kanilang mga paa ay madaling dumumi. Kung pupunta sila sa isang kapistahan at dudulang nang may mga marurumi at nakaunat na paa, ang dumi at amoy ay hahadlang sa pagsasalamuha. Samakatuwid, upang maging kaaya-aya ang kapistahan, kailangan nila ang paghuhugas ng paa. Ginawa ito ng Panginoon sa Kanyang mga disipulo upang ipakita sa kanila na Kanyang inibig sila hanggang sa katapusan (b. 1), at iniutos Niya sa kanila na gawin din ang gayon sa isa’t isa sa loob ng pag- ibig (bb. 14, 34). Ngayon ang sanlibutan ay marumi at tayong mga banal ay madaling mahawahan. Upang ating mapanatili ang kaaya-ayang pagsasalamuha sa Panginoon at sa isa’t isa, kinakailangan natin ang espirituwal na paghuhugas ng paa. Kinakailangan nating hayaan ang Panginoon sa loob ng Kanyang pag-ibig na hugasan tayo at hayaan ang mga banal sa loob ng pagmamahalan sa isa’t isa na maghugasan sa pamamagitan ng paggamit ng Espiritu Santo, ng salita, at ng buhay. Ito ang bagay na hindi maaaring magkulang sa ating pamumuhay sa loob ng pagsasalamuha ng dibinong buhay na ipinakita sa atin sa 1 Juan at Ebanghelyo ni Juan."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang salitang “nauunawaan” sa bersikulong ito ay oida , tumutukoy sa panloob na subhektibong kaalaman; ang salitang “malalaman” ay ginosko , tumutukoy sa panlabas na obhektibong pagkakilala. May isang lubhang makahulugang pagkakaiba. Tingnan ang tala 55-1 sa kapitulo 8."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang paliligo rito ay sumasagisag sa “paghuhugas ng pagkasilang na muli” (Tito 3:5; Juan 3:5)."
+        },
+        {
+            "id": "16-1",
+            "text": "Isa na isinugo-lit. apostol."
+        },
+        {
+            "id": "18-1",
+            "text": "Lit. ngumunguya."
+        },
+        {
+            "id": "19-1",
+            "text": "Tingnan ang tala 24-1 sa kap. 8."
+        },
+        {
+            "id": "31-1",
+            "text": "Tingnan ang tala 23-1 sa kap. 12."
+        },
+        {
+            "id": "31-2",
+            "text": "Tingnan ang tala 28-1 sa kap. 12."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang ibang lumang manuskrito ay wala nito, “Kung ang Diyos ay naluluwalhati sa Kanya.”"
+        },
+        {
+            "id": "32-2",
+            "text": "Tingnan ang tala 28-1 sa kap. 12."
+        },
+        {
+            "id": "32-3",
+            "text": "Tingnan ang tala 23-1 sa kap. 12."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang “utos” sa Griyego ay katulad ng salitang nasa Mat. 5:19; Roma 7:8, 9, 10, 11, 12 at 13. Ang utos na binanggit sa Mateo 5 at Roma 7 ay tumutukoy sa lumang utos ng kautusan sa Lumang Tipan, samantalang ang utos dito ay tumutukoy sa bagong utos na ibinigay sa atin ng Panginoon sa Bagong Tipan. Ang utos na nakatala sa 14:15, 21; 15:10, 12; 1 Juan 2:3, 4, 7, 8; 3:22, 23, 24; 4:21; 5:2, 3; 2 Juan 4, 5, 6 ay tumutukoy sa bagong utos na ibinigay sa atin ng Panginoong Hesus o ng Diyos sa loob ng Bagong Tipan, at ito ay naiiba sa lumang utos na nasa loob ng Lumang Tipan."
+        },
+        {
+            "id": "37-1",
+            "text": "Gr. psuche , kaluluwa, pangkaluluwang buhay."
+        },
+        {
+            "id": "38-1",
+            "text": "Tingnan ang tala 37-1 ."
         }
     ]
 }

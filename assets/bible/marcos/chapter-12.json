@@ -1,5 +1,5 @@
 {
-    "chapter": 12,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": []
@@ -60,7 +60,7 @@
             "footnotes": [
                 {
                     "word": "iba.",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -71,7 +71,7 @@
             "footnotes": [
                 {
                     "word": "panulok;",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -94,11 +94,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": [
@@ -135,7 +135,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": [
@@ -202,15 +202,15 @@
             "footnotes": [
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "28-2"
                 },
                 {
                     "word": "pagtatalo,",
-                    "note": ""
+                    "id": "28-3"
                 }
             ],
             "outlines": [
@@ -229,7 +229,7 @@
             "footnotes": [
                 {
                     "word": "lakas",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -240,7 +240,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -269,15 +269,15 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "35-1"
                 },
                 {
                     "word": "nagtuturo",
-                    "note": ""
+                    "id": "35-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "35-3"
                 }
             ],
             "outlines": [
@@ -296,7 +296,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -327,11 +327,11 @@
             "footnotes": [
                 {
                     "word": "minasdan",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "salapi",
-                    "note": ""
+                    "id": "41-2"
                 }
             ],
             "outlines": [
@@ -344,11 +344,11 @@
             "footnotes": [
                 {
                     "word": "maliliit",
-                    "note": ""
+                    "id": "42-1"
                 },
                 {
                     "word": "kodrantes.",
-                    "note": ""
+                    "id": "42-2"
                 }
             ],
             "outlines": null
@@ -364,6 +364,84 @@
             "text": "Sapagka’t silang lahat ay nagsipaghulog ng sa kanila ay labis; datapuwa’t siya, sa kanyang kasalatan, ay naghulog nang buong nasa kanya, samakatuwid ay ang kanyang buong kabuhayan.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa bb. 1-12, tingnan ang mga tala sa Mat. 21:33-46."
+        },
+        {
+            "id": "9-1",
+            "text": "Tinanggihan ng mga pinunong Hudyo, bilang ang mga tagapagtayo ng pagtatayo ng Diyos, ang Aliping-Tagapagligtas, na Siyang bato na naging pangulo ng panulok ng pagtatayo ng Diyos (b. 10). Sa kadahilanang ito, sila ay hindi tinanggap ng Diyos at ibinigay ang Kanyang gawaing pagtatayo sa iba – sa ekklesia. Ito lamang ang tuwirang pagpapakilala tungkol sa ekklesia sa Ebanghelyong ito."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang panulok ng pagtatayo ng ekklesia (Efe. 2:20). Ito ay isang di-tuwirang pahiwatig tungkol sa ekklesia."
+        },
+        {
+            "id": "13-1",
+            "text": "Para sa bb. 13-17, tingnan ang mga tala sa Mat. 22:15-22."
+        },
+        {
+            "id": "13-2",
+            "text": "Tingnan ang tala 6-1 sa kapitulo 2."
+        },
+        {
+            "id": "18-1",
+            "text": "Para sa bb. 18-27, tingnan ang mga tala sa Mat. 22:23-33."
+        },
+        {
+            "id": "28-1",
+            "text": "Sa Mat. 22:35, siya ay tinawag na isang tagapagtanggol ng kautusan. Ang “mga eskriba” ay isang higit na malawak na katawagang sumasakop sa mga tagapagtanggol, mga bihasa sa Mosaikong kautusan, mga tagapagpaliwanag ng kautusan."
+        },
+        {
+            "id": "28-2",
+            "text": "Tingnan ang tala 6-1 sa kap. 2."
+        },
+        {
+            "id": "28-3",
+            "text": "Ang patay na kaalaman sa Kasulatan ay nagsasanhi sa tao na makipagtalo sa Panginoon. Nakatatakot ito."
+        },
+        {
+            "id": "30-1",
+            "text": "Tumutukoy sa lakas ng katawan. Mula sa ating puso, dumaraan sa ating kaluluwa, sa ating kaisipan, hanggang sa ating katawan. Ang lahat ng ito ay buung-buong gagamitin sa pag-ibig sa Panginoon na ating Diyos."
+        },
+        {
+            "id": "31-1",
+            "text": "Tingnan ang mga tala 40-1 sa Mateo 22 at 81 sa Santiago 2."
+        },
+        {
+            "id": "35-1",
+            "text": "Para sa bb. 35-37, tingnan ang mga tala sa Mat. 22:41-45."
+        },
+        {
+            "id": "35-2",
+            "text": "Tingnan ang tala 21-2 sa kap. 1."
+        },
+        {
+            "id": "35-3",
+            "text": "Ang mga eskriba ay nagsasalita ayon sa mga titik. Ang ganitong pagsasalita ay naiiba sa pagsasalita sa pamamagitan ng Espiritu Santo."
+        },
+        {
+            "id": "37-1",
+            "text": "Ayon sa sagisag, ang Kordero ng Paskua ay sinuri nang apat na araw bago ito pinatay (Exo. 12:3-6). Ang Aliping-Tagapagligtas, bilang ang tunay na Kordero ng Paskua (1 Cor. 5:7), ay sinuri rin nang apat na araw bago Siya pinatay. Siya ay dumating sa Betania anim na araw bago ang Paskua (Juan 12:1; Marc. 11:1). Sa sumunod na araw dumating Siya sa Herusalem at bumalik sa Betania (Juan 12:12; Marc. 11:11). Sa ikatlong araw Siya ay muling dumating sa Herusalem (11:12-15) at sinimulang suriin ng mga pinuno ng mga Hudyo, ayon sa maka-Hudyong kautusan (11:27-12:37; 14:53-65; Juan 18:13, 19-24), at ni Pilato, ang Romanong Gobernador, ayon sa batas ng Romano (Juan 18:28 – 19:6; tingnan ang tala 1-2 sa kap. 15), hanggang sa araw ng Paskua nang ipinako Siya (14:12; Juan 18:28; tingnan ang tala 12-2 sa kap. 14). Ang tuso at nakabibitag na pagsusuri sa maraming anggulo, ay nangyari sa ganap na apat na araw, at Siya ay pumasa, pinatutunayang Siya ay lubusang karapat-dapat na maging Korderong hinihiling ng Diyos para sa katuparan ng Kanyang pagtutubos, upang Kanyang lampasan ang mga makasalanan, kapwa ang mga Hudyo at ang mga Hentil.Tingnan ang mga tala 1-2 sa kap.15, 2-1 sa Mat. 26 at 13-1 sa Juan 18."
+        },
+        {
+            "id": "41-1",
+            "text": "Ang Aliping-Tagapagligtas ay ang Diyos na nabubuhay sa Kanyang pagkatao. Bilang gayon, interesado Siyang makita kung paano ihahayag ng mga tao ng Diyos ang kanilang katapatan sa kanilang paghahandog sa Kanya. Sa ganitong paraan Kanyang pinuri ang katapatan sa Diyos ng babaeng balo. Ang pagmamasid ng Aliping-Tagapagligtas ay higit na matalas kaysa sa pagmamasid ng tao."
+        },
+        {
+            "id": "41-2",
+            "text": "Lit. tanso."
+        },
+        {
+            "id": "42-1",
+            "text": "Gr. lepta."
+        },
+        {
+            "id": "42-2",
+            "text": "Katumbas ng isang ikaapat na bahagi ng isang mamerang dolyar ng Amerika."
         }
     ]
 }

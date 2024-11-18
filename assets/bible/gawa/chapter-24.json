@@ -1,5 +1,5 @@
 {
-    "chapter": 24,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,10 +7,12 @@
             "footnotes": [
                 {
                     "word": "mananalumpati,",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "(2) Inakusahan ng Manananggol ng Hudyo\n 24:1-9"
+            ]
         },
         {
             "id": "2",
@@ -18,7 +20,7 @@
             "footnotes": [
                 {
                     "word": "Yamang",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -47,7 +49,7 @@
             "footnotes": [
                 {
                     "word": "inihuli.",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -58,7 +60,7 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -69,7 +71,7 @@
             "footnotes": [
                 {
                     "word": "Kung",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -86,10 +88,12 @@
             "footnotes": [
                 {
                     "word": "pagtatanggol",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "(3) Ipinagtatanggol ang Kanyang Sarili sa Harap ni Felix\n 24:10-21"
+            ]
         },
         {
             "id": "11",
@@ -115,11 +119,11 @@
             "footnotes": [
                 {
                     "word": "Daan",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "pinaglilingkuran",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -130,7 +134,7 @@
             "footnotes": [
                 {
                     "word": "pagkabuhay",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -141,7 +145,7 @@
             "footnotes": [
                 {
                     "word": "budhing",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -158,7 +162,7 @@
             "footnotes": [
                 {
                     "word": "nagpapadalisay",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -187,10 +191,12 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "(4) Pinanatili sa Pagtanod ng Di-matuwid at Bulok na Pulitikong Romano\n 24:22-27"
+            ]
         },
         {
             "id": "23",
@@ -198,7 +204,7 @@
             "footnotes": [
                 {
                     "word": "kalayaan",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -209,11 +215,11 @@
             "footnotes": [
                 {
                     "word": "Drusila",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -224,11 +230,11 @@
             "footnotes": [
                 {
                     "word": "nakikipagmatuwiran",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "katuwiran,",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -239,7 +245,7 @@
             "footnotes": [
                 {
                     "word": "salapi;",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -250,18 +256,104 @@
             "footnotes": [
                 {
                     "word": "dalawang",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "Festo;",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "bigyang-",
-                    "note": ""
+                    "id": "27-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Isang tagapagtanggol, isang abogado, na may alam sa pamamaraang legal sa Roma."
+        },
+        {
+            "id": "2-1",
+            "text": "Mula rito hanggang sa katapusan ng bersikulo 3, ang salita ni Tertulo ay nagpakita ng kanyang kaimbian, walang anumang sukatan ng tuntunin ng moralidad. Tingnan ang tala sa 1-3 sa kapitulo 23."
+        },
+        {
+            "id": "6-1",
+            "text": "Idinaragdag ng ilang nahuling manuskrito ang, at nais namin siyang hatulan ayon sa aming sariling kautusan."
+        },
+        {
+            "id": "7-1",
+            "text": "Hindi ito matatagpuan sa maraming manuskrito."
+        },
+        {
+            "id": "8-1",
+            "text": "Idinaragdag ng ilang nahuling manuskrito ang, Iniuutos sa kanyang tagapagsakdal na humarap sa iyo."
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang tala 1-1 sa kap. 22"
+        },
+        {
+            "id": "14-1",
+            "text": "Tingnan ang tala 2-1 sa kap. 9."
+        },
+        {
+            "id": "14-2",
+            "text": "Lit. naglilingkod bilang isang saserdote."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang pagkabuhay na muli ng mga matuwid ay mangyayari bago ang isang libong taong kaharian sa pagbabalik ng Panginoon (1 Cor. 15:23; 1 Tes. 4:16). Ito ang magiging pagkabuhay na muli ng buhay (Juan 5:28-29a at mga tala; Dan. 12:2a) at ang pagkabuhay na muli ng gantimpala (Luc. 14:14), kasama ang una o ang pinakamabuting pagkabuhay na muli (Apoc. 20:4-6 at mga tala 5-2 at 6-2 ), ang higit na pagkabuhay na muli (Fil. 3:11 at tala 2). Ang pagkabuhay na muli ng mga di-matuwid ay mangyayari pagkaraan ng isang libong taong kaharian (Apoc. 20:5). Ito ang magiging pagkabuhay na muli ng paghuhukom (Juan 5:29b at mga tala) at ng kahihiyan at ng walang katapusang paghamak (Dan. 12:2b), at magiging para sa paghuhukom ng walang hanggang pagkapahamak sa mga di-matuwid (Apoc. 20:12-15 at tala 12-1 ); tungkol dito binigyan ng apostol ng babala ang di-matuwid na si Felix sa bersikulo 25 (tingnan ang tala roon)."
+        },
+        {
+            "id": "16-1",
+            "text": "Tingnan ang tala 1-3 sa kap. 23."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang tala 24-1 sa kap. 21."
+        },
+        {
+            "id": "22-1",
+            "text": "Lit. sila."
+        },
+        {
+            "id": "23-1",
+            "text": "O, kaginhawahan, kaluwagan."
+        },
+        {
+            "id": "24-1",
+            "text": "Isang anak na babae ni Haring Herodes Agrippa. Si Felix na umibig sa kanya ay humimok sa kanya na iwanan ang kanyang asawa at magpakasal sa kanya. Ito ay nagpapakita ng kalabisan at kabulukan ni Felix, isang Romanong pulitiko. Tingnan ang tala 1-3 sa kap. 23."
+        },
+        {
+            "id": "24-2",
+            "text": "O, sa kanyang…"
+        },
+        {
+            "id": "25-1",
+            "text": "Lit. nagpapaliwanag nang husto, nagtatalakay (sa pagtatalo o pag-uudyok), nakikipagtalo; pareho sa 17:2; 18:4, 19."
+        },
+        {
+            "id": "25-2",
+            "text": "Matapos malaman ang di-pagkamakatuwiran (bb. 26-27) at kalabisan ni Felix (tingnan ang tala 24-1 ), ang apostol ay nangatuwiran sa kanya hinggil sa katuwiran at sariling pagtitimpi, ang pagpipigil sa silakbo at hangarin, lalo na rito, ang tungkol sa pagpipigil sa mga hangaring seksuwal. Ang paghuhukom na darating ay may kaugnayan sa pagkabuhay na muli ng di-matuwid, na ipinangaral ng apostol sa bersikulo 15 (tingnan ang tala roon). Ikinatuwiran din ng apostol kay Felix ang paghuhukom na darating bilang isang babala. Sa pamamagitan nito ay natakot si Felix. Tingnan ang mga tala 42-1 sa kapitulo 10 at 31-1 sa kapitulo 17."
+        },
+        {
+            "id": "26-1",
+            "text": "Ito ay tumutukoy sa kabulukan ng pulitikang Romano. Tingnan ang tala 1-3 sa kapitulo 23."
+        },
+        {
+            "id": "27-1",
+            "text": "Hindi sinabi ni Lucas kung ano ang ginawa ng apostol sa loob ng dalawang taong ito. Maaaring ginamit niya ang panahong ito upang makasama ang Panginoon para sa Kanyang pagkilos sa lupa. Kung magkagayon, ito ay maaaring nakaimpluwensiya sa mga Sulat na kanyang isinulat noong panahon ng kanyang pag-apela sa Roma – ang Sulat sa Mga Taga-Colosas, ang Sulat sa Mga Taga-Efeso, at ang Sulat sa Mga Taga-Filipos – ang mga pinakamahiwaga, pinakamalalim, at ang pinakamayaman sa dibinong pahayag. Ang panustos na naihatid ng mga Sulat na ito sa maraming henerasyon ng ekklesia ay mahirap masambit."
+        },
+        {
+            "id": "27-2",
+            "text": "Ang kahalili ni Felix bilang gobernador ng Judea."
+        },
+        {
+            "id": "27-3",
+            "text": "Muling ipinakikita nito ang kabulukan ng pulitikang Romano."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "humatol",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -25,23 +25,23 @@
             "footnotes": [
                 {
                     "word": "salita;",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "maging",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "napapanahon",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "sumawata",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "buong",
-                    "note": ""
+                    "id": "2-5"
                 }
             ],
             "outlines": null
@@ -52,15 +52,15 @@
             "footnotes": [
                 {
                     "word": "panahon",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "malusog",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "kikiliti",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -71,15 +71,15 @@
             "footnotes": [
                 {
                     "word": "ilalayo",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "katotohanan,",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "katha-",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -90,11 +90,11 @@
             "footnotes": [
                 {
                     "word": "lubos",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "ministeryo.",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -105,11 +105,11 @@
             "footnotes": [
                 {
                     "word": "ibinubuhos",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "pagpanaw",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -120,15 +120,15 @@
             "footnotes": [
                 {
                     "word": "Nakipagbaka",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "natapos",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "takbo",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -139,27 +139,27 @@
             "footnotes": [
                 {
                     "word": "Buhat",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "natataan",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "putong",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "matuwid",
-                    "note": ""
+                    "id": "8-4"
                 },
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "8-5"
                 },
                 {
                     "word": "pagpapakita.",
-                    "note": ""
+                    "id": "8-6"
                 }
             ],
             "outlines": null
@@ -180,11 +180,11 @@
             "footnotes": [
                 {
                     "word": "iniibig",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "Dalmacia.",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -207,15 +207,15 @@
             "footnotes": [
                 {
                     "word": "balabal",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Troas,",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "balumbon,",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -244,7 +244,7 @@
             "footnotes": [
                 {
                     "word": "bibig",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -255,7 +255,7 @@
             "footnotes": [
                 {
                     "word": "makalangit",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -274,11 +274,11 @@
             "footnotes": [
                 {
                     "word": "Mileto",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -295,14 +295,156 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "biyaya.",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Binubuo ng natutuhan ni Timoteo kapwa kay Pablo at sa Lumang Tipan (3:14-15). Ito ay nagpapatunay na ang mga bersikulo 1-2 ay isang pagpapatuloy ng 3:14-17. Sa pangangalaga ng isang ekklesia-lokal, lalo na sa panahon ng pagbaba ng ekklesia, ang pagpapahayag ng salita ay napakahalaga."
+        },
+        {
+            "id": "2-2",
+            "text": "Yaon ay, maging mabilis, nag-aabang."
+        },
+        {
+            "id": "2-3",
+            "text": "May pagkakataon o walang pagkakataon, maging madali o mahirap ang pagkakataon, maging ikaw ay pinatutuloy o di-pinatutuloy."
+        },
+        {
+            "id": "2-4",
+            "text": "Yaon ay, ang ipaalam sa tao ang kanyang kasalanan nang sa gayon ay mahatulan ang kanyang sarili."
+        },
+        {
+            "id": "2-5",
+            "text": "Ang salitang “buong” ay tumuturing din sa pagtuturo, tumutukoy sa pagtuturo sa maraming aspekto at direksiyon. Ang pagsasakatuparan ng gayong pagtuturo ay nangangailangan ng pagpapahinuhod."
+        },
+        {
+            "id": "3-1",
+            "text": "Tumutukoy sa panahon ng paglala ng paghina ng ekklesia."
+        },
+        {
+            "id": "3-2",
+            "text": "Tingnan ang tala 10-1 sa 1 Timoteo 1."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang kilitiin ang kumakating tainga, ang taingang naghahanap ng nakalulugod na pagsasalita para sa sarili nitong kaluguran."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang kumakati at di-tumatanggap na tainga ay ang pangunahing dahilan ng lumalalang paghina ng mga ekklesia."
+        },
+        {
+            "id": "4-2",
+            "text": "Tingnan ang mga tala 4-2 sa 1 Timoteo 2, at 15-6 sa 1 Timoteo 3."
+        },
+        {
+            "id": "4-3",
+            "text": "Tingnan ang tala 4-1 sa 1 Tim. 1."
+        },
+        {
+            "id": "5-1",
+            "text": "Punuin ang buong sukat ng iyong ministeryo."
+        },
+        {
+            "id": "5-2",
+            "text": "Yaon ay, ang ministeryo ng salita, ang ihain ang lahat ng mga kayamanan ni Kristo (Efe. 3:8) kapwa sa mga makasalanan at mga mananampalataya para sa ikatatayo ng Katawan ni Kristo (Efe. 4:11-12). Ang gayong ministeryo ay lubhang kailangan upang salungatin ang pababang kalakaran, na naipropesiya sa mga bersikulo 3-4."
+        },
+        {
+            "id": "6-1",
+            "text": "Bilang isang handog na inumin (tingnan ang tala 17-1 sa Filipos 2). Ang maibuhos ay ang magdanak ng dugo. Sa pariralang “ibinubuhos na”, makikita natin na ang hakbangin ay nagsimula na."
+        },
+        {
+            "id": "6-2",
+            "text": "Yaon ay, ang mamartir, ang lumisan sa sanlibutan at makasama ang Panginoon (Fil. 1:23). Si Pablo ay ibinilanggo sa Roma ng dalawang ulit. Ang una ay noong mga A.D. 62-64, dahil sa pagpaparatang ng mga Hudyo (Gawa 28:17-20). Sa loob ng panahong yaon ay isinulat niya ang mga Sulat sa Colosas, Efeso, Filipos, at kay Filemon. Pagkatapos ng kanyang paglaya (na kanyang inasahan sa Fil. 1:25; 2:24; at Filem. 22) mula sa unang pagkabilanggo, siya ay bumisita sa Efeso at Macedonia (1 Tim. 1:3), kung saan niya maaaring isinulat ang unang Sulat kay Timoteo. Pagkatapos, binisita niya ang Creta (Tito 1:5); Nicopolis (Tito 3:12), kung saan isinulat niya ang Sulat kay Tito; Troas at Mileto (bb. 13, 20), kung saan niya maaaring isinulat ang Hebreo. Sa kanyang ikalawang pagkabilanggo, noong mga A.D. 67, dahil sa biglang pag-uusig ni Cesar Nero, isinulat niya ang ikalawang Sulat kay Timoteo habang hinihintay ang napipinto niyang pagkamartir para sa kanyang Panginoon."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang isang wastong buhay-Kristiyano ay makatlo: ang makibaka ng mabuting pakikipagbaka laban kay Satanas at sa kanyang kaharian ng kadiliman sa kapakanan ng kaharian ng Diyos (1 Tim. 6:12); ang takbuhin ang takbo para sa pagsasagawa ng ekonomiya ng Diyos ayon sa Kanyang walang hanggang layunin (Heb. 12:1); at ang maingatan ang pananampalataya para sa pakikibahagi sa mga dibinong kayamanan sa pamamahagi ng Diyos (1 Tim. 3:9). Sa ganito si Pablo ay nagtakda ng isang sapat na tularan para sa atin."
+        },
+        {
+            "id": "7-2",
+            "text": "Si Pablo ay nagsimulang tumakbo sa larangan ng makalangit na takbo pagkatapos na siya ay maangkin ng Panginoon, at nagpatuloy sa pagtakbo (1 Cor. 9:24-26; Fil. 3:12-14) upang matapos niya ito (Gawa 20:24). Ngayon sa katapusan, matagumpay niyang ipinahayag, “natapos ko na ang aking takbo.” Dahil dito siya ay tatanggap mula sa Panginoon ng isang gantimpala—ang putong ng katuwiran."
+        },
+        {
+            "id": "7-3",
+            "text": "*Tingnan ang tala 25-1 sa Gawa 13."
+        },
+        {
+            "id": "8-1",
+            "text": "Lit. kung ano pa ang nalalabi (para sa natitira)."
+        },
+        {
+            "id": "8-2",
+            "text": "Nalalaan."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang putong ay isang simbolo ng kaluwalhatian na ibinigay bilang isang gantimpala, na karagdagan sa pagliligtas ng Panginoon, sa matagumpay na mananakbo sa takbuhan (1 Cor. 9:25). Ang gantimpalang ito ay hindi ukol sa biyaya ni sa pamamagitan ng pananampalataya bilang kaligtasan (Efe. 2:5, 8-9), kundi ukol sa katuwiran sa pamamagitan ng mga gawa (Mat. 16:27; Apoc. 22:12; 2 Cor. 5:10). Ang gayong gantimpala ay igagawad sa mga mananampalataya, hindi ayon sa biyaya ng Panginoon, kundi ayon sa Kanyang katuwiran. Kaya, ito ay ang putong ng katuwiran. Ang Tagapagbigay ng gantimpalang ito ay ang Panginoon bilang ang matuwid na Hukom. Si Pablo ay nakatitiyak na ang gayong gantimpala ay nakalaan sa kanya at ibibigay sa kanya sa araw ng ikalawang pagpapakita ng Panginoon."
+        },
+        {
+            "id": "8-4",
+            "text": "Hindi ang maawaing Diyos ni ang mapagbiyayang Manunubos."
+        },
+        {
+            "id": "8-5",
+            "text": "Tingnan ang tala 12-6 sa kap. 1."
+        },
+        {
+            "id": "8-6",
+            "text": "Ang pagpapakita ng Panginoon, ang Kanyang pagbabalik, ay isang babala, isang pampalakas-loob, at isang pangganyak sa atin. Dapat natin itong mahalin at hintayin nang may maalab na pag-asam at kagalakan. Sa pamamagitan ng pagpapakita ng Panginoon, inatasan ng apostol si Timoteo na ganapin ang kanyang ministeryo (bb. 1-2, 5)."
+        },
+        {
+            "id": "10-1",
+            "text": "Salungat sa “umiibig sa Kanyang pagpapakita” sa bersikulo 8."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang Yugoslavia sa ngayon."
+        },
+        {
+            "id": "13-1",
+            "text": "Malamang na isang balabal na panlakbay o maletang panlakbay."
+        },
+        {
+            "id": "13-2",
+            "text": "Isang daungan sa hilagang kanluran ng Asia Menor, kung saan tinanggap ni Pablo ang pagtawag sa Macedonia (Gawa 16:8-11)."
+        },
+        {
+            "id": "13-3",
+            "text": "* Gr. biblion . Mga aklat na yari sa papyrus."
+        },
+        {
+            "id": "17-1",
+            "text": "Isang talinghaga para sa anumang masamang bagay (b. 18) o masamang tao (1 Cor. 15:32 at tala 2)."
+        },
+        {
+            "id": "18-1",
+            "text": "Yaon ay, ang kaharian ng kanilang Ama (Mat. 13:43), ang kaharian ng Aking Ama (Mat. 26:29), ang kaharian ni Kristo at ng Diyos (Efe. 5:5), at ang walang hanggang kaharian ng ating Panginoon at Tagapagligtas na si Hesu-Kristo (2 Ped. 1:11), na magiging isang gantimpala sa mga banal na mandaraig. Ito ay katumbas ng putong ng katuwiran sa bersikulo 8, at isang pangganyak sa mga mananampalataya upang tumakbo sa makalangit na takbo (tingnan ang mga tala 3-4 sa Mateo 5, at 28-1 sa Hebreo 12). Ang mga salitang sinabi ng apostol dito at sa bersikulo 8 ay kapwa nagpapatunay na siya ay naganyak din ng gantimpalang ito."
+        },
+        {
+            "id": "20-1",
+            "text": "Isang lunsod sa Asia Menor na malapit sa Efeso (Gawa 20:15, 17)."
+        },
+        {
+            "id": "20-2",
+            "text": "Bakit iniwan ng apostol ang isang matalik na kasama na may karamdaman na hindi gumamit ng nagpapagaling na panalangin para sa kanya? Bakit hindi niya ginamit ang kanyang kaloob ng pagpapagaling (Gawa 19:11-12) upang gamutin si Timoteo sa sakit ng kanyang tiyan sa halip na tagubilinan siyang gamitin ang likas na paraan ng pagpapagaling (1 Tim. 5:23)? Ang kasagutan sa dalawang katanungan ay: ang apostol at ang kanyang mga kamanggagawa ay nasa ilalim ng pagdidisiplina ng panloob na buhay sa panahong ito ng pagdurusa sa halip na nasa ilalim ng kapangyarihan ng panlabas na kaloob. Ang nauna ay ukol sa biyaya sa loob ng buhay; ang huli ay ukol sa kaloob na nasa kapangyarihan, isang mahimalang kapangyarihan. Sa gitna ng pagbaba ng ekklesia at sa panahon ng pagdurusa para sa ekklesia, ang kaloob ng kapangyarihan ay hindi kasing kailangan ng biyaya sa loob ng buhay."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang aklat na ito, na nagbibigay ng mga tagubilin kung paano harapin ang pagbaba ng ekklesia, ay malakas na nagbibigay-diin sa ating espiritu. Sa simula, binibigyang-diin nito na ang malakas, mapagmahal, malinaw, at mahinahong espiritu ay ibinigay na sa atin. Sa pamamagitan ng espiritung ito, mapaniningas natin ang kaloob ng Diyos, at ayon sa kapangyarihan ng Diyos at buhay na naghahatid ng biyaya ng Panginoon ay matitiis natin ang kahirapang kasama ng ebanghelyo (1:6-10). Sa konklusyon, pinagpapala tayo nito sa pagbibigay-diin na ang Panginoon ay nasa ating espiritu upang matamasa natin Siya bilang biyaya nang sa gayon ay makatayo tayo laban sa pababang agos ng paghina ng ekklesia at maisagawa natin ang ekonomiya ng Diyos sa pamamagitan ng Kanyang nananahanang Espiritu (1:14) at nagsasangkap na salita (3:16-17)."
+        },
+        {
+            "id": "22-2",
+            "text": "Sa mahihirap na araw sa lumalalang pagbaba ng ekklesia, ang walang hanggang biyaya ng Diyos ang kinakailangan; ang biyayang ito ay ibinigay sa atin sa kawalang-hanggan (1:9) at inilalaan para sa ating paggamit sa kapanahunang ito. Ang biyayang ito, na nasa loob ng di-nasisirang buhay, ay walang iba kundi si Kristong Anak ng Diyos, na Siya Mismong pagsasakatawan ng dibinong buhay, nananahanan at nabubuhay sa ating espiritu. Kinakailangan nating gamitin ang espiritung ito upang tamasahin ang mga kayamanan ni Kristo (Efe. 3:8) bilang sapat na biyaya (2 Cor. 12:9). Sa gayon, maipamumuhay natin Siya bilang ating pagkamakadiyos (1 Tim. 4:7-8) upang maitayo ang ekklesia bilang patotoo ni Kristo, nagpapasan ng lahat ng dibinong realidad na siyang katotohanan ayon sa ekonomiya ng Diyos."
         }
     ]
 }

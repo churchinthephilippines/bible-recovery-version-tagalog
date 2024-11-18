@@ -1,5 +1,5 @@
 {
-    "chapter": 28,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -27,7 +27,7 @@
             "footnotes": [
                 {
                     "word": "lumindol",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -56,7 +56,7 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -67,7 +67,7 @@
             "footnotes": [
                 {
                     "word": "Galilea;",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -78,7 +78,7 @@
             "footnotes": [
                 {
                     "word": "takot",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -89,11 +89,11 @@
             "footnotes": [
                 {
                     "word": "sinalubong",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "Magalak",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -104,11 +104,11 @@
             "footnotes": [
                 {
                     "word": "kapatid",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "Galilea,",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -131,7 +131,7 @@
             "footnotes": [
                 {
                     "word": "nagsidating",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -142,7 +142,7 @@
             "footnotes": [
                 {
                     "word": "paniniwalain",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -153,7 +153,7 @@
             "footnotes": [
                 {
                     "word": "lumaganap",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -164,7 +164,7 @@
             "footnotes": [
                 {
                     "word": "bundok",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": [
@@ -178,7 +178,7 @@
             "footnotes": [
                 {
                     "word": "nag-",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -189,7 +189,7 @@
             "footnotes": [
                 {
                     "word": "awtoridad",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -200,27 +200,27 @@
             "footnotes": [
                 {
                     "word": "Kaya’",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "gawing",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "bautismuhan",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "19-4"
                 },
                 {
                     "word": "pangalan",
-                    "note": ""
+                    "id": "19-5"
                 },
                 {
                     "word": "Ama",
-                    "note": ""
+                    "id": "19-6"
                 }
             ],
             "outlines": null
@@ -231,18 +231,124 @@
             "footnotes": [
                 {
                     "word": "Turuan",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "sasainyo",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "kaganapan",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa Griyego ay katulad ng salitang “nalalapit na” na nasa Luc. 23:54."
+        },
+        {
+            "id": "1-2b",
+            "text": "Si Kristo ay nabuhay na muli sa “unang araw ng sanlinggo.” Ito ay sumasagisag na ang Kanyang pagkabuhay na muli ay nagdala ng isang bagong pasimula na may isang bagong kapanahunan para sa kaharian ng mga kalangitan. Tingnan ang tala 1-1 sa Juan 20."
+        },
+        {
+            "id": "2-1",
+            "text": "Ito ay nangangahulugan na ang lupa, ang batayan ng paghihimagsik ni Satanas, ay nauga ng pagkabuhay na muli ng Panginoon."
+        },
+        {
+            "id": "6-1",
+            "text": "Ito ay mabuting balita, masayang balita!"
+        },
+        {
+            "id": "7-1a",
+            "text": "Inumpisahan ng makalangit na Hari ang Kanyang ministeryo mula sa Galilea ng mga Hentil (4:12-17), hindi mula sa Herusalem, ang banal na lungsod ng maka-Hudyong relihiyon; gayundin pagkatapos ng Kanyang pagkabuhay na muli, Siya ay pupunta pa rin sa Galilea, hindi sa Herusalem. Matibay na ipinakikita nito na iniwan na nang lubusan ng nabuhay na muling makalangit na Hari ang Hudaismo at nagsimula ng isang bagong kapanahunan para sa Bagong Tipang ekonomiya ng Diyos."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang “may takot” ay dahil sa malakas na lindol (b. 2) at ang “malaking galak” ay dahil sa pagkabuhay na muli ng Panginoon."
+        },
+        {
+            "id": "9-1",
+            "text": "Ito ay nangyari pagkaraan ng pagpapakita ng Panginoon kay Maria Magdalena (Juan 20:14-18)."
+        },
+        {
+            "id": "9-2",
+            "text": "Pinapalooban ng pangungumusta."
+        },
+        {
+            "id": "10-1a",
+            "text": "Tingnan ang tala 17-2 sa Juan 20."
+        },
+        {
+            "id": "10-2b",
+            "text": "Tingnan ang tala 7-1 . Gayundin sa b. 16."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang salitang ito mula sa bibig ng mga relihiyosong pinuno ay isang lantad na kasinungalingan, ipinakikita ang pinakamababang pamantayan at ang kabulaanan ng kanilang relihiyon."
+        },
+        {
+            "id": "14-1",
+            "text": "Laging “pinapaniwala” ng masasamang relihiyonista ang masasamang pulitiko upang isagawa ang kabulaanan."
+        },
+        {
+            "id": "15-1",
+            "text": "Nang ang kasinungalingan tungkol sa pagkabuhay na muli ng Panginoon ay “lumaganap,” ang mga usap-usapan na may kasinungalingan tungkol sa Kanyang mga tagasunod at sa Kanyang ekklesia pagkaraan ng Kanyang pagkabuhay na muli ay lumaganap din (Gawa 24:5-9; 25:7)."
+        },
+        {
+            "id": "16-1",
+            "text": "Tingnan ang tala 7-1 ."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang saligang-batas ng kaharian ay isinagawa sa isang bundok (tingnan ang tala 1-1 sa kapitulo 5), ang pagbabagong-anyo ng makalangit na Hari ay nangyari sa isang mataas na bundok (tingnan ang tala 1-2 sa kapitulo 17), at ang propesiya tungkol sa kapanahunang ito ay ibinigay rin sa isang bundok (tingnan ang tala 3-1 sa kapitulo 24). Ngayon, para sa Bagong Tipang ekonomiya ng Diyos, kinakailangang bumalik muli ang mga disipulo sa “bundok.” Tangi lamang sa ibabaw ng isang mataas na bundok natin matatanto ang Bagong Tipang ekonomiya."
+        },
+        {
+            "id": "17-1",
+            "text": "O, nag-alanganin, nag-urongsulong."
+        },
+        {
+            "id": "18-1",
+            "text": "Sa Kanyang pagka-Diyos, bilang ang bugtong na Anak ng Diyos, ang Panginoon ay may awtoridad sa lahat. Gayon pa man, sa Kanyang pagkatao, bilang ang Anak ng Tao, upang maging ang Hari ng makalangit na kaharian, ang “awtoridad sa langit at sa ibabaw ng lupa” ay ibinigay sa Kanya pagkaraan ng Kanyang pagkabuhay na muli."
+        },
+        {
+            "id": "19-1",
+            "text": "Sapagkat ang lahat ng awtoridad ay naibigay na sa Kanya (b. 18), isinugo ng makalangit na Hari ang Kanyang mga disipulo upang magsihayo at “gawing mga dispulo ang lahat ng bansa.” Sila ay nagsiparoon taglay ang Kanyang awtoridad."
+        },
+        {
+            "id": "19-2",
+            "text": "Ito ay upang gawing mga tao ng kaharian ang mga Hentil para sa pagtatatag ng Kanyang kaharian, na siyang ekklesia, maging sa ngayon, sa lupang ito."
+        },
+        {
+            "id": "19-3",
+            "text": "Ang bautismo ay ang dalhin ang mga nagsisising tao palabas sa kanilang lumang kalagayan tungo sa isang bagong kalagayan; ito ay sa pamamagitan ng pagtatapos ng kanilang lumang buhay at ng pagpapasibol sa kanila sa bagong buhay ni Kristo upang sila ay maging mga tao ng kaharian. Ang nagrerekomendang ministeryo ni Juan Bautista ay nagsimula sa unang pagbabautismo sa tubig lamang. Ngayon, pagkatapos maisagawa ng makalangit na Hari ang Kanyang ministeryo sa lupa, at dumaan sa hakbangin ng kamatayan at pagkabuhay na muli, at naging ang Espiritung nagbibigay-buhay, inatasan Niya ang mga disipulo na bautismuhan ang mga taong naging disipulo tungo sa Tres-unong Diyos. Ang bautismong ito ay may dalawang aspekto: ang nakikitang aspekto sa pamamagitan ng tubig at ang di-nakikitang aspekto sa pamamagitan ng Espiritu Santo (Gawa 2:38, 41; 10:44-48). Ang nakikitang aspekto ay ang kahayagan, ang patotoo, ng di-nakikitang aspekto; samantalang ang di-nakikitang aspekto ay ang realidad ng nakikitang aspekto. Kung wala ang di-nakikitang aspekto ng bautismo sa pamamagitan ng Espiritu, ang nakikitang aspekto ng bautismo sa pamamagitan ng tubig ay walang kabuluhan; at kung wala ang nakikitang aspekto ng bautismo sa pamamagitan ng tubig, ang di-nakikitang aspekto ng bautismo sa pamamagitan ng Espiritu ay mahirap unawain at hindi praktikal. Ang dalawang aspekto ay kapwa kinakailangan. Hindi nagtagal pagkatapos maatasan ng Panginoon ang mga disipulo tungkol sa bautismong ito, Kanyang binautismuhan sila at ang buong ekklesia sa Espiritu Santo (1 Cor. 12:13) sa araw ng Pentecostes (Gawa 1:5; 2:4) at sa bahay ni Cornelio (Gawa 11:15-17). Pagkaraan, batay rito, binautismuhan ng mga disipulo ang mga bagong nagsisising tao (Gawa 2:38), hindi lamang nang nakikita tungo sa tubig, bagkus nang di-nakikita rin tungo sa kamatayan ni Kristo (Roma 6:3-4), tungo sa loob ni Kristo Mismo (Gal. 3:27), tungo sa loob ng Tres-unong Diyos (b. 19), at tungo sa loob ng Katawan ni Kristo (1 Cor. 12:13). Ang tubig, na sumasagisag sa kamatayan ni Kristo kasama ng Kanyang paglilibing, ay itinuturing na libingan upang tapusin ang lumang kasaysayan ng isang nabautismuhan. Yamang ang kamatayan ni Kristo ay nakapaloob kay Kristo, at yamang si Kristo ay ang pagsasakatawan ng Tres-unong Diyos, at ang Tres-unong Diyos sa katapusan ay naging kaisa ng Katawan ni Kristo; sa gayon, ang bautismuhan ang mga bagong mananampalataya tungo sa loob ng kamatayan ni Kristo, tungo sa loob ni Kristo Mismo, tungo sa loob ng Tres-unong Diyos, at tungo sa loob ng Katawan ni Kristo, ay ang gumawa lamang ng isang bagay: sa isang negatibong panig ay upang tapusin ang kanilang lumang buhay, at sa positibong panig ay upang pasibulin ang bagong buhay sa kanila, ang buhay na walang-hanggang ng Tres-unong Diyos, para sa Katawan ni Kristo. Dahil dito, ang bautismong itinalaga ng Panginoon dito ay ang bautismuhan ang mga tao palabas sa kanilang sariling buhay at patungo sa loob ng buhay ng Katawan ni Kristo para sa kaharian ng mga kalangitan."
+        },
+        {
+            "id": "19-4",
+            "text": "Ang “tungo sa loob ng” ay nagpapakita ng pakikipag-isa, katulad ng nasa Roma 6:3, at Gal. 3:27. Parehong Griyegong salita ang masusumpungan sa Gawa 8:16; 19:5 at 1 Cor. 1:13, 15. Ang bautismuhan ang mga tao “tungo sa loob ng pangalan” ng Tres-unong Diyos ay ang dalhin sila sa espiritwal at mahiwagang pakikipag-isa sa Tres-unong Diyos."
+        },
+        {
+            "id": "19-5",
+            "text": "May isang “pangalan” lamang para sa Dibinong Trinidad. Ang pangalan ay ang kabuuan ng Diyos, katumbas ng Kanyang Dibinong Persona. Ang bautismuhan ang sinuman sa pangalan ng Tres-unong Diyos ay ang ilubog siya tungo sa lahat ng kung ano ang Tres-unong Diyos."
+        },
+        {
+            "id": "19-6",
+            "text": "Ang Mateo at Juan ay ang dalawang aklat kung saan ang Dibinong Trinidad ay higit na nahayag nang lubusan, (para sa pakikilahok at pagtatamasa ng mga piniling tao ng Diyos,) kaysa sa lahat ng iba pang aklat ng Kasulatan. Ipinahahayag ng Juan ang hiwaga ng Pagka-Diyos na nasa Ama, Anak, at Espiritu, lalung-lalo na sa mga kapitulo 14 hanggang 16, para sa pagdaranas natin ng buhay; samantalang binubuksan naman ng Mateo ang realidad ng Trinidad na may iisang pangalan para sa Tatlo, para sa pagbubuo ng kaharian. Sa kapitulo isa ng Mateo, ang Espiritu Santo (1:18), si Kristo (ang Anak-1:18), at ang Diyos (Ang Ama-1:23) ay nasa tagpo para sa pagbubunga ng taong si Hesus (1:21), na bilang si Jehovah ang Tagapagligtas at ang Diyos na sumasaatin, ay ang mismong pagsasakatawan ng Tres-unong Diyos. Sa kapitulo 3, ipinakikita ni Mateo ang isang larawan ng Anak na nakatayo sa tubig ng pagbabautismo sa ilalim ng bukas na langit, ng Espiritu na tulad sa isang kalapating bumababa sa Anak, at ng Ama sa langit na nagsasalita sa Anak (3:16-17). Sa kapitulo 12, ang Anak, sa katauhan ng tao, ay nagpapalayas ng mga demonyo sa pamamagitan ng Espiritu upang ipasok ang kaharian ng Diyos Ama (12:28). Sa kapitulo 16, ang Anak ay inihayag ng Ama sa mga disipulo para sa pagtatayo ng ekklesia, na siyang pintig ng buhay ng kaharian (16:16-19). Sa kapitulo 17, ang Anak ay pumasok sa pagbabagong-anyo (17:2) at pinatotohanan ng salita ng kaluguran ng Ama (17:5) para sa pagtatanghal ng isang maliit na modelo ng pagpapakita ng kaharian (16:28). Sa katapusan, sa patapos na kapitulo, si Kristo, ang huling Adam, matapos dumaan sa hakbangin ng pagkapako sa krus at pumasok sa kinasasaklawan ng pagkabuhay na muli ay naging Espiritung nagbibigay-buhay; pagkaraan nito, Siya ay bumalik sa Kanyang mga disipulo, sa atmospero at realidad ng Kanyang pagkabuhay na muli, upang atasan silang gawing mga tao ng kaharian ang mga hentil sa pamamagitan ng pagbabautismo sa kanila tungo sa loob ng pangalan ng Dibinong Trinidad. Pagkaraan, sa Gawa at sa mga Sulat, ito ay inihayag na ang bautismuhan ang mga tao tungo sa loob ng pangalan ng Ama, Anak, at Espiritu, ay ang bautismuhan sila tungo sa loob ng pangalan ni Kristo (Gawa 8:16; 19:5), at ang bautismuhan sila tungo sa loob ng pangalan ni Kristo ay ang bautismuhan sila tungo sa loob ni Kristo ang Persona (Gal. 3:27; Roma 6:3), sapagkat si Kristo ay ang pagsasakatawan ng Tres-unong Diyos, at Siya, bilang ang Espiritung nagbibigay-buhay, ay laan sa paggamit sa anumang oras at sa anumang lugar upang mabautismuhan ang mga tao tungo sa loob Niya. Ayon sa Mateo, ang isang gayong bautismo tungo sa loob ng realidad ng Ama, Anak, at Espiritu ay para sa pagbubuo ng kaharian ng mga kalangitan. Ang makalangit na kaharian ay hindi maoorganisa ng mga tao ng laman at dugo (1 Cor. 15:50) katulad ng isang makalupang samahan. Ito ay mabubuo lamang ng mga taong inilubog tungo sa loob ng pakikipag-isa sa Tres-unong Diyos, at ng mga naitatag at naitayo ng Tres-unong Diyos na Siyang naisagawa tungo sa loob nila."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang turuan ang mga disipulong ganapin ang ipinag-utos ng Panginoon ay para rin sa layuning gawing mga disipulo ang mga bansa katulad ng binanggit sa naunang bersikulo na bautismuhan ang mga tao tungo sa loob ng pangalan ng Ama, ng Anak, at ng Espiritu Santo (b. 19)."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang makalangit na Hari ay si Emmanuel, ang Diyos na sumasaatin (1:23). Dito, Kanyang ipinangako na Siya ay sumasaatin sa Kanyang pagkabuhay na muli taglay ang lahat ng awtoridad sa lahat ng araw hanggang sa kaganapan ng kapanahunan, yaon ay, hanggang sa katapusan ng kapanahunang ito. Dahil dito, saan man tayo pinagtitipon tungo sa loob ng Kanyang pangalan, Siya ay nasa ating kalagitnaan (18:20). Sa apat na Ebanghelyo, ang pag-akyat ng Panginoon ay nakatala lamang sa Marcos (Marc. 16:19) at Lucas (Luc. 24:51). Ang Juan ay nagpatotoo na ang Panginoon, bilang Anak ng Diyos, maging ang Diyos Mismo, ay buhay sa Kanyang mga mananampalataya. Bilang gayon, kailanman ay hindi Niya maaaring gawin at hindi Niya gagawing iwanan sila. Ang Mateo ay nagpapatunay na Siya, bilang Emmanuel, ay ang makalangit na Hari na sumasa Kanyang mga tao nang patuloy hanggang sa Siya ay bumalik. Sa gayon, kapwa sa Juan at Mateo, ang pag-akyat sa kalangitan ng Panginoon ay hindi binanggit."
+        },
+        {
+            "id": "20-3d",
+            "text": "Ang katapusan ng kapanahunang ito, na siyang magiging panahon ng Kanyang parousia (pagdating)."
         }
     ]
 }

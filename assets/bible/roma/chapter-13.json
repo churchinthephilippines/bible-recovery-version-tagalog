@@ -1,5 +1,5 @@
 {
-    "chapter": 13,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "pasakop",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "itinalaga",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -28,7 +28,7 @@
             "footnotes": [
                 {
                     "word": "kahatulan",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -45,11 +45,11 @@
             "footnotes": [
                 {
                     "word": "tagapaglingkod",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "tagapaglingkod",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -66,7 +66,7 @@
             "footnotes": [
                 {
                     "word": "tagapangasiwa",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -83,7 +83,7 @@
             "footnotes": [
                 {
                     "word": "umiibig",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": [
@@ -108,7 +108,7 @@
             "footnotes": [
                 {
                     "word": "kaligtasan",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -121,7 +121,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -138,14 +138,60 @@
             "footnotes": [
                 {
                     "word": "ibihis",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "paglaanan",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Pinamamahalaan din ng transpormasyong binanggit sa 12:2 ang Kristiyanong pamumuhay na itinuro sa kapitulong ito. Ang likas na pag-uugali ng tao ay mapanghimagsik, subali’t ang isang natranspormang pag-uugali ay mapagpasakop. Upang maging mapagpasakop sa awtoridad, ang transpormasyong nanggagaling sa paglago sa buhay ay kinakailangan."
+        },
+        {
+            "id": "1-2",
+            "text": "Lit. sa pamamagitan ng Diyos. Pagkatapos ng pagkatisod, ang tao ay binigyan ng Diyos ng awtoridad na maging Kanyang kinatawan upang pamahalaan ang tao (Gen. 9:6). Ang maging mapagpasakop sa awtoridad na ito ay ang kilalanin ang awtoridad ng Diyos at ang igalang ang Kanyang pamamahala sa tao. Ang mga salita ni Pablo ay nagpapahiwatig na kinilala niya maging ang pinunong itinalaga ni Ceasar bilang isang itinalaga ng Diyos upang maging Kanyang kinatawan."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang Diyos ay nagtalaga ng awtoridad upang pamunuan ang tao, upang mapanatili ang kapayapaan at kaayusan sa gitna ng mga tao, sa gayon ay magkaroon Siya ng panahon at pagkakataong maipangaral ang ebanghelyo, upang mailigtas ang mga makasalanan, upang maitayo ang ekklesia, at upang mapalawak ang Kanyang kaharian."
+        },
+        {
+            "id": "2-1",
+            "text": "O, kondenasyon."
+        },
+        {
+            "id": "4-1",
+            "text": "Sa Griyego, ang gayunding salita ay isinaling “diyakonesa” sa 16:1 at diyakono sa I Tim. 3:8."
+        },
+        {
+            "id": "6-1",
+            "text": "Lit. tagapaglingkod sa publiko. *Gr. leitourgos ; mananamba (ng Diyos) o nagbibigay-kapakinabangan (sa tao). Sa 15:16 at sa Heb. 8:2 ay isinaling “ministro”, sa Fil. 2:25 at sa Heb. 1:7 ay “tagapaglingkod”.*"
+        },
+        {
+            "id": "8-1",
+            "text": "Ang pag-ibig ay hindi lamang isang panlabas na pagkilos, bagkus isa ring kahayagan ng panloob na buhay. Kinakailangan ang transpormasyon ng buhay at ang panustos ng buhay upang maibig ang tao at kusang matupad ang kautusan. Kailangan natin ang buhay ng Diyos at ang kalikasan ng Kanyang pag-ibig upang transpormahin tayo at tustusan tayo sa loob ng buhay, sa gayon ay ating maibubuhay sa loob ng pag-ibig ang Diyos na Siyang pag-ibig at maihahayag ang Kanyang pag-ibig."
+        },
+        {
+            "id": "11-1",
+            "text": "Tumutukoy sa huling hakbang ng kaligtasan, yaon ay, ang katubusan ng ating katawan; ito rin ang pagka-anak na inihayag nang ganap sa 8:19, 21, 23."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang kasalukuyang kapanahunan ay “ang gabi.” Sa pagbabalik ng Panginoong Hesus, ang araw ay magbubukang-liwayway. Ang panghinaharap na kapanahunan ay ang kapanahunan ng kaharian, ito ay “ang araw.”"
+        },
+        {
+            "id": "14-1",
+            "text": "Bagama’t tayo ay nabautismuhan na sa loob ni Kristo at nasa loob na ni Kristo (6:4; Gal. 3:27), kailangan pa rin nating ibihis si Kristo sa ating pang-araw-araw na pamumuhay, yaon ay, ang mabuhay sa pamamagitan ni Kristo (Gal. 2:20), at ipamuhay si Kristo (Fil. 1:21), at dakilain si Kristo (Fil. 1:20). Ang pagbibihis ng Kristo ay katulad ng pagsasakbat ng mga sandata ng kaliwanagan (b. 12), tumutukoy na si Kristo ang sandata ng kaliwanagan para sa pakikipagbaka ng Espiritu laban sa mga kahalayan. Ang pakikipagbakang ito ay katulad ng pakikipaglaban ng Espiritu sa mga kahalayan ng laman (Gal. 5:17), subali’t ito ay naiiba sa ating pakikipagbaka laban kay Satanas at sa sistema nito (Efe. 6:12), at ito rin ay naiiba sa digmaan sa pagitan ng kautusan ng kasalanan at ng kautusan ng mabuti (7:23) sa loob natin."
+        },
+        {
+            "id": "14-2",
+            "text": "O, paghandaan. Ito ay may parehong salitang-ugat ng “isipin” sa 12:17. Ang paglaanan ay nagpapahiwatig ng pagtutustos. Ang hindi paglaanan ang laman ay ang huwag tustusan, o maghanda, ng anumang bagay para sa laman, sa gayon ay hindi nagbibigay ng suporta at kagaanan sa laman upang masunod ang mga pita nito."
         }
     ]
 }

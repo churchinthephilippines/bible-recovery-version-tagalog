@@ -1,5 +1,5 @@
 {
-    "chapter": 15,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "ebanghelyo",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "kinatatayuan,",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -26,7 +26,7 @@
             "footnotes": [
                 {
                     "word": "naliligtas",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -37,11 +37,11 @@
             "footnotes": [
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "Kasulatan;",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -58,7 +58,7 @@
             "footnotes": [
                 {
                     "word": "nakita",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": [
@@ -95,11 +95,11 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -116,7 +116,7 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -136,11 +136,11 @@
             "footnotes": [
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "kabuluhan",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -151,7 +151,7 @@
             "footnotes": [
                 {
                     "word": "ibinangon",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -168,11 +168,11 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "pa",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -183,11 +183,11 @@
             "footnotes": [
                 {
                     "word": "nangatulog",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "nangapahamak.",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -198,7 +198,7 @@
             "footnotes": [
                 {
                     "word": "lamang",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -209,11 +209,11 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": [
@@ -226,11 +226,11 @@
             "footnotes": [
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -241,11 +241,11 @@
             "footnotes": [
                 {
                     "word": "nangamamatay,",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "bubuhayin.",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -256,11 +256,11 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -271,19 +271,19 @@
             "footnotes": [
                 {
                     "word": "wakas,",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "kapag",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "ibibigay",
-                    "note": ""
+                    "id": "24-3"
                 },
                 {
                     "word": "kapag",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -294,7 +294,7 @@
             "footnotes": [
                 {
                     "word": "maghari",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -305,7 +305,7 @@
             "footnotes": [
                 {
                     "word": "lilipulin",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -316,27 +316,27 @@
             "footnotes": [
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "sinasabi",
-                    "note": ""
+                    "id": "27-3"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "Kanya.",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -347,19 +347,19 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "28-2"
                 },
                 {
                     "word": "Kanya",
-                    "note": ""
+                    "id": "28-3"
                 },
                 {
                     "word": "Kanya,",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -370,11 +370,11 @@
             "footnotes": [
                 {
                     "word": "Kung",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "binabautismuhan",
-                    "note": ""
+                    "id": "29-2"
                 }
             ],
             "outlines": [
@@ -393,11 +393,11 @@
             "footnotes": [
                 {
                     "word": "kay",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "pagmamapuri",
-                    "note": ""
+                    "id": "31-2"
                 }
             ],
             "outlines": null
@@ -408,15 +408,15 @@
             "footnotes": [
                 {
                     "word": "ganid",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "kaugalian",
-                    "note": ""
+                    "id": "32-2"
                 },
                 {
                     "word": "magsikain",
-                    "note": ""
+                    "id": "32-3"
                 }
             ],
             "outlines": null
@@ -427,11 +427,11 @@
             "footnotes": [
                 {
                     "word": "masasamang",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "33-2"
                 }
             ],
             "outlines": null
@@ -442,11 +442,11 @@
             "footnotes": [
                 {
                     "word": "Maging",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
@@ -466,7 +466,7 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -483,11 +483,11 @@
             "footnotes": [
                 {
                     "word": "katawan",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "katawan.",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -498,7 +498,7 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -533,11 +533,11 @@
             "footnotes": [
                 {
                     "word": "pangkaluluwang",
-                    "note": ""
+                    "id": "44-1"
                 },
                 {
                     "word": "espirituwal",
-                    "note": ""
+                    "id": "44-1"
                 }
             ],
             "outlines": null
@@ -548,11 +548,11 @@
             "footnotes": [
                 {
                     "word": "kaluluwang",
-                    "note": ""
+                    "id": "45-1"
                 },
                 {
                     "word": "Espiritung",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": [
@@ -565,11 +565,11 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "46-1"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "46-2"
                 }
             ],
             "outlines": null
@@ -580,15 +580,15 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "47-1"
                 },
                 {
                     "word": "ikalawang",
-                    "note": ""
+                    "id": "47-2"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "47-3"
                 }
             ],
             "outlines": null
@@ -599,19 +599,19 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "48-1"
                 },
                 {
                     "word": "silang",
-                    "note": ""
+                    "id": "48-2"
                 },
                 {
                     "word": "makalangit,",
-                    "note": ""
+                    "id": "48-3"
                 },
                 {
                     "word": "silang",
-                    "note": ""
+                    "id": "48-4"
                 }
             ],
             "outlines": null
@@ -622,19 +622,19 @@
             "footnotes": [
                 {
                     "word": "tinaglay",
-                    "note": ""
+                    "id": "49-1"
                 },
                 {
                     "word": "larawan",
-                    "note": ""
+                    "id": "49-2"
                 },
                 {
                     "word": "tataglayin",
-                    "note": ""
+                    "id": "49-1"
                 },
                 {
                     "word": "larawan",
-                    "note": ""
+                    "id": "49-2"
                 }
             ],
             "outlines": null
@@ -645,7 +645,7 @@
             "footnotes": [
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "50-1"
                 }
             ],
             "outlines": [
@@ -659,15 +659,15 @@
             "footnotes": [
                 {
                     "word": "hiwaga:",
-                    "note": ""
+                    "id": "51-1"
                 },
                 {
                     "word": "mangatutulog,",
-                    "note": ""
+                    "id": "51-2"
                 },
                 {
                     "word": "babaguhin,",
-                    "note": ""
+                    "id": "51-3"
                 }
             ],
             "outlines": null
@@ -678,15 +678,15 @@
             "footnotes": [
                 {
                     "word": "huling",
-                    "note": ""
+                    "id": "52-1"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "52-2"
                 },
                 {
                     "word": "tayo",
-                    "note": ""
+                    "id": "52-3"
                 }
             ],
             "outlines": null
@@ -697,11 +697,11 @@
             "footnotes": [
                 {
                     "word": "itong",
-                    "note": ""
+                    "id": "53-1"
                 },
                 {
                     "word": "itong",
-                    "note": ""
+                    "id": "53-1"
                 }
             ],
             "outlines": null
@@ -712,15 +712,15 @@
             "footnotes": [
                 {
                     "word": "kapag",
-                    "note": ""
+                    "id": "54-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "54-2"
                 },
                 {
                     "word": "tagumpay.",
-                    "note": ""
+                    "id": "54-3"
                 }
             ],
             "outlines": [
@@ -734,7 +734,7 @@
             "footnotes": [
                 {
                     "word": "Saan",
-                    "note": ""
+                    "id": "55-1"
                 }
             ],
             "outlines": null
@@ -745,11 +745,11 @@
             "footnotes": [
                 {
                     "word": "tibo",
-                    "note": ""
+                    "id": "56-1"
                 },
                 {
                     "word": "kapangyarihan",
-                    "note": ""
+                    "id": "56-2"
                 }
             ],
             "outlines": null
@@ -760,7 +760,7 @@
             "footnotes": [
                 {
                     "word": "pagtatagumpay",
-                    "note": ""
+                    "id": "57-1"
                 }
             ],
             "outlines": null
@@ -771,20 +771,342 @@
             "footnotes": [
                 {
                     "word": "matatag,",
-                    "note": ""
+                    "id": "58-1"
                 },
                 {
                     "word": "sumasagana",
-                    "note": ""
+                    "id": "58-2"
                 },
                 {
                     "word": "pagpapagal",
-                    "note": ""
+                    "id": "58-3"
                 }
             ],
             "outlines": [
                 "3. Isang Motibo para sa Gawain ng Panginoon\n b. 58"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang ganap na ebanghelyo, kasama ang mga pagtuturo tungkol kay Kristo at sa ekklesia, gaya ng ganap na inihayag sa aklat ng Roma (Roma 1:1; 16:25)."
+        },
+        {
+            "id": "1-2",
+            "text": "Dapat tayong tumayo sa ganap na ebanghelyo, yaon ay, sa buong Bagong Tipan, hindi lamang sa ilang pagtuturo o doktrina."
+        },
+        {
+            "id": "2-1",
+            "text": "Lit. nasa daan ng kaligtasan (Conybeare). Pagkatapos maaring-matuwid kay Kristo at pagkatapos maisilang-na-muli ng Espiritu, tayo ay nasa hakbangin ng pagkakaligtas sa loob ng buhay ni Kristo (Roma 5:10) hanggang sa tayo ay gumulang at mapawangis sa Kanya nang lubusan (Roma 8:29)."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang pagkamatay ni Kristo para sa ating mga kasalanan, ang Kanyang pagkalibing para sa ating pagwawakas, at ang Kanyang pagkabuhay na muli para sa ating pagsibol sa pamamagitan ng buhay, na pawang ayon sa propesiya sa Lumang Tipan (Isa. 53:5-8, 10-12; Awit 22:14-18; Dan. 9:26; Isa. 53:9; Awit 16:9-10; Ose. 6:2), ay ang mga pinagbabatayang aytem ng mga pangunahing bagay ng ebanghelyo. Ang huling bagay ay ang pinakamahalaga sa ebanghelyo, sapagka’t ang aytem na ito ay ang positibong panig ng ebanghelyo na namamahagi ng buhay sa atin upang maipamuhay natin si Kristo."
+        },
+        {
+            "id": "3-2",
+            "text": "Yaon ay, ang Lumang Tipan, ang kautusan at ang mga propeta rin."
+        },
+        {
+            "id": "5-1",
+            "text": "O, nagpakita kay Cefas. Ang mga naunang apostol at mga disipulo ay mga saksi ng pagkabuhay na muli ni Kristo (Gawa 1:22), at ang kanilang pangangaral ay nagbibigay diin sa kanilang patotoo tungkol sa pagkabuhay na muli ni Kristo (Gawa 2:32; 4:33). Ang pagkabuhay na muli ni Kristo ay hindi lamang nila ipinapatotoo sa pamamagitan ng kanilang pagtuturo bagkus gayundin sa pamamagitan ng kanilang pamumuhay. Namuhay silang kasama Niya sa pamamagitan ng Kanyang pamumuhay sa loob ng pagkabuhay na muli (Juan 14:19)."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang biyaya, na binanggit nang tatlong ulit sa bersikulong ito, ay ang binuhay na muling Kristo na naging ang Espiritung nagbibigay-buhay (b. 45) upang dalhin ang Diyos na dumaan sa iba’t ibang hakbangin sa pagkabuhay na muli paloob sa atin upang maging ating buhay at panustos ng buhay nang tayo ay makapamuhay sa loob ng pagkabuhay na muli. Sa gayon, ang biyaya ay ang Tres-unong Diyos na nagiging buhay at lahat-lahat sa atin. (Tingnan ang mga tala 17-1 sa Juan 1 at 21-1 sa Galacia 2.) Sa pamamagitan ng biyayang ito, si Saulo ng Tarso, ang pangunahin sa mga makasalanan (I Tim. 1:15-16), ay naging ang nangungunang apostol na nagpagal nang higit kaysa sa lahat ng mga apostol. Ang kanyang ministeryo at pamumuhay sa pamamagitan ng biyayang ito ay ang mga hindi maikakailang patotoo ng pagkabuhay na muli ni Kristo."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang “hindi ako, kundi ang biyaya ng Diyos” ay katumbas ng “hindi na ako… kundi si Kristo” sa Gal. 2:20. Ang biyaya na humihikayat sa apostol at gumagawa sa loob niya ay hindi anumang bagay, kundi isang buháy na Persona, ang binuhay na muling Kristo, ang pagsasakatawan ng Diyos Ama na naging ang nagpapaloob ng lahat na Espiritung nagbibigay-buhay, na nananahan sa loob ng apostol bilang kanyang lahat-lahat."
+        },
+        {
+            "id": "12-1",
+            "text": "Sa kapitulong ito tinutuos ng apostol ang taliwas-sa-wastong pananampalataya na sinasabi ng mga taga-Corinto na walang pagkabuhay na muli ng mga patay. Sila ay tulad sa mga Saduceo (Mat. 22:23; Gawa 23:8). Ito ang ikasampung suliranin sa gitna nila. Ito ang pinakanakapipinsala at nakawawasak sa Bagong Tipang ekonomiya ng Diyos, higit na malubha kaysa sa maling pananampalataya nina Himeneo at Fileto tungkol sa pagkabuhay na muli sa II Tim. 2:17-18. Ang pagkabuhay na muli ay ang pintig ng buhay at daan ng buhay ng dibinong ekonomiya. Kung walang pagkabuhay na muli ang Diyos ay magiging ang Diyos ng mga patay, hindi ng mga buhay (Mat. 22:32). Kung walang pagkabuhay na muli, si Kristo ay hindi sana ibinangon mula sa mga patay. Siya ay magiging isang patay na Tagapagligtas at hindi Isang buháy na Tagapagligtas. Ngunit Siya ang yaong nabubuhay na Isa at nabubuhay magpakailanman (Apoc. 1:18) at may kakayahang magligtas sa atin hanggang sa sukdulan (Heb. 7:25). Kung walang pagkabuhay na muli, mawawalan ng buháy na katunayan ng pag-aaring-matuwid sa pamamagitan ng Kanyang kamatayan (Roma 4:25 at tala), walang pamamahagi ng buhay (Juan 12:24), walang pagsilang-na-muli (Juan 3:5), walang pagpapabago (Tito 3:5), walang transpormasyon (Roma 12:2; II Cor. 3:18), at walang pagwawangis sa larawan ni Kristo (Roma 8:29). Kung walang pagkabuhay na muli, walang mga sangkap ng Katawan ni Kristo (Roma 12:5), walang Katawan ni Kristo bilang Kanyang kapuspusan (Efe. 1:20-23), at walang ekklesia bilang ang kasintahang babae ni Kristo (Juan 3:29) at wala ring bagong tao (Efe. 2:15; 4:24; Col. 3:10-11). Kung walang pagkabuhay na muli, ang Bagong Tipang ekonomiya ng Diyos ay ganap na guguho at ang walang hanggang layunin ng Diyos ay mawawalan ng saysay."
+        },
+        {
+            "id": "14-1",
+            "text": "Yaon ay, hungkag, walang laman.Kung wala ang buháy na Kristo sa loob ng pagkabuhay na muli, kapwa ang pagpapahayag ng ebanghelyo at ang ating pananampalataya sa ebanghelyo ay magiging walang laman, hungkag, at walang realidad."
+        },
+        {
+            "id": "15-1",
+            "text": "*Gr. egïro. Lit. Binuhay na muli. Gayundin sa dalawa pang kasunod na bersikulo."
+        },
+        {
+            "id": "17-1",
+            "text": "Yaon ay, walang bunga, walang halaga. Kung hindi binuhay na muli si Kristo upang mabuhay sa loob natin bilang ating buhay at lahat-lahat, ang ating pananampalataya sa Kanya ay mawawalan ng bunga, mawawalan ng halaga, at wala ring anumang kalalabasan gaya ng pamamahagi ng buhay, kalayaan mula sa kasalanan, pananagumpay kay Satanas, at paglago sa buhay."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang kamatayan ni Kristo ay nagliligtas sa atin sa kondenasyon ng ating mga kasalanan, hindi sa kapangyarihan ng kasalanan. Ang Kanyang buhay sa pagkabuhay na muli ang siyang nagliligtas sa atin sa kapangyarihan ng kasalanan (Roma 8:2). Kung si Kristo ay hindi binuhay na muli, tayo ay mananatili pa rin sa mga kasalanan at sa ilalim ng kapangyarihan ng kasalanan."
+        },
+        {
+            "id": "18-1",
+            "text": "Yaon ay, nangamatay na tao (I Tes. 4:13-16)."
+        },
+        {
+            "id": "18-2",
+            "text": "Yaon ay, ang hindi na mabuhay na muli kundi manatili sa kamatayan magpakailanman."
+        },
+        {
+            "id": "19-1",
+            "text": "Kung walang pagkabuhay na muli, mawawalan tayo ng kinabukasan at walang pag-asa sa kinabukasan na gaya ng mga ito: si Kristo bilang ating pag-asa ng kaluwalhatian (Col. 1:27), ang bahagi (kapalaran) ng ating walang hanggang pagpapala (Dan. 12:13), ang paghaharing kasama ni Kristo sa loob ng isang libong taon (Apoc. 20:4, 6), at ang gantimpala ng pagkabuhay na muli ng mga matuwid (Luc. 14:14). Ang lahat ng pag-asang ito ay pawang nakaugnay sa ating pagkabuhay na muli."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang mga bersikulo 20-28 ay isang pagpapaliwanag na salita, pinatutunayan ang katotohanan ng pagkabuhay na muli sa pamamagitan ng pagdedeklara kay Kristo bilang ang unang bunga nito."
+        },
+        {
+            "id": "20-2",
+            "text": "Si Kristo ang Siyang unang ibinangon mula sa mga patay bilang ang unang bunga ng pagkabuhay na muli. Ito ay inilalarawan ng mga unang bunga sa Lev. 23:10-11 na inihandog sa Diyos sa araw pagkaraan ng Sabbath, ang araw ng pagkabuhay na muli (Mat. 28:1). (Ang unang bunga ay isang bigkis ng mga unang bunga, na kinabibilangan ni Kristo kasama ang ilan sa mga namatay na banal sa Lumang Tipan, na ibinangon sa pagkabuhay na muli ng Panginoon – Mat. 27:52-53). Si Kristo bilang ang unang bunga ng pagkabuhay na muli ay ang Panganay mula sa mga patay upang maging Ulo ng Kanyang Katawan (Col. 1:18; Efe. 1:20-23). Yamang Siya na Ulo ng Katawan ay binuhay na muli, tayo, ang Katawan, ay bubuhayin ding muli."
+        },
+        {
+            "id": "21-1",
+            "text": "Yaon ay, si Adam, ang unang tao (b. 45)."
+        },
+        {
+            "id": "21-2",
+            "text": "Yaon ay, si Kristo, ang ikalawang Tao (b. 47). Si Adam ang nagdala ng kamatayan sa pamamagitan ng kasalanan (Roma 5:12); si Kristo ang nagdala ng buhay ng pagkabuhay na muli sa pamamagitan ng katuwiran (Roma 5:17-18). Ang kamatayang dinala ni Adam ay gumagawa sa loob natin mula sa panahon ng pagkasilang sa atin ng ating mga magulang hanggang sa araw ng kamatayan ng ating katawan. Ang buhay ng pagkabuhay na muli na dinala ni Kristo ay gumagawa sa loob natin, gaya ng isinagisag ng bautismo (Roma 6:4), mula sa ating pagkasilang-na-muli sa pamamagitan ng Espiritu ng Diyos (Juan 3:5) hanggang sa araw ng pagbabagong-anyo ng ating katawan (Fil. 3:21)."
+        },
+        {
+            "id": "22-1",
+            "text": "Sa loob ni Adam tayo ay isinilang sa kamatayan at isinilang upang mamatay; sa loob ni Adam tayo ay mga patay (Efe. 2:1, 5)."
+        },
+        {
+            "id": "22-2",
+            "text": "Sa loob ni Kristo tayo ay muling-isinilang sa buhay at binuhay na muli upang mabuhay; sa loob ni Kristo tayo ay nabigyang-sigla na, ginawang buháy na (Efe. 2:5-6)."
+        },
+        {
+            "id": "23-1",
+            "text": "Tingnan ang tala 20-2 . Ang unang bunga na si Kristo ay ang unang pangkat na binuhay na muli mula sa mga patay."
+        },
+        {
+            "id": "23-2",
+            "text": "Ang mga mananampalataya sa loob ni Kristo, yaon ay, ang mga matuwid na bubuhaying muli upang magkamit ng buhay sa panahon ng pagbabalik ng Panginoon bago dumating ang isang libong taong kaharian (Juan 5:29; Luc. 14:14; I Tes. 4:16; I Cor. 15:52; Apoc. 20:4-6). Sila ang magiging ikalawang pangkat na bubuhaying muli mula sa mga patay."
+        },
+        {
+            "id": "24-1",
+            "text": "Binanggit ng nauunang bersikulo ang tungkol sa pagkakasunud-sunod ng pagkabuhay na muli. Si Kristo ay kabilang sa unang pangkat ng mga binuhay na muli, susundan ng yaong mga kabilang kay Kristo. Batay sa ganitong pagsasalita, nang binanggit ng bersikulong ito ang salitang “magkagayon” dapat sana ay sinabi kung sinong tao, ngunit hindi sinabi rito kung sinong tao, sa halip, ay sinabi na darating ang wakas. Sapagka’t sa wakas, ayon sa pagkakasunud-sunod ng mga taong bubuhaying muli, ay ang mga taong wala sa loob ni Kristo. Ang “wakas” na binanggit sa bersikulong ito ay ang wakas ng lahat ng mga kapanahunan at ng mga dispensasyon ng lumang paglikha. Ito rin ang wakas ng isang libong taon bago dumating ang bagong langit at bagong lupa (Apoc. 21:1). Sa lahat ng mga kapanahunan at dispensasyon, ang Diyos, sa isang banda, ay nakikipagtuos sa Kanyang kaaway na si Satanas, at sa lahat ng mga negatibong bagay sa sansinukob; sa kabilang banda, Kanyang naisagawa na ang lahat ng mga bagay para sa katuparan ng Kanyang walang hanggang layunin. Ang wakas ng mga kapanahunang ito at ng mga dispensasyon ay ang isang libong taon, ang kapanahunan ng kaharian, na pagkaraan nito ang lahat ng mga pagtutuos at mga naisagawa ng Diyos ay ganap na matatapos. Ang pagkukumpletong yaon ang magiging wakas, ang konklusyon ng lahat ng gawa ng Diyos. Sa wakas na ito ang lahat ng patay na di-mananampalataya, yaon ay ang mga di-matuwid, ay bubuhaying muli upang tumanggap ng kahatulan ng walang hanggang kapahamakan (Juan 5:29; Apoc. 20:5, 11-15). Sila ang ikatlong pangkat na bubuhaying-muli."
+        },
+        {
+            "id": "24-2",
+            "text": "Kapag pinawalang-bisa na ni Kristo ang makademonyong awtoridad, pinasuko ang lahat ng Kanyang mga kaaway (b. 25), nilipol ang kamatayan (b. 26), at inihatid ang kaharian sa Diyos Ama, yaon ay, kapag ang lahat ng negatibong bagay ay nabigyang-wakas na at ang buong layunin ng Diyos ay naisakatuparan na, ang lumang paglikha ay magwawakas na."
+        },
+        {
+            "id": "24-3",
+            "text": "Pagkatapos maisagawa ang gawain ng pagtutubos, si Kristo ay pumaroon upang tanggapin ang kaharian mula sa Ama (Luc. 19:12, 15). Bago dumating ang isang libong taon, Siya bilang ang Anak ng Tao ay tatanggap na ng kaharian mula sa Diyos, ang Matanda sa mga araw, upang pamunuan ang lahat ng bansa sa loob ng isang libong taon (Dan. 7:13-14; Apoc. 20:4, 6). Sa katapusan ng isang libong taon, pagkatapos Niyang magapi si Satanas, ang Diyablo, at ang lahat ng masasama niyang anghel (yaon ay, ang lahat ng pamumuno, awtoridad, at kapangyarihan), at maging ang kamatayan at Hades, inilalagay ang lahat ng Kanyang mga kaaway sa ilalim ng Kanyang mga paa (bb. 25-26) at inihahagis silang lahat, kasama ang kamatayan at Hades, sa dagat-dagatang apoy (Apoc. 20:7-10, 14), Kanyang dadalhin ang kaharian pabalik sa Diyos Ama."
+        },
+        {
+            "id": "25-1",
+            "text": "Sa isang libong taon, yaon ay, ang huling kapanahunan ng lumang nilikha."
+        },
+        {
+            "id": "26-1",
+            "text": "Kaagad pagkaraan ng pagkatisod ng tao, ang Diyos ay nagsimula ng Kanyang gawaing lipulin ang kasalanan at kamatayan. Ang gawaing ito ay nagpapatuloy sa pagdaan ng kapanahunan ng Luma at Bagong Tipan at nasa hakbangin pa rin hanggang sa ngayon. Kapag ang kasalanan ay naalis na sa wakas ng lumang nilikha, kapag ang pinagmulan nito, si Satanas, ay naihagis na sa dagat-dagatang apoy (Apoc. 20:7-10), sa panahong yaon ang kamatayan ay lilipulin na. Ito ay ihahagis din sa dagat-dagatang apoy kasama ang Hades, ang kapangyarihan nito, pagkaraan ng huli at pangwakas na paghahatol sa malaking tronong puti (Apoc. 20:11-15)."
+        },
+        {
+            "id": "27-1",
+            "text": "Tumutukoy sa Diyos. Ito ang pagsisipi ng Awit 8:6-8 tungkol kay Kristo bilang ang Tao na itinalaga ng Diyos na mamahala sa lahat. Ito ay maisasakatuparan kapag ang lahat ng bagay na binanggit sa mga bersikulo 24-26 ay naganap na. Ang “sapagka’t” sa pasimula ng bersikulo ay nagpapaliwanag sa puntong ito."
+        },
+        {
+            "id": "27-2",
+            "text": "Tumutukoy kay Kristo bilang ang Taong ipinropesiya sa Awit 8:4-8. Sa Kanya-ang binuhay na muli, niluwalhati, at itinaas na Tao-pinasuko ng Diyos ang lahat ng mga bagay (Heb. 2:7-9; Efe. 1:20-22)."
+        },
+        {
+            "id": "27-3",
+            "text": "Sa Awit 8:6."
+        },
+        {
+            "id": "28-1",
+            "text": "Kay Kristo, ayon sa bersikulo 27, kung kanino pinasuko ng Diyos ang lahat ng bagay."
+        },
+        {
+            "id": "28-2",
+            "text": "Si Kristo, bilang Anak ng Diyos upang maging Ulo ng sangkatauhan sa Kanyang pagkatao ay nasa ilalim ng pagka-ulo ng Diyos Ama (11:3). Ito ay para sa pampamahalaang pangangasiwa ng Diyos. Pagkatapos mapasuko ng Diyos Ama ang lahat ng mga bagay sa ilalim ng Kanyang mga paa bilang isang binuhay na muling Tao sa kaluwalhatian (Efe. 1:22; Heb. 2:7-8), at pagkatapos Niyang mailagay, bilang isang gayong binuhay na muling Tao, ang lahat ng kaaway sa ilalim ng Kanyang mga paa upang isagawa ang pagpapasuko ng Diyos Ama ng lahat ng bagay sa Kanya, Siya bilang ang Anak ng Diyos kasabay ng Kanyang paghahatid ng kaharian pabalik sa Diyos Ama (b. 24), ay magpapasailalim ng Kanyang Sarili sa Kanyang pagka-Diyos, sa Diyos Ama, na nagpasuko ng lahat ng bagay sa Kanya, ang Anak sa Kanyang pagkatao. Ito ay nagsasaad ng ganap na pagpapasailalim at pagpapasakop ng Anak sa Ama, itinataas ang Ama upang ang Diyos Ama ay maging lahat sa lahat."
+        },
+        {
+            "id": "28-3",
+            "text": "Tumutukoy sa Diyos, ang Isa na nagpasuko ng lahat ng bagay kay Kristo, ayon sa bersikulo 27."
+        },
+        {
+            "id": "29-1",
+            "text": "Sa pagturing sa mga bersikulo 20-28 bilang pagpapaliwanag, ang bersikulong ito ay dapat maidugtong sa bersikulo 18, at ang mga bersikulo 30-32 sa bersikulo 19."
+        },
+        {
+            "id": "29-2",
+            "text": "Nabautismuhan para sa mga iba na namatay. Ito ay hindi dapat maging opisyal na bagay na pangkaraniwang isinagawa ng mga naunang ekklesia, kundi isang uri ng pansariling gawain ng ilang indibiduwal na mananampalataya para sa mga taong namatay kung kanino sila ay nag-alala na maaaring nakapanampalataya sa Panginoon subali’t hindi nabautismuhan bago sila namatay. Ginawa nila ito sa loob ng pag-asa ng kanilang pagkabuhay na muli mula sa mga patay sa pagbabalik ng Panginoon (I Tes. 4:16), yamang sa pagbabautismo ang pagkabuhay na muli ay matatag na isinasagisag (Col. 2:12). Ginagamit ng apostol kung ano ang kanilang ginawa upang pagtibayin ang katotohanan ng pagkabuhay na muli. Gayunpaman, ito ay hindi nangangahulugang kanyang pinahihintulutan ang bautismo ng ilang mananampalataya para sa namatay."
+        },
+        {
+            "id": "31-1",
+            "text": "Sa pagtatalakay ng apostol tungkol sa pagkabuhay na muli, ginamit niya ang kanyang karanasan sa gawain ng Panginoon upang patunayan ang pagkabuhay na muli, lalung-lalo na ang impluwensiya sa kanya ng pagkabuhay na muli ni Kristo. Ang mga mananampalatayang taga-Corinto ay mga bunga ng pagpapagal ng apostol, isang pagpapagal kung saan inilagay niya sa panganib ng kamatayan ang kanyang buhay. Maipagmamapuri ito ng apostol sa kanila. Ang pagmamapuring ito ay nasa loob ng binuhay na muling Kristo hindi sa loob ng kanyang sarili sapagka’t nang inilagay ni Pablo ang kanyang buhay sa panganib upang ibunga sila, ito ay hindi sa kanyang sarili kundi sa pamamagitan ng binuhay na muling Kristo."
+        },
+        {
+            "id": "31-2",
+            "text": "Ang mga mananampalatayang taga-Corinto ay mga bunga ng paglalagay ng apostol ng kanyang buhay sa panganib. Maipagmamapuri niya ito sa kanila. Ngayon sa kanyang pagtukoy sa pagmamapuring ito, mahigpit niyang sinasabihan sila na siya ay namamatay araw-araw, yaon ay, araw-araw na nasa panganib ng kamatayan, nakaharap sa kamatayan at tungo sa kanyang sarili siya ay namamatay (II Cor. 11:23; 4:11; 1:8-9; Roma 8:36)."
+        },
+        {
+            "id": "32-1",
+            "text": "Isang kasabihang nangangahulugang masasamang tao o masasamang bagay (II Tim. 4:17)."
+        },
+        {
+            "id": "32-2",
+            "text": "Ang kaugalian ng mga tao sa pakikipaglaban sa sinumang masamang tao o bagay ay ang tumanggap ng pansamantalang gantimpala. Subali’t ang apostol ay gagantimpalaan sa pagkabuhay na muli sa hinaharap nang ayon sa higit na mataas na pag-asa dahil sa kanyang pakikipaglaban sa masasamang tao at masasamang bagay para sa kapakanan ng ebanghelyo (Luc. 14:14; II Tim. 4:8)."
+        },
+        {
+            "id": "32-3",
+            "text": "Ito ay maaaring isang pagsipi sa isang kasabihan noong panahong yaon, isang kawikaan ng mga Epicureo. Kung walang pagkabuhay na muli, tayong mga mananampalataya ay walang pag-asa sa kinabukasan at magiging taong lalong kahabag-habag (b. 19). Kung gayon nga ay mabuti pang tamasahin natin ang pangkasalukuyang buhay, kalimutan na ang hinaharap katulad ng ginagawa ng mga Epicureo."
+        },
+        {
+            "id": "33-1",
+            "text": "Ito ay maaaring isang pagsipi sa isang kasabihan nang panahong yaon, na isang bahagi ng isang tulang Griyego. Sa pamamagitan ng salitang ito, binabalaan ng apostol ang mga mananampalatayang taga-Corinto na huwag magkaroon ng anumang pakikisama sa mga ereheng nagsasabi na walang pagkabuhay na muli. Ang gayong masamang pakikisama ay makasisira sa kanilang pananampalataya at sa mga kagalingang Kristiyano."
+        },
+        {
+            "id": "33-2",
+            "text": "O, kasamahan."
+        },
+        {
+            "id": "34-1",
+            "text": "O, gumising tungo sa katinuan (mula sa pagkalasing); tumigil sa pagkakalasing nang ayon sa katuwiran. Ang nang ayon sa katuwiran ay nangangahulugang maging matuwid sa Diyos at sa tao. Ang sabihing walang pagkabuhay na muli ay kasalanan sa Diyos at sa tao. Ito ay pagkakasala at hindi matuwid. Kaya, binibigyang-payo ng apostol ang mga naligaw na taga-Corinto na gumising at huwag nang magpakalango sa kasalanang ito upang maging matuwid sa Diyos at sa tao. Sila ay nalasing sa di-makatuwirang ereheng paniniwala na walang pagkabuhay na muli, kaya kailangan nilang tigilan ang ganitong pagkahilo."
+        },
+        {
+            "id": "34-2",
+            "text": "Lit. maging mangmang. Ang maging taliwas sa wastong pananampalataya sa pagsasabi na walang pagkabuhay na muli ay ang maging walang pagkakilala sa Diyos, hindi nalalaman ang kapangyarihan at ekonomiya ng Diyos (Mat. 22:29 – 32). Ito ay isang kahihiyan sa mga mananampalataya."
+        },
+        {
+            "id": "36-1",
+            "text": "Ang realidad ng pagkabuhay na muli ay nakalagay at nakatago sa kalikasan, lalo na sa buhay ng halaman. Ang binhing inihasik sa lupa ay namamatay at nabubuhay. Ito ang pagkabuhay na muli. Ito ay sumasagot sa unang katanungan ng mga mangmang na taga-Corinto, “Paanong ibinabangon ang mga patay?”"
+        },
+        {
+            "id": "38-1",
+            "text": "Hindi tumutukoy sa katawang inihasik upang mamatay (b. 37), kundi sa binuhay na muling katawan na ibinigay ng Diyos, na nasa ibang anyo at nasa higit na mataas na antas. Ito ay sumasagot sa mangmang na katanungan ng mga taga-Corinto, “Anong uri ng katawan ang iparirito nila (b. 35)?”"
+        },
+        {
+            "id": "39-1",
+            "text": "Mula bersikulo 39 hanggang 41, pinatutunayan ng apostol sa mga mangmang na taga-Corinto na ang Diyos ay may kakayahang magbigay ng katawan sa lahat ng binuhay na muling buhay, gaya ng ibinigay Niya sa lahat ng nilikhang bagay-sa mga tao at mga hayop sa lupa, sa mga ibon sa himpapawid, at sa mga isda sa tubig-ang mga makalupang katawan na may iba’t ibang kaluwalhatian; at sa araw, sa buwan, at sa mga bituin, mga bagay na nasa langit na may makalangit na kaluwalhatian na nasa iba’t ibang antas."
+        },
+        {
+            "id": "44-1",
+            "text": "Ang isang pangkaluluwang katawan ay isang likas na katawan, na binibigyang-buhay ng kaluluwa, isang katawan na ang kaluluwa ang nangingibabaw. Ang isang espirituwal na katawan ay isang binuhay na muling katawan na natigmak ng espiritu, isang katawan na ang espiritu ang nangingibabaw. Kapag tayo ay namatay, ang ating pangkaluluwa at likas na katawan ay ihahasik, yaon ay, ililibing, sa pagkasira, sa di-kapurihan, at sa kahinaan. Sa panahong bubuhaying muli ang katawang ito, ito ay magiging katawang espirituwal sa walang kasiraan, sa kaluwalhatian, at sa kapangyarihan (bb. 42-43)."
+        },
+        {
+            "id": "45-1",
+            "text": "Si Adam sa pamamagitan ng paglikha ay naging kaluluwang buháy na may pangkaluluwang katawan. Si Kristo sa pamamagitan ng pagkabuhay na muli ay naging isang Espiritung nagbibigay-buhay na may espirituwal na katawan. Si Adam bilang isang buháy na kaluluwa ay likas; si Kristo bilang isang nagbibigay-buhay na Espiritu ay binuhay na muli. Unang-una, sa pagkakatawang-tao, Siya ay naging laman para sa pagtutubos (Juan 1:14, 29); pagkatapos sa loob ng pagkabuhay na muli Siya ay naging isang Espiritung nagbibigay-buhay para sa pamamahagi ng buhay (Juan 10:10b). Siya ay may pangkaluluwang katawan tulad ni Adam sa pamamagitan ng pagkakatawang-tao; Siya ay may espirituwal na katawan sa pamamagitan ng pagkabuhay na muli. Ang Kanyang pangkaluluwang katawan ay naging isang espirituwal na katawan sa pamamagitan ng pagkabuhay na muli. Ngayon Siya ay isang Espiritung nagbibigay-buhay sa loob ng pagkabuhay na muli, na may espirituwal na katawan, nakahanda na upang matanggap ng Kanyang mga mananampalataya. Kapag tayo ay nanampalataya tungo sa loob Niya, Siya ay pumapasok sa ating espiritu, at tayo ay naiuugpong sa Kanya na siyang Espiritung nagbibigay-buhay. Sa gayon, tayo ay nagiging kaisang espiritu Niya (6:17). Ang ating espiritu ay binuhay at binubuhay na muling kasama Niya. Sa katapusan, ang ating pangkaluluwang katawan sa ngayon ay magiging isang espirituwal na katawan din sa pagkabuhay na muli katulad ng Kanyang katawan (bb. 52-54; Fil. 3:21)."
+        },
+        {
+            "id": "46-1",
+            "text": "Si Kristo, ang ikalawang Tao (b. 47)."
+        },
+        {
+            "id": "46-2",
+            "text": "Si Adam, ang unang tao (b. 47)."
+        },
+        {
+            "id": "47-1",
+            "text": "Ang “mula sa lupa” ay nagpapakilala ng pinagmulan ng unang taong si Adam, at ang “makalupa” ay nagpapakita ng kanyang kalikasan."
+        },
+        {
+            "id": "47-2",
+            "text": "Si Kristo ay hindi lamang ang huling Adam (b. 45), bagkus ang ikalawang Tao rin. Ang unang Adam (b. 45) ay ang pasimula ng sangkatauhan; ang huling Adam naman ang katapusan. Bilang ang unang tao, si Adam ang ulo ng lumang nilikha na kumakatawan sa lumang paglikha. Bilang ang ikalawang Tao, si Kristo ang Ulo ng bagong nilikha na kumakatawan sa bagong paglikha sa pagkabuhay na muli. Sa buong sansinukob ay may dadalawang tao lamang: ang unang taong si Adam, kasama ang lahat ng kanyang mga inapo, at ang ikalawang Taong si Kristo, kabilang ang lahat ng Kanyang mga mananampalataya. Tayong mga mananampalataya ay kasama sa unang tao sa pamamagitan ng pagkasilang at naging bahagi ng ikalawang Tao sa pamamagitan ng pagkasilang-na-muli. Ang ating pananampalataya ang naglipat sa atin palabas mula sa unang tao patungo sa loob ng ikalawang Tao. Bilang bahagi ng unang tao, ang ating pinagmulan ay ang lupa at ang ating kalikasan ay makalupa. Bilang bahagi ng ikalawang Tao, ang ating pinagmulan ay ang Diyos at ang ating kalikasan ay makalangit."
+        },
+        {
+            "id": "47-3",
+            "text": "Ang “mula sa langit” ay nagpapakilala kapwa ng dibinong pinagmulan ng ikalawang Taong si Kristo at ng Kanyang makalangit na kalikasan."
+        },
+        {
+            "id": "48-1",
+            "text": "Ang unang taong si Adam, na makalupa."
+        },
+        {
+            "id": "48-2",
+            "text": "Ang lahat ng mga inapo ni Adam, na makalupang gaya ni Adam."
+        },
+        {
+            "id": "48-3",
+            "text": "Ang ikalawang Taong si Kristo, na makalangit."
+        },
+        {
+            "id": "48-4",
+            "text": "Ang lahat ng mananampalataya kay Kristo, na makalangit na gaya ni Kristo."
+        },
+        {
+            "id": "49-1",
+            "text": "Lit. ibinihis, ibibihis."
+        },
+        {
+            "id": "49-2",
+            "text": "Bilang bahagi ni Adam, tinaglay natin ang larawan ng makalupang tao sa pamamagitan ng pagkasilang; bilang bahagi ni Kristo, tataglayin natin ang larawan ng makalangit na Tao sa pagkabuhay na muli. Ito ay nagsasaad na kung papaanong tayo ay naisilang kay Adam bilang ang makalupang tao, gayundin tayo ay bubuhaying muli kay Kristo bilang ang makalangit na Tao. Ang gayong pagkabuhay na muli ang ating tadhana. Ito ay kasintiyak ng ating pagkasilang at hindi dapat pagalinlanganan."
+        },
+        {
+            "id": "50-1",
+            "text": "Ang laman at dugo ay ang mga sangkap ng pangkaluluwang katawan na may pagkasira at hindi karapat-dapat na magmana ng kaharian ng Diyos. Ang may kasiraan ay walang kakayahang magmana ng walang kasiraan. Ang ating nasisirang katawan ay kinakailangang mabuhay na muli upang maging isang hindi nasisirang katawan nang sa gayon tayo ay magkaroon ng kakayahang manahin ang di-nasisirang kaharian ng Diyos sa loob ng pagkabuhay na muli."
+        },
+        {
+            "id": "51-1",
+            "text": "Ang pagbabagong-anyo, kabilang ang pagkabuhay na muli, ng ating katawang may kasiraan tungo sa isang katawang walang kasiraan (Fil. 3:21). Ito ay mahiwaga sa pang-unawa ng tao."
+        },
+        {
+            "id": "51-2",
+            "text": "Mangamamatay (11:30; Juan 11:11-13; I Tes. 4:13-16)."
+        },
+        {
+            "id": "51-3",
+            "text": "Yaon ay, mababagong-anyo mula sa may kasiraan, di-kapurihan, at kahinaan tungo sa walang kasiraan, kaluwalhatian, at kapangyarihan (bb. 42-43); ang katawan ng ating pagkamababa na maiwangis sa katawan ng kaluwalhatian ni Kristo (Fil. 3:21)."
+        },
+        {
+            "id": "52-1",
+            "text": "Ang ikapitong trumpeta (Apoc. 11:15), isang trumpeta ng Diyos (I Tes. 4:16)."
+        },
+        {
+            "id": "52-2",
+            "text": "Ang mga patay sa loob ni Kristo, ang mga patay na mananampalataya (I Tes. 4:16)."
+        },
+        {
+            "id": "52-3",
+            "text": "Tayong mga mananampalatayang nabubuhay sa panahon ng pagbabalik ng Panginoon. Ang mga patay na banal ay unang bubuhaying muli, pagkatapos ang mga nabubuhay na mananampalataya ay babaguhin, babaguhing-anyo, sa pag-akyat ng may masidhing kagalakan (I Tes. 4:15-17)."
+        },
+        {
+            "id": "53-1",
+            "text": "Tumutukoy sa ating nasisira at namamatay na katawan, na kinakailangang magsuot ng walang kasiraan at walang kamatayan sa pamamagitan ng pagkabuhay na muli ng mga namatay na banal o sa pamamagitan ng pagbabagong-anyo ng mga nabubuhay pang mananampalataya na mangyayari sa pagbalik ni Kristo. Sa likas na paningin, ito ay mahiwaga at mahirap na ipaliwanag."
+        },
+        {
+            "id": "54-1",
+            "text": "Yaon ay, kapag ang ating nasisira at namamatay na katawan ay mabubuhay na muli o mababagong-anyo mula sa pagkasira at kamatayan tungo sa kaluwalhatian at buhay. Sa gayon ang kamatayan ay malululon sa pagtatagumpay ng buhay ng pagkabuhay na muli. Ito ang kaganapan ng pagkabuhay na muli na ating nababahagi sa ekonomiya ng Diyos sa pamamagitan ng katubusan at kaligtasan na na kay Kristo. Ang pagkabuhay na muling ito ay nagsisimula sa pagkabuhay ng ating patay na espiritu at nagaganap nang lubos sa pagbabagong-anyo ng ating katawang may kasiraan. Sa pagitan ay ang hakbangin ng metabolikong transpormasyon ng ating natisod na kaluluwa sa pamamagitan ng Espiritu ni Kristo na nagbibigay-buhay, na siyang realidad ng pagkabuhay na muli (II Cor. 3:18)."
+        },
+        {
+            "id": "54-2",
+            "text": "Lit. tungo sa. Ang kamatayan ay ang pagkatalo ng tao. Sa pamamagitan ng pagliligtas ni Kristo sa loob ng buhay ng pagkabuhay na muli, ang kamatayan ay malululon tungo sa pagtatagumpay nating mga nakikinabang sa buhay ng pagkabuhay na muli ni Kristo."
+        },
+        {
+            "id": "54-3",
+            "text": "Ang tinatalakay ng kapitulong ito ay ang pagkabuhay na muli. Ang pagkabuhay na muli ni Kristo ay ang Kanyang tagumpay; ang Kanyang pagtatagumpay sa kaaway ng Diyos na si Satanas, sa sanlibutan, sa kasalanan at sa kamatayan. Sa gitna ng Kanyang pagkabuhay na muli, matagumpay na umakyat Siya sa kaitaas-taasan (Efe. 4:8), at para sa Kanya, sinupil ng Diyos ang lahat ng kaaway (b. 25). Pagkatapos, sa Kanyang katayuan sa loob ng pagkabuhay na muli dadalhin Niya ang kaharian ng Diyos (Dan. 7:13-14) sa lupa upang isagawa ang awtoridad ng Diyos, pamahalaan ang lahat dito sa lupa nang isang libong taon (Apoc. 20:4, 6). Ang huling lilipuling kaaway ay ang kamatayan. Ang paglulon sa kamatayan ay ang sukdulang kaganapan ng tagumpay ng pagkabuhay na muli ng Panginoon. Ito rin ang sukdulang kaganapan ng tagumpay na isinagawa ng Panginoon sa loob ng pagkabuhay na muli para sa ating mga mananampalataya sa Kanya at mga may bahagi sa Kanyang pagkabuhay na muli. Ito ang sukdulang resulta ng Kanyang pagkabuhay n -muli alang-alang sa walang hanggang kaharian Niya at ng Diyos; at alang-alang din sa mga sumasampalataya sa Kanya upang matamasa nang walang hanggan ang Kanyang buhay ng pagkabuhay na muli sa loob ng kawalang-hanggan."
+        },
+        {
+            "id": "55-1",
+            "text": "Ang pagdedeklara ng apostol ng tagumpay, ang tagumpay ng buhay ng pagkabuha na muli sa kamatayan."
+        },
+        {
+            "id": "56-1",
+            "text": "Ang kamatayan ay sa Diyablo (Heb. 2:14), at tayo ay tinitibo nito ng kasalanan tungo sa kamatayan (Roma 5:12). Sa pagtutubos ng Diyos, si Kristo ay ginawang kasalanan para sa atin (II Cor. 5:21) upang mahatulan ang kasalanan sa pamamagitan ng Kanyang kamatayan (Roma 8:3), sa gayon ay nililipol ang tibo ng kamatayan. Pagkatapos, sa pamamagitan ng Kanyang pagkabuhay na muli, ang kamatayan ay lululunin ng buhay ng pagkabuhay na muli."
+        },
+        {
+            "id": "56-2",
+            "text": "Ang kasalanan ay nagdadala ng sumpa at kondenasyon sa atin sa pamamagitan ng kautusan, kapwa sa ating budhi at sa harapan ng Diyos (Roma 4:15; 5:13, 20; 7:7-8). Sa gayon, ang kautusan ay nagiging kapangyarihan ng kasalanan upang patayin tayo (Roma 7:10-11). Yamang naisakatuparan na ng kamatayan ni Kristo ang mga kahilingan ng kautusan sa atin (I Ped. 3:18; 2:24), ang kapangyarihan ng kasalanan ay napawalang-bisa. Sa gayon ay nahatulan na ng kamatayan ni Kristo ang kasalanan at napawalang-bisa ang kautusan, at nalulon ng Kanyang pagkabuhay na muli ang kamatayan. Samakatuwid, nararapat tayong magbigay ng pasasalamat sa Diyos, na nagbibigay sa atin ng gayong pananagumpay sa kasalanan at kamatayan sa pamamagitan ng kamatayan at pagkabuhay na muli ng ating Panginoong Hesu-Kristo (b. 57)."
+        },
+        {
+            "id": "57-1",
+            "text": "Ang pagtatagumpay na ito sa kasalanan at kamatayan sa pamamagitan ng kamatayan at pagkabuhay na muli ni Kristo ay hindi lamang dapat maging isang naisakatuparang katotohanan para sa ating pagtanggap; ito ay dapat maging pangaraw-araw na karanasan natin sa buhay sa pamamagitan ng binuhay na muling Kristo bilang ang Espiritung nagbibigay-buhay (b. 45), na kaisa ng ating espiritu (6:17). Kaya, tayo ay dapat mamuhay at lumakad ayon sa magkahalong espiritung ito. Sa gayon, ang pasasalamat ay patuloy na maibibigay sa Diyos na nagbibigay sa atin ng tagumpay sa pamamagitan ng ating Panginoong Hesu-Kristo."
+        },
+        {
+            "id": "58-1",
+            "text": "Ang pag-alinlanganan ang katotohanan ng pagkabuhay na muli ay ang matigatig. Ang magkaroon ng katiyakan at manatili sa realidad ng pagkabuha na muli ay ang tumayong matatag, hindi natitinag."
+        },
+        {
+            "id": "58-2",
+            "text": "Ang kawalang pananampalataya sa katotohanan ng pagkabuhay na muli ay bumibigo sa atin hinggil sa ating kinabukasan, sa gayon ay pinahihina tayo sa gawain ng Panginoon. Ang pananampalataya ay nagbibigay sa atin ng malakas na paghahangad na tayo ay managana sa gawa ng Panginoon sa loob ng pagkabuhay na muli na may pag-asam na mabigyan ng kaluguran ang Panginoon sa Kanyang pagbabalik."
+        },
+        {
+            "id": "58-3",
+            "text": "Hindi sa pamamagitan ng ating likas na buhay at likas na kakayahan, kundi sa pamamagitan ng buhay ng pagkabuhay na muli at kapangyarihan ng Panginoon. Ang ating pagpapagal sa Panginoon sa Kanyang buhay ng pagkabuhay na muli, na ginagamit ang Kanyang kapangyarihan ng pagkabuhay na muli, ay hindi kailanman mawawalang-kabuluhan, kundi mamumunga ng pagsasakatuparan ng walang hanggang layunin ng Diyos sa pamamagitan ng pagpapahayag ng Kristo sa mga makasalanan, pagtutustos ng buhay sa mga banal, at pagtatayo sa ekklesia sa pamamagitan ng mga karanasan sa Tres-unong Diyos na dumaan sa iba’t ibang hakbangin bilang ginto, pilak, at mahahalagang bato (3:12), magsasakatuparan ng walang hanggang layunin ng Diyos at gagantimpalaan sa pagbabalik ng Panginoon sa araw ng pagkabuhay na muli ng mga matutuwid (3:14; Mat. 25:21, 23; Luc. 14:14)."
         }
     ]
 }

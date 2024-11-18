@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "matanda,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Gayo",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "katotohanan.",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -29,27 +29,27 @@
             "footnotes": [
                 {
                     "word": "ninanais",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "umunlad",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "malusog",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "kaluluwa.",
-                    "note": ""
+                    "id": "2-5"
                 }
             ],
             "outlines": [
@@ -63,19 +63,19 @@
             "footnotes": [
                 {
                     "word": "nagalak",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "iyong",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "paglakad",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "katotohanan.",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": [
@@ -88,7 +88,7 @@
             "footnotes": [
                 {
                     "word": "katotohanan.",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -99,11 +99,11 @@
             "footnotes": [
                 {
                     "word": "anumang",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "estranghero,",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": [
@@ -117,23 +117,23 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "ekklesia,",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "magiging",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "tutulungan",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "6-5"
                 }
             ],
             "outlines": null
@@ -144,11 +144,11 @@
             "footnotes": [
                 {
                     "word": "Pangalan,",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "Hentil.",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": [
@@ -161,11 +161,11 @@
             "footnotes": [
                 {
                     "word": "tangkilikin",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "katotohanan.",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -176,19 +176,19 @@
             "footnotes": [
                 {
                     "word": "ekklesia,",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "Diotrefes",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "maging",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "tinatanggap.",
-                    "note": ""
+                    "id": "9-4"
                 }
             ],
             "outlines": [
@@ -203,11 +203,11 @@
             "footnotes": [
                 {
                     "word": "nagngangawa",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "masasamang",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -218,23 +218,23 @@
             "footnotes": [
                 {
                     "word": "masama,",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "11-4"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "11-5"
                 }
             ],
             "outlines": null
@@ -245,23 +245,23 @@
             "footnotes": [
                 {
                     "word": "Demetrio",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "lahat,",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "kami",
-                    "note": ""
+                    "id": "12-4"
                 },
                 {
                     "word": "tunay.",
-                    "note": ""
+                    "id": "12-5"
                 }
             ],
             "outlines": [
@@ -284,14 +284,184 @@
             "footnotes": [
                 {
                     "word": "inaasahan",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "mukhaan.",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 1-1 sa 2 Juan."
+        },
+        {
+            "id": "1-2",
+            "text": "Hindi si Gayo ng Macedonia sa Gawa 19:29, ni si Gayo ng Derbe sa Gawa 20:4, ni si Gayo ng Corinto sa 1 Cor. 1:14 at Roma 16:23, kundi iba pa na may pangalang Gayo, isang pangalan na lubhang pangkaraniwan noong kanyang kapanahunan. Ayon sa mga nilalaman ng Sulat na ito, siya ay maaaring isang katangi-tanging kapatid-na-lalake sa ekklesia."
+        },
+        {
+            "id": "1-3",
+            "text": "Tingnan ang tala 1-3 sa 2 Juan."
+        },
+        {
+            "id": "2-1",
+            "text": "Maaaring nasa pagpapakahulugan ng panalangin."
+        },
+        {
+            "id": "2-2",
+            "text": "Ayon sa nilalaman ng bersikulo, ito ay tumutukoy sa mga panlabas at materyal na bagay."
+        },
+        {
+            "id": "2-3",
+            "text": "Lit. ang magkaroon ng isang mabuting paglalakbay, (Roma 1:10), ang magpatuloy nang mabuti, yaon ay, magtagumpay hanggang maabot ang ninanais na layon; kaya, ang umunlad."
+        },
+        {
+            "id": "2-4",
+            "text": "Tumutukoy sa kalusugan ng katawan, gaya ng nasa Luc. 5:31; 7:10; at 15:27."
+        },
+        {
+            "id": "2-5",
+            "text": "Ang tao ay may tatlong bahagi: espiritu, kaluluwa, at katawan (1 Tes. 5:23 at tala 5). Ang kaluluwa ay ang sangkap na namamagitan sa katawan at sa espiritu, nagtataglay ng kamalayan-sa-sarili, upang ang tao ay magkaroon ng kanyang personalidad. Ito ay nakasilid sa katawan at ang sisidlan upang maglaman ng espiritu. Sa isang mananampalataya, ang Diyos bilang Espiritu ay nananahan sa kanyang isinilang-na-muling espiritu (Roma 8:9, 16) at mula sa kanyang espiritu ay lumalaganap, binababaran ang kanyang kaluluwa, upang ito ay matransporma nang sa gayon ay maihayag Siya (Roma 12:2; 2 Cor. 3:18). Ito ang pag-unlad ng kaluluwa ng mananampalataya. Kapag ang ating kaluluwa ay naokupahan at pinamahalaan ng Espiritu ng Diyos sa pamamagitan ng ating espiritu upang pamahalaan at gamitin ang ating katawan para sa mga layunin ng Diyos, ito ay umuunlad. Hinahangad ng apostol na ang kanyang sinulatan, na isang minamahal na kapatid, isang katangi-tangi sa gayong pagpapaunlad ng kanyang kaluluwa, ay umunlad sa lahat ng bagay at maging malusog sa pangangatawan, katulad ng pag-unlad ng kanyang kaluluwa sa dibinong buhay."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 4-1 sa 2 Juan."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang “iyong katotohanan” ay ang katotohanan tungkol kay Kristo, lalo na ang tungkol sa Kanyang pagka-Diyos (tingnan ang tala 1-5 sa 2 Juan). Itinakda ng pahayag ng katotohanang ito ang paraan ng pamumuhay at ang pinanghahawakang pinaniniwalaan ng sinulatan. Ang pinanghahawakang pinaniniwalaan ay ang obhektibong katotohanan na nagiging subhektibong katotohanan sa pang-araw-araw na paglakad ng sinulatan."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang sinulatan ay hindi lamang humahawak sa katotohanan, bagkus lumalakad at nabubuhay rin sa loob ng katotohanan. Ang katotohanan hinggil sa Persona ni Kristo ay hindi lamang dapat na maging ating pinaniniwalaan, bagkus dapat ding maging ating pamumuhay, isang pamumuhay na nagpapatotoo sa ating pinaniniwalaan."
+        },
+        {
+            "id": "3-4",
+            "text": "Tingnan ang tala 4-2 sa 2 Juan."
+        },
+        {
+            "id": "4-1",
+            "text": "Tingnan ang tala 4-2 sa 2 Juan."
+        },
+        {
+            "id": "5-1",
+            "text": "Tumutukoy sa pagpapatuloy-sa-bahay (katulad ng itinuro ni Pablo sa Roma 12:13 at Heb. 13:2), yaon ay, ang pagtanggap sa mga kapatid (b. 10) na naglakbay para sa ebanghelyo at ministeryo ng salita."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang mga tumatanggap ng pagpapatulóy ay kalimitang mga manlalakbay, na hindi pa nakikilala ni Gayo."
+        },
+        {
+            "id": "6-1",
+            "text": "Tumutukoy sa nakalipas na pag-ibig."
+        },
+        {
+            "id": "6-2",
+            "text": "Tumutukoy sa ekklesia na kinaroroonan ng apostol."
+        },
+        {
+            "id": "6-3",
+            "text": "Tumutukoy sa pagtulong sa hinaharap. Sa isang banda, pinupuri ng apostol si Gayo sa kanyang ginawang pagtanggap sa mga naglalakbay na kapatid sa nakaraan; sa kabilang banda, siya ay binibigyang-sigla niya na samahan o tulungan sa paglalakbay ang mga naglalakbay na kapatid sa hinaharap."
+        },
+        {
+            "id": "6-4",
+            "text": "*Gr. propempo, ipadala nang pasulong, yaon ay, samahan o tulungan sa paglalakbay; gabayan sa paglalakbay."
+        },
+        {
+            "id": "6-5",
+            "text": "Yaon ay, sa isang paraan na katanggap-tanggap sa Diyos, tumuturing sa “tutulungan.” Ang pagtulong ay nararapat na maging sa isang paraan na tumutugma sa Diyos, na bukas-palad, nangangahulugang ang pagtulong ay kinakailangang bukas-palad."
+        },
+        {
+            "id": "7-1",
+            "text": "Tumutukoy sa itinaas at maluwalhating Pangalan ng kamangha-manghang Kristo (Fil. 2:9 at tala 3; Gawa 5:41; Sant. 2:7)."
+        },
+        {
+            "id": "7-2",
+            "text": "Tumutukoy sa mga pagano, na walang kinalaman sa pagkilos ng Diyos sa lupang ito upang isagawa ang Kanyang ekonomiya. Isang kahihiyan at insulto sa Diyos na ang sinumang gumagawa para sa Bagong Tipang ekonomiya ng Diyos ay tumanggap ng tulong mula sa mga di-mananampalataya para sa gawain ng Diyos, lalo na sa bagay ng panustos na salapi. Sa kapanahunan ng apostol, ang mga kapatid na lalake na gumagawa para sa Diyos ay hindi kumukuha ng anuman sa mga pagano."
+        },
+        {
+            "id": "8-1",
+            "text": "Gr. hupolambano, mula sa dalawang salita: hupo, sa ilalim, at lambano, kunin; kaya, kunin (mula sa ilalim), yaon ay, sagutin, alalayan, tustusan. Tayo, ang mga mananampalataya kabilang na ang apostol, ay kinakailangang magtustos at sumagot sa mga pangangailangan ng mga kapatid na gumagawa para sa Diyos sa dibinong katotohanan, at hindi kumukuha ng anuman mula sa mga Hentil."
+        },
+        {
+            "id": "8-2",
+            "text": "Tumutukoy sa inihayag na dibinong realidad bilang mga nilalaman ng Bagong Tipan para sa ekonomiya ng Diyos ayon sa pagtuturo ng mga apostol hinggil sa dibinong Trinidad, lalo na ang hinggil sa Persona ng Panginoong Hesus. Ang lahat ng mga apostol at mga tapat na kapatid ay gumagawa para rito."
+        },
+        {
+            "id": "9-1",
+            "text": "Tumutukoy sa ekklesia na kinabibilangan din ni Gayo."
+        },
+        {
+            "id": "9-2",
+            "text": "Gr. Diotrephes, binuo mula sa mga salitang Dios (galing kay Zeus, na pinuno ng mga diyos sa templo ng mga Griyego) at trepho, kandiliin; kaya, kinandili ni Zeus. Ito ay nagpapakita na hindi binitiwan ni Diotrephes, na nagpapahayag na siya ay isang Kristiyano, ang kanyang paganong pangalan. Ang hindi pagbitiw sa paganong pangalan ay salungat sa pagsasagawa ng mga naunang mananampalataya, na kumukuha ng isang pangalang Kristiyano sa panahon ng kanilang pagbabautismo. Ayon sa kasaysayan, iminungkahi niya ang erehiyang Gnostikong lumalapastangan sa Persona ni Kristo. Kaya, hindi kataka-taka na gusto niyang maging ang pangunahin sa gitna ng mga mananampalataya."
+        },
+        {
+            "id": "9-3",
+            "text": "Ito ay laban sa mga salita ng Panginoon sa Mat. 20:25-27; 23:8-11, na nagpapanatili sa lahat ng Kanyang mga mananampalataya sa parehong antas, yaon ay, ang antas bilang magkakapatid. Sa 2 Juan 9, ang mga Gnostikong Cerinto ay nanguna sa pagpapasulong sa doktrinang lumalampas sa pagtuturo hinggil kay Kristo. Narito sa 3 Juan 9 ang isa na nasa ilalim ng impluwensiya ng eretikal na doktrinang Gnostiko, na ibig maging una sa ekklesia. Ang nauna ay ukol sa kapalaluang intelektuwal; ang huli naman ay ukol sa pagmamataas-sa-sarili sa paggawa. Ang dalawang kasamaang ito ay ang matatalim na sandatang ginagamit ni Satanas, na kaaway ng Diyos, upang isagawa ang kanyang masamang balak laban sa ekonomiya ng Diyos. Ang isa ay sumisira sa pananampalataya ng mga mananampalataya sa dibinong realidad; ang isa naman ay humahadlang sa kanilang gawain sa pagkilos ng Diyos."
+        },
+        {
+            "id": "9-4",
+            "text": "Yaon ay, mainit na tinatanggap."
+        },
+        {
+            "id": "10-1",
+            "text": "Gr. phluareo, mula sa phluo, pakuluin, pabulain, upang umapaw sa mga salita, magsalita nang walang kabuluhan; kaya, gumawa, magsalita ng kahangalan o walang kabuluhan."
+        },
+        {
+            "id": "10-2",
+            "text": "Gr. poneros, lubhang nakapipinsala, katulad sa 1 Juan 5:19 (tingnan ang tala 4)."
+        },
+        {
+            "id": "11-1",
+            "text": "Gr. kakos, walang halaga, masama, baluktot."
+        },
+        {
+            "id": "11-2",
+            "text": "Gr. agathopoieo (mula sa ugat na agathos, mabuti), ang maging isang mabuting tagagawa (bilang isang kagandahang-loob o isang tungkulin), nagsasagawa ng mabuti; kaya, gumawa ng mabuti."
+        },
+        {
+            "id": "11-3",
+            "text": "Lit. mula sa (tingnan ang tala 19-1 sa 1 Juan 5). Ang Diyos ang pinagmumulan ng mabuti. Ang isang tagagawa ng mabuti, isang gumagawa ng mabuti, ay isang mula sa Diyos at nabibilang sa Diyos (cf. 1 Juan 3:8)."
+        },
+        {
+            "id": "11-4",
+            "text": "Gr. kakopoieo (mula sa ugat na kakos, walang halaga), ang maging isang tagagawa ng masama, nagsasagawa ng masama; kaya, gumawa ng masama."
+        },
+        {
+            "id": "11-5",
+            "text": "Ang isang gumagawa ng masama ay hindi lamang di-nanggaling sa Diyos, bagkus hindi pa nakakita sa Diyos."
+        },
+        {
+            "id": "12-1",
+            "text": "Si Demetrio, na isa sa mga naglalakbay na kapatid na gumagawa para sa Panginoon (bb. 5-8), ay maaaring siyang nagdala ng Sulat na ito kay Gayo. Kaya, kinakailangan niya ang isang mainam at malakas na rekomendasyon ng sumulat."
+        },
+        {
+            "id": "12-2",
+            "text": "Ito ay nagpapakita na si Demetrio ay isang kapatid na gumagawa sa gitna ng mga ekklesia, kaya nga, siya ay kilala."
+        },
+        {
+            "id": "12-3",
+            "text": "Tumutukoy sa inihayag na katotohanan ng Diyos, bilang realidad ng esensiya ng pananampalatayang Kristiyano (tingnan ang tala 6-6 sa 1 Juan 1), na siyang dibinong tuntunin para sa paglakad ng lahat ng mga mananampalataya, at siyang nagtatakda sa paglakad ng mga mananampalataya. Sa gayon, ang katotohanang ito ay nagbibigay ng mabuting patotoo sa kanya na lumalakad dito, katulad ng ginawa nito kay Demetrio."
+        },
+        {
+            "id": "12-4",
+            "text": "Tumutukoy kay Apostol Juan at sa kanyang mga kasamahan."
+        },
+        {
+            "id": "12-5",
+            "text": "Gr. alethes (isa pang pang-uri na malapit sa aletheia cf. tala 20-5 sa 1 Juan 5), tunay, kaya totoo."
+        },
+        {
+            "id": "14-1",
+            "text": "Tingnan ang tala 12-1 sa 2 Juan."
+        },
+        {
+            "id": "14-2",
+            "text": "Lit. bibig sa bibig."
         }
     ]
 }

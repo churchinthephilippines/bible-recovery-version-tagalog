@@ -1,5 +1,5 @@
 {
-    "chapter": 15,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "nilapitan",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,7 +21,7 @@
             "footnotes": [
                 {
                     "word": "nilalabag",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -32,7 +32,7 @@
             "footnotes": [
                 {
                     "word": "nilalabag",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -43,15 +43,15 @@
             "footnotes": [
                 {
                     "word": "Igalang",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "nagsasalita",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "hayaan",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -62,7 +62,7 @@
             "footnotes": [
                 {
                     "word": "handog",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -79,7 +79,7 @@
             "footnotes": [
                 {
                     "word": "Mga",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -90,7 +90,7 @@
             "footnotes": [
                 {
                     "word": "puso",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -101,7 +101,7 @@
             "footnotes": [
                 {
                     "word": "Sumasamba",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -118,7 +118,7 @@
             "footnotes": [
                 {
                     "word": "dumurungis",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -135,7 +135,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -146,7 +146,7 @@
             "footnotes": [
                 {
                     "word": "bulag",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -181,7 +181,7 @@
             "footnotes": [
                 {
                     "word": "masasamang",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -198,7 +198,7 @@
             "footnotes": [
                 {
                     "word": "Tiro",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": [
@@ -212,11 +212,11 @@
             "footnotes": [
                 {
                     "word": "Cananea",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "Panginoon,",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -233,7 +233,7 @@
             "footnotes": [
                 {
                     "word": "isinugo",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -244,11 +244,11 @@
             "footnotes": [
                 {
                     "word": "sumamba",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "Panginoon,",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -259,11 +259,11 @@
             "footnotes": [
                 {
                     "word": "tinapay",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "aso.",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -274,7 +274,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -291,7 +291,7 @@
             "footnotes": [
                 {
                     "word": "Galilea;",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": [
@@ -317,7 +317,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": [
@@ -331,7 +331,7 @@
             "footnotes": [
                 {
                     "word": "ilang",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -342,7 +342,7 @@
             "footnotes": [
                 {
                     "word": "Ilang",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -359,7 +359,7 @@
             "footnotes": [
                 {
                     "word": "Kinuha",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -381,6 +381,120 @@
             "text": "At nang mapaalis ang mga kalipunan, lumulan Siya sa daong at nagtungo sa mga hangganan ng Magadan.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Kahit na pinabayaan ng Panginoon ang mga tumatangging relihiyonista, ayaw pa rin nilang tumigil sa panggugulo sa Kanya. Lumapit sila sa Kanya mula sa kanilang sentro ng relihiyon, ang Herusalem, upang tuklasin ang Kanyang kamalian. Gayunpaman, ang kanilang panggugulo ay nagbigay sa Kanya ng iba na namang pagkakataon upang maihayag ang katotohanan hinggil sa tunay na kalinisan (bb. 10-11,15-20)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ito ay nagpapahayag na hindi sinusunod ng mga disipulo ang mga lumang tradisyon sa pagsunod sa Panginoon. Sila ay nagbibigay-pansin lamang sa presensiya ng makalangit na Hari, hindi sa anupamang bagay."
+        },
+        {
+            "id": "3-1",
+            "text": "Pinaratangan ng mga relihiyonistang Hudyo ang mga disipulo ng Panginoon ng pagsuway sa kanilang kaugalian, ngunit hinatulan sila ng Panginoon ng pagsuway sa utos ng Diyos dahil sa kanilang kaugalian. Kanilang binale-wala ang utos ng Diyos dahil sa pagbibigay-pansin sa kanilang kaugalian. Sa prinsipyo, ang mga relihiyosong tao ngayon ay gumagawa ng gayundin. Winalang-bisa kapwa ng Relihiyong Romano Katoliko at halos karamihan ng mga denominasyong Protestante ang salita ng Diyos dahil sa kanilang mga tradisyon."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pakikipagtuos ng Panginoon sa mga Fariseo at mga eskriba rito ay hindi lamang ang pagkokondena dahil sa kanilang kaugalian na nagpawalang-bisa sa salita ng Diyos, bagkus nagpahiwatig din na dapat igalang ng tao ang kanyang mga magulang. Ang Diyos sa Kanyang pamahalaan sa gitna ng mga tao ay nagtalaga na dapat igalang ng tao ang kanyang mga magulang. Sa gitna ng sampung utos, sa utos na ukol sa pantaong kaugnayan, ginawa Niya itong una (Exo. 20:12). Ang natisod na pantaong kalikasan, gayunpaman, ay laging nagsisikap na hindi pahalagahan ang mga magulang, yaon ay, ang maghimagsik laban sa pamahalaan ng Diyos. Bilang makalangit na Hari, ang Panginoon ay nagbigay-diin na dapat igalang ng tao ang kanyang mga magulang sa kagustuhan Niyang madala ang tao pabalik sa pamahalaan ng Diyos. Ito ay tumutugon sa Kanyang salita sa saligang-batas ng kaharian ng mga kalangitan tungkol sa pagsasakatuparan ng kautusan (5:17-19). Kaya, ang apostol na si Pablo ay matibay na nagbigay-diin din sa bagay na ito (Efe. 6:1-3; Col. 3:20). Tayong mga tao ng kaharian ay dapat gumalang sa ating mga magulang at huwag magdahilan para sa ating mga sarili katulad ng ginawa ng mga Hudyong relihiyonista. Anumang pagdadahilan ay tumutukoy na tayo ay wala sa ilalim ng makalangit na pamamahala, kundi sinusunod ang ating natisod na pantaong kalikasan at ang mapaghimagsik na takbo ng henerasyon ngayon."
+        },
+        {
+            "id": "4-2",
+            "text": "O, nagmumura, lumalait."
+        },
+        {
+            "id": "4-3",
+            "text": "Gr., hayaang mamatay sa pamamagitan ng kamatayan. Ibig sabihin, mamatay sa pagdanas ng pagpatay. Ang salitang mamatay sa wikang Griyego ay nangangahulugang natapos. Kaya, ang kahulugan nito ay natapos sa pamamagitan ng pagpatay. Ito ang kawikaang Hebreo na nasa Exo. 21:17 at Lev. 20:9 na naisalin sa Septuagint."
+        },
+        {
+            "id": "5-1",
+            "text": "Isang hain sa Diyos."
+        },
+        {
+            "id": "7-1",
+            "text": "Tingnan ang tala 2-3 sa kap. 6."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang makalangit na pamumuno ng kaharian ay hindi lamang humihiling na may panlabas na pagsasagawa, bagkus pati na ng panloob na realidad. Kaya, ang tinutuos nito ay hindi ang pananalita ng mga labi kundi ang tunay na kalagayan ng panloob na puso."
+        },
+        {
+            "id": "9-1",
+            "text": "Ipinahahayag nito na may mga pagsamba sa Diyos na walang kabuluhan. Ang pinakasanhi nito ay ang pagtanggap sa mga utos ng tao bilang pagtuturo. Dapat nating sambahin ang Diyos ayon sa Kanyang salita na siyang katotohanan."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang nagsasanhi sa isang tao na maging karumal-dumal at hindi malinis (Gawa 11:8). Gayundin sa bb. 18 at 20. Sa buhay-kaharian, ang karungisan ay hindi panlabas, kundi isang bagay na panloob."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang salitang ito ng makalangit na Hari ay tumutukoy na ang mga mapagkunwaring Fariseo ay “hindi itinanim” ng makalangit na Ama. Dahil sa kanilang pagtanggi sa makalangit na Hari, sila ay binunot mula sa kaharian ng mga kalangitan."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang mga nagmamatuwid-sa-sarili at mapagmataas na relihiyonista ay nag-akala na sila ay malinaw tungkol sa paraan ng paglilingkod sa Diyos, hindi natatanto na sila ay “mga bulag na tagaakay ng mga bulag.” Ang kanilang mga mata ay natabingan ng kanilang relihiyon kasama ng kanilang mga kaugalian; dahil dito, hindi nila makita ang realidad ng ekonomiya ng Diyos upang sila ay makapasok sa kaharian ng mga kalangitan. Ang kanilang kabulagan ang nagdala sa kanila na mahulog sa isang hukay."
+        },
+        {
+            "id": "19-1",
+            "text": "Sa kaharian ng mga kalangitan, ang karungisan ay hindi sa panig ng mga materyal na bagay kundi sa panig ng mga bagay na ukol sa moralidad. Ang mga materyal na bagay ay walang kinalaman sa makalangit na pamumuno, ngunit ang mga moral na bagay ay mayroon. Ang lahat ng masama na mula sa puso ay nagpapatunay na wala tayo sa ilalim ng makalangit na pamumuno."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang higit pang panggugulo ng mga tumatangging relihiyonista ang nagsanhi sa makalangit na Hari na lumisan ng higit pang palayo sa kanila, maging sa “mga sakop ng Tiro at Sidon,” isang Hentil na lupain."
+        },
+        {
+            "id": "22-1",
+            "text": "Dahil sa pagtanggi ng mga relihiyosong Hudyo, ang pagkakataon upang makaugnay ang makalangit na Hari ay dumating sa mga Hentil, maging sa isang mahinang babaeng Hentil."
+        },
+        {
+            "id": "22-2",
+            "text": "Ang titulong “Panginoon” ay nagpapahiwatig ng pagka-Diyos ni Kristo, at ang titulong “Anak ni David,” ng Kanyang pagkatao. Bilang isang Hentil na babae, marapat para sa kanya na tawagin si Kristo bilang Panginoon. Gayunpaman, siya ay walang karapatan na tumawag sa Kanya ng Anak ni David; tangi lamang ang mga anak ni Israel ang may pribilehiyong tumawag nang ganoon."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang Panginoon ay isinugo sa mga tupang naligaw ng sambahayan ni Israel. Gayunpaman, sa panahong ito Siya ay lumapit sa isang Hentil na rehiyon, nagbibigay sa mga Hentil ng pagkakataong lumahok sa Kanyang biyaya. Ito ay nagtataglay ng pampanahunang kahulugan, nagpapakita na si Kristo ay lumapit muna sa mga Hudyo, ngunit dahil sa kanilang di-pananampalataya ang Kanyang pagliligtas ay nabaling sa mga Hentil (Gawa 13:46; Roma 11:11)."
+        },
+        {
+            "id": "25-1",
+            "text": "Ito ay pagsamba katulad ng pagsamba sa Diyos."
+        },
+        {
+            "id": "25-2",
+            "text": "Sa pangalawang pagkakataon tinawag niya lamang si Kristo na Panginoon, hindi Anak ni David, sapagka’t kanyang natanto na siya ay hindi isang anak ni Israel kundi isang Hentil."
+        },
+        {
+            "id": "26-1",
+            "text": "Sa Kanyang pagsasagawa ng gawain ng pagdalaw, ang makalangit na Hari ay lumikha ng mga pagkakataon upang higit Niyang maihayag ang Kanyang sarili. Sa mga sitwasyong nilikha sa mga kapitulo 9 at 12, nakamtan Niya ang mga pagkakataong ipahayag ang Kanyang sarili bilang ang Manggagamot, ang Kasintahang Lalake, ang bagong tela, ang bagong alak, ang Pastol, ang tunay na David, ang higit na malaking templo, ang Panginoon ng pag-aani, ang higit na dakilang Jonas, at ang higit na dakilang Salomon. Dito, iba na namang pagkakataon ang nilikha para sa Kanya upang ihayag ang Kanyang sarili bilang “tinapay ng mga anak.” Inakala ng Cananea na Siya ay ang Panginoon, isang dibinong Tao, at ang Anak ni David, isang maharlikang inapo, dakila at mataas upang maghari. Subalit Kanyang inihayag ang Kanyang sarili sa kanya bilang maliliit na piraso ng tinapay, mainam para sa pagkain. Ito ay nagpapahiwatig na bilang makalangit na Hari, Siya ay nangangasiwa sa Kanyang mga tao sa pamamagitan ng pagpapakain sa kanila ng Kanyang sarili bilang tinapay. Tayo ay maaaring maging mga wastong tao sa Kanyang kaharian sa pamamagitan lamang ng panustos Niya bilang ating pagkain. Ang kainin si Kristo bilang ating panustos ay ang paraan upang maging mga tao ng kaharian sa realidad ng kaharian."
+        },
+        {
+            "id": "26-2",
+            "text": "Ito ay tumutukoy na sa mga mata ng Panginoon ang lahat ng Hentil ay mga aso, na marurumi sa mga mata ng Diyos (Lev. 11:27)."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang Cananea, hindi nasaktan sa salita ng Panginoon, kundi tinatanggap na siya ay isang asong Hentil, ay nagturing na sa panahong yaon, si Kristo, matapos na tanggihan ng mga anak, ng mga Hudyo, ay naging mga mumo sa ilalim ng mesa bilang isang bahagi para sa mga Hentil. Ang banal na lupa ng Israel ay ang mesa na kung saan si Kristo, ang makalangit na tinapay, ay dumating bilang isang bahagi para sa mga anak ni Israel. Ngunit Siya ay kanilang itinapon mula sa hapag ng mesa hanggang sa lupa, ang Hentil na lupain, dahil diyan Siya ay naging mga pira-pirasong mumo bilang bahagi para sa mga Hentil. Anong pagkamulat mayroon ang babaeng Hentil sa panahong yaon! Hindi kataka-taka na ang makalangit na Hari ay humanga sa kanyang pananampalataya (b. 28)."
+        },
+        {
+            "id": "29-1",
+            "text": "Dahilan sa pagtanggi ng relihiyong Hudyo, ang Panginoon ay nanatili sa Galilea ng mga bansa bilang nagpapagaling na liwanag. Hindi Siya paroroon sa Herusalem, ang sentro ng relihiyon ng mga Hudyo, upang sila ay mapagaling (13:15)."
+        },
+        {
+            "id": "32-1",
+            "text": "Hindi hahayaan ni Kristo ang Kanyang mga tagasunod na magutom at manghina habang sinusundan Siya sa Kanyang landas."
+        },
+        {
+            "id": "33-1",
+            "text": "Maging sa tigang na disyerto, nakayanang mapakain ng Panginoon ang Kanyang mga tagasunod at mabigyang-kasiyahan sila, gaano man karami ang kanilang bilang. Naranasan ito ng mga disipulo noon sa 14:15-21; gayunpaman, parang hindi nila natutunan ang aralin ng pananampalataya. Itinuon nila ang kanilang mga mata sa paligid sa halip na sa Panginoon. Ngunit ang presensiya ng Panginoon ay lalong mabuti kaysa isang mayamang imbakan."
+        },
+        {
+            "id": "34-1",
+            "text": "Laging nais ng Panginoon na gamitin ang anumang mayroon tayo upang pagpalain ang iba."
+        },
+        {
+            "id": "36-1",
+            "text": "Kung ating inaalay sa Panginoon ang lahat ng mayroon tayo, kukunin Niya ito, pipira-pirasuhin at ibabalik sa atin para sa pamamahagi sa iba, na kung kanino ito ay magiging isang nagbibigay-kasiyahan at nag-uumapaw na pagpapala (b. 37). Anuman ang ating ialay sa Panginoon, gaano man kaliit ito, ay mapararami ng Kanyang mapagpalang kamay upang matugunan ang pangangailangan ng malaking kalipunan (b. 38) at sa gayon ay matutupad ang Kanyang kagustuhan (b. 32)."
         }
     ]
 }

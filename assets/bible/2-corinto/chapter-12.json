@@ -1,5 +1,5 @@
 {
-    "chapter": 12,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Kinakailangang",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "sasaysayin",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "pangitain",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -28,19 +28,19 @@
             "footnotes": [
                 {
                     "word": "lalake",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "inagaw",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "ikatlong",
-                    "note": ""
+                    "id": "2-4"
                 }
             ],
             "outlines": null
@@ -51,11 +51,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "labas",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -66,11 +66,11 @@
             "footnotes": [
                 {
                     "word": "inagaw",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "paraiso,",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -87,7 +87,7 @@
             "footnotes": [
                 {
                     "word": "nagpipigil",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -98,15 +98,15 @@
             "footnotes": [
                 {
                     "word": "lumalampas-",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "tinik",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "tampalin",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -123,19 +123,19 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "sapat",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "kapangyarihan",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "magtabernakulo",
-                    "note": ""
+                    "id": "9-4"
                 }
             ],
             "outlines": null
@@ -146,27 +146,27 @@
             "footnotes": [
                 {
                     "word": "nalulugod",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "pagkakakutya,",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "pangangailangan,",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "paghihinagpis,",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "mahina,",
-                    "note": ""
+                    "id": "10-5"
                 },
                 {
                     "word": "malakas.",
-                    "note": ""
+                    "id": "10-5"
                 }
             ],
             "outlines": null
@@ -177,7 +177,7 @@
             "footnotes": [
                 {
                     "word": "super-",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -190,19 +190,19 @@
             "footnotes": [
                 {
                     "word": "tanda",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "tanda",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "kababalaghan",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "gawang",
-                    "note": ""
+                    "id": "12-4"
                 }
             ],
             "outlines": null
@@ -213,11 +213,11 @@
             "footnotes": [
                 {
                     "word": "ikinahuli",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Ipagpatawad",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -234,11 +234,11 @@
             "footnotes": [
                 {
                     "word": "gugugol",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "pagugugol",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -249,11 +249,11 @@
             "footnotes": [
                 {
                     "word": "magkagayon",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "pagkatuso",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -270,7 +270,7 @@
             "footnotes": [
                 {
                     "word": "espiritu?",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -281,11 +281,11 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": [
@@ -298,23 +298,23 @@
             "footnotes": [
                 {
                     "word": "pagtatalo,",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "paninirang-",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "bulung-",
-                    "note": ""
+                    "id": "20-3"
                 },
                 {
                     "word": "kapalaluan,",
-                    "note": ""
+                    "id": "20-4"
                 },
                 {
                     "word": "kaguluhan;",
-                    "note": ""
+                    "id": "20-5"
                 }
             ],
             "outlines": null
@@ -324,6 +324,172 @@
             "text": "Baka pagpariyan kong muli, ako ay pababain ng Diyos ko sa harapan ninyo, at ako ay magdadalamhati dahil sa marami sa nangagkasala noong una at hindi nangagsisi sa karumihan at sa pakikiapid at sa kahalayan na ginawa nila.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Napilitang magmapuri ang apostol dahil sa mga kahangalan ng mga taga-Corinto. Bagama’t ito ay hindi nararapat sa kanyang sarili, ito ay kinakailangan para sa kapakinabangan ng mga mananampalatayang taga-Corinto. Siya ay dapat magmapuri upang sila ay madala pabalik sa isang mahinahon at wastong pagkaunawa hinggil sa kanilang kaugnayan sa apostol para sa kanilang ikatatayo."
+        },
+        {
+            "id": "1-2",
+            "text": "Yaon ay ipagmamapuri ang mga pangitain at mga pahayag na natanggap niya mula sa Panginoon."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang pahayag ay ang pag-aalis ng tabing, ang pag-aalis ng lambong ng mga natatagong bagay; ang pangitain ay ang mga bagay na nakikita sa pagkaalis ng lambong. Napakaraming bagay hinggil sa ekonomiya at administrasyon ng Diyos na nasa sansinukob ang natatago. Ipinahayag at ipinakita ng Panginoon ang mga bagay na ito sa apostol, at siya ay nakatanggap ng mga pangitain ng mga natatagong bagay na ito."
+        },
+        {
+            "id": "2-1",
+            "text": "Tumutukoy sa apostol mismo (b.7), hindi bilang lumang nilalang kundi bilang bagong nilalang (5:17). Sa bahaging ito, ninanasang ipagmapuri ng apostol ang bagong nilalang kay Kristo sa pamamagitan ng pagmamapuri sa kanyang mga kahinaan sa laman, ang lumang nilalang (bb.5,9)."
+        },
+        {
+            "id": "2-2",
+            "text": "Tulad ng salitang Griyego na nasa bersikulo 4, sa Gawa 8:39, at 1 Tes. 4:17."
+        },
+        {
+            "id": "2-3",
+            "text": "Lit. hanggang sa kaloob-looban."
+        },
+        {
+            "id": "2-4",
+            "text": "Ang mga nakikitang ulap ay maaaring ituring na unang langit, at ang himpapawid, ang ikalawang langit. Ang ikatlong langit ay tumutukoy sa langit ng mga kalangitan, ang pinakamataas na langit (Deut. 10:14; Awit 148:4), kung saan naroroon ngayon ang Panginoong Hesus at ang Diyos (Efe. 4:10; Heb. 4:14; 1:3)."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang pang-ugnay na “at” ay isang mahalagang salita rito. Ito ay nagpapakita na ang binanggit sa mga bersikulo 3 at 4 ay ibang bagay na karagdagan sa kung ano ang binanggit sa bersikulo 2. Sinasabi sa bersikulo 2 na ang apostol ay inagaw hanggang sa ikatlong langit. Ngayon, ang mga bersikulo 3 at 4 ay nagsasabi ng higit pang bagay, na ang apostol ay inagaw rin patungo sa ibang lugar, tungo sa paraiso. Ito ay matibay na nagpapakita na ang paraiso ay hindi kasingkahulugan ng ikatlong langit sa bersikulo 2. Ito ay tumutukoy sa isang lugar na naiiba pa sa ikatlong langit."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang ilang manuskrito ay binabasang, hiwalay sa katawan."
+        },
+        {
+            "id": "4-1",
+            "text": "Tulad ng salitang Griyego na nasa b. 2."
+        },
+        {
+            "id": "4-2",
+            "text": "Tumutukoy sa kaaya-ayang bahagi ng Hades, kung saan ang mga espiritu ni Abraham at ng lahat ng matutuwid ay naghihintay sa pagkabuhay na muli (Luc. 16:22-23, 25-26), at kung saan nagpunta ang Panginoong Hesus pagkatapos ng Kanyang pagkamatay at nanatili hanggang sa Kanyang pagkabuhay na muli (Luc. 23:43; Gawa 2:24,27,31; Efe. 4:9; Mat. 12:40). Ang paraisong ito ay naiiba sa paraiso sa Apoc. 2:7, na siyang magiging ang Bagong Herusalem sa isang libong taong kaharian. Sa bahaging ito, sinasabi ng apostol ang tungkol sa lumalampas-na-kadakilaan ng mga pahayag na kanyang natanggap. Sa sansinukob, sa pangunahin, ay may tatlong seksiyon: ang mga kalangitan, ang lupa, at ang Hades sa ilalim ng lupa (Efe. 4:9). Bilang isang tao na namumuhay sa lupa, nalalaman ng apostol ang mga bagay sa lupa. Subali’t hindi nalalaman ng mga tao ang mga bagay na nasa mga kalangitan o sa Hades. Gayunpaman, dinala ang apostol sa dalawang lugar na ito na di-nakikilala ng tao. Kaya, tumanggap siya ng mga pangitain at mga pahayag ng mga natatagong lugar na ito. Binanggit niya ang dalawang pinakasukdulang bahagi ng sansinukob sa dahilang nadala siya roon."
+        },
+        {
+            "id": "6-1",
+            "text": "O, naghuhunos-dili ako."
+        },
+        {
+            "id": "7-1",
+            "text": "O, labis na kasaganaan, lumalabis na kadakilaan, maraming-marami."
+        },
+        {
+            "id": "7-2",
+            "text": "“Madalas na ginagamit sa klasikong Griyego na may pakahulugang tulos” (Vincent), o “isang matulis na tungkod” (Alford). Dito, ito ay maaaring tumutukoy sa isang uri ng pisikal na pagdurusa, katulad ng karamdaman ni Pablo sa kanyang mga mata (tingnan ang tala 15-2 sa Galacia 4)."
+        },
+        {
+            "id": "7-3",
+            "text": "Paluin nang may isang nakatikom na kamao o suntukin; ito ay naiiba sa nasa I Cor. 9:27, na nangangahulugang hampasin sa ilalim ng mga mata."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 10-1 sa I Corinto 15. Ang mga pagdurusa at mga pagsubok ay kadalasang mga pagtatalaga ng Panginoon para sa atin, upang maranasan natin si Kristo bilang biyaya at kapangyarihan. Sa kadahilanang ito, hindi aalisin ng Panginoon ang tinik sa apostol nang ayon sa kanyang kahilingan. 9-2"
+        },
+        {
+            "id": "9-3",
+            "text": "Upang mapadakila ang kasapatan ng biyaya ng Panginoon, ang ating mga pagdurusa ay kinakailangan; upang maipakita ang kasakdalan ng kapangyarihan ng Panginoon, ang ating kahinaan ay kinakailangan. Kaya, ang apostol ay higit na nagagalak na magmapuri sa kanyang mga kahinaan, upang ang kapangyarihan ni Kristo ay magtabernakulo sa kanya. Ang biyaya ang panustos, at ang kapangyarihan ang kalakasan, ang kakayahan, ng biyaya. Ang dalawang ito ay ang nabuhay na muling Kristo, na Siya ngayong Espiritung nagbibigay-buhay na nananahan sa atin (I Cor. 15:45; Gal. 2:20) para sa ating katamasahan."
+        },
+        {
+            "id": "9-4",
+            "text": "Gr. episkenoo , isang tambalang pandiwa na binubuo ng epi at skenoo . Ang skenoo , nangangahulugang manahan sa isang tolda, ay ginamit sa Juan 1:14 at Apoc. 21:3. Ang episkenoo rito ay nangangahulugang magtayo ng isang tolda o tirahan sa ibabaw ng isang bagay. Ito ay naglalarawan kung papaanong ang kapangyarihan ni Kristo, samakatuwid ay si Kristo Mismo, ay nananahan sa ibabaw natin bilang isang toldang inilatag sa ibabaw natin, nilililiman tayo sa ating mga kahinaan."
+        },
+        {
+            "id": "10-1",
+            "text": "O, nasisiyahan, katulad ng nasa Mat. 3:17."
+        },
+        {
+            "id": "10-2",
+            "text": "O, di-wastong pakikitungo, mga pagmamaltrato."
+        },
+        {
+            "id": "10-3",
+            "text": "O, mga kagipitan, yaon ay, mga madaliang pangangailangan na nakagigipit nang husto. Tingnan ang tala 26-2 sa I Corinto 7."
+        },
+        {
+            "id": "10-4",
+            "text": "Lit. kakitiran ng isang kinalalagyan, kaya, mga mahirap na kalagayan, mga suliranin, mga kahirapan."
+        },
+        {
+            "id": "10-5",
+            "text": "Sa loob ng aking lumang tao, ako ay mahina; subali’t sa ilalim ng paglililim ni Kristo, ako ay makapangyarihan."
+        },
+        {
+            "id": "11-1",
+            "text": "Tingnan ang tala 5-1 sa kap. 11."
+        },
+        {
+            "id": "12-1",
+            "text": "Tumutukoy sa mga nagpapatotoong himala na nagkakaloob ng mga kredensiyal ng pagkaapostol ni Pablo."
+        },
+        {
+            "id": "12-2",
+            "text": "Tumutukoy sa mga nagpapatotoong himala."
+        },
+        {
+            "id": "12-3",
+            "text": "Tumutukoy sa mga nakagugulat at mga nakapupukaw na himala."
+        },
+        {
+            "id": "12-4",
+            "text": "Tumutukoy sa mga himala na nagpapatunay ng kapangyarihan ng Diyos."
+        },
+        {
+            "id": "13-1",
+            "text": "O, ikinahina."
+        },
+        {
+            "id": "13-2",
+            "text": "Isang patuyang pagpapahayag."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang gugulin kung ano ang mayroon siya, tumutukoy sa kanyang mga materyal na kayamanan."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang gugulin kung ano siya, tumutukoy sa kanyang katauhan."
+        },
+        {
+            "id": "16-1",
+            "text": "Yaon ay, hayaan nang lumipas ang naunang bagay."
+        },
+        {
+            "id": "16-2",
+            "text": "Ito ang inaakusa ng ilang mga taga-Corinto laban sa apostol. Sinabi nila na siya ay tuso sa paggawa ng pakinabang, na pinagtatakpan niya ang kasiraan niya sa pamamagitan ng pagsugo kay Tito upang tanggapin ang mga nalikom para sa mahihirap na banal."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang ating naisilang na muling espiritu na pinanahanan ng Espiritu Santo, na namamahala, namumuno, nagsasaayos, nagreregula, at nangunguna sa atin sa ating paglakad bilang Kristiyano (Roma 8:4). Ang mga apostol ay lumakad sa gayong espiritu."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang “sa loob ni Kristo” ay tumutukoy sa buhay. Sa pamamagitan ng buhay na ito nagsasalita ang mga apostol. Ito ay tumutukoy sa pamamaraan at esensiya ng kanilang pagsasalita. Ang “sa harap ng Diyos” ay tumutukoy sa atmospero, at sa loob ng ganitong atmospero nagsasalita ang mga apostol, tumutukoy sa kinasasakupan ng kanilang pagsasalita."
+        },
+        {
+            "id": "20-1",
+            "text": "O, pagdedebate, pagkakagalit, pag-aaway."
+        },
+        {
+            "id": "20-2",
+            "text": "O, pag-uupasala, pagsasalita ng masama."
+        },
+        {
+            "id": "20-3",
+            "text": "Yaon ay, lihim na paninirang-puri."
+        },
+        {
+            "id": "20-4",
+            "text": "Labis na kayabangan. Sa Griyego, ang “mga kapalaluan” dito ay isang pandiwa na may kaugnayan sa salitang “ipagpalalo” sa I Cor. 4:6."
+        },
+        {
+            "id": "20-5",
+            "text": "O, mga paggagambala."
         }
     ]
 }

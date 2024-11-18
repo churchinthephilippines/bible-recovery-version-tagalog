@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Si",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "nagbangon",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -28,11 +28,11 @@
             "footnotes": [
                 {
                     "word": "kapatid",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -43,11 +43,11 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "kapayapaang",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -58,11 +58,11 @@
             "footnotes": [
                 {
                     "word": "mailigtas",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "kapanahunan,",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -73,7 +73,7 @@
             "footnotes": [
                 {
                     "word": "magpakailanman.",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -84,19 +84,19 @@
             "footnotes": [
                 {
                     "word": "nagsilipat",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "6-4"
                 }
             ],
             "outlines": [
@@ -110,15 +110,15 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "ilang",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "ibahin",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -129,7 +129,7 @@
             "footnotes": [
                 {
                     "word": "pakasumpain",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -140,11 +140,11 @@
             "footnotes": [
                 {
                     "word": "una,",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pakasumpain",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -155,7 +155,7 @@
             "footnotes": [
                 {
                     "word": "hinihikayat",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -172,11 +172,11 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "pahayag",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -187,7 +187,7 @@
             "footnotes": [
                 {
                     "word": "Hudaismo,",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -198,11 +198,11 @@
             "footnotes": [
                 {
                     "word": "masikap",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "tradisyon",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -213,23 +213,23 @@
             "footnotes": [
                 {
                     "word": "ikinalugod",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "nagbukod",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "buhat",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "tawagin",
-                    "note": ""
+                    "id": "15-4"
                 },
                 {
                     "word": "biyaya,",
-                    "note": ""
+                    "id": "15-5"
                 }
             ],
             "outlines": null
@@ -240,27 +240,27 @@
             "footnotes": [
                 {
                     "word": "ihayag",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "Hentil,",
-                    "note": ""
+                    "id": "16-5"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "16-6"
                 }
             ],
             "outlines": null
@@ -271,7 +271,7 @@
             "footnotes": [
                 {
                     "word": "Arabia,",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -282,7 +282,7 @@
             "footnotes": [
                 {
                     "word": "dalawin",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -293,7 +293,7 @@
             "footnotes": [
                 {
                     "word": "maliban",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -310,7 +310,7 @@
             "footnotes": [
                 {
                     "word": "Siria",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -321,7 +321,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -332,11 +332,11 @@
             "footnotes": [
                 {
                     "word": "lamang",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -346,6 +346,184 @@
             "text": "At kanilang niluwalhati ang Diyos sa akin.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang apat na aklat, ang Galacia, ang Efeso, ang Filipos, at ang Colosas, ay isang grupo na bumubuo sa puso ng Bagong Tipang dibinong pahayag. Ang pangunahing paksa ng apat na aklat na ito ay si Kristo at ang ekklesia. Ipinahahayag ng Galacia na si Kristo ay laban sa relihiyon at sa kautusan nito; ipinahahayag ng Efeso na ang ekklesia ay ang Katawan ni Kristo; tinatalakay ng Filipos ang tungkol sa pagdaranas at pamumuhay kay Kristo sa ating pang-araw-araw na pamumuhay; at ipinakikita ng Colosas na ang nagpapaloob-ng-lahat at ang mahaba’t malawak na walang limitasyong Kristo ay ang Ulo ng Katawan."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang layunin ng aklat na ito ay ang ipaalam sa mga tumatanggap nito na ang ebanghelyong ipinangangaral ni Apostol Pablo ay hindi nagmula sa pagtuturo ng tao (bb. 11-12) kundi nagmula sa pahayag ng Diyos. Kaya, sa pambungad nito, binigyang-diin ni Pablo na siya ay naging apostol, hindi mula sa mga tao ni sa pamamagitan man ng tao, kundi sa pamamagitan ni Kristo at ng Diyos."
+        },
+        {
+            "id": "1-3",
+            "text": "Pinakitunguhan ng kautusan ang tao bilang ang lumang nilikha; samantalang ginagawang bagong nilikha ng ebanghelyo ang tao sa loob ng pagkabuhay na muli. Ginawa ng Diyos si Pablo na isang apostol, hindi ayon sa kanyang likas na tao sa loob ng lumang nilikha sa pamamagitan ng kautusan, kundi ayon sa kanyang naisilang-na-muling tao sa loob ng bagong nilikha sa pamamagitan ng pagkabuhay na muli ni Kristo. Kaya, hindi sinasabi rito ni Pablo, ang Diyos Ama na nagbigay ng kautusan sa pamamagitan ni Moises, kundi ang Diyos Ama na nagbangon kay Kristo mula sa mga patay. Ang Bagong Tipang ekonomiya ng Diyos ay hindi sa mga tao sa lumang nilikha, kundi sa mga tao sa bagong nilikha sa pamamagitan ng pagkabuhay na muli ni Kristo."
+        },
+        {
+            "id": "2-1",
+            "text": "Isinasama ng apostol ang lahat ng mga kapatid na kasama niya bilang kapwa niya manunulat upang maging isang patotoo at isang pagpapatibay ng kung ano ang kanyang isinusulat sa Sulat na ito."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang Galacia ay isang lalawigan ng sinaunang Emperyo Romano. Sa pamamagitan ng ministeryo ng pangangaral ni Pablo, ang mga ekklesia ay naitatag sa maraming lunsod ng lalawigang yaon. Kaya, “mga ekklesia” (maramihan) at hindi “ekklesia” (isahan) ang ginamit nang tinukoy ng apostol ang mga ito."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang mga tala 2-1 sa Efeso 1 at 7-2 sa Roma 1."
+        },
+        {
+            "id": "3-2",
+            "text": "Tingnan sa tala 2-2 sa Efeso 1."
+        },
+        {
+            "id": "4-1",
+            "text": "Lit. mabunot, mailabas, maialis."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang isang kapanahunan ay isang bahagi ng sanlibutang sinistema ni Satanas (tingnan sa tala 2-1 sa Efeso 2). Ang kasalukuyang masamang kapanahunan dito, ayon sa ibig sabihin ng aklat na ito, ay tumutukoy sa relihiyosong sanlibutan, ang relihiyosong kurso ng sanlibutan, ang relihiyon ng mga Hudyo. Ito ay pinagtibay ng 6:14-15, kung saan ang pagtutuli ay itinuring na isang bahagi ng sanlibutan—ang relihiyosong sanlibutan na, para kay Apostol Pablo ay ipinako-sa-krus. Dito ay binibigyang-diin ng apostol na ang layunin ni Kristo sa pagbibigay ng Kanyang Sarili para sa ating mga kasalanan ay ang iligtas tayo, ang bunutin tayo, palabas sa relihiyon ng mga Hudyo, na siyang kasalukuyang masamang kapanahunan. Ito ay ang palayain ang mga piniling tao ng Diyos mula sa pamimilanggo ng kautusan (3:23), dalhin sila palabas sa kulungan ng mga tupa (Juan 10:1,3), ayon sa kalooban ng Diyos. Kaya, sa kanyang pambungad na salita, ipinakikita ni Pablo kung ano ang kanyang tatalakayin, yaon ay, ang iligtas ang mga ekklesiang ginulo ng Hudaismo sa pamamagitan ng mga kautusan nito, at ibalik sila sa loob ng biyaya ng ebanghelyo."
+        },
+        {
+            "id": "5-1",
+            "text": "Lit. hanggang sa mga kapanahunan ng mga kapanahunan."
+        },
+        {
+            "id": "6-1",
+            "text": "Ngayon ay dumako na si Pablo sa kanyang paksa. Dahilan sa iniwanan ng mga ekklesia sa Galacia ang biyaya ni Kristo at nanumbalik sa pagtupad ng kautusan, si Pablo ay nagkaroon ng kabigatang isulat ang Sulat na ito."
+        },
+        {
+            "id": "6-2",
+            "text": "O, sa pamamagitan."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang biyaya ni Kristo ay ang Tres-unong Diyos—ang Ama, ang Anak, at ang Espiritu na dumaan sa iba’t ibang hakbangin upang maging ating katamasahan. Ang biyayang ito ay laban sa kautusan ni Moises (Juan 1:17 at tala 1)."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang “ibang ebanghelyo” ay tumutukoy sa pagtupad sa kautusan ng Hudaismo, samantalang ang ebanghelyo ni Pablo ay nasa labas ng Hudaismo. Ito ay hindi lamang kinapapalooban ng lahat ng aytem na nasa apat na Ebanghelyo bagkus nagpapaloob pa ng higit na maraming aytem upang makumpleto ang pahayag ng Bagong Tipang salita ng Diyos (Col. 1:25), katulad ng: si Kristo na nasa loob ng mga mananampalataya ay ang maluwalhating pag-asa (Col. 1:27); ang Espiritu ng Diyos ay isang tatak at garantiya (Efe. 1:13-14); ang Anak ng Diyos ay naihayag sa loob natin (b.16), nahuhubog sa loob natin (4:19); si Kristo ay nananahan sa loob ng ating puso (Efe. 3:17), pumupuspos sa atin upang tayo ay maging ang lahat ng kapuspusan ng Diyos (Efe. 3:19); si Kristo ay ang hiwaga ng Diyos (Col. 2:2); at ang lahat ng kapuspusan ng Pamunuang-Diyos ay may anyo at katawan na nananahan sa Kanyang loob (Col. 2:9). Ang sentro ng ebanghelyo ni Pablo ay: ang Anak ng Diyos, ang pinahirang Isa ng Diyos (Kristo), ay pumasok na sa loob natin at ngayon Siya ang ating buhay (Col. 3:4); sa hinaharap, Siya ang ating magiging kaluwalhatian (Col. 1:27), upang tayo ay maging mga sangkap (Roma 12:5) ng Katawan (Efe. 4:16) ng Ulo na si Kristo (Efe. 4:15)."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang pagtupad sa kautusan kailanman ay hindi magiging isang ebanghelyong magpapalaya sa mga makasalanan sa ilalim ng pagkakatali nito at magdadala sa kanila sa pagtatamasa sa Diyos; ito ay maaari lamang magpanatili sa kanila bilang mga alipin na nasa ilalim ng pagkakatali nito na tumatanggap ng pagsisiil ng pamatok ng kautusan (5:1)."
+        },
+        {
+            "id": "7-2",
+            "text": "Tumutukoy sa mga maka-Hudaismo na itinuturing ni Pablo na mga huwad na kapatid sa 2:4."
+        },
+        {
+            "id": "7-3",
+            "text": "Ginugulo ng mga maka-Hudaismo ang mga ekklesia sa pamamagitan ng pag-iiba, pamimilipit, ng ebanghelyo ni Kristo, sa gayon ay inililigaw ang mga mananampalataya upang bumalik sa kautusan ni Moises."
+        },
+        {
+            "id": "8-1",
+            "text": "Gr. anathema."
+        },
+        {
+            "id": "9-1",
+            "text": "Ito ay tumutukoy sa nauna pang panahon, sa isang naunang pagdalaw ng apostol (cf. 5, 21)."
+        },
+        {
+            "id": "9-2",
+            "text": "Gr. anathema."
+        },
+        {
+            "id": "10-1",
+            "text": "O, hinahangad ang pagsang-ayon ng mga tao o ng Diyos; naghahangad upang mapaglubag ang loob ng tao o ng Diyos, upang bigyang kasiyahan ang tao o ang Diyos."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “hindi…sa tao” rito ay tumutugma sa “hindi mula sa mga tao” sa bersikulo 1."
+        },
+        {
+            "id": "12-2",
+            "text": "Yaon ay, ang pahayag na ibinigay kay Apostol Pablo ng Panginoong Hesu-Kristo ukol sa ebanghelyo."
+        },
+        {
+            "id": "13-1",
+            "text": "Yaon ay, ang relihiyon ng mga Hudyo. Ito ay laban sa Anak ng Diyos at sa ekklesia (bb.13-16)."
+        },
+        {
+            "id": "14-1",
+            "text": "Lit. isang taong masikap sa mga tradisyon ng aking mga ninuno."
+        },
+        {
+            "id": "14-2",
+            "text": "Tumutukoy sa mga tradisyon sa sekta ng mga Fariseo, na kung saan si Pablo ay dating isa sa kanila. Tinawag niya ang kanyang sarili na “isang Fariseo, ang anak ng isang Fariseo” (Gawa 23:6). Ang relihiyon ng mga Hudyo ay hindi lamang binuo ng kautusang bigay ng Diyos at ng mga seremonya nito, bagkus pati na rin ng mga tradisyong gawa ng tao."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang ihayag ang Kanyang Anak sa atin ay isang kaluguran sa Diyos. Si Kristo na Anak ng Diyos, hindi ang kautusan, ang laging kinalulugdan ng Diyos Ama (Mat. 3:17; 12:18; 17:5)."
+        },
+        {
+            "id": "15-2",
+            "text": "Yaon ay, nagtalaga o nagtangi para sa isang layunin."
+        },
+        {
+            "id": "15-3",
+            "text": "Yaon ay, bago pa siya ipinanganak."
+        },
+        {
+            "id": "15-4",
+            "text": "Matapos siyang maipanganak, sa panahon nang siya ay nagsisi at sumampalataya sa Panginoon."
+        },
+        {
+            "id": "15-5",
+            "text": "Si Pablo ay tinawag upang maging isang apostol sa pamamagitan ng biyaya ni Kristo, at hindi sa pamamagitan ng kautusan ni Moises."
+        },
+        {
+            "id": "16-1",
+            "text": "Hindi upang magturo, kundi upang alisin ang tabing, upang magbigay ng isang pangitain, upang ipakita."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang Anak ng Diyos bilang ang pagsasakatawan at kahayagan ng Diyos Ama (Juan 1:18; 14:9-11; Heb. 1:3) ay buhay sa atin (Juan 10:10; I Juan 5:12; Col. 3:4). Ang ninanais ng puso ng Diyos ay ang ihayag ang Kanyang Anak sa loob natin upang makilala natin Siya, matanggap Siya bilang ating buhay (Juan 17:3; 3:16), at maging mga anak ng Diyos (Juan 1:12; Gal. 4:5-6). Bilang ang Anak ng Diyos na buháy (Mat. 16:16), Siya ay lubhang nakahihigit sa Hudaismo at sa mga tradisyon nito (bb.13-14). Ginayuma ng mga maka-Hudaismo ang mga taga-Galacia upang ang mga ordinansa ng mga kautusan ay kanilang ituring na higit pa sa Anak ng Diyos na buháy. Kaya, ang apostol sa simula ng Sulat na ito ay nagpatotoo na siya ay dating lubusan at malalim na nagkaroon ng kaugnayan at lubhang sumulong sa loob ng Hudaismo. Gayunpaman, iniligtas siya ng Diyos sa pamamagitan ng paghahayag ng Kanyang Anak sa loob niya mula sa masistemang sanlibutan na masama sa mga mata ng Diyos. Sa kanyang karanasan, natanto niya na hindi maihahambing ang Anak ng Diyos na buháy sa Hudaismo kasama ang mga tradisyon nito na galing sa kanyang mga ninuno."
+        },
+        {
+            "id": "16-3",
+            "text": "Ang paghahayag ng Diyos ng Kanyang Anak sa atin ay nasa loob natin, hindi sa panlabas kundi sa panloob; hindi sa pamamagitan ng isang panlabas na pangitain kundi sa pamamagitan ng isang panloob na pagkakita. Ito ay hindi isang obhektibong pahayag kundi isang subhektibong pahayag. Ginawa ng Diyos si Apostol Pablo na isang ministro ni Kristo sa pamamagitan ng pagbubukod sa kanya, pagtawag sa kanya (b.15), at paghahayag sa loob niya ng Anak ng Diyos."
+        },
+        {
+            "id": "16-4",
+            "text": "Si Apostol Pablo ay hindi nangaral ng kautusan kundi ng Kristong Anak ng Diyos, hindi lamang mga doktrinang tungkol sa Kanya bagkus maging ang kanyang buháy na Persona."
+        },
+        {
+            "id": "16-5",
+            "text": "Tumutukoy sa mga paganong Hentil."
+        },
+        {
+            "id": "16-6",
+            "text": "Ito ay nagpapatibay na si Apostol Pablo ay hindi mula sa tao tumanggap ng ebanghelyo (b.12)."
+        },
+        {
+            "id": "17-1",
+            "text": "Mahirap malaman kung saan sa Arabia nagtungo si Pablo pagkatapos ng kanyang pagsisisi at pagsampalataya at kung gaano siya katagal nanirahan doon. Gayunpaman, maaaring ang lugar na yaon ay nahihiwalay sa mga Kristiyano, at ang panahon ng paglagi niya roon ay hindi rin maikli. Ang layunin niya sa pagsasabi nito ay upang patunayan na kanyang tinanggap ang ebanghelyo hindi mula sa tao (b.12). Nang siya ay nasa Arabia, maaaring nakatanggap siya ng ilang pahayag tungkol sa ebanghelyo nang tuwiran mula sa Panginoon."
+        },
+        {
+            "id": "18-1",
+            "text": "Sa Griyego, ang “dalawin” ay may kahulugang “ang makilala ang isa’t isa.”"
+        },
+        {
+            "id": "19-1",
+            "text": "Ito ay tumutukoy na si Santiago, ang kapatid ng Panginoon, at si Cefas (b.18) na si Pedro, ang mga nangunguna sa mga apostol noong mga panahong yaon."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang Arabia (b.17), Siria, at Cilicia ay pawang mga lupain ng mga Hentil. Sa pagbanggit ng kanyang paglalakbay sa mga lugar na ito, si Pablo ay nagpatotoo na ang pahayag na natanggap niya tungkol sa ebanghelyo ay hindi buhat sa mga tao, o sa mga Kristiyano, na karamihan noong mga panahong yaon ay nasa Judea (b.22)."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang pagsasabi nito ay ang pagpapatibay rin sa punto na hindi tinanggap ni Pablo ang ebanghelyo buhat sa kaninumang mananampalataya kay Kristo na nauna sa kanya."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang mga ekklesia, kasama ang lahat ng mga mananampalataya kay Kristo sa Judea, ay nakarinig lamang ng balita ukol sa pagsisisi at pagsampalataya ni Pablo at kanilang niluwalhati ang Diyos sa kanya. Wala silang kinalaman sa pagtanggap niya ng pahayag tungkol sa ebanghelyo."
+        },
+        {
+            "id": "23-2",
+            "text": "Ang pananampalataya rito at sa lahat ng mga bersikulong masusumpungan sa reperensiya 23b (tingnan sa gilid ng pahinang ito) ay nagpapahiwatig ng ating pagsampalataya kay Kristo, tinatanggap ang Kanyang Persona at ang Kanyang gawain ng pagtutubos bilang layon ng ating pananampalataya. Ito, bilang kapalit ng kautusan, na siyang ginamit ng Diyos sa pakikitungo sa mga tao sa Lumang Tipan, ang nagiging prinsipyo ng Diyos sa pakikitungo sa mga tao sa Bagong Tipan. Ang pananampalatayang ito ang nagsasanhi sa mga mananampalataya kay Kristo na maging iba sa mga nagsisipagtupad ng kautusan. Ito ang pangunahing diin ng aklat na ito."
         }
     ]
 }

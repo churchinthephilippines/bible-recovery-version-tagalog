@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Dahil",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "bilanggo",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -26,15 +26,15 @@
             "footnotes": [
                 {
                     "word": "Kung",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "pagkakatiwala",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -45,7 +45,7 @@
             "footnotes": [
                 {
                     "word": "pahayag",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": [
@@ -58,7 +58,7 @@
             "footnotes": [
                 {
                     "word": "hiwaga",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -69,19 +69,19 @@
             "footnotes": [
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "apostol",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "propeta",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "espiritu.",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -92,15 +92,15 @@
             "footnotes": [
                 {
                     "word": "kasamang",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "kasangkap",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "kabahagi",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -111,15 +111,15 @@
             "footnotes": [
                 {
                     "word": "ministro,",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "kapangyarihan.",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -130,15 +130,15 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "kayamanan",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -149,11 +149,11 @@
             "footnotes": [
                 {
                     "word": "pamamahagi",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "hiwaga",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -164,15 +164,15 @@
             "footnotes": [
                 {
                     "word": "pinuno",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "karunungan",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -183,19 +183,19 @@
             "footnotes": [
                 {
                     "word": "layuning",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "ginawa",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "11-4"
                 }
             ],
             "outlines": null
@@ -206,11 +206,11 @@
             "footnotes": [
                 {
                     "word": "pagpasok",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -227,7 +227,7 @@
             "footnotes": [
                 {
                     "word": "Ama,",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": [
@@ -242,11 +242,11 @@
             "footnotes": [
                 {
                     "word": "pamilya",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "pinangalanan,",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -257,23 +257,23 @@
             "footnotes": [
                 {
                     "word": "kayamanan",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "palakasin",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "kapangyarihan",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "16-5"
                 }
             ],
             "outlines": null
@@ -284,11 +284,11 @@
             "footnotes": [
                 {
                     "word": "puso",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": [
@@ -302,15 +302,15 @@
             "footnotes": [
                 {
                     "word": "matalastas",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "luwang",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": [
@@ -324,7 +324,7 @@
             "footnotes": [
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": [
@@ -337,15 +337,15 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "hinihingi",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "kapangyarihang",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": [
@@ -362,26 +362,264 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "at",
-                    "note": ""
+                    "id": "21-3"
                 },
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "21-4"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "21-5"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa kapitulo 1 hanggang kapitulo 2 ay tinalakay ang ukol sa pahayag ng ekklesia, sa kapitulong ito ay tinatalakay ang pagkakabuo ng ekklesia. Pagkatapos maipakita sa mga kapitulo 1 at 2 ang mga pagpapala ng Diyos sa ekklesia at kung ano ang ekklesia at kung paano ito naibunga, ang apostol ay nagsimula mula sa kapitulo 3, na mamanhik sa mga banal na lumakad ayon sa pahayag ukol sa ekklesia. Upang magkaroon ng praktikal na karanasan ang ekklesia sa pagkakabuo at praktikalidad niya, binanggit ni Pablo na siya ay isang katiwala (b. 2) na nagkamit ng biyaya (b. 2), nagkamit ng pahayag (bb. 3, 5), at naging tagapaghain ng mataas na uri ng ebanghelyo na naghahayag ng mga kayamanan ni Kristo bilang ebanghelyo upang maisilang ang ekklesia."
+        },
+        {
+            "id": "1-2",
+            "text": "Itinuring ni Apostol Pablo ang kanyang sarili na bilanggo ni Kristo. Sa wari, siya ay nakakulong sa bilangguan; sa katunayan siya ay nakabilanggo sa loob ni Kristo. Sa gayong katayuan, sa katayuan ng kanyang aktuwal na pamumuhay, siya ay namanhik sa mga banal. Sa pagpapalaya ng pahayag ukol sa hiwaga ng Diyos hinggil sa ekklesia sa mga kapitulo 1 at 2, itinuring ni Pablo ang kanyang katayuan bilang apostol ni Kristo sa pamamagitan ng kalooban ng Diyos. Ang katayuang yaon ang awtoridad ng kanyang pahayag hinggil sa ekklesia. Sa kanyang pamamanhik sa mga banal na lumakad nang karapat-dapat sa pagtawag ng Diyos, ginamit niya ang kanyang katayuan bilang isang bilanggo ni Kristo. Ang kanyang katayuan bilang apostol ni Kristo ang nagpaging-dapat sa kanya upang magpalaya ng pahayag ng Diyos; samantalang ang kanyang katayuan bilang bilanggo ng Panginoon ang nagpahayag ng kanyang paglakad sa loob ng Panginoon, kung saan sa pamamagitan nito ay mahihikayat niya ang mga banal at maipamamanhik sa kanila na lumakad sa loob ng Panginoon katulad ng kanyang ginawa. Kung ating tinatamasa si Kristo bilang ating bilangguan, ito ay katumbas na rin ng paglakad sa loob ng Panginoon alang-alang sa pagbubuo ng ekklesia."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang bersikulong ito hanggang bersikulo 21 ay isang panaklong at ang 4:1 ay isang pagpapatuloy ng 3:1. Sa ganitong nagpapaliwanag at namamanhik na salita, inilahad ng apostol sa mga mananampalatayang Hentil ang kanyang ministeryo para sa kanila, isang ministeryo na kanyang natanggap sa pagiging katiwala sa biyaya sa pamamagitan ng pahayag ng hiwaga ni Kristo. Siya rin ay nanalangin sa panaklong na ito na si Kristo ay maranasan ng ekklesia sa sukdulan."
+        },
+        {
+            "id": "2-2",
+            "text": "Sa Griyego, kapareho ng salitang “ekonomiya” sa bersikulo 9 at 1:10. Sa panig ng Diyos, ang salitang ito ay tumutukoy sa ekonomiya ng Diyos, administrasyon ng Diyos; sa panig ng apostol, ang salitang ito ay tumutukoy sa pagkakatiwala (ginamit din sa 1 Cor. 9:17). Ang pagkakatiwala sa biyaya ay ang ipamahagi ang biyaya ng Diyos sa Kanyang mga hinirang na tao para sa pagbubunga at nagtatayo ng ekklesia. Sa ganitong pagkakatiwala nagmumula ang ministeryo ng apostol, na isang katiwala sa tahanan ng Diyos, inihahain si Kristo bilang biyaya ng Diyos sa sambahayan ng Diyos."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang biyaya ay tumutukoy sa mga kayamanan ni Kristo na ibinigay ng Diyos sa atin sa loob ni Kristo (b. 8), upang ating tamasahin. Ang ministeryo ni Pablo ay ang ipamahagi ang mga kayamanan ni Kristo sa lahat ng mga mananampalataya upang kanilang tamasahin."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang nakakubling layunin ng Diyos ay ang hiwaga, at ang pagpapakita ng hiwagang ito ay ang pahayag. Ang isagawa ang pahayag na ito ay ang ministeryo ng apostol para sa pagbubunga ng ekklesia."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang hiwaga ng Diyos sa Col. 2:2 ay si Kristo; samantalang ang hiwaga ni Kristo rito sa Efe. 3:4 ay ang ekklesia. Ang Diyos ay isang hiwaga, at si Kristo, bilang ang pagsasakatawan ng Diyos upang ihayag Siya, ay ang hiwaga ng Diyos. Si Kristo ay isa ring hiwaga, at ang ekklesia, bilang ang Katawan ni Kristo upang ihayag si Kristo, ay ang hiwaga ni Kristo. Ang hiwagang ito ay ang ekonomiya ng Diyos. Ang ekonomiya ng Diyos ay ang pamamahagi ng Kristo, na Siyang pagsasakatawan ng Diyos, tungo sa loob ng Kanyang mga piniling tao upang maibunga ang isang Katawan nang sa gayon ay maging Kanyang kongkreto at hayag na pagpaparami sa loob ni Kristo upang makamtan Niya ang isang sama-samang pahayagan."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang hiwaga ng Kristong ito ay ang ekklesia. Sa ibang mga henerasyon, ito ay nakakubli. Naihayag lamang ito sa kapanahunan ng Bagong Tipan."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang mga apostol sa Griyego ay nangangahulugang mga isinugo. Tumanggap ang mga apostol ng pagsugo mula kay Kristo, naging kinatawan ng pag-aatas na naisakatuparan ni Kristo sa Kanyang Bagong Tipang ekonomiya. Ang mga propeta ay ang mga nagsasalita para sa Diyos. Hindi nila pangunahing gawain ang hulaan ang mga bagay na mangyayari, kundi, ang tagsalita para sa Diyos, at salitain ang Diyos sa bagay na pagpapahayag ng walang hanggang ekonomiya ng Diyos."
+        },
+        {
+            "id": "5-3",
+            "text": "Ito ay tumutukoy sa pantaong espiritu ng mga apostol at ng mga propeta, isang espiritu na naisilang na muli at pinananahanan ng Espiritu Santo ng Diyos. Ito ay maaaring ituring na pinaghalong espiritu, ang pantaong espiritu na nakahalo sa Espiritu ng Diyos. Ang gayong pinaghalong espiritu ay ang kaparaanan kung papaanong ang Bagong Tipang pahayag hinggil kay Kristo at sa ekklesia ay pahayag sa mga apostol at mga propeta. Kailangan natin ang gayunding espiritu upang makita ang isang gayong pahayag."
+        },
+        {
+            "id": "6-1",
+            "text": "Sa Bagong Tipang ekonomiya ng Diyos, ang mga Hentil na hinirang, tinubos, at isinilang na muli ay kasama ng mga mananampalatayang Hudyo na magiging tagapagmana ng Diyos, minamana ang Diyos."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang mga naligtas na Hentil ay mga kasangkap ng mga naligtas na Hudyo upang maging ang isang Katawan ni Kristo para sa Kanyang iisang kahayagan."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang mga mananampalatayang Hentil ay mga kabahagi ng mga mananampalatayang Hudyo sa pangako ng Diyos na ibinigay sa Lumang Tipan hinggil sa lahat ng pagpapala ng Bagong Tipang ekonomiya ng Diyos. Ang mga kasamang tagapagmana ay may kaugnayan sa pagpapala ng sambahayan ng Diyos; ang mga kasangkap ng Katawan ay may kaugnayan sa pagpapala ng katawan ni Kristo; at ang mga kabahagi sa pangako ay may kaugnayan sa pagpapala ng pangako ng Diyos, katulad ng Gen. 3:15; 12:3; 22:18; 28:14; Isa. 9:6, atbp. Kapwa ang pagpapala ng sambahayan ng Diyos at ang pagpapala ng Katawan ni Kristo ay partikular; samantalang ang pagpapala ng pangako ng Diyos ay pangkalahatan, nagpapaloob ng lahat."
+        },
+        {
+            "id": "7-1",
+            "text": "Gr. diakono . Ang isang ministro ay isang tagapaghain o isang tagapaglingkod. Ang isang ministro ng ebanghelyo ay naghahain ng ebanghelyo sa mga tao."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang biyaya ng Diyos ay ang Diyos Mismo, lalung-lalo na bilang buhay, na nababahagi at natatamasa natin; samantalang ang kaloob ng biyaya ay ang abilidad at pangsyon na naibunga mula sa pagtatamasa sa biyaya ng Diyos. Kaya, ang biyaya ay nagpapahiwatig ng buhay, at ang kaloob ay ang abilidad na nagmumula sa buhay."
+        },
+        {
+            "id": "7-3",
+            "text": "Ito ang kapangyarihan ng pagkabuhay na muling buhay (Fil. 3:10) na kumikilos sa loob ng apostol at sa lahat ng mga mananampalataya (1:19; 3:20). Sa pamamagitan ng isang gayong panloob, at kumikilos na kapangyarihan ng buhay, ang kaloob ng biyaya ay ibinigay sa apostol, yaon ay, naibunga sa loob niya."
+        },
+        {
+            "id": "8-1",
+            "text": "Ito ay nagpapakita na lahat ng mga banal ay maaaring makatanggap ng gayong biyaya na ibinigay kay Apostol Pablo. Hinggil sa persona ni Pablo, siya ang pinakamababa sa lahat ng mga apostol (1 Cor. 15:9); subalit hinggil sa kanyang ministeryo, siya ay hindi naman nahuhuli sa mga namumunong apostol (2 Cor. 11:5; 12:11). Gayunpaman, hinggil sa biyaya na kanyang natanggap, siya ay higit na pakabababa sa pinakamababa sa lahat ng mga banal. Ito ay pagpapahiwatig na lahat ng mga banal ay maaaring makatanggap ng biyaya na kanyang natanggap. Ito ay katulad ng lahat ng sangkap ng ating pisikal na katawan, gaano man kaliit ang mga ito ay tumatanggap ng gayunding dugo ng buhay. Subalit ang kapabilidad na nagmumula sa dugo ng buhay ay nagkakaiba sa mga sangkap. Lahat ng sangkap ng Katawan ni Kristo ay maaaring magkaroon ng gayunding biyaya ng buhay katulad ni Pablo, subali’t ang kanilang mga kaloob ay hindi katulad ng kay Pablo."
+        },
+        {
+            "id": "8-2",
+            "text": "Lit. hindi matunton."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang apostol ay nagpahayag, hindi ng mga doktrina, kundi ng mga kayamanan ni Kristo. Ang mga mayamanan ni Kristo ay kung ano si Kristo sa atin, katulad ng liwanag, buhay, katuwiran, kabanalan, at iba pa at kung ano ang Kanyang taglay para sa atin, kung ano ang Kanyang naisagawa, at kung ano ang Kanyang naabot at natanggap. Ang mga kayamanang ito ay di-malirip at di-matunton."
+        },
+        {
+            "id": "9-1",
+            "text": "Gr. oikonomia . Tingnan ang tala 10-1 sa kapitulo 1 at tala 4-3 sa 1 Timoteo 1."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang hiwaga ng Diyos ay ang Kanyang nakukubling layunin. Ang Kanyang layunin ay ang ipamahagi ang Kanyang sarili tungo sa loob ng Kanyang mga hinirang na tao. Kaya, may pamamahagi ng hiwaga ng Diyos. Ang hiwagang ito ay nakakubli mula pa noong mga kapanahunan (yaon ay mula sa kawalang-hanggan) at sa buong itinagal ng mga nagdaang kapanahunan, subalit ngayon ito ay dinala na sa liwanag para sa mga Bagong Tipang mananampalataya."
+        },
+        {
+            "id": "10-1",
+            "text": "Ito ang mga pinuno at mga awtoridad ng mga anghel kabilang kapwa ang mabubuti at masasama. Ang sipi dito ay tumutukoy lalung-lalo na sa mga masasama – kay Satanas at sa kanyang mga anghel."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang ekklesia ay naibunga mula sa mga di-malirip na kayamanan ni Kristo, katulad ng ipinahayag sa bersikulo 8. Kapag nakikibahagi at tinatamasa ng mga hinirang na tao ng Diyos ang mga kayamanan ni Kristo, ang mga kayamanang ito ang nagbubuo sa kanila upang maging ekklesia, at sa pamamagitan ng ekklesia ay naihahayag ang may maraming iba’t-ibang panig na karunungan ng Diyos sa mga pinuno at mga awtoridad ng mga anghel sa mga kalangitan. Kaya, ang ekklesia ay ang matalinong pagtatanghal ng lahat ng kung ano si Kristo."
+        },
+        {
+            "id": "10-3",
+            "text": "Sinasalita ng kapitulo isa ang tungkol sa kapangyarihan ng Diyos (1:19-20), sinasalita ng kapitulo dalawa ang tungkol sa biyaya ng Diyos (2:5-8), at sinasalita naman ng kapitulo tatlo ang tungkol sa karunungan ng Diyos."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang layuning walang hanggan ay ang walang hanggang plano ng Diyos na isinagawa Niya sa lumipas na kawalang-hanggan."
+        },
+        {
+            "id": "11-2",
+            "text": "O, isinakatuparan."
+        },
+        {
+            "id": "11-3",
+            "text": "sa loob ng Kristo, ang ating Panginoong Hesus."
+        },
+        {
+            "id": "11-4",
+            "text": "Tingnan ang tala 10-4 sa kap. 1."
+        },
+        {
+            "id": "12-1",
+            "text": "Kay Kristo ay mayroon tayong pagpasok, isang pasukan, hindi lamang upang makalapit sa Diyos, bagkus upang makabahagi rin sa Kanyang Bagong Tipang ekonomiya. Sa pamamagitan ng pananampalataya kay Kristo, tayo ay may gayong pasukan na may katapangan ng loob sa pagtitiwala na matamasa ang Diyos sa Kanyang walang hanggang plano na siyang ekonomiya Niya."
+        },
+        {
+            "id": "12-2",
+            "text": "Pananampalataya sa Kanya. Lit., ang Kanyang pananampalataya o ang pananampalataya na nasa Kanyang loob. Tingnan ang tala 22-1 sa Roma 3."
+        },
+        {
+            "id": "14-1",
+            "text": "Hindi ang Diyos, kundi ang Ama. Ang “Ama” rito ay ginamit sa isang higit na malawak na pakahulugan, tumutukoy hindi lamang sa Ama ng sambahayan ng pananampalataya (Gal. 6:10) bagkus sa Ama ng bawat pamilya sa mga kalangitan at sa lupa (b. 15). Ang salitang “Ama” dito ay tumutukoy sa Kanyang pagiging “ang pinagmulan.” Siya ay hindi lamang ang pinagmulan nating mga mananampalataya na maisilang na muli, bagkus ang pinagmulan din ng sangkatauhang nilikha ng Diyos (Luc. 3:38), ng Israel na nilikha ng Diyos (Isa. 63:16; 64:8), at ng mga anghel na nilikha ng Diyos (Job 1:6). Ang kaisipan ng mga Hudyo ay yaong ang Diyos ay Ama lamang sa kanila, tangi lamang sa kanila. Kaya ang apostol ay nanalangin sa Ama ng lahat ng mga pamilya sa mga kalangitan at sa lupa, ayon sa kanyang pahayag, hindi katulad ng mga Hudyo, na nananalangin lamang sa Ama ng Israel, ayon sa maka-Hudyong kaisipan."
+        },
+        {
+            "id": "15-1",
+            "text": "O, pagka-ama, ipinahihiwatig ang isang pamilya."
+        },
+        {
+            "id": "15-2",
+            "text": "Sapagkat ang Diyos ang pinagmulan ng pamilya ng mga anghel sa kalangitan at ng lahat ng mga pamilya ng mga nasa lupa, sa Diyos kumukuha ng pangalan ang bawa’t pamilya, katulad ng mga gumagawa ng mga produkto na nagbibigay ng mga pangalan sa kanilang mga produkto at ng mga ama na nagbibigay ng pangalan sa kanilang mga anak."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang kaluwalhatian ay ang kahayagan ng Diyos. Inihahayag ng lahat ng mga pamilya sa mga kalangitan at sa lupa ang Diyos sa ilang sukat. Sa kanilang paghahayag ng Diyos ay may mga “kayamanan ng Kanyang kaluwalhatian.” Ang apostol ay nanalangin na maranasan ng mga mananampalatayang Hentil ang kapuspusan ng Diyos ayon sa gayong mga kayamanan ng Kanyang kaluwalhatian, upang Siya ay maihayag ng mga mananampalatayang Hentil sa pamamagitan ng kanilang pagdaranas sa Kanyang kapuspusan."
+        },
+        {
+            "id": "16-2",
+            "text": "Sa mga bersikulo 16-19, sa panalangin ng apostol ay apat na ulit ginamit ang salitang “na”: na kayo ay palakasin, na si Kristo ay makagawa ng Kanyang tahanan sa inyong mga puso, na kayo ay mapalakas upang matalastas kasama ng lahat ng mga banal ang mga sukat ni Kristo–luwang, haba, taas, lalim at makilala ang pag-ibig ni Kristo na di-masayod ng kaalaman, na kayo ay mangapuspos upang maging ang buong kapuspusan ng Diyos. Ang mga hakbanging ito ay ang mga metabolikong hakbangin ng ating pagtatamasa sa mga kayamanan ni Kristo na siyang nagsasanhi ng pagkabuo ng Katawan ni Kristo."
+        },
+        {
+            "id": "16-3",
+            "text": "Ang panalangin ng apostol sa 1:15-23 ay para matanggap ng mga banal ang pahayag tungkol sa ekklesia. Dito sa mga bersikulo 14-21, ang panalangin ng apostol ay ang karanasan ng mga banal si Kristo para sa ekklesia. Ito ay nangangailangan na mapalakas tayo tungo sa ating espiritu."
+        },
+        {
+            "id": "16-4",
+            "text": "Ang kapangyarihan dito ay tumutukoy sa kapangyarihan ng pagkabuhay na muli na binabanggit sa 1:19-22 na nagsanhi kay Kristo na maibangon mula sa mga patay, nagsanhi sa Kanya na mailuklok sa sangkalangitan sa kanan ng Diyos, nagpasuko ng lahat ng bagay sa ilalim ng Kanyang paa, at nagkaloob sa Kanya na maging Ulo ng lahat ng mga bagay sa ekklesia. Ang kapangyarihang ito ang gumagawa sa loob natin (b. 20); ganitong kapangyarihan ang ginagamit ng Diyos sa pagpapalakas sa atin para sa ekklesia."
+        },
+        {
+            "id": "16-5",
+            "text": "Pinalalakas tayo ng Ama mula sa loob natin sa pamamagitan ng Kanyang nananahanang Espiritu. Ang pananahanang Espiritung ito mula noong araw na tayo ay naisilang na muli ay napasaloob natin at kasama na natin."
+        },
+        {
+            "id": "16-6",
+            "text": "Ang panloob na tao ay ang ating naisilang na muling espiritu na taglay ang buhay ng Diyos bilang buhay nito. Upang ating maranasan si Kristo hanggang sa buong kapuspusan ng Diyos, tayo ay kailangang mapalakas tungo sa ating panloob na tao. Ito ay nagpapahiwatig na kinakailangan nating mapalakas tungo sa ating espiritu, sa pamamagitan ng Espiritu Santo."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang ating puso ay binubuo ng lahat ng bahagi ng ating kaluluwa ang kaisipan, damdamin, at pagpapasiya, at kasama pa ang ating budhi, na siyang pangunahing bahagi ng ating espiritu. Ang mga ito ang mga panloob na bahagi ng ating katauhan. Sa pamamagitan ng pagkasilang-na-muli, si Kristo ay pumasok sa ating espiritu (2 Tim. 4:22). Pagkatapos, dapat natin Siyang hayaang napalaganap ang Kanyang Sarili sa bawa’t bahagi ng ating puso. Yamang ang ating puso ang kalahatan ng lahat ng ating mga panloob na bahagi at ang sentro ng ating panloob na katauhan, kapag si Kristo ay gumagawa ng Kanyang tahanan sa ating puso, ang ating buong panloob na katauhan ay Kanyang kinokontrol at tinutustusan, at ang bawa’t panloob na bahagi ng ating sarili ay pinalalakas ng Kanyang sarili."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang pananampalataya ay ang pagsusubstansiya ng mga bagay na hindi nakikita (Heb. 11:1). Ang pananahanan ni Kristo ay mahiwaga at mahirap unawain. Ito ay ating natatanto hindi sa pamamagitan ng ating mga pisikal na pandama, kundi sa pamamagitan ng pandama ng pananampalataya."
+        },
+        {
+            "id": "17-3",
+            "text": "Tayo ay bukid ng Diyos at gusali ng Diyos (1 Cor. 3:9). Bilang bukid ng Diyos, kinakailangan tayong magkaugat para sa paglago, at bilang gusali ng Diyos, kinakailangan tayong mapagtibay para sa pagtatayo."
+        },
+        {
+            "id": "17-4",
+            "text": "*Gr. themelioo . Lit., nakapagtatag ng pundasyon."
+        },
+        {
+            "id": "17-5",
+            "text": "Upang maranasan si Kristo, kailangan natin ang pananampalataya at pag-ibig (1 Tim. 1:14). Ang pananampalataya ay nagbibigay-kakayahan sa atin upang matanto si Kristo, at ang pag-ibig ay nagbibigay-kakayahan sa atin upang matamasa si Kristo. Kapwa ang pananampalataya at pag-ibig ay hindi sa atin kundi sa Kanya. Ang Kanyang pananampalataya ay nagiging ating pananampalataya upang tayo ay sumampalataya sa Kanya at ang Kanyang pag-ibig ay nagiging ating pag-ibig upang tayo ay umibig sa Kanya. Kapag tayo ay napag-uugat at napagtitibay sa loob ng pag-ibig ni Kristo, yaon ang panahon na tayo ay lumalago sa loob ng Kanyang buhay at tayo ay naitatayo."
+        },
+        {
+            "id": "18-1",
+            "text": "O, maunawaan, matanganang mabuti."
+        },
+        {
+            "id": "18-2",
+            "text": "Upang matalastas ang mga sukat ni Kristo, kinakailangan ang lahat ng mga banal, hindi nang indibidwal kundi nang sama-sama."
+        },
+        {
+            "id": "18-3",
+            "text": "Ang luwang, haba, taas, at lalim ay ang mga sukat ni Kristo. Sa ating karanasan kay Kristo, atin munang kararanasan ang luwang ng kung ano Siya at pagkaraan ay ang haba. Ito ay pahiga. Kapag tayo ay sumulong kay Kristo, ating nararanasan ang taas at lalim ng Kanyang mga kayamanan. Ito ay patayo. Ang ating karanasan kay Kristo ay dapat na may tatlong sukat katulad ng isang kahon; hindi dapat na iisang sukat katulad ng sinulid. Sa ating pagdaranas kay Kristo, kinakailangang may luwang at haba, at taas at lalim, sa gayon ay magkakaroon tayo ng matibay, kongkreto at matatag na karanasan sa Kanya. Ang mga ganitong karanasan ay hindi babagsak at hindi mawawasak."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang pag-ibig ni Kristo ay si Kristo Mismo. Si Kristo ay hindi masayod, ang Kanyang pag-ibig ay gayundin, kaya, di-masayod ng kaalaman. Subali’t sa pamamagitan ng pagdaranas ay makikilala natin ang pag-ibig na ito."
+        },
+        {
+            "id": "19-2",
+            "text": "Kapag si Kristo ay gumawa ng Kanyang tahanan sa ating puso, at kapag tayo ay malakas upang matalastas kasama ng lahat ng mga banal ang mga sukat ni Kristo at upang malaman sa pamamagitan ng karanasan ang Kanyang di-masayod ng kaalaman na pag-ibig, tayo ay mapupunuan upang maging ang buong kapuspusan ng Diyos na siyang ekklesia bilang sama-samang kahayagan ng Diyos upang maisakatuparan ang Kanyang naisin. Ang kapuspusan ng Diyos ay nagpapahiwatig na ang mga kayamanan ng kung ano ang Diyos ay nagiging Kanyang pahayagan. Kapag ang mga kayamanan ay nasa Diyos lamang, ang mga ito ay Kanyang mga kayamanan. Kapag ang mga kayamanan ng Diyos ay nahayag, ang mga ito ay nagiging Kanyang kapuspusan Juan 1:16). Ang kapuspusang ito ng Diyos ay pawang nananahanan sa loob ni Kristo (Col. 1:19; 2:9). Sa pamamagitan ng pananahanan ni Kristo sa atin, Kanyang ipinamamahagi ang kapuspusang ito sa ating loob upang tayo ay mapuspusan at maging ang buong kapuspusan ng Diyos bilang praktikal na kahayagan ng ekklesia. Sa gayon ay nakakamtan ng Diyos sa gitna ng ekklesia ang kaluwalhatian ng Kanyang kahayagan (b. 21)."
+        },
+        {
+            "id": "19-3",
+            "text": "Sa Bagong Tipan, ang kapuspusan ay ang mga kayamanan na nagkaroon ng lubos na kahayagan. Ito ang pagpapaliwanag kung bakit, matapos na mabanggit ni Pablo sa bersikulo 8 ang mga kayamanan ni Kristo, ay muli niyang binanggit ang kapuspusan ni Kristo sa 1:23 at 4:13. Ang mga kayamanan ni Kristo ay ang kung ano si Kristo, ang Kanyang taglay, ang Kanyang naisakatuparan, ang Kanyang naabot at ang lahat ng Kanyang nakamtan. Ang kapuspusan ni Kristo ay ang resulta at pag-aagos ng mga kayamanan ni Kristo matapos nating tamasahin ang mga ito. Nang ang mga kayamanan ni Kristo ay natanggap natin nang metaboliko, tayo ay ang kabuuang kapuspusan ni Kristo – ang Katawan ni Kristo, na Siyang ekklesia, bilang Kanyang kahayagan. Ang kahayagang ito, una, sa 1:23 ay kapuspusan ni Kristo; pagkatapos sa bersikulong ito ay ang kapuspusan ng Diyos, sapagkat ang kapuspusan ni Kristo na siyang pagsasakatawan ng Diyos ay ang kapuspusan ng Tres-unong Diyos."
+        },
+        {
+            "id": "19-4",
+            "text": "Sinasagot at tinutupad ng Ama (b. 14) ang panalangin ng apostol sa pamamagitan ng Espiritu (b. 16), upang si Kristo (ang Anak – b. 17) ay makapanahan sa ating puso. Sa gayon, tayo ay napupunuan tungo sa kapuspusan ng Diyos (ang Tres-unong Diyos). Ito ang kinalabasan ng pamamahagi ng Tres-unong Diyos sa loob ng ating buong katauhan."
+        },
+        {
+            "id": "20-1",
+            "text": "Mula sa bersikulong ito hanggang bersikulo 21, maaaring literal na isaling, Nawa ang kaluwalhatian na nasa loob ng ekklesia at nasa loob ni Kristo Hesus ay suma Kanya na may kapangyarihang kumilos sa loob natin nang lubhang sagana nang higit sa lahat ng ating hinihingi o iniisip sa lahat ng mga panahon magpakailanman. Amen. Ang mga bersikulo 16-19, ay ang panalangin ng apostol. Ginawang isang papuri sa Diyos ng salitang “datapuwa’t” ang mga bersikulo 20-21. Sa panalangin ay humiling ang apostol na palakasin ng Ama ang mga banal ayon sa mga kayamanan ng Kanyang kaluwalhatian. Ito ay pagpapahiwatig na ang kaluwalhatian ng Diyos ay mailalalin sa loob ng mga banal. Sa papu- ring ito sa Diyos, ay kanyang sinasabi, “SumaKanya nawa ang kaluwalhatian” (b. 21). Ito ay pagpapahiwatig na ang kaluwalhatian ng Diyos, na nailalin sa loob ng mga banal ay bumabalik sa Diyos. Unang-una, ang kaluwalhatian ng Diyos ay inilalin sa ating loob, pagkaraan ay bumabalik ito sa Kanya para sa Kanyang ikaluluwalhati. Ang kayamanan ni Isaac ay ibinigay muna kay Rebeca para sa kanyang pagpapaganda, pagkaraan, ang lahat ng kayamanan ay bumalik kay Isaac kasama si Rebeca bilang kanyang kaluwalhatian (Gen. 24:47, 53, 61-67). Ang apostol ay nanalangin na palakasin ng Diyos ang mga banal ayon sa kanyang kaluwalhatian, “datapuwa’t” ang kaluwalhatian ng Diyos, sa katapus-tapusan, pagkatapos mailalin sa kanilang loob, ay bumabalik sa Kanya kasama ang mga napalakas na banal. Ito ang daan upang maluwalhati ang Diyos sa ekklesia."
+        },
+        {
+            "id": "20-2",
+            "text": "Sa estriktong pananalita, ang “hinihingi o iniisip” dito ay para sa mga espirituwal na bagay na may kaugnayan sa ekklesia, hindi para sa mga materyal na bagay. Para sa mga espirituwal na bagay na ito, tayo ay hindi lamang kailangang humingi bagkus mag-isip din. Tayo ay maaaring mag-isip nang higit kaysa humingi. Hindi lamang tinutupad ng Diyos ang ating hinihingi para sa ekklesia, bagkus maging ang ating iniisip hinggil sa ekklesia ay kanyang tinutupad din. Ang Diyos ay may kakayahang gumawa nang lubhang sagana nang higit pa sa ating hinihingi o iniisip para sa ekklesia sa pamamagitan ng kapangyarihang kumikilos sa atin."
+        },
+        {
+            "id": "20-3",
+            "text": "Ang panloob na kapangyarihan, katulad ng binanggit sa 1:19-20, ay ang kapangyarihan ng pagkabuhay na muli ng Diyos, hindi ang Kanyang naglilikhang kapangyarihan. Ang naglilikhang kapangyarihan ng Diyos ang lumikha sa mga materyal na bagay sa ating kapaligiran (Roma 8:28); samantalang ang kapangyarihan ng pagkabuhay na muli ng Diyos ang nagsasakatuparan ng mga espirituwal na bagay para sa ekklesia sa loob ng ating panloob na tao."
+        },
+        {
+            "id": "21-1",
+            "text": "Tingnan ang tala 6-1 sa kapitulo 1. Tayo ay napalalakas tungo sa ating panloob na tao sa pamamagitan ng mga kayamanan ng kaluwalhatian ng Diyos (b. 16). Ang kaluwalhatiang ito na kasama ng Diyos ay pumasok sa atin; pagkatapos na ito ay maisagawa sa loob natin, ito ay makakasama nating pabalik sa Diyos. Sa pamamagitan nito, ang ekklesia, na siyang pansansinukob na unang bunga (Sant. 1:18), ang mangunguna upang ibigay ang kaluwalhatian tungo sa Diyos at ang bawat sambahayan sa langit at sa lupa ay pawang susunod sa ekklesia sa pagbibigay ng kaluwalhatian sa Diyos."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang kaluwalhatian ng Diyos ay inilalin sa loob ng ekklesia, at Siya ay naihayag sa ekklesia. Kaya ang kaluwalhatian sa loob ng ekklesia ay sumasa Diyos, yaon ay, ang Diyos ay naluluwalhati sa ekklesia."
+        },
+        {
+            "id": "21-3",
+            "text": "Ang pagluluwalhati sa Diyos ay hindi lamang sa loob ng ekklesia, bagkus maging sa loob din ni Kristo. Kaya ang salitang “at” ay ginamit dito upang maipakita nang may diin ang puntong ito."
+        },
+        {
+            "id": "21-4",
+            "text": "Sa ekklesia ang saklaw ng pagluluwalhati sa Diyos ay makitid, limitado sa sambahayan ng pananampalataya. Subalit kay Kristo, ang saklaw ay higit na malawak, sapagka’t si Kristo ang ulo ng lahat ng mga sambahayan sa langit at sa lupa (1:22; 3:15). Kaya, ang pagluluwalhati sa Diyos sa loob ni Kristo ay nasa saklaw ng lahat ng mga sambahayan na nilikha ng Diyos hindi lamang sa lupa bagkus maging sa kalangitan. Ito ay tumutugon sa kasunod na salita, “sa lahat ng mga henerasyon ng panahon magpakailanman,” yaon ay, magpasawalang hanggan."
+        },
+        {
+            "id": "21-5",
+            "text": "Ang “lahat ng mga henerasyon ng panahon magpakailanman” ay bumubuo sa kawalang-hanggan. Ang pagluluwalhati sa Diyos sa ekklesia ay pangunahing nasa kapnahunang ito, samantalang ang pagluluwalhati sa Diyos sa loob ni Kristo ay hanggang sa kawalang-hanggan."
         }
     ]
 }

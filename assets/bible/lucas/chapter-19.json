@@ -1,5 +1,5 @@
 {
-    "chapter": 19,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Jerico.",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -20,7 +20,7 @@
             "footnotes": [
                 {
                     "word": "maniningil",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -37,7 +37,7 @@
             "footnotes": [
                 {
                     "word": "sikomoro",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -66,15 +66,15 @@
             "footnotes": [
                 {
                     "word": "kalahati",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "nakakuha",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "makaapat.",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -85,7 +85,7 @@
             "footnotes": [
                 {
                     "word": "rin",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -96,7 +96,7 @@
             "footnotes": [
                 {
                     "word": "hanapin",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -107,11 +107,11 @@
             "footnotes": [
                 {
                     "word": "karugtong",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "lilitaw",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": [
@@ -124,15 +124,15 @@
             "footnotes": [
                 {
                     "word": "maharlikang",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "naparoon",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "magbalik.",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -143,15 +143,15 @@
             "footnotes": [
                 {
                     "word": "sampu",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "mina,",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -162,11 +162,11 @@
             "footnotes": [
                 {
                     "word": "mamamayan,",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Ayaw",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -189,7 +189,7 @@
             "footnotes": [
                 {
                     "word": "magkaroon",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -206,7 +206,7 @@
             "footnotes": [
                 {
                     "word": "limang",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -217,11 +217,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "hinawakan",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -232,7 +232,7 @@
             "footnotes": [
                 {
                     "word": "mahigpit",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -243,7 +243,7 @@
             "footnotes": [
                 {
                     "word": "Alam",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -254,11 +254,11 @@
             "footnotes": [
                 {
                     "word": "Kung",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "bangko,",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -287,7 +287,7 @@
             "footnotes": [
                 {
                     "word": "patayin",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -298,7 +298,7 @@
             "footnotes": [
                 {
                     "word": "umakyat",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": [
@@ -313,7 +313,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -330,7 +330,7 @@
             "footnotes": [
                 {
                     "word": "ito,",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -365,7 +365,7 @@
             "footnotes": [
                 {
                     "word": "inilalatag",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -408,7 +408,7 @@
             "footnotes": [
                 {
                     "word": "kapayapaan!",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -425,11 +425,11 @@
             "footnotes": [
                 {
                     "word": "papatagin",
-                    "note": ""
+                    "id": "44-1"
                 },
                 {
                     "word": "pagdalaw",
-                    "note": ""
+                    "id": "44-2"
                 }
             ],
             "outlines": null
@@ -459,6 +459,136 @@
             "text": "At wala silang masumpungang bagay na magagawa, sapagka’t ang lahat ng tao ay umaali-aligid sa Kanya, na nakikinig.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 30-3 sa kap. 10"
+        },
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 46-2 sa Mat. 5."
+        },
+        {
+            "id": "4-1",
+            "text": "O, igos-morales. Ang mga dahon nito ay katulad ng yaong sa morales, at ang bunga nito ay katulad ng yaong sa puno ng igos."
+        },
+        {
+            "id": "8-1",
+            "text": "Sa sandaling tanggapin ng isang makasalanan ang Tagapagligtas, ang bunga ng kanyang dinamikong kaligtasan ay yaong tinutuos niya ang mga materyal na ari-arian at ang paglilinis ang kanyang dating makasalanang buhay."
+        },
+        {
+            "id": "8-2",
+            "text": "Katulad ng salitang Griyego na nasa 3:14. Ito ay isang kainamang paraan ng pagsasabi ng “pangingikil.” Ang mga maniningil ng buwis ay nagpapatong ng mataas na halaga sa ari-arian o kita, o nagtataas ng buwis ng yaong mga hindi kayang magbayad, at kung gayon ay gumagawa ng labis na pagtutubo."
+        },
+        {
+            "id": "8-3 Ito ay ayon sa mga kahilingan ng kautusan para sa pagpapanumbalik (Exo. 22:1; 2 Sam. 12:6).",
+            "text": "Ito ay ayon sa mga kahilingan ng kautusan para sa pagpapanumbalik (Exo. 22:1; 2 Sam. 12:6)."
+        },
+        {
+            "id": "9-1",
+            "text": "Gaano man kasama ang maniningil ng buwis na ito, siya ay anak pa din ni Abraham, isang piniling tagapagmana ng ipinangakong pamana ng Diyos (Gal. 3:7, 29)."
+        },
+        {
+            "id": "10-1",
+            "text": "Tinutukoy nito na ang pagdating ng Tagapagligtas sa Jerico ay hindi aksidente kundi sinadya; dumating Siya upang hanapin ang bukod-tanging nawawalang makasalanang ito, tulad ng kung paano Niya hinanap ang makasalanang babae sa Samaria (Juan 4:4)."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang karugtong na talinghagang ito sa pang-espirituwal ay ang pagpapatuloy ng naunang pangyayari ng kaligtasan. Nagpapakita ito kung paanong ang mga nangaligtas ay dapat maglingkod sa Panginoon upang mamana nila ang darating na kaharian."
+        },
+        {
+            "id": "11-2",
+            "text": "O, maihayag, maipakita."
+        },
+        {
+            "id": "12-1",
+            "text": "Sumasagisag sa Tagapagligtas, na may pinakamataas na katayuan — ang Diyos-tao, may maka-Diyos na kamahalan at pantaong karangalan"
+        },
+        {
+            "id": "12-2",
+            "text": "Sumasagisag sa pagtungo ng Tagapagligtas sa langit pagkatapos ng Kanyang kamatayan at pagkabuhay-na-muli (24:51; 1 Ped. 3:22)."
+        },
+        {
+            "id": "12-3",
+            "text": "Sumasagisag sa pagbabalik ng Tagapagligtas kasama ang kaharian (Dan. 7:13-14; Apoc. 11:15; 2 Tim. 4:1)."
+        },
+        {
+            "id": "13-1",
+            "text": "Sa talinghaga sa Mat. 25:14-30, ang mga alipin ay binigyan ng iba’t ibang bilang ng mga talento ayon sa kakayahan ng bawat isa; dito ang talinghaga ay nagbibigay-diin sa pangkalahatang bahagi na ibinibigay nang pantay-pantay sa bawat alipin batay sa kanilang pangkalahatang kaligtasan. Gayon pa man, ang punto ng dalawang talinghaga ay pareho: ang katapatan ng mga alipin ang magpapasiya ng kanilang bahagi bilang kanilang gantimpala sa darating na kaharian."
+        },
+        {
+            "id": "13-2",
+            "text": "Isang kabuuang halaga ng salapi na katumbas ng isang daang drachmas, o isang daang araw na suweldo."
+        },
+        {
+            "id": "13-3",
+            "text": "Lit., habang ako ay parating."
+        },
+        {
+            "id": "14-1",
+            "text": "Sumasagisag sa mga di-nananampalatayang Hudyo."
+        },
+        {
+            "id": "14-2",
+            "text": "Ito ay natupad sa Gawa 2-9."
+        },
+        {
+            "id": "17-1",
+            "text": "Sumasagisag sa paghahari ng mga mandaraig sa mga bansa (Apoc. 2:26; 20:4, 6)."
+        },
+        {
+            "id": "19-1",
+            "text": "Nagpapakita na ang paghahari ng mga nagsipanaig na banal sa darating na kaharian bilang isang gantimpala ay magkakaiba sa sukat."
+        },
+        {
+            "id": "20-1",
+            "text": "Para sa bb. 20-26, tingnan ang mga tala sa Mat. 25:24-29."
+        },
+        {
+            "id": "20-2",
+            "text": "Nangangahulugan na iniingatan ng mga di-tapat na mananampalataya ang kanilang kaligtasan sa isang pabayang paraan sa halip na gamitin ito sa mapakikinabangang paraan. Ang itago ang kaligtasan ng Panginoon ay ang hindi paggamit nito. Ang gayong katamaran tungo sa Panginoon ay magsasanhi sa mga di-tapat na mananampalataya na makondena at makatanggap ng kalugihan."
+        },
+        {
+            "id": "21-1",
+            "text": "Sapilitang humihingi; hindi kasintindi ng matigas sa Mat. 25:24 (tingnan ang tala 3 roon)."
+        },
+        {
+            "id": "22-1",
+            "text": "O, kokondenahin."
+        },
+        {
+            "id": "23-1",
+            "text": "Lit., sa hapag (ng tagapagpalit-ng-salapi)."
+        },
+        {
+            "id": "27-1",
+            "text": "Nangangahulugan na ang lahat ng di-nanampalatayang Hudyong nagtatakwil sa Tagapagligtas ay mapapahamak."
+        },
+        {
+            "id": "28-1",
+            "text": "Tinapos ng Tagapagligtas ang Kanyang ministeryo sa sinundang bersikulo. Ngayon dumating na ang panahon na kinailangan Niyang umakyat sa Herusalem upang ibigay ang Kanyang Sarili sa kamatayang itinakda ng Diyos para sa pagsasakatuparan ng walang-hanggang pagtutubos ng Diyos (tingnan ang mga tala 1-1 at 33-1 sa Marcos 10). Bagama’t alam Niyang naghahanap ng pagkakataon ang mga pinuno ng mga Hudyo na patayin Siya, matapang pa rin Siyang tumuloy."
+        },
+        {
+            "id": "29-1",
+            "text": "Para sa bb. 29-38, tingnan ang mga tala sa Mat. 21:1-9."
+        },
+        {
+            "id": "36-1",
+            "text": "Lit., inilalatag nila sa ilalim."
+        },
+        {
+            "id": "42-1",
+            "text": "Ito ay mangyayari sa pagpapanumbalik ng Israel (Gawa 1:6) pagkatapos ng pagbabalik ng Tagapagligtas."
+        },
+        {
+            "id": "44-1",
+            "text": "Ito ay nangyari noong A.D. 70 sa pamamagitan ng Romanong prinsipe na si Tito kasama ang kanyang hukbo."
+        },
+        {
+            "id": "44-2",
+            "text": "Ang unang pagparito ng Tagapagligtas, nang dalawin Niya sila sa loob ng biyaya sa taon ng pagtanggap ng Panginoon (2:10-14; 4:18-22). Ang hindi matanggap ang pagbisita ng biyaya ng Panginoon at sa gayon ay iwinawala ang pagkakataong magsisi at maligtas ay magsasanhi sa isang tao na mahatulan at magsisisi nang magpakailanman."
         }
     ]
 }

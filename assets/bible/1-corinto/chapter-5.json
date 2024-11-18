@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "pakikiapid,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "asawa",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -25,7 +25,7 @@
             "footnotes": [
                 {
                     "word": "maalis",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -36,7 +36,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -47,15 +47,15 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "aking",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "taglay",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -66,23 +66,23 @@
             "footnotes": [
                 {
                     "word": "Upang",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "ikawawasak",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "laman,",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "upang",
-                    "note": ""
+                    "id": "5-4"
                 },
                 {
                     "word": "kaarawan",
-                    "note": ""
+                    "id": "5-5"
                 }
             ],
             "outlines": null
@@ -93,15 +93,15 @@
             "footnotes": [
                 {
                     "word": "pagmamapuri.",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "kaunting",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "lebadura",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": [
@@ -114,11 +114,11 @@
             "footnotes": [
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "Paskua",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -129,11 +129,11 @@
             "footnotes": [
                 {
                     "word": "kapistahan,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "katapatan",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -144,7 +144,7 @@
             "footnotes": [
                 {
                     "word": "makisama",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": [
@@ -163,7 +163,7 @@
             "footnotes": [
                 {
                     "word": "mapakiapid,",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -174,11 +174,11 @@
             "footnotes": [
                 {
                     "word": "nangasalabas?",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "nangasaloob?",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -189,10 +189,104 @@
             "footnotes": [
                 {
                     "word": "Alisin",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang unang suliranin, na tinuos sa mga kapitulo 1 hanggang 4, ay ang bagay na ukol sa pagkakabaha-bahagi na pangunahing may kaugnayan sa likas na buhay ng kaluluwa. Ang ikalawang suliranin, na tinuos sa kapitulo 5, ang ikalawang bahagi ng aklat, ay ang kasalanang pakikiapid, na may kaugnayan sa pita ng laman. Ang suliraning ito na kinapapalooban ng pakikiapid sa asawa ng kanyang ama, kung moralidad ang pag-uusapan, ay higit na mahalay kaysa sa nauna. Ang nauna ay tumutukoy sa pagtatalo na nanggagaling sa kapalaluan. Ang huli ay isang mahalay na kasalanan na nanggagaling sa pita."
+        },
+        {
+            "id": "1-2",
+            "text": "Ito malamang ay kanyang madrasta."
+        },
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 13-1 ."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang apostol, bilang isang espirituwal na tao, ay kumikilos sa kanyang espiritu, na salungat sa mga taga-Corinto na kumikilos sa kaluluwa o sa laman. Bagama’t siya ay wala roon sa kanila sa katawan, siya ay naroroon din sa kanila sa espiritu, ginagamit ang kanyang espiritu upang hatulan ang masamang tao sa gitna nila."
+        },
+        {
+            "id": "4-1",
+            "text": "Kapwa ang “sa pangalan ng Panginoon” at “taglay ang kapangyarihan ng ating Panginoong Hesus” ay tumutukoy sa “ibigay” sa bersikulo 5. Ginagamit ng apostol, sa kanyang espiritu, ang makapangyarihang pangalan ng Panginoon at sinasanay ang Kanyang kapangyarihan upang ibigay ang masamang tao kay Satanas."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang espiritu ng apostol ay napalakas sa isang hantungan na ito ay dumalo sa pagpupulong ng mga mananampalatayang taga-Corinto. Ang kanyang espiritu ay nakipagtipon sa kanila upang isagawa ang kanyang paghatol sa masamang tao."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang ibigay ang masamang tao kay Satanas ay para sa pagdidisiplina."
+        },
+        {
+            "id": "5-2",
+            "text": "Ito ay pangunahing tumutukoy sa pagdurusa dahil sa isang karamdaman (II Cor. 12:7; Luc. 13:16)."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang laman dito ay tumutukoy sa mapagpitang katawan, na dapat sirain."
+        },
+        {
+            "id": "5-4",
+            "text": "O, nang sa gayon. Ang makasalanang isa sa gitna ng mga mananampalatayang taga-Corinto ay isang kapatid na lalake na naligtas nang minsan hanggang sa walang hanggan (Juan 10:28-29). Siya ay hindi na kailanman mapapahamak o mabubulid sa dagat-dagatang apoy dahil sa anumang kasalanan. Gayunpaman, dahil sa kanyang pagkamakasalanan, siya ay kailangang madisiplina sa pamamagitan ng pagkasira ng kanyang makasalanang laman, upang ang kanyang espiritu ay maingatan sa kalagayan ng pagiging ligtas sa kaarawan ng Panginoon."
+        },
+        {
+            "id": "5-5",
+            "text": "Tingnan ang tala 13-1 sa kap. 3."
+        },
+        {
+            "id": "6-1",
+            "text": "O, pagmamalaki. Ang mga mananampalatayang taga-Corinto, sa kabila ng mga kaguluhan at mahalay na kasalanan katulad ng pakikiapid ng isang anak sa asawa ng kanyang ama, ay nagmamapuri at nagmamalaki. Ang Sulat ng apostol ay dapat magsanhi sa kanila na magpakumbaba sa pamamagitan ng pagpapakita sa kanila ng mga makasalanang bagay sa gitna nila, nang sa gayon ay maipatanto sa kanila na ang kanilang pagmamapuri ay hindi mabuti."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang kaisipan ng apostol dito ay yaong hindi na kinakailangan pang magkaroon ng ganitong kahalay na kasalanan katulad nang nangyari sa gitna nila; kahit na ang kaunting lebadura, isang maliit na kasalanan, ay magpapaalsa at magpaparumi na sa buong masa, yaon ay, sa buong ekklesia."
+        },
+        {
+            "id": "6-3",
+            "text": "Tingnan ang tala 33-1 sa Mat. 13."
+        },
+        {
+            "id": "7-1",
+            "text": "Lit. bago, bago sa panahon. Tingnan ang tala 10-2 sa Colosas 3. Ang isang bagong masa ay tumutukoy sa ekklesia, na kinabibilangan ng mga mananampalataya sa kanilang bagong kalikasan."
+        },
+        {
+            "id": "7-2",
+            "text": "Ito ay nagpapakita na itinuturing ng apostol ang mga mananampalatayang hinirang ng Diyos, na nagdaos na ng kanilang Paskua, na isinagisag ng yaong nasa Exodo 12. Sa Paskuang ito si Kristo ay hindi lamang ang Kordero ng Paskua, bagkus ang buong Paskua rin. Upang maging ating Paskua, Siya ay isinakripisyo sa krus para sa ating katubusan at pakikipagkasundo sa Diyos. Sa gayon, matatamasa natin Siya bilang isang kapistahan sa harapan ng Diyos. Sa kapistahang ito hindi pinahihintulutang magkaroon ng anumang lebadura. Hindi maaaring pagsamahin ang kasalanan at ang nagtutubos na Kristo."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang kapistahan dito ay tumutukoy sa kapistahan ng tinapay na walang lebadura bilang pagpapatuloy ng Paskua (Exo. 12:15-20). Ito ay tumatagal ng pitong araw, isang panahon ng kakumpletuhan, sumasagisag sa buong panahon ng ating buhay-Kristiyano mula sa araw ng ating pagbabalik-loob hanggang sa araw ng pag-akyat na may masidhing kagalakan. Ito ay isang mahabang kapistahan na dapat nating panatilihin, hindi sa loob ng kasalanan ng ating lumang kalikasan, ang lumang lebadura, kundi sa tinapay na walang lebadura, na siyang ang Kristo ng ating bagong kalikasan bilang ating panustos at katamasahan. Siya lamang ang panustos-buhay ng katapatan at katotohanan, ganap na dalisay, walang halo, at puno ng realidad. Ang kapistahan ay isang panahon para sa pagtatamasa sa handaan. Ang buong buhay-Kristiyano ay dapat maging isang gayong kapistahan, isang pagtatamasa kay Kristo bilang ating handaan at mayamang panustos ng buhay."
+        },
+        {
+            "id": "8-2",
+            "text": "*Gr. ilikrinia; Ing. sincerity; o sinseridad. Gayundin sa II Cor. 1:12; 2:17."
+        },
+        {
+            "id": "9-1",
+            "text": "O, makihalo. Gayundin sa bersikulo 11."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang pagkabanggit sa masamang tao sa bersikulong ito ay hindi tumutukoy sa taong nakagawa ng anumang kasalanan, kundi tumutukoy sa taong namumuhay sa loob ng ganoong kasalanan at hindi nagsisisi at hindi nagbabago. Ang alisin ang ganitong tao ay hindi lamang ang tanggalin ang kasalanan sa gitna ng ekklesia, bagkus ang hatulan at tanggalin ang mga taong nagkakasala upang ang ekklesia ay hindi malebadurahan nang dahil sa kanila."
+        },
+        {
+            "id": "12-1",
+            "text": "Yaon ay, yaong mga nasa labas ng ekklesia."
+        },
+        {
+            "id": "12-2",
+            "text": "Yaon ay, yaong mga nasa loob ng ekklesia."
+        },
+        {
+            "id": "13-1",
+            "text": "Yaon ay, ang ihiwalay siya mula sa pagsasalamuha ng ekklesia, katulad ng inilarawan ng paghihiwalay sa isang ketongin mula sa bayan ng Diyos (Lev. 13:45-46)."
         }
     ]
 }

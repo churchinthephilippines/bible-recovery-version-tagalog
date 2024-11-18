@@ -1,5 +1,5 @@
 {
-    "chapter": 10,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’t",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "kaamuan",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "kahinahunan",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "lubhang",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -41,11 +41,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -56,11 +56,11 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -71,15 +71,15 @@
             "footnotes": [
                 {
                     "word": "pangangatuwiran",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "kaisipan",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -90,11 +90,11 @@
             "footnotes": [
                 {
                     "word": "maghiganti",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "pagtalima.",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -105,7 +105,7 @@
             "footnotes": [
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": [
@@ -118,7 +118,7 @@
             "footnotes": [
                 {
                     "word": "ikatatayo",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -135,11 +135,11 @@
             "footnotes": [
                 {
                     "word": "mahina,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -162,15 +162,15 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "panukat",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -181,7 +181,7 @@
             "footnotes": [
                 {
                     "word": "lumalampas,",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -192,7 +192,7 @@
             "footnotes": [
                 {
                     "word": "dadakilain",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -214,6 +214,88 @@
             "text": "Sapagka’t hindi ang nagmamapuri sa kanyang sarili ang aprubado kundi ang pinupuri ng Panginoon.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “datapuwa’t” dito ay nagpapakita ng isang kaibhan. Sa mga kapitulo 8 at 9, ang apostol ay malugod na nagsalita sa mga minamahal na banal sa Corinto, hinihikayat sila na magkaroon ng pakikipagsalamuha sa bagay ng pagtutustos sa mga nangangailangang banal sa Judea. Kaagad pagkatapos niyaon ay ninais niyang linawin nang higit pa ang kanyang apostolikong awtoridad kaya ipinagsanggalang niya ang kanyang pagkaapostol na may matinding salita at salitang hindi kaaya-aya sa iba. Ito ay dahilan sa malabo at may-ulap na situwasyong sinanhi ng mga huwad na maka-Hudaismong apostol (11:11-15). Ginulo ng mga pagtuturo ng mga huwad na apostol at maging ng kanilang paghuhuwad bilang apostol ang mga mananampalatayang taga-Corinto mula sa mga pangunahing pagtuturo ng mga mapananaligang apostol, lalung-lalo na mula sa wastong pagkakilala sa pagkaapostol ni Pablo."
+        },
+        {
+            "id": "1-2",
+            "text": "Ito ay nagpapakita na ang apostol, na mahigpit na nakaugpong kay Kristo (1:21) at kaisa Niya, ay nabubuhay sa pamamagitan Niya, kumikilos sa loob ng Kanyang mga kagalingan."
+        },
+        {
+            "id": "1-3",
+            "text": "Nangangahulugang malalapitan, mapagkumbaba, at mapagbigay. Tingnan ang mga tala 5-2 sa Filipos 4 at 3-3 sa I Timoteo 3."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang apostol ay may lakas ng loob, may tapang na salitain sa kanyang Sulat ang tunay na situwasyon."
+        },
+        {
+            "id": "3-1",
+            "text": "Bilang tao, ang mga apostol ay nasa laman pa rin; kaya, sila ay lumalakad sa laman. Subali’t sa espirituwal na pakikibaka hinding-hindi sila lumalakad ayon sa laman; sila ay lumalakad ayon sa espiritu (Roma 8:4)."
+        },
+        {
+            "id": "4-1",
+            "text": "Yamang ang espirituwal na pakikibaka ay hindi laban sa laman, kundi laban sa mga espirituwal na kapangyarihan (Efe. 6:12), ang mga sandata ay hindi dapat makalaman kundi espirituwal. Ang mga ito ay makapangyarihan sa paggiba ng mga kuta ng kaaway."
+        },
+        {
+            "id": "4-2",
+            "text": "Yamang sa paningin ng Diyos ay makapangyarihan, may dibinong kapangyarihan, kaya ito ay lubhang makapangyarihan."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang mga pangangatuwiran at mga kaisipan ay nasa isipan at galing sa isipan. Ito ang mga kuta ni Satanas, ang kaaway ng Diyos, sa loob ng isipan ng mga sumusuway sa Diyos. Sa pamamagitan ng espirituwal na pakikibaka, ang mga pangangatuwiran ay dapat maigupo at ang bawa’t kaisipan ay dapat mabihag upang tumalima kay Kristo."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang mga palalong bagay sa loob ng natisod na isipan ng tao laban sa kaalaman ng Diyos. Ang mga ito ay dapat ding maigupo ng mga espirituwal na sandata, upang ang mga ito ay hindi humadlang sa pagkilala ng tao sa Diyos."
+        },
+        {
+            "id": "6-1",
+            "text": "Ito ay isang matapang at matinding salita sa paraan ng paninisi."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang ating pagtalima ay nagdudulot ng isang batayan para sa Panginoon upang tuusin ang pagsuway ng iba."
+        },
+        {
+            "id": "7-1",
+            "text": "Ito ay nagpapakita na ang mapabilang kay Kristo ay isang mahalagang bagay. Ito ay lubhang mahalaga sa buhay at gawain ng Kristiyano."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang apostolikong awtoridad ay hindi para sa paghahari sa mga mananampalataya, tulad ng nasa likas na kaisipan ng tao, kundi para sa pagtatayo sa kanila."
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang tala 3-1 sa I Cor. 2."
+        },
+        {
+            "id": "10-2",
+            "text": "Lit. walang saysay."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang apostol ay matapang, subali’t siya ay hindi matapang nang walang hangganan. Ito ay nagpapakita na siya ay nasa ilalim ng pagtatakda ng Panginoon. Ang kanyang pagmamapuri ay ayon sa sukat ng hangganang ibinahagi sa kanya ng Diyos na sumusukat, ang namumunong Diyos."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang ministeryo ni Pablo sa sanlibutang Hentil, kabilang ang Corinto, ay ayon sa sukat ng Diyos(Efe. 3:1-2,8; Gal. 2:8). Kaya, ang kanyang pagmamapuri ay nasa hangganang ito, hindi walang sukat, tulad ng mga guro ng Hudaismo na walang sukat ang pagmamapuri."
+        },
+        {
+            "id": "13-3",
+            "text": "Lit. panukat na baras, katulad ng panukat ng anluwagi."
+        },
+        {
+            "id": "14-1",
+            "text": "Katulad ng ginagawa ng mga gurong maka-Hudaismo."
+        },
+        {
+            "id": "15-1",
+            "text": "Sa pamamagitan ng pagiging napalaki, naparami. Ang mga apostol ay may pag-asa na sa pamamagitan ng paglago ng pananampalataya ng mga mananampalatayang taga-Corinto, ang kanilang ministeryo ay mapadadakila (sa pakahulugang pagpuri), sa pamamagitan ng pagiging napalaki at naparami nang masagana; subali’t ayon pa rin sa hangganan, sa sukat, na ibinahagi ng Diyos sa kanila."
         }
     ]
 }

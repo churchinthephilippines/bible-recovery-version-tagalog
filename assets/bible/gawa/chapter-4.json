@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,14 +7,17 @@
             "footnotes": [
                 {
                     "word": "kapitan",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Saduceo",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "5. Ang Simula ng Pag-uusig ng mga Relihiyonistang Hudyo\n 4:1-31",
+                "a. Pagdakip at Pagtatanong ng Sanedrin\n bb. 1-7"
+            ]
         },
         {
             "id": "2",
@@ -22,7 +25,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -45,7 +48,7 @@
             "footnotes": [
                 {
                     "word": "nagtipun-",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -56,11 +59,11 @@
             "footnotes": [
                 {
                     "word": "Caifas,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "Juan,",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -71,7 +74,7 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -82,10 +85,12 @@
             "footnotes": [
                 {
                     "word": "puspos",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "b. Ang Patotoo ni Pedro\n bb. 8-12"
+            ]
         },
         {
             "id": "9",
@@ -93,7 +98,7 @@
             "footnotes": [
                 {
                     "word": "gumaling",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -104,15 +109,15 @@
             "footnotes": [
                 {
                     "word": "Nazareno,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "inyong",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -123,15 +128,15 @@
             "footnotes": [
                 {
                     "word": "batong",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "itinakwil",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "batong",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -148,14 +153,16 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "mangmang,",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "c. Ang Pagbabawal ng Sanedrin\n bb. 13-18"
+            ]
         },
         {
             "id": "14",
@@ -169,7 +176,7 @@
             "footnotes": [
                 {
                     "word": "Sanedrin,",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -196,7 +203,9 @@
             "id": "19",
             "text": "Datapuwa’t sina Pedro at Juan ay sumagot at nagsabi sa kanila, Kung tama sa paningin ng Diyos na dinggin kayo kaysa sa Diyos, inyong hatulan;",
             "footnotes": [],
-            "outlines": null
+            "outlines": [
+                "d. Ang Sagot nina Pedro at Juan\n bb. 19-20"
+            ]
         },
         {
             "id": "20",
@@ -208,7 +217,9 @@
             "id": "21",
             "text": "At nang matapos na bantaan pa sila, kanilang pinalaya sila, na hindi nakasumpong ng anumang paraan kung paano nila parurusahan sila dahil sa mga tao,  sapagka’t niluluwalhati nilang lahat ang Diyos dahilan sa nangyari;",
             "footnotes": [],
-            "outlines": null
+            "outlines": [
+                "e. Ang Pagpapalaya sa Kanila ng Sanedrin\n bb. 21-22"
+            ]
         },
         {
             "id": "22",
@@ -222,10 +233,12 @@
             "footnotes": [
                 {
                     "word": "sariling",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "f. Ang Pagpuri at Pananalangin ng Ekklesia\n bb. 23-31"
+            ]
         },
         {
             "id": "24",
@@ -233,7 +246,7 @@
             "footnotes": [
                 {
                     "word": "Panginoon,",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -244,7 +257,7 @@
             "footnotes": [
                 {
                     "word": "nagagalit",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -261,7 +274,7 @@
             "footnotes": [
                 {
                     "word": "Hentil",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -272,7 +285,7 @@
             "footnotes": [
                 {
                     "word": "itinakda",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -295,7 +308,7 @@
             "footnotes": [
                 {
                     "word": "napuspos",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -306,14 +319,17 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "32-2"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "6. Ang Pagpapatuloy ng Buhay-ekklesia\n 4:32 -5:11",
+                "a. Ang Positibong Panig\n 4:32-37"
+            ]
         },
         {
             "id": "33",
@@ -321,11 +337,11 @@
             "footnotes": [
                 {
                     "word": "patotoo",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "33-2"
                 }
             ],
             "outlines": null
@@ -336,11 +352,11 @@
             "footnotes": [
                 {
                     "word": "ipinagbili",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "pinagbilhan",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
@@ -357,7 +373,7 @@
             "footnotes": [
                 {
                     "word": "pagpapalakas-",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -367,6 +383,132 @@
             "text": "Nagmamay-ari ng bukid, na matapos ipagbili ito, ay dinala ang salapi at inilagay sa paanan ng mga apostol.",
             "footnotes": [],
             "outlines": null
-        }   
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Yaon ay, ang kapitan ng mga guwardiya sa templo."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 7-2 sa Mateo 3."
+        },
+        {
+            "id": "2-1",
+            "text": "Sa kapangyarihan ni Hesus, kalakip ang kalikasan at katangian Niya."
+        },
+        {
+            "id": "5-1",
+            "text": "Ito ang pagtitipun-tipon ng mga Hudyong Sanedrin (b. 15). Ang Sanedring ito ay binubuo ng mga pinunong Hudyo na naging pinakamalakas na katunggali ng Panginoong Hesus sa Kanyang ministeryo sa loob ng apat na Ebanghelyo at naghatol sa Kanya sa kamatayan (Mat. 26:59). Ngayon ang Sanedrin ding ito, kasama ang mga bumubuo nito, ang nagsimula ng pag-uusig sa mga apostol at sa kanilang ministeryo sa Mga Gawa (5:21; 6:12; 22:30). Ito ay nagsasaad na ang Hudaismo ay bumagsak na sa kamay ng kaaway ng Diyos, si Satanas na Diyablo, at ginamit niya ang Hudaismo upang hadlangan at tangkaing wasakin ang pagkilos ng Diyos sa Kanyang Bagong Tipang ekonomiya para sa pagsasagawa ng Kanyang walang hanggang layunin, yaon ay, ang dalhin ang Kanyang kaharian sa lupa sa pamamagitan ng pagtatatag at pagtatayo ng mga ekklesia na isinasagawa sa pamamagitan ng pagpapahayag ng ebanghelyo ni Kristo."
+        },
+        {
+            "id": "6-1",
+            "text": "Isang mataas na saserdote (Luc. 3:2)."
+        },
+        {
+            "id": "6-2",
+            "text": "Sina Juan at Alejandro ay maaaring mga kamag-anak ng mataas na saserdote. Sa anumang paraan sila ay maaaring naging mga mataas na pinuno sa mga Hudyo, yamang sila ay pinangalanang kasama ng mga pinuno ng Hudyong Sanedrin (b. 15)."
+        },
+        {
+            "id": "7-1",
+            "text": "Lit. Sa anong uri ng kapangyarihan o sa anong klase ng pangalan…"
+        },
+        {
+            "id": "8-1",
+            "text": "Napuspusan sa panlabas at sa pang-ekonomiya (tingnan ang tala 4-2 sa kap. 2)."
+        },
+        {
+            "id": "9-1",
+            "text": "O, naligtas."
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang tala 6-2 sa kap. 3."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang “inyo” rito ay mariin."
+        },
+        {
+            "id": "10-3",
+            "text": "Tingnan ang tala 24-1 sa kap. 2."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang salitang ito ay sinabi ng Panginoon sa Mat. 21:42 (tingnan ang tala 1 roon), sinipi mula sa Mga Awit 118:22. Inihayag nito ang pagtanggi sa Kanya ng mga pinunong Hudyo at ang pagpaparangal sa Kanya ng Diyos para sa pagtatayo ng Kanyang tahanan sa gitna ng Kanyang mga tao sa lupa. Sa pamamagitan ng salitang ito natutuhan ni Pedro na makilala ang Panginoon bilang Siyang mahalagang bato na itinaas sa karangalan ng Diyos, habang ipinaliliwanag niya ang tungkol sa Kanya sa I Ped. 2:4-7. Ang pagsipi ni Pedro sa salitang ito ay nagsasaad na ipinangaral niya si Kristo hindi lamang bilang Tagapagligtas para sa kaligtasan ng mga makasalanan, bagkus gayon din bilang ang bato para sa pagtatayo ng Diyos. Ito ang gayong Kristo na Siyang namumukod-tanging kaligtasan ng mga makasalanan. Sa Kanyang namumukod-tanging pangalan sa silong ng langit, na isang pangalang inalipusta at tinanggihan ng mga pinunong Hudyo subali’t pinarangalan at itinaas ng Diyos (Fil. 2:9-10), ang mga makasalanan ay maliligtas (b. 12), hindi lamang mula sa kanilang kasalanan (Mat. 1:21) bagkus magkakaroon din ng bahagi sa pagtatayo ng Diyos (1 Ped. 2:5)."
+        },
+        {
+            "id": "11-2",
+            "text": "O, tinanggihan (cf. Mat. 21:42); minata (cf. Mar. 9:12)."
+        },
+        {
+            "id": "11-3",
+            "text": "Tingnan ang tala 42-2 sa Mat. 21."
+        },
+        {
+            "id": "13-1",
+            "text": "Lit. walang edukasyon."
+        },
+        {
+            "id": "13-2",
+            "text": "Tumutukoy sa pangkaraniwang tao, isang walang kaalamang pampropesyonal."
+        },
+        {
+            "id": "15-1",
+            "text": "Tingnan ang tala 22-6 sa Mat. 5."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang mga taong ekklesia, na ginawang kaiba at hiwalay sa mga Hudyo sa pamamagitan ng pagtawag sa pangalan ni Hesus (9:14). Ang lahat ng mga kapatid sa loob ng Panginoon ay pawang sariling tao nating mga mananampalataya."
+        },
+        {
+            "id": "24-1",
+            "text": "Gr. hindi kurios, na karaniwang salita para sa panginoon (”lord” sa wikang Ingles); kundi despotes, panginoon (“master” sa wikang Ingles) ng isang alipin, isang may ganap na pinakamataas na kapangyarihan, katulad sa Luc. 2:29; Judas 4; Apoc. 6:10; 1 Tim. 6:1-2."
+        },
+        {
+            "id": "25-1",
+            "text": "Sa unang pakahulugan ay ang pilitin na palabasin ang hangin sa mga butas ng ilong na may ingay tulad ng kabayo; maging mayabang, bastos."
+        },
+        {
+            "id": "27-1",
+            "text": "Mga bansa."
+        },
+        {
+            "id": "28-1",
+            "text": "Cf. takdang pasiya sa 2:23 at tala 1."
+        },
+        {
+            "id": "31-1",
+            "text": "Napuspusan sa panlabas at sa pang-ekonomiya (tingnan ang tala 4-2 sa kap. 2)."
+        },
+        {
+            "id": "32-1",
+            "text": "Tingnan ang tala 45-1 sa kap 2."
+        },
+        {
+            "id": "32-2",
+            "text": "Tingnan ang tala 44-1 sa kap. 2."
+        },
+        {
+            "id": "33-1",
+            "text": "Tingnan ang tala 32-2 sa kap. 2."
+        },
+        {
+            "id": "33-2",
+            "text": "Tingnan ang mga tala 17-1 sa Juan 1 at 10-1 sa 1 Corinto 15"
+        },
+        {
+            "id": "34-1",
+            "text": "Tingnan ang tala 45-1 sa kap. 2."
+        },
+        {
+            "id": "34-2",
+            "text": "O, mga halaga (gayundin ang 5:2, 3)."
+        },
+        {
+            "id": "36-1",
+            "text": "O, pagbibigay-sigla, konsulasyon."
+        }
     ]
 }

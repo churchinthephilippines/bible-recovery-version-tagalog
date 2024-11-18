@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": []
@@ -18,7 +18,7 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": [
@@ -32,15 +32,15 @@
             "footnotes": [
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "makikita",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -57,11 +57,11 @@
             "footnotes": [
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "tubig",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -72,15 +72,15 @@
             "footnotes": [
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -97,11 +97,11 @@
             "footnotes": [
                 {
                     "word": "hangin",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -130,11 +130,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -145,7 +145,7 @@
             "footnotes": [
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -156,7 +156,7 @@
             "footnotes": [
                 {
                     "word": "ahas,",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": [
@@ -172,7 +172,7 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -183,15 +183,15 @@
             "footnotes": [
                 {
                     "word": "gayon",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "sanlibutan",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "sumampalataya",
-                    "note": ""
+                    "id": "16-3"
                 }
             ],
             "outlines": null
@@ -208,11 +208,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -229,7 +229,7 @@
             "footnotes": [
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -240,7 +240,7 @@
             "footnotes": [
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -302,7 +302,7 @@
             "footnotes": [
                 {
                     "word": "maragdagan,",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -313,23 +313,23 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "galing",
-                    "note": ""
+                    "id": "31-2"
                 },
                 {
                     "word": "tagalupa",
-                    "note": ""
+                    "id": "31-2"
                 },
                 {
                     "word": "ukol",
-                    "note": ""
+                    "id": "31-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "31-2"
                 }
             ],
             "outlines": [
@@ -354,7 +354,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -371,10 +371,120 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang salitang “datapwat” ay nagpapahiwatig na ang kasong ito ni Nicodemo ay naiiba mula sa mga kaso na nasa mga nauunang bersikulo, 2:23-25. Lahat ng mga kaso roon ay mga kaso ng mga taong nananampalataya sa Panginoon dahil sa pagkakita sa mga himalang Kanyang ginawa. Hindi maipagkakatiwala ng Panginoon ang Kanyang sarili sa mga gayong tao. Subalit ang kasong ito sa kapitulo 3 ay isang tungkol sa buhay sa pagkasilang na muli. Ito ay nagpapakita na ang aklat na ito ay hindi para sa mga mahimalang bagay, kundi para lamang sa buhay. Ito ang dahilan kung bakit ang mga himalang ginawa ng Panginoon ay tinawag na mga tanda sa aklat na ito, sumasagisag na ang Panginoon ay dumating para sa buhay, upang ang Diyos ay mapalaganap (12:24) hindi para sa mga himala upang ang tao ay tumanggap ng panlupang pagpapala at pakinabang."
+        },
+        {
+            "id": "2-1",
+            "text": "Ipinalagay ni Nicodemo si Kristo bilang isang Guro na nagmula sa Diyos. Tinutukoy nito na marahil ay iniisip niya na kailangan niya ng higit na mabubuting pagtuturo upang mapabuti niya ang kanyang sarili. Subalit ang tugon ng Panginoon sa sumunod na bersikulo ay naghayag sa kanya na ang kanyang kailangan ay ang maipanganak na muli. Ang maipanganak na muli ay ang maisilang na muli ng dibinong buhay, isang buhay na iba sa pantaong buhay na natanggap sa pamamagitan ng natural na kapanganakan. Kaya, ang kanyang tunay na kailangan ay hindi higit na mabubuting pagtuturo upang mapabuti ang kanyang sarili, kundi ang dibinong buhay upang muling likhain siya. Siya ay naghahanap ng mga pagtuturo na nabibilang sa puno ng kaalaman, subalit ang tugon ng Panginoon ay nagbaling sa kanya sa pangangailangan ng buhay, na nabibilang sa puno ng buhay (cf. Gen. 2:9, 17)."
+        },
+        {
+            "id": "3-1",
+            "text": "O, mula sa itaas. Gayundin ang maipanganak na muli ay ang maisilang mula sa itaas (langit) na nangangahulugang isinilang ng Diyos na nasa langit."
+        },
+        {
+            "id": "3-2",
+            "text": "Sa mga espiritwal na bagay, ang makakita ay ang makapasok (b. 5)."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang kaharian ng Diyos ay ang paghahari ng Diyos. Ito ay isang dibinong kinasasaklawan upang pasukin, isang kinasasaklawan na nangangailangan ng dibinong buhay. Ang dibinong buhay lamang ang makatatanto sa mga dibinong bagay. Kaya, upang makakita, o upang makapasok sa kaharian ng Diyos, kailangan ang pagsilang na muli ng dibinong buhay."
+        },
+        {
+            "id": "5-1",
+            "text": "Lit., mula sa."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang salitang ito, “ng tubig at ng Espiritu,” ay dapat na naging payak kay Nicodemo, na hindi na nangangailangan ng pagpapaliwanag. Ang parehong mga salita ay sinalita ni Juan Bautista sa Mat. 3:11 sa mga Fariseo, kaya’t ang mga yaon ay dapat na naunawaan na nang lubos sa gitna ng mga Fariseo. Ngayon si Nicodemo, bilang isa sa mga Fariseo, ay nakikipag-usap sa Panginoon, at ang Panginoon ay nagsasabi ng mga pamilyar na salita. Ang tubig ang sentrong kaisipan ng ministeryo ni Juan Bautista, yaon ay, ang tapusin ang tao ng lumang paglikha. Ang Espiritu ang sentrong kaisipan ng ministeryo ni Hesus, yaon ay, pasibulin ang mga tao sa bagong paglikha. Ang dalawang pangunahing kaisipang ito na pinagsama ay ang buong kaisipan ng pagsilang na muli. Ang pagsilang na muli, ang maipanganak nang panibago, ay ang pagtatapos sa mga tao ng lumang paglikha kasama ang lahat ng kanilang mga gawain, at ang pagsisibol sa kanila sa bagong paglikha na may maka-Diyos na buhay."
+        },
+        {
+            "id": "6-1",
+            "text": "Lit., mula sa."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang unang Espiritu rito ay ang dibinong Espiritu, ang Espiritu Santo ng Diyos, at ang ikalawang espiritu ay ang pantaong espiritu, ang naisilang na muling espiritu ng tao. Ang pagsilang na muli ay nagaganap sa loob ng pantaong espiritu sa pamamagitan ng Espiritu Santo ng Diyos kalakip ang buhay ng Diyos, ang di-nilikha, walang hanggang buhay. Sa gayon, ang maisilang na muli ay ang magkaroon ng walang hanggang dibinong buhay maliban pa sa pantaong natural na buhay, bilang isang bagong pinagmumulan at isang bagong elemento ng isang bagong tao."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang salitang Griyego para sa hangin ay ang parehong salita para sa espiritu, pneuma. Kung yaon ay nangangahulugang hangin o espiritu ay depende sa nilalaman ng salita alinsunod sa gamit. Ang pneuma rito ay nagsasabi na ito ay humihihip, at ang tunog nito ay naririnig, tumutukoy na ito ay ang hangin. Ang isang naisilang na muling tao ay tulad ng hangin na maaaring madama, subalit di-abot ng pang-unawa. Bagama’t hindi naabot ng pang-unawa ito ay isang katotohanan, isang realidad."
+        },
+        {
+            "id": "8-2",
+            "text": "Lit., mula sa."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang mga bagay na nauukol sa lupa rito ay hindi nangangahulugang mga bagay na may makalupang kalikasan, kundi mga bagay na nagaganap sa lupa, kasama ang pagtutubos at pagsisilang na muli, atbp. Sa parehong prinsipyo ang mga bagay na nauukol sa langit sa bersikulong ito ay hindi nangangahulugang mga bagay na may makalangit na kalikasan, kundi mga bagay na nagaganap sa langit. Kaya nga sa sumunod na bersikulo, ang Panginoon ay nagsabi na Siya Yaong bumaba mula sa langit at nasa langit pa rin. Ito ay nagsasaad na alam Niya ang mga bagay na nagaganap sa langit, sapagkat Siya ang Isa na nasa langit sa lahat ng panahon."
+        },
+        {
+            "id": "13-1",
+            "text": "Itinataguyod ng ilang sinaunang awtoridad ang pariralang ito."
+        },
+        {
+            "id": "14-1",
+            "text": "Tinatalakay ng kapitulong ito ang bagay ukol sa pagsilang na muli. Ang pagsilang na muli, sa isang banda, ay nagdadala ng buhay ng Diyos kalakip ang kalikasan ng Diyos tungo sa loob natin. Sa kabilang banda, tinatapos ng pagsilang na muli ang masamang kalikasan ni Satanas sa ating laman. Itinurok ni Satanas ang kanyang kalikasan sa laman ng tao sa Genesis 3 bilang ang ahas. Nang magkasala ang mga anak ni Israel laban sa Diyos, sila ay tinuklaw ng mga ahas (Bil. 21:4-9). Sinabi ng Diyos kay Moises na magtaas ng isang tansong ahas para sa kanilang kapakanan para sa paghahatol ng Diyos, na sa pamamagitan ng pagtingin sa tansong ahas, ang lahat ay mabuhay. Yaon ay isang sagisag. Sa bersikulong ito, ginagamit ng Panginoong Hesus ang sagisag na yaon sa Kanyang sarili, ipinakikita na nang Siya ay nasa laman, Siya ay nasa “anyo ng laman ng kasalanan” (Roma 8:3), nasa hugis ng tansong ahas. Yaon ay may hugis ng ahas, subalit walang kamandag. Si Kristo ay ginawang “nasa anyo ng laman ng kasalanan” subalit wala Siyang pakikibahagi sa kasalanan ng laman (2 Cor. 5:21;Heb. 4:15). Nang Siya ay nasa loob ng laman, Siya ay itinaas sa ibabaw ng krus, at si Satanas, ang matandang ahas, ay tinuos sa pamamagitan ng Kanyang kamatayan (12:31-33; Heb. 2:14). Ito ay nangangahulugang, ang makaahas na kalikasan sa loob ng natisod na tao ay natuos na. Nang maisilang na muli ang tao ng buhay ng Diyos na na kay Kristo, ang kanyang makasatanas na kalikasan ay napawalang-bisa. Kaya sa bahaging ito ng Salita, nang ang Panginoon ay naghayag ng tungkol sa pagsilang na muli kay Nicodemo, Kanyang binanggit nang tiyakan ang puntong ito."
+        },
+        {
+            "id": "15-1",
+            "text": "Ito ay ang maka-Diyos na buhay, ang di-nilikhang buhay ng Diyos, na hindi lamang pampanahunang walang hanggan, bagkus walang hanggan at maka-Diyos sa kalikasan, gaya ng sa bb. 16 at 36."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit., ganito ang pagsinta ng Diyos sa sanlibutan."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang sanlibutan ay tumutukoy sa mga taong makasalanan at natisod at nabuuan upang maging ang sanlibutan, na hindi lamang may kasalanan bagkus may kamandag pa ng matandang ahas na siyang Diyablo na naging lahi ng ulupong, na nangangailangan ng naghahaliling kamatayan ni Kristo sa anyong ahas upang tumanggap para sa kanila ng paghahatol ng Diyos (b. 14), kung hindi, sila ay tiyak na mapapahamak (b. 16). Bagama’t ganito ang pagkatisod ng sanlibutan, sa dahilang sila ay nilikha ng ayon sa sariling wangis ng Diyos upang maging mga sisidlan na masisidlan ng Diyos (Gen. 1:26; Roma 9:21, 23), ginamit pa rin ng Diyos ang Kanyang maka-Diyos na pag-ibig na Siya Mismo (1 Juan 4:8, 16) upang ibigin sila sa sukdulan hanggang sa ibinigay ang Kanyang bugtong na Anak (na Siyang sarili Niyang kahayagan) sa kanila upang kanilang makamtan ang buhay na walang hanggan (bb. 15-16, 36) at ginamit ang Kanyang walang sukat na Espiritu upang puspusin sila (b. 34) nang sa gayon, maging kasintahang babae ni Kristo na sumasaibabaw sa lahat at nagpapaloob ng lahat (bb. 31-35) bilang Kanyang karagdagan at kapuspusan (bb. 28-30)."
+        },
+        {
+            "id": "16-3",
+            "text": "Lit., sumasampalataya tungo sa loob Niya. Ang sumampalataya tungo sa loob ng Panginoon at ang sumampalataya sa Panginoon (6:30) ay hindi magkatulad. Ang sumampalataya sa Panginoon ay ang sumampalataya na Siya ay tunay, totoo; at ang sumampalataya tungo sa loob ng Panginoon ay ang tanggapin Siya at makipagkaisa sa Kanya. Ang una ay ang obhektibong pagkakilala sa isang katotohanan; ang huli ay ang subhektibong pagtanggap sa isang buhay."
+        },
+        {
+            "id": "18-1",
+            "text": "Lit., tungo sa loob Niya."
+        },
+        {
+            "id": "18-2",
+            "text": "Lit., tungo sa loob ng pangalan."
+        },
+        {
+            "id": "20-1",
+            "text": "Lit., sanay nang gumawa ng masama, gayundin sa 5:29."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang katotohanan dito kung ihahambing sa nilalaman ng naunang bersikulo ay tumutukoy sa pagiging wasto at tuwid (taliwas sa masama—bb. 19-20) na siyang realidad na naihahayag ng isang taong ipinamumuhay ang kung ano ang Diyos sa harapan ng Diyos. Ang katotohanan ay kaisa rin ng dibinong ilaw. Ang ilaw ay ang Diyos na siyang pinagmulan ng katotohanan na naihayag palabas mula sa loob ni Kristo. Tingnan ang tala 6-6 sa 1 Juan 1."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang “karagdagan” sa bersikulong ito ay ang kasintahang babae sa nakaraang bersikulo, ang bersikulo 29, at ang kasintahang babae roon ay isang buháy na kabuuan ng lahat ng naisilang na muling tao. Ito ay nangangahulugan, na sa kapitulong ito, hinggil sa pagkasilang na muli, ay hindi lamang ang magdala ng buhay ng Diyos tungo sa loob ng mga mananampalataya at ang magpawalang-bisa ng makasatanas na kalikasan sa kanilang laman, bagkus ang gawin din silang karagdagan ni Kristo. Ang huling dalawang punto, ang ipawalang-bisa ang makaahas na kalikasan na nasa mga mananampalataya at ang gawin silang kasintahang babae para kay Kristo, ay kapwa lubos na napaunlad sa kasulatang Apocalipsis ni Juan. Ang aklat ng Apocalipsis ay pangunahing nagpapahayag kung paanong si Satanas bilang ang matandang ahas ay lubos na maaalis (Apoc. 20:2, 10), at kung paanong ang kasintahang babae ni Kristo bilang ang Bagong Herusalem ay lubos na maibubunga (Apoc. 21:2, 10-27)."
+        },
+        {
+            "id": "31-1",
+            "text": "Ang mga bersikulo 31 hanggang 36 ay nagpapakita sa atin ng pagiging di-masukat, ng pagiging walang hanggan ni Kristo. Siya ay gayong di-masukat at walang hangganan na Isa, na dumating mula sa itaas, na sumasaibabaw sa lahat, na kung kanino ibinigay ng Ama ang lahat. Sinalita Niya ang salita ng Diyos, at namahagi ng Espiritu nang walang sukat. Ang gayong Isa ay nangangailangan ng isang pansansinukob na karagdagan upang Kanyang maging kasintahang babae na aangkop sa Kanya, tulad ng naihayag sa mga bersikulo 22 hanggang 30. Ang nananampalataya sa di-masukat na Isang ito ay may walang hanggang buhay; ang di-nananampalataya sa Isang ito ay mapasasailalim ng poot ng Diyos."
+        },
+        {
+            "id": "31-2",
+            "text": "Lit., mula sa. Yamang ang mga tao at bagay rito sa lupa ay nanggaling sa lupa, ang mga ito ay tagalupa nga. Ang nanggaling sa langit na tumutukoy sa nagmula sa langit ay tagalangit nga."
+        },
+        {
+            "id": "34-1",
+            "text": "Gr. rhema. Tingnan ang tala 63-3 sa kapitulo 6."
+        },
+        {
+            "id": "36-1",
+            "text": "Lit., tungo sa loob Niya."
         }
     ]
 }

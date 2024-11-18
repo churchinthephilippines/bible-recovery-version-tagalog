@@ -1,5 +1,5 @@
 {
-    "chapter": 9,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "bulag",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -26,7 +26,7 @@
             "footnotes": [
                 {
                     "word": "sino",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -57,11 +57,11 @@
             "footnotes": [
                 {
                     "word": "pinagputik",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "pinahiran",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -72,15 +72,15 @@
             "footnotes": [
                 {
                     "word": "maghugas",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "isinugo).",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -127,7 +127,7 @@
             "footnotes": [
                 {
                     "word": "Sabbath",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": [
@@ -248,7 +248,7 @@
             "footnotes": [
                 {
                     "word": "galing",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -259,7 +259,7 @@
             "footnotes": [
                 {
                     "word": "pinalayas",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -270,11 +270,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "35-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "35-2"
                 }
             ],
             "outlines": [
@@ -287,7 +287,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -323,6 +323,64 @@
             "text": "Sa kanila ay sinabi ni Hesus, Kung kayo ay mga bulag, hindi kayo magkakaroon ng kasalanan; datapuwa’t ngayon ay sinasabi ninyo, Kami ay nangakakikita, ang inyong kasalanan ay nananatili.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang kasong ito ay nagpatuloy upang patunayan na ang relihiyon ng kautusan (tingnan ang tala 14-1 ) ay hindi maaaring makapagbigay ng anumang tulong sa isang bulag, nguni’t ang Panginoong Hesus, bilang ilaw ng sanlibutan, ay nagbigay ng paningin sa kanya sa kaparaanan ng buhay (10:10b, 28)."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang kabulagan, katulad ng kasalanan sa nagdaang kapitulo, ay isa ring bagay ng kamatayan. Ang isang taong patay ay bulag din. “Binulag ng diyos ng kapanahunang ito ang mga kaisipan ng mga hindi nagsisisampalataya.” Kaya kailangan nilang “sumilay ang kaliwanagan ng ebanghelyo ng kaluwalhatian ni Kristo” sa kanila (2 Cor. 4:4), “upang buksan ang kanilang mga mata, upang ibaling sila mula sa kadiliman patungo sa liwanag at mula sa awtoridad ni Satanas patungo sa Diyos” (Gawa 26:18). Sa prinsipyong ipinahayag sa kapitulo 2, ito rin ang pagpapalit ng buhay sa kamatayan."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang tanong nila rito, katulad ng mga nasa 4:20-25 at 8:3-5, ay isang bagay ng tama o mali, na sakop ng puno ng kaalaman na humahantong sa kamatayan (Gen. 2:17); nguni’t ang sagot ng Panginoon sa bersikulo 3 ay ang paggabay sa kanila tungo sa Kanyang Sarili, na siyang puno ng buhay na humahantong sa buhay (Gen. 2:9)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang putik dito, katulad ng sa Roma 9:21, ay sumasagisag sa pagkatao. Ang lura rito, bilang isang bagay na “nanggagaling sa bibig” (Mat. 4:4) ng Panginoon, ay sumasagisag sa Kanyang “salita na pawang espiritu at pawang buhay” (6:63). Ang pinagputik na lura ay sumasagisag sa paghahalo ng pagkatao at ng buháy na salita ng Panginoon, na siyang Espiritu. Ang salitang “pinahiran” ang nagpapatunay rito, sapagka’t ang Espiritu ng Panginoon ay ang nagpapahid na Espiritu (Luc. 4:18; 2 Cor. 1:21-22; 1 Juan 2:27). Dito pinahiran ng Panginoon ang mga mata ng bulag ng pinagputik na lura upang siya ay magkaroon ng paningin. Sinasagisag nito na sa pamamagitan ng pagpapahid ng paghahalo ng salita ng Panginoon (na siyang Espiritu Niya) sa ating pagkatao, ang ating mga mata na binulag ni Satanas ay magkakaroon ng paningin."
+        },
+        {
+            "id": "6-2",
+            "text": "Lit. nilagyan. Gayundin sa bersikulo 15."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang maghugas dito ay ang maghugas upang matanggal ang putik. Sinasagisag nito ang paghuhugas ng ating lumang pagkatao, katulad ng naranasan natin sa ating pagkabautismo (Roma 6:3-4, 6)."
+        },
+        {
+            "id": "7-2",
+            "text": "Tingnan ang tala 6-1 sa kap. 1."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang kanyang paghayo at paghuhugas ay nangangahulugang sinunod niya ang nagbibigay-buhay na salita ng Panginoon. Kaya, nakatamo siya ng paningin. Kung hindi siya nagpunta upang mahugasan ang putik pagkatapos siyang mapahiran nito, siya ay lalo lamang mabubulag. Ang ating pagsunod sa pagpapahid ang nagsasanhi sa atin na malinisan at makatanggap ng paningin."
+        },
+        {
+            "id": "14-1",
+            "text": "Maaaring sinadya ng Panginoon na gumawa ng isang himala sa araw ng Sabbath upang ihantad ang kawalang kabuluhan ng ritwal ng relihiyon. Samakatuwid, napalala ang pagsalungat ng relihiyon, dahil nakagawa na Siya noon ng isang himala sa araw ng Sabbath (5:10, 16)."
+        },
+        {
+            "id": "33-1",
+            "text": "Tingnan ang tala 14-5 sa kap. 1."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang palayasin siya rito ay ang itiwalag at itakwil siya mula sa sinagoga ng mga Hudyo. Ito ay ang alisin siya sa kulungan ng mga tupa, katulad ng pagkasalita ng Panginoon sa 10:3-4. Hindi mapigilan ng pang-uusig na ginagawa ng relihiyon sa taong tinawag ng Panginoon ang katuparan ng layunin ng Panginoon sa taong ito."
+        },
+        {
+            "id": "35-1",
+            "text": "Lit. tungo sa loob ng."
+        },
+        {
+            "id": "35-2",
+            "text": "Ang ilang matatandang awtoridad ay binabasang, Anak ng Tao."
+        },
+        {
+            "id": "36-1",
+            "text": "Lit. tungo sa loob Niya."
         }
     ]
 }

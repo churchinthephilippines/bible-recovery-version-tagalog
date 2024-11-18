@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "Filipos,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "episkopo",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "diyakono:",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -32,11 +32,11 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "kapayapaang",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -62,11 +62,11 @@
             "footnotes": [
                 {
                     "word": "pakikipagsalamuha",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "ebanghelyo,",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -83,15 +83,15 @@
             "footnotes": [
                 {
                     "word": "pagsasanggalang",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "aking",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "kabahagi",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -102,7 +102,7 @@
             "footnotes": [
                 {
                     "word": "panloob",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -113,11 +113,11 @@
             "footnotes": [
                 {
                     "word": "lubos",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pagkakilala,",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -128,15 +128,15 @@
             "footnotes": [
                 {
                     "word": "naiiba,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "dalisay",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -147,7 +147,7 @@
             "footnotes": [
                 {
                     "word": "bunga",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -158,7 +158,7 @@
             "footnotes": [
                 {
                     "word": "ikasusulong",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -169,7 +169,7 @@
             "footnotes": [
                 {
                     "word": "pretoryo",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -186,15 +186,15 @@
             "footnotes": [
                 {
                     "word": "ilan",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "pakikipagtalo,",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "ilan",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": null
@@ -211,11 +211,11 @@
             "footnotes": [
                 {
                     "word": "pakikipagtunggalian,",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "kapighatian",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -226,7 +226,7 @@
             "footnotes": [
                 {
                     "word": "nagagalak",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -237,19 +237,19 @@
             "footnotes": [
                 {
                     "word": "ikaliligtas,",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "inyong",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "masaganang",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "19-4"
                 }
             ],
             "outlines": [
@@ -262,7 +262,7 @@
             "footnotes": [
                 {
                     "word": "dadakilain",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -273,11 +273,11 @@
             "footnotes": [
                 {
                     "word": "mabuhay",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "pakinabang.",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -294,7 +294,7 @@
             "footnotes": [
                 {
                     "word": "suma",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -305,7 +305,7 @@
             "footnotes": [
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -316,11 +316,11 @@
             "footnotes": [
                 {
                     "word": "ikasusulong",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -331,7 +331,7 @@
             "footnotes": [
                 {
                     "word": "pagmamapuri",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -342,15 +342,15 @@
             "footnotes": [
                 {
                     "word": "nangagkakaisa",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "nagsisikap",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "27-3"
                 }
             ],
             "outlines": [
@@ -363,11 +363,11 @@
             "footnotes": [
                 {
                     "word": "kapahamakan,",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "pagkaligtas,",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": null
@@ -378,11 +378,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "magdusa",
-                    "note": ""
+                    "id": "29-2"
                 }
             ],
             "outlines": null
@@ -393,10 +393,196 @@
             "footnotes": [
                 {
                     "word": "akin,",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang Filipos ay ang pangunahing lunsod ng lalawigan ng Macedonia ng lumang Imperyong Romano (Gawa 16:12). Sa pamamagitan ng unang pangministeryong paglalakbay ni Pablo sa Europa (Gawa 16:10-12), isang ekklesia ang naitayo sa lunsod na ito, ang unang ekklesia sa Europa."
+        },
+        {
+            "id": "1-2",
+            "text": "Hindi sinabi rito na sa lahat ng mga banal…”at” mga episkopo at mga diyakono kundi sa lahat ng mga banal… “kasama” ang mga episkopo at ang mga diyakono. Lubhang makahulugan ito, tumutukoy na sa ekklesia-lokal, ang mga banal, episkopo, at diyakono ay hindi tatlong grupo ng tao. Ang ekklesia ay may iisang grupo lamang ng tao (ang mga episkopo at mga diyakono ay kabilang sa mga banal), na siyang bumubuo ng ekklesia-lokal. Ito ay tumutukoy rin na sa alinmang lokalidad ay nararapat lamang na may iisang ekklesia, iisang grupo ng tao na kinabibilangan ng mga banal ng lokalidad na yaon."
+        },
+        {
+            "id": "1-3",
+            "text": "*Ang episkopo ay salitang Griyego. Sa wikang Kastila, ito ay “obispo”. Sa literal, ito ay nangangahulugang tagapagmasid, tagapangasiwa. Hindi natin ginamit ang salitang “obispo” kundi ang orihinal na Griyegong salitang “episkopo” dahil sa ang “obispo” ay may lasang relihiyon na nagbibigay ng isang impresyon ng ekklesiastikong ranggo. Tingnan din ang tala 2-1 sa 1 Timoteo 3.* Ang mga episkopo ay ang mga matanda sa isang ekklesia-lokal (Gawa 20:17, 28). Ang “matanda” ay tumutukoy sa tao, sa kanyang pagiging higit na may gulang sa espirituwal na bagay; ang episkopo ay tumutukoy sa kanyang gawain. Ang isang episkopo ay isang matandang gumagawa ng kanyang tungkulin. Dito ang binabanggit ay “mga episkopo” sa halip na “mga matanda,” tumutukoy na ang mga matanda roon ay lubhang responsable sa kanilang tungkulin."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang mga diyakono ay ang mga naglilingkod sa isang ekklesia-lokal sa ilalim ng pagtatagubilin ng mga episkopo (I Tim. 3:18). Ang bersikulong ito, na nagpapakita na ang isang ekklesia-lokal ay binubuo ng mga banal kasama ang mga episkopo upang manguna at ang mga diyakono upang maglingkod, ay nagpapakita na ang ekklesia sa Filipos ay nasa mabuting kaayusan."
+        },
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 2-1 sa Efeso 1."
+        },
+        {
+            "id": "2-2",
+            "text": "Tingnan ang tala 2-2 sa Efeso 1."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang pakikipagsalamuha rito ay nangangahulugang pakikibahagi, pakikipagtalastasan. Ang gayunding salitang Griyego ay isinaling ambagan sa Roma 15:26 at pagbabahagi sa Heb.13:16. Ang mga banal sa Filipos ay may pakikipagsalamuha sa ikalalaganap ng ebanghelyo, nakikibahagi sa ikalalaganap ng ebanghelyo sa pamamagitan ng ministeryo ni Apostol Pablo. Ang pakikibahaging ito ay kinabibilangan ng kanilang pinansiyal na ambag sa apostol (4:10, 15, 16), na nagreresulta sa ikalalaganap ng ebanghelyo. Ang ganitong uri ng pakikipagsalamuha, na nagliligtas sa kanila mula sa pagiging makasarili at hindi nagkakaisa sa kaisipan, ay nagpapahiwatig ng kanilang pakikiisa kay Apostol Pablo at sa bawa’t isa sa kanila. Ito ay nagbibigay sa kanila ng saligan para sa kanilang karanasan at pagtatamasa kay Kristo, na siyang pangunahing paksa ng aklat na ito. Ang buhay ng pagdaranas at pagtatamasa kay Kristo ay isang buhay na nasa ikalalaganap ng ebanghelyo, isang buhay ng pagpapahayag ng ebanghelyo, hindi makasarili kundi sama-sama. Kaya’t sinasabi rito “sa inyong pakikipagsalamuha tungo sa ikalalaganap ng ebanghelyo.” Lalo tayong nakikipagsalamuha sa pagpapalaganap ng ebanghelyo, lalo tayong nakararanas at nakatatamasa ng Diyos. Ito ay pumapatay sa ating sarili, ambisyon, pagtatangi, at pagpili."
+        },
+        {
+            "id": "5-2",
+            "text": "Tungkol sa ebanghelyo, si Pablo ay gumamit ng maraming makahulugang pananalita katulad ng “pakikipagsalamuha tungo sa… ebanghelyo”, “pagsasanggalang at pagpapatunay sa ebanghelyo” (b. 7), “ikasusulong ng ebanghelyo” (b. 12), at “pananampalataya ng ebanghelyo” (b. 27). Ang pagpapahayag ni Pablo kay Kristo bilang ebanghelyo ay nagpapaloob ng pakikipagsalamuha, pagsasanggalang, pagpapatunay, pagpapasulong, at pananampalataya. Sa kabaligtaran, yaong mga maka-Hudaismong mananampalataya ay nagpapahayag ng ebanghelyo sa pananaghili, sa pakikipagtalo, sa pagiging makasarili at ambisyoso, sa pagkakampi-kampi, at hindi sa ikasusulong ng ebanghelyo."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang pagsasanggalang sa ebanghelyo ay ang ipagsanggalang ang ebanghelyo, sa negatibong panig, mula sa masama at mapagbaluktot na maling turo ng pananampalataya, katulad ng Hudaismo na tinuos sa aklat ng Galacia, at ng Gnostisismo na tinuos sa aklat ng Colosas. Ang pagpapatunay sa ebanghelyo ay ang patunayan ang ebanghelyo, sa positibong panig, sa paggamit ng lahat ng mga pahayag tungkol sa mga hiwagang ukol kay Kristo at sa ekklesia katulad ng inihayag sa mga Sulat ni Pablo. Nang ipinahayag ni Pablo ang ganitong ebanghelyo ayon sa ekonomiya ng Diyos, itinakwil niya ang lahat ng bagay na nagpapalayo sa ekonomiya ng Diyos katulad ng relihiyon, kautusan, kultura, ordinansa, tradisyon, kaugalian, at iba’t ibang teoriya. Sa kadahilanan na ganitong ebanghelyo ang ipinahahayag ni Pablo, siya ay itinuring ng iba na isang taong mapagbangon ng mga paghihimagsik at isang salot (Gawa 24:5)."
+        },
+        {
+            "id": "7-2",
+            "text": "Lit. ang mga kabahagi ko sa aking biyaya. Ang biyaya ni Pablo ay ang biyayang tinatamasa ni Pablo, na humihigit sa hirap na kanyang tinanggap dahil sa pagsasanggalang at pagpapatunay sa ebanghelyo. Ang biyayang ito ay hindi ang obhektibong Diyos, kundi ang dumaan-sa-maraming-hakbanging Tres-unong Diyos na naging kanyang bahagi sa subhektibong karanasan."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang mga kabahagi sa biyaya ay yaong mga nakikibahagi at nagtatamasa sa Tres-unong Diyos na dumaan-sa-maraming-hakbangin bilang biyaya. Ang apostol ay isang gayon na nasa pagsasanggalang at pagpapatunay ng ebanghelyo, at ang mga banal sa Filipos ay ang mga kasamang-kabahagi niya sa biyayang ito."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang “panloob na bahagi” ay tumutukoy sa panloob na damdamin, ang magiliw na kaawaan at simpatiya. Maging sa panloob na bahagi ni Kristo, sa bawa’t magiliw na bahagi ni Kristo, si Pablo ay kaisa ni Kristo sa kanyang pananabik sa mga banal. Ito ay nagpapakita na ang karanasan ni Pablo kay Kristo ay kaisa sa bawa’t panloob na bahagi ni Kristo, at kanyang tinatamasa Siya roon bilang panustos ng biyaya."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang mga mananampalatayang taga-Filipos ay may lubhang pag-ibig, subali’t ang kanilang pag-ibig ay kinakailangang sumagana, umapaw nang higit at higit pa, hindi sa kahangalan, kundi sa lubos na kaalaman; hindi sa kamangmangan, kundi sa lahat ng pagkakilala, upang kanilang mapatunayan, sa pamamagitan ng pagsubok, ang mga bagay na naiiba. Dapat na ipaloob nito ang pagkakilala sa naiibang pagpapahayag ng ebanghelyo sa mga bersikulo 15-18 at sa iba’t ibang tao sa 3:2-3."
+        },
+        {
+            "id": "9-2",
+            "text": "Matalas na pandama, moral na kahusayan sa pakikitungo. Dahil sa mga sabi-sabi ng mga maka-Hudaismo, may mga mananampalatayang taga-Filipos na lumihis sa ekonomiya ng Diyos. Ang hinahanap ni Pablo ay ang ibigin siya ng mga mananampalatayang taga-Filipos, hindi ng mangmang na pag-ibig, kundi ng pag-ibig na malinaw, nananagana sa lubos na kaalaman at sa lahat ng pagkakilala."
+        },
+        {
+            "id": "10-1",
+            "text": "*Gr. diaphero , nagpapahiwatig din ng “higit na magaling”, “higit na mabuti”, at “higit na may halaga”, sa pagiging “naiiba.”"
+        },
+        {
+            "id": "10-2",
+            "text": "Lit. hinatulan ng sikat ng araw, yaon ay, subok na tunay; kaya nga, dalisay, tapat."
+        },
+        {
+            "id": "10-3",
+            "text": "O, hindi nakasasakit ng damdamin, hindi nagsasanhi ng ikatitisod ng iba."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang bunga ng katuwiran ay ang buháy na produkto ng isang wastong buhay ng isang mananampalatayang may matuwid na paninindigan, sa pamamagitan ng elemento ng katuwiran, sa harap ng Diyos at ng tao. Ito ay hindi dumarating sa pamamagitan ng likas na tao ng mga mananampalataya para sa kanilang pagmamapuri, kundi dumarating sa pamamagitan ng kanilang karanasan kay Hesu-Kristo bilang buhay sa ikaluluwalhati at ikapupuri ng Diyos."
+        },
+        {
+            "id": "12-1",
+            "text": "Katulad ng pagbukas ng daan ng mga tagapanguna sa unahan ng isang hukbo sa ikasusulong nito. Ang mga paghihirap ni Pablo ang nagbukas nang gayon sa lalong ikasusulong ng ebanghelyo."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang imperyal na guwardiya ni Cesar."
+        },
+        {
+            "id": "15-1",
+            "text": "Tinutukoy ang mga Kristiyanong kumakalaban kay Pablo at sa kanyang ministeryo (II Cor. 10:7; 11:22-23). Maging sa kapanahunan ni Pablo, may nagpapahayag ng ebanghelyo dahil sa pagkainggit kay Pablo at nakikipagtalo sa kanya."
+        },
+        {
+            "id": "15-2",
+            "text": "Hidwaan, pagkakampi-kampi."
+        },
+        {
+            "id": "15-3",
+            "text": "Tinutukoy ang mga may pakikipagsalamuha, pakikibahagi , kay Pablo sa pagpapahayag ng ebanghelyo."
+        },
+        {
+            "id": "17-1",
+            "text": "Sariling paghahangad, makasariling ambisyon, hidwaan."
+        },
+        {
+            "id": "17-2",
+            "text": "Lit. kagipitan. Yaong mga nagpapahayag kay Kristo mula sa pakikipagtunggalian ay nagsikap na gawing mabigat ang mga tanikala ni Pablo sa pamamagitan ng paninirang-puri sa kanya at sa kanyang ministeryo habang sa wari siya ay naisaisantabi mula sa kanyang pagpapahayag ng ebanghelyo. Ang kapighatian sa mga tanikala ni Pablo ay hindi nagmula sa kanyang pagpapahayag ng ebanghelyo kundi sa kanyang pagsasanggalang ng ebanghelyo. Inihalo ng mga maka-Hudaismo ang ebanghelyo sa kautusan at pagtutuli. Ipinagtanggol niya ito. Ito ang nagsanhi ng kaguluhan na naglagay sa kanya sa mga tanikala (Gawa 21:27-36)."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang puso ni Pablo ay lubhang pinalawak ng biyaya sa sukdulang siya ay nagalak maging sa pakunwaring pagpapahayag tungkol kay Kristo ng mga kumakalaban sa kanya. Anong isang matuwid na espiritu ito! Ito ang resulta ng paggawa ng buhay, kalikasan, at kaisipan ni Kristo na namuhay sa kanyang loob. Ang kanyang karanasan kay Kristo ay isang pagtatamasa. Ang gayong buhay ay nagagalak kahit na ano pa ang mga pangyayari."
+        },
+        {
+            "id": "19-1",
+            "text": "Sa Griyego, ang gayunding salita ay isinaling “kaligtasan” sa 2:12. Ang “ikaliligtas” dito ay ang isinagawang “kaligtasan” doon. Ang “ikaliligtas” dito ay ang matustusan at mapalakas upang maipamuhay at maidakila si Kristo (tingnan ang tala 12-4 sa kap. 2). Ito ay nangangailangan ng masaganang panustos ng Espiritu ni Hesu-Kristo."
+        },
+        {
+            "id": "19-2",
+            "text": "Ito ay ang panustos ng Katawan (ekklesia) ni Kristo. Ang pagkabilanggo ni Pablo ay hindi nagsanhi ng pagkaputol o pagkahiwalay ni Pablo mula sa panustos ng Katawan ni Kristo."
+        },
+        {
+            "id": "19-3",
+            "text": "Lit. ang pagtutustos ng koragos, ang lider ng koro, sa lahat ng mga pangangailangan ng koro. Ang masaganang panustos na ito ng nagpapaloob ng lahat na Espiritu ay para kay Pablo upang ibuhay si Kristo at idakila si Kristo sa panahon ng kanyang mga paghihirap para sa Kanya."
+        },
+        {
+            "id": "19-4",
+            "text": "Sa Biblia, ang mga pahayag tungkol sa Diyos, kay Kristo, at sa Espiritu ay sumusulong. Sa unang pagkakataon, ang Espiritu ay binanggit bilang ang Espiritu ng Diyos sa paglikha (Gen. 1:2); sa ikalawa, sa kaugnayan ng Diyos at tao, ang Espiritu ay binanggit bilang ang Espiritu ni Jehovah (Huk. 3:10; I Sam. 10:6); ang kasunod ay ang Espiritu Santo na may kaugnayan sa paglilihi at pagsilang kay Kristo (Luc. 1:35; Mat. 1:20) na sinundan ng Espiritu sa pantaong pamumuhay ng Panginoon bilang ang Espiritu ni Hesus (Gawa 16:7); pagkatapos ay ang Espiritu sa pagkabuhay na muli ng Panginoon, bilang ang Espiritu ni Kristo (Roma 8:9). Dito naman ay bilang Espiritu ni Hesu-Kristo. Ang Espiritu ni Hesu-Kristo ay “ang Espiritu” na binanggit sa Juan 7:39. Ito ay hindi lamang ang Espiritu ng Diyos bago napangyari ang pagiging laman ng Panginoon, bagkus ang Espiritu ng Diyos pagkaraan ng pagkabuhay na muli ng Panginoon. Ito ang Espiritu Santong tinimplahan ng pagiging laman (pagkatao) ng Panginoon, pantaong pamumuhay sa ilalim ng krus, pagkapako sa krus, at pagkabuhay na muli. Ang banal na pamahid na ungguwento sa Exo. 30:23-25, na binuo ng langis ng olibo na tinimplahan ng apat na uri ng espesiya, ay isang ganap na pagsasagisag sa timpladang Espiritung ito ng Diyos. Ngayon ang Espiritung ito ay ang Espiritu ni Hesu-Kristo. Hindi sinasabi rito na Espiritu ni Hesus katulad ng pagkabanggit sa Gawa 16:7 (Gr.), ni ang Espiritu ni Kristo katulad ng nasa Roma 8:9, kundi ang Espiritu ni Hesu-Kristo. Ang Espiritu ni Hesus, unang-una, ay ukol sa pagkatao at pantaong pamumuhay ng Panginoon; ang Espiritu ni Kristo, unang-una, ay ukol sa pagkabuhay na muli ng Panginoon. Upang maranasan natin ang pagka-tao ng Panginoon, gaya ng inilarawan ng 2:5-8, kailangan natin ang Espiritu ni Hesus. Upang maranasan natin ang kapangyarihan ng pagkabuhay na muli ng Panginoon, katulad ng binanggit sa 3:10, kailangan natin ang Espiritu ni Kristo. Sa kanyang pagdurusa, naranasan ng apostol kapwa ang pagdurusa ng Panginoon sa Kanyang pagkatao at ang pagkabuhay na muli ng Panginoon. Kaya, ang Espiritu sa kanya ay ang Espiritu ni Hesu-Kristo, ang timplada, nagpapaloob ng lahat, na Espiritung nagbibigay-buhay ng Tres-unong Diyos. Ang gayong Espiritu ay may masaganang panustos, at maging kay Pablo na isang taong nakararanas at nakatatamasa kay Kristo sa Kanyang pantaong pamumuhay at pagkabuhay na muli, ang Espiritung ito ay ang masaganang panustos. Sa katapus-tapusan, ang timpladang Espiritung ito ni Hesu-Kristo ay naging ang pitong Espiritu ng Diyos, na Siyang pitong ilawan ng apoy sa harap ng trono ng Diyos upang isagawa ang Kanyang pamamahala sa lupa para sa katuparan ng Kanyang ekonomiya na may kaugnayan sa ekklesia. Ang Espiritung ito ay Siya ring pitong mata ng Kordero para sa paglalalin ng lahat ng kung ano Siya sa ekklesia (Apoc. 1:4; 4:5; 5:6)."
+        },
+        {
+            "id": "20-1",
+            "text": "Sa mga paghihirap ng katawan ni Pablo, si Kristo ay naipadakila, yaon ay, naipakita o naipahayag na dakila (walang hangganan), naitaas, at napuring mabuti. Ang kanyang mga paghihirap ang nagbigay sa kanya ng pagkakataon upang maihayag si Kristo sa Kanyang walang hangganang kadakilaan. Tangi lamang si Kristo ang kanyang pinadakila, hindi ang kautusan ni ang pagtutuli. Ang aklat na ito ay nauukol sa karanasan kay Kristo. Ang maipadakila si Kristo sa alinmang pagkakataon ay ang maranasan Siya nang may pinakamataas na katamasahan."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang pamumuhay ni Pablo ay ang ipamuhay si Kristo. Sa ganang kanya ang mabuhay ay si Kristo, hindi ang kautusan ni ang pagtutuli. Hindi niya ipinamuhay ang kautusan kundi si Kristo, hindi siya nasumpungan sa kautusan kundi sa loob ni Kristo (3:9). Si Kristo ay hindi lamang ang kanyang buhay sa panloob, bagkus ang kanya ring pamumuhay sa panlabas. Kanyang ipinamuhay si Kristo sapagka’t si Kristo ay namuhay sa loob niya (Gal. 2:20). Siya ay kaisa ni Kristo kapwa sa buhay at sa pamumuhay. Siya at si Kristo, silang dalawa, ay may iisang buhay at iisang pamumuhay. Sila ay nabuhay nang magkasama bilang isang tao. Si Kristo ay namuhay sa loob niya bilang kanyang buhay, at kanyang ipinamuhay si Kristo sa panlabas bilang kanyang pamumuhay. Ang normal na karanasan kay Kristo ay ang ipamuhay Siya, at ang ipamuhay Siya ay ang ipadakila Siya sa tuwina, maging anuman ang mga pangyayari."
+        },
+        {
+            "id": "21-2",
+            "text": "Tinutukoy ng pakinabang dito ang “suma kay Kristo” (sa b. 23). Sa isang higit na mataas na antas, sa pagsasakatuparan ng walang-hanggang layunin ng Diyos, ang “suma kay Kristo,” (yaon ay ang mamatay), ay hindi maihahambing sa “ipinamumuhay si Kristo” para sa kapakanan ng Kanyang Katawan. Kaya nga, ito ang pinili ni Pablo."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang “suma kay Kristo” ay isang bagay ng antas, hindi ng lugar. Habang si Pablo ay nagnanais na suma kay Kristo sa isang higit na mataas na antas, siya ay palagi nang na kay Kristo. Sa pamamagitan ng kanyang pisikal na kamatayan, sasa kay Kristo siya sa isang lalong higit na sukat kaysa sa kanyang tinatamasa sa panlupang buhay na ito."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang pagsasaalang-alang ng apostol ay hindi makasarili, kundi para sa kapakanan ng mga banal. Siya ay lubusang naokupahan ng Panginoon at ng ekklesia."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang “ikasusulong” ay ang ikalalago ng buhay; ang “ikagagalak” ay tumutukoy sa pagtatamasa kay Kristo."
+        },
+        {
+            "id": "25-2",
+            "text": "Ang pananampalataya rito ay tumutukoy sa pinanampalatayanan ng mga banal (Jud. 3; 2 Tim. 4:7)."
+        },
+        {
+            "id": "26-1",
+            "text": "Lit. pagmamalaki, pagluluwalhati, at paggagalak."
+        },
+        {
+            "id": "27-1",
+            "text": "Tayo ay hindi lamang kinakailangang magsitayong matibay sa iisang espiritu para sa karanasan kay Kristo, bagkus nangangailangan ding mangagkaisa sa kaluluwa na nagsisikap nang sama-sama sa pananampalataya ng ebanghelyo. Ang mangagkaisa sa kaluluwa para sa gawain ng ebanghelyo ay higit na mahirap kaysa mangagkaisa sa espiritu para sa karanasan kay Kristo (tingnan ang 2:20). Hinihiling nito na, pagkatapos na maisilang na muli sa ating espiritu, tayo ay matransporma sa ating kaluluwa, lalung-lalo na sa ating kaisipan, na siyang pangunahin at nangungunang bahagi ng ating kaluluwa."
+        },
+        {
+            "id": "27-2",
+            "text": "Nagsisikap tulad ng isang manlalaro."
+        },
+        {
+            "id": "27-3",
+            "text": "Ang pananampalataya rito ay binigyang-katauhan. Ang mga mananampalataya ay dapat nang magsikap na mangagkaisang kaluluwa kasama ng binigyang-katauhan na pananampalataya (cf. 2 Tim. 1:8, tala 3)."
+        },
+        {
+            "id": "28-1",
+            "text": "Kapahamakan ng lahat ng kung ano sila at ng kanilang ginagawa."
+        },
+        {
+            "id": "28-2",
+            "text": "Pagkaligtas ng lahat ng kung ano kayo at ng inyong ginagawa. Tingnan ang mga tala 19-1 sa kapitulo 1 at 12-4 sa kapitulo 2."
+        },
+        {
+            "id": "29-1",
+            "text": "Lit. tungo sa loob Niya, na ipinahihiwatig ang organikong pakikipagkaisa ng mananampalataya kay Kristo sa pamamagitan ng pagsampalataya sa Kanya. Ang sumampalataya kay Kristo ay ang palagumin ang ating katauhan tungo sa loob Niya upang ang dalawa ay maging organikong isa."
+        },
+        {
+            "id": "29-2",
+            "text": "Ang magdusa alang-alang kay Kristo, pagkatapos na tanggapin Siya at maging kaisa Niya sa pamamagitan ng pagsampalataya, ay ang makibahagi, ang magkaroon ng pakikipagsalamuha, sa Kanyang mga pagdurusa (3:10), upang maranasan at matamasa Siya sa Kanyang mga pagdurusa. Ito ay ang ipamuhay Siya at ipadakila Siya sa gitna ng isang sitwasyong nagtatakwil at kumakalaban sa Kanya. *Gr. pasko . Isinaling “magbata” sa Mat. 16:21 at “magdusa” sa Luc. 9:22; “napahirapan” sa Mar. 5:26; at “nagdurusa” sa I Cor. 12:26.*"
+        },
+        {
+            "id": "30-1",
+            "text": "Si Pablo ay isang tularang inihubog sa pamamagitan ng biyaya ng Diyos para sa Kanyang Bagong Tipang ekonomiya (1 Tim. 1:14-16). Nararapat na maranasan at matamasa ng mga Bagong Tipang mananampalataya si Kristo sa pamamagitan ng pamumuhay at pagpapadakila sa Kanya katulad ng ginawa ni Pablo sa kanyang mga pagdurusa para kay Kristo, upang sila ay maging mga kabahagi sa biyaya."
         }
     ]
 }

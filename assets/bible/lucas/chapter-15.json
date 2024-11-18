@@ -1,5 +1,5 @@
 {
-    "chapter": 15,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -22,7 +22,7 @@
             "footnotes": [
                 {
                     "word": "talinghagang",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -33,7 +33,7 @@
             "footnotes": [
                 {
                     "word": "bilang",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -44,7 +44,7 @@
             "footnotes": [
                 {
                     "word": "pinapasan",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -67,19 +67,19 @@
             "footnotes": [
                 {
                     "word": "salaping",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "ilawan,",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "magwawalis",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "maghahanap",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": [
@@ -92,11 +92,11 @@
             "footnotes": [
                 {
                     "word": "kaibigan",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "kapitbahay,",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -121,11 +121,11 @@
             "footnotes": [
                 {
                     "word": "bahagi",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "kabuhayan.",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -136,11 +136,11 @@
             "footnotes": [
                 {
                     "word": "malayong",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "napakasamang",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -157,7 +157,7 @@
             "footnotes": [
                 {
                     "word": "magpakain",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -168,7 +168,7 @@
             "footnotes": [
                 {
                     "word": "carob",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -179,11 +179,11 @@
             "footnotes": [
                 {
                     "word": "Ilang",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "pagkain,",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -194,11 +194,11 @@
             "footnotes": [
                 {
                     "word": "Titindig",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "laban",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -209,11 +209,11 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "upahan.",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -224,15 +224,15 @@
             "footnotes": [
                 {
                     "word": "natanawan",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "tumakbo",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "niyakap",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": null
@@ -249,31 +249,31 @@
             "footnotes": [
                 {
                     "word": "Subali’",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "madali",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "22-3"
                 },
                 {
                     "word": "pinakamabuting",
-                    "note": ""
+                    "id": "22-4"
                 },
                 {
                     "word": "balabal",
-                    "note": ""
+                    "id": "22-5"
                 },
                 {
                     "word": "singsing",
-                    "note": ""
+                    "id": "22-6"
                 },
                 {
                     "word": "panyapak",
-                    "note": ""
+                    "id": "22-7"
                 }
             ],
             "outlines": null
@@ -284,11 +284,11 @@
             "footnotes": [
                 {
                     "word": "pinatabang",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "patayin",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -299,11 +299,11 @@
             "footnotes": [
                 {
                     "word": "patay",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "nawala",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -314,7 +314,7 @@
             "footnotes": [
                 {
                     "word": "panganay",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -331,7 +331,7 @@
             "footnotes": [
                 {
                     "word": "ligtas",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -348,15 +348,15 @@
             "footnotes": [
                 {
                     "word": "nagpapaalipin",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "nagpabaya",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "kambing",
-                    "note": ""
+                    "id": "29-3"
                 }
             ],
             "outlines": null
@@ -367,7 +367,7 @@
             "footnotes": [
                 {
                     "word": "kabuhayan",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -384,10 +384,172 @@
             "footnotes": [
                 {
                     "word": "namatay",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "3-1",
+            "text": "Sa pagsagot sa mga Fariseo at mga eskribang nag-aaring-matuwid-sa-sarili na humatol sa Tagapagligtas sa pagsalo sa mga makasalanan, Siya ay nagsalita ng tatlong talinghaga, nagpapahayag at naglalarawan kung paanong ang dibinong Trinidad ay gumagawa upang ibalik ang mga makasalanan, sa pamamagitan ng Anak, sa pamamagitan ng Espiritu, patungo sa Ama. Ang Anak ay pumarito sa Kanyang pagkatao bilang Pastol upang hanapin ang makasalanan tulad ng nawawalang tupa at upang maiuwi ito sa tahanan (bb. 4-7). Hinanap ng Espiritu ang makasalanan katulad ng maingat na paghahanap ng babae sa isang nawawalang salaping pilak hanggang sa masumpungan ito (bb. 8-10). At tinanggap ng Ama ang nagsisisi at nagbalik-loob na makasalanan katulad ng isang taong tumanggap sa kanyang alibughang anak (bb. 11-32). Pinahahalagahan ng buong dibinong Trinidad ang makasalanan at nakikibahagi sa pagbabalik sa kanya sa Diyos. Binigyan-diin ng tatlong talinghaga ang pag-ibig ng dibinong Trinidad nang higit kaysa sa natisod na kalagayan at pagsisisi ng nagsisising makasalanan. Ang dibinong pag-ibig ay lubusang naipahayag sa magiliw na pag-aaruga ng Anak bilang mabuting pastol, sa masinsing paghahanap ng Espiritu bilang mangingibig ng mahalagang kayamanan, at ang mainit na pagtanggap ng Ama bilang mapagmahal na ama. Dito ang dibinong pag-ibig ay lubusang naihahayag."
+        },
+        {
+            "id": "4-1",
+            "text": "Sumasagisag sa sanlibutan, tumutukoy na ang Anak ay pumarito sa sanlibutan upang makasama ang tao (Juan 1:14)."
+        },
+        {
+            "id": "5-1",
+            "text": "Ipinakikita nito kapwa ang nagliligtas na kalakasan at nagliligtas na pag-ibig ng Tagapagligtas."
+        },
+        {
+            "id": "8-1",
+            "text": "Lit. drachmas (katulad sa b. 9), halos kasinghalaga ng denario ng Romano. Ang isang drachma ay katumbas ng isang araw na sahod."
+        },
+        {
+            "id": "8-2",
+            "text": "Sumasagisag sa salita ng Diyos (Awit 119:105, 130) na ginagamit ng Espiritu upang liwanagan at ihantad ang katayuan at kalagayan ng makasalanan upang siya ay magsisi."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang saliksikin at linisin ang kalooban ng makasalanan."
+        },
+        {
+            "id": "8-4",
+            "text": "Ang paghahanap ng Anak sa b. 4 ay nasa labas ng makasalanan, isinakatuparan sa krus sa pamamagitan ng Kanyang nagtutubos na kamatayan; ang paghahanap dito ng Espiritu ay nasa loob, isinagawa sa pamamagitan ng Kanyang pagkilos sa loob ng nagsisising makasalanan."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang mga salitang ito sa Griyego ay pambabae, naiiba sa “mga kaibigan” at “mga kapitbahay” sa b. 6, na panlalake."
+        },
+        {
+            "id": "12-1",
+            "text": "Tumutukoy sa kanyang mana sa pamamagitan ng pagkasilang."
+        },
+        {
+            "id": "12-2",
+            "text": "Tumutukoy sa inaasahang kabuhayan ng ama na siyang ikinabubuhay at ari-arian ng ama (b. 30). Gr. bios , buhay, yaon ay, ang kasalukuyang katayuan ng buhay, tulad ng nasa 8:14; sa pahiwatig, ito ay tumutukoy sa paraan ng pamumuhay, tulad ng narito at sa Marc. 12:44."
+        },
+        {
+            "id": "13-1",
+            "text": "Sumasagisag sa makasatanas na sanlibutan."
+        },
+        {
+            "id": "13-2",
+            "text": "Lit. hindi nagtitipid. Ang salita sa Griyego ay ginagamit upang magsaad ng pinasamâ, bulagsak na pamumuhay."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang mga baboy ay marurumi (Lev. 11:7). Ang pagpapakain ng mga baboy ay isang maruming gawain, sumasagisag sa maruming hanapbuhay sa makasatanas na sanlibutan."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang carob ay isang palaging luntiang punong-kahoy. Ang balat nito, na tinatawag ding carob bins, ay ginagamit bilang kumpay upang pakainin ang mga hayop at mga naghihikahos na tao. Ang isang kawili-wiling pangungusap ng mga rabi, na nagsasabi, “Kung ang mga Israelita ay mapaliliit at maging mga carob bins, sa gayon sila ay magsisisi.” Isang tradisyon ang nagsasabing si Juan Bautista ay kumain ng balat ng carob sa ilang; kaya ito ay tinawag na tinapay ni San Juan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay dahilan sa pagliliwanag at pagsasaliksik ng Espiritu (b. 8) sa loob niya."
+        },
+        {
+            "id": "17-2",
+            "text": "Lit. tinapay."
+        },
+        {
+            "id": "18-1",
+            "text": "Ito ang bunga ng paghahanap ng Espiritu sa b. 8."
+        },
+        {
+            "id": "18-2",
+            "text": "Lit. laban sa langit at sa harap mo. Ang “laban sa langit” ay katumbas ng laban sa iyong paningin (sa paningin ng Diyos Ama). Ang magkasala laban sa langit ay ang magkasala sa paningin ng Diyos, sapagkat ang Diyos Ama ay nasa langit (11:2)."
+        },
+        {
+            "id": "19-1",
+            "text": "Hindi talos ng alibughang anak ang pag-ibig ng ama."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang natisod na makasalanan, minsang nagsisi, ay laging nag-iisip na gumawa para sa Diyos o maglingkod sa Diyos upang makamit ang Kanyang kaluguran, na hindi nalalamang ang ganitong kaisipan ay laban sa pag-ibig at biyaya ng Diyos at isang insulto sa Kanyang puso at ninanasa."
+        },
+        {
+            "id": "20-1",
+            "text": "Ito ay hindi nangyari nang di-inaasahan; ang ama ay lumabas ng bahay na umaasa sa pagbabalik ng alibughang anak."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang Diyos Ama ay tumakbo upang tanggapin ang nagbabalik na makasalanan. Anong pananabik ang ipinakikita nito!"
+        },
+        {
+            "id": "20-3",
+            "text": "Isang mainit at mapagmahal na pagtanggap. Ang pagbabalik ng alibughang anak sa Ama ay dahil sa paghahanap ng Espiritu (b. 8); ang pagtanggap ng Ama sa nagbalik na alibughang anak ay batay sa paghahanap na ginawa ng Anak sa loob ng Kanyang pagtutubos (b. 4)."
+        },
+        {
+            "id": "22-1",
+            "text": "“Subali’t!” Anong salita ng pag-ibig at biyaya! Sinalungat nito ang sariling pag-iisip ng alibughang anak at itinigil ang kanyang walang kabuluhang pagsasalita."
+        },
+        {
+            "id": "22-2",
+            "text": "Upang itugma sa pagtakbo ng ama (b. 20)."
+        },
+        {
+            "id": "22-3",
+            "text": "Ang “ang” ay tumutukoy sa isang natatanging balabal na inihanda para sa ganitong natatanging layunin sa ganitong natatanging oras."
+        },
+        {
+            "id": "22-4",
+            "text": "Lit. ang pangunahing."
+        },
+        {
+            "id": "22-5",
+            "text": "Sumasagisag kay Kristo na Anak bilang ang nagbibigay-kasiyahang katuwiran ng Diyos upang takpan ang nagsisising makasalanan (Jer. 23:6; 1 Cor. 1:30; Fil. 3:9; cf. Isa. 61:10; Zac. 3:4). Hinalinhan ng pinakamabuting balabal na ito, na siyang pangunahing balabal, ang mga basahan (Isa. 64:6) ng nagbalik na alibugha."
+        },
+        {
+            "id": "22-6",
+            "text": "Sumasagisag sa nagtatatak na Espiritu bilang tatak na ibinibigay ng Diyos sa mga tinanggap na mananampalataya (Efe. 1:13; cf. Gen. 24:47; 41:42)."
+        },
+        {
+            "id": "22-7",
+            "text": "Sumasagisag sa kapangyarihan ng pagliligtas ng Diyos upang ihiwalay ang mga mananampalataya sa maruming sangkalupaan. Ang singsing at ang panyapak ay kapwa simbolo ng isang malayang tao. Ibinabagay ng paggagayak ng balabal sa katawan, ng singsing sa kamay, at ng mga panyapak sa mga paa ang nagdaralitang alibugha sa kanyang mayamang ama at nagbibigay-karapatan sa kanya na makapasok sa tahanan ng ama at makipagpiging kasama ang ama. Ginagayakan tayo ng kaligtasan ng Diyos ng Kristo at ng Espiritu upang matamasa natin ang kayamanan ng Kanyang bahay."
+        },
+        {
+            "id": "23-1",
+            "text": "Sumasagisag sa mayamang Kristo (Efe. 3:8) na pinatay sa krus upang maging katamasahan ng mga mananampalataya. Ang pagliligtas ng Diyos ay may dalawang aspekto: ang panlabas na obhektibong aspekto na sinasagisag ng pinakamabuting balabal, at ang panloob na subhektibong aspekto na sinasagisag ng pinatabang guya. Si Kristo bilang ating katuwiran ay ang ating panlabas na kaligtasan; si Kristo bilang ating buhay para sa ating katamasahan ay ang ating panloob na kaligtasan. Pinapaging-dapat ng pinakamabuting balabal ang alibughang anak na mapantayan ang mga kahilingan ng kanyang ama at mabigyang-kasiyahan ang kanyang ama; ang pinatabang guya ay nagbibigay-kasiyahan sa kanyang kagutuman. Sa gayon, kapwa ang ama at ang anak ay magkasama nang makapagsasaya."
+        },
+        {
+            "id": "23-2",
+            "text": "O, isakripisyo (gayon din sa bb. 27, 30)"
+        },
+        {
+            "id": "24-1",
+            "text": "Ang lahat ng nawalang makasalanan ay mga patay sa mga mata ng Diyos (Efe. 2:1, 5). Nang sila ay mangaligtas, sila ay binuhay (Juan 5:24; Col. 2:13)."
+        },
+        {
+            "id": "25-1",
+            "text": "Sumasagisag sa mga Fariseo at mga eskriba (b. 2) na kumakatawan sa mga di-nananampalatayang Hudyo na sumusunod sa kautusan ng katuwiran (Roma 9:31-32) sa pamamagitan ng kanilang paggawa, na sinagisag ng “nasa bukid.”"
+        },
+        {
+            "id": "27-1",
+            "text": "Lit. maayos o malusog."
+        },
+        {
+            "id": "29-1",
+            "text": "Sumasagisag sa pagkaalipin sa ilalim ng kautusan (Gal. 5:1)."
+        },
+        {
+            "id": "29-2",
+            "text": "O, lumabag."
+        },
+        {
+            "id": "29-3",
+            "text": "Isang bisirong kambing o batang kambing."
+        },
+        {
+            "id": "30-1",
+            "text": "Tingnan ang tala 12-2 ."
+        },
+        {
+            "id": "32-1",
+            "text": "Tingnan ang tala 24-1 ."
         }
     ]
 }

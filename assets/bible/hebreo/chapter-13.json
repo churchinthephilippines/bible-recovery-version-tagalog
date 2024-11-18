@@ -1,5 +1,5 @@
 {
-    "chapter": 13,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "pag-ibig",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -27,7 +27,7 @@
             "footnotes": [
                 {
                     "word": "Alalahanin",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -38,15 +38,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "pag-aasawa",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "hahatulan",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -57,7 +57,7 @@
             "footnotes": [
                 {
                     "word": "pag-ibig",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -74,7 +74,7 @@
             "footnotes": [
                 {
                     "word": "Alalahanin",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -85,7 +85,7 @@
             "footnotes": [
                 {
                     "word": "Hesu-",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": [
@@ -98,19 +98,19 @@
             "footnotes": [
                 {
                     "word": "sari-sari",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "mapagtibay",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "pagkain,",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "nag-abala",
-                    "note": ""
+                    "id": "9-4"
                 }
             ],
             "outlines": null
@@ -121,7 +121,7 @@
             "footnotes": [
                 {
                     "word": "dambana",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -132,7 +132,7 @@
             "footnotes": [
                 {
                     "word": "katawan",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -143,19 +143,19 @@
             "footnotes": [
                 {
                     "word": "mapaging-",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "dugo,",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "labas",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "pintuang-bayan",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -166,11 +166,11 @@
             "footnotes": [
                 {
                     "word": "labas",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "kampamento",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -181,11 +181,11 @@
             "footnotes": [
                 {
                     "word": "namamalaging",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "hinahanap",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -196,7 +196,7 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -207,11 +207,11 @@
             "footnotes": [
                 {
                     "word": "paggawa",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "pagbabahagi",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": [
@@ -224,7 +224,7 @@
             "footnotes": [
                 {
                     "word": "Magsitalima",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -235,7 +235,7 @@
             "footnotes": [
                 {
                     "word": "Ipanalangin",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -252,15 +252,15 @@
             "footnotes": [
                 {
                     "word": "tupa,",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": [
@@ -273,11 +273,11 @@
             "footnotes": [
                 {
                     "word": "sangkapan",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -288,7 +288,7 @@
             "footnotes": [
                 {
                     "word": "pagtiisan",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -299,7 +299,7 @@
             "footnotes": [
                 {
                     "word": "Timoteo",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -310,7 +310,7 @@
             "footnotes": [
                 {
                     "word": "Batiin",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -321,10 +321,152 @@
             "footnotes": [
                 {
                     "word": "biyaya.",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Kung titingnan ang nilalaman, ang kapitulong ito ay isinulat para sa isang wastong buhay-ekklesia. Halos lahat ng binanggit dito, tulad ng pag-ibig sa mga kapatid, pagpapatuloy sa mga bisitang-manlalakbay, atbp., ay para sa buhay-ekklesia, hindi lamang para sa buhay-Kristiyano."
+        },
+        {
+            "id": "3-1",
+            "text": "Ito ay ang magdusa kasama ng mga nagdurusang sangkap ng Katawan ni Kristo, ang ekklesia (1 Cor. 12:26)."
+        },
+        {
+            "id": "4-1",
+            "text": "O, sa lahat ng aspekto."
+        },
+        {
+            "id": "4-2",
+            "text": "Sa buhay-ekklesia, ang mga ugnayan sa pagitan ng mga kapatid na lalake at babae ay hindi maiiwasan. Kaya nga, para sa ating proteksiyon laban sa pagkarungis, kinakailangan nating bigyang-dangal ang pag-aasawa at huwag kumilos ng may kapabayaan. Ito ay isang bagay na lubhang nakaaapekto sa ating pagkapanganay sa ekonomiya ng Diyos. Ang pagkapanganay ay nawala kay Ruben dahil sa kanyang karungisan (Gen. 49:3-4; 1 Kron. 5:1) at natanggap ito ni Jose dahil sa kanyang kadalisayan (1 Kron. 5:1; Gen. 39:7-12. Tingnan ang tala 16-1 sa kap. 12). Ang mga mapangalunya at ang mga mapakiapid ay hahatulan ng Diyos at sila ay kinakailangan ding hatulan ng ekklesia (1 Cor. 5:1-2, 11-13). Wala nang iba pang nakapipinsala nang higit sa mga banal at sa buhay-ekklesia tulad ng ganitong karungisan."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang aklat na ito ay isang aklat tungkol sa kabanalan ng Diyos. Hindi pahihintulutan ng banal na Diyos ang anumang karungisan sa kalagitnaan natin. Hahatulan Niya ang Kanyang bayan (10:30; 12:23)."
+        },
+        {
+            "id": "5-1",
+            "text": "Tiyak na ang mga mangingibig ng salapi ay hindi makapapasok sa realidad ng buhay-ekklesia. Tayo ay nararapat na palaging masiyahan sa ating mga kalagayan upang tayo ay hindi malinlang ng mammon na lumayo sa buhay-ekklesia. Yamang mayroon tayong Panginoon bilang ating Katulong, tayo ay kinakailangang maging kontento at payapa upang tayo ay ganap na mapanatili sa loob ng pagtatamasa sa buhay-ekklesia."
+        },
+        {
+            "id": "7-1",
+            "text": "Ito ay mahalaga sa buhay-ekklesia. Ang mga tagapaghain ng salita ng Diyos ay nararapat magkaroon ng isang uri ng pamumuhay na maaaring maging halimbawa ng pananampalataya upang tularan ng mga sangkap ng ekklesia, na siyang mga tagatanggap ng salita ng Diyos. Sa gayon, hindi lamang tatanggapin ng mga sangkap ng ekklesia ang salita na kanilang inihahain, bagkus ay tutularan din ang kanilang pananampalatayang naihayag sa uri ng kanilang pamumuhay. Ang bersikulong ito ay isang pagpapatuloy ng bb. 5 at 6. Ang “kanilang pamumuhay” ay tiyak na tumutukoy sa paraan ng pamumuhay na ipinamumuhay ng mga tagapaghain ng salita ng Diyos-walang pag-ibig sa salapi at nasisiyahan sa kanilang mga kalagayan (b. 5a). Ang “kanilang pananampalataya” ay tiyak na tumutukoy sa kanilang pagtitiwala sa Panginoon bilang kanilang Katulong para sa kanilang ikabubuhay (bb. 5b-6). Ang salitang kanilang inihain at ang buhay na kanilang ipinamuhay ay kinakailangang pawang si Kristo, at ang kanilang pananampalataya ay nararapat na maging ang pananampalatayang nasa loob ni Kristo, na Siyang kapwa Maykatha at Tagapagpasakdal nito (12:2). Ang gayong uri ng pamumuhay at ang gayong uri ng pananampalataya ay tiyak na karapat-dapat na tularan ng mga mananampalatayang tumanggap ng salita ng Diyos na kanilang inihain, at mga nagsaalang-alang sa kinalabasan ng uri ng kanilang pamumuhay."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang Kristo, na Siyang salitang ipinangaral at itinuro ng mga tagapaghain ng salita ng Diyos sa b. 7, na Siyang buhay na kanilang ipinamuhay, at Siyang Maykatha at ang Tagapagpasakdal ng kanilang pananampalataya, ay walang katapusan, hindi mababago, at hindi nagbabago. Siya ay nananatiling gayon pa rin magpakailanman (1:11-12). Kinakailangang wala nang “ibang Hesus,” “ibang ebanghelyo” na ipangangaral sa ekklesia (2 Cor. 11:4; Gal. 1:8-9). Para sa isang tunay at matatag na buhay-ekklesia, tayo ay kinakailangang manangan sa Kristong Siya ring kahapon, at ngayon, at magpakailanman, at hindi matangay sa mga sari-sari at mga kakaibang pagtuturo (b. 9)."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang mga sari-sari at mga kakaibang pagtuturo ay palaging ginagamit ni Satanas upang magsanhi ng pagtatalo at maging ng paghahati-hati sa gitna ng ekklesia. Dahil dito, nag-atas ang apostol sa mga tao na huwag magsipagturo ng ibang aral (1 Tim. 1:3). Ang mga sari-sari at mga kakaibang pagtuturo ay malamang na itinuro ng mga maka-Hudaismo nang panahong yaon. Ang sumulat ay nagbabala sa mga mananampalatayang Hebreo na huwag magpatangay sa kanilang mga pagtuturo na maghihiwalay sa kanila mula sa buhay-ekklesia na nasa ilalim ng bagong tipan."
+        },
+        {
+            "id": "9-2",
+            "text": "Nang panahong yaon, ang mapagtibay ng biyaya ay ang manatili sa bagong tipan upang tamasahin si Kristo bilang biyaya (Gal. 5:4) at hindi magpatangay sa Hudaismo upang makilahok sa pagkain ng kanilang mga pagkain (mga hain) sa mga makarelihiyong seremonya."
+        },
+        {
+            "id": "9-3",
+            "text": "Ang mga pagkain dito, bilang kabaligtaran ng biyaya, ay tumutukoy sa mga pagkain ng mga makaseremonyang pagdiriwang ng lumang tipan (9:10; Col. 2:16), na ginamit ng mga maka-Hudaismo, nagsusumikap na tangayin ang mga mananampalatayang Hebreo mula sa pagtatamasa sa biyaya, na siyang pakikilahok kay Kristo sa bagong tipan."
+        },
+        {
+            "id": "9-4",
+            "text": "*Yaong mga lumakad nang ayon sa mga ordinansa tungkol sa pagkain."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang dambanang ito ay tiyak na ang krus kung saan inihandog ng Panginoong Hesus ang Kanyang Sarili bilang hain para sa ating mga kasalanan (10:12). Ayon sa mga alintuntunin tungkol sa mga hain sa Lumang Tipan, ang hain para sa kasalanan, o handog para sa kasalanan, na ang dugo ay dinala sa loob ng Dakong Kabanal-banalan o ng Dakong Banal para sa pagbabayad-pinsala, ay walang ibinigay sa naghahandog na saserdote o sa naghandog upang makain; ang buong handog ay kinakailangang sunugin (Lev. 4:2-12; 16:27; 6:30). Kaya nga, yaong mga naglilingkod sa tabernakulo ay walang karapatang kumain ng handog sa kasalanang nasa dambana (sa Bagong Tipan, ang krus ng Panginoon ay ang katuparan ng dambana). Ang bersikulong ito ay isang matibay na argumento laban sa mga pagkaing ginamit ng mga maka-Hudaismo sa kanilang mga kakaibang pagtuturo, nagtatangkang tangaying palayo ang mga bagong tipang mananampalataya sa pagtatamasa kay Kristo. Ang binibigyang-diin ng mga maka-Hudaismo ay ang mga pagkaing kanilang tinamasa sa kanilang mga makarelihiyong paglilingkod. Subalit ang sumulat ng aklat na ito ay nakikipag-argumento na sa handog para sa kasalanan, ang batayang handog para sa kanilang taunang pagbabayad-pinsala (Lev. 16), ay walang makakain ang sinuman. Ang handog para sa kasalanan ay hindi para kainin ng tao, kundi para tanggapin ang bisa ng pagbabayad-pinsala. Ngayon ang tunay na handog para sa kasalanan ay si Kristo, na naghandog ng Kanyang Sarili sa Diyos para sa ating kasalanan at nagsagawa ng ganap na pagtutubos (na lalong mabuti kaysa sa pagbabayad-pinsala; tingnan ang tala 12-1 sa kap. 9) para sa atin upang tayo ay madala sa loob ng pagtatamasa ng biyaya ng Diyos sa loob Niya sa ilalim ng bagong tipan. Ang kailangan natin ngayon ay hindi ang kumain ng mga pagkaing nauukol sa mga paglilingkod sa lumang tipan, kundi ang tanggapin ang bisa ng paghahandog ni Kristo at sundan Siya sa bagong tipang biyaya sa labas ng kampamento, sa labas ng relihiyong Hudaismo."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang dugo ng handog para sa kasalanan na dinadala sa loob ng Dakong Kabanal-banalan sa araw ng Pagbabayad-pinsala upang gumawa ng pagbabayad-pinsala para sa mga tao at ang katawan ng mga handog na ito na sinusunog sa labas ng kampamento (Lev. 16:14-16, 27) ay sumasagisag sa dugo ni Kristo, na Siyang tunay na handog para sa kasalanan, na dinala sa loob ng tunay na Dakong Kabanal-banalan upang isagawa ang pagtutubos para sa atin at sa Kanyang katawang inihain para sa atin sa labas ng pintuan ng lunsod ng Herusalem (b. 12)."
+        },
+        {
+            "id": "12-1",
+            "text": "Ipinakikita ng aklat na ito sa atin na ang makalangit na pagtawag ng Diyos ay upang gawin tayong mga banal na tao (3:1), mga taong pinabanal tungo sa Diyos. Si Kristo ang Tagapagpabanal (2:11). Siya ay nagdusa ng kamatayan sa krus, nagdaloy ng Kanyang dugo, at pumasok sa Dakong Kabanal-banalan dala ang Kanyang dugo (9:12) upang Kanyang maisagawa ang gawain ng pagpapabanal sa pamamagitan ng Kanyang makalangit na ministeryo (8:2, 6) ng Kanyang makalangit na pagkasaserdote (7:26), at upang tayo ay makapasok “sa loob ng tabing” sa pamamagitan ng Kanyang dugo nang sa gayon ay makabahagi sa Kanya bilang ang makalangit na Tagapagpabanal. Sa pamamagitan ng pakikibahagi sa Kanya sa ganitong paraan, tayo ay mabibigyang-kakayahang sundan Siya sa labas ng kampamento sa pamamagitan ng nagpapabanal na landasin ng krus. Tingnan ang tala 12-2 at 131."
+        },
+        {
+            "id": "12-2",
+            "text": "Sa pamamagitan ng Kanyang dugo, ang Panginoon ay pumasok sa Dakong Kabanal-banalan (9:12). Ang dugo ring ito ang nagbukas ng bago at buháy na daan upang makapasok tayo “sa loob ng tabing” nang sa gayon ay matamasa Siya sa kalangitan bilang ang niluwalhating Isa (10:19-20); ang Kanyang katawan namang inihain para sa atin sa krus ang nagbukas ng makipot na daan ng krus upang tayo ay pumunta sa labas ng kampamento nang sa gayon ay masundan Siya sa lupa bilang ang nagdurusang Isa (b. 13)."
+        },
+        {
+            "id": "12-3",
+            "text": "Ito ang pintuan ng lunsod ng Herusalem. Ang lunsod ay sumasagisag sa panlupang kinasasakupan, samantalang ang kampamento (b. 13) ay sumasagisag sa pantaong organisasyon. Ang dalawa ay sumasagisag sa iisang bagay, yaon ay, ang relihiyong Hudaismo na taglay ang lupang kinasasakupan at pantaong organisasyon. Ang Hudaismo ay kapwa makalupa at pantao, *hindi makalangit at hindi sa Diyos.*"
+        },
+        {
+            "id": "13-1",
+            "text": "Ang labasin Siya sa labas ng kampamento at ang pumasok sa loob ng tabing (6:19) ay dalawang kapansin-pansing punto sa aklat na ito. Ang pumasok sa loob ng tabing ay nangangahulugan ng pagpasok sa Dakong Kabanal-banalan, kung saan ay nakaluklok ang Panginoon sa kaluwalhatian, at ang lumabas sa labas ng kampamento ay nangangahulugan ng paglabas mula sa relihiyon kung saan ang Panginoon ay pinalayas at tinanggihan. Ito ay nagsasagisag na kinakailangan nating maging nasa loob ng ating espiritu. Sa pangkaranasang pagsasalita, ang ating espiritu ang siyang praktikal na Dakong Kabanal-banalan ngayon. At kinakailangan din nating maging nasa labas ng relihiyon. Ang relihiyon, sa praktikal na karanasan, ay siyang kampamento ngayon. Lalo tayong nasa loob ng ating espiritu na tinatamasa ang Kristong nasa langit, lalo naman tayong mapapasalabas ng relihiyon na siyang labas ng kampamento, sumusunod sa nagdurusang Hesus. Ang mapasa ating espiritu upang tamasahin ang niluwalhating Kristo ay nagbibigay-kakayahan sa atin upang lumabas sa relihiyon nang sa gayon ay makasunod sa Hesus na tinanggihan. Lalo nating kinakaugnay sa loob ng ating espiritu ang Kristong nasa langit sa Kanyang kaluwalhatian, lalo naman tayong lalabas tungo sa labas ng kampamento ng relihiyon, dudulog sa hinamak na Hesus at makikisama sa Kanyang pagdurusa. Ang kaugnayin si Kristong nasa mga kalangitan, tinatamasa ang Kanyang pagkaluwalhati, ay nagbibigay-sigla sa atin upang tahakin ang makipot na landasin ng krus sa lupa, dinadala ang Kanyang pagdusta. Ang aklat na ito, unang-una, ay nagbibigay sa atin ng isang malinaw na pangitain ng Kristong nasa langit at ng Dakong Kabanal-banalang nasa langit, at pagkatapos ay nagpapakita sa atin kung paano lumakad sa landasin ng krus sa lupa, yaon ay, ang tumungo kay Hesus sa labas ng kampamento, sa labas ng relihiyon, dinadala ang Kanyang pagkadusta. Pagkatapos na sambahin ng mga anak ni Israel ang gintong guya (Exo. 32), maging si Moises ay lumipat “sa labas ng kampamento,” kung saan ang sinumang naghangad sa Panginoon ay pumunta upang makipagtipon sa kanya, sapagkat kapwa ang presensiya ng Panginoon at ang Kanyang pagsasalita ay naroroon (Exo. 33:7-11). Tayo ay kinakailangan nasa labas ng kampamento upang matamasa natin ang presensiya ng Panginoon at marinig ang Kanyang pagsasalita. Ang lahat ng ito ay kinakailangan para sa praktikal at wastong buhay-ekklesia. Ang Dakong Kabanal-banalan, ang landasin ng krus (sinagisag sa pamamagitan ng pagtungo kay Hesus sa labas ng kampamento, na dinadala ang Kanyang pagkadusta), at ang kaharian ay tatlong mahalagang bagay na inilahad sa aklat na ito. Ang mayamang panustos ng Dakong Kabanal-banalan ay nagbibigay-kakayahan sa atin upang tahakin ang landasin ng krus, at ang landasin ng krus ay naghahatid sa atin sa loob ng pagpapakita ng kaharian upang matamo ang maluwalhatiang gantimpala."
+        },
+        {
+            "id": "13-2",
+            "text": "Tingnan ang tala 12-2 ."
+        },
+        {
+            "id": "14-1",
+            "text": "O, nananatili."
+        },
+        {
+            "id": "14-2",
+            "text": "Ibinibilang ng manunulat ng aklat na ito ang kanyang sarili at ang kanyang mga mambabasa na tunay na mga mananawid-ilog na mga Hebreo katulad ng mga Patriarka (11:9-10, 13:16)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang bersikulong ito ay isang pagpapatuloy ng bb. 8-14. Yamang sa buhay-ekklesia ay natatamasa natin ang di-nagbabagong Kristo bilang biyaya at nasusundan natin Siya sa labas ng relihiyon, nararapat tayong maghandog sa pamamagitan Niya ng mga espiritwal na hain sa Diyos. Unang-una, dapat tayong palaging maghandog sa pamamagitan ni Hesus ng isang hain ng papuri sa Diyos sa loob ng ekklesia. Sa gitna ng ekklesia at sa ating loob ang Panginoon Hesus ay umaawit ng mga himno ng papuri sa Diyos Ama (2:12). Tayo rin ay dapat magpuri sa Diyos Ama sa gitna ng ekklesia sa pamamagitan Niya. Sa katapus-tapusan Siya at tayo, tayo at Sya, ay magpupuri sa Ama nang magkasama sa gitna ng ekklesia sa loob ng pinaghalong espiritu. Siya, bilang ang Espiritung nagbibigay-buhay, ay nagpupuri sa Ama sa loob ng ating espiritu, at tayo, sa pamamagitan ng ating espiritu, ay nagpupuri rin sa Ama sa loob ng Kanyang Espiritu. Ito ang pinakamahusay at pinakamataas ng haing maihahandog natin sa Diyos sa pamamagitan ni Hesus. Ito ay lubhang kinakailangan sa mga pagpupulong ng ekklesia."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang paggawa ng mabuti at pagbabahagi sa iba ay dalawang pang haing dapat nating ihandog sa Diyos sa pamamagitan ni Kristo. Ang mga ito ay kinakailangan din para sa isang wastong buhay-ekklesia. Tunay na hindi wasto kung sa gitna ng ekklesia ay hindi napangangalagaan ang ilang nangangailangang banal. Ito ay nangangahulugang ang pagbabahagi sa iba ay wala o kaya di-sapat."
+        },
+        {
+            "id": "16-2",
+            "text": "Lit. pakikipagsalamuha, yaon ay, pakikipagsalamuha sa pangangailangan ng mga banal."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay lubhang kinakailangan sa buhay-ekklesia."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang manalangin para sa mga apostol ay isa ring aspekto ng buhay-ekklesia."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang mga tupa rito ay ang kawan na siyang ekklesia. Ito ay nagpapatibay sa pagkaunawa na lahat ng bagay na tinalakay sa kapitulong ito ay para sa buhay-ekklesia kasama ang pagdaranas sa di-nagbabagong Kristo bilang ating handog sa kasalanan, na sa kaninong pamamagitan tayo ay natubos, at bilang ating dakilang pastol, na sa kaninong pamamagitan tayo ngayon ay pinakakain."
+        },
+        {
+            "id": "20-2",
+            "text": "Lit. sa dugo ng walang-hanggang tipan."
+        },
+        {
+            "id": "20-3",
+            "text": "Hindi tinalakay ang aklat na ito ang tungkol sa mga pansamantalang bagay, katulad ng mga bagay ng lumang tipan, kundi tinatalakay nito ang mga bagay na pangwalang-hanggan, mga bagay na lagpas sa hangganan ng panahon at kalawakan, gaya ng walang-hanggang kaligtasan (5:9), walang-hanggang kahatulan (6:2), walang-hanggang katubusan (9:12), walang-hanggang Espiritu (9:14), walang-hanggang mana (9:15), at walang-hanggang tipan (b. 20). Ang bagong tipan ay hindi lamang isang lalong mabuting tipan (7:22;8:6),bagkus isa ring walang-hanggang tipan. Ito ay may walang-hanggang bisa dahil sa walang-hanggang bisa ng dugo ni Kristo. Sa pamamagitan ng dugong ito, ang bagong tipan ay naisagawa (Mat. 26:28; Luc. 22:20)."
+        },
+        {
+            "id": "21-1",
+            "text": "O, Pakasakdalin."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang Diyos ay gumagawa sa loob natin ng nakalulugod sa Kanyang paningin sa pamamagitan ni Hesu-Kristo upang magawa natin ang Kanyang kalooban. Ang Diyos ay gumagawa sa atin maging sa pagnanais at sa paggawa ayon sa Kanyang mabuting kaluguran (Fil. 2:13). Mula simula hanggang wakas ng aklat na ito, inihahayag sa atin ang isang Kristong nasa langit. Tangi lamang sa bersikulong ito ginamit ang mga salitang “na gumagawa sa loob natin…sa pamamagitan ni Hesu-Kristo,” sa gayon ay nagpapahiwatig ng pananahanan ni Kristo. Ito ay nagsasaad na ang Diyos ay nasa atin din, sa pamamagitan ng paggawa ng nananahanang Kristo ay nagsasanhi sa atin upang magawa natin ang Kanyang kalooban."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang pagtiisan ang salita ng apostol ay kinakailangan din sa buhay-ekklesia (Gawa 2:42)."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang banggitin si Timoteo sa gayong katalik na paraan ay isang matibay na katunayan na ang aklat na ito ay isinulat ni Apostol Pablo. Tingnan ang 1 Tim. 1:2 at 2 Tim. 1:2."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang mga pagbati sa bersikulong ito ay kahimig din ng pagsasalamuha sa gitna ng ekklesia at sa pagitan ng mga ekklesia."
+        },
+        {
+            "id": "25-1",
+            "text": "Kailangan natin ang biyaya upang makaunawa at makabahagi sa lahat ng ipinahayag sa atin sa aklat na ito. Upang matanggap ang biyaya (12:28), tayo ay kailangang magsilapit sa trono ng biyaya, upang tayo ay makasumpong ng biyaya para sa panahon ng pangangailangan (4:16). Sa pamamamagitan ng pag-eensayo ng ating espiritu ay ating mahihipo ang trono ng biyaya sa Dakong Kabanal-banalan upang matamasa ang Espiritu ng biyaya (10:29). Sa gayon ang ating puso ay napagtitibay sa pamamagitan ng biyaya (b. 9). Sa pamamagitan ng pagtatamasa sa biyayang ito, matatakbo natin ang takbuhing inilagay sa harapan natin (12:1), upang marating ang hantungan ng Bagong Tipan ekonomiya ng Diyos."
         }
     ]
 }

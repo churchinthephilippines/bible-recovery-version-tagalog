@@ -1,5 +1,5 @@
 {
-    "chapter": 8,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,27 +7,27 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "kaalaman.",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "kaalaman",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "nakapagtatayo.",
-                    "note": ""
+                    "id": "1-5"
                 }
             ],
             "outlines": [
@@ -42,11 +42,11 @@
             "footnotes": [
                 {
                     "word": "nalalamang",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "malaman;",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -57,7 +57,7 @@
             "footnotes": [
                 {
                     "word": "umiibig",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -68,7 +68,7 @@
             "footnotes": [
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": [
@@ -87,31 +87,31 @@
             "footnotes": [
                 {
                     "word": "atin",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "Ama,",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "buhat",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "6-5"
                 },
                 {
                     "word": "Hesu-",
-                    "note": ""
+                    "id": "6-6"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-4"
                 }
             ],
             "outlines": null
@@ -122,11 +122,11 @@
             "footnotes": [
                 {
                     "word": "budhi",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "nangahahawa.",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -137,7 +137,7 @@
             "footnotes": [
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": [
@@ -150,11 +150,11 @@
             "footnotes": [
                 {
                     "word": "karapatan",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "mahihina.",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": [
@@ -167,7 +167,7 @@
             "footnotes": [
                 {
                     "word": "lalakas",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -178,7 +178,7 @@
             "footnotes": [
                 {
                     "word": "ay",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -189,7 +189,7 @@
             "footnotes": [
                 {
                     "word": "pagkakasugat",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -200,18 +200,116 @@
             "footnotes": [
                 {
                     "word": "nakapagpapatisod",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "lamang-",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "makapagpatisod",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang ikaanim na suliranin na tinuos ng Sulat na ito ay ang bagay ukol sa pagkain ng mga hain sa mga diyos-diyosan (b. 1-11:1)."
+        },
+        {
+            "id": "1-2",
+            "text": "Gr. Oida , tumutukoy sa panloob, subhektibong kamalayan."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang kaalaman sa bersikulong ito at sa mga bersikulo 7 at 10 ay ang anyong pangngalan ng ginosko , tumutukoy sa panlabas, obhektibong kaalaman, na karaniwan at laganap sa lahat."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang panlabas, obhektibong kaalaman na nagpapapalalo ay nagmumula sa puno ng kaalaman ng mabuti at masama na pinagmumulan ng kamatayan. Ang espirituwal (hindi makalaman) na pag-ibig, na isang kahayagan ng buhay gaya ng inilarawan sa kapitulo labintatlo, ay nakapagtatayo sa tao. Ito ay nagmumula sa puno ng buhay, ang pinagmumulan ng buhay. Ito ang pag-ibig ng Diyos (1 Juan 4:16) na inilalin sa atin sa pamamagitan ng pananampalataya na nagdala sa atin paloob sa organikong pakikipagkaisa sa Diyos. Sa pamamagitan ng pag-ibig na ito, ating iniibig ang Diyos (b. 3) at ang mga kapatid (1 Juan 4:21), at ayon sa pag-ibig na ito tayo dapat lumakad (Roma 14:15). Sa gayon, ang ating lakad ay nakapagtatayo (10:23)."
+        },
+        {
+            "id": "1-5",
+            "text": "Hindi lamang tumutukoy sa pagpapatibay ng mga indibiduwal na mananampalataya, bagkus gayon din sa pagtatayo ng sama-samang Katawan ni Kristo (14:4, 5, 12; Efe. 4:16). Ang aklat na ito ay nagbibigay-diin sa bagay na ukol sa pagtatayo (3:9-10, 12; 10:23)."
+        },
+        {
+            "id": "2-1",
+            "text": "Gr. ginosko . *Gayundin ang isinaling “kilala” sa b. 3."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang pinakamataas at pinakamarangal na pag-ibig. Bagaman ang pag-ibig na ito ay kinakailangang gamitin ang buong katauhan (Mar. 12:30), ito ay hindi makalaman kundi espirituwal."
+        },
+        {
+            "id": "4-1",
+            "text": "Gr. oida . Ang matanto na ang isang diyos-diyosan ay walang kabuluhan at walang ibang Diyos kundi isa ay nangangailangan ng ating panloob, subhektibong kamalayan na hango mula sa ating espiritu at dumaraan sa ating kaisipan. Ito ay higit na malalim kaysa sa panlabas, obhektibong kaalaman na nasa kaisipan lamang natin."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang mga mananampalataya kay Kristo, ang mga Kristiyano."
+        },
+        {
+            "id": "6-2",
+            "text": "Sa paghahambing ay kabaligtaran ng maraming diyos sa bersikulo 5. Ang ating Diyos ay bukod-tanging iisa."
+        },
+        {
+            "id": "6-3",
+            "text": "Isang katawagan ng ating Diyos, na Siyang pinagmumulan ng lahat ng mga bagay. Ginagawa ng katawagang ito ang ating Diyos na sukdulang kaiba sa maraming huwad na diyos."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang Ama ay ang pinanggalingan ng lahat. Kaya, ang lahat ng mga bagay ay “buhat sa Kanya”, subali’t tayo lamang mga mananampalataya ang bumabaling sa Kanya, kaya tayo ay “tungo sa Kanya”. Gayundin, nilikha ng Ama ang lahat ng mga bagay sa pamamagitan ni Hesu-Kristo at tayo namang mga mananampalataya ay napabaling sa Ama at napasa Ama sa pamamagitan ng pagsilang-na-muli sa atin ng Panginoon. Kaya, tayo at ang lahat ng mga bagay ay pawang “sa pamamagitan Niya”."
+        },
+        {
+            "id": "6-5",
+            "text": "Sa paghahambing ay kabaligtaran ng maraming panginoon sa bersikulo 5. Ang ating Panginoon ay bukod-tangi ring iisa."
+        },
+        {
+            "id": "6-6",
+            "text": "Ang dibino at pantaong titulo ng ating Panginoon na nagtatangi sa Kanya mula sa maraming panginoon. Ang ating Diyos, ang Ama, ay ang bukod-tanging pinagmumulan ng lahat ng mga bagay, at ang ating Panginoon, si Hesu-Kristo, ay ang bukod-tanging paraan na kung kaninong pamamagitan ay napangyari ang lahat ng bagay."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang dahilan ng pagiging mahina ng isang budhi ay ang kakulangan ng wasto at sapat na kaalaman. Ito ay nagsasaad na ang ating kaalaman ay may malaking nagagawa sa ating budhi. Ang mga dating sumasamba sa diyos-diyosan na ngayon ay mga mananampalataya na kay Kristo, na namihasa na sa kaisipan ng pagsamba ng mga tao sa diyos-diyosan hanggang sa ngayon, ay nagkukulang sa kaalaman na ang diyos-diyosan ay bale-wala (b. 4). Sa gayon ang kanilang budhi ay mahina tungkol sa bagay ng mga diyos-diyosan."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang mahinang budhi ay nahahawa kapag ito ay nahipo ng anumang may kaugnayang bagay kung saan ito ay nagkukulang ng sapat na kaalaman."
+        },
+        {
+            "id": "8-1",
+            "text": "Lit. nag-uumapaw, napupunuang mabuti-higit na mabuti. Tumutukoy na hindi naman tayo magiging higit na mabuti sa harap ng Diyos ni sa anumang aspekto kung kumain tayo ng pagkaing inihain sa diyos-diyosan; kaya nga ang hindi kumain ay hindi rin magsasanhi ng kanyang pagkakulang."
+        },
+        {
+            "id": "9-1",
+            "text": "O, kalayaan. Lit. awtoridad. Tulad ng sa 9:4-5."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang mga yaon na may budhing mahina dahil sa kakulangan ng kaalaman."
+        },
+        {
+            "id": "10-1",
+            "text": "Lit. mapatitibay. Ang budhi ng mahihinang mananampalataya ay mapatitibay nang may kalakasang loob na gawin ang hindi niya pinangahasan noong una na gawin. Ito ay isang biglang pagpapatibay nang walang makatuwiran at matatag na batayan. Kaya, ito ay isang hindi wastong pagpapatibay na sa katunayan ay nagpapaguho. Bagaman ang budhi ng mga mahihinang mananampalataya ay napatapang upang kumain ng mga inihain sa mga diyos-diyosan, ito sa di-maglalaon ay magpapaguho sa kanila, sapagka’t wala silang sapat na kaalaman upang tustusan ang kanilang napatapang nguni’t mahina pa ring budhi."
+        },
+        {
+            "id": "11-1",
+            "text": "Ito ay naglalarawan ng pagkapahamak, hindi pagkapahamak sa kawalang-hanggan kundi pagkapahamak sa buhay-Kristiyano. Ang mahinang mananampalataya ay nasira dahil sa kapabayaan na sinanhi ng kaalaman ng yaong higit na malakas."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. pagkakahampas (tungo sa pananakit)."
+        },
+        {
+            "id": "13-1",
+            "text": "Gr. skandalizo, bitagin, siluin. Tingnan ang tala 32-1 sa kapitulo 10."
+        },
+        {
+            "id": "13-2",
+            "text": "Yaon ay, laman ng hayop, tumutukoy sa karne na inihain sa mga diyos-diyosan. Yamang ang karne ay higit na nakatutukso kaysa sa ibang uri ng pagkain, ito ang tinukoy rito ng apostol."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "lumaganap",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "maluwalhati,",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": []
@@ -32,11 +32,11 @@
             "footnotes": [
                 {
                     "word": "magpapatatag",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "mag-iingat",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -47,7 +47,7 @@
             "footnotes": [
                 {
                     "word": "iniuutos.",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -58,23 +58,23 @@
             "footnotes": [
                 {
                     "word": "patnubayan",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "pag-ibig",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "5-4"
                 },
                 {
                     "word": "pagtitiis",
-                    "note": ""
+                    "id": "5-5"
                 }
             ],
             "outlines": null
@@ -85,11 +85,11 @@
             "footnotes": [
                 {
                     "word": "lumalakad",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "aral",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": [
@@ -102,7 +102,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -131,7 +131,7 @@
             "footnotes": [
                 {
                     "word": "mapakialam",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -154,7 +154,7 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -171,7 +171,7 @@
             "footnotes": [
                 {
                     "word": "kapayapaan",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": [
@@ -190,10 +190,84 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Lit. tumakbo."
+        },
+        {
+            "id": "1-2",
+            "text": "Tumutukoy sa mga dibinong kayamanan na tinataglay ng salita ng Panginoon na pinalaya at inihayag sa pamamagitan ng pamumuhay ng mga mananampalataya."
+        },
+        {
+            "id": "1-3",
+            "text": "Lit. ng tungo sa."
+        },
+        {
+            "id": "3-1",
+            "text": "Sa pamamagitan ng walang hanggang kaaliwan at mabuting pag-asa (2:16-17)."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang buong sanlibutan ay nakahilig sa masamang isa (1 Juan 5:19), subalit ang dibinong buhay na nakamtan natin nang tayo ay isilang na muli ng Diyos ang nag-iingat at nagbabantay sa atin mula sa masamang ito (1 Juan 5:18, 4; 3:8)."
+        },
+        {
+            "id": "4-1",
+            "text": "Katulad ng mga iniuutos sa 1 Tes. 4:2-4, 9-12; 5:11-12; 2 Tes. 2:2, 15; 3:6, 10, 12-15."
+        },
+        {
+            "id": "5-1",
+            "text": "Sa pamamagitan ng pangunguna ng Espiritu, ang pag-ibig ng Diyos ay ibinuhos na sa loob ng ating mga puso sa pamamagitan ng Espiritu (Roma 8:14; 5:5)."
+        },
+        {
+            "id": "5-2",
+            "text": "Yaon ay, tinatamasa at dinaranas ang pag-ibig ng Diyos at iniibig ang Diyos sa pamamagitan ng pag-ibig na ito."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang pag-ibig natin para sa Diyos na nagmumula sa pag-ibig ng Diyos (1 Juan 4:19) na naibuhos na sa loob ng ating mga puso."
+        },
+        {
+            "id": "5-4",
+            "text": "Yaon ay, tinatamasa at dinaranas ang pagtitiis ni Kristo at ginagamit ang pagtitiis na ito sa pagtitiis."
+        },
+        {
+            "id": "5-5",
+            "text": "Sa positibong panig, kinakailangan nating tamasahin ang pag-ibig ng Diyos nang sa gayon ay maibig natin Siya upang makapamuhay para sa Kanya, at, sa negatibong panig, kinakailangan nating makibahagi sa pagtitiis ni Kristo upang tayo ay makapagtiis ng mga pagdurusa katulad ng ginawa Niya laban kay Satanas na kaaway ng Diyos. Ang umibig sa Diyos at magtiis ng pagdurusa ay ang magagaling na katangian ng mga Kristiyano sa kanilang pamumuhay."
+        },
+        {
+            "id": "6-1",
+            "text": "Tingnan ang tala 14-1 sa 1 Tesalonica 5. Sumangguni sa mga bersikulo 7 at 11. Ang walang kaayusan ay hindi lamang naaayon sa laman (Roma 8:4), bagkus laban din sa pagtatayo ng buhay-ekklesia (1 Tes. 5:11; Roma 14:19; 1 Cor. 10:23)."
+        },
+        {
+            "id": "6-2",
+            "text": "Tingnan ang tala 2-1 sa 1 Corinto 11."
+        },
+        {
+            "id": "7-1",
+            "text": "Sa lahat ng mga bagay, ang mga apostol ay para sa pagtatayo ng ekklesia (2 Cor. 12:19); sila ay hindi lamang lubusang may kaayusan sa gitna ng mga mananampalataya, bagkus isang tularan pa upang tularan ng mga mananampalataya (b. 9)."
+        },
+        {
+            "id": "11-1",
+            "text": "Sila ay abalang-abala, subalit “wala namang ginagawa”; abala lamang sa mga bagay na walang kaugnayan sa kanila."
+        },
+        {
+            "id": "14-1",
+            "text": "Huwag sumama, ingatang huwag makisama."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang tuparin ang atas sa mga bersikulo 12-15 ay ang magkaroon ng kapayapaan mula sa Panginoon sa buong panahon at sa lahat ng paraan."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang buhay-ekklesia ay maiingatan natin mula sa anumang uri ng pagliligaw at kaguluhan sa pamamagitan lamang ng pagtatamasa natin sa Panginoon bilang biyaya. Upang maipamuhay ang isang wastong buhay-ekklesia at mapanatili ito sa kaayusan, kinakailangan natin ang pagtatamasa sa Panginoon bilang ang nagtutustos na biyaya. Tingnan ang tala 28-1 sa 1 Tesalonica 5."
         }
     ]
 }

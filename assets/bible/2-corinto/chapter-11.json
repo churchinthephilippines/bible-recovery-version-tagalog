@@ -1,5 +1,5 @@
 {
-    "chapter": 11,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "kamangmangan;",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -20,11 +20,11 @@
             "footnotes": [
                 {
                     "word": "paninibugho",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "dalagang",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -35,11 +35,11 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "kapayakan",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -50,19 +50,19 @@
             "footnotes": [
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -73,7 +73,7 @@
             "footnotes": [
                 {
                     "word": "super-",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -84,7 +84,7 @@
             "footnotes": [
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -113,7 +113,7 @@
             "footnotes": [
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -136,11 +136,11 @@
             "footnotes": [
                 {
                     "word": "bulaang",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "nangagkukunwaring",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -151,11 +151,11 @@
             "footnotes": [
                 {
                     "word": "Satanas",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "liwanag.",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -166,7 +166,7 @@
             "footnotes": [
                 {
                     "word": "ministro",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -186,7 +186,7 @@
             "footnotes": [
                 {
                     "word": "pagtitiwalang",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -203,7 +203,7 @@
             "footnotes": [
                 {
                     "word": "marurunong",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -214,7 +214,7 @@
             "footnotes": [
                 {
                     "word": "binibihag,",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -225,7 +225,7 @@
             "footnotes": [
                 {
                     "word": "kapulaan,",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -236,7 +236,7 @@
             "footnotes": [
                 {
                     "word": "Sila",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -247,7 +247,7 @@
             "footnotes": [
                 {
                     "word": "labis-",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -264,15 +264,15 @@
             "footnotes": [
                 {
                     "word": "panghampas,",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "makatlong",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "nawasak",
-                    "note": ""
+                    "id": "25-3"
                 }
             ],
             "outlines": null
@@ -283,15 +283,15 @@
             "footnotes": [
                 {
                     "word": "ilog,",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "tulisan,",
-                    "note": ""
+                    "id": "26-2"
                 },
                 {
                     "word": "bulaang",
-                    "note": ""
+                    "id": "26-3"
                 }
             ],
             "outlines": null
@@ -302,23 +302,23 @@
             "footnotes": [
                 {
                     "word": "pagpupuyat",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "gutom",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "lamig",
-                    "note": ""
+                    "id": "27-3"
                 },
                 {
                     "word": "kahubaran;",
-                    "note": ""
+                    "id": "27-4"
                 }
             ],
             "outlines": null
@@ -329,15 +329,15 @@
             "footnotes": [
                 {
                     "word": "Bukod",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "dumadagan",
-                    "note": ""
+                    "id": "28-2"
                 },
                 {
                     "word": "kabalisahan",
-                    "note": ""
+                    "id": "28-3"
                 }
             ],
             "outlines": null
@@ -348,7 +348,7 @@
             "footnotes": [
                 {
                     "word": "nagdaramdam?",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -359,7 +359,7 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -376,7 +376,7 @@
             "footnotes": [
                 {
                     "word": "gobernador,",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -386,6 +386,156 @@
             "text": "At sa isang durungawan ay inihugos ako sa pader, sa pamamagitan ng isang balaong, at ako ay nakatakas sa kanyang mga kamay.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tumutukoy nang patuya sa napilitang pagsasanggalang-sa-sarili at pagmamapuri ng apostol."
+        },
+        {
+            "id": "2-1",
+            "text": "Katulad ng paninibugho ng isang asawang lalake sa kanyang asawang babae."
+        },
+        {
+            "id": "2-2",
+            "text": "Upang maging kasintahang babae para sa Kasintahang Lalake (Juan 3:29), ang asawang babae ng Kordero (Apoc. 19:7)."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 14-1 sa kap. 3."
+        },
+        {
+            "id": "3-2",
+            "text": "Tumutukoy sa taos-pusong katapatan ng loob, sa isang isipang puspos ng katapatan, ng mga mananampalataya tungo kay Kristo. Sa hardin ng Eden, dahilan sa pagtatanong at paninirang ginawa ng ahas na si Satanas sa Salita ng Diyos, nalinlang ang asawa ni Adam na si Eva. Siya ay nadala sa puno ng kaalaman mula sa kapayakan ng pagkain sa puno ng buhay (Gen. 3:1- 6). Ngayon, ang ekklesia sa Corinto ay ang dalagang dalisay na ipinakipagtipan kay Kristo at siya ay nalinlang ng mga maka-Hudaismo. Ang mga maka-Hudaismo ay mga ministro ni Satanas (b.15). Sa pamamagitan ng kanilang pagpapahayag ng ibang Hesus, ibang Espiritu at ibang ebanghelyo, ang salita ng Diyos ay kanilang sinisiraan (b.4). Dahil sa ganitong lihim na mapanirang pagpapahayag, nangangamba ang apostol na baka ang mga mananampalatayang taga-Corinto ay malihis ng mga pagtuturo ng mga maka-Hudaismo mula sa wastong pagpapahalaga, pagmamahal, at pagtatamasa sa pinakamamahal na persona ng Panginoong Hesu-Kristo na Siyang kanilang buhay at lahat-lahat. Ang mga maka-Hudaismong nakahalo sa gitna ng mga mananampalataya at nagturo ng tatlong ibang bagay ay nagmula kay Satanas."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang ibang Hesus ay nangangahulugang ibang tao; ang ibang espiritu ay nangangahulugang espiritung iba sa kalikasan; at ang ibang ebanghelyo ay nangangahulugang isang ebanghelyong iba sa uri."
+        },
+        {
+            "id": "4-2",
+            "text": "O, nang maganda, nang tamang-tama. Ito ay ginamit dito nang patuya. Sa bersikulo 1 ipinahayag ng apostol ang kanyang naising ang mga mananampalatayang nasa Corinto, na nagtitiis sa kanya, ay higit na makapagtiis sa kanya. Ngayon sa bersikulong ito, tinutukoy niya ang mga ito sa kanilang mabuting pagtitiis sa mga bulaang apostol. Ang ideya ni Pablo ay,’Yamang pinagtiisan ninyo ang mga bulaang apostol nang mabuti, nang maayos, nang husto, kung maaari ay higit na pagtiisan ninyo ako.’ Ito ang dahilan kung bakit ginagamit niya ang salitang “sapagka’t” sa umpisa ng bersikulong ito."
+        },
+        {
+            "id": "5-1",
+            "text": "Yaon ay, mga apostol sa nakahihigit na antas, mapanuyang tumutukoy sa mga bulaang apostol, gaya ng binanggit sa bersikulo 13 at 12:11, na humihigit sa antas ng pagiging mga tunay na apostol. Ito ang mga maka-Hudaismo na dumating sa Corinto upang ipangaral ang iba pang Hesus na may ibang espiritu sa ibang ebanghelyo."
+        },
+        {
+            "id": "6-1",
+            "text": "Tumutukoy sa di-sanay, sa hindi eksperto sa kaalaman sa pananalita."
+        },
+        {
+            "id": "10-1",
+            "text": "Yaon ay, pagiging makatotohanan, gaya ng nasa Roma 9:1, isang katangian ni Kristo gaya ng kaamuan at kapakumbabaan sa 10:1. Yayamang ang apostol ay nabubuhay sa pamamagitan ni Kristo, anuman si Kristo ay nagiging kanyang kagalingan sa kanyang pagkilos."
+        },
+        {
+            "id": "13-1",
+            "text": "Yaon ay, mga super-apostol (b.5; 12:11)."
+        },
+        {
+            "id": "13-2",
+            "text": "O, nangag-aanyong (at gayundin sa mga bersikulo 14-15). Bilang mga mapanlinlang, inianyo ng mga bulaang apostol ang kanilang mga sarili sa ayos ng mga tunay na apostol; ang mga tunay na apostol ay hindi lamang tunay sa ayos, bagkus tunay rin sa bawa’t paraan."
+        },
+        {
+            "id": "14-1",
+            "text": "Ito ay nagpapakita na si Satanas ang pinagmumulan ng mga bulaang apostol. Siya ay sinusunod nila sa kanilang pagiging mapanlinlang upang hadlangan ang ekonomiya ng Diyos."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang Diyos ay liwanag at ang Kanyang mga anghel ay nasa liwanag. Kasalungat nito, si Satanas ay kadiliman at lahat ng kanyang mga tagasunod ay nasa kadiliman. Walang pakikisalamuha sa pagitan ng liwanag at kadiliman (6:14)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang mga ito ang mga tunay na apostol, yaong mga nagsasagawa ng ministeryo ng katuwiran (3:9). Anuman ang ginagawa ng mga ministro ni Satanas ay ganap na walang katuwiran. Ang katuwiran ay walang pakikisama sa kalikuan (6:14)."
+        },
+        {
+            "id": "17-1",
+            "text": "Tingnan ang tala 4-1 sa kap. 9."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang pagpapahayag na ito hinggil sa mga taga-Corinto ay patuya."
+        },
+        {
+            "id": "20-1",
+            "text": "Yaon ay, hinuhuli, gaya ng sa Luc. 5:5."
+        },
+        {
+            "id": "21-1",
+            "text": "Ito ay patuya."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang mga bersikulo 22-33 ay isang paghahambing ng apostol sa mga maka- Hudaismo. Malinaw na ipinakikita nito na ang tunay na tagapaglingkod ni Kristo ay hindi lamang nangangailangan ng mga bagay na binanggit sa mga naunang kapitulo tungkol sa pagtatamasa kay Kristo bilang ating buhay at panustos ng buhay; sa pagsunod sa Panginoon, kinakailangan pang magbatá ng kahirapan. Ang sinumang taong kulang sa dalawang kwalipikasyong ito ay magiging katulad ng mga maka-Hudaismo na kahit na gaano kalakas ang kanilang pagdeklara ng kanilang pagkaapostol ay makikilala pa rin ng mga tao na sila ay mga huwad na apostol, mga ministro ni Satanas (bb.13-15)."
+        },
+        {
+            "id": "23-1",
+            "text": "Lit. higit sa makakayanan."
+        },
+        {
+            "id": "25-1",
+            "text": "Samantalang ang mga palo sa bersikulo 24 ay mula sa mga Hudyo, ang mga panghampas sa bersikulong ito ay ginamit ng mga Romano (Gawa 16:22-23; 22:25)."
+        },
+        {
+            "id": "25-2",
+            "text": "Ang makatlo, hindi kabilang ang pagkawasak ng daong sa Melita (may mga kumikilala na ito ay Malta), ay hindi naisalaysay sa Gawa."
+        },
+        {
+            "id": "25-3",
+            "text": "Nawasakan ng daong dahil sa bagyo."
+        },
+        {
+            "id": "26-1",
+            "text": "Mga ilog na nanganganib sa malalakas at mga biglaang pagbabago mula sa kagyat na paglaki ng agos sa bundok o pagbabaha ng tuyong agusan ng tubig."
+        },
+        {
+            "id": "26-2",
+            "text": "“Ang mga tribong naninirahan sa mga bundok sa pagitan ng lupain ng Asia Minor at ng baybay-dagat, mga tribong sugapa sa panunulisan” (Vincent)."
+        },
+        {
+            "id": "26-3",
+            "text": "Higit sa lahat, tinutukoy ang mga maka-Hudaismong Kristiyano."
+        },
+        {
+            "id": "27-1",
+            "text": "Tingnan ang tala 5-1 sa kap. 6."
+        },
+        {
+            "id": "27-2",
+            "text": "Yamang ang pag-aayuno ay nakatala rito na may mga kahirapan, ang mga ito ay tumutukoy sa hindi kusang pag-aayuno kundi dahil sa kakulangan ng pagkain; kaya ang mga ito ay naiiba sa gutom. Ang gutom ay maaaring tumukoy sa isang situwasyon kung saan walang paraang makakuha ng pagkain; ang hindi kusang pag-aayuno ay maaaring tumukoy sa isang situwasyon ng karukhaan."
+        },
+        {
+            "id": "27-3",
+            "text": "Dahil sa panahon at di-sapat na pananamit."
+        },
+        {
+            "id": "27-4",
+            "text": "Tumutukoy sa di-sapat na pananamit o kahubaran na sanhi ng pagpapalo sa kanya o pagkawasak ng daong na kanyang sinasakyan."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang mga binanggit sa mga bersikulo 23-27."
+        },
+        {
+            "id": "28-2",
+            "text": "Tumutukoy sa maraming alalahaning dumadagan sa kanya."
+        },
+        {
+            "id": "28-3",
+            "text": "Pangangalagang may kabalisahan, gaya ng sa Mat. 13:22 at I Ped. 5:7."
+        },
+        {
+            "id": "29-1",
+            "text": "Lit. nag-aalab. Nag-aalab sa kalungkutan at pagkagalit dahil sa nagsanhi ng pagkatisod."
+        },
+        {
+            "id": "30-1",
+            "text": "Tumutukoy sa mga pagdurusa at mga paghihirap ng apostol na nagsanhi sa kanya na magmukhang mahina, aba, at napakahamak sa mga mata ng kanyang mga kaaway. Sa pamamagitan ng mga bagay na ito, siya ay napatunayang isang tunay na apostol, hindi sa pamamagitan ng kalakasang ipinagmamapuri ng kanyang mga kaaway."
+        },
+        {
+            "id": "32-1",
+            "text": "Gr. etnarkees . Gobernador ng isang distrito."
         }
     ]
 }

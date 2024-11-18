@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "aklat",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": []
@@ -34,7 +34,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -45,15 +45,15 @@
             "footnotes": [
                 {
                     "word": "Leon",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Ugat",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "nagtagumpay",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -64,27 +64,27 @@
             "footnotes": [
                 {
                     "word": "Kordero",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "nakatayo,",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "kapapatay",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "6-5"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "6-6"
                 }
             ],
             "outlines": null
@@ -101,11 +101,11 @@
             "footnotes": [
                 {
                     "word": "insenso,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -116,15 +116,15 @@
             "footnotes": [
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "karapat-",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -135,11 +135,11 @@
             "footnotes": [
                 {
                     "word": "sila",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -150,7 +150,7 @@
             "footnotes": [
                 {
                     "word": "maraming",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -161,7 +161,7 @@
             "footnotes": [
                 {
                     "word": "malakas",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -172,7 +172,7 @@
             "footnotes": [
                 {
                     "word": "bawa’",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -182,6 +182,96 @@
             "text": "At ang apat na nilalang na buhay ay nangagsabi, Amen.  At ang mga matanda ay nangagpatirapa at nangagsisamba.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “aklat” na ito ay tiyak na ang bagong tipan, ang pinakadakilang katibayan ng awtoridad na pinagtibay sa pamamagitan ng dugo ng Kordero para sa pagtutubos ng Diyos sa ekklesia, sa Israel, sa sanlibutan, at sa sansinukob. Ang aklat na ito ay isang tala ng kaisipan ng Diyos hinggil sa ekklesia, sa Israel, sa sanlibutan, at sa sansinukob."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “pitong tatak” na nagselyo sa aklat sa katunayan ay ang mga nilalaman ng aklat na ito na siya ring nilalaman ng Apocalipsis. Ang aklat ng Apocalipsis ay ang pagbubukas, ang paghahayag ng pitong tatak na ito."
+        },
+        {
+            "id": "4-1",
+            "text": "Kung totoong “hindi nakasumpong ng sinumang karapat-dapat” sa buong sansinukob, kailangan na nga nating manangis, sapagka’t kung wala ni isang kwalipikadong magbukas ng lihim ng sansinukob, ang buong sansinukob ay magiging walang kabuluhan."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “Leon” ay isang sagisag ni Kristo, naglalarawan sa Kanya bilang isang malakas na mandirigma laban sa kaaway, gaya ng ipinropesiya sa Gen. 49:8-9. Ang Kanyang pananagumpay ang nagbigay sa Kanya ng kwalipikasyon na magbukas ng aklat at ng pitong tatak nito."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang titulong, “Ugat ni David” (Siya rin ang Ugat ng ama ni David na si Isai, Isa. 11:1), ay sumasagisag na si Kristo ang pinagmulan ni David. Sa gayon, bagama’t si David ay Kanyang ninuno, tinawag din Siya nitong “Panginoon” (Mat. 22:42-45)."
+        },
+        {
+            "id": "5-3",
+            "text": "Bilang ang Leon sa lipi ni Juda, ginapi ni Kristo si Satanas, ang kaaway na naghimagsik laban sa Diyos. Higit pa rito, Siya ang nagtutubos na Kordero, na nag-aalis ng kasalanan ng natisod na tao. Sa pamamagitan nito, Kanyang inalis ang mga hadlang sa pagsasakatuparan ng naisin ng Diyos. Kaya, Siya ay karapat-dapat na magbukas ng aklat ng ekonomiya ng Diyos."
+        },
+        {
+            "id": "6-1",
+            "text": "Sa kapitulo 4 ay ang tagpo sa mga kalangitan na ang sentro ay ang trono ng Diyos, kung saan ay nakaupo ang Diyos, handa upang isagawa ang Kanyang pansansinukob na administrasyon para sa katuparan ng Kanyang walang hanggang layunin. Dito sa kapitulo 5 ay ang parehong tagpo sa mga kalangitan pagkatapos ng pag-akyat ni Kristo roon. Siya ay ipinakilala ng isa sa mga matanda kay Apostol Juan bilang ang Leon ni Juda, datapuwa’t Siya ay nagpakita kay Juan bilang isang Kordero. Bilang ang Leon, Siya ang Mandirigma laban sa kaaway; bilang ang Kordero, Siya ang Manunubos para sa atin. Siya ay nakipaglaban upang tayo ay tubusin, at Siya ay nagtagumpay laban sa kaaway at nagsagawa ng katubusan para sa atin. Sa kaaway Siya ay isang Leon; sa atin Siya ay isang Kordero. Kaya, Siya ay ang Leon-Kordero."
+        },
+        {
+            "id": "6-2",
+            "text": "Hangga’t ang katubusan ang kinauukulan, si Kristo ay naupo pagkatapos ng Kanyang pag-akyat sa kanang kamay ng Diyos sa mga kalangitan (Heb. 1:3; 10:12); samantala, tungkol sa pagsasagawa ng administrasyon ng Diyos, Siya ay nakatayo pa rin sa Kanyang pag-akyat."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang “kapapatay pa lamang” ay tumutukoy na ang pagkapatay sa Kordero ay kagaganap pa lamang. Tinutukoy rin nito na ang tagpo sa mga kalangitan na inilarawan sa kapitulong ito ay naganap pagkatapos na pagkatapos ng pag-akyat ni Kristo sa mga kalangitan."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang mga “sungay” ay sumasagisag sa kalakasan sa pakikipagbaka (Deut. 33:17). Bagama’t si Kristo ang nagtutubos na Kordero, gayunpaman, Siya ay may mga panlabang sungay. Siya ang nakikipagbakang Manunubos. Ang Kanyang pakikipagbaka sa loob ng pagkilos ng Diyos ay buo at kumpleto gaya ng tinutukoy ng bilang na pito."
+        },
+        {
+            "id": "6-5",
+            "text": "Ang mga “mata” ay para sa pagmamasid at pagsasaliksik. Si Kristo bilang ang nagtutubos na Kordero ay may pitong nagmamasid at nagsasaliksik na mata para sa paggagawad ng kahatulan ng Diyos sa sansinukob upang isakatuparan ang walang hanggang layunin ng Diyos, na malulubos sa pagtatayo ng Bagong Herusalem. Kaya, sa Zac. 3:9, Siya ay ipinropesiya bilang ang bato, na siyang pangulong bato na may pitong mata para sa pagtatayo ng Diyos (Zac. 4:7). Ang pitong matang ito ay ang pitong Espiritu ng Diyos na sinugo sa buong lupa, na nangagpaparoo’t parito sa buong lupa (Zac. 4:10). Tingnan ang tala 14-3 sa kapitulo 1."
+        },
+        {
+            "id": "6-6",
+            "text": "Ayon sa balarilang Griyego, ang pangngalang tinutukoy ng “na” ay ang pitong mata. Kaya, ang pitong Espiritu ng Diyos ay tumutukoy lamang sa pitong mata ng Kordero, at hindi sa Kanyang pitong sungay."
+        },
+        {
+            "id": "8-1",
+            "text": "Lit. mga insenso."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang “na” rito ay tumutukoy sa “mga mangkok,” hindi sa “insenso.” Ang mga mangkok ay ang “mga panalangin ng mga banal” na dinala sa Diyos ng mga matanda ng mga anghel (cf. 8:3-4), samantalang ang insenso ay si Kristo na idinagdag sa mga panalangin ng mga banal. Tingnan ang tala 34 sa kapitulo 8. Itong dalawampu’t apat na matanda ng mga anghel, na may dalang mga mangkok na ginto na puno ng insenso sa panahon ng kanilang pagsamba, ay nagpapakita sa atin na sila ay mga saserdoteng naglilingkod sa Diyos at nagdadala ng mga panalangin ng mga banal sa Diyos."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang “awit” dito ay “bago” sapagka’t ang Kordero na pinupuri nila ay kapapatay pa lamang."
+        },
+        {
+            "id": "9-2",
+            "text": "Sa buong sansinukob wala ni isang “karapat-dapat” na magbukas ng hiwaga ng ekonomiya ng Diyos maliban kay Kristo, ang mandaraig na Leon at ang nagtutubos na Kordero. Bilang ang mandaraig na Leon, Kanyang tinalo si Satanas para sa Diyos, at bilang ang nagtutubos na Kordero, Kanyang inalis ang kasalanan para sa atin. Siya lamang ang Isang kwalipikadong magbukas ng hiwaga ng ekonomiya ng Diyos at magsagawa nito."
+        },
+        {
+            "id": "9-3",
+            "text": "Lit. sa loob ng Iyong Sariling dugo."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang “sila” ay tumutukoy sa mga tinubos na tao (b. 9). Sa papuri ng dalawampu’t apat na matanda, tinukoy nila ang mga tinubos na tao na “sila”; sa gayon, pinatutunayan na ang mga nagpupuring matandang ito ay hindi mga matanda ng ekklesia kundi mga matanda ng mga anghel."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang “kaharian” ay para sa pagkahari upang isagawa ang awtoridad ng Diyos, at ang “mga saserdote” ay para sa pagkasaserdote upang isagawa ang dibinong ministeryo."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang “maraming anghel,” na ikinakatawan ng dalawampu’t apat na matanda, ay nagsisunod sa kanila upang magbigay ng papuri ng mga anghel sa Kordero."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. malaking."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang “bawa’t nilalang,” na ikinakatawan ng apat na nilalang na buháy, ay sumusunod sa kanila upang magbigay sa Kordero ng pansansinukob na papuri ng lahat ng mga nilalang bukod pa sa mga anghel."
         }
     ]
 }

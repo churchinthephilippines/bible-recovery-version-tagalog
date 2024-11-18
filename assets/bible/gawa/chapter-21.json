@@ -1,5 +1,5 @@
 {
-    "chapter": 21,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -27,7 +27,7 @@
             "footnotes": [
                 {
                     "word": "sinabi",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -58,7 +58,7 @@
             "footnotes": [
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": [
@@ -83,7 +83,7 @@
             "footnotes": [
                 {
                     "word": "sinasabi",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -94,7 +94,7 @@
             "footnotes": [
                 {
                     "word": "kami",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -125,7 +125,7 @@
             "footnotes": [
                 {
                     "word": "magsisipanuluyan.",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -136,7 +136,7 @@
             "footnotes": [
                 {
                     "word": "magsidating",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -147,7 +147,7 @@
             "footnotes": [
                 {
                     "word": "Santiago,",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": [
@@ -166,11 +166,11 @@
             "footnotes": [
                 {
                     "word": "libo",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "masisikap",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -181,7 +181,7 @@
             "footnotes": [
                 {
                     "word": "magsihiwalay",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -192,7 +192,7 @@
             "footnotes": [
                 {
                     "word": "Tunay",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -203,7 +203,7 @@
             "footnotes": [
                 {
                     "word": "panata",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -214,15 +214,15 @@
             "footnotes": [
                 {
                     "word": "magpadalisay",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "magugugol",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "makapag-",
-                    "note": ""
+                    "id": "24-3"
                 }
             ],
             "outlines": null
@@ -239,11 +239,11 @@
             "footnotes": [
                 {
                     "word": "",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "katapusan",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -264,15 +264,15 @@
             "footnotes": [
                 {
                     "word": "bayan,",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "dakong",
-                    "note": ""
+                    "id": "28-2"
                 },
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "28-3"
                 }
             ],
             "outlines": null
@@ -295,11 +295,11 @@
             "footnotes": [
                 {
                     "word": "pangulong",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "pulutong",
-                    "note": ""
+                    "id": "31-2"
                 }
             ],
             "outlines": [
@@ -360,12 +360,106 @@
             "footnotes": [
                 {
                     "word": "diyalektong",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": [
                 "(3) Ipinagtatanggol ang Kanyang Sarili sa harap ng mga Nanggugulong Hudyo\n 21:40-22:21"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "4-1",
+            "text": "Sa 20:23, ipinaalam ng Espiritu Santo kay Pablo na ang mga tanikala at ang mga kapighatian ay naghihintay sa kanya sa Herusalem (tingnan ang tala roon). Ngayon, ang Espiritu ay sumulong pa ng isang hakbang upang sabihin sa kanya, sa pamamagitan ng ilang sangkap ng Katawan, na huwag pumunta sa Herusalem. Sa pamumuhay-Katawan, ang dapat sana ay tinanggap niya ang salitang ito at sinunod ito bilang isang salita mula sa Ulo."
+        },
+        {
+            "id": "8-1",
+            "text": "Saanman magpunta si Pablo, dinalaw niya ang mga kapatid at nanirahan sa kanila (bb. 4, 7). Sinasanay niya ang buhay-Katawan ng ekklesia, namumuhay ayon sa kanyang itinuro tungkol sa Katawan ni Kristo."
+        },
+        {
+            "id": "11-1",
+            "text": "Sinabihan muli si Pablo ng Espiritu Santo, hindi direkta kundi sa pamamagitan ng isang sangkap ng Katawan, kung ano ang mangyayari sa kanya sa Herusalem (tingnan ang tala 23-1 sa kapitulo 20). Ito ay isang muling pagbababala na nasa uri ng propesiya, hindi isang utos. Ito ay pagsasalita muli ng Ulo sa pamamagitan ng Katawan (tingnan ang tala 4-1 ) na siyang dapat niyang pinakinggan sa pamumuhay-Katawan yayamang isinasagawa niya ang buhay-katawan."
+        },
+        {
+            "id": "12-1",
+            "text": "Kasama si Lucas na manunulat. Dito ay inihahayag ng Katawan, sa pamamagitan ng maraming sangkap, ang kanyang damdamin, ipinamamanhik kay Pablo na huwag pumunta sa Herusalem. Nguni’t dahil sa kanyang malakas na pagpapasiya sa pagiging handa upang ialay ang kanyang buhay para sa Panginoon (b. 13), siya ay hindi napigilan, napilitan tuloy ang mga sangkap ng Katawan na iwanan ang bagay na ito sa kalooban ng Panginoon (b. 14)."
+        },
+        {
+            "id": "16-1",
+            "text": "Sa Herusalem."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ang katapusan ng ikatlong pangministeryong paglalakbay ni Pablo na nagsimula sa 18:23."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang mga tala 17-1 sa kapitulo 12 at 19-1 sa Galacia 1."
+        },
+        {
+            "id": "20-1",
+            "text": "O, napakarami, laksa."
+        },
+        {
+            "id": "20-2",
+            "text": "Tinutukoy kung paanong sinusunod pa rin ng mga mananampalatayang Hudyo sa Herusalem ang kautusan ni Moises, nananatili pa rin sa Lumang Tipang kapanahunan, at nasa malakas pang impluwensiya ng Hudaismo, inihahalo ang Bagong Tipang ekonomiya ng Diyos sa wala-na-sa-panahong Lumang Tipang ekonomiya (tingnan ang mga tala 1-3 sa Santiago 1 at 10-1 sa Santiago 2)."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang iwanan ang kautusan ni Moises, ang hindi pagtutuli, at hindi paglakad ayon sa kaugalian ng mga patay na titik, ay tunay na ayon sa Bagong Tipang ekonomiya ng Diyos. Nguni’t ito ay itinuturing ng mga Hudyong hindi nananampalataya, at gayundin naman ng mga Hudyong mananampalataya ni Kristo, na isang paghiwalay mula sa Lumang Tipang ekonomiya ng Diyos."
+        },
+        {
+            "id": "22-1",
+            "text": "Idinaragdag ng ilang manuskrito, Isang karamihan ang tiyak na magsama-sama."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang panata ng Nazareo (Blg. 6:2-5)."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang gawin ang rituwal ng pagpapadalisay kasama ng mga Nazareo ay ang maging isang Nazareo, kasama nila sa kanilang panata. Ang salitang “dalisay” ay ginamit sa Septuagint sa Blg. 6:3, sa paglalarawan ng mga tungkulin ng Nazareo. Ang kunin ang panata ng Nazareo ay isang rituwal ng pagpapadalisay sa harapan ng Diyos."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang halaga ng mga handog na siyang babayaran ng isang Nazareo para sa pagkukumpleto ng rituwal ng kanyang pagpapadalisay (Blg. 6:13-17). Ito ay napakamahal para sa mga dukhang Nazareo. Ito ay isang kaugalian ng mga Hudyo, at itinuturing na isang katibayan ng napakadakilang kabanalan, na ang isang mayaman ang magbabayad ng mga gastos ukol sa mga handog para sa mahirap."
+        },
+        {
+            "id": "24-3",
+            "text": "Gagawin sa pagtatapos ng panata ng Nazareo (Blg. 6:18). Ang pag-aahit na ito ay kakaiba sa paggugupit sa 18:18 (tingnan ang tala roon), na para sa isang pansariling panata."
+        },
+        {
+            "id": "26-1",
+            "text": "Yaon ay, makibahagi sa kanilang pang-Nazareong panata (tingnan ang tala 24-1 ). Upang gawin ito, kailangan ni Pablo na pumasok sa templo at manatili roon kasama ang mga Nazareo hanggang sa kabuuan ng pitong araw ng panata; pagkatapos ay ihahandog ng saserdote ang mga alay para sa bawa’t isa sa kanila, kasama siya. Siya ay tiyak na malinaw na ang ganoong uri ng pagsasagawa ay nasa pamamahaging wala-na-sa-panahon, na, ayon sa prinsipyo ng kanyang pagtuturo sa Bagong Tipang ministeryo, ay kinakailangang itatwa sa loob ng Bagong Tipang ekonomiya ng Diyos. Subali’t itinuloy niya ito, maaaring dahil sa maka-Hudyong kinamulatan, na naihayag din sa mas nauna niyang pansariling panata sa 18:18, o marahil ay isinasagawa niya ang kanyang salita sa 1 Cor. 9:20. Gayunpaman, dahil sa kanyang pagpaparaya, ang Bagong Tipang ekonomiya ng Diyos ay nailagay sa panganib, na hindi pahihintulutan ng Diyos. Sa ganitong kalagayan, tiyak na si Pablo ay nakadama na ng kagipitan at nahirapan sa kanyang kalooban, umaasa na mapalaya sa ganitong mahirap na kinalalagyan. Kaya sa panahong ang kanilang panata ay malapit nang matapos, pinahintulutan ng Diyos ang isang kaguluhan laban sa kanya, at ang kanilang nilayong isakatuparan ay naglaho (b. 27) at sa ilalim ng mataas na kapangyarihan ng Panginoon nailigtas si Pablo sa ganitong mahirap na sitwasyon."
+        },
+        {
+            "id": "26-2",
+            "text": "Yaon ay, ang katapusan ng Nazareong panata (Blg. 6:13)."
+        },
+        {
+            "id": "28-1",
+            "text": "Oo, ang Bagong Tipang pagtuturo ng Diyos ayon sa Kanyang Bagong Tipang ekonomiya ay tunay na laban sa mga Hudyo na tumutuligsa sa Bagong Tipang ekonomiya ng Diyos (Mat. 21:41, 43-45; 22:7; 23:32-36; Gawa 7:51; 13:40-41), laban sa mga kautusan ng patay na titik (Roma 3:20, 28; 6:14; 7:4, 6; Gal. 2:19, 21; 5:4), at laban sa banal na lugar, ang templo (Mat. 23:38 at tala 1; 24:2; Gawa 7:48). Yamang ang ministeryo ni Pablo ay ang isagawa ang Bagong Tipang ekonomiya ng Diyos, ito ay hindi maaaring magbigay-kaluguran sa mga Hudyong inalihan at nakamkam ni Satanas, ang kaaway ng Diyos. Ang mga Hudyong ito ay inalihan at kinamkam ni Satanas upang kontrahin at wasakin ang Bagong Tipang pagkilos ng Diyos. Higit pa silang nasaktan nito at napukaw ang kanilang pagkainggit at pagkapoot sa sukdulan, kaya sila ay gumawa ng isang pakana (20:3) na patayin siya (bb. 31, 36)."
+        },
+        {
+            "id": "28-2",
+            "text": "Ang banal na lugar, ang templo."
+        },
+        {
+            "id": "28-3",
+            "text": "Ang templo. Tingnan ang tala 15-4 sa Mateo 24."
+        },
+        {
+            "id": "31-1",
+            "text": "Chiliarka, namumuno ng 1,000 sundalo o isang pulutong."
+        },
+        {
+            "id": "31-2",
+            "text": "Tingnan ang tala 1-2 sa kap. 10."
+        },
+        {
+            "id": "40-1",
+            "text": "Yaon ay, Aramaiko, ang wikang sinasalita noon sa Palestina."
         }
     ]
 }

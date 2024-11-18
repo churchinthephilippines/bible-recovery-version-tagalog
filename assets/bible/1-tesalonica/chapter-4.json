@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Katapus-",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -27,11 +27,11 @@
             "footnotes": [
                 {
                     "word": "pagpapakabanal;",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "pakikiapid;",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -42,15 +42,15 @@
             "footnotes": [
                 {
                     "word": "taglayin",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "sisidlan",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "pagpapakabanal",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -61,7 +61,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -72,23 +72,23 @@
             "footnotes": [
                 {
                     "word": "lumapastangan",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "mandaya",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "mapaghiganti",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "6-5"
                 }
             ],
             "outlines": null
@@ -99,19 +99,19 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "karumihan",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "pagpapakabanal.",
-                    "note": ""
+                    "id": "7-4"
                 }
             ],
             "outlines": null
@@ -122,15 +122,15 @@
             "footnotes": [
                 {
                     "word": "Kaya",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "nagtatakwil",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -141,11 +141,11 @@
             "footnotes": [
                 {
                     "word": "pangkapatirang",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "mag-",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": [
@@ -164,7 +164,7 @@
             "footnotes": [
                 {
                     "word": "nasain",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -183,7 +183,7 @@
             "footnotes": [
                 {
                     "word": "natutulog,",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": [
@@ -203,7 +203,7 @@
             "footnotes": [
                 {
                     "word": "pagparito",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": [
@@ -216,11 +216,11 @@
             "footnotes": [
                 {
                     "word": "sigaw",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "trumpeta",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -231,11 +231,11 @@
             "footnotes": [
                 {
                     "word": "aagawing",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -245,6 +245,120 @@
             "text": "Sa gayon, palakasin ninyo ang loob ng isa’ t isa sa pamamagitan ng mga salitang ito.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "*Lit. para sa mga natitira pa ngang sasabihin ko ."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 19-1 sa Roma 6. Ang kalooban ng Diyos ay yaong ang Kanyang mga tinubos na tao, ang mga mananampalataya kay Kristo, ay nararapat mamuhay ng isang buhay ng kabanalan ayon sa Kanyang banal na kalikasan, isang buhay na buong-buong naibukod mula sa anumang bagay maliban sa Kanya tungo sa Kanya. Dahil dito tayo ay Kanyang pinababanal nang lubusan (5:23)."
+        },
+        {
+            "id": "3-2",
+            "text": "Noong panahon ni Pablo, sa Corinto man at gayundin sa Tesalonica, ang pagbibigay sa hilig ng laman at ang imoralidad ay laganap sa mga paganong relihiyon at pinatitindi pa ng kanilang paganong pagsamba. Ang tao ay nilikha upang ihayag ang Diyos (Gen. 1:26). Walang isang bagay na nakasisira sa tao mula sa layuning ito nang higit kaysa sa pakikiapid. Ito ay humahadlang sa tao upang mapabanal, humahadlang sa tao upang maibukod tungo sa Diyos, at nagpapasama sa tao sa sukdulan hanggang hindi na maisakatuparan ang banal na layunin ng Diyos. Kaya nga, mariing ipinagtatagubilin ng apostol sa mga bagong mananampalatayang Hentil na sila, sa pamamagitan ng pagpapabanal tungo sa Diyos, ay magsiiwas sa pinsala at pagpapasama ng pakikiapid sapagkat ang pakikiapid ang pinakamagaspang na kasalanan sa mata ng Diyos."
+        },
+        {
+            "id": "4-1",
+            "text": "Yaon ay, panatilihin, ingatan."
+        },
+        {
+            "id": "4-2",
+            "text": "May dalawang grupo ng pagpapakahulugan sa salitang “sisidlan” dito: tinutukoy ng isa na ang sisidlan ay ang katawan ng tao katulad ng nasa 2 Cor. 4:7; tinutukoy naman ng isa na ang sisidlan ay ang kanyang asawang babae, katulad ng nasa 1 Ped. 3:7. Ang ibig sabihin ng nilalaman ng bersikulong ito at ng kasunod na bersikulo, na may mga pariralang katulad ng “bawat isa sa inyo,” “sa pagpapakabanal at kapurihan,” at lalung-lalo na ng “hindi sa pita ng kahalayan,” ay hindi nagpapakita na tama ang ikalawang pagpapakahulugan, kundi nagpapakita na tama yaong nauuna. Itinuturing ng apostol ang katawan ng tao rito bilang kanyang sisidlan, katulad ng pagpapakahulugan ni David sa 1 Sam. 21:5. Sa bagay ring yaon hinggil sa gamit ng katawan, itinuturing nina Pablo at David ang katawan ng tao bilang kanyang sisidlan. Ang panatilihin o ingatan ang sisidlan ng tao sa pagpapakabanal at kapurihan, hindi sa pita ng kahalayan, ay ang pangalagaan laban sa paggawa ng pakikiapid."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang pagpapakabanal sa pangunahin ay tumutukoy sa isang banal na kalagayan sa harap ng Diyos; ang kapurihan, sa pangunahin, ay tumutukoy sa isang kapita-pitagang kalagayan sa harap ng tao. Ang tao ay nilikha para sa layunin ng Diyos na may isang mataas na katayuan, at ang pag-aasawa ay itinalaga ng Diyos para sa pagpapalaganap ng tao upang isakatuparan ang layunin ng Diyos. Kaya nga, ang pag-aasawa ay nararapat na maging marangal (Heb. 13:4). Ang umiwas sa pakikiapid ay hindi lamang ang manatili sa isang pinabanal na kalagayan sa harap ng Diyos, bagkus ang manindigan at magpanatili ng isang katayuan ng kapurihan sa harap ng tao."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang hindi pagkilala sa Diyos ay ang saligang dahilan sa pagpapasasa ng mga tao sa pita ng kahalayan."
+        },
+        {
+            "id": "6-1",
+            "text": "Lit. lampasan ang mga hangganan, yaon ay, pag-abot na lampas, pagsalansang, lumampas. Ang “lumapastangan…sa kanyang kapatid” ay tumutukoy sa pakikiapid sa asawang babae ng kapatid."
+        },
+        {
+            "id": "6-2",
+            "text": "O, makinabang; kaya nga, manlinlang."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang bagay ng pakikiapid na binanggit sa bersikulo 3."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang Panginoon ay humahatol sa mga mapakiapid at mga nangangalunya bilang isang tagapaghiganti, bilang isang tagaparusa, na nagpapataw ng katarungan."
+        },
+        {
+            "id": "6-5",
+            "text": "Mga bagay ng panlalapastangan, pananamantala, atbp."
+        },
+        {
+            "id": "7-1",
+            "text": "Gr. epi , sa ibabaw ng, sa kondisyon ng."
+        },
+        {
+            "id": "7-2",
+            "text": "Karumihan sa mga bagay katulad ng pakikiapid, pangangalunya, atbp. Ang sabihin na ang “karumihan” dito ay tumutukoy sa madayang pagtubo sa negosyo, katulad ng pagpapakahulugan ng ilang mga guro, na nagsasabi na ang bersikulo 6 ay nagsasalita ng tungkol sa pananamantala ng isang kapatid na lalake sa kanyang pagnenegosyo, ay hindi katanggap-tanggap ayon sa ibig sabihin ng nilalaman ng bahaging ito, na nagsisimula sa bersikulo 3 na may tagubilin na magsiiwas sa pakikiapid. Sa katunayan, ang bersikulo 7 ay ang nagwawakas na salita ng tagubiling ito."
+        },
+        {
+            "id": "7-3",
+            "text": "Yaon ay sa elemento ng pagpapabanal, sa kinasasaklawan ng banal na kalikasan ng Diyos."
+        },
+        {
+            "id": "7-4",
+            "text": "Ang tagubilin ng apostol na magsiiwas sa pakikiapid ay nababatay sa pagpapakabanal (b. 3), na pinagtibay ng pagpapakabanal (b. 4), at nagwawakas dito sa pagpapakabanal; sapagkat ang pakikiapid, bilang ang pinakamaruming bagay, ay sumisira sa banal na katayuan at pag-uugali ng mga banal na tinawag ng Diyos."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang bersikulong ito ay ang konklusyon ng bahagi na nagsisimula sa bersikulo 3."
+        },
+        {
+            "id": "8-2",
+            "text": "Yaon ay, nagtatakwil sa tagubiling nasa mga naunang bersikulo."
+        },
+        {
+            "id": "8-3",
+            "text": "Dito ang Espiritu Santo ay tinukoy bilang ang Banal na Isa na nagpapabanal sa atin, ginagawa tayong banal sa harapan ng Diyos (Roma 15:16; 1 Ped. 1:2; 1 Cor. 6:11). Ang kalooban (b. 3), ang pagtawag (b. 7), at ang Espiritu ng Diyos ay pawang para sa pagpapabanal sa atin. Una ay nagkaroon ng Kanyang kalooban ang Diyos, pagkaraan ay ang Kanyang pagtawag, at pagkatapos ay ang pagbibigay ng Kanyang Espiritu Santo. Sa pamamagitan ng Kanyang Espiritu tayo ay napababanal upang tugunin ang Kanyang pagtawag at isakatuparan ang Kanyang kalooban."
+        },
+        {
+            "id": "9-1",
+            "text": "Gr. philadelphia , binubuo ng phileo , ang umibig, (ang pambalanang pag-ibig) at adelphos , mga kapatid."
+        },
+        {
+            "id": "9-2",
+            "text": "Gr. agapao , tumutukoy sa mataas na uri ng pag-ibig."
+        },
+        {
+            "id": "11-1",
+            "text": "Tingnan ang tala 20-1 sa Roma 15."
+        },
+        {
+            "id": "13-1",
+            "text": "Yaon ay, mga taong namatay na (b. 16; Juan 11:11-14; 1 Cor. 11:30). Ang kamatayan ng mga mananampalataya ay itinuring ng Panginoon at gayundin ng apostol bilang pagtulog."
+        },
+        {
+            "id": "15-1",
+            "text": "Gr. parousia , presensiya. Tingnan ang tala 3-3 sa Mateo 24."
+        },
+        {
+            "id": "16-1",
+            "text": "O, sigaw ng pag-uutos bilang isang hudyat para sa pagtitipon."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang huling trumpeta (1 Cor. 15:52), upang tipunin ang mga tinubos na tao ng Diyos (cf. Blg. 10:2)."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang salitang “aagawin” ay tumutukoy sa isang uri ng mabilis na hindi mapaglalabanang pagkuha katulad ng nasa Gawa 8:39 at 2 Cor. 12:2, 4. Dito, bilang isang salita ng pag-aaliw, ang pag-akyat sa himpapawid na may masidhing kagalakan ng mga mananampalataya sa pagdating ng Panginoon ay binanggit sa isang pangkalahatang paraan. Hinggil sa bagay na ito, ang mga detalye ay ipinahayag sa ibang mga aklat ng Bagong Tipan, katulad ng Mateo at ng Apocalipsis."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang anak-na-lalake sa Apocalipsis 12, yaon ay, ang mga mandaraig, ay aagawing paitaas, aakyat sa himpapawid na may masidhing kagalakan, tungo sa luklukan ng Diyos sa ikatlong langit bago dumating ang huling tatlo at kalahating taon ng panahon ng matinding kapighatian (Apoc. 12:5-6, 14). Dito, ang nakararaming bilang ng mga mananampalataya, kabilang ang mga namatay na binuhay-na-muling mananampalataya at mga natitira pang buhay na mananampalataya, ay iaakyat na may masidhing kagalakan sa himpapawid sa oras ng pagbabalik ng Panginoon ( parousia ) sa bandang huli ng matinding kapighatian."
         }
     ]
 }

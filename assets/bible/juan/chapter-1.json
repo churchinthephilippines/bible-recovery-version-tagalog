@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,23 +7,23 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Salita,",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "Salita",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "Diyos.",
-                    "note": ""
+                    "id": "1-5"
                 }
             ],
             "outlines": [
@@ -42,11 +42,11 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -63,11 +63,11 @@
             "footnotes": [
                 {
                     "word": "buhay,",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "ilaw",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -84,7 +84,7 @@
             "footnotes": [
                 {
                     "word": "isinugo",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -107,7 +107,7 @@
             "footnotes": [
                 {
                     "word": "nililiwanagan",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -130,19 +130,19 @@
             "footnotes": [
                 {
                     "word": "nagsitanggap,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "nagsisisampalataya",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -153,31 +153,31 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "dugo,",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "kalooban",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "kalooban",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -188,31 +188,31 @@
             "footnotes": [
                 {
                     "word": "Salita",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "nagtabernakulo",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "nakita",
-                    "note": ""
+                    "id": "14-4"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "14-5"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "14-6"
                 },
                 {
                     "word": "realidad.",
-                    "note": ""
+                    "id": "14-6"
                 }
             ],
             "outlines": [
@@ -233,7 +233,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -244,19 +244,19 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "realidad",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "nagsidating",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -267,11 +267,11 @@
             "footnotes": [
                 {
                     "word": "Bugtong",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "naghayag",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -341,7 +341,7 @@
             "footnotes": [
                 {
                     "word": "Betania,",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -352,7 +352,7 @@
             "footnotes": [
                 {
                     "word": "Kordero",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": [
@@ -377,11 +377,11 @@
             "footnotes": [
                 {
                     "word": "kalapati",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "32-2"
                 }
             ],
             "outlines": null
@@ -430,7 +430,7 @@
             "footnotes": [
                 {
                     "word": "mag-",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -447,11 +447,11 @@
             "footnotes": [
                 {
                     "word": "Mesiyas",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "Kristo).",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -462,7 +462,7 @@
             "footnotes": [
                 {
                     "word": "bato).",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -485,7 +485,7 @@
             "footnotes": [
                 {
                     "word": "taga-",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": null
@@ -514,7 +514,7 @@
             "footnotes": [
                 {
                     "word": "Hari",
-                    "note": ""
+                    "id": "49-1"
                 }
             ],
             "outlines": null
@@ -531,18 +531,180 @@
             "footnotes": [
                 {
                     "word": "Katotohanan,",
-                    "note": ""
+                    "id": "51-1"
                 },
                 {
                     "word": "bukas",
-                    "note": ""
+                    "id": "51-2"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "51-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “sa pasimula” ay nangangahulugang kawalang-hanggang lumipas. Ang kapitulong ito ay ang pambungad ng ebanghelyong ito. Tinalakay ang mula sa kawalang-hanggang lumipas, ang Diyos na may pagka-Diyos at wala pang pagka-tao (b. 1), dumaan sa paglikha ng lahat ng bagay (b. 3), naging laman (b. 14), bilang ang Korderong nag-aalis ng kasalanan ng sanlibutan (b. 29), ang Espiritung yaon na nagsasanhi sa mga mananampalataya na matransporma upang maging mga buháy na bato sa Kanyang pagtatayo (bb. 32, 42) hanggang sa kawalang-hanggang hinaharap, na ang Anak ng Taong ito na may kalikasan ng Diyos at tao ay magiging sentro ng pag-uugnayan ng langit at lupa at pagkakaisa ng Diyos at tao sa loob ng kawalang-hanggan. Karugtong nito ipinakikita sa atin ng kapitulo 2 na ang prinsipyo ng Tres-unong Diyos bilang buhay ay ang palitan ng buhay ang kamatayan (2:1-11) at ang layunin ng buhay ay ang patatayo ng bahay ng Diyos—ang templo (2:13-22). Mula sa kapitulo 3 hanggang sa kapitulo 11 ay ipinakita ang siyam na halimbawa, mga halimbawang nagpapatunay na ang Diyos bilang buhay ay tumutugon sa iba’t ibang pangangailangan ng iba’t ibang uri ng tao. Kaya sa umpisa ng kapitulo 12 ay may isang maliit na modelo ng ekklesia (12:1-11). Tinatalakay sa atin na ang ekklesiang ito ay ibinunga ng pagpapalaganap at pagpaparami ng Diyos-Taong ito na naging laman na namatay at muling nabuhay. Ipinakikita sa atin sa kapitulo 18 hanggang 20 na ang pagsasakatuparan ng pagpapalaganap at pagpaparami ay nagbigay sa Kanya ng maraming kapatid na lalake (20:17) at may kakayahan na Siyang pumasok sa loob nila (20:22) bilang kanilang buhay at lahat-lahat upang sila ay mabuuan bilang ang Kanyang Katawan, bilang Kanyang pagpaparami at kahayagan. Sa kahuli-hulihan, tinalakay sa kapitulo 21 na Siya ay makakasama nila sa ganitong hindi nakikitang presensiya hanggang sa Kanyang muling pagdating (21:22)."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang Salita ay ang kahulugan, pagpapaliwanag, at kahayagan ng Diyos; kaya, ito ay ang Diyos na nabigyang-kahulugan, naipaliwanag, at naihayag."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang Salita ay hindi hiwalay sa Diyos. Hindi sa ang Salita ay ang Salita at ang Diyos ay ang Diyos, at Sila ay magkahiwalay sa isa’t isa. Silang dalawa ay iisa; kaya, sa sumusunod na sugnay ay sinasabi nito na ang Salita ay Diyos."
+        },
+        {
+            "id": "1-4",
+            "text": "Nagpapahiwatig na ang Persona ng Diyos ay hindi simple kundi tres-uno."
+        },
+        {
+            "id": "1-5",
+            "text": "Hindi lamang ang Diyos Anak, bagkus ang kumpletong Tres-unong Diyos."
+        },
+        {
+            "id": "2-1",
+            "text": "O, Ang Isang ito."
+        },
+        {
+            "id": "2-2",
+            "text": "“Sa pasimula,” yaon ay, mula sa kawalang-hanggang lumipas, ang Salita ay kasama na ng Diyos. Ito ay hindi katulad ng inakala ng iba, na si Kristo ay hindi kasama ng Diyos at hindi Diyos mula sa kawalang-hanggang lumipas, at yaong sa isang tiyak na panahon si Kristo ay naging Diyos at nakasama ng Diyos. Ang ganitong kaisipan ay mali. Ang pagka-Diyos ni Kristo ay walang hanggan at lubusan. Mula sa kawalang-hanggang lumipas hanggang sa kawalang-hanggang hinaharap, Siya ay kasama ng Diyos, at Siya ay Diyos. Ito ang dahilan kung bakit sa Ebanghelyong ito ay walang talaangkanan (Heb. 7:3) tungkol sa Kanya tulad ng sa Mateo at Lucas 3."
+        },
+        {
+            "id": "4-1",
+            "text": "Yamang ang bersikulo 3 ay tumutukoy sa paglikha sa Genesis 1, ang pagkakabanggit sa buhay sa bersikulo 4 ay dapat tumukoy sa buhay na tinukoy ng puno ng buhay sa Genesis 2. Ito ay pinagtibay ng pagkakabanggit ni Juan sa puno ng buhay sa Apocalipsis 22. Yamang nasa Kanya ang buhay, Siya sa gayon ay buhay (11:25; 14:6), at pumarito upang ang tao ay magkaroon ng buhay (10:10b). Ang pambungad na ito sa Ebanghelyo ni Juan, kasama ang buong kapitulo 1 ay nagsisimula sa buhay (b. 4) at nagtatapos sa pagtatayo (bb.42,51)—ang bahay ng Diyos (tingnan ang mga talà 42-1 , 51-2 , at 51-3 ). Kaya, ito ay isang pambungad na salita ukol sa buhay at pagtatayo."
+        },
+        {
+            "id": "4-2",
+            "text": "Para sa lumang nilikha, ito ay ang pisikal na liwanag (Gen. 1:3-5, 14-18). Para sa bagong nikilha, ito ay ang ilaw ng buhay."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang pandiwa ay may pakahulugang isang sugo na ipinadadala na may natatanging atas."
+        },
+        {
+            "id": "7-1",
+            "text": "O, Ang isang ito."
+        },
+        {
+            "id": "9-1",
+            "text": "Gr. photizo. Ang parehong salita ay ginagamit nang palipat, katulad ng pagkagamit dito sa Efe. 1:18, 3:9; Heb. 6:4; 10:32."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang sumampalataya ay ang tumanggap."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang pagiging anak ng Diyos ay katumbas ng pagkakaroon ng buhay at kalikasan ng Diyos."
+        },
+        {
+            "id": "12-3",
+            "text": "Lit., tungo sa loob ng."
+        },
+        {
+            "id": "13-1",
+            "text": "Lit., mula sa."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang dugo (sa Griyego nasa pangmaramihan, mga dugo) rito ay sumasagisag sa pisikal na buhay; ang kalooban ng laman ay nagsasaad ng kalooban ng natisod na tao matapos maging laman ang tao; ang kalooban ng tao ay tumutukoy sa kalooban ng tao na nilikha ng Diyos."
+        },
+        {
+            "id": "14-1",
+            "text": "Para sa Diyos na Salita na maging laman ay ang magkaroon ang Diyos ng pantaong buhay at pantaong kalikasan."
+        },
+        {
+            "id": "14-2",
+            "text": "Ipinakikita sa Roma 8:3 na ang lamang ito ay ang laman ng kasalanan nguni’t mayroon lamang anyo ng laman at walang kasalanan ng laman. Ang naging lamang ito ay ang Salita, ang Salitang ito ay ang Diyos, na Siyang kumpletong Tres-unong Diyos (b.1). Ang Salitang ito na naging laman ay ang Tres-unong Diyos na naging Tao ng laman. Ang laman ay ang makasalanang tao. Ang Diyos ay pumasok sa makasalanang tao at nakipagkaisa sa makasalanang tao. Siya na nakipagkaisa sa tao ay may anyo lamang ng makasalanang tao nguni’t walang kasalanan ng makasalanang tao. Samakatuwid, Siya ay naging isang walang kasalanang Diyos-Tao—ang kumpletong Diyos at perpektong tao, taglay ang kalikasan ng Diyos at ang kalikasan ng tao. Ang dalawang kalikasang ito na pinaghalo upang maging isang Diyos-Tao ay nananatiling dalawang kalikasan, hindi nahalo upang maging ikatlong kalikasan kundi ang kalikasan ng Diyos ay umiiral sa loob ng kalikasan ng tao at sa pamamagitan ng kalikasan ng tao ay inihahayag ang kapuspusan ng biyaya at realidad. Ang biyaya ay ang Diyos na natamasa ng tao; ang realidad ay ang Diyos na nakamtan ng tao. Sa gayon, ang Diyos na hindi nakikita ay naihayag, nakamtan ng tao at natamasa upang maging kanilang buhay at maisakatuparan ang Kanyang Bagong Tipang ekonomiya."
+        },
+        {
+            "id": "14-3",
+            "text": "Sa pagiging laman ng Salita, hindi lamang dinala ang Diyos tungo sa loob ng pagka-tao bagkus ang laman ay naging isang tabernakulo rin para sa Diyos bilang tahanan ng Diyos sa lupa sa gitna ng mga tao."
+        },
+        {
+            "id": "14-4",
+            "text": "Ito ay tumutukoy sa pagbabagong-anyo ni Kristo sa Bundok (Mat. 17:1-2, 5; Luc. 9:32; 2 Ped. 1:16-18)."
+        },
+        {
+            "id": "14-5",
+            "text": "Gr. para , sa tabi ng. Ang diwa rito ay “mula sa, kasama ng.” Ang Anak ay hindi lamang dumating mula sa Ama, bagkus kasama ring dumating ng Ama. Sa isang panig Siya ay mula sa Ama, sa kabilang panig Siya ay kasama pa rin ng Ama (8:16b, 29; 16:32b)."
+        },
+        {
+            "id": "14-6",
+            "text": "Ang biyaya ay ang Diyos na nasa Anak bilang ating katamasahan; ang realidad ay ang Diyos na natanto natin sa Anak. Ang “realidad”sa Griyego ay katulad ng salitang “katotohanan” na nasa 5:33; 8:32; at 17:17, 19."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit., mula sa."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang kautusan ay humihiling sa tao ayon sa kung ano ang Diyos, subalit ang biyaya ay nagtutustos sa tao ng kung ano ang Diyos upang matugunan kung ano ang hinihiling ng Diyos. Ang kautusan, sa kasukdulan, ay isang patotoo lamang ng kung ano ang Diyos (Exo. 25:21), subalit ang realidad ay ang pagkatanto ng kung ano ang Diyos. Walang tao ang makababahagi sa Diyos sa pamamagitan ng kautusan, subalit ang biyaya ay nakapagsasanhi sa tao na matamasa ang Diyos. Ang biyaya ay ang Diyos na natamasa ng tao at ang realidad ay ang Diyos na natanto ng tao."
+        },
+        {
+            "id": "17-2",
+            "text": "Lit., napangyari."
+        },
+        {
+            "id": "18-1",
+            "text": "Inihayag ng bugtong na Anak ng Ama ang Diyos sa pamamagitan ng salita, buhay, liwanag, biyaya, at realidad. Ang Salita ay ang Diyos na naihayag, ang buhay ay ang Diyos na naibabahagi, ang liwanag ay ang Diyos na nagniningning, ang biyaya ay ang Diyos na natamasa, at ang realidad ay ang Diyos na natanto, naunawaan. Ang Diyos ay lubos na naihayag sa Anak na pamamagitan ng limang bagay na ito."
+        },
+        {
+            "id": "18-2",
+            "text": "O, nagpapaliwanag hinggil sa Kanya."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang Betania rito ay isang pook sa silangang dako ng Jordan, naiiba sa Betania sa 11:1, na isang nayon sa kanlurang dako ng Jordan."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang mga relihiyosong tao ay naghahanap ng isang dakilang tagapamuno (bb. 19-25) tulad ng Mesiyas, ni Elias, o ng propeta (ayon sa mga Kasulatan, Dan. 9:26; Mal. 4:5; Deut. 18:15, 18). Subalit si Hesus ay ipinakilala sa kanila bilang isang maliit na Kordero na may kasamang isang munting kalapati (bb. 29-33). Ang Kordero ay para sa pag-aalis ng kasalanan ng mga tao, at ang kalapati ay para sa paghahatid ng Diyos bilang buhay sa tao. Ang Kordero ay para sa pagtutubos, upang tubusin ang natisod na tao pabalik sa Diyos, at ang kalapati ay para sa pagbibigay-buhay, para sa pagpapahid, upang pahiran ang tao ng kung ano ang Diyos, upang dalhin ang Diyos sa loob ng tao at ang tao sa loob ng Diyos. Ang dalawang ito ay kailangan upang makabahagi ang tao sa Diyos."
+        },
+        {
+            "id": "32-1",
+            "text": "Tingnan ang tala 29-1 ."
+        },
+        {
+            "id": "32-2",
+            "text": "Lit., sa ibabaw Niya. Katulad din sa kasunod na bersikulo."
+        },
+        {
+            "id": "39-1",
+            "text": "Yaon ay, 1ka-4 ng hapon"
+        },
+        {
+            "id": "41-1",
+            "text": "Ang Mesiyas ay salitang Hebreo; ang Kristo ay salitang Griyego. Pareho itong nangangahulugang “ang pinahiran.” Si Kristo ay Pinahiran ng Diyos, itinalaga ng Diyos upang isakatuparan ang layunin ng Diyos, ang walang hanggang plano ng Diyos."
+        },
+        {
+            "id": "42-1",
+            "text": "Lit., Pedro, nangangahulugang bato. Ang Salita Niyang ito ang tinukoy ng Panginoon nang Siya ay nagsalita kay Pedro sa Mat. 16:18 tungkol sa pagtatayo ng ekklesia. Dito marahil nakamtan ni Pedro ang kaisipan ng mga buháy na bato para sa pagtatayo ng isang espiritwal na bahay (1 Ped. 2:5); ang espiritwal na bahay na ito ay ang ekklesia. Ang kahulugan ng isang bato ay tumutukoy sa isang uri ng gawain ng transpormasyon upang maibunga ang materyal para sa pagtatayo ng Diyos (1 Cor. 3:12)."
+        },
+        {
+            "id": "45-1",
+            "text": "Ang impormasyong ipinasa ni Felipe kay Natanael sa mga salitang, “taga-Nazareth”, at “anak ni Jose” ay hindi wasto."
+        },
+        {
+            "id": "49-1",
+            "text": "Yaon ay ang Mesiyas."
+        },
+        {
+            "id": "51-1",
+            "text": "Sa Griyego, Amen, amen. Gayundin sa buong aklat."
+        },
+        {
+            "id": "51-2",
+            "text": "Ito ang katuparan ng panaginip ni Jacob (Gen. 28:11-22). Si Kristo bilang Anak ng Tao, na may Kanyang pagka-tao, ay ang hagdan na nasa lupa at tumutungo sa kalangitan, pinananatiling bukas ang langit sa lupa at iniuugpong ang lupa sa langit para sa bahay ng Diyos—Betel. Si Jacob ay nagbuhos ng langis (ang sagisag ng Espiritu Santo, ang huling Persona ng Tres-unong Diyos upang maabot ang tao) sa ibabaw ng bato (sagisag ng natranspormang tao) upang ito ay maging bahay ng Diyos. Matatagpuan dito sa Juan 1 ang Espiritu (b. 32) at ang bato (b. 42) para sa bahay ng Diyos kasama si Kristo sa Kanyang pagka-tao. Kung saan naroroon ito, may isang bukas na langit."
+        },
+        {
+            "id": "51-3",
+            "text": "Ang Juan kapitulo 1, bilang ang pambungad sa ebanghelyo ni Juan, ay nagpapakilala kay Kristo kapwa bilang ang Anak ng Diyos (bb. 34, 49) at ang Anak ng Tao. Nakilala Siya ni Natanael bilang ang Anak ng Diyos at tinawag Siya nang gayon (b. 49), ngunit sinabi ni Kristo kay Natanael na Siya ang Anak ng Tao. Ang Anak ng Diyos ay ang Diyos na may kalikasan ng Diyos. Ang Anak ng Tao ay ang taong may kalikasan ng tao. Para sa paghahayag ng Diyos (b. 18) at para sa paghahatid ng Diyos sa tao, Siya ay ang bugtong na Anak ng Diyos. Subali’t para sa pagtatayo ng bahay ng Diyos sa lupa sa gitna ng mga tao, Siya ang Anak ng Tao. Ang pagtatayo ng Diyos ay nangangailangan ng Kanyang pagka-tao. Sa kawalang-hanggang lumipas si Kristo ay mayroon lamang pagka-Diyos, subali’t sa kawalang-hanggang hinaharap, si Kristo ay may kapwa pagka-Diyos at pagka-tao magpakailanman. Si Kristo ay Diyos at Tao rin, Siya ay Anak ng Diyos at Anak din ng Tao at nananatili sa dalawang kalikasan ng Diyos at Tao hanggang sa kawalang-hanggan."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 10,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -43,11 +43,11 @@
             "footnotes": [
                 {
                     "word": "(sa",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "kalooban.",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -64,7 +64,7 @@
             "footnotes": [
                 {
                     "word": "kalooban.",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -75,7 +75,7 @@
             "footnotes": [
                 {
                     "word": "kaloobang",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -86,7 +86,7 @@
             "footnotes": [
                 {
                     "word": "araw-",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -97,11 +97,11 @@
             "footnotes": [
                 {
                     "word": "umupo",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "magpakailanman",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -118,7 +118,7 @@
             "footnotes": [
                 {
                     "word": "pinasakdal",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -153,7 +153,7 @@
             "footnotes": [
                 {
                     "word": "makapasok",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": [
@@ -166,11 +166,11 @@
             "footnotes": [
                 {
                     "word": "bago",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "tabing,",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -187,15 +187,15 @@
             "footnotes": [
                 {
                     "word": "magsilapit",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "katawan",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "dalisay",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -218,11 +218,11 @@
             "footnotes": [
                 {
                     "word": "pinababayaan",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "pagkakatipon,",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -233,15 +233,15 @@
             "footnotes": [
                 {
                     "word": "sinasadya",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "katotohanan,",
-                    "note": ""
+                    "id": "26-2"
                 },
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "26-3"
                 }
             ],
             "outlines": null
@@ -264,19 +264,19 @@
             "footnotes": [
                 {
                     "word": "kahigpit",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "yumurak",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "nag-",
-                    "note": ""
+                    "id": "29-3"
                 },
                 {
                     "word": "umalipusta",
-                    "note": ""
+                    "id": "29-4"
                 }
             ],
             "outlines": null
@@ -287,7 +287,7 @@
             "footnotes": [
                 {
                     "word": "paghihiganti,",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -310,7 +310,7 @@
             "footnotes": [
                 {
                     "word": "panoorin",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -321,7 +321,7 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -332,7 +332,7 @@
             "footnotes": [
                 {
                     "word": "gantimpala.",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -343,11 +343,11 @@
             "footnotes": [
                 {
                     "word": "kalooban",
-                    "note": ""
+                    "id": "36-1"
                 },
                 {
                     "word": "pangako.",
-                    "note": ""
+                    "id": "36-2"
                 }
             ],
             "outlines": null
@@ -364,7 +364,7 @@
             "footnotes": [
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -375,18 +375,148 @@
             "footnotes": [
                 {
                     "word": "umuurong",
-                    "note": ""
+                    "id": "39-1"
                 },
                 {
                     "word": "kapahamakan,",
-                    "note": ""
+                    "id": "39-2"
                 },
                 {
                     "word": "ikatatamo",
-                    "note": ""
+                    "id": "39-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "7-1",
+            "text": "Ang Lumang Tipan ay nagbibigay sa atin ng isang buong tala ni Kristo, alinman sa pamamagitan ng mga payak na pananalita o sa pamamagitan ng mga sagisag (Luc. 24:27, 44, 46; Juan 5:39, 46)."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang kalooban ng Diyos dito ay ang alisin ang una, ang mga haing hayop ng lumang tipan, upang maitatag ang ikalawa, ang haing si Kristo ng bagong tipan."
+        },
+        {
+            "id": "9-1",
+            "text": "Tuwirang isinaling: Ang nauna, ang una, ang huli, ang ikalawa. Dito ang una ay tumutukoy sa mga hain sa unang tipan, yaon ay, ang Lumang Tipan; ang ikalawa ay tumutukoy kay Kristo, ang mga hain sa ikalawang tipan, yaon ay, ang Bagong Tipan. Si Kristo ay dumating sa sanlibutan ayon sa kalooban ng Diyos upang alisin ang mga haing hayop ng Lumang Tipan at itatag ang Kanyang Sarili bilang ang hain ng Bagong Tipan. Tingnan ang tala 7-2 ."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang pangunahing kaisipan sa bb. 1-18 ay yaong tinapos na ni Kristo ang kasalanan, isinasagawa ang anumang hindi maabot ng mga haing hayop ng Levitikong pagkasaserdote. Ang mga kasalanan ay tinapos na ni Kristo nang minsan magpakailanman at ngayon ay naipamahagi na Niya ang Kanyang Sarili tungo sa ating loob bilang ang dibinong buhay nang sa gayon sa pamamagitan ng paggawa ng dibinong buhay na ito, tayo ay maging sama-sama Niyang pagpaparami. Tingnan ang tala 7-2 ."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang mga saserdote sa lumang tipan ay nakatayo araw-araw at naghahandog nang madalas ng gayunding mga hain, sapagka’t ang kanilang inihahandog ay hindi kailanman makapag-aalis ng mga kasalanan. Subali’t inalis na ni Kristo ang kasalanan (9:26) sa pamamagitan ng paghahandog ng Kanyang Sarili sa Diyos bilang ang nag-iisang hain para sa mga kasalanan. Kaya nga, Siya ay umupo magpakailanman sa kanan ng Diyos (b. 12). Ang Kanyang pag-upo sa langit ay isang tanda at patunay na ang pag-aalis ng mga kasalanan ay naisagawa na. Ang Kanyang pag-upo roon ay magpakailanman. Kaya nga, hindi na Niya kinakailangang gumawa ng anupaman para sa kasalanan. Isinakatuparan na Niya ito nang minsan magpakailanman. Ang Kanyang pag-upo magpakailanman pagkatapos na makapaghandog ng isang hain para sa mga kasalanan ay kabaligtaran ng araw-araw na pagtayo ng mga saserdote, na naghahandog nang madalas ng gayunding mga hain."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 11-1 ."
+        },
+        {
+            "id": "12-2",
+            "text": "Lit. sa kawalang-hangganan; gayundin sa b. 14."
+        },
+        {
+            "id": "14-1",
+            "text": "Sa pamamagitan ng isang paghahandog ay napasakdal na tayo ni Kristo at tayo ay ginawa na Niyang sakdal."
+        },
+        {
+            "id": "19-1",
+            "text": "Ngayon ang Dakong Kabanal-banalan ay nasa langit na kinaroroonan ng Panginoong Hesus (9:12, 24). Paano tayo makapapasok dito samantalang tayo ay naririto pa sa lupa? Ang lihim ay ang ating espiritu na tinukoy sa 4:12. Ang mismong Kristong nasa langit ay nasa ating espiritu rin ngayon (II Tim. 4:22). Siya, bilang ang makalangit na hagdan (Gen. 28:12; Juan 1:51), ang nag-uugpong ng ating espiritu sa langit at naghahatid ng langit sa loob ng ating espiritu. Kaya nga, sa tuwing tayo ay bumabaling sa ating espiritu, tayo ay pumapasok sa Dakong Kabanal-banalan. Dito ay nakikipagtagpo tayo sa Diyos na nasa trono ng biyaya. Tingnan ang tala 16-1 sa kapitulo 4."
+        },
+        {
+            "id": "20-1",
+            "text": "Lit. kabubukas pa lamang."
+        },
+        {
+            "id": "20-2",
+            "text": "Ito ang ikalawang tabing (9:3) sa loob ng tabernakulo na sumasagisag sa laman ni Kristo. Nang ang laman ni Kristo ay naipako sa krus, ang tabing na ito ay nahapak (Mat. 27:51), sa gayon ay nagbubukas ng daan para sa atin na mga hiwalay sa Diyos na sinasagisag ng puno ng buhay (Gen. 3:22-24) na makapasok sa loob ng Dakong Kabanal-banalan upang makaugnay Siya at matanggap Siya bilang ang puno ng buhay para sa ating pagtatamasa. Ito rin ay nagpapahiwatig na yamang ang ating lumang tao ay naipakong kasama ni Kristo, tayo ay nagkaroon ng bukas na daan upang makaugnay at matamasa ang Diyos sa loob ng ating espiritu bilang ating buhay at panustos ng buhay."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang magsilapit (sa Dakong Kabanal-banalan) ay kabaligtaran ng umurong pabalik (sa Hudaismo) sa bb. 38 at 39."
+        },
+        {
+            "id": "22-2",
+            "text": "Dito ang katawan at ang dalisay na tubig ay parehong sinalita nang paalegoriya, gaya ng mga dungis, mga kulubot, at tubig sa Efe. 5:26-27. Ang katawan ay tumutukoy sa ating panlabas na anyong maaaring makita samantalang ang puso ay sa panloob na bahaging hindi nakikita. Ang dalisay na tubig ay tumutukoy sa buháy na salita ng Diyos na lumilinis sa ating mga panlabas na pagkilos (cf. Juan 15:3)."
+        },
+        {
+            "id": "25-1",
+            "text": "Sa kinalalagyang kapanahunan at situwasyon ng mga mananampalatayang Hebreo, ang pabayaan ang kanilang pagkakatipon ay ang pabayaan ang bagong tipang paraan ng pakikipag-ugnay sa Diyos, ang pabayaan ang ekklesia at ang bumalik sa kanilang lumang relihiyon na siyang Hudaismo. Lalabagin ng kanilang pagpapabaya sa kanilang pagkakatipon ang administrasyon ng biyaya ng Diyos, sa gayon ay magbubuo ng isang mabigat na kasalanan sa harap ng Diyos (b. 26)."
+        },
+        {
+            "id": "25-2",
+            "text": "Tumutukoy sa pagkakatipon ng mga Kristiyano. Nang panahong yaon, ang mga mananampalatayang Hebreo ay nagmula sa Hudaismo; sila ay nagkakatipon sa Hudaismo. Sila ay nanampalataya kay Kristo at naging mga Kristiyano, at sila ay sumali sa pagtitipon ng mga Kristiyano na nangangahulugang lumabas na sila sa Hudaismo. Kaya nga, kung mayroon man sa kanila na bumalik sa pagtitipon ng Hudaismo, yaon ay nangangahulugang kanilang tinalikuran ang mga pang-Kristiyanong pagkakatipon na ayon sa Bagong Tipang ekonomiya ng Diyos. Kaya nga, sila ay hinikayat ni Pablo na huwag pabayaan ang kanilang mga pang-Kristiyanong pagkakatipon. *Gayundin sa panahon natin."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang sadyaing magkasala rito ay nangangahulugang pabayaan ang pakikipagtipon sa ekklesia. Ang mga mananampalatayang Hebreo ay inatasan na iwanan ang Hudaismo at manatili sa ilalim ng bagong tipan. Kung sila ay babalik pa rin sa Hudaismo, kanilang pababayaan ang pakikipagtipon sa ekklesia. Ito ay bumubuo ng isang sinasadyang kasalanan sa mga mata ng Diyos sapagka’t natanggap na nila ang lubos na pagkaalam sa katotohanan, nalaman na nila na itinakwil na ng Diyos ang Hudaismo na binuo ayon sa lumang tipan, at naitatag na ang bago at buháy na paraan ng pakikipag-ugnay sa Diyos ayon sa bagong tipan."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang katotohanan dito ay tumutukoy sa mga bagay na inihayag sa mga naunang kapitulo at bersikulo, na nagbibigay sa mga mananampalatayang Hebreo ng isang lubos na pagkaalam na pinawalang-bisa na ng Diyos ang lumang tipan at itinatag na ang bagong tipan."
+        },
+        {
+            "id": "26-3",
+            "text": "Kung pababayaan ng mga mananampalatayang Hebreo ang ekklesia at babalik sa Hudaismo, ayon sa ekonomiya ng Diyos ay wala ng haing natitira pa para sa mga kasalanan, sapagka’t ang lahat ng mga hain ng lumang tipan ay lubusan nang hinalinhan ni Kristo bilang ang natatanging hain. Yamang si Kristo ay minsan magpakailanmang naghandog ng Kanyang Sarili bilang ang hain para sa ating mga kasalanan (7:27; 10:10, 12), ang hain para sa mga kasalanan ay inihinto na (b. 2). Ito ay inalis na ni Kristo (b. 9), inihahandog ang Kanyang Sarili sa Diyos bilang ang tunay na hain para sa ating mga kasalanan."
+        },
+        {
+            "id": "29-1",
+            "text": "Ito ay naiiba sa pangalawang kamatayan, na siyang walang hanggang kapahamakan sa dagat-dagatang apoy (Apoc. 20:6, 14; 21:8). Bagama’t hindi na mapapahamak ang mga mananampalataya, sila ay malamang na magdusa ng pampanahunang pagpaparusa dahil sa kabiguang ito. Ang parusang ito ay lalo pang malubha kaysa roon sa pagdurusahan niyaong mga lumabag sa kautusan ng mga titik."
+        },
+        {
+            "id": "29-2",
+            "text": "Sa bagong tipan ay hinahalinhan ng Anak ng Diyos ang lahat ng mga hain ng lumang tipan. Kung ang mga mananampalatayang Hebreo ay babalik sa Hudaismo upang maghandog ng alinman sa mga lumang hain, sa katunayan, kanilang niyuyurakan ang Anak ng Diyos."
+        },
+        {
+            "id": "29-3",
+            "text": "Kung ang mga mananampalatayang Hebreo ay babalik sa Hudaismo upang ihandog ang mga lumang hain at umasa sa dugo ng mga pinatay na hayop, sa katunayan kanilang inari ang mahalagang dugo ni Kristo na isang karaniwang bagay. Ito ay magiging isang lubhang pangmamata sa namumukod-tanging gawain ng pagtutubos ni Kristo."
+        },
+        {
+            "id": "29-4",
+            "text": "Sa ilalim ng bagong tipan, sa pamamagitan ng nagtutubos na dugo ni Kristo, ang mga mananampalatayang Hebreo ay mga nakabahagi ng Espiritu Santo (6:4), ang Espiritu ng biyaya. Kung sila ay babalik sa Hudaismo, ang Espiritu ng biyayang nananahan sa kanila at gumagawa sa loob nila ay maaalipusta dahil sa kanilang sinasadyang pagkakasala."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang salitang Griyegong ito ay walang kaisipan ng pagiging mapaghiganti, sa halip ay may kaisipan ng isang ganap na paggawad ng katarungan sa lahat ng partido."
+        },
+        {
+            "id": "33-1",
+            "text": "Isang palabas na inilalantad sa madla. Ang gayunding bagay ay naganap sa mga apostol (I Cor. 4:9)."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang pag-aaring ito na lalong mabuti at tumatagal ay ang walang hanggang mana (9:15) at ang manang di-nasisira, at walang dungis, at hindi kumukupas, na inilaan sa langit (I Ped. 1:4). Sa ilalim ng lumang tipan, ang mga Hudyo ay nagmana ng mga panlupang bagay bilang kanilang pag-aari; subali’t sa ilalim ng bagong tipan, ang mga mananampalataya ay nagmamana ng mga makalangit na kayamanan bilang kanilang pag-aari. Ang lalong mabuti at tumatagal na pag-aaring ito ay isang napakalaking pangganyak sa mga mananampalatayang Hebreo upang batahin ang pagkawala ng mga panlupang bagay."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang gantimpala ay isang bagay na karagdagan sa walang hanggang kaligtasan. Ang walang hanggang kaligtasan ay sa pamamagitan ng pananampalataya, walang anumang kinalaman sa ating gawa (Efe. 2:8-9), samantalang ang gantimpala ay para sa ating pagkilos at gawa pagkatapos na tayo ay maligtas (I Cor. 3:8, 14). Maaaring hindi tayo makatanggap ng isang gantimpala, sa halip ay magdusa ng pagkalugi bagaman tayo ay naligtas na, sa dahilang tayo ay hungkag sa gawaing aaprubahan ng Diyos (I Cor. 3:15). Ang gantimpala ay ibibigay sa atin ayon sa ating mga gawa sa pagbabalik ng Panginoon (Mat. 16:27; Apoc. 22:12; I Cor. 4:5). Ito ay pagpapasiyahan sa luklukan ng paghahatol ni Kristo (II Cor. 5:10), at matatamasa sa darating na kaharian (Mat. 25:21, 23). Ang Apostol Pablo ay nagpunyaging matamo ang gantimpala (I Cor. 9:24-27; Fil. 3:13-14; II Tim. 4:7-8), maging si Moises ay tumanaw sa gantimpala (11:26; tingnan ang tala 3). Ang mga mananampalatayang Hebreo ay inatasan ditong huwag iwala ang gantimpala- ang darating na Sabbath na kapahingahan (4:9) na siyang pagtatamasa kay Kristo at paghahari kasama ni Kristo sa darating na kaharian."
+        },
+        {
+            "id": "36-1",
+            "text": "Ang kalooban ng Diyos dito para sa mga mananampalatayang Hebreo ay ang lumakad sa bagong tipang daan (bb. 19-23) at manatili sa ekklesia (b. 25), hindi umuurong pabalik sa Hudaismo (bb. 38-39) kundi nagtitiis sa pag-uusig ng Hudaismo (bb. 32-34). Dahil dito ay kanilang matatanggap ang pangako ng isang dakilang gantimpala (b. 35) sa pagbabalik ng Panginoon (b. 37)."
+        },
+        {
+            "id": "36-2",
+            "text": "Ang pangako rito ay ang pangako ng Sabbath na kapahingahan ng binanggit sa 4:9, kung saan tayo ay makikibahagi sa paghahari ni Kristo sa darating na kaharian. Yaon ang magiging malaking gantimpalang binanggit sa b. 35 para sa ikaliligtas ng kaluluwa na binanggit sa b. 39. Ito ay nakabatay sa ating pagtitiis at paggawa ng kalooban ng Diyos, na naiiba sa pangako sa 9:15. Tingnan ang tala 1 roon."
+        },
+        {
+            "id": "38-1",
+            "text": "Kasunod ng dalawang bersikulong ito, ang kapitulo 11 ay nagbibigay ng isang buong pagpapakahulugan ng pananampalataya."
+        },
+        {
+            "id": "39-1",
+            "text": "Para sa mga mananampalatayang Hebreo na umurong pabalik sa Hudaismo ay ang umurong pabalik sa kapahamakan na hindi ang walang hanggang kapahamakan, kundi ang kaparusahan ng Diyos na buháy (bb. 29-31). Tingnan ang tala 2."
+        },
+        {
+            "id": "39-2",
+            "text": "Ang kapahamakang binanggit dito ay ang kaparusahan, gaya ng binanggit sa bb. 27-31, na darating doon sa mga taong magpapabaya sa bagong tipan at babalik sa Hudaismo, sa gayon ay niyuyurakan ang Anak ng Diyos, inaari ang mahalagang dugo ni Kristo na karaniwan tulad ng dugo ng hayop, at inaalipusta ang Espiritu ng biyaya."
+        },
+        {
+            "id": "39-3",
+            "text": "O, ikaliligtas, ikapangangalaga, ikaaari. Tayong mga tao ay may tatlong bahagi – espiritu, kaluluwa, at katawan (I Tes. 5:23). Ang ating kaluluwa ay naiiba sa ating espiritu. Sa sandaling tayo ay nanampalataya sa Panginoong Hesus at nangaligtas, ang ating espiritu ay isinilang-namuli ng Espiritu ng Diyos (Juan 3:6). Subali’t kinakailangan tayong maghintay hanggang sa ang Panginoong Hesus ay bumalik upang matubos, maligtas at mabagong- anyo ang ating katawan (Roma 8:23-25; Fil. 3:21). Tungkol sa pagliligtas, o pagtatamo ng ating kaluluwa, ito ay nakasalalay kung paano natin tinutuos ang kaluluwa sa pagsunod sa Panginoon pagkatapos na tayo ay maligtas at maisilang na muli. Kung maiwawala natin ito ngayon para sa kapakanan ng Panginoon, ito ay maililigtas natin (Mat. 16:25; Luc. 9:24; 17:33; Juan 12:25; I Ped. 1:9), at ito ay maliligtas o matatamo sa pagbabalik ng Panginoon (b. 37). Ito ay magiging isang gantimpala (b. 35) ng kaharian sa mga mandaraig na tagasunod ng Panginoon (Mat. 16:22-28)."
         }
     ]
 }

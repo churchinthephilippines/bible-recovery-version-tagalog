@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Hesus",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "tuksuhin",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "diyablo.",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -29,7 +29,7 @@
             "footnotes": [
                 {
                     "word": "apatnapung",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -40,15 +40,15 @@
             "footnotes": [
                 {
                     "word": "manunukso",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -59,23 +59,23 @@
             "footnotes": [
                 {
                     "word": "nasusulat,",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "“Ang",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "tinapay",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "4-4"
                 },
                 {
                     "word": "bibig",
-                    "note": ""
+                    "id": "4-5"
                 }
             ],
             "outlines": null
@@ -86,11 +86,11 @@
             "footnotes": [
                 {
                     "word": "pakpak",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "templo,",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -101,11 +101,11 @@
             "footnotes": [
                 {
                     "word": "magpatihulog",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "nasusulat,",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -116,11 +116,11 @@
             "footnotes": [
                 {
                     "word": "Muli",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "tutuksuhin",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -131,7 +131,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -142,7 +142,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -153,11 +153,11 @@
             "footnotes": [
                 {
                     "word": "Satanas!",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "lamang",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -168,11 +168,11 @@
             "footnotes": [
                 {
                     "word": "iniwan",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -183,11 +183,11 @@
             "footnotes": [
                 {
                     "word": "ibinilanggo,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "umalis",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -215,7 +215,7 @@
             "footnotes": [
                 {
                     "word": "Galilea",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -226,7 +226,7 @@
             "footnotes": [
                 {
                     "word": "ilaw,",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -237,7 +237,7 @@
             "footnotes": [
                 {
                     "word": "Magsisi",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -248,15 +248,15 @@
             "footnotes": [
                 {
                     "word": "dagat",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "naghahagis",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "lambat",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -273,7 +273,7 @@
             "footnotes": [
                 {
                     "word": "sumunod",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -284,7 +284,7 @@
             "footnotes": [
                 {
                     "word": "nagsisipaghayuma",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -295,7 +295,7 @@
             "footnotes": [
                 {
                     "word": "sumunod",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -306,15 +306,15 @@
             "footnotes": [
                 {
                     "word": "sinagoga,",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "ebanghelyo",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "kaharian,",
-                    "note": ""
+                    "id": "23-3"
                 }
             ],
             "outlines": null
@@ -331,14 +331,176 @@
             "footnotes": [
                 {
                     "word": "kalipunan",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "Decapolis,",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Pagkatapos mabautismuhan sa tubig at mapahiran ng Espiritu ng Diyos, si Hesus, bilang isang tao, ay kumilos ayon sa pangunguna ng Espiritu. Ito ay nagpapakita na ang Kanyang makaharing ministeryo sa Kanyang pagka-tao ay ayon sa Espiritu."
+        },
+        {
+            "id": "1-2",
+            "text": "Una sa lahat, inihatid ng Espiritu ang pinahirang Hari “upang tuksuhin ng Diyablo.” Ang pagtuksong ito ay isang pagsubok upang patunayan na Siya ay napaging-dapat na maging Hari para sa kaharian ng mga kalangitan."
+        },
+        {
+            "id": "1-3",
+            "text": "Gr. diabolos , nangangahulugang tagapagparatang, maninirang-puri (Apoc. 12:9-10). Ang Diyablo, na siyang si Satanas, ay nagpaparatang sa atin sa harap ng Diyos at naninirang-puri sa atin sa harap ng mga tao."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang “apatnapung araw at apatnapung gabi” ay isang panahon ng pagsubok at pagdurusa (Deut. 9:9, 18; 1 Hari 19:8). Ang bagong pinahirang Hari ay ginabayan ng Espiritu na mag-ayuno sa loob ng isang gayong panahon upang Siya ay makapasok sa loob ng Kanyang makaharing ministeryo."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang “manunukso” ay ang Diyablo (b. 1; 1 Tes. 3:5)."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang bagong pinahirang Hari ay nag-ayuno sa Kanyang pagkatao, tumatayo sa katayuan ng isang tao. Sa kabilang panig, Siya rin “ang Anak ng Diyos,” katulad ng ipinahayag ng Diyos Ama sa Kanyang bautismo (3:17). Upang Kanyang maisakatuparan ang Kanyang ministeryo para sa kaharian ng mga kalangitan, kailangang matalo Niya ang kaaway ng Diyos, ang Diyablo, si Satanas. Ito ay kinakailangan Niyang gawin bilang isang tao. Kaya nga, Siya ay tumayo bilang isang tao upang harapin ang kaaway ng Diyos. Nang malaman ito ng Diyablo, Siya ay tinukso nito upang iwanan ang katayuan ng tao at panghawakan ang Kanyang katayuan bilang ang Anak ng Diyos. Apatnapung araw bago niyaon, ang Diyos Ama ay nagpahayag mula sa kalangitan na Siya ang sinisintang Anak ng Ama. Kinuha ng tusong manunukso ang pagpapahayag na yaon ng Diyos Ama bilang saligan upang Siya ay tuksuhin. Kung Kanyang pinanghawakan ang Kanyang katayuan bilang ang Anak ng Diyos sa harap ng kaaway, Kanyang maiwawala ang katayuan na talunin ang Diyablo. (Tingnan ang tala 4-2 .)"
+        },
+        {
+            "id": "3-3",
+            "text": "Ang gawin ang “mga bato na maging mga tinapay” ay tunay na isang himala. Ito ay iminungkahi ng Diyablo bilang isang tukso. Maraming beses ang kaisipan ng pagtatanghal ng isang himala sa mga natatanging sitwasyon ay isang tukso mula sa Diyablo. Ang panunukso ng Diyablo sa unang tao, si Adam, ay hinggil sa bagay ng pagkain (Gen. 3:1-6). Ngayon ang kanyang panunukso sa ikalawang tao, si Kristo, ay hinggil din sa bagay ng pagkain. Ang pagkain ay palaging ginagamit ng Diyablo bilang isang patibong na makabibitag sa tao, sinasanhi ang tao na mahulog sa isang tukso na malapit at malaki ang kaugnayan sa kanyang sarili."
+        },
+        {
+            "id": "4-1",
+            "text": "Hinarap ng bagong pinahirang Hari ang panunukso ng kaaway, hindi sa pamamagitan ng Kanyang sariling salita, kundi sa pamamagitan ng salita ng mga Kasulatan."
+        },
+        {
+            "id": "4-2",
+            "text": "Tinukso ng manunukso ang bagong Hari na kunin ang Kanyang katayuan bilang ang Anak ng Diyos. Subali’t Siya ay sumagot ng salita ng mga Kasulatan, “Ang tao” nagpapakita na Siya ay tumayo sa katayuan ng tao upang tuusin ang kaaway. Ang mga demonyo ay bumabati ng patungkol kay Hesus bilang ang Anak ng Diyos (8:29), subali’t ang masasamang espiritu ay hindi nagpapahayag na si Hesus ay naparito sa laman (I Juan 4:3), sapagka’t sa pagpapahayag kay Hesus bilang isang tao, kanilang inaamin na sila ay talo. Bagaman ipinahahayag ng mga demonyo si Hesus bilang ang Anak ng Diyos, hindi papayagan ng Diyablo ang mga tao na manampalatayang Siya ang Anak ng Diyos, sapagka’t sa paggawa ng gayon sila ay maliligtas (Juan 20:31)."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang salitang ito ay nagsasaad na kinuha ng Panginoong Hesus ang salita ng Diyos sa mga Kasulatan bilang Kanyang “tinapay” at namuhay rito."
+        },
+        {
+            "id": "4-4",
+            "text": "Gr. rhema , ang kagyat na salita, naiiba mula sa logos, ang palagiang salita. Sa panunuksong ito ng Diyablo, ang lahat ng salitang sinipi ng Panginoon mula sa Deuteronomio ay logos , bilang ang palagiang salita sa mga Kasulatan. Subali’t nang Kanyang sinipi ang mga ito, ang mga ito ay naging rhema bilang ang kagyat na salita na ginamit sa Kanyang sitwasyon."
+        },
+        {
+            "id": "4-5",
+            "text": "Ang lahat ng Kasulatan ay inihinga-ng-Diyos (2 Tim. 3:16). Kaya nga, ang mga salita sa mga Kasulatan ay mga salitang lumalabas mula “sa bibig ng Diyos.”"
+        },
+        {
+            "id": "5-1",
+            "text": "Ang tila pakpak na parte sa kanan at kaliwa ng beranda ng templo na higit na mataas kaysa templo mismo."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang unang pagtukso ng Diyablo sa bagong Hari ay hinggil sa pantaong pamumuhay. Sa pagkatalo rito, ibinaling niya ang kanyang ikalawang panunukso sa relihiyon, tinutukso ang bagong Hari na ipakita na Siya ang Anak ng Diyos sa pamamagitan ng pagpapatihulog mula sa pakpak ng templo."
+        },
+        {
+            "id": "6-1",
+            "text": "Hindi na kailangang gawin ito ng Panginoong Hesus. Ito ay isa lamang payak na panunukso upang ipakita na bilang ang Anak ng Diyos, kaya Niyang kumilos nang mahimala. Anumang kaisipan ng paggawa ng mga bagay nang mahimala sa relihiyon ay isang panunukso ng Diyablo."
+        },
+        {
+            "id": "6-2",
+            "text": "Sa kadahilanang tinalo siya ng Panginoong Hesus sa pamamagitan ng pagsipi sa mga Kasulatan, ginaya ng manunukso ang Kanyang paraan at tinukso Siya sa pamamagitan ng pagsipi sa mga Kasulatan, subali’t sa isang tusong paraan."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang sipiin ang mga Kasulatan hinggil sa isang bagay sa isang panig ay humihiling na pangalagaan din natin ang kabilang panig, upang mapangalagaan mula sa panlilinlang ng manunukso. Ito ang ginawa ng bagong Hari rito upang harapin ang ikalawang panunukso ng manunukso. Maraming ulit na kailangan nating sabihin sa manunukso, ” Muli ay nasusulat.”"
+        },
+        {
+            "id": "7-2",
+            "text": "Gr. sukdulang pagsubok, ginamit ang buong makakayanan upang tuksuhin."
+        },
+        {
+            "id": "8-1",
+            "text": "Sa pagkatalo sa kanyang panunukso sa nasasakupan ng relihiyon, iniharap ng Diyablo ang kanyang ikatlong panunukso sa bagong Hari, sa pagkakataong ito ay tungkol sa nasasakupan ng kaluwalhatian ng sanlibutang ito. Ipinamalas niya sa Kanya ang “lahat ng kaharian sa sanlibutan at ang kanilang kaluwalhatian.” Ang mga panunukso ng tusong isa ay palaging dumarating sa ganitong pagkakasunud-sunod: unang-una, sa pantaong pamumuhay; ikalawa, sa relihiyon; at ikatlo, sa makasanlibutang kaluwalhatian. Ito ay lubhang mapanrahuyo kaugnay sa mga praktikal na bagay sa ating pantaong buhay."
+        },
+        {
+            "id": "9-1",
+            "text": "Sinasabi ng Luc. 4:6 na ang mga kaharian ng sanlibutan at ang kaluwalhatian ng mga kaharian ay ibinigay na sa Diyablo; kaya sa kaninumang ibig niya ay ibibigay niya ang mga ito. Bago ang kanyang pagkatisod, si Satanas bilang ang arkanghel ay hinirang ng Diyos na maging pinuno ng sanlibutan (Ezek. 28:13-14). Kaya nga, siya ay tinawag na pinuno ng sanlibutang ito (Juan 12:31), hinahawakan ang lahat ng mga kaharian ng sanlibutang ito at ang kanilang kaluwalhatian sa kanyang kamay. Iniharap niya ang lahat ng mga ito sa bagong pinahirang Hari bilang isang panunukso upang makuha ang pagsamba. Napanagumpayan ng makalangit na Hari ang panunuksong ito, subali’t hindi ito mapananagumpayan ng darating na Antikristo (Apoc. 13:2, 4)."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang “Satanas” sa Griyego ay nangangahulugang katunggali. Siya ay hindi lamang kaaway ng Diyos na nasa labas ng kaharian ng Diyos, bagkus katunggali rin na nasa loob ng kaharian ng Diyos, naghihimagsik laban sa Diyos."
+        },
+        {
+            "id": "10-2",
+            "text": "Pinagwikaan ng bagong Hari ang diyablo sa kanyang mungkahi at tinalo siya sa pamamagitan ng pagtayo sa katayuan ng tao upang sambahin at paglingkuran ang Diyos “lamang.” Ang sumamba o maglingkod sa alinmang bagay maliban sa Diyos para sa kapakinabangan ang siyang palaging panunukso ng Diyablo upang makuha ang pagsamba."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang panunukso ng Diyablo sa unang tao, si Adam, ay isang tagumpay; ang kanyang panunukso sa ikalawang tao, si Kristo, ay isang lubusang kabiguan. Ito ay nagpapakita na wala siyang puwang sa kaharian ng mga kalangitan ng bagong Hari."
+        },
+        {
+            "id": "11-2",
+            "text": "“Dumating ang mga anghel at pinaglingkuran” ang tinuksong Hari bilang isang nagdurusang tao (cf. Luc. 22:43)."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “ibinilanggo” sa literal na kahulugan ay “ibinigay.”"
+        },
+        {
+            "id": "12-2",
+            "text": "Bagama’t si Juan Bautista ay nagministeryo sa ilang, hindi sa banal na templo na nasa banal na lunsod, ito ay nasa Judea pa rin, hindi malayo sa mga “banal” na bagay. Dahil sa pagtanggi ng mga tao kay Juan, ang Panginoong Hesus ay “umalis patungong Galilea” upang pasimulan ang Kanyang ministeryo, malayo sa banal na templo at banal na lunsod. Ito ay naganap ayon sa kataas-taasang kapangyarihan ng Diyos upang matupad ang propesiya sa Isa. 9:1-2."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang “Galilea” ay isang lugar na may halo-halong populasyon ng kapwa mga Hudyo at mga Hentil. Kaya nga, ito ay tinawag na “Galilea ng mga Hentil” at hinamak ng mga Hudyong ang gawi ay ayon sa kaugalian (Juan 7:41, 52). Pinasimulan ng bagong hirang na Hari ang Kanyang makaharing ministeryo para sa kaharian ng mga kalangitan sa isang gayong hinamak na lugar, malayo sa kapital ng bansa, ang maringal na Herusalem, kasama ang banal na templo nito, ang sentro ng relihiyong ang gawi ay ayon sa kaugalian. Ito ay nagpapahiwatig na ang ministeryo ng bagong pinahirang Hari ay para sa isang makalangit na kaharian, naiiba sa panlupang kaharian ni David (ang Mesiyanikong kaharian)."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang ministeryo ng bagong Hari para sa kaharian ng mga kalangitan ay nagsimula hindi sa panlupang kapangyarihan, kundi sa makalangit na “ilaw,” ang Hari Mismo bilang ang ilaw ng buhay, nagliliwanag sa lilim ng kamatayan."
+        },
+        {
+            "id": "17-1",
+            "text": "Sinimulan ng bagong Hari ang Kanyang ministeryo sa pamamagitan ng pagtutuloy ng pangangaral ng Kanyang tagapagpaunang si Juan Bautista (3:2)."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang ministeryo ng bagong Hari ay hindi sa kapital, kundi “sa tabi ng dagat.” Ang ministeryo ng Kanyang tagapagpauna ay nagsimula sa tabing-ilog at binubuo ng paglilibing sa mga relihiyoso at pagwawakas ng kanilang relihiyon. Ang ministeryo ng bagong Hari ay nagsimula sa tabing-dagat at binubuo ng paghuli sa mga taong hindi gaanong relihiyoso, na nakatira sa paligid ng dagat sa halip na sa banal na lugar, at ginawa silang mga mamamalakaya ng mga tao para sa pagtatatag ng kaharian ng mga kalangitan."
+        },
+        {
+            "id": "18-2",
+            "text": "Nang sina Pedro at Andres ay tinawag ng Panginoon, sila ay “naghahagis ng lambat sa dagat.” Sila ay ginawang mga mamamalakaya ng mga tao (b. 19). Sa katapus-tapusan, si Pedro ang naging unang dakilang mamamalakaya para sa pagtatatag ng kaharian ng mga kalangitan nang araw ng Pentecostes (Gawa 2:37-42; 4:4)."
+        },
+        {
+            "id": "18-3",
+            "text": "Isang lambat na inihahagis sa likuran ng balikat at bumubuka nang pabilog."
+        },
+        {
+            "id": "20-1",
+            "text": "Si Andres, isa sa dalawang disipulo ni Juan Bautista, ang nagdala kay Pedro sa Panginoon, sa lugar kung saan nangaral si Juan, bago ang pangyayaring ito (Juan 1:35-36, 40-42). Yaon ang unang pagkakataon na kanilang nakatagpo ang Panginoon. Dito nakatagpo sila ng Panginoon sa ikalawang pagkakataon, at sa pagkakataong ito sa dagat ng Galilea. Sila ay naakit ng Panginoon bilang ang dakilang ilaw sa kadiliman ng kamatayan at “sumunod sa Kanya” para sa pagtatatag ng kaharian ng mga kalangitan sa ilaw ng buhay."
+        },
+        {
+            "id": "21-1",
+            "text": "Nang sina Santiago at Juan ay tinawag ng Panginoon, sila ay “nagsisipaghayuma ng kanilang mga lambat sa daong.” Sa katapus-tapusan, si Juan ay naging isang tunay na tagapaghayuma, kinukumpuni ang mga nasisira sa ekklesia sa pamamagitan ng kanyang ministeryo ng buhay. (Tingnan ang kanyang tatlong Sulat at Apocalipsis kapitulo 2 at 3)."
+        },
+        {
+            "id": "22-1",
+            "text": "Isa sa dalawang disipulo ni Juan Bautista sa Juan 1:40 ay si Juan na Apostol. Nakatagpo na rin niya ang Panginoon bago ito, sa lugar na unang pinagkakitaan ni Pedro sa Panginoon, at dito sa dagat ng Galilea ang ikalawang pagkakataon. Si Juan at ang kanyang kapatid na lalake, katulad nina Pedro at Andres, ay naakit ng Panginoon at “sumunod sa Kanya.”"
+        },
+        {
+            "id": "23-1",
+            "text": "Ang isang “sinagoga” ay isang lugar kung saan nagbabasa at nag-aaral ng mga Kasulatan ang mga Hudyo (Luc.4:16-17; Gawa 13:14-15)."
+        },
+        {
+            "id": "23-2",
+            "text": "O magandang himig, masayang balita."
+        },
+        {
+            "id": "23-3",
+            "text": "Ang ebanghelyo sa aklat na ito ay tinawag na “ang ebanghelyo ng kaharian.” Sinasaklaw nito hindi lamang ang pagpapatawad ng mga kasalanan (cf. Luc. 24:47) at ang pamamahagi ng buhay (cf. Juan 20:31), bagkus gayundin ang kaharian ng mga kalangitan (24:14) kasama ang kapangyarihan ng darating na kapanahunan (Heb. 6:5) upang magpalayas ng mga demonyo at magpagaling ng mga sakit (Isa. 35:5-6; Mat. 10:1). Kapwa ang pagpapatawad ng mga kasalanan at ang pamamahagi ng buhay ay para sa kaharian."
+        },
+        {
+            "id": "25-1",
+            "text": "Sa ilalim ng pagliliwanag ng bagong Hari bilang ang dakilang ilaw sa kadiliman, “lubhang maraming kalipunan” ang naakit at sumunod sa Kanya para sa kaharian ng mga kalangitan."
+        },
+        {
+            "id": "25-2",
+            "text": "Nangangahulugang rehiyon ng sampung lunsod."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -26,7 +26,7 @@
             "footnotes": [
                 {
                     "word": "libingan.",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -55,11 +55,11 @@
             "footnotes": [
                 {
                     "word": "kanyang",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "Anong",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -70,7 +70,7 @@
             "footnotes": [
                 {
                     "word": "Lumabas",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -99,7 +99,7 @@
             "footnotes": [
                 {
                     "word": "sila",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -110,7 +110,7 @@
             "footnotes": [
                 {
                     "word": "sila",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -157,7 +157,7 @@
             "footnotes": [
                 {
                     "word": "Decapolis",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -176,7 +176,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -199,7 +199,7 @@
             "footnotes": [
                 {
                     "word": "babae",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -222,7 +222,7 @@
             "footnotes": [
                 {
                     "word": "gagaling.",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -239,7 +239,7 @@
             "footnotes": [
                 {
                     "word": "kapangyarihang",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -250,7 +250,7 @@
             "footnotes": [
                 {
                     "word": "sinisiksik",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -267,7 +267,7 @@
             "footnotes": [
                 {
                     "word": "natatakot",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -278,19 +278,19 @@
             "footnotes": [
                 {
                     "word": "Anak,",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "pinagaling",
-                    "note": ""
+                    "id": "34-2"
                 },
                 {
                     "word": "humayo",
-                    "note": ""
+                    "id": "34-3"
                 },
                 {
                     "word": "gumaling",
-                    "note": ""
+                    "id": "34-4"
                 }
             ],
             "outlines": null
@@ -307,11 +307,11 @@
             "footnotes": [
                 {
                     "word": "maulinigan",
-                    "note": ""
+                    "id": "36-1"
                 },
                 {
                     "word": "sinabi",
-                    "note": ""
+                    "id": "36-2"
                 }
             ],
             "outlines": null
@@ -346,11 +346,11 @@
             "footnotes": [
                 {
                     "word": "sinabi",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "Talitha",
-                    "note": ""
+                    "id": "41-2"
                 }
             ],
             "outlines": null
@@ -361,7 +361,7 @@
             "footnotes": [
                 {
                     "word": "sila",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -372,10 +372,108 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "43-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa bb. 1-20, tingnan ang mga tala sa Mat. 8:28-34. Ang tala ng kuwentong ito sa Marcos ay higit na detalyado kaysa nasa Mateo. Ito ang matibay na ebidensiya na ang Ebanghelyo ni Marcos, bilang talambuhay ng Alipin ng Diyos, ay nagbibigay-diin sa Kanyang gawain sa halip na sa Kanyang salita at nagbibigay ng higit na mga detalye kaysa sa ibang mga Ebanghelyo."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang libingan ay ang lugar na may kaugnayan sa kamatayan at Hades (Awit 88:3, 5)."
+        },
+        {
+            "id": "7-1",
+            "text": "Ito ay nagpapakita na ang inalihang tao ay kinamkam ng mapang-angking espiritu sa sukdulan hanggang sa siya ay ginamit ng karumal-dumal na espiritu upang maging katulad ng karumal-dumal na espiritu mismo."
+        },
+        {
+            "id": "7-2",
+            "text": "Lit. Ano sa akin at sa Iyo? Isinasalin ito ng ilang pagsasalin na, Ano ang pakialam Mo sa akin?"
+        },
+        {
+            "id": "8-1",
+            "text": "Tingnan ang tala 23-1 sa kap. 1."
+        },
+        {
+            "id": "12-1",
+            "text": "Sa ilang manuskrito ay mababasang, lahat ng mga demonyo."
+        },
+        {
+            "id": "13-1",
+            "text": "Sa ilang manuskrito ay mababasang, kapagdaka sila ay pinahintulutan ni Hesus."
+        },
+        {
+            "id": "20-1",
+            "text": "Nangangahulugang lugar ng sampung lunsod."
+        },
+        {
+            "id": "22-1",
+            "text": "Para sa bb. 22-43, tingnan ang mga tala sa Mat. 9:18-26. Sa tala ring ito ng mga mahimalang gawain ng Alipin ng Diyos sa Kanyang pang-ebanghelyong paglilingkod, si Marcos ay nagbibigay ng higit na detalye kaysa kay Mateo. Ito ay isang malinaw na paglalahad, inilalarawan lalung-lalo na ang mga pagdurusa ng maysakit, ang pagiging magiliw at mabait ng Aliping-Tagapagligtas sa Kanyang nagliligtas na paglilingkod sa kanila, at ang presensiya ni Pedro."
+        },
+        {
+            "id": "25-1",
+            "text": "Yamang ang kasong ito ng babae ay isinama sa kaso ng anak na babae ng pinuno, at yamang ang labindalawang taon ng kanyang karamdaman ay ang gulang ng batang babae, at sila ay kapwa babae, isa ay nakatatanda, isa ay nakababata, ang mga kasong ito ay maituturing na isang kumpletong kaso ng isang tao. Sa ganitong pananaw, ang batang babae ay ipinanganak sa loob ng nakamamatay-na-karamdaman ng babae at namatay sa sakit na ito. Nang ang nakamamatay-na-karamdaman ng babae ay napagaling ng Tagapagligtas, ang patay na batang babae ay bumangon mula sa kamatayan. Ito ay sumasagisag na ang bawat natisod na tao ay isinilang sa nakamamatay-na-karamdaman ng kasalanan at patay sa loob nito (Efe. 2:1). Nang ang kanyang nakamamatay-na- karamdaman ng kasalanan ay natuos ng nagtutubos na kamatayan ng Tagapagligtas (1 Ped. 2:24), siya ay bumangon mula sa kamatayan tungo sa buhay (Juan 5:24-25)."
+        },
+        {
+            "id": "28-1",
+            "text": "O, mapanunumbalik sa kalusugan; lit. maililigtas. Ang karamdaman ay isang pang-aapi na isinasagawa ng Diyablo sa maysakit. Kaya nga, ang pagpapagaling ng Aliping-Tagapagligtas ay isang nagliligtas na paglilingkod na ibinigay sa nagdurusang biktima, upang matamasa niya ang ginhawa at kalayaan mula sa pang-aapi ng masamang isa (Gawa 10:38). Tingnan ang tala 31-1 sa kap. 1."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang Aliping-Tagapagligtas ay ang Diyos na nagkatawang-tao upang maging isang tao (Juan 1:1, 14). Ang Kanyang mga damit ay sumasagisag sa Kanyang sakdal na pagkilos sa Kanyang pagka-tao, ang Kanyang pantaong walang bahid-dungis na kasakdalan. Ang hipuin ang Kanyang damit sa katunayan ay ang hipuin Siya Mismo sa Kanyang pagka-tao, kung kanino ang Diyos ay napapaloob (Col. 2:9). Sa gayong paghipo, ang Kanyang maka-Diyos na kapangyarihan ay naisalin sa humipong isa sa pamamagitan ng kasakdalan ng Kanyang pagka-tao at naging kanyang lunas. Ang Diyos na nananahan sa liwanag na hindi kayang dulugan ay naging maaaring hipuin sa Kanya sa pamamagitan ng Kanyang pagka-tao para sa kaligtasan at pagtatamasa ng babaeng may sakit. Ito ang paglilingkod ng Aliping-Tagapagligtas bilang ang Alipin ng Diyos sa makasalanang may sakit."
+        },
+        {
+            "id": "31-1",
+            "text": "Ang mga sumisiksik na tao ay walang natanggap mula sa Tagapagligtas, ngunit ang taong humihipo sa Kanya ay nakatanggap."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang natatakot ay panloob; ang nangangatal ay naihayag sa labas."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang kapangyarihan ng Aliping-Tagapagligtas ang naghayag ng Kanyang pagka-Diyos sa pagpapagaling (b. 30 at tala); ang Kanyang salita na may pag-ibig at kagandahang-loob ang naghayag ng Kanyang pagka-tao sa pakikiramay. Sa kasong ito, ang Kanyang pagka-Diyos at ang Kanyang pagka-tao ay muling pinaghalo para sa Kanyang kahayagan."
+        },
+        {
+            "id": "34-2",
+            "text": "Tingnan ang tala 28-1 ."
+        },
+        {
+            "id": "34-3",
+            "text": "O, humayo ka sa loob ng kapayapaan!"
+        },
+        {
+            "id": "34-4",
+            "text": "O, mapabuo, mapalusog."
+        },
+        {
+            "id": "36-1",
+            "text": "Sa ilang manuskrito ay mababasang, marinig."
+        },
+        {
+            "id": "36-2",
+            "text": "*Sa orihinal ay, “sinasabi.”"
+        },
+        {
+            "id": "41-1",
+            "text": "*Sa orihinal ay, “sinasabi.”"
+        },
+        {
+            "id": "41-2",
+            "text": "Aramaiko."
+        },
+        {
+            "id": "42-1",
+            "text": "Sa ilang manuskrito ay isinisingit ang, kapagdaka."
+        },
+        {
+            "id": "43-1",
+            "text": "Tingnan ang tala 44-1 sa kap. 1."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "kapanahunan",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,11 +21,11 @@
             "footnotes": [
                 {
                     "word": "kaarawan",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "gaya",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -56,11 +56,11 @@
             "footnotes": [
                 {
                     "word": "mangatulog",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "mangagbantay",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -71,7 +71,7 @@
             "footnotes": [
                 {
                     "word": "nangaglalasing",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -82,19 +82,19 @@
             "footnotes": [
                 {
                     "word": "baluti",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "turbante",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "kaligtasan;",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -105,11 +105,11 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "kaligtasan",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -120,19 +120,19 @@
             "footnotes": [
                 {
                     "word": "namatay",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "gising",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "tulog",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "10-4"
                 }
             ],
             "outlines": null
@@ -149,15 +149,15 @@
             "footnotes": [
                 {
                     "word": "kilalanin",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "nangangunguna",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": [
@@ -171,11 +171,11 @@
             "footnotes": [
                 {
                     "word": "igalang",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "mapayapa.",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -186,19 +186,19 @@
             "footnotes": [
                 {
                     "word": "magugulo,",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "mahihinang-",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "mahihina,",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "mapagpahinuhod",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": null
@@ -209,7 +209,7 @@
             "footnotes": [
                 {
                     "word": "habulin",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -220,7 +220,7 @@
             "footnotes": [
                 {
                     "word": "Mangagalak",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -231,7 +231,7 @@
             "footnotes": [
                 {
                     "word": "Magsipanalangin",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -242,11 +242,11 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "sapagkat",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -257,7 +257,7 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -268,11 +268,11 @@
             "footnotes": [
                 {
                     "word": "hamakin",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "pagpopropesiya;",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -283,7 +283,7 @@
             "footnotes": [
                 {
                     "word": "subukin",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -294,7 +294,7 @@
             "footnotes": [
                 {
                     "word": "anyo",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -305,35 +305,35 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "pakabanalin",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "lubos",
-                    "note": ""
+                    "id": "23-3"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "23-4"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "23-5"
                 },
                 {
                     "word": "buo,",
-                    "note": ""
+                    "id": "23-6"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "23-7"
                 },
                 {
                     "word": "pagparito",
-                    "note": ""
+                    "id": "23-8"
                 }
             ],
             "outlines": [
@@ -346,7 +346,7 @@
             "footnotes": [
                 {
                     "word": "rin",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -371,7 +371,7 @@
             "footnotes": [
                 {
                     "word": "kapatid",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -382,10 +382,192 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang mga kapanahunan at mga bahagi ng panahon na may pagtukoy sa pagdating ng Panginoon. Ito ay pinagtibay ng “kaarawan ng Panginoon” sa bersikulo 2."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang pagdating ng Panginoon sa naunang kapitulo ay pangunahing para sa pag-aaliw at pagpapalakas-loob; ang kaarawan ng Panginoon sa kapitulong ito ay pangunahing para sa pagbababala (bb. 3-6), sapagkat tuwing binabanggit sa Salita ang kaarawan ng Panginoon, madalas na laging may kaugnayan ito sa paghahatol ng Panginoon (1 Cor. 1:8; 3:13; 5:5; 2 Cor. 1:14; 2 Tim. 4:8)."
+        },
+        {
+            "id": "2-2",
+            "text": "Ito ay nagpapakita na ang kaarawan ng pagdating ng Panginoon ay pinanatiling lihim at biglaang darating, walang nakaaalam (Mat. 24:42-43; Apoc. 3:3; 16:15)."
+        },
+        {
+            "id": "6-1",
+            "text": "Hindi mapagbantay. Gayundin sa sumusunod na bersikulo."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang magbantay ay laban sa matulog sa sumusunod na bersikulo; ang maging mapagtimpi ay laban sa malasing."
+        },
+        {
+            "id": "7-1",
+            "text": "Nangagpapakatuliro."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang baluti at turbante ay kapwa tumutukoy sa espiritwal na pakikipagbaka. Ang baluti ay ukol sa pananampalataya at pag-ibig, tinatakpan at iniingatan ang ating puso at espiritu ayon sa katuwiran ng Diyos (Efe. 6:14); ang turbante ay ang pag-asa ng kaligtasan (Efe. 6:17), tinatakpan at iniingatan ang ating pag-iisip, ang kaisipan. Ang pananampalataya, pag-ibig, at pag-asa ay ang tatlong saligang pagkakayari ng tunay na buhay-Kristiyano katulad ng inilarawan sa 1:3. Ang pananampalataya ay may kaugnayan sa ating pagpapasiya—isang bahagi ng ating puso (Roma 10:9), at sa ating budhi—isang bahagi ng ating espiritu (1 Tim. 1:19); ang pag-ibig ay may kaugnayan sa ating damdamin—isa pang bahagi ng ating puso (Mat. 22:37); at ang pag-asa ay may kaugnayan sa ating pang-unawa—ang pangsyon ng ating kaisipan. Lahat ng mga ito ay kinakailangang maingatan upang ang isang tunay na buhay-Kristiyano ay mapanatili. Ang isang gayong buhay ay mapagbantay at mapagtimpi (bb. 6-7). Sa simula ng Sulat, pinuri ng apostol ang gawain ng mga mananampalataya sa pananampalataya, pagpapagal sa pag-ibig, at pagtitiis sa pag-asa (1:3). Dito, sa konklusyon ng Sulat, hinihikayat niya sila na panatilihing natatakpan at naiingatan ang mga espirituwal na kagalingang ito sa pamamagitan ng pakikipagbaka para sa mga ito."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang pag-asa sa pagbabalik ng Panginoon (1:3), na siyang magiging kaligtasan natin mula sa darating na pagkawasak (b. 3), gayundin mula sa pang-aalipin ng kabulukan ng lumang nilikha (Roma 8:21-25)."
+        },
+        {
+            "id": "8-3",
+            "text": "Hindi tumutukoy sa kaligtasan sa pamamagitan ng kamatayan ng Panginoon na magliligtas sa atin mula sa walang hanggang kapahamakan, kundi sa kaligtasan sa pamamagitan ng pagbabalik ng Panginoon na magliligtas sa atin mula sa darating na pagkawasak (b. 3)."
+        },
+        {
+            "id": "9-1",
+            "text": "Yamang tayo ay hindi itinalaga ng Diyos sa kapootan, tayo ay nararapat magbantay, magtimpi, at makibaka (bb. 6, 8) upang makipagtulungan sa Diyos sa gayon ay makamit natin ang Kanyang pagliligtas sa pamamagitan ng Panginoong Hesus."
+        },
+        {
+            "id": "9-2",
+            "text": "Tingnan ang tala 8-2 ."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang Panginoon ay namatay para sa atin hindi lamang upang tayo ay mailigtas sa walang hanggang kapahamakan, bagkus upang tayo rin ay mamuhay kasama Niya, sa pamamagitan ng Kanyang pagkabuhay na muli, isang pamumuhay na makapagliligtas sa atin sa darating na pagkawasak."
+        },
+        {
+            "id": "10-2",
+            "text": "Yaon ay, buháy."
+        },
+        {
+            "id": "10-3",
+            "text": "Yaon ay, patay na (4:13-15)."
+        },
+        {
+            "id": "10-4",
+            "text": "Sa isang panig, ang Panginoon ay lumisan sa atin at tayo ay naghihintay sa Kanyang pagbabalik; sa kabilang panig, Siya ay sumasaatin, kasama natin (Mat. 28:20), at tayo ay makapamumuhay kasama Niya (Roma 6:8)."
+        },
+        {
+            "id": "12-1",
+            "text": "Kilalanin at pagkaraan ay magbigay ng paggalang at pakundangan."
+        },
+        {
+            "id": "12-2",
+            "text": "Dito marahil ay tinutukoy ng apostol ang mga matanda na nagpapagal sa pagtuturo at nangunguna sa mga mananampalataya (1 Tim. 5:17)."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang manguna ay hindi ang maghari kundi ang maging isang tularan sa paggawa ng mga bagay nang nauuna upang ang iba ay magsisunod. Ang mga matanda ay hindi lamang dapat magpagal sa pagtuturo bagkus dapat ding maging tularan sa paggawa at pagkilos. Ang tularan ay maaaring maging isang batayan upang mapaalalahanan ang iba."
+        },
+        {
+            "id": "13-1",
+            "text": "“Ang gabayan ang pag-iisip sa pamamagitan ng isang hakbangin ng pangangatuwiran tungo sa isang konklusyon” (Vincent); kaya nga, isipin, isaalang-alang, tantiyahin, pahalagahan, at pakundanganan."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang igalang ang mga nangunguna at ang magkaroon ng kapayapaan sa isa’t isa ay isang wastong kondisyon ng isang ekklesia-lokal."
+        },
+        {
+            "id": "14-1",
+            "text": "O, tamad, hindi nagsisigawa (2 Tes. 3:11), pakialamero, walang disiplina, matigas ang ulo, mapaghimagsik."
+        },
+        {
+            "id": "14-2",
+            "text": "Lit. may isang maliit na kaluluwa, yaon ay, makitid at mahina sa kapasidad ng kaisipan, pagpapasiya, at damdamin."
+        },
+        {
+            "id": "14-3",
+            "text": "Tumutukoy marahil sa mga mahihina sa pangkalahatan, na maaaring mahina sa kanilang espiritu, o kaluluwa, o katawan, o mahina sa pananampalataya (Roma 14:1; 15:1)."
+        },
+        {
+            "id": "14-4",
+            "text": "Ito ay nagpapahiwatig na sa isang ekklesia-lokal, bukod doon sa ilang magugulo na nangangailangan ng pagpapaalala, sa ilang may maliliit na kaluluwa na nangangailangan ng ating pag-aliw, at sa ilang mahihina na nangangailangan ng ating pag-alalay, lahat ng mga sangkap ng Katawan ay maaaring may suliranin sa malaki man o maliit na antas, kaya kailangan ang ating pagpapahinuhod sa kanila."
+        },
+        {
+            "id": "15-1",
+            "text": "Ito ay nangangahulugang kahit na paano ang pakikitungo sa atin ng iba, kahit na ito ay masama, tayo ay nararapat magsikap na matamo ang kabutihan para sa kanila."
+        },
+        {
+            "id": "16-1",
+            "text": "Ito ay nababatay sa mga kondisyong binanggit sa mga bersikulo 14-15."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay ang magkaroon ng hindi napapatid na pakikipagsalamuha sa Diyos sa ating espiritu. Hinihiling nito ang pagtitiyaga (Roma 12:12; Col. 4:2) kasama ang isang malakas na espiritu (Efe. 6:18)."
+        },
+        {
+            "id": "18-1",
+            "text": "Sapagkat ang lahat ng mga bagay ay magkakalakip na gumagawa para sa ikabubuti natin upang tayo ay matransporma at maiwangis sa larawan ni Kristo (Roma 8:28-29)."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang sugnay na ito ay tumuturing sa lahat ng tatlong naunang aytem. Ninanais ng Diyos na tayo ay mamuhay ng isang nagagalak, nananalangin, at nagpapasalamat na buhay. Ang isang gayong buhay ay isang kaluwalhatian sa Diyos at isang kahihiyan sa Kanyang kaaway."
+        },
+        {
+            "id": "19-1",
+            "text": "Ginagawang maningas ng Espiritu ang ating espiritu (Roma 12:11) at pinagliliyab ang ating mga kaloob (2 Tim. 1:6). Kaya huwag nating patayin ang ningas Niya."
+        },
+        {
+            "id": "20-1",
+            "text": "Ituring na bale-wala, maliitin."
+        },
+        {
+            "id": "20-2",
+            "text": "Yaon ay, salita ng propeta, o propesiyang tumutukoy sa propesiyang nagmumula sa isang pahayag. Ito ay hindi kinakailangang maging isang hula (Tingnan ang 1 Cor. 14:1, 3, 4, at mga tala roon)."
+        },
+        {
+            "id": "21-1",
+            "text": "Kabilang ang pagkilala sa mga propesiya (1 Cor. 14:29), pagkilala sa mga espiritu (1 Cor. 12:10), pagsubok sa mga espiritu (1 Juan 4:1), pagsubok sa kung ano ang kalooban ng Diyos (Roma 12:2), at pagsubok sa kung ano ang kalugud-lugod sa Panginoon (Efe. 5:10)."
+        },
+        {
+            "id": "22-1",
+            "text": "Lit. mga uri. Anumang bagay na natatanaw, anumang bagay na nasa pang-unawa; kaya nga, isang tanawin. Ito ay hindi tumutukoy sa panlabas na anyo ng masama, kundi tumutukoy sa uri, anyo, hugis, at tanaw ng masama. Ang mga mananampalatayang namumuhay ng isang pinabanal na pamumuhay sa pananampalataya, pag-ibig, at pag-asa ay nararapat lumayo sa masama sa anumang anyo at anumang uri."
+        },
+        {
+            "id": "23-1",
+            "text": "Pinag-uugpong ng “at” ang pagpapala ng pagpapabanal ng Diyos sa ating buong katauhan na binanggit sa bersikulong ito, sa tagubilin na ating layuan ang bawa’t uri ng masama na binanggit sa naunang bersikulo. Sa isang panig, nilalayuan natin ang bawa’t anyo ng masama; sa kabilang panig, buung-buo tayong pinababanal ng Diyos. Tayo ay nakikipagtulungan sa Diyos upang tayo ay makapamuhay ng isang pinabanal na pamumuhay."
+        },
+        {
+            "id": "23-2",
+            "text": "Ibukod, ihiwalay sa mga bagay na karaniwan o hindi banal tungo sa Diyos. Tingnan ang mga tala 2-3 sa Roma 1 at 19-1 sa Roma 6."
+        },
+        {
+            "id": "23-3",
+            "text": "O, buo, lubusan, tungo sa kaganapan. Tayo ay pinababanal ng Diyos nang buong-buo, upang walang bahagi ng ating buong katauhan, alinman sa ating espiritu o kaluluwa o katawan, ang maiwanang karaniwan o hindi banal."
+        },
+        {
+            "id": "23-4",
+            "text": "Ang Diyos ng kapayapaan ay ang Tagapagpabanal; ang Kanyang pagpapabanal ay nagdadala ng kapayapaan. Kapag tayo ay buong-buo na Niyang napabanal mula sa loob, tayo ay magkakaroon ng kapayapaan sa Kanya at sa lahat ng mga tao sa lahat ng bagay."
+        },
+        {
+            "id": "23-5",
+            "text": "Ang salitang ito ay mariing nagpapakita na ang tao ay may tatlong bahagi: espiritu, kaluluwa, at katawan. Ang espiritu ay ang ating kaloob-loobang bahagi, ang panloob na sangkap, nagtataglay ng kamalayan sa Diyos, upang ating makaugnay ang Diyos (Juan 4:24; Roma 1:9). Ang kaluluwa ay ang ating sarili mismo (Mat. 16:26; cf. Luc. 9:25) na nasa pagitan ng ating espiritu at ng ating katawan, nagtataglay ng kamalayan sa sarili, upang mataglay natin ang ating personalidad. Ang katawan ay ang ating panlabas na bahagi, ang panlabas na sangkap, nagtataglay ng kamalayan sa sanlibutan, upang makaugnay natin ang materyal na sanlibutan. Nilalaman ng katawan ang kaluluwa, at ang kaluluwa ay ang sisidlan ng espiritu. Sa espiritu nananahan ang Diyos bilang ang Espiritu; sa kaluluwa nananahan ang ating sarili; at ang mga pisikal na pandama ay nasa katawan. Tayo ay pinababanal ng Diyos, unang-una, sa pamamagitan ng pag-angkin sa ating espiritu sa pamamagitan ng pagsilang na muli (Juan 3:5-6); ikalawa, sa pamamagitan ng paglaganap ng Kanyang sarili bilang ang Espiritung nagbibigay-buhay mula sa ating espiritu tungo sa loob ng ating kaluluwa upang babaran at transpormahin ito (Roma 12:2; 2 Cor. 3:18); at sa huli, sa pamamagitan ng pagbibigay-buhay sa ating katawang may kamatayan sa pamamagitan ng paglagos sa ating kaluluwa (Roma 8:11, 13) at sa pagbabagong-anyo nito sa pamamagitan ng kapangyarihan ng Kanyang buhay (Fil. 3:21). Tingnan ang mga tala 12-2 at 12-3 sa Hebreo 4."
+        },
+        {
+            "id": "23-6",
+            "text": "Hindi lamang tayo pinababanal nang lubos ng Diyos bagkus iniingatan din Niya ang ating espiritu, kaluluwa, at katawan nang buo. Ang “lubos” ay ukol sa kantidad o dami; ang “buo” ay ukol sa kalidad o uri. Sa kantidad tayo ay pinababanal nang lubos ng Diyos; sa kalidad o uri tayo ay iniingatan nang buo ng Diyos, yaon ay, iniingatan Niyang sakdal ang ating espiritu, kaluluwa, at katawan. Sa pamamagitan ng pagkatisod, ang ating katawan ay nasira, ang ating kaluluwa ay napasama, at ang ating espiritu ay namatay. Sa ganap na pagliligtas ng Diyos, ang ating buong katauhan ay naligtas at ginawang buo at sakdal. Dahil dito, iniingatan ng Diyos ang ating espiritu mula sa anumang nakamamatay na elemento (Heb. 9:14), ang ating kaluluwa mula sa pananatiling likas at luma (Mat. 16:24-26), at ang ating katawan mula sa pagpapasama ng kasalanan (4:4; Roma 6:6). Ang gayong pag-iingat ng Diyos at ng Kanyang ganap na pagpapabanal ay nagtutustos sa atin upang mamuhay ng isang pinabanal na pamumuhay tungo sa paggulang, nang sa gayon ay masalubong natin ang Panginoon sa Kanyang parousia. *Sa Griyego ang salitang “lubos” ay holotelës , nangangahulugang kumpleto hanggang katapusan, yaon ay, ganap na perpekto; ang salitang “buo” sa Griyego ay holoklëros , nangangahulugang kumpleto sa bawat parte, yaon ay ganap na malusog.*"
+        },
+        {
+            "id": "23-7",
+            "text": "O, sa presensiya ( parousia )."
+        },
+        {
+            "id": "23-8",
+            "text": "Ang bawat kapitulo ng aklat na ito ay nagtatapos sa pagparito ng Panginoon. Ito ay nagpapakita na ang may-akda na si Pablo ay namumuhay at gumagawa sa harapan ng “pagparito ng Panginoon” at itinuring ito bilang pang-akit, pampalakas-loob, gol at babala. Hindi lamang ganyan siya sa kanyang sarili, bagkus ginamit din niya ito bilang panghikayat sa mga mananampalatayang kanyang ginagabayan."
+        },
+        {
+            "id": "24-1",
+            "text": "Pababanalin din tayo nang buo ng tapat na Diyos na tumawag sa atin at iingatan Niya nang lubos ang ating buong katauhan."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang ilang manuskrito ay nagsisingit ng, “banal.” Kaya, ito ay nangangahulugang yamang ang Sulat na ito ay nauukol sa pinabanal na pamumuhay ng mga mananampalataya, tinatawag ng apostol, sa kanyang pangwakas na pagtatagubilin, ang mga mananampalataya na mga banal na kapatid."
+        },
+        {
+            "id": "28-1",
+            "text": "Tingnan ang mga tala 14-5 at 17-1 sa Juan 1 at 10-1 sa 1 Corinto 15. Tayo ay makapamumuhay ng isang pinabanal na pamumuhay para sa buhay-ekklesia, isang buhay na tunay at wasto para sa ekklesia sa pamamagitan ng Panginoon bilang panustos ng buhay, kapag natatamasa lamang natin ang Panginoon bilang biyaya. Dahil sa buhay-ekklesia, ipinahahayag ng aklat na ito ang tungkol sa pinabanal na pamumuhay. Ang pinabanal ay banal. Sa sansinukob, tangi lamang ang Diyos ang banal. Siya ay may kaibhan at hindi katulad ng lahat, hindi pangkaraniwan; dahil dito, hindi karumal-dumal. Ang ganitong pagkabanal na siyang pag-uugali ng Diyos ay isang panloob na espesiyalidad ng mga katangian ng Diyos. Kaya nga, upang maging ganap na napabanal, buong napabanal hindi lamang sa panlabas na katayuan, bagkus, sa panloob na kalikasan din, kinakailangan ang namumukod-tanging banal na pag-uugali ng Diyos. Kung nais nating magkaroon ng pag-uugal i ng Diyos, kinakailangang mayroon tayong Diyos, natamo ang Diyos bilang ating buhay at pag-uugali. Diyos lamang ang makapagpapabanal sa atin nang lubos at makapag-iingat nang buo sa ating espiritu, at kaluluwa at katawan mula sa pagiging pangkaraniwan, pagiging narungisan. Ninanais ng Diyos na Siya Mismo ang magpabanal sa atin, lamang kailangan nating habulin Siya na Banal (Heb. 12:14a), at makipagtulungan sa Kanya sa lahat ng bagay; sa gayon, tayo ay magiging banal katulad ng Kanyang pagkabanal (1 Ped. 1:15-16). Kung hindi tayo magiging gayong kabanal ay hindi natin Siya makikita (Heb. 12:14b). Pinababanal tayo ng Diyos hindi lamang sa pamamagitan ng paggamit ng dugo ni Kristo na nagtubos sa atin (Heb. 13:12; 10:29) na nagpapabanal sa atin sa pamposisyon, bagkus ginagamit din Niya ang Kanyang banal na pag-uugali at pinababanal tayo sa kalikasan. Ang ganitong pagpapabanal Niya sa atin ay ang Kanyang pagtatransporma sa ating espiritu, kaluluwa, at katawan sa pang-esensiya upang tayo ay maging katulad Niya sa kalikasan nang buo. Sa gayon, Kanyang naiingatan ang ating espiritu, kaluluwa, at katawan nang buo at lubos. Sa pamposisyon ay pinababanal Niya tayo, ito ay nasa labas ng ating katawan; sa kalikasan ay pinababanal Niya tayo, ito ay sa loob ng ating katawan na nagmumula sa kaibuturan ng ating espiritu, lumalagos sa ating pinananahanang kaluluwa na umaabot sa katawang nakikita sa labas. Ito ay naisakatuparan sa pamamagitan ng pagsilang-na-muli sa ating espiritu ng Kanyang Espiritung nagbibigay-buhay (Juan 3:6), tinatransporma ang ating kaluluwa (Roma 12:2), at tinutubos ang ating katawan (Roma 8:23; Efe. 4:30). Sa ganito ang banal at pinabanal na pamumuhay ay ang pamumuhay natin para sa buhay-ekklesia. Ito ay kinakailangan upang mabigyang-kaluguran at maihayag ang Diyos."
         }
     ]
 }

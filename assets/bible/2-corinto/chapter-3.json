@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Sinisimulan",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -20,11 +20,11 @@
             "footnotes": [
                 {
                     "word": "aming",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "aming",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -35,19 +35,19 @@
             "footnotes": [
                 {
                     "word": "sulat",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "inihain",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "pusong",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": null
@@ -64,11 +64,11 @@
             "footnotes": [
                 {
                     "word": "sapat",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "kasapatan",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -79,31 +79,31 @@
             "footnotes": [
                 {
                     "word": "ginagawa",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "tagapaglingkod",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "titik,",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "Espiritu;",
-                    "note": ""
+                    "id": "6-5"
                 },
                 {
                     "word": "titik",
-                    "note": ""
+                    "id": "6-6"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "6-7"
                 }
             ],
             "outlines": null
@@ -114,11 +114,11 @@
             "footnotes": [
                 {
                     "word": "ministeryo",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "kaluwalhatian,",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": [
@@ -131,11 +131,11 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "ministeryo",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -146,15 +146,15 @@
             "footnotes": [
                 {
                     "word": "kondenasyon",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "sagana",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "katuwiran.",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -165,15 +165,15 @@
             "footnotes": [
                 {
                     "word": "naluwalhati",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -184,15 +184,15 @@
             "footnotes": [
                 {
                     "word": "lumilipas",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -203,11 +203,11 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "katapangan,",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -221,7 +221,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -232,11 +232,11 @@
             "footnotes": [
                 {
                     "word": "kaisipan",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "ito",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -247,7 +247,7 @@
             "footnotes": [
                 {
                     "word": "Moises,",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -258,7 +258,7 @@
             "footnotes": [
                 {
                     "word": "ito",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -269,23 +269,23 @@
             "footnotes": [
                 {
                     "word": "Nguni’",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "Espiritu,",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "17-4"
                 },
                 {
                     "word": "kalayaan.",
-                    "note": ""
+                    "id": "17-5"
                 }
             ],
             "outlines": null
@@ -296,50 +296,252 @@
             "footnotes": [
                 {
                     "word": "Ngunit",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "tayong",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "tumitingin",
-                    "note": ""
+                    "id": "18-4"
                 },
                 {
                     "word": "salamin",
-                    "note": ""
+                    "id": "18-5"
                 },
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "18-6"
                 },
                 {
                     "word": "natatransporma",
-                    "note": ""
+                    "id": "18-7"
                 },
                 {
                     "word": "gayunding",
-                    "note": ""
+                    "id": "18-8"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "18-9"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "Panginoong",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang katanungang ito ay dahil sa tahasan at tapat na salita ng apostol sa nauunang bersikulo tungkol sa kanyang sarili at sa kanyang mga kamanggagawa."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang mga mananampalataya ay bunga ng pagpapagal ng mga apostol na naging rekomendasyon ng mga apostol at ng kanilang ministeryo sa iba. Sa gayon, sila ay naging buháy na sulat na nagrerekomenda sa mga apostol, ang sulat na isinulat ng mga apostol sa pamamagitan ng nananahanang Kristo bilang nilalaman ng bawa’t panloob na bahagi nila."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang mga mananampalatayang taga-Corinto, bilang buháy na sulat na nagrerekomenda sa mga apostol, ay nakaukit sa mga puso ng mga apostol; kaya sila ay dinadala ng mga apostol at hindi maaaring maihiwalay sa mga apostol. Sila ay nasa mga puso ng mga apostol (7:3), na dinadala nila kahit saan bilang kanilang buháy na rekomendasyon."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang sulat ni Kristo ay isa na binubuo ni Kristo bilang nilalaman upang ihatid at ihayag si Kristo. Ang lahat ng mga mananampalataya ni Kristo ay kinakailangang maging gayong uri ng buháy na sulat ni Kristo, upang mabasa at makilala ng iba ang Kristo na nasa kanilang loob."
+        },
+        {
+            "id": "3-2",
+            "text": "Yaon ay, isinulat sa pamamagitan ng ministeryo ng mga apostol. Ang mga apostol ay puspos ng Kristo, kaya ang kanilang ministeryo ay kusang naghahain ng Kristo sa mga yaong kanilang nakakaugnay, iniuukit si Kristo sa kanilang puso at ginagawa silang mga buháy na sulat na naghahatid ng Kristo. Ang sulat na ito na naiukit sa mga puso ng mga apostol (b. 2) ay naiukit din sa mga puso ng mga mananampalataya (b. 3); ito ay nagpapakita na ang inilalarawang wastong Bagong Tipang ministeryo sa aklat na ito sa anupaman ay may isinusulat sa mga tumatanggap ng ministeryo at gayundin sa mga nagmiministeryo. Ang ganitong ministeryo na naghahain ng Kristo ay lubusang nasa buhay at ang elementong panulat sa sulat na ito ay ang Espiritung nagbibigay-buhay (tingnan ang b. 6 at 3-3 )."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang Espiritu ng Diyos na buháy ay ang Mismong Diyos na buháy. Ang Espiritu ng Diyos na buháy ay hindi isang kasangkapan tulad ng pluma, kundi ang elemento bilang tinta sa pagsulat, na sa pamamagitan nito ay inihahain ng mga apostol si Kristo bilang nilalaman para sa pagsulat ng mga buháy na sulat na naghahatid ng Kristo."
+        },
+        {
+            "id": "3-4",
+            "text": "Ang ating puso, na binubuo ng ating budhi (ang nangungunang bahagi ng ating espiritu), kaisipan, damdamin, at pagpapasiya, ay ang tapyas ng bato kung saan ang mga buháy na sulat ni Kristo ay isinusulat ng buháy na Espiritu ng Diyos. Ito ay nagpapahiwatig na si Kristo ay isinusulat ng Espiritu ng Diyos na buháy sa loob ng bawa’t bahagi ng ating katauhan upang gawin tayong mga buháy na sulat Niya upang Siya ay maihayag at mabasa ng iba sa atin."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 16-2 sa kapitulo 2. O, may kakayahan, kwalipikado. Ang Diyos na buháy Mismo ang kasapatan, kakayahan, at pagiging kwalipikado ng ministeryo ng mga apostol para sa Bagong Tipang ekonomiya ng Diyos upang ipamahagi si Kristo sa loob ng mga piniling tao ng Diyos para sa pagtatayo ng Katawan ni Kristo."
+        },
+        {
+            "id": "6-1",
+            "text": "O, binibigyang-kakayahan kami, pinapaging-kwalipikado kami, ginagawa kaming may kakayahan."
+        },
+        {
+            "id": "6-2",
+            "text": "*Gr. diakono; Ing. ministers. Sa bersikulong ito ay isinalin nating “tagapaglingkod”; sa ibang bersikulo ay maaaring isinaling “tagapaghain,” “ministro,” o “diyakonesa.”"
+        },
+        {
+            "id": "6-3",
+            "text": "Tumutukoy sa mga tagapaglingkod ng Bagong Tipan na hindi naglilingkod nang ayon sa titik."
+        },
+        {
+            "id": "6-4",
+            "text": "Tumutukoy sa nakasulat na alituntunin ng kautusan."
+        },
+        {
+            "id": "6-5",
+            "text": "Tumutukoy sa Espiritu ng Diyos na buháy. Ginamit ng mga apostol ang Espiritung ito upang maihain si Kristo sa loob ng mga mananampalataya upang gawin silang mga buháy na sulat Niya (b. 3). Ang ministeryo ng mga apostol para sa Bagong Tipan ay hindi sa mga patay na titik tulad ng ministeryo ni Moises para sa Lumang Tipan, kundi sa buháy na Espiritu, na Siyang nagbibigay ng buhay."
+        },
+        {
+            "id": "6-6",
+            "text": "Ang titik ng kautusan, na humihiling lamang sa tao, subali’t walang kakayahang tustusan ang tao ng buhay (Gal. 3:21). Dahilan sa kawalang-kakayahan ng tao na tuparin ang mga kahilingan nito, pinapatay nito ang tao (Roma 7:9-11)."
+        },
+        {
+            "id": "6-7",
+            "text": "Ang Espiritu, na Siyang sukdulang kahayagan ng Tres-unong Diyos, na dumaan sa iba’t ibang hakbangin, na naging Espiritung nagbibigay-buhay (I Cor. 15:45), ay namamahagi ng buhay, maging ng Diyos Mismo, tungo sa loob ng mga mananampalataya at mga apostol, ginagawa silang mga tagapaglingkod ng isang bagong tipan, ang tipan ng buhay. Sa gayon, ang kanilang ministeryo ay isa na binubuo ng Tres-unong Diyos ng buhay sa pamamagitan ng Kanyang Espiritung nagbibigay-buhay."
+        },
+        {
+            "id": "7-1",
+            "text": "Tumutukoy sa ministeryo ng lumang tipan, isang tipan ng patay na titik na pumapatay."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang kaluwalhatian na pansamantalang nagliwanag at tangi lamang sa mukha ni Moises (Exo. 34:29, 35)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang kaluwalhatian ng Diyos na nahayag sa mukha ni Kristo, na ang Diyos Mismo na nagliliwanag magpakailanman sa mga puso ng mga apostol (4:6), hinihigitan ang kaluwalhatian ng ministeryo ni Moises ng lumang tipan (b. 10)."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang ministeryo ng mga apostol ng bagong tipan, isang tipan ng buháy na Espiritu, na nagbibigay-buhay."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang ministeryo ng lumang tipan ay naging isang sa kamatayan (b. 7), sapagka’t ang lumang tipan ay nagdala ng kondenasyon tungo sa kamatayan (Roma 5:13, 18, 20-21). Sa gayon, ito rin ang ministeryo ng kondenasyon."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang ministeryo ng mga apostol ng bagong tipan ay hindi lamang nagtataglay ng kaluwalhatian, bagkus nananagana rin sa kaluwalhatian ng Diyos, na nakahihigit sa kaluwalhatian ng ministeryo ni Moises ng lumang tipan (b. 10)."
+        },
+        {
+            "id": "9-3",
+            "text": "Ang ministeryo ng bagong tipan ay isang sa Espiritu na nagbibigay ng buhay (bb. 8, 6), sapagka’t ang bagong tipan ay nagdadala ng katuwiran ng Diyos tungo sa buhay (Roma 5:18, 21). Sa gayon, ito rin ang ministeryo ng katuwiran na siyang ministeryo ng ikaaaring-matuwid. Ang sentro ng bagong tipang ministeryo ay Espiritu at katuwiran: ang Espiritu ay ang panustos ng buhay; ang katuwiran ay ang Kristong (larawan ng Diyos) naging Espiritu (b. 17) upang maging pamumuhay at tunay na kahayagan ng ating buhay."
+        },
+        {
+            "id": "10-1",
+            "text": "Pansamantala sa pagliliwanag ng mukha ni Moises."
+        },
+        {
+            "id": "10-2",
+            "text": "Yaon ay, lumilipas (b. 7)."
+        },
+        {
+            "id": "10-3",
+            "text": "Sa katotohanang ang kaluwalhatian ng ministeryo ng kautusan ay isang pansamantalang kaluwalhatian na nagliliwanag sa mukha ni Moises. Sa bagay na ito, dahil sa kaluwalhatiang nangingibabaw, ang kaluwalhatian ng ministeryo ng kautusan ay unti-unting lumilipas. Dahilan sa kaluwalhatian ng bagong tipang ministeryo (na siyang kaluwalhatian ng Diyos, maging ang Diyos Mismo, na nahayag sa mukha ni Kristo magpakailanman, hinihigitan ang pansamantalang kaluwalhatian ng lumang tipang ministeryo na nagliliwanag sa mukha ni Moises), ang pansamantalang kaluwalhatian ng ministeryo ng kautusan ay nawawala at hindi na umiiral."
+        },
+        {
+            "id": "11-1",
+            "text": "Nasa hakbangin ng paglipas sa pamamagitan ng pagpapalaganap ng bagong tipang ministeryo."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang mga bersikulo 7-11 ay nagpapakita ng kababaan ng kaluwalhatian ng ministeryo ni Moises, ang ministeryo ng kautusan, isang ministeryo ng kondenasyon at kamatayan, at ng pangingibabaw ng ministeryo ng mga apostol, ang ministeryo ng biyaya, isang ministeryo ng katuwiran at ng Espiritu. Ang nauna ay sa pamamagitan ng kaluwalhatian nang pansamantala; ang huli ay nananatili sa kaluwalhatian nang magpakailanman. Sa 2:12-17 tinatalakay ng apostol ang tungkol sa tagumpay at bisa ng ministeryo ng mga apostol; sa mga bersikulo 1-6, binanggit niya ang pangsyon at kakayahan nito; at sa mga bersikulo 7-11 naman tinalakay niya ang kaluwalhatian at ang pangingibabaw nito."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang pag-asa sa pagsisilay ng kaluwalhatian ng bagong tipang ministeryo ay nananatili nang matagal. Ang apostol ay may ganitong pag-asa samantalang si Moises ay walang ganitong pag-asa. Walang pag-asa si Moises dahil sa ang kanyang lumang tipang ministeryo at ang kaluwalhatian ng kanyang ministeryo ay pawang unti-unting lumilipas (b. 13)."
+        },
+        {
+            "id": "12-2",
+            "text": "Katapangan sa pagsasalita nang hayagan at may kalayaan tungkol sa kanilang ministeryo; hindi nagtatago, hindi nagkukubli ng anuman, tulad ni Moises na nagtakip ng kanyang mukha ng talukbong (b. 13)."
+        },
+        {
+            "id": "13-1",
+            "text": "Samantalang sinasalita ni Moises ang Salita ng Diyos sa mga anak ni Israel, pinanatili niya ang kanyang naluwalhating mukha nang walang talukbong. Pagkatapos magsalita, tinalukbungan niya ang kanyang mukha (Exo. 34:29-33) at baka makita nila ang katapusan ng kanyang ministeryo, na lumilipas. Hindi niya nais na makita nila ang pagtatapos ng lumilipas na kaluwalhatian ng kanyang ministeryo ng kautusan."
+        },
+        {
+            "id": "14-1",
+            "text": "“Mga bagay na nagmumula sa isip (2:11; Fil. 4:7). Kaya, sa pinagmumulan ay tumutukoy sa, ang mga isip mismo” (Vincent)."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang “ito” ay tumutukoy sa katotohanang sa loob ni Kristo ang talukbong na ito ay naalis na. Yamang ang katotohanang ito ay hindi naihayag sa mga anak ni Israel, ang kanilang mga kaisipan ay napatigas at ang kanilang mga isip ay nabulagan. Sa loob ni Kristo, ang talukbong ay naalis na sa pamamagitan ng ekonomiya ng bagong tipan, gayunpaman, ang talukbong ay nananatili pa rin sa kanilang mga isip kapag binabasa nila ang lumang tipan (b. 15)."
+        },
+        {
+            "id": "15-1",
+            "text": "Tumutukoy sa mga aklat na isinulat ni Moises, ang Pentateuch (Juan 5:47)."
+        },
+        {
+            "id": "16-1",
+            "text": "Ayon sa bersikulo 15, ang “ito” ay tumutukoy sa puso ng mga anak ni Israel. Ito ay nagpapakita na ang kanilang puso ay malayo sa Panginoon kapag ang talukbong ay nasa puso nila. Kapag ang puso nila ay bumabaling sa Panginoon, ang talukbong ay naaalis. Sa katunayan, ang kanilang naibaling-palayong puso ay ang talukbong. Ang ibaling ang kanilang puso sa Panginoon ay ang alisin ang talukbong."
+        },
+        {
+            "id": "17-1",
+            "text": "O, higit pa roon. Kapag ang puso ay bumabaling sa Panginoon, ang talukbong ay naaalis. Higit pa roon, ang Panginoon ang Espiritung nagbibigay sa atin ng kalayaan. Yamang ang Panginoon ang Espiritu, kapag ang puso ay bumabaling sa Kanya, ang talukbong ay naaalis, at ang puso ay napalalaya mula sa pagkagapos sa titik ng kautusan."
+        },
+        {
+            "id": "17-2",
+            "text": "Ayon sa nilalaman ng bahaging ito na nagsisimula sa 2:12, ang Panginoon dito ay tumutukoy kay Kristo na Panginoon (2:12, 14, 15, 17; 3:3, 4, 14, 16; 4:5). Ito, sa gayon, ay isang matinding salita sa Bibliya, nagsasabi sa atin nang mariin na si Kristo ay ang Espiritu. “Ang Panginoong Kristo ng bersikulo 16 ay ang Espiritung nagpupuspos at nagbibigay-kalakasan-sa-buhay sa bagong tipan. Tayo ang mga tagapaghain o ministro (b. 6), at ang ating pagmiministeryo ay may kaluwalhatian (b. 8). Ihambing ang Roma 8:9-11; Juan 14:16, 18” (Vincent). “Ang Panginoon sa bersikulo 16 ay ang Espiritu… na nagbibigay ng buhay sa bersikulo 6, nangangahulugang, ‘ang Panginoon,’ gaya ng sinabi rito, si ‘Kristo’, ‘ay ang Espiritu’, na Siya ring ang Espiritu Santo…si Kristo rito ay ang Espiritu ni Kristo” (Alford). “Ang buong Espiritu na nagtatransporma at nananahanan sa atin ay si Kristo Mismo. Ang Panginoon ay ang Espiritu” (Williston Walker)."
+        },
+        {
+            "id": "17-3",
+            "text": "Ang Espiritu, na Siyang sukdulang kahayagan ng Tres-unong Diyos, ay wala pa sa Juan 7:39, sapagka’t sa panahong yaon si Hesus ay hindi pa naluluwalhati. Si Hesus ang pagsasakatawan ng Diyos, at sa panahong yaon ay hindi pa Niya natatapos ang hakbangin na nararapat Niyang daanan. Pagkaraan ng Kanyang pagkabuhay na muli, yaon ay, pagkaraan ng pagtatapos ng lahat ng mga hakbangin, tulad ng pagkakatawang-tao, pagkapako sa krus, at pagkabuhay na muli, na kinakailangang daanan ng Tres-unong Diyos sa loob ng tao para sa Kanyang mapanubos na ekonomiya, Siya ay naging Espiritung nagbibigay-buhay (I Cor. 15:45). Ang Espiritung nagbibigay-buhay na ito ay tinawag na “ang Espiritu” sa Bagong Tipan (Roma 8:16, 23, 26-27; Gal. 3:2, 5, 14; 6:8; Apoc. 2:7; 3:22; 14:13; 22:17), ang Espiritung nagbibigay sa atin ng buhay ng Diyos (b. 6; Juan 6:63) at nagpapalaya sa atin mula sa pagkagapos ng kautusan."
+        },
+        {
+            "id": "17-4",
+            "text": "Ang Espiritu ng Panginoon ay ang Panginoon Mismo; kung taglay natin Siya, taglay natin ang kalayaan."
+        },
+        {
+            "id": "17-5",
+            "text": "Kalayaan mula sa mga titik ng kautusang nasa ilalim ng talukbong (Gal. 2:4; 5:1)."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang “nguni’t” dito ay nagpapakita na tayong mga mananampalataya ay hindi katulad sa mga Israelita. Sila ay may talukbong ang mukha nguni’t tayo, na walang talukbong ang mukha, gaya ng isang salamin, ay tumitingin at umaaninag sa kaluwalhatian ng Panginoon, sa gayon ay unti-unting natatransporma tungo sa Kanyang larawan mula sa kaluwalhatian hanggang sa kaluwalhatian."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang mga apostol, bilang ang mga halimbawa at ang mga kinatawan ng lahat ng mga mananampalataya, ay ang mga ministro ni Kristo. Ang kaluwalhatiang binanggit sa mga bersikulo 8-9 ay may kaugnayan sa ministeryo ng bagong tipan; ang kaluwalhatian dito at ang mga apostol at ang lahat ng mga tagapaglingkod ng bagong tipan ay pawang may kaugnayan dito. Ipinakikita nito na ang bagong tipang ministeryo ay hindi lamang isang pagkilos ng lahat ng bagong tipang tagapaglingkod, bagkus lalung-lalo na ang kung ano sila. Sila at ang kanilang ministeryo ay iisa sapagka’t ang kaluwalhatiang di-nakikita ay pumupuspos at tumitigmak sa gawain nila at sa kanila mismo. Kaya, sila at ang kanilang gawain ay wala nang pagkakaiba."
+        },
+        {
+            "id": "18-3",
+            "text": "Inihahambing sa natalukbungang kaisipan, sa natalukbungang puso (bb. 14-15). Ito ay nangangahulugan na ang ating puso ay nakabaling sa Panginoon kaya ang talukbong ay naalis, at ang Panginoon bilang ang Espiritu ang nagpalaya sa atin mula sa pagkagapos,sa pagtatalukbong, ng kautusan, kaya wala nang paghihiwalay sa pagitan natin at ng Panginoon."
+        },
+        {
+            "id": "18-4",
+            "text": "Ang “pagtingin” ay upang makita natin mismo ang Panginoon; ang “pag-aninag” ay upang makita Siya ng iba sa pamamagitan natin."
+        },
+        {
+            "id": "18-5",
+            "text": "Tayo ay tulad ng isang salamin na tumitingin at umaaninag sa kaluwalhatian ng Panginoon. Bilang gayon, ang mukha natin ay kinakailangang ganap na hindi natatalukbungan upang makakita tayo nang malinaw at makapag-aninag nang wasto."
+        },
+        {
+            "id": "18-6",
+            "text": "Ang kaluwalhatian ng Panginoon bilang ang Isa na nabuhay na muli at umakyat sa kalangitan, na kapwa Diyos at tao, dumaan sa pagiging laman, pantaong pamumuhay sa lupa, at pagkapako sa krus, pumasok sa loob ng pagkabuhay na muli, isinagawa ang ganap na pagtutubos, at naging isang Espiritung nagbibigay-buhay, na nananahan sa loob natin upang gawin Siya at ang lahat ng Kanyang naisagawa, nakamit, at natamo na makatotohanan sa atin, upang tayo ay maging kaisa Niya at matransporma tungo sa Kanyang larawan mula sa kaluwalhatian hanggang sa kaluwalhatian, na gaya ng mula sa Panginoong Espiritu."
+        },
+        {
+            "id": "18-7",
+            "text": "Kung tayong may hindi natatalukbungang mukha ay tumitingin at umaaninag sa kaluwalhatian ng Panginoon, nilalalinan Niya tayo ng mga elemento ng kung ano Siya at kung ano ang Kanyang ginawa. Sa gayon, tayo ay natatransporma sa metabolikong paraan upang magtaglay ng Kanyang hugis ng buhay sa pamamagitan ng Kanyang kapangyarihan ng buhay kasama ang Kanyang esensiya ng buhay, nababagong-anyo, unang-una sa pamamagitan ng pagbabago ng ating kaisipan (Roma 12:2), tungo sa Kanyang larawan. Ang pagiging natransporma ay nagsasaad na tayo ay nasa hakbangin ng transpormasyon."
+        },
+        {
+            "id": "18-8",
+            "text": "Ang larawan ng nabuhay na muli at naluwalhating Kristo. Ang gayunding larawan ay nangangahulugang tayo ay iwinawangis sa nabuhay na muli at naluwalhating Kristo, ginagawang katulad Niya (Roma 8:29)."
+        },
+        {
+            "id": "18-9",
+            "text": "Mula sa isang antas ng kaluwalhatian tungo sa isa pang antas. Ito ay nagsasaad ng isang nagpapatuloy na hakbangin sa buhay sa loob ng pagkabuhay na muli."
+        },
+        {
+            "id": "18-10",
+            "text": "Ang “mula” ay nagsasaad na ang transpormasyon ay nagmumula sa Espiritu sa halip na isinanhi lamang ng Espiritu."
+        },
+        {
+            "id": "18-11",
+            "text": "Ang “Panginoong Espiritu” ay maaaring ituring na tambalang titulo tulad ng “Diyos Ama” at ng “Panginoong Kristo”. Ang terminolohiyang ito ay muling matatag na nagpapatunay at nagpapatibay na ang Panginoong Kristo ay ang Espiritu at ang Espiritu ay ang Panginoong Kristo. Sa kapitulong ito, ang Espiritung ito ay inihayag bilang ang sumusulat na Espiritu (b. 3), ang Espiritung nagbibigay-buhay (b. 6), ang nagmiministeryong Espiritu (b. 8), ang nagpapalayang Espiritu (b. 17), at ang nagtatranspormang Espiritu (b. 18). Ang gayong nagpapaloob ng lahat na Espiritu ay mahalaga sa mga ministro ni Kristo at sa kanilang ministeryo para sa bagong tipang ekonomiya ng Diyos. Pagkatapos magsalita tungkol sa ministeryo ng bagong tipan, ang apostol ay nagpapatuloy upang salitain ang tungkol sa mga tagapaglingkod o ministro ng bagong tipan. Mula bersikulo 12 hanggang 18, kanya munang inilalarawan ang mga ministro ng bagong tipan bilang mga tao na ang mga puso ay naibaling na sa Panginoon, na ang mga mukha ay naalisan na ng talukbong, na nagtatamasa sa Panginoong Espiritu, na Siyang nagpapalaya sa kanila mula sa panggagapos ng kautusan, at mga tinatransporma tungo sa larawan ng Panginoon sa pamamagitan ng pagtingin at pag-aninag sa Kanya. Sa pamamagitan ng gayong hakbangin ng transpormasyon sila ay binuo upang maging mga ministro ni Kristo sa pamamagitan ng Espiritu na may mga elemento ng persona at gawain ni Kristo. Kaya, ang kanilang katauhan ay binubuo ni Kristo at ang pagbubuong ito ay mula kay Kristo, at ang kanilang ministeryo ay upang ihain si Kristo sa mga tao, nilalalinan ang mga ito ng nagpapaloob-ng-lahat na Kristo bilang ang nananahanang Espiritung nagbibigay-buhay. Ang lahat ng mga mananampalataya ay kailangang tumulad sa kanila upang maging taong kauri nila at upang magsagawa ng gayunding uri ng ministeryo."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 8,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Ngayon",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "kondenasyon",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -29,27 +29,27 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "nagpalaya",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "akin",
-                    "note": ""
+                    "id": "2-5"
                 },
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "2-6"
                 }
             ],
             "outlines": null
@@ -60,15 +60,15 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "anyo",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -79,15 +79,15 @@
             "footnotes": [
                 {
                     "word": "matupad",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "nangagsisilakad",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "espiritu.",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -98,15 +98,15 @@
             "footnotes": [
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -117,19 +117,19 @@
             "footnotes": [
                 {
                     "word": "kaisipang",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "kamatayan,",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "kaisipang",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -148,11 +148,11 @@
             "footnotes": [
                 {
                     "word": "nangasa",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -163,23 +163,23 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "kung",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "Kristo,",
-                    "note": ""
+                    "id": "9-4"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "9-5"
                 }
             ],
             "outlines": null
@@ -190,31 +190,31 @@
             "footnotes": [
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "katawan",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "patay",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "10-5"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "10-6"
                 },
                 {
                     "word": "katuwiran.",
-                    "note": ""
+                    "id": "10-7"
                 }
             ],
             "outlines": null
@@ -225,19 +225,19 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "niyaong",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "magbibigay-",
-                    "note": ""
+                    "id": "11-4"
                 }
             ],
             "outlines": null
@@ -248,7 +248,7 @@
             "footnotes": [
                 {
                     "word": "mabuhay",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -259,15 +259,15 @@
             "footnotes": [
                 {
                     "word": "mangamamatay",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "inilalagay",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "gawa",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -278,15 +278,15 @@
             "footnotes": [
                 {
                     "word": "nagpapapatnubay",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": [
@@ -300,11 +300,11 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "Abba,",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -315,15 +315,15 @@
             "footnotes": [
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "ating",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "tayo",
-                    "note": ""
+                    "id": "16-3"
                 }
             ],
             "outlines": null
@@ -334,11 +334,11 @@
             "footnotes": [
                 {
                     "word": "kung",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "makipagtiis",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -349,7 +349,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -360,7 +360,7 @@
             "footnotes": [
                 {
                     "word": "pagkahayag",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -377,7 +377,7 @@
             "footnotes": [
                 {
                     "word": "mapalalaya",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -394,15 +394,15 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "nagsisihibik",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "pagka-",
-                    "note": ""
+                    "id": "23-3"
                 }
             ],
             "outlines": null
@@ -419,7 +419,7 @@
             "footnotes": [
                 {
                     "word": "pagtitiis.",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -430,11 +430,11 @@
             "footnotes": [
                 {
                     "word": "gayundin",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "kahinaan;",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -445,11 +445,11 @@
             "footnotes": [
                 {
                     "word": "kaisipan",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -460,23 +460,23 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "28-2"
                 },
                 {
                     "word": "ikabubuti",
-                    "note": ""
+                    "id": "28-3"
                 },
                 {
                     "word": "nagsisiibig",
-                    "note": ""
+                    "id": "28-4"
                 },
                 {
                     "word": "layon.",
-                    "note": ""
+                    "id": "28-5"
                 }
             ],
             "outlines": [
@@ -489,23 +489,23 @@
             "footnotes": [
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "itinalaga",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "mapawangis",
-                    "note": ""
+                    "id": "29-3"
                 },
                 {
                     "word": "Panganay",
-                    "note": ""
+                    "id": "29-4"
                 },
                 {
                     "word": "maraming",
-                    "note": ""
+                    "id": "29-5"
                 }
             ],
             "outlines": null
@@ -516,11 +516,11 @@
             "footnotes": [
                 {
                     "word": "inaring-",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "niluwalhati",
-                    "note": ""
+                    "id": "30-2"
                 }
             ],
             "outlines": null
@@ -551,11 +551,11 @@
             "footnotes": [
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "namamagitan",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
@@ -578,7 +578,7 @@
             "footnotes": [
                 {
                     "word": "nakapananagumpay",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -595,10 +595,332 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang salitang, “Ngayon nga ay wala nang anumang kondenasyon sa mga nasa loob ni Kristo Hesus”, ay isang matibay na katunayan na ang inilarawan sa kapitulo 7 ay karanasan ng isang tao nang siya ay wala pang Kristo."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang kondenasyong ipinahiwatig sa 1:18 hanggang 3:20 at binanggit sa 5:16, 18 ay ang obhektibong kondenasyong nasa ilalim ng matuwid na kautusan ng Diyos dahil sa ating panlabas na gawain ng kasalanan. Ang kondenasyong binanggit sa bersikulong ito ay ang subhektibong kondenasyong nasa ating budhi dahil sa panloob na pagkatalo natin na sinanhi ng masamang kautusan ng nananahang kasalanan, katulad ng inilarawan sa 7:17-18, 20-24. Ang dugong idinaloy ni Kristo sa krus ay kaligtasan mula sa obhektibong kondenasyon (3:25); ang Espiritu ng buhay, na siyang si Kristo na dumaan sa maraming hakbangin na naging Espiritung nagbibigay-buhay na nasa ating espiritu ang kaligtasan sa subhektibong kondenasyon."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang “nasa loob ni Kristo” sa kapitulong ito ay tumutukoy hindi lamang sa kung ano ang sinasabi sa kapitulo 6 na tayo ay nasa loob ni Kristo sa pamposisyon, bagkus tumutukoy rin sa realidad ng ating pang-araw-araw na pamumuhay at paglakad sa ating naisilang na muling espiritu. Kaya nga ang kapitulong ito ay tumutukoy sa kahilingang kinakailangan upang maging “nasa loob ni Kristo”, na katumbas ng “mangaligtas sa Kanyang buhay” katulad ng binanggit sa 5:10."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang kautusan ng Espiritu ng buhay ang pangunahing paksa ng kapitulong ito. Ang bersikulong ito ay nagsasalita lamang ng tungkol sa Espiritu at sa buhay na may kaugnayan sa pagkilos ng kautusang ito. Ang buhay ay ang nilalaman at ang pagdaloy ng Espiritu, at ang Espiritu ay ang sukdulan at kaganapang pagpapakita ng Tres-unong Diyos pagkatapos dumaan sa maraming hakbangin sa pamamagitan ng pagiging laman, pagkapako sa krus, at pagkabuhay na muli at naging ang nananahanan, nagbibigay-buhay na Espiritu na siyang buhay sa lahat ng mga mananampalataya kay Kristo. Ang kautusan ng kasalanan ay nagmumula kay Satanas, na nananahan sa mga sangkap ng ating natisod na katawan (7:23, 17). Ang kautusang nagpalaya sa atin mula sa kautusang ito ng kasalanan ay ang kautusan ng Espiritu ng buhay. Ang kautusang ito, hindi ang Diyos, ni ang Espiritu, ang gumagawa sa atin upang tayo ay iligtas mula sa paggawa ng kautusan ng kasalanan sa ating laman, at nagsasanhi sa atin na makilala ang Diyos, maangkin ang Diyos, at ibuhay ang Diyos. Ang kautusan ng Espiritu ng buhay ay ang natural na kalakasan ng Espiritu ng buhay, at hangga’t ang kalagayan ay nakatutupad sa kahilingan ng kautusang ito, ang kautusang ito ay kusang kikilos (tingnan ang tala 4-2). Maging si Satanas man o ang Diyos, pagkatapos nilang pumasok sa loob ng ating katauhan at manahan sa atin, ay gumagawa sa loob natin hindi sa pamamagitan ng mga panlabas at obhektibong gawain, kundi sa pamamagitan ng panloob at subhektibong kautusan. Ang pagkilos ng kautusan ng Espiritu ng buhay ay ang pagkilos ng dumaan sa maraming hakbanging Tres-unong Diyos sa ating espiritu; ito ang gawain sa loob natin ng Tres-unong Diyos sa loob ng Kanyang buhay."
+        },
+        {
+            "id": "2-2",
+            "text": "Dito ang kautusan, ang Espiritu, at ang buhay ay salungat sa kautusan (ng kasalanan), kasalanan, at kamatayan. Ang dalawang kautusan ay salungat sa isa’t isa; ang Espiritu ay salungat sa kasalanan at ang buhay ay salungat sa kamatayan. Sa kapitulo 5, ang biyaya (ang pagsasakatawan ng Diyos sa loob natin) ay salungat sa kasalanan (ang pagsasakatawan ni Satanas sa loob natin) (5:21); sa kapitulong ito, ang Espiritu (ang Diyos na nananahanan sa atin) ay salungat sa kasalanan. Kaya nga, ang biyaya sa kapitulo 5 ay ang Espiritu sa kapitulong ito, na siya ring Diyos na nagsakatawan sa atin bilang ating biyaya, at namumuhay at kumikilos sa loob natin. Ang naunang bahagi ng aklat na ito ay nagsasalita nang maraming ulit tungkol sa buhay (1:17; 2:7; 5:10, 17-18, 21; 6:4, 22-23). Pagdating sa kapitulong ito, pinagdugtong ng terminong “Espiritu ng buhay” ang buhay at ang Espiritu, tumutukoy na ang lahat ng iniugnay sa buhay na binanggit sa mga naunang kapitulo ay nakapaloob sa Espiritung sinalita sa kapitulong ito, ang buhay ay pag-aari ng Espiritu, at ang Espiritu ay ukol sa buhay, sa katunayan ang dalawa ay iisa (Juan 6:63). Ang paraan upang maranasan at matamasa ang dibino, walang hanggan, di-nilikhang buhay na ito ay sa pamamagitan ng Espiritu ng buhay na ito."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang kapitulong ito ay nagpapakita na ang espirituwal na buhay ay makaapat. Unang-una, ang buhay na ito ay ang buhay ng Diyos na nasa loob ng Espiritu (b. 2). Ikalawa, ang buhay na ito ay nagiging buhay sa ating espiritu sa pamamagitan ng pagkasilang na muli (b. 10). Pagkaraan, ang buhay na ito ay magpupuspos sa ating kaisipan mula sa espiritu para sa transpormasyon ng ating kaluluwa na kinabibilangan ng ating kaisipan, at nagiging buhay sa ating kaluluwa (b. 6). Sa katapustapusan, ito ay tatagos sa ating katawan, na magiging buhay sa ating katawan (b. 11). At ang sukdulang kaganapan ay ang pagbabagong-anyo ng ating katawan (Fil. 3:21) na siya ring katubusan ng ating katawan (b. 23)."
+        },
+        {
+            "id": "2-4",
+            "text": "Ang pangunahing gawain ng dumaan sa maraming hakbanging Tres-unong Diyos na nananahan sa ating espiritu bilang ang kautusan ng Espiritu ng buhay ay ang palayain tayo sa lahat ng mga aspekto upang mapalaya tayo mula kay Satanas, na siyang kautusan ng kasalanan at kamatayan na nananahan sa ating natisod na kalikasan (7:23-25). Ang pagpapalayang ito ay hindi lamang para sa ating subhektibong pagkaaring-matuwid, bagkus para rin sa ating pandisposisyong pagpapabanal."
+        },
+        {
+            "id": "2-5",
+            "text": "Ang ilang sinaunang manuskrito ay binabasang, iyo."
+        },
+        {
+            "id": "2-6",
+            "text": "Ang kautusan ng kasalanan ay ang kakayahang gumawa ng kasalanan na kusang-kusang sumisibol at kumikilos sa tao, sinasanhi ang tao na maging alipin ng kasalanan (Juan 8:34), hindi kayang kontrolin ang kanyang sarili, nakontrol, nabihag, at nagapi ng kasalanan, samakatuwid ay ginagawa ang mga bagay na ayaw niyang gawin. Ang kautusan ng kamatayan ay ang kusang-kusang kapangyarihang nagpapahina sa tao, at sinasanhi ang tao na matuyo, malanta, tumanda, at mamatay. Ito ay nananahan sa tao at sinasanhi ang bawa’t sangkap ng katawan na malubog sa kamatayan at pagbaba. Sa isang banda, ang kamatayan ay nagsasanhi na mawala sa tao ang kanyang lakas, samantalang sa kabilang banda, sinasanhi nito na maiwala ng tao ang kanyang pandama, sa gayon ay hindi niya kayang gumawa ng mabuti, at nakagagawa pa ng kasalanan nang walang pandamang siya ay nagkakasala."
+        },
+        {
+            "id": "3-1",
+            "text": "Sa isang banda, ang kautusan ng Diyos ay mga titik, nasa labas ng tao, ito ay patay at walang kalakasan ng buhay upang tustusan ang tao nang sa gayon ay matupad ang mga kahilingan ng kautusan. Sa kabilang banda, ang katawan ng tao ay pininsala ni Satanas; ito ay naging laman ng kamatayan, walang kakayahan upang tuparin ang kautusan. Dahil sa dalawang salik na ito, ang “kautusan ay may di-kayang gawin” ay nangangahulugang hindi mabibigyang-kaluguran ang Diyos sa pamamagitan ng pagtupad ng tao sa kautusan."
+        },
+        {
+            "id": "3-2",
+            "text": "Sa laman, hindi nananahan ang anumang bagay na mabuti (7:18), tanging kasalanan ang nananahan dito (7:17), higit pa rito, ang laman ay ukol sa kamatayan (7:24). Kaya nga, ang tao ay hindi maaaring ariing-matuwid sa harap ng Diyos sa pamamagitan ng pagtupad ng laman sa kautusan. Dahil sa lamang ito na mahina at lupaypay, ang kautusan ay walang magawa."
+        },
+        {
+            "id": "3-3",
+            "text": "Bagama’t ang laman ay ukol sa kasalanan, ang Anak ng Diyos ay naging laman (Juan 1:14; Heb. 2:14; 1 Tim. 3:16) . Gayunpaman, may anyo lamang Siya ng laman, walang kasalanan ng laman (2 Cor. 5:21; Heb. 4:15). Ito ang sinagisag ng tansong ahas na itinaas ni Moises para sa mga nagkasalang Israelita (Blg. 21:9; Juan 3:14). Ang tansong ahas ay may anyo at hugis ng tunay na ahas nguni’t walang kamandag ng ahas. Ang ganitong tansong ahas ang nanagot sa kahatulan ng Diyos na isinagawa sa mga Israelitang natuklaw ng ahas at ang tumuos sa ahas na lumason sa kanila. Bagama’t si Kristo ay walang kasalanan sa laman, Siya ay ipinako sa laman (Col. 1:22; 1 Ped. 3:18). Kaya nga, si Satanas, na iniugnay sa laman, kasama ang sanlibutang nakabitin kay Satanas, ay hinatulan sa krus (Juan 12:31; 16:11). Higit pa rito, sa pamamagitan nito, si Satanas ay winasak (Heb. 2:14). Sa panahon ding yaon, hinatulan din ng Diyos, sa pamamagitan ng pagkapako ni Kristo sa laman, ang kasalanang ipinasok ni Satanas sa loob ng laman ng tao. Kaya, tayo ay nakalalakad nang ayon sa Espiritu, hindi ayon sa laman, upang ang matuwid na kahilingan ng kautusan ay matupad sa atin (b. 4)."
+        },
+        {
+            "id": "4-1",
+            "text": "Hindi tinupad nang namamalayan sa pamamagitan ng ating panlabas na pagsisikap, kundi kusang-kusa at di-namamalayang tinupad ng panloob na paggawa ng Espiritu ng buhay. Ang Espiritu ng buhay ay ang Espiritu ni Kristo. Si Kristo ay kasang-ayon sa kautusan ng Diyos. Kapag tayo ay lumakad nang ayon sa Espiritung ito, itong Espiritu na nasa loob natin, ang lahat ng matuwid na kahilingan ng kautusan ay kusang-kusang matutupad sa pamamagitan natin."
+        },
+        {
+            "id": "4-2",
+            "text": "Sa orihinal na teksto ay tumutukoy sa mga pangkalahatang gawain ng ating pang-araw-araw na pamumuhay. Tingnan ang tala 16-1 sa Galacia 5. Ang kautusan ng Espiritu ng buhay ay nainstala o naikabit na sa loob natin. Ang mga kahilingang kailangan nating tuparin upang gumawa ang kautusan ng Espiritu ng buhay ay: 1) lumakad ayon sa espiritu (b. 4); 2) isipin ang mga bagay ng Espiritu—maglagak ng kaisipan sa espiritu (bb. 5-6); 3) ilagay sa kamatayan, sa pamamagitan ng Espiritu, ang mga gawa ng katawan (b. 13); 4) magpapatnubay sa Espiritu bilang mga anak ng Diyos (b. 14); 5) sumigaw sa Ama sa espiritu ng pagka-anak (b. 15); 6) sumaksi na tayo ang mga anak ng Diyos (b. 16); at 7) humibik para sa ganap na pagka-anak, ang katubusan ng ating katawan (b. 23)."
+        },
+        {
+            "id": "4-3",
+            "text": "Mahirap mapagkilala kung ang salitang “espiritu” ay tumutukoy sa ating espiritu o sa Espiritu Santo na gaya ng ginamit sa kapitulong ito, at sa Galacia 5, at sa ibang dako sa Bagong Tipan, maliban na lamang kung malinaw na tinukoy katulad ng nasa mga bersikulo 9 at 16. Ayon sa paggamit sa Bagong Tipan, ang espiritung ginamit sa bersikulong ito ay tumutukoy sa ating naisilang na muling espiritu na nagtataglay, pinananahanan, at hinahaluan ng Espiritu na siyang sukdulang kaganapan ng Tresunong Diyos (cf. b. 16). Ito ay tumutugma sa 1 Cor. 6:17, “Ang nakaugpong sa Panginoon (na siyang Espiritu——2 Cor. 3:17; 1 Cor. 15:45) ay kaisang espiritu Niya”—isang pinaghalong espiritu."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang mga bagay ng laman, kasali ang lahat ng mga bagay na nasa loob ng kinasasaklawan ng laman, maging ito man ay masama o mabuti."
+        },
+        {
+            "id": "5-2",
+            "text": "Hindi lamang mabuhay at lumakad ayon sa espiritu, bagkus maging ang ating buong katauhan ay nararapat na maging ayon sa espiritu. Kapag ang buong katauhan ay ayon sa espiritu, ang pamumuhay at paglakad ay magiging ayon sa espiritu. Sa espiritung ito, ang nananahang kautusan ng Espiritu ng buhay, na siyang dumaan sa maraming hakbanging Tres-unong Diyos Mismo, ay kikilos nang kusang-kusa sa atin, pinalalaya tayo, pinakakawalan tayo mula sa kautusan ng kasalanan at kamatayan."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang mga bagay ng Espiritu ay ang mga bagay hinggil kay Kristo, na tinatanggap ng Espiritu at idinedeklara sa atin (Juan 16:14-15). Sa pamamagitan ng pag-eensayo ng ating mga sarili sa paglagak ng ating kaisipan sa mga bagay na ito, ang ating buong katauhan sa katapus-tapusan ay magiging ayon sa Espiritu."
+        },
+        {
+            "id": "6-1",
+            "text": "Lit. kaisipan ng laman. Ang binibigyang-diin sa mga bersikulo 6-8 ay ang kaisipan. Ang kaisipan ang pangunahing bahagi ng kaluluwa, na siyang personalidad at persona ng tao. Kaya nga, ang kaisipan ay kumakatawan sa kaluluwa—sa tao mismo. Sa kapitulong ito, ang kaisipan ay niyutral; ito ay nasa gitna ng espiritu at ng laman. Ang espiritu ay ang naisilang na muli at pinaghalong espiritu (ang espiritu at Espiritu), at ang laman ay ang natisod na katawan. Ang mga kapitulo 7 at 8 ay tumutukoy na ang kaisipan ay may dalawang magkaibang paggawa, maaaring gawin tayong nasa espiritu o nasa laman. Kung ang kaisipan ay nakadepende at nakarugtong sa naisilang na muling espiritu na nakahalo sa Espiritu ng Diyos, ito ay magdadala sa atin tungo sa loob ng espiritung ito upang tamasahin ang Espiritu ng Diyos bilang ang kautusan ng Espiritu ng buhay (b. 2). Kung ang kaisipan ay nakarugtong sa laman at kumikilos nang nagsasarili, ito ay magdadala sa atin tungo sa loob ng laman, sinasanhi tayo na makipag-alit sa Diyos, at hindi makapagbigay-lugod sa Diyos (bb. 7-8)."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang buhay at ang kapayapaan ay ang mga kinalabasan ng paglalagak ng kaisipan sa espiritu. Kung ilalagak natin ang ating kaisipan sa espiritu, ang ating panlabas na paglakad ay magiging kaisa ng ating panloob na tao, sa gayon ay wala tayong magiging pakikipagsalungat sa Diyos. Tayo ay magkakaroon ng kapayapaan sa Diyos, at hindi nakikipag-alit sa Kanya (b. 7). Makadarama tayo ng kapayapaan sa ating loob. Kapag ang ating kaisipan ay inilagak natin sa laman at sa mga bagay ng laman, ang magiging bunga ay kamatayan, sasanhiin nitong madama natin na tayo ay malayo sa pagtatamasa sa Diyos. Tayo ay walang kapayapaan at walang nadaramang kasiglahan, sa halip ay walang kapayapaan at nakadarama ng kamatayan. Kapag naiisip natin ang laman at inilalagak ang ating kaisipan sa laman, ang pagkadama ng kamatayan ay nararapat na maging isang babala sa atin, hinihikayat tayong maligtas sa laman at mamuhay sa espiritu."
+        },
+        {
+            "id": "6-3",
+            "text": "Lit. kaisipan ng espiritu. Ito ay kapareho ng “nangagsisipag-isip ng mga bagay ng Espiritu” sa bersikulo 5. Ang bersikulong ito kasama ang mga bersikulo 7-13 ay tumutukoy na si Kristo ang buhay ng Diyos sa Kanyang dibinong Espiritu (b. 2) at ang buhay rin ng Diyos na nananahan sa Kanyang bayan. Sapagka’t ang Espiritu ng buhay ay naging ang nananahang buhay sa atin, ang dalawang aspektong ito ay pawang si Kristo."
+        },
+        {
+            "id": "8-1",
+            "text": "Binibigyang-diin ng mga bersikulo 8-9 ang “nangasa”, tumutukoy na ang kondisyon at karanasan ay higit na binigyang-diin kaysa pinagmulan at posisyon."
+        },
+        {
+            "id": "8-2",
+            "text": "Kung iisipin natin ang mga bagay ng laman o kung tayo ay maglalagak ng ating kaisipan sa laman, tayo ay magiging isang taong nasa laman."
+        },
+        {
+            "id": "9-1",
+            "text": "Ipinahahayag sa atin ng kapitulong ito kung paanong ang Tres-unong Diyos, ang Ama (b. 15), ang Anak (bb. 3, 29, 32), at ang Espiritu (bb. 9, 11, 13-14, 16, 23, 26), ay namamahagi ng Kanyang Sarili bilang buhay sa ating tatlong bahagi: ang espiritu, kaluluwa, at katawan (bb. 2, 6, 10, 11) upang gawin tayong mga anak (bb. 14, 15, 19, 23, 29, 17) nang sa gayon ay mabuo ang Katawan ni Kristo (12:4-5)."
+        },
+        {
+            "id": "9-2",
+            "text": "Nangangahulugang gumagawa ng tahanan, naninirahan (cf. Efe. 3:17). Kung hahayaan natin ang Espiritu ng Tres-unong Diyos na gumawa ng Kanyang tahanan sa atin, na may sapat na lugar upang tirahan, sa ating karanasan ay hindi tayo magiging nasa laman, bagkus ay nasa espiritu. Sa gayon, ang Kanyang Espiritu ay lalaganap mula sa ating espiritu (b. 10) tungo sa ating kaluluwa, na kinakatawan ng ating kaisipan (b. 6); sa katapus-tapusan ay bibigyan nito ng buhay ang ating katawang may kamatayan (b. 11)."
+        },
+        {
+            "id": "9-3",
+            "text": "Ipinaliliwanag nito na dahil sa Kanyang Espiritu, tayo ay nabibilang kay Kristo. Kung walang Kristong Espiritu, at kung si Kristo ay hindi ang Espiritu, tayo ay hindi maiuugpong sa Kanya. Siya ang Espiritung ito (2 Cor. 3:17), at nasa ating espiritu (2 Tim. 4:22), at nagiging kaisang espiritu natin (1 Cor. 6:17)."
+        },
+        {
+            "id": "9-4",
+            "text": "Ang Espiritu ng Diyos at ang Espiritu ni Kristo ay hindi dalawang Espiritu kundi iisang Espiritu. Palit-palitang ginamit ni Pablo ang dalawang titulong ito upang tukuyin na ang nananahang Espiritu ng buhay sa bersikulo 2 ay ang nagpapaloob ng lahat, nagbibigay-buhay na Espiritu ng buong Tres-unong Diyos. Dito ay binanggit ang Diyos, ang Espiritu, at si Kristo, ang tatlong Persona ng pamunuang Diyos. Subali’t ang mga ito ay hindi tatlo, kundi isa na siyang tres-unong Espiritu ng Tres-unong Diyos (Juan 4:24; 2 Cor. 3:17; Roma 8:11). Ang titulong “Espiritu ng Diyos” ay nagpapahiwatig na ang Espiritung ito ay pag-aari ng Isa na umiral sa nagdaang kawalang-hanggan, lumikha sa sansinukob, at Siyang pinagmumulan ng lahat ng mga bagay. Ang titulong “Espiritu ni Kristo” ay nagpapahiwatig na ang Espiritung ito ay ang nadaramang-pahayag-ng-pinakadiwa at ng realidad ni Kristo, ang Isa na naging laman. Lahat ng kinakailangan upang maisakatuparan ang plano ng Diyos ay tinupad ng Kristong ito. Kanyang ipinapaloob hindi lamang ang pagka-Diyos na umiral sa nagdaang kawalang-hanggan, bagkus maging ang pagka-tao ng naging laman na Isa, gayundin ang Kanyang pantaong pamumuhay, pagkapako sa krus, pagkabuhay na muli, at pag-akyat salangit. Ito ang Espiritu ni Kristo sa pagkabuhay na muli, si Kristo Mismo na nabubuhay sa atin (b. 10), ipinamamahagi ang Kanyang Sarili, ang nadaramang-pahayag-ng-pinakadiwa ng dumaan sa maraming hakbanging Tres-unong Diyos, tungo sa loob natin upang maging ating nabuhay na muling buhay at kapangyarihan, sa gayon ay matuos ang kamatayan sa ating pantaong kalikasan (b. 2). Kaya nga, ngayon ay maaari na tayong mabuhay sa loob ng pagkabuhay na muli ni Kristo, yaon ay, ang mabuhay sa loob ni Kristo Mismo, sa pamamagitan ng pamumuhay sa loob ng ating espiritung hinaluan ng Espiritu."
+        },
+        {
+            "id": "9-5",
+            "text": "Ito ay hindi tumutukoy sa pabagu-bagong kondisyon at karanasan, kundi sa di-nagbabagong pinagmumulan at posisyon. Ayon sa pinagmumulan ng bagong buhay, tayo ay may Espiritu ni Kristo, kaya nga tayo ay pag-aari ni Kristo. Subali’t sa ating pangkasalukuyang karanasan at espirituwal na kondisyon, tayo ay hindi lamang kailangang maging pag-aari Niya, bagkus ay kailangan din nating maging nasa loob Niya."
+        },
+        {
+            "id": "10-1",
+            "text": "Hindi na binanggit ng bersikulong ito ang Espiritu, sapagka’t dito ay binibigyang-diin na si Kristo ngayon ay ang Espiritu, at yaong ang Espiritu ni Kristo ay ang Kristong nasa loob natin. Ayon sa katunayan, Siya ay si Kristo, subali’t ayon sa karanasan, Siya ay ang Espiritu. Upang maranasan natin Siya, Siya ay ang Espiritu; at upang sambahin natin Siya, tawagin Siya, banggitin Siya, Siya ay si Kristo. Tinanggap natin Siya bilang ating Tagapagligtas at Manunubos. Subali’t nang Siya ay pumasok sa ating loob, Siya ay ang Espiritu. Bilang ang Manunubos, Siya ay tinatawag na Kristo; at bilang ang nananahanang Isa, Siya ay tinatawag na Espiritu. Hindi dalawa ang nananahanan sa atin, kundi iisa na may dalawang aspekto."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang sentrong kaisipan sa buong aklat ng Roma ay “si Kristo ay nasa loob ninyo.” Sa kapitulo tatlo, Kanyang idinaloy ang Kanyang dugo sa krus upang tayo ay tubusin; sa kapitulo apat, Siya ay nasa pagkabuhay na muli; sa kapitulo anim, tayo ay nasa loob Niya; at ngayon sa kapitulo walo, Siya ang Espiritung nasa loob natin."
+        },
+        {
+            "id": "10-3",
+            "text": "Bago tayo naligtas, ang espiritung nasa atin ay patay, samantalang ang ating panlabas na katawan ay buháy. Ngayong si Kristo ay nasa loob na natin, bagama’t ang ating panlabas na katawan ay patay dahil sa kasalanan, ang ating espiritu ay buhay dahil sa katuwiran. Si Kristo ay pumapasok sa loob natin bilang buhay, inihahantad ang patay na kondisyon ng ating katawan. Sa loob ng ating espiritu ay naroroon ang Espiritu ni Kristo bilang katuwiran na nagreresulta sa buhay; sa loob ng ating laman ay naroroon si Satanas bilang kasalanan na nagreresulta sa kamatayan."
+        },
+        {
+            "id": "10-4",
+            "text": "Dahil sa pagkatisod ng tao, ang kasalanan kasama ang kamatayan ay pumasok sa katawan ng tao, ginagawa itong patay at inutil sa mga bagay ng Diyos. Bagama’t hinatulan na ng Diyos ang kasalanan sa laman (b. 3), ang kasalanang ito ay hindi pa nabunot mula sa natisod na katawan. Kaya nga ang ating katawan ay patay pa rin."
+        },
+        {
+            "id": "10-5",
+            "text": "Tumutukoy sa naisilang na muling espiritu ng tao na laban sa natisod na katawan ng tao. Ang espiritung ito ay hindi ang Espiritu ng Diyos, sapagka’t ang binabanggit dito ay ang tungkol sa espiritu na buhay, na nagdadala ng isang kahilingan na si Kristo ay kinakailangang nasa loob natin. Dahil ang Espiritu ng Diyos ay buhay, hindi nito kailangan ang anumang kahilingan. Kaya nga, ang espiritu na siyang buhay dahil sa katuwiran ay maaari lamang tumukoy sa espiritu ng tao, at hindi sa Espiritu ng Diyos."
+        },
+        {
+            "id": "10-6",
+            "text": "Ang ating espiritu ay hindi lamang naisilang na muli, binigyang-buhay, bagkus naging buhay pa. Nang tayo ay sumampalataya kay Kristo, ang Kanyang dibinong Espiritu ng buhay ay pumasok sa ating espiritu at humalo sa ating espiritu, ginagawang isang espiritu ang dalawang espiritu (1 Cor. 6:17). Kaya nga, ang ating espiritu ay hindi lamang buháy, bagkus ay buhay rin."
+        },
+        {
+            "id": "10-7",
+            "text": "Sa pag-aaring-matuwid ng Diyos, tayo ay tumanggap ng katuwirang Kanyang ibinigay sa atin na siyang Tres-unong Diyos na pumasok sa ating espiritu. Ang katuwirang ito ay nagdadala ng buhay (5:18, 21); sa gayon ang ating espiritu ay nagiging buhay."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang obhektibong katotohanan tungkol sa pagiging patay at muling nabuhay sa loob ni Kristo katulad ng inihayag sa kapitulo anim ay maaari lamang maging subhektibong karanasan natin sa loob ng nananahang Espiritu sa kapitulong ito."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang bersikulong ito ay may: (1) buong Tres-unong Diyos—”Niyaong nagbangon kay Hesus mula sa mga patay”, si “Kristo-Hesus”, at ang “Kanyang Espiritung nananahanan sa inyo” (2) hakbanging kinakailangan ng Kanyang pamamahagi – ipinahihiwatig ng mga terminolohiyang “Hesus” (may diin sa pagiging laman), “Kristo” (may diin sa Kanyang kamatayan sa krus at pagkabuhay na muli), at “pagkabuhay na-muli;” (3) pamamahagi ng Kanyang Sarili tungo sa loob ng mga mananampalataya—tinukoy ng “magbibigay-buhay naman sa inyong katawang may kamatayan.” Ito ay nagpapakita na ang pamamahagi ay hindi lamang nagaganap sa ating sentrong bahagi (ang espiritu) bagkus ay lumalaganap din hanggang sa maabot nito ang ating buong katauhan."
+        },
+        {
+            "id": "11-3",
+            "text": "Tingnan ang tala 9-2."
+        },
+        {
+            "id": "11-4",
+            "text": "O, bubuhay sa inyong katawang may kamatayan. Ito ay hindi tumutukoy sa dibinong pagpapagaling kundi sa bunga ng ating pagpapaubaya sa Espiritu ng Diyos na gumawa ng Kanyang tahanan sa loob natin at mapuspusan tayo ng Kanyang buhay. Kaya Siya ay nagbibigay ng Kanyang buhay sa ating mga katawang may kamatayan at katawang unti-unting namamatay. Hindi lamang nito pinagagaling ang ating katawan, bagkus ay pinasisigla rin ang ating mga katawan, upang matupad ang layunin ng Diyos."
+        },
+        {
+            "id": "12-1",
+            "text": "Pagkatapos nating maligtas, posible pa rin para sa atin na maglagak ng ating kaisipan sa laman at mabuhay ayon sa laman. Subali’t kung tayo ay nasa espiritu at lumalakad sa pamamagitan ng espiritu, tayo ay napalalaya sa laman at hindi na mga may utang sa laman."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang “mangamamatay”, “inilalagay…sa kamatayan”, at “mangabubuhay” sa bersikulong ito ay pawang pang-espirituwal, hindi ukol sa pisikal na katawan."
+        },
+        {
+            "id": "13-2",
+            "text": "Kailangan nating ilagay sa kamatayan ang mga gawa ng katawan, subali’t kailangang isagawa ito nang dumedepende sa Espiritu. Sa isang banda, kinakailangang tayo ang kusang maglagay ng mga gawa ng katawan sa kamatayan sapagka’t ito ay hindi gagawin ng Espiritu para sa atin. Sa kabilang banda, hindi natin kayang tuusin ang ating katawan sa pamamagitan ng ating mga sariling pagsisikap nang hindi dumedepende sa kapangyarihan ng Espiritu Santo. Ang paglalagay sa katamayan dito sa katunayan ay ang ating pakikipagtulungan sa Espiritung nananahan sa ating loob. Sa panloob ay kailangan nating hayaan ang Espiritu na gumawa ng Kanyang tahanan sa atin, upang magbigay ng buhay sa ating katawang may kamatayan (b. 11). Sa panlabas, kailangan nating ilagay sa kamatayan ang mga gawa ng katawan upang tayo ay mabuhay. Kapag kusa nating inilagay ang mga gawa ng katawan sa kamatayan, ang Espiritu ay maglalapat ng bisa ng kamatayan ni Kristo sa ating mga gawa, ilalagay sa kamatayan ang mga gawang ito."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang kailangan nating ilagay sa kamatayan ay hindi ang katawan mismo, kundi ang mga gawa ng katawan. Ang katawan ay kailangang matubos (b. 23), subali’t ang mga gawa ng katawan ay kailangang mailagay sa kamatayan. Ang mga gawang ito ay hindi lamang tumutukoy sa mga bagay na may kaugnayan sa kasalanan, bagkus ito ay tumutukoy rin sa lahat ng bagay na ginagawa ng ating katawan sa labas ng Espiritu."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang pagpatnubay ng Espiritu ay hindi panlabas kundi panloob, binubuo ng kautusan ng Espiritu ng buhay (b. 2), ng Espiritu (bb. 9-13), at ng buhay (bb. 6-11). Sinasabi ng bersikulong ito na tayo ay nagpapapatnubay sa Espiritu, hindi ang Espiritu ang nagpapatnubay sa atin. Ito ay nagpapakita na bagama’t ang Espiritu ay handa upang tayo ay patnubayan, kinakailangang magkusa tayo na tumanggap ng Kanyang pagpatnubay. Ang ibig sabihin nito ay dapat natin Siyang tanggapin bilang ating buhay at lahat, at kailangang ilagay sa kamatayan ang lumang paglikha sa ating katawan. Hindi natin dapat hanapin ang gayong pagpatnubay sapagka’t ito ay nasa atin na, yaon ay, nasa ating naisilang na muling espiritu. Tayo ay kailangan lamang mamuhay sa ilalim ng ganitong pagpatnubay, nang sa gayon ang ating pang-araw-araw na pamumuhay at ang ating mga gawa at mga pagkilos ay magpapatotoo na tayo ay mga anak na lalake ng Diyos."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang pagpatnubay rito ay hindi lamang isang gawa ng Espiritu, sa halip, ito ay ang Tres-unong Diyos Mismo sa ating espiritu na nagiging patnubay. Kung tatalima tayo sa Kanya bilang ang Personang nasa atin, natural lamang na tayo ay magpapapatnubay sa Kanya."
+        },
+        {
+            "id": "14-3",
+            "text": "Ang sentrong kaisipan ng aklat ng Roma ay yaong ginagawang mga anak na lalake ng Diyos ng kaligtasan ng Diyos ang mga makasalanan sa pamamagitan ng buhay at kalikasan ng Diyos nang sa gayon ay maihayag ang Diyos; ginagawa silang mga sangkap ng Katawan ni Kristo, upang bumuo ng Katawan ni Kristo bilang Kanyang kahayagan. Kaya sa kapitulong ito ay binibigyan ng pansin ang pagka-anak (bb. 15, 23). Ang mga anak na lalake rito ay higit na maunlad sa yugto ng paglago sa buhay ng Diyos kaysa sa mga anak na binanggit sa b. 16, subali’t nahuhuli pa rin sa mga tagapagmana sa bersikulo 17. Ang mga anak ay ang pasimulang yugto ng pagka-anak; ito ang yugto ng pagkasilang na muli nila sa espiritu. Ang mga anak na lalake ay ang mga anak ng Diyos na nasa yugto ng transpormasyon sa kanilang kaluluwa; sila ay hindi lamang naisilang na muli sa kanilang espiritu, bagkus lumago na rin sa buhay ng Diyos, at nagpapatnubay sa Espiritu. Ang mga tagapagmana ay ang mga anak na lalake ng Diyos na nasa yugto ng pagluluwalhati. Kaya sa pagbabagong-anyo ng katawan, bawa’t bahagi ng kanilang katauhan ay lubos na gumulang. Kaya nga, sila ay kwalipikado nang maging mga legal na tagapagmana upang tanggapin ang dibinong mana (bb. 17, 23)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ito ay tumutukoy sa ating naisilang na muling pantaong espiritu na hinaluan ng Espiritu ng Anak ng Diyos (tingnan ang tala 61 sa Gal. 4). Ang pagka-anak sa Espiritung ito ay nagpapaloob ng buhay, posisyon, pamumuhay, pagtatamasa, pagkapanganay, mana, at pagpapakita ng Anak. Ang isang gayong nagpapaloob ng lahat na pagka-anak ay nasa ating espiritu ngayon."
+        },
+        {
+            "id": "15-2",
+            "text": "Sa Aramaiko, ito ay nangangahulugang Ama. Pagkatapos nating maisilang na muli, hindi lamang tayo mga nilikha ng Diyos, bagkus mga anak din ng Diyos. Tayo ay mga isinilang na ng Diyos, nagtataglay ng pambuhay na relasyon sa Kanya, kaya nga ang tawagin natin Siyang Ama, ay talagang wasto at matamis. (Tingnan ang tala 64 sa Gal. 4.)"
+        },
+        {
+            "id": "16-1",
+            "text": "Hindi lamang sumasaksi ang Espiritu, bagkus maging ang ating espiritu ay sumasaksi rin; ito ang Espiritung sumasaksi kasama ang ating espiritu. Ito ay tumutukoy na dapat manguna ang ating espiritu sa pagsaksi nang sa gayon ang Espiritu ay sasaksi kasama ang ating espiritu."
+        },
+        {
+            "id": "16-2",
+            "text": "Ito ay nagpapahayag na ngayon, ang Espiritu ng Diyos, ang Espiitu ng nagpapaloob ng lahat na Tres-unong Diyos, ay nananahan sa ating naisilang na muling espiritu, at kumikilos sa loob ng espiritung ito. Ang dalawang espiritung ito ay nagiging isang espiritu, nabubuhay at gumagawang magkasama; ito ay isang pinaghalong espiritu (1 Cor. 6:17). Tingnan ang Juan 3:6; 4:24 kasama ang mga tala."
+        },
+        {
+            "id": "16-3",
+            "text": "Ito ang patotoo ng Espiritu sa ating pagtawag ng “Abba Ama”, na nagpapatotoo at gumagarantiya na tayo ay mga anak ng Diyos, na tayo ay nagtataglay ng buhay ng Diyos, at kinokontrol upang makalakad tayo nang ayon sa buhay na ito, naaalinsunod sa katayuan ng mga anak ng Diyos. Ang Espiritu ay sumasaksi na tayo ay mga anak ng Diyos. Ito ang una at pasimulang kaugnayan natin sa Diyos. Hindi sumasaksi ang Espiritu na tayo ay mga anak na lalake ng Diyos ni mga tagapagmana ng Diyos. Kaya nga ang patotoo ng Espiritu ay nagsisimula sa ating espirituwal na kapanganakan, sa ating pagkasilang na muli."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay tumutukoy na ang maging mga tagapagmana ay may kundisyon. Ang ating pagiging mga anak ng Diyos ay hindi nangangahulugan na tayo ay mga tagapagmana na. Pagkatapos nating maisilang bilang mga anak, kinakailangan nating lumago sa buhay upang maging mga anak na lalake; at kailangan pang magtiis upang tayo ay maluwalhati at maging mga legal na tagapagmana."
+        },
+        {
+            "id": "17-2",
+            "text": "*Gr. sumpaschö, nangangahulugang ang makaranas na masaktan nang magkasama o ang makaranas ng parehong uri ng pagdurusa (tinutukoy ang dusang dulot ng pag-uusig). Naiiba sa b. 18 at b. 25."
+        },
+        {
+            "id": "18-1",
+            "text": "*Gr. pathëma, tumutukoy sa kahirapan o sakit na dinanas."
+        },
+        {
+            "id": "19-1",
+            "text": "Nangangahulugang paghahantad o pagpapakita ng mga bagay na natatakpan o nakakubli noong una. Bagama’t tayo ay mga anak na lalake ng Diyos, tayo ay natatakpan, hindi pa naihahayag. Subali’t sa pagbabalik ng ating Panginoon, tayo ay maluluwalhati, at ang ating katawan ay ganap na matutubos; sa panahong yaon, ang lambong ay maaalis. Lahat ng nilikha ay sabik na naghihintay rito. Ang gayong pagpapakita ay ang katuparan ng hakbangin ng pagtatalaga na dinaranas natin sa ngayon. (Tingnan ang tala 4-1 sa kap. 1)"
+        },
+        {
+            "id": "21-1",
+            "text": "Sa kasalukuyan ang buong sangnilikha ay nasa ilalim ng pagka-alipin ng kautusan ng kabulukan. Ang tangi nilang pag-asa ay ang pagpapakita ng mga anak na lalake ng Diyos upang sila ay mapalaya mula sa pagka-alipin ng kabulukan nang sa gayon ay matamasa ang kalayaan ng kaluwalhatian ng mga anak ng Diyos."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang unang bunga ng Espiritu ay ang Espiritu bilang ang unang bunga. Ang Tres-unong Diyos ay ang ating katamasahan. Siya ang ating lahat. Kapag ang ating katawan ay natubos, tayo ay mag-aani ng mga pagpapala, yaon ay, ang ating ganap na pagtatamasa sa Diyos. Sa ngayon, ang Espiritu sa atin ay ang unang bunga ng aning ito, ang ating paunang-tikim ng ating ganap na katamasahan sa Diyos."
+        },
+        {
+            "id": "23-2",
+            "text": "Bagama’t tayo ay may dibinong Espiritu bilang ang unang bunga sa ating espiritu, ang ating katawan, gayunpaman, ay hindi pa napuspusan ng buhay ng Diyos. Ang ating katawan ay ang laman pa rin, nakaugnay sa lumang paglikha, at katawan pa rin ng kasalanan at ng kamatayan, inutil sa mga bagay ng Diyos. Kaya nga, tayo ay humihibik kasama ang ibang nilalang (bb. 19, 22), sabik na naghihintay para sa maluwalhating araw na yaon kung kailan ay tatanggapin natin ang ganap na pagka-anak, yaon ay, ang katubusan at pagbabagong-anyo ng katawan, upang tayo ay mapalaya sa pagka-alipin ng kabulukan."
+        },
+        {
+            "id": "23-3",
+            "text": "Ang pagka-anak na ito ay nagsisimula sa pagkasilang na muli ng ating espiritu, nagpapatuloy sa buong panahon ng tranpormasyon ng ating kaluluwa, at nagtatapos sa katubusan ng ating katawan."
+        },
+        {
+            "id": "25-1",
+            "text": "*Gr. hupomonë, pagbabata na may galak o may pag-asa."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang salitang ito ay tumutukoy na tiyak na mayroon pang ibang pagtulong ang Espiritu bago ang pagtulong ng Espiritung binanggit sa bersikulong ito. Ito mangyari pa ay tumutukoy sa pagtulong na ibinigay sa atin ng Espiritu bilang ang unang bungang binanggit sa bersikulo 23, bilang tulong sa atin. Ginamit ng bersikulo 23 ang “nagsisihibik”, at ng bersikulong ito ang “nang may mga hibik”, upang pagtibayin na may pagtulong nga ang Espiritu bago pa dumating sa bersikulong ito."
+        },
+        {
+            "id": "26-2",
+            "text": "Ito ay tumutukoy na hindi tayo marunong kung paano manalangin. Hindi natin alam kung anong panalangin ang ninanais ng Diyos, at hindi tayo malinaw kung paano dumaing nang ayon sa kabigatang nasa ating pandama upang maiwangis sa larawan ng Anak ng Diyos, sa gayon tayo ay nagsisihibik (b. 23). Sa ating paghibik, ang Espiritu ay humihibik din, at namamagitan para sa atin. Siya ay namamagitan lalung-lalo na upang tayo ay matransporma sa buhay, nang sa gayon ay lumago tayo hanggang sa paggulang ng pagka-anak, at lubusang maiwangis sa larawan ng Anak ng Diyos."
+        },
+        {
+            "id": "27-1",
+            "text": "Lit. pag-iisip. Ito ay hindi ang nagsasariling kaisipan ng Espiritu, kundi ang paghahalo ng kaisipan ng Espiritu at ng ating kaisipan (b. 6) upang maging isang bahagi ng ating puso. Hindi lamang Niya inihahalo ang Kanyang Sarili sa ating espiritu, bagkus inihahalo rin ang Kanyang kaisipan sa ating kaisipan."
+        },
+        {
+            "id": "27-2",
+            "text": "Ang namamagitang Espiritu ay namamagitan para sa atin, hindi ayon sa kung anumang bagay na ukol sa Diyos, kundi ayon sa Diyos Mismo, upang tayo ay maiwangis sa larawan ng Kanyang Anak."
+        },
+        {
+            "id": "28-1",
+            "text": "Kabilang dito ang lahat ng tao, lahat ng pangyayari, at lahat ng bagay."
+        },
+        {
+            "id": "28-2",
+            "text": "Sinasagot ng Diyos Ama ang pamamagitan ng Espiritu para sa ating kapakanan. Kanyang isinasaayos ang ating kapaligiran at sinasanhi ang lahat ng bagay na gumawa nang sama-sama para sa ating ikabubuti."
+        },
+        {
+            "id": "28-3",
+            "text": "Ang “ikabubuti” rito, ayon sa ibig sabihin ng nilalaman, ay hindi tumutukoy sa mga materyal na bagay, mga pangyayari, sa halip, ito ay tumutukoy sa pagkakaroon ng higit pang Kristo upang mailalin sa loob natin upang tayo ay magkaroon ng metabolikong transpormasyon, hanggang sa katapus-tapusan tayo ay maiwawangis sa larawan ng Anak ng Diyos (b. 29), yaon ay, madadala tayo sa loob ng ganap na pagka-anak."
+        },
+        {
+            "id": "28-4",
+            "text": "Ang pag-ibig sa Diyos ay nagsasanhi sa atin na maunawaan ang naisin ng puso ng Diyos, at maging laang makipagtulungan sa Kanya. Kailangan ng gawain ng Diyos ang ating pakikipagtulungan, at ang ating pakikipagtulungan ay nagpapatunay na tayo ay tinawag ayon sa layunin ng Diyos."
+        },
+        {
+            "id": "28-5",
+            "text": "Nagpapahiwatig na may isang layunin. Ito ay tumutukoy na sa plano ng Diyos ay may itinalagang layunin. Ang layunin ay upang ibunga ang maraming kapatid ng Kanyang Panganay na Anak."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang mga bersikulo 29-30 ay naglalarawan sa bawa’t hakbang ng gawain ng Diyos. Ang mga pandiwang ginamit sa orihinal na teksto ay pawang nasa pangnagdaang panahunan, tumutukoy na sa paningin ng Diyos ang lahat ng Kanyang gawa ay pawang naisagawa na. Ang Diyos ay walang hanggan; sa Kanya ay walang elemento ng panahon."
+        },
+        {
+            "id": "29-2",
+            "text": "Ang layunin ng pagtatalaga ng Diyos sa atin ay hindi lamang upang tayo ay pabanalin, o tayo ay gawing espirituwal at matagumpay, bagkus upang tayo ay maiwangis sa larawan ng Kanyang Anak. Ito ang ating kahihinatnan, na pinagpasiyahan ng Diyos sa nagdaang kawalang-hanggan."
+        },
+        {
+            "id": "29-3",
+            "text": "Gr. summorphoö. Gayundin sa Fil. 3:21. Ang maiwangis ay ang sukdulang resulta ng transpormasyon, na kinabibilangan ng tranpormasyon ng ating panloob na esensiya at kalikasan, at ng transpormasyon ng ating panlabas na anyo upang tayo ay maitulad sa larawang nasa kaluwalhatian ng Diyos-Taong si Kristo. Siya ang tularan, tayo ang maraming reproduksiyon. Ang kapwa panloob at panlabas na transpormasyon na napangyari sa atin, na maraming reproduksiyon ng Tularang ito, ay ang resulta ng paggawa ng kautusan ng Espiritu ng buhay (b. 2) sa loob natin."
+        },
+        {
+            "id": "29-4",
+            "text": "Mula pa nang nagdaang kawalang-hanggan, si Kristo ang bugtong na Anak ng Diyos (Juan 1:18), hanggang sa panahong Siya ay sinugo ng Diyos sa lupang ito, Siya ay ang bugtong pa ring Anak ng Diyos (1 Juan 4:9; Juan 1:14; 3:16). Nang Siya ay dumaan sa kamatayan at pumasok sa loob ng pagkabuhay na muli, itinaas Niya ang Kanyang pagka-tao tungo sa loob ng Kanyang pagka-Diyos, at sa loob ng Kanyang pagka-Diyos ay dinala Niya ang Kanyang pagka-tao na nakaranas ng kamatayan at pagkabuhay na muli upang maisilang Siya bilang Panganay na Anak ng Diyos sa loob ng pagkabuhay na muli (Gawa 13:33); sa kasabay na panahon, sa Kanyang pagkabuhay na muli, ang lahat ng Kanyang mga mananampalataya ay dinala Niya sa loob ng pagkabuhay na muli (1 Ped. 1:3), at sila ay isinilang kasama Niya bilang mga anak na lalake ng Diyos at naging Kanyang maraming kapatid na lalake upang bumuo ng Kanyang Katawan bilang sama-samang kahayagan ng Diyos sa loob Niya. Siya ang bugtong na Anak ng Diyos, taglay ang pagka-Diyos subali’t walang pagka-tao, at katulad ng Diyos, Siya ay umiiral sa sarili at palagiang umiiral. Siya ay naging Panganay na Anak ng Diyos na nagtataglay kapwa ng pagka-Diyos at pagka-tao simula nang Kanyang pagkabuhay na muli. Bilang Panganay na Anak, Siya ang batayan, ang huwaran, ang elemento, at ang kaparaanan upang maibunga ng Diyos ang Kanyang maraming anak. Ang maraming anak na ibinunga ay ang mga mananampalatayang sumampalataya tungo sa loob Niya at iniugpong sa Kanya upang makaisa Niya. Sila ay lubusang katulad Niya sa buhay at kalikasan, nagtataglay kapwa ng pagka-tao at pagka-Diyos, upang maging Kanyang paglaki at kahayagan, upang ihayag ang walang hanggang Tres-unong Diyos hanggang sa kawalang-hanggan. Ang ekklesia ngayon ay ang maliit na modelo ng kahayagang ito (Efe. 1:23), samantalang ang Bagong Herusalem sa kawalang-hanggan ay magiging ang sukdulang pagpapakita ng kahayagang ito (Apoc. 21:11). Inihahayag ng aklat na ito na ginagawa ng Diyos na maging Kanyang mga anak na lalake ang mga makasalanan para sa kahayagang ito (12:5); ito rin ay tumutukoy sa sukdulang pagpapakita ng Kanyang kahayagan (Efe. 3:19)."
+        },
+        {
+            "id": "29-5",
+            "text": "Ang pagkakilala ng Diyos noong una pa, ang pagtatalaga, at ang pagtawag ay upang ihanda at ibunga ang maraming kapatid na lalake para sa Kanyang Panganay na Anak (tingnan ang tala 17-2 sa Juan 20), upang sila, sa isang banda, ay maging mga anak na lalake ng Diyos kasama ng Kanyang Panganay, nagtataglay ng buhay at kalikasan ng Diyos para sa kahayagan ng Diyos; at yaong sa kabilang banda, sila ay maging mga sangkap ng Kanyang Panganay, at mabuong Katawan ng Kanyang Panganay bilang sama-samang kahayagan ng Diyos sa loob ng Kanyang Panganay na siyang kapuspusan ng Panganay ng Diyos, na siya ring kapuspusan ng Diyos sa loob ng Kanyang Panganay na Anak (Efe. 1:23; 3:19)."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang pag-aaring-matuwid ay ang tulay na nagdadala sa mga makasalanang tinubos ni Kristo mula sa hatol ng kautusan (3:19) tungo sa pag-apruba ng Diyos (5:1-2). Sa pag-aaprubang ito, sila ay iwinawangis ng Diyos tungo sa loob ng larawan ng Kanyang Anak, hanggang sa madala Niya sila tungo sa loob ng Kanyang kaluwalhatian (Heb. 2:10)."
+        },
+        {
+            "id": "30-2",
+            "text": "Ang pagluluwalhati ay ang hakbang sa kumpletong kaligtasan ng Diyos, na ayon sa prinsipyo ng Espiritung nagsilang na muli sa atin sa ating espiritu, ay pinupuspos ng kaluwalhatian ng Kanyang buhay at kalikasan ang ating may kamatayang katawan ng kasalanan (7:24; 8:11; 6:6), tinatransporma ang katawang ito upang maiwangis sa nabuhay na muling maluwalhating katawan ng Kanyang Anak (Fil. 3:21). Ito ang sukdulang hakbang ng Kanyang kumpletong pagliligtas. Dito sa hakbang na ito Siya ay maihahayag nang lubusan hanggang sa kasukdulan sa darating na kapanahunan sa Bagong Herusalem."
+        },
+        {
+            "id": "34-1",
+            "text": "Sinasabi ng bersikulong ito na si Kristo ngayon ay nasa kanan ng Diyos, yaon ay, nasa langit. Subali’t sinasabi ng bersikulo 10 na si Kristo ngayon ay nasa loob natin, yaon ay, nasa ating espiritu (2 Tim. 4:22). Siya ang Espiritu (2 Cor. 3:17) na nasa lahat ng dako, Siya ay nasa kanan ng Diyos, at sa parehong panahon Siya ay nasa ating espiritu; Siya ay nasa langit, at sa parehong panahon Siya ay nasa lupa."
+        },
+        {
+            "id": "34-2",
+            "text": "Dito, si Kristo ay namamagitan para sa atin, subali’t sa b. 26, ang Espiritu ang namamagitan para sa atin. Hindi dalawa ang namamagitan para sa atin, kundi iisa lamang, yaon ay, ang Panginoong Espiritu (2 Cor. 3:18). Siya ay namamagitan para sa atin sa dalawang dulo, sa isang dulo, ang Espiritu ay nasa atin, marahil ay pinasisimulan ang pamamagitan para sa atin; sa kabilang dulo, si Kristong Panginoon ay nasa kanan ng Diyos, marahil ay kinukumpleto ang pamamagitan para sa atin. Ang layunin ng pamamagitang ito sa pangunahin ay ang maiwangis tayo sa Kanyang larawan at ang dalhin tayo tungo sa loob ng Kanyang kaluwalhatian."
+        },
+        {
+            "id": "37-1",
+            "text": "Dahil sa di-nagbabagong pag-ibig ng Diyos, at dahil kay Kristong nagsagawa ng lahat para sa atin, ang kapighatian at ang pag-uusig, alinman, ay hindi makasusupil ni makapananaig laban sa atin; sa halip, tayo ay higit pa sa mga nakapananagumpay sa pamamagitan Niyaong sa atin ay umibig."
+        },
+        {
+            "id": "39-1",
+            "text": "Ang pag-ibig ng Diyos ay ang pinagmumulan ng Kanyang walang hanggang pagliligtas. Ang pag-ibig na ito ay nasa loob ni Kristo, na ibinuhos sa ating puso sa pamamagitan ng Espiritu Santo (5:5), walang makapaghihiwalay sa atin sa pag-ibig na ito ng Diyos (bb. 38-39). Ang pag-ibig na ito sa loob ng pagliligtas ng Diyos na nagiging pag-ibig ni Kristo sa atin (b. 35) ay nagsasagawa ng maraming kahanga-hangang bagay para sa atin sa pamamagitan ng biyaya ni Kristo hanggang sa maisakatuparan sa atin ang ganap na pagliligtas ng Diyos. Ang napakaraming kagila-gilalas na bagay na ito ang nagmumungkahi sa kaaway ng Diyos na tuligsain tayo sa pamamagitan ng iba’t ibang uri ng kapighatian (bb. 35-36). Subali’t ang mga panunuligsang ito ay gumagawa sa ating ikabubuti dahil sa ating pagtugon sa pag-ibig ng Diyos na nasa loob ni Kristo (b. 28). Kaya nga, tayo ay higit pa sa mga nakapananagumpay sa lahat ng mga paghihirap at mga kapighatiang ito (b. 37). Pagdating sa huling bahagi ng kapitulo 8, natapos na sa pagsasalaysay ang aklat na ito tungkol sa unang bahagi ng pagliligtas ng Diyos sa loob ni Kristo. Sa isang banda, ang kaligtasang ito ang nagligtas sa atin tungo sa loob ng pag-apruba ng Diyos, tinatamasa natin ang pinagmumulan ng kaligtasang ito, na siyang pag-ibig ng Diyos na nasa loob ni Kristo, ang pag-ibig na hindi maihihiwalay ng sinumang tao, o ng anumang pangyayari o ng anumang bagay; sa kabilang banda, sa loob ng buhay ng Diyos, iwinawangis tayo ng Panginoong Espiritu at umaabot tayo sa sukdulang gol ng kaligtasang ito, yaon ay, ang pagpasok tungo sa loob ng banal at hindi maihahambing na kaluwalhatian, na luluwalhatiin kasama ng Diyos (bb. 18, 30)."
         }
     ]
 }

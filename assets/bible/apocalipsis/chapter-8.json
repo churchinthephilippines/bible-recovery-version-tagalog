@@ -1,5 +1,5 @@
 {
-    "chapter": 8,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "katahimikan",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,7 +21,7 @@
             "footnotes": [
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -32,31 +32,31 @@
             "footnotes": [
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "dambana,",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "gintong",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "maraming",
-                    "note": ""
+                    "id": "3-4"
                 },
                 {
                     "word": "idagdag",
-                    "note": ""
+                    "id": "3-5"
                 },
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "3-6"
                 },
                 {
                     "word": "dambanang",
-                    "note": ""
+                    "id": "3-7"
                 }
             ],
             "outlines": [
@@ -71,11 +71,11 @@
             "footnotes": [
                 {
                     "word": "usok",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "insenso,",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -86,11 +86,11 @@
             "footnotes": [
                 {
                     "word": "pinuno",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "inihagis",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -101,7 +101,7 @@
             "footnotes": [
                 {
                     "word": "magtrumpeta.",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": [
@@ -115,11 +115,11 @@
             "footnotes": [
                 {
                     "word": "ikatlong",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "ikatlong",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": [
@@ -132,7 +132,7 @@
             "footnotes": [
                 {
                     "word": "dagat",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": [
@@ -145,7 +145,7 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -164,11 +164,11 @@
             "footnotes": [
                 {
                     "word": "Ajenjo;",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "tubig,",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -179,11 +179,11 @@
             "footnotes": [
                 {
                     "word": "ikaapat",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "ikatlong",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -196,7 +196,7 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": [
@@ -205,6 +205,96 @@
                 "Si Satanas at ang Antikristo Nagsasabwatan",
                 "upang Pahirapan ang mga Tao\n 8:13-9:11"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “katahimikan sa langit” ay tumutukoy na ito ay solemneng panahon. Sa pagbubukas ng ikapitong tatak, ang buong langit ay magiging tahimik sapagka’t ang kapanahunan ay papalitan na mula sa panahon ng pagpapahinuhod ng Diyos pabaling sa panahon ng kapootan ng Diyos."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang ikapitong tatak ang nagpapasok sa “pitong trumpeta.” Ang pitong tatak ay binuksan nang palihim, samantalang ang mga trumpeta ay pinatunog nang hayagan."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 2-1 sa kapitulo 7."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang “dambana” ng handog na susunugin (cf. Exo. 27:1-8)."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang “gintong insensaryo” ay sumasagisag sa panalangin ng mga banal (5:8) na dinala ni Kristo sa Diyos bilang ang “ibang Anghel.”"
+        },
+        {
+            "id": "3-4",
+            "text": "Ang insenso ay sumasagisag kay Kristo kalakip ang lahat ng Kanyang kagalingan upang idagdag sa mga panalangin ng mga banal nang sa gayon ay maging katanggap-tanggap sa Diyos ang mga panalangin ng mga banal sa ibabaw ng gintong dambana."
+        },
+        {
+            "id": "3-5",
+            "text": "Lit. ibigay."
+        },
+        {
+            "id": "3-6",
+            "text": "Sa pagbubukas ng ikapitong tatak ay mayroon pa ring “mga banal” na magsisipanalangin sa lupa."
+        },
+        {
+            "id": "3-7",
+            "text": "Ang “dambanang ginto” ay ang dambana ng insenso (cf. Exo. 30:1-9)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang “usok ng insenso” ay tumutukoy na ang insenso ay sinusunog patungo sa harapan ng Diyos kalakip ng mga panalangin ng mga banal. Ito ay nagpapahiwatig na ang mga panalangin ng mga banal ay nagiging mabisa at katanggap-tanggap sa Diyos."
+        },
+        {
+            "id": "4-2",
+            "text": "Lit. mga insenso."
+        },
+        {
+            "id": "5-1",
+            "text": "Ito ay nagpapahiwatig ng sagot sa mga panalangin ng mga banal, lalung-lalo na sa panalangin sa ikalimang tatak na nabanggit sa 6:9-11 at sa panalangin na nabanggit sa Luc. 18:7-8. Ang panalangin ng mga banal sa kapitulong ito ay tiyak na para sa kahatulan ng lupa na sumasalungat sa ekonomiya ng Diyos. Ang sagot sa mga panalangin ng mga banal ay ang pagpapaganap ng kahatulan ng Diyos sa lupa sa pamamagitan ng mga sumusunod na pitong trumpeta."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang ihagis ang apoy sa lupa ay ang ganapin ang kahatulan ng Diyos sa lupa. Kaya, ang mga kulog, mga tinig, mga kidlat, at ang isang lindol ay dumarating bilang mga tanda ng kahatulan ng Diyos."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang pitong trumpeta ay ibinigay sa pitong anghel (b.2). Subali’t tangi lamang nang masagot na ang mga panalangin ng mga banal sa bb. 3-5, ay saka lamang nagsipaghanda ang pitong anghel “upang magtrumpeta.” Ang kalooban ng Diyos sa langit ay humihiling ng panalangin ng mga banal upang ito ay maisakatuparan sa lupa."
+        },
+        {
+            "id": "7-1",
+            "text": "Lit. ang ikatlong bahagi. Gayundin sa bb. 8-12. Ang ikatlong bahagi ng lupa ay maaaring tumutukoy sa pinakamasama at makasalanang bahagi ng lupa."
+        },
+        {
+            "id": "8-1",
+            "text": "Ipinakikita na ang dagat, na katabi ng lupa na sumasalansang sa Diyos, ay kailangan ding mawasak sa pamamagitan ng paghahatol ng Diyos."
+        },
+        {
+            "id": "9-1",
+            "text": "Lit. kaluluwa."
+        },
+        {
+            "id": "11-1",
+            "text": "Isang mapait na halaman."
+        },
+        {
+            "id": "11-2",
+            "text": "Sa ngayon, yaong mga kumakalaban sa Diyos, mga gumagawa ng masasamang gawa at sumasalansang sa Diyos, ay nagtatamasa pa sa paglalang ng Diyos. Ang tubig, na napakahalaga sa buhay ng tao sa gitna ng mga nilikhang bagay ng Diyos, ay wawasakin din, sa isang limitadong paraan, sa pamamagitan ng paghahatol ng Diyos, dahil sa masamang pagsalansang ng tao laban sa Diyos."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang unang apat na trumpeta, hindi pa ang tuwirang kahatulan sa mga tao, ay bumubuo ng isang grupong katulad ng unang apat na tatak. Ang unang trumpeta ay bumubuo ng isang kahatulan sa lupa kasama ang mga punong-kahoy at ang lahat ng mga damo, gaya ng nangyari sa Ehipto (Exo. 9:18-25); ang ikalawa, isang kahatulan sa dagat kasama ang mga nilalang na may buhay at ang mga daong; ang ikatlo, isang kahatulan sa mga ilog at sa mga bukal ng tubig, gaya ng nangyari sa Ehipto (Exo. 7: 17-21); ang ikaapat, isang kahatulan sa araw, sa buwan, at sa mga bituin, upang sila ay padilimin, gaya rin ng nangyari sa Ehipto (Exo. 10:21-23). Sa pamamagitan ng mga kahatulan ng apat na trumpetang ito, ang ikatlong bahagi ng lupa, ng dagat, ng mga ilog, at ng mga bagay sa kalangitan ay napinsala, sa gayon ay sinasanhi ang mga ito na hindi na maging angkop para sa ikabubuhay ng tao. Bago mag-ikapitong trumpeta, nagkaroon na ng isang paghahatol sa lupa at sa mga bagay ng kalangitan sa ikaanim na tatak (6:12-14). Ang hangganan ng pinsala ng kahatulang yaon ay hindi kasing-tiyak na gaya ng pinsala ng unang apat na trumpeta. Sa ikapitong trumpeta ay magkakaroon ng higit pang paghahatol sa lupa, sa dagat, sa mga ilog, at sa araw sa pamamagitan ng pitong mangkok (16:1-21). Ang mga yaon ang magiging mga pinakamatitinding kahatulan ng Diyos sa lupa at sa langit."
+        },
+        {
+            "id": "12-2",
+            "text": "O tumutukoy sa bahagi ng araw, na nalalaman ng Diyos na nagbigay liwanag sa mga masamang rehiyon (cf. Mat. 5:45), na wawasakin sa hinaharap sa pamamagitan ng paghahatol ng Diyos."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang tatlong aba ng huling tatlong trumpeta (9:12; 11:14) ay magiging ang tatlong aba ng matinding kapighatian (Mat. 24:21). Ang mga ito ay magaganap sa huling kalahati ng ikapitumpung linggo (Dan. 9:27), isang panahon na binubuo ng tatlo at kalahating taon (Dan. 7:25; 12:9; Apoc. 12:14), apatnapu’t dalawang buwan (11:2; 13:5), o labindalawang daan at animnapung araw (11:3; 12:6)."
         }
     ]
 }

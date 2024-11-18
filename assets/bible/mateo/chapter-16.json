@@ -1,5 +1,5 @@
 {
-    "chapter": 16,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "tanda",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,7 +21,7 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -32,11 +32,11 @@
             "footnotes": [
                 {
                     "word": "mukha",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "makilala",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -47,7 +47,7 @@
             "footnotes": [
                 {
                     "word": "tanda",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -58,7 +58,7 @@
             "footnotes": [
                 {
                     "word": "tinapay.",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -87,7 +87,7 @@
             "footnotes": [
                 {
                     "word": "bakol",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -98,7 +98,7 @@
             "footnotes": [
                 {
                     "word": "bakol",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -115,7 +115,7 @@
             "footnotes": [
                 {
                     "word": "pagtuturo",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -126,11 +126,11 @@
             "footnotes": [
                 {
                     "word": "Cesarea",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Tao?",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": [
@@ -148,7 +148,7 @@
             "footnotes": [
                 {
                     "word": "Sabi",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -165,15 +165,15 @@
             "footnotes": [
                 {
                     "word": "Kristo,",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -184,15 +184,15 @@
             "footnotes": [
                 {
                     "word": "Barjona,",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "Ama",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
@@ -203,27 +203,27 @@
             "footnotes": [
                 {
                     "word": "rin",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "Pedro,",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "batong",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "itatayo",
-                    "note": ""
+                    "id": "18-4"
                 },
                 {
                     "word": "Aking",
-                    "note": ""
+                    "id": "18-5"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "18-6"
                 }
             ],
             "outlines": null
@@ -234,27 +234,27 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "tinatalian",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "natalian",
-                    "note": ""
+                    "id": "19-4"
                 },
                 {
                     "word": "kinakalagan",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "nakalagan",
-                    "note": ""
+                    "id": "19-4"
                 }
             ],
             "outlines": null
@@ -265,7 +265,7 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -276,7 +276,7 @@
             "footnotes": [
                 {
                     "word": "kinakailangang",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": [
@@ -291,7 +291,7 @@
             "footnotes": [
                 {
                     "word": "hinding-",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -302,15 +302,15 @@
             "footnotes": [
                 {
                     "word": "Satanas!",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "Ikaw",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "23-3"
                 }
             ],
             "outlines": null
@@ -321,19 +321,19 @@
             "footnotes": [
                 {
                     "word": "itatwa",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "kanyang",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "krus,",
-                    "note": ""
+                    "id": "24-3"
                 },
                 {
                     "word": "sumunod",
-                    "note": ""
+                    "id": "24-4"
                 }
             ],
             "outlines": null
@@ -344,11 +344,11 @@
             "footnotes": [
                 {
                     "word": "mawawalan",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "iwinawala",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -359,7 +359,7 @@
             "footnotes": [
                 {
                     "word": "pangkaluluwang",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -370,11 +370,11 @@
             "footnotes": [
                 {
                     "word": "Sapagka’",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "gagantimpalaan",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -385,13 +385,187 @@
             "footnotes": [
                 {
                     "word": "pumaparito",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": [
                 "c. Pagbabagong-anyo sa loob ng Maliit na Modelo ng Kaharian",
                 "16:28-17:13"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 38-1 sa kapitulo 12. Gayundin sa mga sumusunod na bersikulo."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang mga sumusunod na salita, hanggang sa katapusan ng bersikulo 3, ay hindi isinama ng ibang mga may awtoridad."
+        },
+        {
+            "id": "3-1",
+            "text": "Yaon ay, anyo."
+        },
+        {
+            "id": "3-2",
+            "text": "Tingnan ang tala 56-4 sa kapitulo 12 ng Lucas."
+        },
+        {
+            "id": "4-1",
+            "text": "Si Jonas ay isang propetang bumaling mula sa Israel tungo sa mga Hentil at nailagay sa tiyan ng malaking isda. Matapos manatili roon ng tatlong araw, siya ay lumitaw upang maging isang tanda sa henerasyong yaon para sa pagsisisi (Jon. 1:2, 17; 3:2-10). Siya ay isang sagisag ni Kristo bilang ang Propetang isinugo ng Diyos sa Kanyang mga tao (Deut. 18:15, 18), ay babaling mula sa Israel tungo sa mga Hentil, at Siyang malilibing sa pusod ng lupa ng tatlong araw at pagkatapos ay mabubuhay na muli, nagiging isang tanda sa henerasyong ito para sa kaligtasan. Ang salita ng Panginoon dito ay nagpapahiwatig na sa mga masama at mapangalunya, maka-Hudyo at relihiyosong henerasyong yaon, ang Panginoon ay walang ibang gagawin kundi mamatay at mabuhay na muli bilang isang tanda, ang pinakamalaking tanda sa kanila, upang sila ay mailigtas kung sila ay sasampalataya."
+        },
+        {
+            "id": "5-1",
+            "text": "Mula sa 15:1 hanggang 16:12, ang talaan ni Mateo ay lubhang may kaugnayan sa bagay ng pagkain. Ang pagkain ng maruruming bagay ay maaaring makapagparumi sa atin (15:1-20). Ang pagkain ay siyang paraan upang makibahagi kay Kristo (15:21-28), at sa pamamagitan ng pagkain, tayo ay nakatatamasa sa walang limitasyon at hindi nauubos na mayamang panustos ni Kristo (15:32-39); nguni’t dapat tayong mabalaan sa pagkain ng anumang lebadura (bb. 5-12)."
+        },
+        {
+            "id": "9-1",
+            "text": "Isang basket para sa paglalakbay."
+        },
+        {
+            "id": "10-1",
+            "text": "Higit na malaki kaysa basket sa bersikulo 9."
+        },
+        {
+            "id": "12-1",
+            "text": "Tumutukoy sa mga bagay na tinuturo. Ang pagtuturo ng mga Fariseo ay mapagkunwari (23:13, 15, 23, 25, 27, 29), at ang pagtuturo ng mga Saduceo ay tulad sa mga makabago sa ngayon, itinatatwa ang pagkabuhay na muli, ang mga anghel, at mga espiritu (Gawa 23:8). Kaya, ang mga pagtuturo ng kapwa mga Fariseo at mga Saduceo ay hindi wagas at masama, at itinulad sa lebadura. Ang lebadura ay hindi dapat matagpuan sa gitna ng mga tao ng Diyos (Exo. 13:7)."
+        },
+        {
+            "id": "13-1",
+            "text": "Sa hilagang bahagi ng Banal na Lupa, malapit sa hanggahan, sa paanan ng Bundok Hermon, kung saan nagbagong-anyo ang Panginoon (17:1-2). Ito ay malayo mula sa banal na lunsod na may banal na templo, kung saan ang hangin ng lumang maka-Hudyong relihiyon ay pumupuno sa kaisipan ng bawa’t tao, walang iniwang puwang para kay Kristo, ang bagong Hari. Sadyang dinala ng Panginoon ang Kanyang mga disipulo sa isang ganitong lugar na may malinaw na atmospero, upang ang kanilang kaisipan ay mapalaya mula sa mga epekto ng relihiyosong kapaligiran sa banal na lunsod at banal na templo, at maihayag Niya sa kanila ang bagong bagay tungkol sa Kanya at sa ekklesia, na siyang pulso ng Kanyang makalangit na kaharian. Ang pangitain tungkol sa Kanya bilang ang Kristo at ang Anak ng Diyos na buháy ay dumating kay Pedro (bb. 16-17). Dito rin, nahayag at nabanggit sa unang pagkakataon ang tungkol sa ekklesia bilang daan upang madala rito ang kaharian ng mga kalangitan (bb. 18-19)."
+        },
+        {
+            "id": "13-2",
+            "text": "Bilang isang Tao, si Kristo ay isang hiwaga, hindi lamang sa henerasyong yaon, bagkus maging sa mga tao ngayon."
+        },
+        {
+            "id": "14-1",
+            "text": "Sa sukdulan, napagtatanto lamang ng mga tao na si Kristo ay ang pinakadakila sa mga propeta. Kung walang makalangit na pahayag, walang sinuman ang makaaalam na Siya ang Kristo at ang Anak ng Diyos na buháy (b. 16)."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang Kristo ay ang tinutukoy na Isa ng Diyos sa Lumang Tipan na pinropesiya ng mga propeta at Siyang inaasahan ng Kanyang mga banal na tao sa mga kapanahunan (Juan 1:41, 45; Luc. 2:25-26; 3:15), at yaon ding darating na Isa upang magsakatuparan ng layunin ng Diyos (Heb. 10:5-7)."
+        },
+        {
+            "id": "16-2",
+            "text": "“Ang Diyos na buháy” ay taliwas sa patay na relihiyon. Ang Panginoon ay ang pagsasakatawan ng Diyos na buháy, na walang kinalaman sa patay na relihiyon."
+        },
+        {
+            "id": "17-1",
+            "text": "Yaon ay, anak ni Jonas."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang “laman at dugo” ay tumutukoy sa likas na tao, na nilikha at natisod."
+        },
+        {
+            "id": "17-3",
+            "text": "Tanging ang Ama ang nakakikilala sa Anak (11:27); sa gayon, tanging Siya lamang ang makapaghahayag ng Anak sa atin."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang pahayag ng Ama tungkol kay Kristo ay ang unang kalahating bahagi lamang ng dakilang hiwaga. Ang dakilang hiwaga ay si Kristo at ang ekklesia (Efe. 5:32). Kaya nga, kinakailangan “ding” ihayag ng Panginoon kay Pedro ang ikalawang kalahati, ang tungkol sa ekklesia."
+        },
+        {
+            "id": "18-2",
+            "text": "O, isang bato, materyal para sa pagtatayo ng Diyos (1 Ped. 2:5)."
+        },
+        {
+            "id": "18-3",
+            "text": "Ang “batong ito” ay tumutukoy hindi lamang kay Kristo, bagkus sa pahayag ding ito tungkol kay Kristo, na natanggap ni Pedro mula sa Ama. Ang ekklesia ay itinayo sa ibabaw ni Kristo at sa pahayag na may kaugnayan kay Kristo."
+        },
+        {
+            "id": "18-4",
+            "text": "Ang pagtatayo ng Panginoon sa Kanyang ekklesia ay nagsimula noong araw ng Pentecostes (Gawa 2:1-4, 41-42). Gayunpaman, ang propesiya ng Panginoon dito ay hindi pa lubusang nagaganap, maging sa panahon ng ika-dalawampung siglo. Ang sangkakristiyanuhan, binubuo ng taliwas na Relihiyong Romano Katoliko at ng mga Protestanteng denominasyon, ay hindi ang pagtatayo ng Panginoon ng Kanyang ekklesia. Ang propesiyang ito ay naganap sa pamamagitan ng pagbabawi ng Panginoon, kung saan ang pagtatayo ng tunay na ekklesia ay isinasagawa at matutupad."
+        },
+        {
+            "id": "18-5",
+            "text": "Gr., ekklesia, sa tuwirang pagsasalin ay “tinawag palabas,” nangangahulugang ang kalipunang tinawag palabas. Ang “Aking ekklesia” ay nagpapakita na ang ekklesia ay sa Panginoon, hindi sa sinumang tao o bagay; ito ay hindi katulad ng mga denominasyon, na pinangalanan ayon sa pangalan ng ilang tao o ayon sa ilang bagay."
+        },
+        {
+            "id": "18-6",
+            "text": "Ang “mga pintuan ng Hades” ay tumutukoy sa madilim na awtoridad o kapangyarihan ni Satanas (Col. 1:13; Gawa 26:18), na hindi makapananaig laban sa tunay na ekklesiang itinayo ni Kristo sa ibabaw ng pahayag na ito tungkol sa Kanya bilang bato, kasama ang mga batong katulad ni Pedro, isang nabagong tao. Itong salita ng Panginoon ay nagpapakita rin na ang kapangyarihan ng kadiliman ni Satanas ay sasalakay sa ekklesia; sa gayon, may espiritwal na digmaan sa pagitan ng kapangyarihan ni Satanas, na kanyang kaharian, at ng ekklesia, na kaharian ng Diyos."
+        },
+        {
+            "id": "19-1",
+            "text": "Ayon sa kasaysayan, “ang mga susi” ay dalawa: ginamit ni Pedro ang isa upang buksan ang pintuan para sa mga mananampalatayang Hudyo upang makapasok sa kaharian ng mga kalangitan noong araw ng Pentecostes (Gawa 2:38-42); at ginamit niya ang isa pa upang buksan ang pintuan para sa mga mananampalatayang Hentil sa bahay ni Cornelio upang makapasok sa kaharian ng mga kalangitan (Gawa 10:34-48)."
+        },
+        {
+            "id": "19-2",
+            "text": "“Ang kaharian ng mga kalangitan” dito ay halinhinang ginamit para sa “ekklesia” sa nakaraang bersikulo. Ito ay isang matibay na katunayan na ang tunay na ekklesia ay ang kaharian ng mga kalangitan sa kapanahunang ito. Ito ay pinagtibay ng Roma 14:17, na tumutukoy sa wastong buhay-ekklesia."
+        },
+        {
+            "id": "19-3",
+            "text": "Ang ebanghelyong ito ay nagbibigay-riin sa kaharian ng mga kalangitan na isang bagay ng awtoridad. Ang ekklesiang ipinahayag sa aklat na ito ay kumakatawan sa kaharian na maghahari. Kaya, ang awtoridad na “magtali” at “magkalag” ay ibinigay rito hindi lamang kay Pedro, na apostol para sa ekklesia, bagkus gayundin sa ekklesia mismo (18:17-18)."
+        },
+        {
+            "id": "19-4",
+            "text": "Anumang tinalian o kinalagan sa lupa ng mga tao ng ekklesia ay nararapat na yaong natalian na o nakalagan na sa mga kalangitan. Matatalian o makakalagan lamang natin ang natalian o nakalagan na sa mga kalangitan."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang pahayag tungkol kay Kristo kasama ang Kanyang ekklesia ay palaging isang bagay na kubli para sa mga relihiyosong tao."
+        },
+        {
+            "id": "21-1",
+            "text": "Pagkatapos ng pahayag ng dakilang hiwaga tungkol kay Kristo at sa ekklesia, ang pagkapako sa krus at pagkabuhay na muli ni Kristo ay inihayag. Upang maitayo ni Kristo ang Kanyang ekklesia, kinakailangan Niyang magtungo sa sentro ng relihiyon, dumaan sa pagkapako sa krus, at pumasok sa pagkabuhay na muli."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang likas na tao kailanman ay walang pagkukusang magpasan ng krus."
+        },
+        {
+            "id": "23-1",
+            "text": "Nahinuha ni Kristo na hindi si Pedro kundi si Satanas ang bumibigo sa Kanya sa pagpasan ng krus. Ito ay nagpapakita na ang ating likas na tao, na walang pagkukusang magpasan ng krus, ay kaisa ni Satanas."
+        },
+        {
+            "id": "23-2",
+            "text": "O, Ikaw ay isang bitag sa Akin."
+        },
+        {
+            "id": "23-3",
+            "text": "Kapag inilalagak natin ang ating kaisipan, hindi sa mga bagay ng Diyos, kundi sa mga bagay ng tao, tayo ay nagiging Satanas, isang katitisuran sa Panginoon sa pagsasakatuparan ng layunin ng Diyos."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang itatwa ang ating sarili ay ang iwala ang ating pangkaluluwang buhay, ang likas na buhay (b. 26; Luc. 9:25)."
+        },
+        {
+            "id": "24-2",
+            "text": "Sa mga bersikulo 23 hanggang 25, tatlong bagay ang may kaugnayan sa isa’t isa, “kaisipan,” “kanyang sarili,” at “pangkaluluwang buhay.” Ang ating kaisipan ay ang kahayagan ng ating sarili, at ang ating sarili ay ang nadaramang pahayag ng ating pangkaluluwang buhay. Ang ating pangkaluluwang buhay ay nakapaloob sa at ipinamumuhay ng ating sarili, at ang ating sarili ay naihahayag sa pamamagitan ng ating kaisipan, ating pag-iisip, ating palagay, ating kuru-kuro. Kapag inilagak natin ang ating kaisipan, hindi sa mga bagay ng Diyos, kundi sa mga bagay ng tao, susunggaban ng ating kaisipan ang pagkakataong kumilos at ihayag ang sarili nito. Ito ang nangyari kay Pedro. Kaya nga, ipinakita ng sumunod na salita ng Panginoon na kailangan niyang itatwa ang “kanyang sarili” at huwag iligtas ang kanyang pangkaluluwang buhay, sa halip ay bitiwan ito. Ang mawalan ng pangkaluluwang buhay ay ang katotohanan ng pagtatatwa sa sarili. Ito ang pagpapasan ng krus."
+        },
+        {
+            "id": "24-3",
+            "text": "Ang “krus” ay hindi lamang isang pagdurusa; ito ay isa ring pagpatay. Pinapatay at tinatapos nito ang kriminal. Si Kristo ay unang nagpasan ng krus at pagkatapos ay ipinako. Tayo, ang Kanyang mga mananampalataya, ay unang napakong kasama Niya at pinapasan ang krus sa kapanahunan ngayon. Para sa atin, ang pagpasan ng krus ay ang manatili sa ilalim ng pagkikitil ng kamatayan ni Kristo para sa pagtatapos ng ating sarili, ng ating likas na buhay, at ng ating lumang tao. Sa ganitong paggawa, itinatatwa natin ang ating sarili upang makasunod tayo sa Panginoon."
+        },
+        {
+            "id": "24-4",
+            "text": "Bago ang pagkapako sa krus ng Panginoon, ang mga disipulo ay sumunod sa Kanya sa isang panlabas na paraan. Subalit simula nang Kanyang pagkabuhay na muli, tayo ay sumusunod sa Kanya sa isang panloob na paraan. Sapagka’t sa pagkabuhay na muli, Siya ay ang Espiritung nagbibigay-buhay (1 Cor. 15:45) na nananahan sa ating espiritu (2 Tim. 4:22), sumusunod tayo sa Kanya sa ating espiritu (Gal. 5:16-25)."
+        },
+        {
+            "id": "25-1",
+            "text": "O, masisiraan."
+        },
+        {
+            "id": "25-2",
+            "text": "Tingnan ang tala 39-1 sa kap. 10."
+        },
+        {
+            "id": "26-1",
+            "text": "Sa Luc. 9:24-25 ang “pangkaluluwang buhay” ay hinalinhan ng “kanyang sarili,” ipinakikita na ang ating pangkaluluwang buhay ay ang ating sarili."
+        },
+        {
+            "id": "27-1",
+            "text": "Ipinakikita ng salitang “sapagka’t” na ang pagbibigay-gantimpala ng Panginoon sa Kanyang mga tagasunod sa Kanyang pagbabalik sa bersikulo 27 ay magiging ayon sa kung maiwawala o maililigtas nila ang kanilang kaluluwa, katulad ng pagkabanggit sa mga bersikulo 25-26."
+        },
+        {
+            "id": "27-2",
+            "text": "Ito ay mangyayari sa luklukan ng paghahatol ni Kristo sa Kanyang pagbabalik (2 Cor. 5:10; Apoc. 22:12)."
+        },
+        {
+            "id": "28-1",
+            "text": "Ito ay naisakatuparan sa pamamagitan ng pagbabagong-anyo ng Panginoon sa bundok (17:1-2). Ang Kanyang pagbabagong-anyo ay ang Kanyang “pagdating sa Kanyang kaharian.” Ito ay nakita ng Kanyang tatlong disipulo, sina Pedro, Santiago, at Juan."
         }
     ]
 }

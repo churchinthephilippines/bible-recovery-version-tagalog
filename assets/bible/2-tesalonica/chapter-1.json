@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Tesalonica",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -30,7 +30,7 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": [
@@ -47,7 +47,7 @@
             "footnotes": [
                 {
                     "word": "pagtitiis",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -58,11 +58,11 @@
             "footnotes": [
                 {
                     "word": "matuwid",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -79,7 +79,7 @@
             "footnotes": [
                 {
                     "word": "kapahingahan",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -90,7 +90,7 @@
             "footnotes": [
                 {
                     "word": "Kristo;",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -101,7 +101,7 @@
             "footnotes": [
                 {
                     "word": "harapan",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -112,7 +112,7 @@
             "footnotes": [
                 {
                     "word": "maluwalhati",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -123,7 +123,7 @@
             "footnotes": [
                 {
                     "word": "mabuting",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -134,10 +134,60 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 1-1 sa 1 Tes. 1."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 1-2 sa 1 Tes. 1."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 3-2 sa 1 Tesalonica 1. Sa unang Sulat, ang pananampalataya at pag-ibig ay itinuring na mga elemento ng pagkakayari ng buhay ng mga mananampalataya para sa ekklesia. Dito, sa ikalawang Sulat, ang pananampalataya at pag-ibig ay lumalago at nadaragdagan sa kanilang buhay-Kristiyano."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pagtitiis ay nagmula sa at sinuportahan ng pag-asa sa pagbabalik ng Panginoon (1 Tes. 1:3). Ang gayong pagtitiis na sinanhi ng pag-asa ay laging sinasamahan ng pananampalataya. Kaya nga, sinasabi rito, “ang inyong pagtitiis at pananampalataya.” Parehong kinakailangan ang dalawang ito sa gitna ng mga pag-uusig at mga kapighatian."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang paghatol ng Diyos ay matuwid at makatarungan sa lahat ng tao. Ang paghatol na ito ay tatapusin sa hinaharap (Roma 2:5-9; Apoc. 20:11-15). Kung paano tinutuos ng Diyos sa panahong ito ang iba’t ibang mga tao ay isang pagpapakita, isang tanda, isang katunayan, ng hinaharap na pagsasagawa ng Kanyang matuwid na paghatol."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang mga mananampalataya ay tinawag tungo sa loob ng kaharian at kaluwalhatian ng Diyos (1 Tes. 2:12). Upang makapasok tungo sa kahariang ito, kailangan nating dumaan sa mga kapighatian (Gawa 14:22). Kaya nga, ang mga pag-uusig at mga kapighatian ay isang malinaw na palatandaan ng matuwid na paghatol ng Diyos upang tayo ay maibilang na karapat-dapat sa kaharian."
+        },
+        {
+            "id": "7-1",
+            "text": "O, ginhawa, gaan, pahingalay, kalayaan. Sa panahong ito, ang mga mananampalatayang nagdurusa ng mga pag-uusig at ng mga panliligalig para sa Panginoon ay maiibsan sa kanilang mga paghihirap at papasok sa kapahingahan ng Panginoon at magtatamasa sa kalayaan nito sa panahon ng pagbabalik ng Panginoon."
+        },
+        {
+            "id": "8-1",
+            "text": "Inaalis ng ilang manuskristo ang Kristo."
+        },
+        {
+            "id": "9-1",
+            "text": "Lit. mukha."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang Panginoon ay ang Panginoon ng kaluwalhatian (1 Cor. 2:8); Siya ay niluwalhati na sa Kanyang pagkabuhay na muli at pag-akyat sa langit (Juan 17:1; Luc. 24:26; Heb. 2:9). Ngayon Siya ay nasa loob natin bilang pag-asa ng kaluwalhatian (Col. 1:27) upang dalhin tayo sa loob ng kaluwalhatian (Heb. 2:10). Sa Kanyang pagbabalik, sa isang banda, Siya ay darating mula sa kalangitan na taglay ang kaluwalhatian (Apoc. 10:1; Mat. 25:31) at sa kabilang banda, Siya ay maluluwalhati sa Kanyang mga banal, yaon ay, ang Kanyang kaluwalhatian ay mahahayag mula sa loob ng Kanyang mga sangkap, binabagong-anyo ang kanilang katawan ng pagkamababa tungo sa Kanyang kaluwalhatian katulad ng Kanyang naluwalhating katawan. Kaya, Siya ay panggigilalasan, hahangaan, pagtatakhan ng mga di-mananampalataya sa atin na Kanyang mga mananampalataya."
+        },
+        {
+            "id": "11-1",
+            "text": "O, kinatutuwa. Ang mga apostol ay nanalangin na isakatuparan ng Diyos ang kinalulugod, kinatutuwa na kabutihan ng mga taga-Tesalonica."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang biyaya ng ating Diyos at ng Panginoong Hesu-Kristo ay ang Panginoon Mismo na nasa loob natin bilang ating buhay at panustos ng buhay upang maipamuhay natin ang isang buhay na magluluwalhati sa Panginoon at magsasanhi sa atin na maluwalhati sa loob Niya. Tingnan ang mga tala 17-1 sa Juan 1, 10-1 sa 1 Corinto 15, at 14-1 sa 2 Corinto 13."
         }
     ]
 }

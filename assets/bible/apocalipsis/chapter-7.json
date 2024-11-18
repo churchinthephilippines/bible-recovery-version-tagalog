@@ -1,5 +1,5 @@
 {
-    "chapter": 7,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Pagkatapos",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "hangin",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -29,11 +29,11 @@
             "footnotes": [
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "malakas",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -50,7 +50,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -61,7 +61,7 @@
             "footnotes": [
                 {
                     "word": "Juda",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -72,7 +72,7 @@
             "footnotes": [
                 {
                     "word": "Manases",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -95,19 +95,19 @@
             "footnotes": [
                 {
                     "word": "lubhang",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "nangakatayo",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "puting",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "sanga",
-                    "note": ""
+                    "id": "9-4"
                 }
             ],
             "outlines": [
@@ -121,7 +121,7 @@
             "footnotes": [
                 {
                     "word": "kaligtasan",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -138,7 +138,7 @@
             "footnotes": [
                 {
                     "word": "Amen,",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -155,7 +155,7 @@
             "footnotes": [
                 {
                     "word": "matinding",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -166,15 +166,15 @@
             "footnotes": [
                 {
                     "word": "sila",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "naglilingkod",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "lulukuban",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": null
@@ -185,7 +185,7 @@
             "footnotes": [
                 {
                     "word": "tatamaan",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -196,18 +196,104 @@
             "footnotes": [
                 {
                     "word": "magpapastol",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "luha",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang kapitulo 7 ay isang paningit sa pagitan ng ikaanim na tatak (6:12-17) at ng ikapitong tatak ( 8:1), nagpapakita kung paano pinangangalagaan ng Diyos ang Kanyang mga tao habang malapit na Niyang ipataw ang Kanyang kahatulan sa lupa."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang mga “hangin” dito ay para sa kahatulan ng Diyos (Jon. 1:4; Isa. 11:15; Jer. 22:22; 49:36; 51:1)."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang pagbubukas ng ikapitong tatak ang magpapapasok sa pitong trumpeta (8:1- 2). Sa unang trumpeta, ang ikatlong bahagi ng lupa at ang ikatlong bahagi ng mga punong-kahoy ay masusunog (8:7). Sa ikalawang trumpeta, ang ikatlong bahagi ng dagat ay masisira (8:8-9). Bago maganap ang lahat ng ito, tatatakan ng Diyos ang lahat ng mga Israelitang nilalayon Niyang maingatan (b.3)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang “ibang Anghel” dito ay tumutukoy kay Kristo, gayundin sa 8:3, 10:1, at 18:1. Sa Lumang Tipan, si Kristo ay tinawag na “ang Anghel ng Panginoon,” na Siyang Diyos Mismo (Gen. 22:11-12; Exo. 3:2-6; Huk. 6: 11-24; Zac. 1:11-12; 2:8-11; 3:1-7). Dito sa Bagong Tipan, Siya ay muling tinawag na “Anghel” (Sugo). Ang “ibang Anghel” ay tumutukoy na hindi Siya pangkaraniwan kundi isang natatanging isinugong anghel ng Diyos."
+        },
+        {
+            "id": "2-2",
+            "text": "Lit. malaki. Gayundin sa b. 10 at 8:13."
+        },
+        {
+            "id": "4-1",
+            "text": "Ito ang mga Israelita na tutupad sa mga utos ng Diyos sa panahon ng matinding kapighatian (12:17; 14:12)."
+        },
+        {
+            "id": "5-1",
+            "text": "Si Ruben ang panganay ni Israel, subali’t dahil sa kanyang pagiging makasalanan nawala sa kanya ang kanyang karapatan-ng-pagkapanganay at si Juda ang nakapangibabaw sa kanyang mga kapatid (I Cron. 5:1-2). Kaya, ang lipi ni Juda ang unang binanggit dito."
+        },
+        {
+            "id": "6-1",
+            "text": "Sa kadahilanang si Manases, isa sa dalawang anak na lalake ni Jose (Gen. 48:5), at si Jose (b.8) ay kumakatawan sa dalawang lipi, si Jose ay magkakaroon pa rin ng dobleng bahagi sa karapatan-ng-pagkapanganay (I Cron. 5:1-2) sa panahon ng isang libong taong kaharian (Ezek. 48:4-5). Sa tala rito, gaya ng sa I Cronica kapitulo 2 hanggang 9, ang lipi ni Dan ay inalis dahil sa kanilang pagsamba sa diyos-diyusan (Huk. 18:30-31; I Hari 12:29-30; II Hari 10:29; cf. Gen. 49:17). Gayunpaman, si Dan ay ibibilang pa rin sa panahon ng isang libong taon (Ezek. 48:1) dahil sa pagpapala ni Jacob sa kanya, na si Dan ay magiging isa pa rin sa mga lipi sa pamamagitan ng pagliligtas ng Panginoon (Gen. 49: 16-18)."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang “lubhang karamihan na di-mabilang” ay binubuo ng mga tinubos sa buong itinagal ng lahat ng mga henerasyon mula sa mga bansa, na bumubuo ng ekklesia (5:9; Roma 11:25; Gawa 15:14, 19)."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang “nangakatayo sa harapan ng trono” ay tumutukoy na ang “lubhang karamihan na di-mabilang” na mga tinubos ay naiakyat-nasa-kalangitan-na- may-masidhing-kagalakan, sa presensiya ng Diyos. Ang “nangakatayo sa harapan ng Kordero” ay tumutugma sa “mangakatayo kayo sa harapan ng Anak ng Tao” (Luc. 21:36), na malinaw na tumutukoy sa pag-akyat-na-may-masidhing-kagalakan. Yamang ito ay binanggit kaagad pagkatapos ng pagbukas sa ikaanim na tatak, ito rin ay nagpapahiwatig na ang pag-akyat-na-may-masidhing-kagalakan ng mga mananampalataya ay magsisimulang maganap bago o sa mismong ikaanim na tatak. Itinatala sa isang pangkalahatang paraan ng bb. 9-17 ang tagpo mula sa pag-akyat-na-may-masidhing-kagalakan ng mga mananampalataya hanggang sa kanilang katamasahan sa kawalang-hanggan."
+        },
+        {
+            "id": "9-3",
+            "text": "Ang “mga balabal,” bilang pangmaramihan, ay sumasagisag sa katuwiran ng kanilang pag-uugali (sa Ingles, conduct). Ang “puti” ay sumasagisag na ang kanilang pag-uugali ay dalisay at aprubado ng Diyos sa pamamagitan ng paghuhugas sa dugo ng Kordero (b.14)."
+        },
+        {
+            "id": "9-4",
+            "text": "Ang “mga sanga ng palma” ay sumasagisag sa kanilang tagumpay laban sa kapighatian (cf. Juan 12:13), na kanilang dinanas para sa kapakanan ng Panginoon ( b.14). Ang mga puno ng palma ay tanda rin ng kasiyahan sa pamamagitan ng pagdidilig (Exo. 15:27). Ang mga sanga ng palma ay ginamit para sa pista ng mga tabernakulo, kung saan ay nangagalak ang bayan ng Diyos dahil sa kasiyahan sa kanilang katamasahan (Lev. 23: 40; Neh. 8:15). Ang pista ng mga tabernakulo ay isang sagisag na isasakatuparan ng lubhang karamihan na di-mabilang na mga tinubos ng Diyos na nagtatamasa sa walang-hanggang pista ng mga tabernakulo. Ang lubhang karamihan na di-mabilang na ito ay yayabong katulad ng puno ng palma sa templo ng Diyos (Awit 92:12-13)."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang “kaligtasan” lamang ang pinapurihan nila nang malakas, sa gayon, ipinakikita na ang mga nagpupuri ay ang mga naligtas na tao. Punung-puno ng pagpapasalamat sa kaligtasan ng Diyos ang niligtas na lubhang karamihan na di-mabilang."
+        },
+        {
+            "id": "12-1",
+            "text": "Ito ay katulad sa salita sa Luc. 15:7, na magkakaroon ng kagalakan sa langit dahil sa isang makasalanang nagsisisi. Dito ang mga anghel ay nagsasabi ng “Amen” sa papuri sa kaligtasan ng mga tinubos."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang matinding kapighatian dito ay naiiba sa matinding kapighatian na binanggit sa Mat. 24:21. Ang matinding kapighatian dito ay tumutukoy sa mga kalamidad, mga pagdurusa, mga pag-uusig, at mga kahirapan na dinanas ng mga tinubos na tao ng Diyos sa buong itinagal ng mga panahon at mga salinlahi."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang larawan sa bb. 15-17, katulad ng inilarawan sa 21:3-4 at 22:3-5, ay ang paglalarawan sa kawalang-hanggan."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang mga tinubos na isang lubhang karamihan ay lumabas sa matinding kapighatian at pumasok sa isang makalangit na kinasasaklawan, tungo sa loob ng templo ng Diyos, pinaglilingkuran ang Diyos sa araw at gabi. Ang kanilang paglilingkod sa Diyos sa ganitong paraan ay ang kinalabasan ng pagliligtas ng Diyos."
+        },
+        {
+            "id": "15-3",
+            "text": "Lit. magtatabernakulo sa kanila. Si Kristo ang tabernakulo ng Diyos (Juan 1:14) at ang Bagong Herusalem bilang ang sukdulang pagpapalaki ni Kristo ay ang magiging walang hanggang tabernakulo ng Diyos (21:2-3), kung saan ay mananahang kasama Niya magpakailanman ang lahat ng mga tinubos ng Diyos. Sila ay lililiman ng Diyos ng Kanyang Sarili na nagsakatawan kay Kristo. Si Kristo, bilang ang pagsasakatawan ng Diyos, ang kanilang magiging tabernakulo. Ang tala ng bb. 15-17 ay kahawig na kahawig ng sa 21:3-7."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit. mahuhulugan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang pagpapastol ay nagpapaloob ng pagpapakain. Sa ilalim ng pagpapastol ni Kristo hindi ako mangangailangan (Awit 23:1)."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang “luha mula sa kanilang mga mata” ay isang tanda ng kanilang kawalang- kasiyahan. Ang “mga tubig ng buhay” ay para sa kanilang kasiyahan. Sa kadahilanang tutustusan sila ng Kordero ng mga tubig ng buhay para sa kanilang kasiyahan, sila ay hindi magkakaroon ng mga luha ng kawalang-kasiyahan. Ang mga tubig ng buhay ay itutustos, at ang mga tubig ng luha ay papahirin."
         }
     ]
 }

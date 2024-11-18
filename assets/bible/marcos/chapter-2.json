@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -31,7 +31,7 @@
             "footnotes": [
                 {
                     "word": "paralitiko",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -42,11 +42,11 @@
             "footnotes": [
                 {
                     "word": "binakbak",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "higaang",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -57,15 +57,15 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Anak,",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -76,7 +76,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -87,7 +87,7 @@
             "footnotes": [
                 {
                     "word": "Diyos?",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -98,7 +98,7 @@
             "footnotes": [
                 {
                     "word": "malaman",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -109,7 +109,7 @@
             "footnotes": [
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -120,7 +120,7 @@
             "footnotes": [
                 {
                     "word": "Tao",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -131,11 +131,11 @@
             "footnotes": [
                 {
                     "word": "Bumangon",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "bahay.",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -146,15 +146,15 @@
             "footnotes": [
                 {
                     "word": "bumangon,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "mabuhat",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "yumaon",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -165,7 +165,7 @@
             "footnotes": [
                 {
                     "word": "tinuruan",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": [
@@ -178,15 +178,15 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "paningilan",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "sumunod",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -203,7 +203,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -214,11 +214,11 @@
             "footnotes": [
                 {
                     "word": "manggagamot,",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "tawagin",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -229,7 +229,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": [
@@ -248,7 +248,7 @@
             "footnotes": [
                 {
                     "word": "kukunin",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -271,7 +271,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": [
@@ -284,7 +284,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -295,7 +295,7 @@
             "footnotes": [
                 {
                     "word": "David",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -312,7 +312,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -323,10 +323,140 @@
             "footnotes": [
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang limang pangyayari na malinaw na itinala sa b. 1—3:6 ay bumubuo ng isang partikular na grupo, ipinakikita kung paano isinagawa ng Aliping-Tagapagligtas bilang ang Alipin ng Diyos, ang Kanyang pang-ebanghelyong paglilingkod upang tustusan ang pangangailangan ng mga natisod na tao na binihag ni Satanas mula sa Diyos at mula sa pagtatamasa sa Diyos, upang sila ay mailigtas mula sa kanilang pagkabihag at maibalik sa Diyos na katama-tamasa:"
+        },
+        {
+            "id": "1-2",
+            "text": "O, nasa tahanan."
+        },
+        {
+            "id": "3-1",
+            "text": "Sumasagisag sa isang makasalanang ginawang paralitiko ng kasalanan, na hindi makalakad at makagalaw sa harap ng Diyos."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang kanilang kasigasigan sa paghahanap sa pagpapagaling ng Aliping-Tagapagligtas ang nagtulak sa mga naghahanap na sirain ang wastong hadlang—isang marahas na gawa. Tingnan ang tala 2-2 sa Mateo 9."
+        },
+        {
+            "id": "4-2",
+            "text": "Isang maliit na kama o sapin. Gayundin sa bb. 9, 1-1 at 1-2 ."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang pananampalataya ay nagmumula sa pakikinig ng salita ni Kristo (Roma 10:17), nagpapakita na ang mga naghahanap ay nakapakinig ng tungkol sa Aliping-Tagapagligtas."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang mapagmahal na salitang ito ng Aliping-Tagapagligtas ay nagpapahiwatig ng kagandahang-loob; dito ang Kanyang pantaong kagalingan ay naihayag."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang mga kasalanan ang sanhi ng karamdaman. Ang salita ng Aliping-Tagapagligtas dito ay humipo sa sanhi upang ang epekto ay dumating. Sa sandaling ang mga kasalanan ay napatawad, ang karamdaman ay mapapagaling."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang mga eskriba at mga Fariseo, bilang mga relihiyonista ng luma at patay na relihiyon, ay nasulsulan at nagamit ni Satanas, ang kaaway ng Diyos, upang salungatin, kalabanin, at hadlangan ang pang-ebanghelyong paglilingkod ng Alipin ng Diyos sa buong ministeryo Niya (bb. 16, 24; 3:22; 7:5; 8:11; 9:14; 10:2; 11:27; 12:13, 28). Akala nila ay sumasamba sila sa Diyos at masigasig para sa Kanya, hindi nila nalalaman na ang pinaka-Diyos ng kanilang mga ninuno, ni Abraham, ni Isaac, at ni Jacob, ay nasa harapan nila sa anyo ng isang alipin upang paglingkuran sila. Sila ay binulag ng kanilang tradisyunal na relihiyon mula sa pagkakita sa Kanya sa dibinong ekonomiya ng Diyos, at nagplano upang Siya ay patayin (3:6; 11:18; 14:1); at sa katunayan ay kanilang pinatay Siya (8:31; 10:33; 14:43, 53; 15:1, 31)."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang mga nangangatuwirang eskriba, na nagtuturing sa kanilang sarili na “nakasusunod sa kasulatan at makateolohiya” ay kumikilala sa Aliping-Tagapagligtas bilang tao lamang, bilang isang hamak na Nazareno lamang (Juan 1:45-46), hindi nalalaman na ang Isa na nagpatawad sa mga kasalanan ng paralitiko ay ang mismong mapagpatawad na Diyos na nagkatawang-tao sa anyo ng isang mababang tao bilang alipin na ginamit ang Kanyang kaligtasan upang paglingkuran sila. Tingnan ang tala 3-2 sa Mat. 9."
+        },
+        {
+            "id": "8-1",
+            "text": "Lit. lubos na nalalaman. Alam ng Aliping-Tagapagligtas ang pananampalataya ng mga naghahanap, ang mga kasalanan ng maysakit (b. 5), at ang panloob na pangangatuwiran ng mga eskriba; ito ay nagpapakita na Siya ay nakaaalam sa lahat ng bagay. Ang gayong kaalaman sa lahat ng bagay ay nagpapahayag ng Kanyang maka-Diyos na katangian, naghahayag ng Kanyang pagka-Diyos, ang Diyos na nakaaalam sa lahat ng bagay. Tingnan ang tala 2-1 sa kap. 11."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 5-1 sa Mateo 9."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang Aliping-Tagapagligtas ay ang mismong Diyos na nagkatawang-tao, na hindi umaari sa pagkapantay sa Diyos na isang bagay na dapat pananganan. Sa panlabas Siya ay nasa wangis at kaanyuan ng tao, maging sa anyo ng isang alipin, ngunit sa panloob Siya ay Diyos (Fil. 2:6-7). Siya ang Aliping-Tagapagligtas gayon din ang Diyos na Tagapagligtas. Kaya’t hindi lang Siya may kakayahang magligtas ng mga makasalanan, bagkus may awtoridad din na magpatawad ng kanilang mga kasalanan. Sa pangyayaring ito pinatawad Niya ang mga kasalanan ng mga tao bilang Diyos, ngunit ipinahayag Niya na Siya ang Anak ng Tao. Ito ay nagpapakita na Siya ay tunay na Diyos at isang tunay na Tao, na nagtataglay ng pagka-Diyos at pagkatao. Sa Kanya parehong makikita ng mga tao ang Kanyang maka-Diyos na katangian at pantaong kagalingan."
+        },
+        {
+            "id": "11-1",
+            "text": "Tingnan ang tala 5-2 sa Mateo 9. Ito ang pagpapagaling sa paralitiko. Tingnan ang tala 31-1 sa kap. 1."
+        },
+        {
+            "id": "11-2",
+            "text": "O, tahanan."
+        },
+        {
+            "id": "12-1",
+            "text": "Ito ang kaganapan ng salita ng Aliping-Tagapagligtas, Bumangon ka, buhatin mo ang iyong higaan. Ang sabihing, Pinatatawad ang iyong mga kasalanan, ay mas madali kaysa sabihing, Bumangon ka, buhatin mo ang iyong higaan at lumakad ka. Yamang ang huli ay natupad, ang una, ang mas madali, ay tiyak na natupad din. Ito ay matibay na katunayan na ang Aliping-Tagapagligtas ay may awtoridad na magpatawad ng mga kasalanan dito sa lupa."
+        },
+        {
+            "id": "12-2",
+            "text": "Tingnan ang tala 6-2 sa Mateo 9."
+        },
+        {
+            "id": "12-3",
+            "text": "Tingnan ang tala 6-3 sa Mateo 9."
+        },
+        {
+            "id": "13-1",
+            "text": "Tingnan ang tala 21-2 sa kap. 1."
+        },
+        {
+            "id": "14-1",
+            "text": "Para sa mga bb. 14-17, tingnan ang mga tala sa Mat. 9:9-13."
+        },
+        {
+            "id": "14-2",
+            "text": "Isang bahay-singilan, sumisingil ng buwis para sa mga Romano. Si Mateo ay isa (maaaring nasa mataas na posisyon) sa mga maniningil ng buwis (Mat. 10:3), na kinondena, hinamak, at kinamuhian ng mga Hudyo (Luc. 18:11; Mat. 5:46 at tala 2). Gayon pa man, siya ay tinawag ng Aliping-Tagapagligtas, at pagkaraan ay pinili at itinalaga bilang isa sa labindalawang apostol (3:18). Anong kaawaan!"
+        },
+        {
+            "id": "14-3",
+            "text": "Ang pagkilos na ito bilang tugon sa tawag ng Aliping-Tagapagligtas ay nagpapahiwatig ng kanyang pagtalikod sa maruming gawain at makasalanang buhay."
+        },
+        {
+            "id": "16-1",
+            "text": "Tingnan ang tala 6-1 . Ang mga eskriba ay nag-aaring-matuwid sa kanilang sarili sa pagkokondena sa Aliping-Tagapagligtas dahil sa Kanyang pakikipagpiging sa mga maniningil ng buwis at mga makasalanan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay nagpapakita na itinuring ng Aliping-Tagapagligtas ang Kanyang sarili na isang Manggagamot ng mga tao na nagkasakit ng dahil sa mga kasalanan."
+        },
+        {
+            "id": "17-2",
+            "text": "Ito ay nagpapakita na ang Aliping-Tagapagligtas ay ang Tagapagligtas ng mga makasalanan; lubusang para sa pagliligtas ng mga makasalanan."
+        },
+        {
+            "id": "18-1",
+            "text": "Para sa mga bb. 18-22, tingnan ang mga tala sa Mat. 9:14-17."
+        },
+        {
+            "id": "20-1",
+            "text": "Lit. maaaring alisin."
+        },
+        {
+            "id": "23-1",
+            "text": "Para sa mga bb. 23-28, tingnan ang mga tala sa Mat. 12:1-8."
+        },
+        {
+            "id": "24-1",
+            "text": "Tingnan ang tala 6-1 ."
+        },
+        {
+            "id": "25-1",
+            "text": "Ipinahihiwatig na ang Aliping-Tagapagligtas ay ang tunay na David, ang Hari ng darating na kaharian ng Diyos."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang tao ay hindi nilikha para sa Sabbath, ngunit ang Sabbath ay itinalaga para sa tao upang matamasa niya ang kapahingahan na kasama ng Diyos (Gen. 2:2-3)."
+        },
+        {
+            "id": "28-1",
+            "text": "Ipinakikita nito ang pagka- Diyos ng Aliping-Tagapagligtas sa Kanyang pagka-tao. Siya, ang Anak ng Tao, ay ang mismong Diyos na nagtalaga ng Sabbath at may karapatang baguhin ang Kanyang itinalaga hinggil sa Sabbath."
         }
     ]
 }

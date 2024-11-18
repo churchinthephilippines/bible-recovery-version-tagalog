@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -16,7 +16,7 @@
             "footnotes": [
                 {
                     "word": "ilang.",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -27,11 +27,11 @@
             "footnotes": [
                 {
                     "word": "bautismo",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -42,7 +42,7 @@
             "footnotes": [
                 {
                     "word": "Isang",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -53,7 +53,7 @@
             "footnotes": [
                 {
                     "word": "bangin",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -64,11 +64,11 @@
             "footnotes": [
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "pagliligtas",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -79,7 +79,7 @@
             "footnotes": [
                 {
                     "word": "Supling",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -90,7 +90,7 @@
             "footnotes": [
                 {
                     "word": "makapagbangon",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -101,7 +101,7 @@
             "footnotes": [
                 {
                     "word": "apoy.",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -136,11 +136,11 @@
             "footnotes": [
                 {
                     "word": "kumuha",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "kumuha",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -151,7 +151,7 @@
             "footnotes": [
                 {
                     "word": "paghihintay",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -162,7 +162,7 @@
             "footnotes": [
                 {
                     "word": "Binabautismuhan",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -173,7 +173,7 @@
             "footnotes": [
                 {
                     "word": "apoy",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -184,7 +184,7 @@
             "footnotes": [
                 {
                     "word": "nagdala",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -207,7 +207,7 @@
             "footnotes": [
                 {
                     "word": "mabautismuhan",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": [
@@ -220,7 +220,7 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": [
@@ -233,19 +233,19 @@
             "footnotes": [
                 {
                     "word": "tatlumpung",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "(ayon",
-                    "note": ""
+                    "id": "23-3"
                 },
                 {
                     "word": "Jose,",
-                    "note": ""
+                    "id": "23-4"
                 }
             ],
             "outlines": [
@@ -276,7 +276,7 @@
             "footnotes": [
                 {
                     "word": "Zorobabel,",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -305,7 +305,7 @@
             "footnotes": [
                 {
                     "word": "Natan,",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -352,18 +352,128 @@
             "footnotes": [
                 {
                     "word": "Adam,",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "38-2"
                 },
                 {
                     "word": "Diyos.",
-                    "note": ""
+                    "id": "38-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Tingnan ang mga tala 1-2 sa Mat. 3 at 4-1 sa Marc. 1."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 4-2 sa Marc. 1."
+        },
+        {
+            "id": "3-2",
+            "text": "Tingnan ang tala 4-3 sa Marc. 1."
+        },
+        {
+            "id": "4-1",
+            "text": "Para sa natitirang bahagi ng bersikulo, tingnan ang mga tala sa Marc. 1:3."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang bangin, bundok, mga likong lugar, at mga baku-bakong lugar ay mga talinghagang naglalarawan sa kalagayan ng puso ng mga tao tungo sa Diyos at tungo sa bawat isa at sa mga kaugnayan sa gitna ng mga tao (1:16-17), na kinakailangang matuos lahat upang ang daan ay maihanda sa pagdating ng Tagapagligtas."
+        },
+        {
+            "id": "6-1",
+            "text": "Yaon ay, mga natisod na tao."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang Tagapagligtas bilang ang pagliligtas ng Diyos. Ang Kanyang pagparito ay ang pagparito ng pagliligtas ng Diyos; ang nakakita at nakatamo sa Kanya ay nakakita at nakatamo ng pagliligtas ng Diyos."
+        },
+        {
+            "id": "7-1",
+            "text": "*Gr. gennëma, bunga o lahi. Gayundin sa Mateo 3:7 at 23:33.* Ang supling ng mga ulupong ay katumbas ng mga anak ng Diyablo (1 Juan 3:10). Ang Diyablo ay ang matandang ahas (Apoc. 12:9), kaya ang kanyang mga anak ay naging kalahi niya, katulad niya sa buhay at ugali."
+        },
+        {
+            "id": "8-1",
+            "text": "Tingnan ang tala 9-1 sa Mat. 3."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 17-1 ."
+        },
+        {
+            "id": "14-1",
+            "text": "*Sa pangkaraniwang pananalita ay “mangikil.”"
+        },
+        {
+            "id": "14-2",
+            "text": "Tingnan ang tala 8-2 sa kap. 19."
+        },
+        {
+            "id": "15-1",
+            "text": "Naghihintay na malaman kung si Juan nga ang siyang Kristo — Ang Mesiyas (Juan 1:19-27)."
+        },
+        {
+            "id": "16-1",
+            "text": "Para sa bb. 16-17, tingnan ang mga tala sa Mat. 3:11-12 at sa Marc. 1:7-8."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang apoy sa dagat-dagatang apoy (Apoc. 20:15)."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang tala 43-1 sa kapitulo 4."
+        },
+        {
+            "id": "21-1",
+            "text": "Para sa bb. 21-22, tingnan ang mga tala sa Mat. 3:16-17 at sa Marc. 1:9-11."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang paglilihi kay Hesus na nagmula sa Espiritu Santo sa 1:35 ay pang-esensiya, may kaugnayan sa dibinong Katauhan, ang dibinong Persona ni Hesus. Ang esensiya ng dibinong elemento ng Espiritu Santo sa paglilihi kay Hesus ay hindi nagbabago at hindi naaalis. Ngunit ang Espiritu Santo na bumababa kay Hesus dito ay pang-ekonomiya, at may kaugnayan sa ministeryo, sa gawa, ni Hesus. Ang kapangyarihan ng Espiritu Santo para sa ministeryo ni Hesus (4:1, 14, 18; Mat. 12:28) ay naaalis ayon sa kondisyon ng pangangailangan nito. Sa ganitong pang-ekonomiyang paraan itinakwil at iniwan ng Diyos si Hesus nang Siya ay nagdala ng kasalanan ng mga makasalanan upang mamatay para sa kanila sa krus (Mat. 27:46). Bago pa bumaba ang Espiritu Santo sa kapangyarihan, mayroon na Siyang esensiya ng Espiritu Santo mula pa sa Kanyang pagkasilang at habang ang Espiritu Santo sa kapangyarihan ay bumababa sa Kanya, Siya ay nabubuhay na kasama ang esensiya ng Espiritu Santo."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang hustong edad para sa paglilingkod sa Diyos (Blg. 4:3, 35, 39-40, 43-44, 47-48)."
+        },
+        {
+            "id": "23-2",
+            "text": "Tingnan ang tala 1-1 sa Mateo 1. Ang tala ng Ebanghelyo ni Juan, ang Ebanghelyo ng Diyos na Tagapagligtas, ay nagsisimula sa Diyos patungo sa tao (Juan 1:1, 14), nagbibigay-diin sa Kanyang pagka-Diyos upang patunayan ang Kanyang dibino at pantaong katayuan. Ang talaangkanan ng Ebanghelyo ni Lucas, ang Ebanghelyo ng Taong-Tagapagligtas, ay nagsisimula sa tao at tumatalunton pabalik sa Diyos (bb. 23, 38), nagbibigay-diin sa Kanyang pagkatao upang patunayan ang Kanyang pantao at dibinong katayuan. Ang Kanyang pagkasilang upang maging Tao ang nagdala ng Diyos sa tao upang maisakatuparan ang pagtutubos at madala ang tao sa Diyos. Siya ang pag-uugpong ng Diyos at tao."
+        },
+        {
+            "id": "23-3",
+            "text": "Lit. ayon sa batas."
+        },
+        {
+            "id": "23-4",
+            "text": "Tingnan ang mga tala 16-1 at 16-2 sa Mat. 1."
+        },
+        {
+            "id": "27-1",
+            "text": "Tingnan ang tala 12-2 sa Mat. 1."
+        },
+        {
+            "id": "31-1",
+            "text": "Tingnan ang tala 6-3 , talata 2 at 3, sa Mat. 1."
+        },
+        {
+            "id": "38-1",
+            "text": "Tingnan ang tala 1-1 , talata 3, sa Mat. 1."
+        },
+        {
+            "id": "38-2",
+            "text": "Ito ay hindi nangangahulugang si Adam ay inianak ng Diyos at nag-angkin ng buhay ng Diyos, tulad ng ang anak ni Jose ay hindi nangangahulugang si Hesus ay inianak ni Jose, subalit Siya, ayon sa sinasapantaha ay anak ni Jose (b. 23). Si Adam ay nilikha ng Diyos (Gen. 5:1-2), at ang Diyos ang kanyang pinagmulan. Batay rito, siya ay sinasapantahang anak ng Diyos, tulad ng pagpapalagay ng mga di-kristiyanong manunula na ang lahat ng tao ay mga supling ng Diyos (Gawa 17:28). Sila ay nilikha lamang ng Diyos, hindi isinilang-na-muli ng Diyos. Ito ay ganap na naiiba ayon sa panloob na esensiya kung ihahambing sa mga mananampalataya kay Kristo bilang mga anak ng Diyos. Sila ay isinilang-na-muli ng Diyos at nagtataglay ng buhay at kalikasan ng Diyos (Juan 1:12-13; 3:16; 2 Ped. 1:4)."
+        },
+        {
+            "id": "38-3",
+            "text": "Mula kay Hesus (b. 23) pabalik sa Diyos ay may pitumpu’t pitong salinlahi na kinapapalooban ng kasaysayan ng paglikha ng Diyos, pagkatisod ng tao, pangako ng Diyos, at kaligtasan ng tao: ang tao ay nilikha ng Diyos (b. 38; Gen. 1:26-27; 2:7); kay Adam ang tao ay natisod (b. 38; Gen. 3); sa pamamagitan ni Abraham natanggap ng tao ang pangako ng Diyos (b. 34; Gen. 12:1-3); at kay Hesus ang tao ay naligtas (b. 23; 2:10-11)."
         }
     ]
 }

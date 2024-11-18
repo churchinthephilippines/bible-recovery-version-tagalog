@@ -1,5 +1,5 @@
 {
-    "chapter": 6,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "dagat",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -27,7 +27,7 @@
             "footnotes": [
                 {
                     "word": "bundok",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -38,7 +38,7 @@
             "footnotes": [
                 {
                     "word": "Paskua,",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -61,7 +61,7 @@
             "footnotes": [
                 {
                     "word": "denariong",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -78,19 +78,19 @@
             "footnotes": [
                 {
                     "word": "limang",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "sebada,",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "dalawang",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "isda,",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -119,7 +119,7 @@
             "footnotes": [
                 {
                     "word": "labindalawang",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -136,7 +136,7 @@
             "footnotes": [
                 {
                     "word": "upang",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -161,7 +161,7 @@
             "footnotes": [
                 {
                     "word": "lumalaki",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -172,11 +172,11 @@
             "footnotes": [
                 {
                     "word": "dalawampu’",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "Hesus",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -193,7 +193,7 @@
             "footnotes": [
                 {
                     "word": "tinanggap",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -237,7 +237,7 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -248,11 +248,11 @@
             "footnotes": [
                 {
                     "word": "gagawin",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "magawa",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -263,15 +263,15 @@
             "footnotes": [
                 {
                     "word": "sumampalataya",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "isinugo.",
-                    "note": ""
+                    "id": "29-3"
                 }
             ],
             "outlines": null
@@ -303,7 +303,7 @@
             "footnotes": [
                 {
                     "word": "bumababang",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -320,15 +320,15 @@
             "footnotes": [
                 {
                     "word": "tinapay",
-                    "note": ""
+                    "id": "35-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "35-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "35-3"
                 }
             ],
             "outlines": null
@@ -357,7 +357,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -368,7 +368,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -385,7 +385,7 @@
             "footnotes": [
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -408,7 +408,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "45-1"
                 }
             ],
             "outlines": null
@@ -419,7 +419,7 @@
             "footnotes": [
                 {
                     "word": "nanggaling",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
@@ -454,11 +454,11 @@
             "footnotes": [
                 {
                     "word": "buháy",
-                    "note": ""
+                    "id": "51-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "51-2"
                 }
             ],
             "outlines": null
@@ -477,7 +477,7 @@
             "footnotes": [
                 {
                     "word": "dugo,",
-                    "note": ""
+                    "id": "53-1"
                 }
             ],
             "outlines": null
@@ -488,15 +488,15 @@
             "footnotes": [
                 {
                     "word": "kumakain",
-                    "note": ""
+                    "id": "54-1"
                 },
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "54-2"
                 },
                 {
                     "word": "dugo",
-                    "note": ""
+                    "id": "54-2"
                 }
             ],
             "outlines": null
@@ -513,7 +513,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "56-1"
                 }
             ],
             "outlines": [
@@ -526,7 +526,7 @@
             "footnotes": [
                 {
                     "word": "kumakain",
-                    "note": ""
+                    "id": "57-1"
                 }
             ],
             "outlines": null
@@ -563,7 +563,7 @@
             "footnotes": [
                 {
                     "word": "umaakyat",
-                    "note": ""
+                    "id": "62-1"
                 }
             ],
             "outlines": null
@@ -574,15 +574,15 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "63-1"
                 },
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "63-2"
                 },
                 {
                     "word": "salitang",
-                    "note": ""
+                    "id": "63-3"
                 }
             ],
             "outlines": [
@@ -595,7 +595,7 @@
             "footnotes": [
                 {
                     "word": "magkakanulo.",
-                    "note": ""
+                    "id": "64-1"
                 }
             ],
             "outlines": null
@@ -626,7 +626,7 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "68-1"
                 }
             ],
             "outlines": null
@@ -648,6 +648,172 @@
             "text": "Tinutukoy nga Niya si Judas na anak ni Simon Iscariote, sapagka’t siya ang sa Kanya ay magkakanulo, palibhasa ay isa sa labindalawa.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang kasong ito ay salungat sa nakalipas na kaso sa kap. 5. Kaugnay ng kasong yaon ay isang taong nasa tabi ng tangke; kaugnay naman sa kasong ito ang mga taong nasa tabi ng dagat. Ang tagpo naman kasong yaon ay ang banal na lunsod na may sagradong tangke para sa pagpapagaling ng tao. Ang tagpo sa kasong ito ay nasa ilang na may sekular na dagat para sa kabuhayan ng tao. Ang tao sa kasong yaon ay inutil at nangangailangan ng pagbibigay-buhay ng buhay. Ang mga tao sa kasong ito ay gutom at nangangailangan ng pagpapakain ng buhay. Sa tipolohiya, ang lupa ay lupang nilikha ng Diyos para sa tao upang mabuhay rito, at ang dagat ay sumasagisag sa sanlibutang pinasama ni Satanas kung ang natisod na sangkatauhan ay namumuhay. Sa sanlibutang ito (sa tabi ng dagat) ang sangkatauhan ay gutom at walang kasiyahan. Sa sanlibutang ito ang sangkatauhan ay nagugulumihanan at walang kapayapaan. Ito ay nailarawan sa b. 18."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang bundok ay sumasagisag sa isang nangingibabaw na katayuan sa ibabaw ng lupa at ng karagatan. Upang matamasa ang pagpapakain ni Kristo, kailangang umakyat ang mga taong kasama ni Kristo sa bundok."
+        },
+        {
+            "id": "4-1",
+            "text": "Sa Paskua, papatayin ng mga tao ang nagtutubos na kordero, iwiwisik ang dugo nito, at kakainin ang laman nito. Ito ay sumasagisag kay Kristo, na siyang ating Paskua (1 Cor. 5:7), ang nagtutubos na Kordero ng Diyos (1:29; 36) na papatayin para sa atin upang tayo ay makakain ng Kanyang laman at makainom ng Kanyang dugo, sa ganitong pagtanggap natin sa Kanya bilang panustos ng buhay ay mabibigyang-kakayahan tayo na mamuhay sa pamamagitan Niya."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang denario ay ang pangunahing salaping pilak ng mga Romano; ang isang denario ay nagkakahalaga halos ng dalawampung sentimo ng isang dolyar ng Amerika, na itinuturing na mataas na kabayaran para sa isang araw na paggawa (Tingnan ang Mat. 20:2)."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang lima ay sumasagisag sa responsabilidad-ng pagiging responsable ni Kristo upang maging ating panustos ng buhay. Ang dalawa ay sumasagisag sa patotoo-nagpapatotoo na si Kristo ay naging panustos ng buhay natin."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang mga tinapay ay mula sa buhay-halaman, sumasagisag sa nagpapasibol na aspekto ng buhay ni Kristo. Ang mga isda ay galing sa buhay-hayop, sumasagisag sa nagtutubos na aspekto ng buhay ni Kristo. Bilang ang nagpapasibol na buhay, si Kristo ay tumutubo sa lupa, ang lupang nilikha ng Diyos; bilang ang nagtutubos na buhay, Si Kristo ay nabubuhay sa dagat, ang sanlibutang pinasama ni Satanas. Upang tayo ay maisilang na muli, Siya ay tumubo sa lupang nilikha ng Diyos para sa pagpaparami; upang matubos tayo, Siya ay namuhay sa makasatanas at makasalanang sanlibutan. Subali’t Siya ay walang kasalanan, hindi naaapektuhan ng sanlibutan tulad ng kung papaanong ang isda ay nabubuhay sa maalat na tubig nguni’t hindi naaasnan. Sa lupain ng mga Hudyo ang sebada ay unang nahihinog kaya ito ay pinakauna sa mga ani; dahil dito ito ay sumasagisag sa nabuhay na muling Kristo (Lev. 23:10). Sa gayon, ang sebadang tinapay ay kumakatawan kay Kristo sa pagkabuhay na muli bilang pagkain para sa atin."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang labindalawang bakol na natira ay sumasagisag sa mayamang pag-apaw ng panustos ng buhay ni Kristo, na nagpakain sa mga tao nang higit sa makalibong beses (nabigyang-kabusugan ng limang tinapay ang mga limang libong katao at may tira pa)."
+        },
+        {
+            "id": "15-1",
+            "text": "Yaon ay, upang gawin Siyang Mesiyas."
+        },
+        {
+            "id": "18-1",
+            "text": "Ito ay sumasagisag sa mga kagulumihanan sa pantaong buhay."
+        },
+        {
+            "id": "19-1",
+            "text": "Yaon ay, halos tatlo o apat na milya."
+        },
+        {
+            "id": "19-2",
+            "text": "Sinasagisag nito na ang Panginoon ay may kakayahang higitan ang lahat ng mga kagulumihanan ng pantaong buhay. Makalalakad Siya sa ibabaw ng magugulong alon ng pantaong buhay, at ang lahat ng kaguluhan ay nasa ilalim ng Kanyang mga paa."
+        },
+        {
+            "id": "21-1",
+            "text": "Kailangan nating tanggapin ang Panginoon sa ating “daong” (ang ating buhay may-asawa, ang ating pamilya, ang ating negosyo, atbp.) at tamasahin ang kapayapaan kasama Niya sa paglalakbay sa pantaong buhay."
+        },
+        {
+            "id": "27-1",
+            "text": "Tingnan ang tala 15-1 sa kap. 3. Gayundin sa bb. 40, 47, 54, 68."
+        },
+        {
+            "id": "28-1",
+            "text": "Sa loob ng kaisipan ng natisod na tao ay palagi na lamang naroroon ang gumawa ng mga bagay para sa Diyos at gumawa para sa Diyos. Ito ang prinsipyo ng puno ng kaalaman ng mabuti at masama sa Gen. 2."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang kaisipan ng Panginoon tungkol sa mga taong nananampalataya tungo sa loob Niya ay ang tanggapin Siya bilang buhay at panustos ng buhay. Ito ang prinsipyo ng puno ng buhay na nagdadala ng buhay sa Gen. 2 na kasalungat ng puno ng kaalaman na nagdadala ng kamatayan."
+        },
+        {
+            "id": "29-2",
+            "text": "Lit. tungo sa loob Niya."
+        },
+        {
+            "id": "29-3",
+            "text": "Tingnan ang tala 6-1 sa kap. 1. Gayundin sa b. 57."
+        },
+        {
+            "id": "33-1",
+            "text": "Sa pamamagitan ng pagiging laman."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang tinapay ng buhay ay ang panustos ng buhay sa anyo ng pagkain, tulad ng puno ng buhay (Gen. 2:9), na panustos din ng buhay na “mainam na kainin.”"
+        },
+        {
+            "id": "35-2",
+            "text": "Sa prinsipyong inilahad sa kap. 2, ito rin ay ang pagpapalit ng kamatayan tungo sa buhay. Ang kamatayan ay nagmumula ang puno ng kaalaman, at ang buhay ay nagmumula sa puno ng buhay."
+        },
+        {
+            "id": "35-3",
+            "text": "Lit. tungo sa loob Ko."
+        },
+        {
+            "id": "39-1",
+            "text": "Lit. mula sa lahat."
+        },
+        {
+            "id": "40-1",
+            "text": "Lit. tungo sa loob Niya."
+        },
+        {
+            "id": "42-1",
+            "text": "Tingnan ang tala 45-1 sa kap. 1."
+        },
+        {
+            "id": "45-1",
+            "text": "Gr. para . Ang diwa rito ay “tuwirang galing sa”."
+        },
+        {
+            "id": "46-1",
+            "text": "Tingnan ang tala 14-5 sa kap. 1."
+        },
+        {
+            "id": "51-1",
+            "text": "Tinutukoy ng “tinapay ng buhay” (b. 35) na ang kalikasan ng tinapay ay buhay; tinutukoy ng “buháy na tinapay” na ang kalagayan ng tinapay ay buháy."
+        },
+        {
+            "id": "51-2",
+            "text": "Lit. mula sa."
+        },
+        {
+            "id": "51-3",
+            "text": "Sa puntong ito, ang tinapay ay naging laman. Ang tinapay ay galing sa buhay-halaman at tangi lamang para sa pagpapakain; ang laman ay galing sa buhay-hayop at hindi lamang para sa pagpapakain, bagkus para rin sa pagtutubos. Bago ang pagkatisod ng tao, ang Panginoon ay ang puno ng buhay (Gen. 2:9), na para lamang sa pagpapakain ng tao. Pagkatapos ng pagkatisod ng tao sa kasalanan, ang Panginoon ay naging Kordero (1:29), hindi lamang para sa pagpapakain ng tao bagkus para rin sa katubusan ng tao (Exo. 12:4, 7-8)."
+        },
+        {
+            "id": "51-4",
+            "text": "Ibinigay ng Panginoon ang Kanyang katawan, yaon ay, ang Kanyang laman, namatay para sa atin upang mabigyan tayo ng buhay."
+        },
+        {
+            "id": "53-1",
+            "text": "Sa puntong ito ang dugo ay naidagdag, na kinakailangan para sa pagtutubos (19:34; Heb. 9:22; Mat. 26:28; 1 Ped. 1:18-19; Roma 3:25)."
+        },
+        {
+            "id": "54-1",
+            "text": "Lit. ngumunguya (at gayundin sa bb. 56, 57, 58)."
+        },
+        {
+            "id": "54-2",
+            "text": "Dito, ang “laman” at “dugo” ay magkahiwalay na binanggit. Kung ang dugo ay ihiwalay sa laman, ito ay nagsasaad ng kamatayan. Kaya, malinaw na tinukoy rito ng Panginoon ang Kanyang kamatayan, yaon ay, ang pagpatay sa Kanya. Kanyang ibinigay ang Kanyang katawan at nagbubo ng Kanyang dugo para sa atin upang magkaroon tayo ng buhay na walang hanggan. Ang kumain sa Kanyang laman ay ang tanggapin sa pamamagitan ng pananampalataya, ang lahat ng Kanyang ginawa sa pamamagitan ng pagbibigay ng Kanyang katawan para sa atin. At ang uminom ng Kanyang dugo ay ang tanggapin sa pamamagitan ng pananampalataya ang lahat ng Kanyang naisakatuparan sa pamamagitan ng pagbububo ng Kanyang dugo para sa atin. Ang ganitong uri ng pagkain sa Kanyang laman at pag-inom sa Kanyang dugo ay ang tanggapin Siya, sa Kanyang pagtutubos, bilang buhay at panustos ng buhay sa pamamagitan ng pananampalataya sa kung ano ang Kanyang ginawa sa krus para sa atin. Sa paghahambing ng bersikulong ito sa b. 47, makikita natin na ang kumain ng laman ng Panginoon at ang uminom ng Kanyang dugo ay katumbas ng pagsampalataya sa Kanya. Sapagka’t ang sumampalataya ay ang tumanggap (1:12)."
+        },
+        {
+            "id": "56-1",
+            "text": "Tinutukoy nito na ang Panginoon ay dapat mabuhay na muli upang Siya ay makapanahanan sa atin bilang ating buhay at panustos ng buhay."
+        },
+        {
+            "id": "57-1",
+            "text": "Ang kumain ay ang tumanggap ng pagkain sa loob natin upang tunawin at tanggapin ng ating katawan nang organiko. Kaya, ang kainin ang Panginoong Hesus ay ang tanggapin Siya tungo sa loob natin upang tunawin at tanggapin ng ating naisilang na muling bagong tao sa paraan ng buhay. Pagkatapos ay mabubuhay tayo sa pamamagitan Niya na ating tinanggap. Sa pamamagitan nito, Siya ay mabubuhay sa loob natin bilang ang nabuhay na muling Isa (14:19-20)."
+        },
+        {
+            "id": "62-1",
+            "text": "Sa b. 56 ay ipinahiwatig ang pagkabuhay na muli ng Panginoon. Sa bersikulong ito ang Kanyang pag-akyat sa langit na sumusunod sa Kanyang pagkabuhay na muli ay malinaw na nabanggit. Ang pag-akyat sa langit ay ang katibayan ng kaganapan ng Kanyang gawain ng pagtutubos (Heb. 1:3b)."
+        },
+        {
+            "id": "63-1",
+            "text": "Sa puntong ito, ang Espiritung nagbibigay ng buhay ay naipasok. Pagkatapos ng pagkabuhay na muli at sa pamamagitan ng pagkabuhay na muli, ang Panginoong Hesus, na naging laman (1:14), ay naging ang Espiritung nagbibigay ng buhay, tulad sa malinaw na nabanggit sa 1 Cor. 15:45. Dahil sa Siya ay ang Espiritung nagbibigay-buhay, Siya ay may kakayahang maging ating buhay at panustos ng buhay. Nang ating tinanggap itong Tagapagligtas na naipako sa krus at nabuhay na muli, ang Espiritung nagbibigay ng buhay ay pumasok sa atin upang ibahagi ang buhay na walang hanggan sa loob natin. Ang ating tinanggap ay ang Panginoong Hesus, subali’t ang ating natamo ay ang Espiritung nagbibigay ng buhay."
+        },
+        {
+            "id": "63-2",
+            "text": "Ang laman dito, ayon sa kahulugan ng nilalaman, ay tumutukoy sa karne ng pisikal na katawan. Nang sabihin ng Panginoon, “Ang tinapay na Aking ibibigay ay ang Aking laman” (b. 51), inakala ng mga Hudyo na Kanyang ibibigay ang karne ng Kanyang pisikal na katawan sa kanila upang kainin (b. 52). Hindi nila naunawaan nang wasto ang salita ng Panginoon. Sa kanila, yaon ay isang matigas na pananalita (b. 60). Sa gayon sa bersikulong ito, ang Panginoon ay nagdagdag ng pagpapaliwanag na ang ibibigay Niya sa kanila upang kainin ay hindi ang laman ng Kanyang pisikal na katawan; ang karne, na siyang laman, ay walang kapakinabangan. Ang Kanyang ibibigay, sa kahuli-hulihan, ay ang Espiritung nagbibigay-buhay, na Siya Mismo sa pagkabuhay na muli."
+        },
+        {
+            "id": "63-3",
+            "text": "Ang mga salita sa Griyego ay rhema , na nangangahulugang ang kagyat at pangkasalukuyang binigkas na salita. Ito ay naiiba sa logos , na nangangahulugang ang palagiang salita, tulad sa 1:1. Sa puntong ito pagkatapos mabanggit ang “Espiritu” ay binanggit ang “mga salita”. Ang Espiritu ay buháy at totoo, subali’t mahiwaga at di-nahahawakan, at mahirap maunawaan ng tao; nguni’t ang mga salita ay kongkreto. Una, tinukoy ng Panginoon na para sa pagbibigay ng buhay, Siya ay kinakailangang maging ang Espiritu. Pagkatapos ay sinabi Niyang ang mga salitang Kanyang sinasalita ay pawang espiritu at buhay. Ito ay nagpapakita na ang Kanyang mga sinabing salita ay ang kongkretong kahayagan ng Espiritung nagbibigay-buhay. Siya ngayon ang Espiritung nagbibigay-buhay sa pagkabuhay na muli, at ang Espiritu ay nakapaloob sa Kanyang mga salita. Kapag tinanggap natin ang Kanyang mga salita sa pamamagitan ng pagsasanay ng ating espiritu, ating natatamo ang Espiritu na siyang buhay. (Gayundin sa b. 68)."
+        },
+        {
+            "id": "64-1",
+            "text": "Lit., ipamimigay Siya. Gayundin sa buong aklat."
+        },
+        {
+            "id": "68-1",
+            "text": "Gr. rhema . Tingnan ang 63-3 ."
         }
     ]
 }

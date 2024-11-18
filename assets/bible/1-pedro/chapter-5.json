@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,23 +7,23 @@
             "footnotes": [
                 {
                     "word": "Kaya",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "kasamang",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "saksi",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "1-5"
                 }
             ],
             "outlines": [
@@ -37,19 +37,19 @@
             "footnotes": [
                 {
                     "word": "pastulin",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "kawan",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "pangasiwaan",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "Diyos;",
-                    "note": ""
+                    "id": "2-4"
                 }
             ],
             "outlines": null
@@ -60,19 +60,19 @@
             "footnotes": [
                 {
                     "word": "nagpapapanginoon",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "ipinagtagubiling",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "maging",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "kawan.",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": null
@@ -83,7 +83,7 @@
             "footnotes": [
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": [
@@ -96,27 +96,27 @@
             "footnotes": [
                 {
                     "word": "matatanda,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "magbigkis",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "kapakumbabaan",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "sinasalansang",
-                    "note": ""
+                    "id": "5-4"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "5-6"
                 },
                 {
                     "word": "mapagpakumbaba.",
-                    "note": ""
+                    "id": "5-7"
                 }
             ],
             "outlines": [
@@ -130,11 +130,11 @@
             "footnotes": [
                 {
                     "word": "pakumbaba",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "itaas",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -145,19 +145,19 @@
             "footnotes": [
                 {
                     "word": "ilagak",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "kabalisahan,",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "7-4"
                 }
             ],
             "outlines": null
@@ -168,31 +168,31 @@
             "footnotes": [
                 {
                     "word": "mahinahon;",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "magbantay",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "katunggali,",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "Diyablo,",
-                    "note": ""
+                    "id": "8-4"
                 },
                 {
                     "word": "umuungal",
-                    "note": ""
+                    "id": "8-5"
                 },
                 {
                     "word": "gumagala,",
-                    "note": ""
+                    "id": "8-6"
                 },
                 {
                     "word": "naghahanap",
-                    "note": ""
+                    "id": "8-7"
                 }
             ],
             "outlines": null
@@ -203,19 +203,19 @@
             "footnotes": [
                 {
                     "word": "labanan",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "pagdurusa",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "9-4"
                 }
             ],
             "outlines": null
@@ -226,39 +226,39 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "buong",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "kay",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "10-5"
                 },
                 {
                     "word": "magpapasakdal,",
-                    "note": ""
+                    "id": "10-6"
                 },
                 {
                     "word": "magpapatibay,",
-                    "note": ""
+                    "id": "10-7"
                 },
                 {
                     "word": "magpapalakas",
-                    "note": ""
+                    "id": "10-8"
                 },
                 {
                     "word": "magtatatag-",
-                    "note": ""
+                    "id": "10-9"
                 }
             ],
             "outlines": [
@@ -271,7 +271,7 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -282,11 +282,11 @@
             "footnotes": [
                 {
                     "word": "sinasaksihan",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "tunay",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -300,15 +300,15 @@
             "footnotes": [
                 {
                     "word": "kasamang-",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Babilonia",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "Marcos",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": [
@@ -321,14 +321,236 @@
             "footnotes": [
                 {
                     "word": "Kapayapaan",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ito ay nagpapakita na ang bb. 1-11 ay isang nagtatapos na salita sa naunang bahagi (4:12-19) hinggil sa pagdurusa para kay Kristo sa marangal na paggawa ng matuwid. Ang pagbibigay-sigla ay ikinalat sa mga matanda sa ekklesia sa bb. 1-4, sa mga kabataang miyembro sa b. 5, at sa lahat sa pangkalahatan sa bb. 6-11."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang mga matanda ay ang mga tagapagmasid sa ekklesia (tingnan ang tala 2-1 sa 1 Tim. 3), na nangunguna sa mga mananampalataya sa mga espirituwal na bagay (Heb. 13:17). Unang-una, namamanhikan sa kanila ang apostol, umaasa na sila ay mangunguna sa pagdurusa nang marangal para kay Kristo."
+        },
+        {
+            "id": "1-3",
+            "text": "Si Pedro ang nangunguna sa kauna-unahang labindalawang Apostol (Mat. 10:1-4; Gawa 1:13), at, sa gayunding panahon, siya ay isa sa mga matanda sa ekklesia sa Herusalem, katulad ni Apostol Juan (2 Juan 1; 3 Juan 1; Gawa 15:6; 21:17-18). Dito, sa paghihikayat sa mga matanda sa ibang mga ekklesia, hindi niya ginagamit ang kanyang pagkaapostol, kundi ang kanyang pagkamatanda upang magsalita sa kanila ayon sa kanilang antas sa isang matalik na paraan."
+        },
+        {
+            "id": "1-4",
+            "text": "Si Pedro at ang mga apostol noong una ay mga saksi ni Kristo (Gawa 1:8), hindi lamang bilang mga saksi na nagpapatunay ng kanilang nakita sa mga pagdurusa ni Kristo (Gawa 5:32; 10:39), bagkus mga martir ding nagpapatunay ng kanilang patotoo sa pamamagitan ng pagdurusa ng pagkamartir para sa Kanya (Gawa 22:20; 2 Cor. 1:8-9; 4:10-11; 11:23; 1 Cor. 15:31). Ito ay ang pakikibahagi sa mga pagdurusa ni Kristo (4:13), upang makilahok sa pagsasalamuha ng Kanyang mga pagdurusa (Fil. 3:10)."
+        },
+        {
+            "id": "1-5",
+            "text": "Unang-una, si Pedro ay isang saksi, isang martir, isang nakikibahagi sa mga pagdurusa ni Kristo, pagkatapos, isang nakikibahagi sa Kanyang kaluwalhatian (Roma 8:17). Si Kristo Mismo ay dumaan na sa gayunding daan (1:11; Luc. 24:26)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang pastulin ang kawan ng Diyos ay nangangailangan ng pagdurusa para sa Katawan ni Kristo katulad ng ginawa ni Kristo (Col. 1:24). Ito ay gagantimpalaan ng hindi kumukupas na putong ng kaluwalhatian (b. 4)."
+        },
+        {
+            "id": "2-2",
+            "text": "Lit. maliit na kawan, yaon ay, ang ekklesia ng Diyos (Gawa 20:28), na maliit sa bilang (Luc. 12:32) kung ihahalintulad sa sanlibutan. Itong maliit na kawan ng ekklesia ay isang maliit na halaman para sa panustos ng buhay, hindi isang malaking puno para sa tirahan ng mga ibon (Mat. 13:31-32 at mga tala), hindi isang malaking relihiyon na katulad ng Sangkakristiyanuhan."
+        },
+        {
+            "id": "2-3",
+            "text": "Nagmamasid, tinitingnang mabuti nang may kasipagan upang malaman ang situwasyon."
+        },
+        {
+            "id": "2-4",
+            "text": "Yaon ay, ayon sa kalikasan, naisin, paraan, at kaluwalhatian ng Diyos, hindi ayon sa pagtatangi, kapakanan, at layunin ng tao."
+        },
+        {
+            "id": "3-1",
+            "text": "Ipinatutupad ang pagkapanginoon sa pinamumunuan (Mat. 20:25). Sa mga mananampalataya, maliban kay Kristo ay wala nang dapat na maging Panginoon; ang lahat ay dapat maging mga tagapaglingkod, mga alipin pa (Mat. 20:26-27; 23:10-11). Ang mga matanda sa ekklesia ay maaari lamang makapanguna (hindi maaaring magpapanginoon), kaya kinakailangang igalang at sundin ng mga mananampalataya ang ganitong pangunguna (1 Tes. 5:12; 1 Tim. 5:17)."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang ipinagtagubiling bahagi sa orihinal na teksto ay tumutukoy sa isang inilaang piraso ng lupa o bahagi ng mana, sa sumusunod na saknong ay tumutukoy ito sa “kawan”. Ang mga ekklesia ay pag-aari ng Diyos na ibinahagi sa mga matanda bilang ipinagtagubiling bahagi sa kanila, ang kanilang mga bahagi, na ipinagkatiwala sa kanila ng Diyos para sa kanilang pangangalaga."
+        },
+        {
+            "id": "3-3",
+            "text": "Yaon ay, nangungunang maglingkod at mangalaga sa ekklesia upang sundan ng mga mananampalataya."
+        },
+        {
+            "id": "3-4",
+            "text": "Tingnan ang tala 2-2 ."
+        },
+        {
+            "id": "4-1",
+            "text": "Sa panahon ng apostol, ang mga putong ay ibinigay sa mga nagwawagi sa mga larong pampalakasan at pakikidigma (1 Cor. 9:25; 2 Tim. 4:8). Yaon ay mga putong na nasisira, na kumukupas ang kaluwalhatian. Ang putong na ibibigay ng Panginoon sa mga tapat na matanda ay magiging isang gantimpala para sa kanilang tapat na paglilingkod. Ang kaluwalhatian ng putong na ito ay hindi kukupas magpakailanman. Ito ay magiging isang bahagi ng kaluwalhatian para sa katamasahan ng mga mandaraig sa pagpapakita ng kaharian ng Diyos at ni Kristo (2 Ped. 1:11)."
+        },
+        {
+            "id": "5-1",
+            "text": "Bagama’t ang salitang Griyego ay pareho ng sa b. 1, ito ay dapat, sa prinsipyo, na tumukoy sa lahat ng mga nakatatandang tao."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang salitang Griyego ay hinango mula sa isang pangngalan na nangangahulugang isang tapi na nagtatali sa maluwang na kasuotan ng isa habang siya ay naglilingkod. Ito ay isang talinghaga na sumasagisag sa pagbibihis ng kababaan bilang isang katangian sa paglilingkod. Ang sagisag na ito ay malinaw na nanggaling sa pagkakintal kay Pedro kung paano binigkisan ng Panginoon ang Kanyang Sarili ng isang tuwalya nang Siya ay nagpakumbaba upang hugasan ang mga paa ng mga disipulo, lalo na ang kay Pedro (Juan 13:4-7). Ang kaisipan ng pagbibigkis ay ipinakilala na ni Pedro sa 1:13."
+        },
+        {
+            "id": "5-3",
+            "text": "O, pagkamababa. Katulad ng nasa Efe. 4:2."
+        },
+        {
+            "id": "5-4",
+            "text": "Isang malakas na salita para sa isang hukbo na naghahandang lumaban sa kaaway."
+        },
+        {
+            "id": "5-5",
+            "text": "Lit. nagpapakitang nasa ibabaw (ng iba)."
+        },
+        {
+            "id": "5-6",
+            "text": "Sa tuwirang pagsasalita, tumutukoy sa Tres-unong Diyos Mismo bilang panustos ng buhay na pinararami sa loob ng mapagkumbabang mananampalataya. Tingnan ang mga tala 2-8 sa kapitulo 1 at 10-1 sa kapitulo 5."
+        },
+        {
+            "id": "5-7",
+            "text": "O, mababa, katulad sa Mat. 11:29."
+        },
+        {
+            "id": "6-1",
+            "text": "Pabalintiyak, nangangahulugang gawing mababa ng Diyos, sa pamamagitan halos ng mga pagdurusa ng pag-uusig (b. 10). Ito, gayunpaman, ay nangangailangan ng ating pakikipagtulungan sa pagkilos ng Diyos; kinakailangan tayong maging handa na gawing mapagkumbaba, mababa, sa ilalim ng makapangyarihang kamay ng Diyos. Kaya, magpakumbaba. Ang “pakumbaba” ay pabalintiyak, subali’t ang “mag” ay tahasan. Habang ang Diyos ay kumikilos upang gumawa sa atin, kinakailangan nating magkusa upang makagawa Siya sa atin. Ang magkusa ay tahasan; ang makagawa Siya sa loob natin ay pabalintiyak. Ito ay ang ating pagkukusa na maging nasa ilalim ng kamay ng Diyos na makapangyarihang gumagawa ng lahat ng bagay para sa atin."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang magpasakop sa makapangyarihang kamay ng Diyos, handang gawing mababa, ay ang tanggapin ang kagalang-galang na paraan ng Diyos na nagbibigay sa Kanya ng batayan upang itaas tayo sa Kanyang panahon. Ang pagiging handang mapababa ng nagpapababang kamay ng Diyos sa Kanyang disiplina ay isang pangunahing kahilingan upang maitaas ng nagtataas na kamay ng Diyos sa Kanyang pagluluwalhati."
+        },
+        {
+            "id": "7-1",
+            "text": "O, itapon sa Kanya, yaon ay, ihabilin sa Diyos, isuko sa Diyos. Tinutukoy ng pandiwang ito ang isang pagkilos na minsan para sa lahat."
+        },
+        {
+            "id": "7-2",
+            "text": "Yaon ay, ang buong bahagi ng iyong pagkabalisa sa buong buhay mo, ang buong buhay na kasama ang lahat ng pagkabalisa nito."
+        },
+        {
+            "id": "7-3",
+            "text": "O, pag-aalala, ligalig. Sa gitna ng pag-uusig ang mga pagdurusa ng mga mananampalataya ay nagsasanhi ng pag-aalala at pagkabalisa sa kanila. Hindi lamang sila dapat mapababa, madalang pababa mula sa kanilang kataasan, kanilang kapalaluan, bagkus dapat ding maihabilin ang kanilang buhay na kasama ang lahat ng mga pag-aalala nito sa Diyos; dahil Siya ay hindi lamang makapangyarihan at matuwid, bagkus mapagmahal din at tapat hinggil sa kanila."
+        },
+        {
+            "id": "7-4",
+            "text": "O, Siya ay nag-aalala sa inyo. Ang nagdidisiplina at naghahatol na Diyos ay may mapagmahal na pagmamalakasakit para sa mga mananampalataya, lalo na ang mga pinag-uusig. Siya ay nag-aalala sa kanila nang tapat. Maihahabilin nila ang kanilang pag-aalala sa Kanya, lalo na sa panahon ng pag-uusig sa kanila."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang maging mahinahon ay ang magkaroon ng isang malinaw na kaisipan ng kahinahunan at pagtitimpi, upang malaman natin, lalo na sa ipinakikita ng kapitulong ito, ang layunin ng Diyos sa pagdidisiplina sa atin at ang masamang balak ng Kanyang kaaway upang puksain tayo. Tingnan ang tala 7-3 sa kapitulo 4."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang magbantay ay ang maging alisto katulad ng mga sundalo na nasa prontera. Dito natatanging tumutukoy ito sa pagiging mapagbantay sa paglaban sa pagkabalisa na dala ng kaaway sa mga mananampalatayang nagdurusa sa gitna ng pag-uusig."
+        },
+        {
+            "id": "8-3",
+            "text": "Lit. isang kalaban (sa isang usapin), tumutukoy rito kay Satanas, na nag-aakusa sa atin (Apoc. 12:9-10 at tala 9-3 )."
+        },
+        {
+            "id": "8-4",
+            "text": "Tingnan ang tala 1-3 sa Mateo 4."
+        },
+        {
+            "id": "8-5",
+            "text": "Pumapalahaw sa kagutuman."
+        },
+        {
+            "id": "8-6",
+            "text": "Ito ay tumutukoy sa palagian at agresibong gawain ni Satanas sa paghahanap ng masisila."
+        },
+        {
+            "id": "8-7",
+            "text": "Binabalaan dito ni Pedro ang mga nagdurusang mananampalataya na nasa ilalim ng pag-uusig. Kung ayaw nilang magpakumbaba sa ilalim ng makapangyarihang kamay ng Diyos (b. 6) at hindi maglalagak ng kanilang pagkabalisa sa Diyos (b. 7), sila ay masisila ng gumagalang leon, ang Diyablo, ang kanilang katunggali. Ito ay nagtuturo sa atin na ginagawa tayong masarap na pain ng kapalaluan at kabalisahan upang bigyang-kasiyahan ang kagutuman ng umuungal na leon. Sa ganitong dahilan walang alinlangan na hindi makalimutan ni Pedro ang babala sa kanya hinggil sa naisin ng Diyablo (Luc. 22:31)."
+        },
+        {
+            "id": "9-1",
+            "text": "Hindi ang tiisin ni ang makipagtunggali, kundi ang tumayong matibay bilang isang bato sa batayan ng ating pananampalataya sa harapan ng umuungal na Diyablo."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang “pananampalataya” rito sa katunayan ay nangangahulugang “inyong pananampalataya,” na tumutukoy sa subhektibong pananampalataya ng mga mananampalataya, ang kanilang pananampalataya sa nagsasanggalang na kapangyarihan at nagmamahal na pagmamalasakit ng Diyos."
+        },
+        {
+            "id": "9-3",
+            "text": "Yaon ay, mga pagdurusa sa pag-uusig, ayon sa nilalaman ng kapitulong ito at ng nauna."
+        },
+        {
+            "id": "9-4",
+            "text": "Tingnan ang tala 17-1 sa kap. 2."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang “Datapuwa’t” ay nagpapakita ng isang paghahambing, nagdadala ng aliw at pagpapalakas-ng-loob sa mga nagdurusang mananampalataya. Kayo at ang inyong mga kapatiran ay nagdurusa sa pananakot ng inyong katunggali, yaon ay, ang pag-ungal ng Diyablo na tulad ng leon, nang panandalian lamang, datapuwa’t ang Diyos ng buong biyaya, ng masagana at mabiyayang panustos ng buhay na lumalampas sa lahat ng inyong pangangailangan, ang magpapasakdal, magpapatibay, magpapalakas, at magtatatag-ng-saligan sa inyo."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang buong biyaya ay tumutukoy sa mga kayamanan ng masaganang tustos ng dibinong buhay sa maraming aspekto na inihain sa atin sa maraming hakbang ng dibinong pagkilos sa atin at sa loob natin sa ekonomiya ng Diyos. Ang unang hakbang ay ang tawagin tayo, at ang sukdulan ay ang luwalhatiin tayo, kagaya ng binanggit dito, “na sa inyo ay tumawag tungo sa Kanyang walang hanggang kaluwalhatian.” Sa pagitan ng dalawang hakbang na ito ay ang Kanyang mapagmahal na pagmamalasakit habang tayo ay dinidisiplina Niya, at ang Kanyang pagpapasakdal, pagpapatibay, pagpapalakas, at pagtatatag-ng-saligan sa atin. Sa lahat ng mga dibinong pagkilos na ito, ang masaganang tustos ng dibinong buhay ay inihahain sa atin bilang biyaya sa iba’t ibang karanasan (tingnan ang tala 2-8 sa kap. 1 at 10-1 sa kap. 4). Ang Diyos ng gayong biyaya ang magpapasakdal, magpapatibay, magpapalakas, at magtatatag-ng-saligan sa mga pinag-uusig na mananampalataya pagkatapos na sila ay magdusa nang panandalian."
+        },
+        {
+            "id": "10-3",
+            "text": "Tungo sa, sumasagisag sa pakikilahok, pakikibahagi."
+        },
+        {
+            "id": "10-4",
+            "text": "Ipinapakahulugan ng “kay Kristo” na ang Diyos ng buong biyaya ay dumaan sa lahat ng mga hakbangin ng pagkakatawang-tao, pantaong pamumuhay, pagkapako sa krus, pagkabuhay na muli, at pag-akyat sa langit upang isagawa ang kumpleto at ganap na pagtutubos, upang Kanyang madala ang Kanyang mga tinubos na tao paloob sa isang organikong pakikipag-isa sa Kanya. Sa gayon, sila ay makakabahagi sa mga kayamanan ng Tres-unong Diyos bilang kanilang katamasahan. Ang lahat ng mga hakbangin ng dibinong pagkilos ay na kay Kristo, na Siyang pagsasakatawan ng Tres-unong Diyos, na naging nagpapaloob-ng-lahat na Espiritung nagbibigay buhay bilang masaganang panustos ng buhay sa atin. Sa loob ng Kristong ito, sa pamamagitan ng Kanyang nagpapaloob-ng-lahat na pagtubos, at batay sa lahat ng Kanyang mga nagawa, ang Diyos ay magiging Diyos ng buong biyaya upang tawagin tayo tungo sa Kanyang walang hanggang kaluwalhatian, at upang pasakdalin, patibayin, palakasin, at patatatagin tayo nang mabuti sa Tres-unong Diyos (1:1-2) bilang matibay na pundasyon, kaya makakaya nating abutin ang Kanyang maluwalhating layunin. Anong himala na ang mga natisod na makasalanan ay maipapasok sa walang hanggang kaluwalhatian ng Diyos! At anong husay ang Kanyang gawain ng pagpapasakdal, pagpapatibay, pagpapalakas, at pagpapatatag nang mabuti sa atin! Ito ay naisagawang lahat sa pamamagitan ng Kanyang “buong biyaya,” na “tunay na biyaya” (b. 12)."
+        },
+        {
+            "id": "10-5",
+            "text": "Tumutukoy sa pagkilos mismo ng Diyos sa loob ng gawain ng biyaya."
+        },
+        {
+            "id": "10-6",
+            "text": "Tingnan ang tala 9-2 sa 2 Corinto 13."
+        },
+        {
+            "id": "10-7",
+            "text": "Lit. ang itakda nang mabilis, ang pagtibayin. Ang parehong salita ay ginamit ng Panginoon sa Kanyang pag-aatas kay Pedro sa Luc. 22:32."
+        },
+        {
+            "id": "10-8",
+            "text": "Ang kahulugan nito ay napakalapit sa “pagtibayin.”"
+        },
+        {
+            "id": "10-9",
+            "text": "Lit. ang maglagay ng isang saligan. Ito ay hinango sa salita na nangangahulugang pundasyon. Kaya ito ay ang saligan nang matibay, katulad sa Mat. 7:25, Efe. 3:17, at Heb. 1:10. May pag-unlad sa apat na dibinong gawain ng biyaya. Ang pagpapasakdal ay nauuwi sa pagpapatibay, ang pagpapatibay sa pagpapalakas, at ang pagpapalakas sa pagtatatag-ng-saligan sa loob ng Diyos ng buong biyaya. Ang Diyos ng buong biyaya ay ang Tres-unong Diyos sa Kanyang pamamahagi bilang matatag na saligan (1:2)."
+        },
+        {
+            "id": "11-1",
+            "text": "Inaalis ng ilang manuskrito ang kaluwalhatian."
+        },
+        {
+            "id": "12-1",
+            "text": "Si Pedro ay isang saksi (b. 1), ipinapatotoo ang Kanyang nakita at naranasan. Ipinapatotoo niya na ang kanyang isinulat sa Sulat na ito bilang isang tala ng biyaya ng Diyos ay pawang totoo."
+        },
+        {
+            "id": "12-2",
+            "text": "Tumutukoy sa “buong biyaya” sa b. 10, na kung saan inatasan ng apostol ang mga mananampalataya na magsitibay rito. Ang aklat na ito ay pangunahing isinulat upang ipakita sa mga pinag-uusig na mananampalataya ang pampamahalaang layunin ng Diyos sa kanilang mga pagdurusa. Upang malampasan nila ang mga ganoong pagdurusa, tutustusan sila ng Diyos ng lahat ng naparami, ng iba’t iba, at ng tunay na biyaya (b. 10; 1:2; 4:10), na sapat upang makaya nilang makibahagi sa pagdurusa ni Kristo at para kay Kristo (2:21; 3:14-17; 4:12-16), at pasasakdalin, patitibayin, palalakasin, at patatatagin sila sa loob ng Tres-unong Diyos, at dadalhin sila tungo sa Kanyang walang hanggang kaluwalhatian (b. 10)."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang salitang Griyego at ang tiyak na pantukoy nito ay pambabae. Ito ay maaaring tumutukoy sa asawa ni Pedro, na sumama sa kanya sa paglalakbay (1 Cor. 9:5), o sa isang kilalang kapatid na babae sa Panginoon, na kasamang-hinirang ng Diyos hindi lamang sa mga tumanggap ng Sulat na ito, bagkus kay Pedro rin at sa lahat ng ibang mga mananampalataya. Ang ilan ay nagpapalagay na ito ay tumutukoy sa ekklesia."
+        },
+        {
+            "id": "13-2",
+            "text": "Sa buong itinagal ng mga siglo pinanghawakan ng mga dakilang guro ang dalawang magkaibang pagpapakahulugan ng pangalang ito: ang isa ay matalinghaga, tumutukoy sa Roma, ang kapitolyo ng Emperyo Romano; ang isa pa ay literal, tumutukoy sa Babilonia, isang malaking lunsod sa Eufrates. Ang mga dahilan para sa huli ay higit na lohikal kaysa sa nauna. Unang-una, tila ba walang dahilan si Pedro na gamitin ang isang matalinghagang pangalan upang itago ang lunsod na kanyang kinaroroonan. Ikalawa, ang lahat ng mga pangalan ng lugar na kanyang ginamit ay pawang tunay na pangalan ng mga lugar (1:1). Ikatlo, sa Bagong Tipan ang pangalang Roma ay laging malinaw na binabanggit (Gawa 19:21; 28:14, 16; Roma 1:7, 15), maging hanggang sa panahon nang isinulat ang huling Sulat ni Pablo na siyang Ikalawang Timoteo (2 Tim. 1:17), na malamang na isinulat pagkatapos ng I Pedro. Noon lamang naisulat ang Apocalipsis ni Juan, isang aklat ng mga sagisag, mga A.D. 90, na ginamit ang matalinghagang pangalan ng Dakilang Babilonia para sa lunsod ng Roma (Apoc. 17:5; 18:2)."
+        },
+        {
+            "id": "13-3",
+            "text": "Si Juan Marcos (Gawa 12:12, 25), ang sumulat ng Ebanghelyo ni Marcos. Siya, bilang espirituwal na anak ni Pedro, ay naroong kasama niya. Hindi naglaon, siya ay dinala ni Timoteo kay Pablo (2 Tim. 4:11)."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang kapayapaan ay nagreresulta mula sa biyaya, lumalabas mula sa pagtatamasa sa Tres-unong Diyos. Ang gayong pagtatamasa sa Diyos bilang dumarami at naparaming biyaya (1:2), ang iba’t ibang biyaya (4:10), ang buong biyaya (b. 10), at ang tunay na biyaya (b. 12) bilang realidad ng mga nilalaman ng buhay-Kristiyano sa ilalim ng pamahalaan ng Diyos ay nagreresulta sa isang kalagayan ng kapayapaan kapwa sa Diyos at sa tao."
+        },
+        {
+            "id": "14-2",
+            "text": "Binibigyang-diin ni Pedro ang katotohanan na ang mga mananampalataya ay nasa loob ni Kristo (3:16; 5:10). Tayo ay napasa loob ni Kristo dahil sa Diyos at sa pamamagitan ng ating pananampalataya at bautismo (1 Cor. 1:30; Juan 3:5; Gal. 3:27; Roma 6:3). Ito ay nagreresulta sa isang organikong pakikipag-isa sa Tres-unong Diyos (Mat. 28:19), at ginagawa tayo nitong kaisang espiritu ng Panginoon (1 Cor. 6:17)."
         }
     ]
 }

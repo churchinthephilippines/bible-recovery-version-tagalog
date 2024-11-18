@@ -1,5 +1,5 @@
 {
-    "chapter": 6,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "anak,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "matuwid.",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -28,11 +28,11 @@
             "footnotes": [
                 {
                     "word": "Igalang",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -43,11 +43,11 @@
             "footnotes": [
                 {
                     "word": "maging",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "mabuhay",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -58,15 +58,15 @@
             "footnotes": [
                 {
                     "word": "mungkahiin",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "palakihin",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "saway",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -77,23 +77,23 @@
             "footnotes": [
                 {
                     "word": "alipin,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "magsitalima",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "takot",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "katapatan",
-                    "note": ""
+                    "id": "5-4"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "5-5"
                 }
             ],
             "outlines": [
@@ -106,11 +106,11 @@
             "footnotes": [
                 {
                     "word": "paglilingkod-",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -121,7 +121,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -132,7 +132,7 @@
             "footnotes": [
                 {
                     "word": "ito",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -143,7 +143,7 @@
             "footnotes": [
                 {
                     "word": "iwan",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -154,15 +154,15 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "magpakalakas",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": [
@@ -176,19 +176,19 @@
             "footnotes": [
                 {
                     "word": "Mangagbihis",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "buong",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "makatayo",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "lalang",
-                    "note": ""
+                    "id": "11-4"
                 }
             ],
             "outlines": null
@@ -199,19 +199,19 @@
             "footnotes": [
                 {
                     "word": "dugo",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "pinuno,",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "kadilimang",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "sangkalangitan.",
-                    "note": ""
+                    "id": "12-4"
                 }
             ],
             "outlines": null
@@ -222,19 +222,19 @@
             "footnotes": [
                 {
                     "word": "buong",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "makatagal",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "tumayo",
-                    "note": ""
+                    "id": "13-4"
                 }
             ],
             "outlines": null
@@ -245,19 +245,19 @@
             "footnotes": [
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "nabibigkisan",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "katotohanan,",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "suot",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": null
@@ -268,11 +268,11 @@
             "footnotes": [
                 {
                     "word": "nasasapnan",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "matibay",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -283,15 +283,15 @@
             "footnotes": [
                 {
                     "word": "kinukuha",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "nagliliyab",
-                    "note": ""
+                    "id": "16-3"
                 }
             ],
             "outlines": null
@@ -302,23 +302,23 @@
             "footnotes": [
                 {
                     "word": "tanggapin",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "turbante",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "tabak",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "17-4"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "17-5"
                 }
             ],
             "outlines": null
@@ -329,19 +329,19 @@
             "footnotes": [
                 {
                     "word": "espiritu,",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "nangagpupuyat",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "buong",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "daing",
-                    "note": ""
+                    "id": "18-4"
                 }
             ],
             "outlines": null
@@ -352,11 +352,11 @@
             "footnotes": [
                 {
                     "word": "pananalita",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "hiwaga",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -367,15 +367,15 @@
             "footnotes": [
                 {
                     "word": "sugong",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "natatanikalaan,",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "ganito",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": null
@@ -386,11 +386,11 @@
             "footnotes": [
                 {
                     "word": "lingkod",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "magbibigay-",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": [
@@ -410,15 +410,15 @@
             "footnotes": [
                 {
                     "word": "Kapayapaan",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "23-3"
                 }
             ],
             "outlines": [
@@ -431,18 +431,280 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "nagsisiibig",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "24-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa pagpapayo sa mga anak at mga magulang, unang tinutuos ng apostol ang mga anak, yamang karamihan sa mga suliranin ay nagmumula sa mga anak. Hinggil sa pagtatalakay na ang ekklesia ay ang kasintahang babae (5:22-33), ang ekklesia ay mandirigma (bb. 10-20). Sa gitna ng dalawang seksiyong ito ay isiningit ang mga bersikulo 1 hanggang 9, tinutuos ang relasyong namamagitan sa mga anak at mga magulang; sa mga alipin at sa mga panginoon. Kung pababayaan natin ang puntong ito, hindi tayo magiging wastong kasintahang babae ni mandirigma. Hinggil sa lahat ng mga panghihikayat na ito, inilahad ni Pablo sa atin ang isang napakahalagang leksiyon na dapat nating pag-aralan para sa sa kapakanan ng buhay-ekklesia. Kinakailangan nating magkaroon ng wastong pantaong buhay sa pangkasalukuyang panahon."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “sa loob ng Panginoon” ay tumutukoy sa pagtalima sa mga magulang: 1) sa pamamagitan ng pagiging kaisa ng Panginoon; 2) hindi sa pamamagitan ng inyong mga sarili kundi sa pamamagitan ng Panginoon; at 3) hindi ayon sa inyong natural o likas na kaisipan, kundi ayon sa salita ng Panginoon."
+        },
+        {
+            "id": "1-3",
+            "text": "O, nararapat. Ang pagtalima sa mga magulang ay hindi lamang matuwid kundi nararapat din."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang “igalang” at “magsitalima” ay hindi magkatulad. Ang pagtalima ay sa pagkilos, ang paggalang ay sa saloobin. Ang mga anak ay maaaring magsitalima sa mga magulang nang walang paggalang. Upang igalang ang mga magulang, nangangailangan ng isang saloobing magalang at espiritung magalang. Ang mga anak ay dapat matutong maging mapagtalima sa mga magulang at maging magalang pa sa kanila."
+        },
+        {
+            "id": "2-2",
+            "text": "Ito ay hindi lamang ang unang utos na may isang pangako, bagkus ang unang utos din hinggil sa kaugnayan ng tao sa tao (Exo. 20:12)."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang maging “mabuti para sa iyo” ay ang maging maunlad sa materyal na pagpapala, at ang “mabuhay nang malawig” ay ang magkaroon ng mahabang buhay. Ang kaunlaran at mahabang buhay ay mga pagpapala ng Diyos sa buhay na ito para roon sa mga nagsisigalang sa kanilang mga magulang. Kung nais mong mapahaba ang iyong buhay at magtamasa ng pagpapala, dapat mong pag-aralang maging mapagtalima at magalang sa iyong mga magulang. Ang igalang mo ang iyong ama at ina ay ang unang utos na may pangako."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pagmumungkahi sa galit ay pumipinsala sa mga anak dahil sa sila ay napu-pukaw sa kanilang laman. Ang hindi imungkahi sa galit ang mga anak ay humihiling na matuos ang galit ng ama sa pamamagitan ng pananatili nito sa ilalim ng krus. Sa gayon, makapagbibigay siya ng wastong pagdidisiplina sa kanyang mga anak."
+        },
+        {
+            "id": "4-2",
+            "text": "*Gr. paideia, o pagtuturo na may panustos."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang saway ay kinapapalooban ng pagtuturo. Kinakailangang gamitin ng mga magulang ang salita ng Diyos sa pagtuturo sa kanilang mga anak (Deut. 6:6-7), turuan sila upang makilala ang Bibliya at sa gayon, ang paglago ng mga anak sa darating na panahon ay nasa ilalim na ng awa ng Diyos."
+        },
+        {
+            "id": "5-1",
+            "text": "Hinggil sa relasyon ng mga alipin at mga Panginoon, unang hinihikayat ng apostol ang mga alipin sapagka’t ang suliranin ay halos nagmumula sa kanila."
+        },
+        {
+            "id": "5-2",
+            "text": "Noong panahon ng apostol, ang mga alipin ay binibili ng kanilang mga panginoon, at ang mga panginoon ay may karapatan sa kanilang buhay. May ilang alipin at ilang panginoon na naging magkakapatid sa ekklesia. Bilang mga kapatid sa ekklesia, sila ay pantay-pantay, walang pagkakaiba (tingnan ang Col. 3:11). Subali’t sa kanilang mga tahanan, yaong mga alipin ay nararapat pa ring tumalima sa mga kapatid na panginoon ayon sa laman."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang takot ay ang panloob na motibo ng paglilingkod, at ang panginginig ay ang panlabas na pagkilos o atitud ng paglilingkod."
+        },
+        {
+            "id": "5-4",
+            "text": "Ang katapatan ng puso ay nangangahulugang maging dalisay sa motibo, walang anumang ibang layunin."
+        },
+        {
+            "id": "5-5",
+            "text": "Ang relasyong namamagitan sa mga alipin at mga panginoon ay sumasagisag din sa relasyong namamagitan sa atin at kay Kristo, ang ating Panginoon. Dapat tayong tumalima sa Kanya katulad ng isang alipin, sa katapatan ng puso."
+        },
+        {
+            "id": "6-1",
+            "text": "O, pakitang-tao lamang. Kung ang isang kapatid na nasa pagkaalipin ay tumatayo sa kanyang posisyon bilang alipin at tumatalima sa kanyang panginoon, sa mata ng Panginoon siya ay isang alipin ni Kristo, gumagawa ng kalooban ng Diyos, at ang kanyang paglilingkod ay sa Panginoon at hindi sa mga tao (b. 7)."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang “mula sa kaluluwa” rito ay katumbas ng “mula sa puso.” Ito ay nangangahulugang maglingkod hindi lamang sa pisikal na katawan, bagkus maging sa puso."
+        },
+        {
+            "id": "7-1",
+            "text": "Tingnan ang tala 6-1 ."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang “ito” ay tumutukoy sa “mabuting bagay.” Anumang mabuting bagay ang ginagawa natin, gayundin ang matatanggap natin mula sa Panginoon. Ang kabutihang ito ay magiging ganti sa atin."
+        },
+        {
+            "id": "9-1",
+            "text": "Nararapat iwanan ng mga panginoong may karapatan sa buhay ng kanilang mga biniling alipin ang mga pagbabanta, sapagka’t ang Panginoong nasa kalangitan ay ang tunay na Panginoon nila at ng mga alipin."
+        },
+        {
+            "id": "10-1",
+            "text": "Kinukumpleto ng sipi mula 1:1 hanggang 6:9 ang pahayag hinggil sa ekklesia sa positibong panig, yaon ay, para sa pagsasakatuparan ng walang hanggang layunin ng Diyos; subali’t sa negatibong panig, yaon ay, para sa pagtutuos sa kaaway ng Diyos, ilang bagay pa rin ang nananatili upang talakayin."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang salitang-ugat ng salitang ito sa Griyego at ng salitang kapangyarihan sa 1:19 ay magkatulad. Upang tuusin ang kaaway ng Diyos, upang labanan ang masamang puwersa ng kadiliman, tayo ay kailangang mapalakas ng dakilang kapangyarihan na nagbangon kay Kristo mula sa mga patay at nagpaupo sa Kanya sa kalangitan, sa kaiba-ibabawan ng lahat ng masasamang espiritu sa hangin."
+        },
+        {
+            "id": "10-3",
+            "text": "Sa espirituwal na pakikipagbaka laban kay Satanas at sa kanyang masamang kaharian, tayo ay maaari lamang makipaglaban kung tayo ay nasa loob ng Panginoon, hindi nasa loob ng ating mga sarili. Tuwing tayo ay nasa loob ng ating mga sarili, tayo ay natatalo."
+        },
+        {
+            "id": "11-1",
+            "text": "Inilarawan ng naunang limang kapitulo sa atin kung papaano ang ekklesia sa maraming aspekto sa positibong panig ay nagsasakatuparan ng walang hanggang layunin ng Diyos. Sa negatibong panig, ang ekklesia ay nakikita rito bilang isang mandirigma upang gapiin ang kaaway ng Diyos, ang Diyablo. Upang gawin ito, tayo ay kailangang magsuot ng buong kutamaya ng Diyos. Ang “mangagbihis” ay isang utos. Inihanda na para sa atin ng Diyos ang kutamaya nguni’t hindi Siya ang magbibihis sa atin nito, kinakailangang tayo mismo ang magbihis, sa ating sarili, gamitin ang ating kapasiyahan at makipagtulungan sa Kanya."
+        },
+        {
+            "id": "11-2",
+            "text": "Sa pakikipaglaban sa espirituwal na pakikipagbaka, hindi lamang natin kailangan ang kapangyarihan ng Panginoon, bagkus maging ang kutamaya ng Diyos. Ang ating mga sandata ay hindi umuubra. Ang umuubra lamang ay ang kutamaya ng Diyos, maging ang buong kutamaya ng Diyos. Ang buong kutamaya ng Diyos ay para sa buong Katawan ni Kristo, hindi para sa alinmang indibiduwal na sangkap ng Katawan. Ang ekklesia ay isang sama-samang mandirigma, at ang mga mananampalataya ay mga bahagi ng namumukod-tanging mandirigmang ito. Tangi lamang ang sama-samang mandirigma, hindi ang alinmang indibiduwal na mananampalataya, ang makapagbibihis ng buong kutamaya ng Diyos. Dapat nating labanan ang espirituwal na pakikipagbaka sa loob ng Katawan, hinding-hindi bilang mga indibiduwal."
+        },
+        {
+            "id": "11-3",
+            "text": "Sa kapitulo 2, tayo ay nakaupong kalakip ni Kristo sa kalangitan (b. 6), at sa mga kapitulo 4 at 5, tayo ay nasa loob ng Kanyang Katawan na lumalakad sa lupa (4:1, 17; 5:2, 8, 15). Pagkatapos sa kapitulong ito, tayo ay nasa kalangitan na nakatayo sa Kanyang kapangyarihan. Ang maupong kalakip ni Kristo ay ang makabahagi sa lahat ng Kanyang mga naisagawa; ang lumakad sa loob ng Kanyang Katawan ay ang isakatuparan ang walang hanggang layunin ng Diyos; at ang tumayo sa Kanyang kapangyarihan ay ang makipaglaban sa kaaway ng Diyos."
+        },
+        {
+            "id": "11-4",
+            "text": "Ito ay tumutukoy sa masamang plano ng Diyablo."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “dugo at laman” ay tumutukoy sa mga tao. Sa likod ng mga tao na binubuo ng dugo at laman ay ang masasamang puwersa ng Diyablo laban sa layunin ng Diyos. Kaya nga, ang ating pakikipagbuno, ang ating pakikipaglaban, ay hindi nararapat maging laban sa mga tao, kundi laban sa masasamang espirituwal na puwersa sa sangkalangitan."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang mga pinuno, ang mga awtoridad, at ang mga pinuno ng sanlibutan ng kadilimang ito ay ang mga mapanghimagsik na anghel na nagsisunod kay Satanas sa kanyang pagrerebelde laban sa Diyos, at ngayon ay namumuno sa sang-kalangitan sa mga bansa ng sanlibutan, katulad ng prinsipe ng Persia at ng prinsipe ng Grecia sa Dan. 10:20. Ipinakikita nito na ang Diyablo, si Satanas, ay mayroong kanyang kaharian ng kadiliman (Mat. 12:26; Col. 1:13). Siya ang nakaluklok sa pinakamataas na posisyon sa gitna nila at sa ilalim niya ay ang mga nagrebeldeng anghel."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang “kadilimang ito” ay tumutukoy sa kasalukuyang sanlibutan, na lubos na nasa ilalim ng madilim na pamumuno ng Diyablo sa pamamagitan ng kanyang masasamang anghel."
+        },
+        {
+            "id": "12-4",
+            "text": "Ang “sangkalangitan” dito ay tumutukoy sa hangin (2:2). Si Satanas at ang kanyang mga espirituwal na puwersa ng kasamaan ay nasa hangin. Subali’t tayo ay nakaupo sa ikatlong langit sa kaiba-ibabawan nila (2:6). Sa pakikipagbaka, ang posisyong nasa ibabaw ng kaaway ay napakahalaga. Si Satanas at ang kanyang masasamang puwersa ay nasa ilalim natin, at ang kanilang kapalaran ay ang matalo natin."
+        },
+        {
+            "id": "13-1",
+            "text": "Sa ating espirituwal na pakikipagbaka, kinakailangan natin ang buong kutamaya ng Diyos, hindi lamang isang bahagi nito ni ilang bahagi nito. Kaya kinakailangang ang buong Katawan ni Kristo ang kumuha nito sapagka’t hindi uubra kung indibiduwal na mananampalataya lamang."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang “makatagal” ay ang matagalan ang paglalaban. Sa pakikipagbaka ang makatagal ay lubhang mahalaga."
+        },
+        {
+            "id": "13-3",
+            "text": "Sa 5:16 ay sinasabing “ang mga araw ay masasama.” Sa loob ng masamang kapanahunang ito, bawa’t araw ay pawang “araw na masama”, sapagka’t ang masamang si Satanas ay gumagawa araw-araw."
+        },
+        {
+            "id": "13-4",
+            "text": "Sa labanan ay kinakailangan tayong makatagal hanggang sa katapusan. Pagkatapos nating maisagawa ang lahat ay kinakailangan pa ring tumayo nang matibay."
+        },
+        {
+            "id": "14-1",
+            "text": "Mula rito hanggang sa wakas ng bersikulo 16 ay isang panturing na naglalarawan kung papaano tumayo."
+        },
+        {
+            "id": "14-2",
+            "text": "Ito ay upang palakasin ang ating buong katauhan."
+        },
+        {
+            "id": "14-3",
+            "text": "Ayon sa paggamit ng salitang katotohanan sa kapitulo 4 (4:15, tala 1; 4:21 tala 1; 4: 24 tala 5), ang katotohanan dito ay tumutukoy sa Diyos na na kay Kristo bilang realidad sa ating pamumuhay, yaon ay, ang Diyos na ating natanto at naranasan bilang ating pamumuhay. Ito sa katunayan ay si Kristo Mismo na ating ipinamumuhay (Juan 14:6). Ang gayong katotohanan, ang gayong realidad, ay ang bigkis na nagpapatibay sa ating buong katauhan para sa espirituwal na pakikipagbaka."
+        },
+        {
+            "id": "14-4",
+            "text": "Ito ay upang takpan ang ating budhi, na sinasagisag ng dibdib. Si Satanas ang ating tagapagparatang. Sa pakikipaglaban sa kanya ay kailangan natin ang isang dalisay na budhi. Gaano pa man kabuti ang pakiramdam natin sa ating budhi, ito ay kailangang matakpan natin ng baluti ng katuwiran. Ang katuwiran ay ang maging wasto sa Diyos at gayundin sa tao. Kung tayo ay may kahit kaunting pagkakamali maging sa Diyos o sa tao, si Satanas ay magpaparatang sa atin, at magkakaroon ng mga butas sa ating budhi kung saan ang lahat ng ating pananampalataya at kalakasan ng loob ay tatagas. Kaya, kailangan natin ang pagtatakip ng katuwiran upang ingatan tayo mula sa pagpaparatang ng kaaway. Ang gayong katuwiran ay si Kristo (I Cor. 1:30)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ito ay upang pagtibayin ang ating pagtayo sa labanan. Ito ay hindi para sa paglakad sa isang daan o pagtakbo sa isang kurso, kundi para sa pakikipagbaka."
+        },
+        {
+            "id": "15-2",
+            "text": "O, pagiging handa. Ang kahulugan nito rito ay ang pagtatatag ng ebanghelyo ng kapayapaan. Ginawa na ni Kristo ang kapayapaan para sa atin doon sa krus, ang kapayapaang ito ay sa pagitan natin at ng Diyos at sa pagitan natin at ng mga tao, at ang kapayapaang ito ay naging ating ebanghelyo (2:13-17). Ito ay naitatag bilang isang matibay na pundasyon, katulad ng sapatos na naihanda na upang isuot sa ating mga paa. Sa gayon ay magkakaroon tayo ng isang matatag na pagkakatayo upang makipaglaban sa espirituwal na pakikipagbaka. Ang kapayapaan para sa isang matibay na pundasyon ay si Kristo rin (2:14)."
+        },
+        {
+            "id": "16-1",
+            "text": "Ito ay upang ipagsanggalang ang ating mga sarili sa mga pagsalakay ng kaaway."
+        },
+        {
+            "id": "16-2",
+            "text": "Kailangan natin ang katotohanan upang bigkisan ang ating mga baywang, ang katuwiran upang takpan ang ating mga budhi, ang kapayapaan upang sapnan ang ating mga paa katulad ng sapatos, at ang pananampalataya upang ipagsanggalang ang ating buong katauhan katulad ng kalasag. Kung tayo ay nabubuhay sa pamamagitan ng Diyos bilang katotohanan, tayo ay may katuwiran (4:24), at ang katuwiran ay nagbubunga ng kapayapaan (Heb. 12:11; Isa. 32:17). Kapag mayroon na tayo ng lahat ng mga ito, tayo ay madaling magkakaroon ng pananampalataya bilang isang kalasag laban sa pagliliyab na suligi ng masama. Si Kristo ang May-akda at Tagapagpasakdal ng gayong pananampalataya (Heb. 12:2). Upang tayo ay makatayo nang matibay sa labanan, kailangan nating masangkapan ng lahat ng apat na aytem na ito ng kutamaya ng Diyos."
+        },
+        {
+            "id": "16-3",
+            "text": "Ang mga “nagliliyab na suligi” ay ang mga panunukso, mga pagmumungkahi, mga pag-aalinlangan, mga pagtatanong, mga kasinungalingan, at mga panunuligsa ni Satanas. Ang mga nagliliyab na suligi ay ginamit ng mga tagapaglaban noong panahon ng apostol, at ito ay ginamit ng apostol bilang isang paglalarawan ng mga panunuligsa ni Satanas sa atin."
+        },
+        {
+            "id": "17-1",
+            "text": "Hindi lamang tatanggapin ang turbante ng kaligtasan, bagkus tatanggapin din ang salita ng Diyos. Ipinapakita rito na kinakailangan nating tumanggap ng salita ng Diyos sa pamamagitan ng bawa’t uri ng panalangin at daing. Tuwing tinatanggap natin ang salita ng Diyos, kinakailangan nating manalangin. Ang buong kutamaya ng Diyos ay may anim (6) na aytem, maaaring ibilang ang panalangin na ikapitong aytem. Ang aytem na ito ay namumukod-tangi. Hindi maaaring magkulang nito sapagka’t sa pamamagitan nito, magagamit natin ang iba pang aytem ng kutamaya, nang sa gayon praktikal na magagamit natin ang kutamaya."
+        },
+        {
+            "id": "17-2",
+            "text": "Ito ay para sa pagtatakip ng ating kaisipan, ng ating mentalidad, laban sa mga negatibong kaisipang ipinapasok ng masamang isa. Ang gayong turbante, ang gayong takip, ay pagliligtas ng Diyos. Si Satanas ay nagtuturok sa loob ng ating kaisipan ng mga pagbabanta, mga alalahanin, mga pagkabalisa, at iba pang mga nakapanghihinang kaisipan. Ang pagliligtas ng Diyos ay ang pagtatakip na kinukuha natin laban sa lahat ng mga ito. Ang gayong kaligtasan ay ang nagliligtas na Kristo na ating nararanasan sa ating pang-araw-araw na buhay (Juan 16:33)."
+        },
+        {
+            "id": "17-3",
+            "text": "Sa anim na aytem na bumubuo sa kutamaya ng Diyos, tanging ito lamang ang para sa pagsalakay sa kaaway."
+        },
+        {
+            "id": "17-4",
+            "text": "Ipinakikita ng mga katagang “na siyang” na ang Espiritu ay ang salita ng Diyos. Kapwa ang Espiritu at ang salita ay si Kristo (II Cor. 3:17; Apoc. 19:13). Si Kristo bilang Espiritu at salita ay nakapagtutustos sa atin ng pansalakay na tabak upang patayin at daigin ang ating mga kaaway."
+        },
+        {
+            "id": "17-5",
+            "text": "Gr. rhema. Ang kagyat na salita na sinasalita sa sandaling yaon ng Espiritu sa alinmang situwasyon. Ang tabak, ang Espiritu at ang salita, ang tatlong ito ay iisa. Ang palagiang salita na nasa Bibliya kapag naging kagyat na salita ay ang Espiritu na siya ring tabak na maaaring pumatay sa kaaway."
+        },
+        {
+            "id": "18-1",
+            "text": "Ito ang ating naisilang-na-muling espiritu na pinananahanan ng Espiritu ng Diyos. Ito ay maaaring ituring sa pinaghalong espiritu – ang ating espiritu na nahalo sa Espiritu ng Diyos. Sa pananalangin, ang pangunahing ginagamit na sangkap ay ang espiritung ito."
+        },
+        {
+            "id": "18-2",
+            "text": "Tayo ay kinakailangang mangagpuyat, mangagbantay para sa ganitong buhay-panalangin."
+        },
+        {
+            "id": "18-3",
+            "text": "Upang mapanatili ang isang buhay-pananalangin, kailangan natin ang buong katiyagaan, isang palagian, walang lubay na pangangalaga."
+        },
+        {
+            "id": "18-4",
+            "text": "Ito ay nagpapakita na kailangan nating manalangin nang partikular para sa lahat ng mga banal."
+        },
+        {
+            "id": "19-1",
+            "text": "O, salita, pagpapahayag."
+        },
+        {
+            "id": "19-2",
+            "text": "Ito ay si Kristo at ang ekklesia para sa katuparan ng walang hanggang layunin ng Diyos (5:32). Tingnan ang Roma 16:25 at tala 4."
+        },
+        {
+            "id": "20-1",
+            "text": "*Gr. presbuo; gayundin sa II Cor. 5:20. Sa wikang Griyego, ito ay nangangahulugang nakatatanda at may pagkakahulugan ding embahador.* Ang isang embahador ay tumanggap ng espesiyal na awtoridad at isinugo upang kaugnayin ang ilang natatanging tao. Ipinapahiwatig dito na ang apostol ay tumanggap sa Diyos, na Siyang pinakamataas na awtoridad sa buong sansinukob, ng pagsusugo upang kaugnayin ang ilang tao."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang isang tanikala ay isang partikular na katawagan para sa isang magkaugpong na pares ng tanikala, na nagtatali sa bilanggo sa kanyang guwardiya."
+        },
+        {
+            "id": "20-3",
+            "text": "Ang “ganito” ay tumutukoy sa kanyang pagkatanikala."
+        },
+        {
+            "id": "21-1",
+            "text": "Gr. diakono, isang naglilingkod na alipin."
+        },
+        {
+            "id": "21-2",
+            "text": "Kinakailangan natin ang ganitong pagbibigay-alam at magandang pagsasalamuha. Ang ganitong relasyon ng pag-ibig sa pagitan ng apostol at ng ekklesia ay dapat mabawi sa kasalukuyan."
+        },
+        {
+            "id": "23-1",
+            "text": "Sa pambungad ng aklat, ang pagbati ng apostol ay may biyaya muna bilang pagtatamasa bago ang kapayapaan bilang resulta ng pagtatamasa (1:2). Subali’t sa konklusyong ito ay pabaligtad naman; sinimulan niya sa resulta ng kapayapaan tungo sa pagtatamasa ng biyaya. Nang tayo ay makapasok na sa loob ng kapayapaan kinakailangan pa rin natin ang biyaya. Tinutukoy nito na ang ating karanasan ay mula sa biyaya tungo sa biyaya."
+        },
+        {
+            "id": "23-2",
+            "text": "Isiningit ng apostol ang pag-ibig sa gitna ng kapayapaan at biyaya sapagka’t ang manatili nang walang humpay sa loob ng pag-ibig na tinatamasa ang Panginoon ay ang ating natatanging daan upang mapanatili sa loob ng kapayapaan. Nauunawaan ni Pablo na ang pag-ibig ay lubhang mahalaga. Nasabi niya na ang pag-ibig, kapayapaan, at biyaya ay may kaugnayan sa isa’t isa. Ito ay nagpapakita sa atin na kinakailangan ang pag-ibig upang mapanatili sa kalagayan ng kapayapaan. Ang pag-ibig na may pananampalataya ay ang kaparaanan ng ating pakikibahagi sa pagdaranas kay Kristo (I Tim. 1:14). Ang pananampalataya ay ang pagtanggap sa Kanya (Juan 1:12), ang pag-ibig naman ay ang pagtatamasa sa Kanya (Juan 14:23). Dito ay hindi pananampalataya at pag-ibig, ni pag-ibig at pananampalataya, kundi pag-ibig na may pananampalataya, ipinakikita sa atin na kinakailangan natin ang pananampalataya na magkoordina at magsuporta sa ating pag-ibig. Kaya, ang pag-ibig na may pananampalataya ay kinakailangan. Ito ang konklusyon ng aklat na ito na ukol sa ekklesia. Kinakailangang tamasahin ng ekklesia si Kristo sa loob ng pag-ibig na may pananampalatayang gumagawa sa pamamagitan ng pag-ibig (Gal. 5:6). Ang pag-ibig ay mula sa Diyos patungo sa atin; ang pananampalataya ay mula sa atin patungo sa Diyos. Sa ganitong pagparito at pagparoon ng pag-ibig at pananampalataya, naiiwan sa atin ang kapayapaan bilang ating bahagi. Sa pamamagitan ng pagparito sa atin ng pag-ibig ng Diyos at ng pagparoon sa Kanya ng ating pananampalataya, tayo ay naiingatan sa loob ng kapayapaan. Maiingatan tayo ng ganitong pagparito at pagparoon na mapanatili sa loob ng walang patid na panustos ng biyaya at sa loob ng pagtatamasa sa Panginoon (b. 24)."
+        },
+        {
+            "id": "23-3",
+            "text": "Ang pag-ibig ay mula sa Diyos, hindi nagmumula sa atin. Ang pinanggalingan ay ang Diyos. Pagkatapos sa kahuli-hulihan ang pag-ibig ng Diyos ay nagiging pag-ibig natin. Ang pag-ibig ng Diyos sa atin ay nagiging pag-ibig natin sa Kanya."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang biyaya ay kinakailangan upang tayo ay makapamuhay ng isang buhay-ekklesia na nagsasakatuparan ng walang hanggang layunin ng Diyos at naglulutas ng suliranin ng Diyos sa Kanyang kaaway."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang pagtatamasa sa Panginoon bilang biyaya ay para roon sa mga nagsisiibig sa Kanya. Sa aklat na ito ang pariralang “sa loob ng pag-ibig” ay ginamit nang anim na ulit (1:4; 3:17; 4:2, 15, 16; 5:2). Nang kalaunan, ang ekklesia sa Efeso ay pinagwikaan ng Panginoon sapagka’t iniwan niya ang kanyang unang pag-ibig para sa Kanya (Apoc. 2:4). Sa pahayag na binibigyang-diin ng aklat na ito, ang isang punto ay ang ekklesia bilang Katawan ni Kristo na siya ring kasintahang babae ni Kristo – yaon ay, asawa. Tungkol sa Katawan, ang binibigyang-diin ay si Kristo bilang buhay; tungkol sa asawa, ang binibigyang-diin ay ang pag-ibig kay Kristo. Kaya, binibigyang-diin sa aklat na ito ang ating pag-ibig sa Panginoon at winawakasan din ang aklat na ito sa pag-ibig natin sa Panginoon. Ang ekklesia na nasa Efeso na siyang tagatanggap ng Sulat na ito ay nabigo sa bagay ng pag-ibig sa Panginoon. Ang ganitong kabiguan ang naging dahilan at pinagmulan ng kabiguan ng ekklesia sa dinami-rami ng nagdaang siglo (Apoc. 2-3)."
+        },
+        {
+            "id": "24-3",
+            "text": "Para sa wastong buhay-ekklesia, kailangan nating ibigin ang Panginoon sa loob ng walang pagkasira, yaon ay, ibigin ang Panginoon nang ayon sa mga pahayag na nasa anim (6) na kapitulo ng buong aklat na ito at sa mahahalagang bagay na itinuro nito. Ang mahahalagang bagay ay ang mga sumusunod: ang ekklesia bilang Katawan ni Kristo, ang bagong tao, ang mahiwagang ekonomiya ng Diyos, ang pagkakaisa sa Espiritu, ang katotohanan at biyaya, ang liwanag at pag-ibig, at ang lahat ng aytem ng kutamaya ng Diyos. Ang lahat ng mga ito ay walang pagkasira. Alang-alang sa ekklesia, ang ating pag-ibig sa Panginoon ay kinakailangang nasa loob nitong mga bagay na walang pagkasira."
         }
     ]
 }

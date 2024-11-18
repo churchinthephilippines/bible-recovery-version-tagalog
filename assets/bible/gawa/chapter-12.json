@@ -1,5 +1,5 @@
 {
-    "chapter": 12,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Herodes",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -36,7 +36,7 @@
             "footnotes": [
                 {
                     "word": "tetradion",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -86,7 +86,7 @@
             "footnotes": [
                 {
                     "word": "natauhan,",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -115,7 +115,7 @@
             "footnotes": [
                 {
                     "word": "kanyang",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -132,7 +132,7 @@
             "footnotes": [
                 {
                     "word": "Santiago",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -155,7 +155,7 @@
             "footnotes": [
                 {
                     "word": "katiwala",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": [
@@ -180,7 +180,7 @@
             "footnotes": [
                 {
                     "word": "namatay.",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -191,7 +191,7 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": [
@@ -204,13 +204,51 @@
             "footnotes": [
                 {
                     "word": "Bernabe",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": [
                 "B. Sa Lupaing Hentil sa pamamagitan ng Ministeryo ni Pablo at ng Kanyang mga Kamanggagawa\n 12:25- 28:31",
                 "1. Ang Pagtanggap sa Bagong Tagapagministeryo\n 12:25"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Si Herodes, Agripa I, na siyang pinalitan ni Haring Agripa II sa 25:13. Ang dalawang ito ay hindi ang Herodes na tetrarka sa 13:1. Noon ang ekklesia ay nagdusa ng pag-uusig mula lamang sa maka-Hudyong relihiyon. Ngayon ang pulitikong Hentil ay nagsimulang umanib at makipagtulungan sa pag-uusig na ginagawa ng maka-Hudyong relihiyon (b. 11)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang isang tetradion ay isang grupo na may apat na kawal."
+        },
+        {
+            "id": "11-1",
+            "text": "Lit. nanumbalik sa kanyang sarili. Maaaring naramdaman ni Pedro na ang kanyang kaluluwa ay tila lumisan mula sa loob niya at lumibot sa labas at ngayon ay bumalik na naman sa kanyang sarili kaya siya ay natauhan (cf. tala 10-3 ng kap. 10)."
+        },
+        {
+            "id": "15-1",
+            "text": "Hindi lamang si Pedro bilang isang apostol ang may isang anghel; pati na ang maliliit sa mga mananampalataya ay may kanilang mga anghel (Mat. 18:10). Ang mga anghel ay mga tagapaglingkod ng mga mananampalataya na nagmana ng kaligtasan ng Diyos (tingnan ang tala 14-1 sa Heb. 1). Ito ay ang pagsasaayos ng walang hanggang ekonomiya ng Diyos."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay tumutukoy na si Santiago ang siyang nangunguna sa mga apostol at mga matanda sa Herusalem (cf. 15:13; 21:18; Gal. 1:19; 2:9, 12)."
+        },
+        {
+            "id": "20-1",
+            "text": "Isang nangangalaga sa silid-tulugan."
+        },
+        {
+            "id": "23-1",
+            "text": "Tingnan ang tala 5-1 sa kap. 5."
+        },
+        {
+            "id": "24-1",
+            "text": "Sa ilang manuskrito ay mababasang, Panginoon."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang mga bersikulo 1-24 ay isang bahaging inilagay upang magbigay-linaw, isang tala ng pag-uusig kay Pedro, at ang bersikulong ito ay karugtong ng 11:30, na, kasama ng mga naunang bersikulo mula sa 11:22, ay isang pagsasalaysay ng pagtanggap kay Pablo tungo sa kanyang pang-apostol na ministeryo (tingnan ang tala 22-2 sa kap. 11). Ang mga sinasabi mula 11:19 hanggang 12:25 ay isang tala ng pagbabagong-kalagayan sa pagitan ng pang-apostol na ministeryo ni Pedro sa mga Hudyo na nakatala sa mga kapitulo 2-11 at pang-apostol na ministeryo ni Pablo sa mga Hentil na nakatala sa mga kapitulo 13-28 (cf. Gal. 2:7-8)."
         }
     ]
 }

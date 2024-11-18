@@ -1,5 +1,5 @@
 {
-    "chapter": 16,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Mariang",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "Salome",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "pahiran.",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -57,7 +57,7 @@
             "footnotes": [
                 {
                     "word": "ibinangon!",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -68,7 +68,7 @@
             "footnotes": [
                 {
                     "word": "Pedro",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -79,7 +79,7 @@
             "footnotes": [
                 {
                     "word": "nasunggaban",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -90,11 +90,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pinalayas",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": [
@@ -141,11 +141,11 @@
             "footnotes": [
                 {
                     "word": "ipahayag",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "nilikha.",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -156,11 +156,11 @@
             "footnotes": [
                 {
                     "word": "sumasampalataya",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -171,7 +171,7 @@
             "footnotes": [
                 {
                     "word": "mangagsasalita",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -188,7 +188,7 @@
             "footnotes": [
                 {
                     "word": "kinuhang",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": [
@@ -201,12 +201,78 @@
             "footnotes": [
                 {
                     "word": "nagsipagpahayag",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": [
                 "VI. Ang Pansansinukob na Pagpapalaganap ng Ebanghelyo\n16:20"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa bb. 1-8, tingnan ang mga tala sa Mat. 28:1-8."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 40-1 sa kap. 15."
+        },
+        {
+            "id": "1-3",
+            "text": "Tingnan ang tala 40-3 sa kap. 15."
+        },
+        {
+            "id": "1-4",
+            "text": "Gr. aleiphö . Hindi katulad ng salitang pahid sa Lucas 4:18 ( chriö ) at 1 Juan 2:20 ( chrisma ). Ang “nagsibili ng mga espesiya upang Siya ay pahiran” ay nagpapakita ng pagmamahal, pagpapahalaga, at pag-aalaala."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang pagkabuhay na muli ng Aliping-Tagapagligtas ay isang katibayan na ang Diyos ay nasiyahan sa Kanyang isinagawa sa pamamagitan ng Kanyang kamatayan (tingnan ang tala 25-1 sa Roma 4), at isang pagpapatibay sa bisa ng Kanyang nagtutubos at nagbibigay-buhay na kamatayan (Gawa 2:24; 3:15). Ito ang naging katibayan ng pagkaaring-matuwid sa atin (Roma 4:25) at ang kapangyarihan ng ating pagkahiwalay sa kasalanan (1 Cor. 15:17)."
+        },
+        {
+            "id": "7-1",
+            "text": "Sa mensahe ng anghel sa tatlong kapatid na babaeng nakatuklas sa pagkabuhay na muli ng Aliping-Tagapagligtas, ang pariralang “at kay Pedro” ay isiningit lamang sa tala ni Marcos. Marahil ito ay dahil sa impluwensiya ni Pedro sa mga nilalaman ng Ebanghelyong ito. Anupaman, ang pariralang ito ay nagpapakita na ang matalik na relasyon ni Pedro sa Aliping-Tagapagligtas ay partikular, kaya ito ay binigyang-diin maging ng anghel."
+        },
+        {
+            "id": "8-1",
+            "text": "O, tinanganan"
+        },
+        {
+            "id": "9-1",
+            "text": "Inalis ng maraming sinaunang manuskrito ang bb. 9-20."
+        },
+        {
+            "id": "9-2",
+            "text": "Tingnan ang tala 23-1 sa kap. 1."
+        },
+        {
+            "id": "15-1",
+            "text": "Tingnan ang tala 14-2 sa kap. 1."
+        },
+        {
+            "id": "15-2",
+            "text": "Inihahayag nito na ang pagtutubos ng Diyos na isinagawa ng Aliping-Tagapagligtas sa pamamagitan ng Kanyang kamatayan at pagkabuhay na muli ay hindi lamang para sa tao, ang nangungunang isa sa paglikha ng Diyos, bagkus ay para sa lahat ng nilikha. Kaya nga, ang lahat ng bagay maging sa lupa o sa mga kalangitan ay ipinagkasundo sa Diyos, at ang ebanghelyo ay nararapat itanyag sa lahat ng nilikha sa silong ng langit (Col. 1:20, 23). Batay rito, ang lahat ng nilikha ay naghihintay na mapalaya mula sa pang-aalipin ng kabulukan tungo sa loob ng kalayaan ng kaluwalhatian ng mga anak ng Diyos (Roma 8:19-22)."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang sumampalataya (tingnan ang tala 15-3 sa kap. 1) ay ang tanggapin ang Aliping-Tagapagligtas (Juan 1:12), hindi lamang para sa pagpapatawad ng mga kasalanan (Gawa 10:43) bagkus para rin sa pagsilang na muli (1 Ped. 1:21, 23), upang ang mga yaong sumasampalataya ay maging mga anak ng Diyos (Juan 1:12-13) at mga sangkap ni Kristo (Efe. 5:30) sa isang organikong pakikipag-isa sa Tres-unong Diyos (Mat. 28:19). Ang mabautismuhan ay ang pagtibayin ito, sa pamamagitan ng paglilibing upang tapusin ang lumang nilikha sa pamamagitan ng kamatayan ng Aliping-Tagapagligtas, at sa pamamagitan ng pagbangon upang maging ang bagong nilikha ng Diyos sa pamamagitan ng pagkabuhay na muli ng Aliping-Tagapagligtas. Ang gayong pagbautismo ay higit na maunlad kaysa sa bautismo ng pagsisisi ni Juan (1:4; Gawa 19:3-5). Ang sumampalataya at mabautismuhan ay dalawang bahagi ng isang kumpletong hakbang upang matanggap ang ganap na pagliligtas ng Diyos. Ang mabautismuhan nang walang pananampalataya ay isa lamang hungkag na ritwal; ang sumampalataya nang walang pagbautismo ay ang maligtas lamang sa panloob na walang panlabas na pagpapatibay ng panloob na kaligtasan. Ang dalawang ito ay nararapat magkasama. Higit pa rito, ang pagbautismo sa tubig ay nararapat samahan ng pagbautismo sa Espiritu, katulad ng mga anak ni Israel na nabautismuhan sa dagat (tubig) at sa ulap (Espiritu) – 1 Cor 10:2; 12:13."
+        },
+        {
+            "id": "16-2",
+            "text": "Dito ay hindi sinasabing “na hindi sumasampalataya at hindi nabautismuhan.” Ito ay nagpapakita na ang kondenasyon ay may kaugnayan lamang sa hindi pagsampalataya. Ito ay walang kaugnayan sa hindi pagiging nabautismuhan. Ang pagsampalataya mismo ay sapat na upang matanggap ang kaligtasan mula sa kondenasyon; subalit kinakailangan nito ang bautismo bilang isang panlabas na pagpapatibay para sa pagkukumpleto ng panloob na kaligtasan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang pagsasalita ng mga bagong wika ay isa lamang sa limang tandang sasama sa mga naligtas na mananampalataya. Hindi ito ang bukod-tanging tanda, katulad ng pinagdidiinan ng ilang mananampalataya. Ayon sa dibinong pahayag sa Gawa at sa mga Sulat, ang sinabi ng Panginoon dito ay hindi nangangahulugan na ang bawat naligtas na mananampalataya ay kailangang magtaglay ng lahat ng limang tanda. Ito ay nangangahulugan na ang bawat naligtas na mananampalataya ay maaaring may ilan sa mga tandang ito, hindi kinakailangang lahat."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang pag-akyat sa langit ng Aliping-Tagapagligtas para sa pagpaparangal sa Kanyang Diyos ay isang tanda ng pagtanggap ng Diyos sa lahat ng Kanyang ginawa para sa walang-hanggang plano ng Diyos ayon sa Bagong Tipang ekonomiya ng Diyos (Gawa 2:33-36). Sa pagpaparangal na ito, pinutungan Siya ng Diyos ng kaluwalhatian at karangalan (Heb. 2:9), binigyan Siya ng pangalang lalo sa lahat ng pangalan (Fil. 2:9), at ginawa Siyang Panginoon ng lahat (Gawa 2:36) at ang Ulo ng lahat ng bagay (Efe. 1:22), nang sa gayon ay magkaroon Siya ng lahat ng awtoridad sa langit at sa ibabaw ng lupa (Mat. 28:18) upang pamahalaan ang mga kalangitan, ang lupa, at ang mga bansa, nang sa gayon sila ay makagagawa nang sama-sama para sa pansansinukob na pagpapalaganap ng Kanyang pang-ebanghelyong paglilingkod."
+        },
+        {
+            "id": "20-1",
+            "text": "Tingnan ang tala 14-2 sa kap. 1. Ang pagpapahayag na ito ng ebanghelyo ng Diyos sa lahat ng kinapal (b. 15) ng nabuhay na muli at umakyat sa langit na Aliping-Tagapagligtas, bilang ang Alipin ng Diyos, sa pamamagitan ng Kanyang mga mananampalataya, sa lugar ay nagsimula sa Herusalem at nagpapatuloy hanggang sa kahuli- hulihang hangganan ng lupa (Gawa 1:8).Sa panahon naman ng Ebanghelyong ito ay hindi lamang ipinahayag noong nagdaang mga siglo, bagkus patuloy pa ring ipapahayag hanggang sa Kanyang pagparito upang itatag ang kaharian ng Diyos sa lupa (Luc. 19:12; Dan. 7:13-14)."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 14,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "bundok",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "Niya",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -29,15 +29,15 @@
             "footnotes": [
                 {
                     "word": "maraming",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "malakas",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "mang-",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -48,11 +48,11 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -63,11 +63,11 @@
             "footnotes": [
                 {
                     "word": "birhen.",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -78,11 +78,11 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -93,11 +93,11 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": [
@@ -110,15 +110,15 @@
             "footnotes": [
                 {
                     "word": "Matakot",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "paghahatol;",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "magsisamba",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -129,11 +129,11 @@
             "footnotes": [
                 {
                     "word": "Babilonia,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "alak",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": [
@@ -154,7 +154,7 @@
             "footnotes": [
                 {
                     "word": "apoy",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -171,11 +171,11 @@
             "footnotes": [
                 {
                     "word": "pagtitiis",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "banal,",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -186,11 +186,11 @@
             "footnotes": [
                 {
                     "word": "patay",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Espiritu,",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": [
@@ -203,19 +203,19 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "gintong",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "matalas",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": [
@@ -228,11 +228,11 @@
             "footnotes": [
                 {
                     "word": "aanihin",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "hinog",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -243,11 +243,11 @@
             "footnotes": [
                 {
                     "word": "karit",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "nagapasan.",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -266,11 +266,11 @@
             "footnotes": [
                 {
                     "word": "yaong",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "punong-",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -281,7 +281,7 @@
             "footnotes": [
                 {
                     "word": "pisaan-",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -292,22 +292,180 @@
             "footnotes": [
                 {
                     "word": "lunsod,",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "kabayo,",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "20-3"
                 },
                 {
                     "word": "estadio.",
-                    "note": ""
+                    "id": "20-4"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “bundok Sion” dito ay hindi yaong nasa lupa, kundi yaong nasa kalangitan (Heb. 12:22)."
+        },
+        {
+            "id": "1-2",
+            "text": "Ito ay nararapat na isang aktuwal na bilang na nagtataglay ng isang kahulugan. Ang isang daan at apatnapu’t apat na libo ay isang libong ulit ng labindalawa na minultiplika ng labindalawa. Ang labindalawa ay ang bilang ng kakumpletuhan sa walang hanggang administrasyon ng Diyos. Ang isang daan at apatnapu’t apat (21:17) ay labindalawa na minultiplika ng labindalawa, na sumasagisag sa kakumpletuhan ng mga kakumpletuhan, ang sukdulang kakumpletuhan sa kapuspuspuspusan. Dito, ito ay isang libong ulit nitong sukdulang kakumpletuhan."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang pangalan ng Kordero at ang pangalan ng Ama na nakasulat sa mga noo ng mga naunang mandaraig ay nagpapakita na sila ay kaisa ng Kordero at ng Ama, pag-aari ng Kordero at ng Ama; samantalang kabaliktaran naman sa mga sumasamba sa halimaw na ang nakasulat sa kanilang noo ay ang pangalan ng halimaw (13:16-17)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang “maraming tubig” ay sumasagisag sa pagiging napakaingay ng lagaslas."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang “malakas na kulog” ay sumasagisag sa kataimtiman ng dagundong."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang “mga mang-aawit-ng-alpa” ay sumasagisag sa pagiging kaayaaya ng tinig."
+        },
+        {
+            "id": "3-1",
+            "text": "“Walang sinumang matuto” ng bagong awit na inawit ng mga unang mandaraig na ito, isang awit na tumutugma sa kanilang mga karanasan sa Kordero, sapagkat wala nang iba pa ang mayroon ng kanilang mga karanasan."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang “mula sa lupa” ay nagpapatunay na sila ay wala na sa lupa kundi naiakyat na sa kalangitan nang may masidhing kagalakan."
+        },
+        {
+            "id": "4-1",
+            "text": "Ito ay nararapat na tumukoy sa pagkabirhen na binanggit ng Panginoon sa Mat. 19:11-12. Gayunpaman, ang gayunding prinsipyo ay maaaring iangkop sa mga kapatid na babae (I Cor. 7:7, 37)."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang mga naunang mandaraig na ito ay ang mga unang mahihinog sa bukid ng Diyos. Kaya, sila ay gagapasin bago ang pag-aani bilang “unang bunga sa Diyos at sa Kordero.” Ang ani ay gagapasin sa bandang huli sa bb. 14-16. Ito ay nangangahulugan na sila ay iaakyat sa ibabaw ng mga kalangitan nang may masidhing kagalakan bago ang pag-aani, katulad ng mga unang bunga ng mabuting lupa na ginapas at dinala sa loob ng templo ng Diyos bago ang pag-aani (Lev. 23:10-11; Exo. 23:19). Ang mga pangyayari na nakatala sa bb. 6-13, na magaganap lahat sa panahon ng matinding kapighatian (Mat. 24:21), ay malinaw na tumutukoy at matibay na nagpapatunay na ang mga unang mandaraig gaya ng unang bunga sa bb. 1-5 ay iaakyat-na-may-masidhing-kagalakan bago ang matinding kapighatian at ang ani naman sa bb. 14-16, na binubuo ng karamihan sa mga mananampalataya, ay iaakyat-na-may-masidhing-kagalakan sa pagtatapos ng matinding kapighatian."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang Diyablo ay ang ama ng lahat ng mga nagsisinungaling, at ang kasinungalingan ay nagmumula sa kanya (Juan 8:44). Na “walang nasumpungang kasinungalingan” sa bibig ng mga mandaraig ay tumutukoy na walang anumang bagay na ayon kay Satanas sa kanilang kahayagan."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang “walang dungis” ay tumutukoy na sila ay walang “mantsa o kulubot” bagkus ay sakdal sa kabanalan ng Diyos (Efe. 5:27), sukdulang napabanal sa Diyos at lubusang napuspusan ng Diyos (I Tes. 5:23)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “walang hanggang ebanghelyo,” na ipangangaral sa panahon ng matinding kapighatian (Mat. 24:21), ay naiiba sa ebanghelyo ng biyaya (Gawa 20:24) na ipinangaral sa kapanahunan ng ekklesia. Ang mga saligang nilalaman ng ebanghelyo ng biyaya ay ang pagsisisi tungo sa Diyos at pananampalataya sa Panginoong Hesus (Gawa 20:21) sa gayon ay mapatawad ang mga tao sa kanilang mga kasalanan at maisilang-na-muli bilang mga anak ng Diyos (Luc. 24:47; Juan 1:12); samantalang ang sa walang hanggang ebanghelyo ay yaong ang mga tao ay nararapat matakot sa Diyos at sumamba sa Diyos upang sila ay hindi malinlang na sumunod sa Antikristo, bagkus ay maibalik sa tunay na pagsamba sa Diyos na Siyang “gumawa ng langit at ng lupa” (b. 7). Tanging ang tao lamang ang may pribilehiyong mangaral ng ebanghelyo ng biyaya sa lupa ngayon (Gawa 10:3-6). Subali’t ang walang hanggang ebanghelyo ay ipangangaral sa pamamagitan ng anghel sa himpapawid sa pagtatapos ng kapanahunang ito."
+        },
+        {
+            "id": "6-2",
+            "text": "Lit. nakaupo."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang “matakot kayo sa Diyos, at magbigay ng kaluwalhatian sa Kanya” ay isang utos na ibinigay sa mga nananahan sa lupa upang sila ay sumalungat sa panlilinlang ng huwad na propeta na nagsasabing dapat sundin ng mga tao ang Antikristo at upang kalabanin ang banta na papatayin ang sinumang hindi sasamba sa Antikristo sa panahon ng matinding kapighatian (13:14-15)."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang “paghahatol” dito ay ang kahatulang ipapataw ni Kristo sa lahat ng mga bansa sa Kanyang pagbabalik sa lupa, gaya ng Kanyang ipinropesiya sa Mat. 25:31-46. Ang kahatulang ito ay ipapataw sa mga nabubuhay. Ito ay naiiba sa kahatulan sa mga patay pagkatapos ng isang libong taong kaharian, gaya ng binanggit sa Apoc. 20:11-15. Lahat ng mga tao ng mga bansa na nalalabi pa sa pagbabalik ng Panginoon sa lupa ay hahatulan ayon sa walang hanggang ebanghelyo na ipinangaral ng anghel sa panahon ng matinding kapighatian (Mat. 24:21). Kung sa pagkatakot at pagsamba sa Diyos ay naging maganda ang pakikitungo nila sa mga Kristiyano at sa mga Hudyo, ang mga kapatid ng Panginoon na nagdurusa ng karukhaan at pagkakulong sa ilalim ng pag-uusig ng Antikristo sa panahon ng matinding kapighatian, sila ay aariing-matuwid ng Panginoon, sa gayon ay makapapasok sila sa panlupang bahagi ng isang libong taon upang makibahagi sa kaharian na inihanda ng Diyos para sa kanila mula nang itatag ang sanlibutan (Mat. 25:34). Kung dahil sa kanilang pagsunod sa Antikristo at pagsamba sa kanyang larawan ay naging masama ang kanilang pakikitungo sa mga Kristiyano at mga Hudyo, sila ay hahatulan at ihahagis sa loob ng walang hanggang apoy na inihanda para sa Diyablo at sa kanyang mga anghel (Mat. 25:41)."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang “magsisamba kayo sa Kanya na gumawa ng langit at ng lupa” ay salungat sa pagsamba sa Antikristo at sa kanyang larawan sa b. 9."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang sugnay na tumuturing, “na siyang nagpainom sa lahat ng mga bansa…,” ay tumutukoy na ang “Babilonia” rito ay ang sa relihiyoso, at mahiwagang Babilonia, na walang iba kundi ang Relihiyong Katoliko gaya ng sa 17:2-6, hindi ang materyal na Babilonia gaya ng sa 18:2. Wawasakin ng Antikristo ang lahat ng relihiyon kapag sinira na niya ang kasunduan sa Israel sa kalagitnaan ng huling sanlinggo (pitong taon, Dan. 9:27; 11:31). Ito ang magiging simula ng matinding kapighatian (Mat. 24:21) sa loob ng tatlo at kalahating taon. Itataas niya ang kanyang sarili nang higit sa lahat ng mga diyos at pipilitin ang mga tao na sumamba sa kanya (Dan. 8:9-11; 11:36-37; II Tes. 2:3-4; Apoc. 13:4-6, 12, 14-15). Sa panahong yaon ay kanyang wawasakin ang relihiyosong Babilonia, ang Romano Katolisismo na tumalikod-sa-pananampalataya (17:16). Kaya, ang relihiyosong Babilonia ay bumagsak sa pasimula ng matinding kapighatian, samantalang ang materyal na Babilonia ay babagsak sa pagtatapos ng matinding kapighatian (18:2)."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang “alak ng… kanyang pakikiapid” ay tumutukoy sa espirituwal na pakikiapid ng Relihiyong Katoliko na kanyang “ipinainom sa lahat ng mga bansa” (17:2-6). Habang siya ay nakikiapid, siya ay galit na galit sa mga banal na hindi nakikiayon sa kanyang pakikiapid. Ito ang “matinding galit ng kanyang pakikiapid.” Kaya, “ang alak ng kanyang pakikiapid” ay tinawag ding “ang alak ng matinding galit ng kanyang pakikiapid.”"
+        },
+        {
+            "id": "10-1",
+            "text": "Ito ay ang “apoy at asupre” sa dagatdagatang apoy (19:20; 20:10, 14)."
+        },
+        {
+            "id": "12-1",
+            "text": "“Ang pagtitiis” upang pagdusahan ang pag-uusig ng Antikristo ay kailangan ng “mga banal” na maiiwan sa matinding kapighatian."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang “mga banal” na maiiwan sa matinding kapighatian ay binubuo ng dalawang grupo ng tao: ang mga Hudyo na “nagsisitupad ng mga utos ng Diyos” at ang mga mananampalataya na “nagsisitupad ng pananampalataya ni Hesus.”"
+        },
+        {
+            "id": "13-1",
+            "text": "Ang “mga patay” rito ay tumutukoy sa mga martir sa ilalim ng pag-uusig ng Antikristo sa panahon ng matinding kapighatian. Ito ay pinatunayan ng 20:4."
+        },
+        {
+            "id": "13-2",
+            "text": "Sa aklat na ito, na isinulat sa ilalim ng pagbaba ng ekklesia, ay binibigyang-diin ang “Espiritu.” Dito ay hindi sinasabing, “sinasabi ng Kasulatan,” kundi, “sinasabi ng Espiritu.”"
+        },
+        {
+            "id": "14-1",
+            "text": "Sa 10:1, si Kristo ay “nabibihisan ng isang alapaap,” samantalang dito Siya ay “nakaupo sa ibabaw ng alapaap,” tumutugma sa I Tes. 4:17 at tumutukoy na ang pagbabalik ng Panginoon ay ginawa na ngayong hayag."
+        },
+        {
+            "id": "14-2",
+            "text": "Sa Kanyang pagbabalik, ang Panginoong Hesus ay mananatili pa ring “Anak ng Tao.” Sapagka’t Siya ay Anak ng Tao, Siya ay kuwalipikadong magsagawa ng kahatulan ng Diyos sa lahat ng tao (Juan 5:27)."
+        },
+        {
+            "id": "14-3",
+            "text": "Ang “gintong putong sa Kanyang ulo” ay tumutukoy na ang Panginoon ay ang Isang pinutungan ng kaluwalhatian (Heb. 2:9)."
+        },
+        {
+            "id": "14-4",
+            "text": "Ang “matalas na karit sa Kanyang kamay” ay tumutukoy na Siya ay ang Isang gumagapas sa bukid ng Diyos."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang “aanihin sa lupa” ay ang bayan ng Diyos na nasa lupa, ang mga mananampalataya kay Kristo (I Cor. 3:9). Sa Kanyang unang pagdating sa lupa, inihasik ng Panginoon ang Kanyang Sarili sa loob ng Kanyang mananampalataya (Mat. 13:3-8, 24). Lahat ng mga mananampalatayang tumanggap sa Kanya bilang binhi ng buhay ay naging pananim ng Diyos sa lupa. Ang mga unang nahinog ay gagapasin bilang unang bunga sa Diyos bago ang matinding kapighatian gaya ng tinukoy sa bb. 1-5. Ang karamihan ay mahihinog sa tulong ng mga paghihirap sa matinding kapighatian at gagapasin kapag malapit na ang pagtatapos ng matinding kapighatian"
+        },
+        {
+            "id": "15-2",
+            "text": "Lit. natuyo sa bilad. Ang mahinog ay ang “matuyo” sa lahat ng makalupang tubig. Ang paghihirap sa matinding kapighatian ay magiging katulad ng nagdadarang na araw, tinutuyo ang mga makalupang tubig mula sa mananampalataya na maiiwan sa lupa sa matinding kapighatian upang sila ay mahinog."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang “karit” dito ay sumasagisag sa mga anghel na isinugo ng Panginoon upang gapasin ang ani (Mat. 13:39)."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang paggapas dito ay ang pag-akyat-na-may-masidhing-kagalakan ng karamihan sa mga mananampalataya na maiiwan sa lupa upang maranasan ang higit na malaking bahagi ng matinding kapighatian, sapagkat ito ay magaganap pagkatapos pilitin ng Antikristo ang mga tao na sambahin siya at ang kanyang larawan (b. 9)."
+        },
+        {
+            "id": "18-1",
+            "text": "“Yaong may karit na matalas” ay hindi tumutukoy sa Panginoon, kundi sa anghel sa b. 17."
+        },
+        {
+            "id": "18-2",
+            "text": "Sa Bibliya, ang mga Hudyo ay inihalintulad sa puno ng igos (Mat. 24:32), ang mga mananampalataya sa trigo (Mat. 13:25, 30), at ang masasamang Hentil sa punong-ubas (b. 19), na isang panghuhuwad sa tunay na puno ng ubas na binubuo ni Kristo at ng Kanyang mga sangkap (Juan 15:1-6). Ang trigo ay nahihinog kapag natuyo na ang tubig na nilalaman nito, samantalang ang ubasan ay nahihinog kapag ito ay napuno na ng tubig. Dito, ang punung-puno na sa kasalanang mga Hentil bilang mga ubas na nahinog na ay tatanggap na ng kahatulan."
+        },
+        {
+            "id": "19-1",
+            "text": "“Ang malaking pisaan-ng-ubas ng matinding galit ng Diyos” ay ang digmaan (16:12-16) sa Armagedon (sa libis ni Josaphat-Joel 3:9-16), kung saan titipunin ang lahat ng mga masama at imbing hukbo ng mga Hentil at sila ay lalabanan at pupuksain ng Panginoon kasama ang Kanyang mga mandaraig na banal (19:11-21; Joel 3:9-13; Isa. 63:1-6)."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang “lunsod” dito ay ang lunsod ng Herusalem."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang “mga kabayo” rito ay tumutugma sa mga kabayo sa 19:18."
+        },
+        {
+            "id": "20-3",
+            "text": "Ang “isang libo at anim na raang estadio” ay ang layo mula sa Bosra (Isa. 63:1) hanggang sa Armagedon (16:16), 182 milya."
+        },
+        {
+            "id": "20-4",
+            "text": "Ang isang estadio ay katumbas ng humigit-kumulang sa 600 piye."
         }
     ]
 }

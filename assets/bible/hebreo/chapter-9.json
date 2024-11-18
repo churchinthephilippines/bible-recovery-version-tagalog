@@ -1,5 +1,5 @@
 {
-    "chapter": 9,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "santuario",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
-                "2. Lalong Mabubuting Hain at Lalong Magaling na Dugo\nkasama ang Lalong Malaki at Lalong Sakdal na Tabernakulo 9:1-10:18"
+                "2. Lalong Mabubuting Hain at Lalong Magaling na Dugo\nkasama ang Lalong Malaki at Lalong Sakdal na Tabernakulo\n 9:1-10:18"
             ]
         },
         {
@@ -32,19 +32,19 @@
             "footnotes": [
                 {
                     "word": "Na",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "dambana",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "sisidlang",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "umusbong",
-                    "note": ""
+                    "id": "4-4"
                 }
             ],
             "outlines": null
@@ -55,7 +55,7 @@
             "footnotes": [
                 {
                     "word": "pampalubag-",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -72,7 +72,7 @@
             "footnotes": [
                 {
                     "word": "kasalanan",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -83,7 +83,7 @@
             "footnotes": [
                 {
                     "word": "daan",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -94,11 +94,11 @@
             "footnotes": [
                 {
                     "word": "sagisag",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -109,11 +109,11 @@
             "footnotes": [
                 {
                     "word": "paglilinis,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "pagtutuwid",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -130,11 +130,11 @@
             "footnotes": [
                 {
                     "word": "nakamtan",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "katubusan.",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -151,23 +151,23 @@
             "footnotes": [
                 {
                     "word": "dugo",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "budhi",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "patay",
-                    "note": ""
+                    "id": "14-4"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "14-5"
                 }
             ],
             "outlines": null
@@ -178,11 +178,11 @@
             "footnotes": [
                 {
                     "word": "pangako",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -193,7 +193,7 @@
             "footnotes": [
                 {
                     "word": "testamento,",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -204,11 +204,11 @@
             "footnotes": [
                 {
                     "word": "testamento",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "kung",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -219,7 +219,7 @@
             "footnotes": [
                 {
                     "word": "itinalaga",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -242,7 +242,7 @@
             "footnotes": [
                 {
                     "word": "kasangkapang",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -253,7 +253,7 @@
             "footnotes": [
                 {
                     "word": "kung",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -264,11 +264,11 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "lalong",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -279,11 +279,11 @@
             "footnotes": [
                 {
                     "word": "dakong",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "kahalintulad",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -300,7 +300,7 @@
             "footnotes": [
                 {
                     "word": "katapusan",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -311,7 +311,7 @@
             "footnotes": [
                 {
                     "word": "minsan,",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -322,14 +322,156 @@
             "footnotes": [
                 {
                     "word": "hiwalay",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "ikaliligtas.",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Sa Griyego ang ganitong salita ay isinaling “mga dakong banal” sa 8:2, sapagka’t pangmaramihan sa 8:2 at pang-isahan sa bersikulong ito. Ang santuario ay ang buong tabernakulo (Exo. 25:8-9), kabilang ang unang tabernakulo na tinatawag na Dakong Banal (b. 2), at ang ikalawang tabernakulo na tinatawag na Dakong Kabanal-banalan (b. 3). Tingnan ang tala 2-2 sa kapitulo 8."
+        },
+        {
+            "id": "4-1",
+            "text": "Tungkol sa kinatatayuang dako ng dambana ng insenso, tila may di-pagkakaayon sa pagitan ng pagkakabanggit nito sa Lumang Tipan at ng yaong nasa Bagong Tipan. Ang Exo. 30:6 ay nagsasabi na ang dambana ng insenso ay inilagay sa “harap ng tabing,” yaon ay, sa labas ng tabing. Ito ay maliwanag na nagsasaad na ang dambana ng insenso ay nakalagay sa Dakong Banal na nasa labas ng tabing, hindi sa Dakong Kabanal-banalan na nasa loob ng tabing. Subalit sa bersikulong ito ay sinasabi na ang Dakong Kabanal-banalan ay may dambana ng insenso. Kaya, karamihan sa mga guro ng Kristiyanidad at mga mambabasa ng Biblia ay nag-akala na may ilang pagkakamali o kahit papaano ay may maling pagkakayaring naganap. Subalit ito ay hindi gayon! Ang tila di-pagkakaayon ay may isang napakaespiritwal na pagpapakahulugan ayon sa mga sumusunod na punto:"
+        },
+        {
+            "id": "4-2",
+            "text": "Ang salitang Griyegong ginamit dito para sa “dambana” ay maaari ring isaling “suuban.” Subalit dito, ito ay tumutukoy sa dambana ng insenso, hindi sa suuban, sapagka’t ayon sa tala ng Lumang Tipan, walang suuban sa Dakong Banal ni sa Dakong Kabanal-banalan."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang pagkakaayos ng mga kasangkapan ng tabernakulo ay naglalarawan sa ating karanasan kay Kristo. Sa labas na looban ay ang dambanang tanso at ang hugasang tanso (Exo. 40:29-32) na sumasagisag na ang ating karanasan kay Kristo ay nagsisimula sa isang panlabas na pakahulugan, sa Kanyang pagtutubos sa krus at sa paglilinis ng Espiritu Santo batay sa Kanyang pagtutubos. Sa Dakong Banal ay ang dulang ng tinapay at ang patungan-ng-ilawan, kasama ang dambana ng insenso na malapit sa Dakong Kabanal-banalan, sa harap ng kaban ng patotoo. Ang dulang ng tinapay ay sumasagisag sa ating karanasan kay Kristo bilang ating panustos ng buhay, at ang patungan-ng-ilawan, sa ating karanasan kay Kristo bilang ang nagliliwanag na ilaw. Ang mga karanasang ito ay panloob na nasa pang-unawa at kamalayan ng ating katauhan. Ang dambana ng insenso ay sumasagisag sa ating karanasan kay Kristo bilang ang mabangong insenso tungo sa Diyos. Ang karanasang ito ay higit na malalim at higit na panloob, humahantong sa mga pinakamalalalim at pinakapanloob na karanasan sa Dakong Kabanal-banalan. Sa Dakong Kabanal-banalan ay ang kaban ng patotoo na kinaroroonan ng sisidlang ginto na naglalaman ng natatagong manna, ng umusbong na tungkod ni Aaron, at ng mga tapyas na bato ng tipan. Ang natatagong manna sa sisidlang ginto ay sumasagisag sa ating karanasan kay Kristo bilang ating panustos ng buhay sa pinakamalalim na paraan, higit na malalim kaysa sa sinagisag ng dulang ng tinapay sa Dakong Banal . Ang umusbong na tungkod ay sumasagisag sa ating karanasan kay Kristo sa Kanyang pagkabuhay na muli bilang pagkatanggap sa atin ng Diyos upang magkaroon ng awtoridad sa ministeryong ipinagkaloob ng Diyos. Ito ay higit na malalim kaysa sa karanasan kay Kristo bilang ang insenso para sa pagtanggap sa atin ng Diyos. Ang dalawang tapyas na bato ng tipan, na siyang mga tapyas na bato ng sampung utos, ay sumasagisag sa ating karanasan kay Kristo bilang ang nagbibigayliwanag at panloob na kautusan, na siyang namamahala sa atin ayon sa dibinong kalikasan ng Diyos. Ito rin ay higit na malalim kaysa sa pagdaranas kay Kristo bilang ang nagliliwanag na patungan-ng-ilawan sa Dakong Banal. Ang lahat ng mga pinakamalalim na karanasang ito kay Kristo ay nasa ating espiritu, na sinagisag ng Dakong Kabanal-banalan."
+        },
+        {
+            "id": "4-4",
+            "text": "*Gr. blastano , mula sa blastos (sumupang), sumibol; nagpapahiwatig ng pamumunga."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 25-2 sa Roma 3."
+        },
+        {
+            "id": "7-1",
+            "text": "Tumutukoy sa mga kasalanang nagawa nang walang pagkaalam sa kautusan ng Diyos (Lev. 4:2, 13, 22, 27; 5:17-18)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang unang tabernakulo, ang Dakong Banal, ay sumasagisag sa lumang tipan, at ang ikalawang tabernakulo, ang Dakong Kabanal-banalan, ay sumasagisag sa bagong tipan. Ngayon ang tabing na nagsasara sa Dakong Kabanal-banalan ay nahapak (Mat. 27:51) sa pamamagitan ng kamatayan ni Kristo yamang ipinako na ng kamatayan ang laman (10:20; Gal. 5:24), at ang daan papasok sa Dakong Kabanal-banalan ay nahayag. Kaya nga, hindi natin kinakailangang manatili sa Dakong Banal, na siyang lumang tipan, na tumutukoy rin sa ating kaluluwa; kundi kinakailangang pumasok tayo sa Dakong Kabanal-banalan, na siyang bagong tipan, na tumutukoy rin sa ating espiritu. Ito ang layunin ng aklat na ito."
+        },
+        {
+            "id": "9-1",
+            "text": "O, larawan; lit. talinghaga."
+        },
+        {
+            "id": "9-2",
+            "text": "Tingnan ang tala 1-1 sa kapitulo 5."
+        },
+        {
+            "id": "10-1",
+            "text": "*O, mga paghuhugas.* Lit. mga pagbabautismo, gaya ng sa 6:2."
+        },
+        {
+            "id": "10-2",
+            "text": "O, repormasyon, pagsasaayos, isatuwid ang lahat ng mga bagay. Ang panahon ng pagtutuwid sa mga bagay ay naganap nang si Kristo ay dumating sa unang pagkakataon upang tuparin ang lahat ng mga anino ng Lumang Tipan, nang sa gayon ay mahalinhan ang lumang tipan ng isang bagong tipan. Ito ay isang wastong pagsasaayos, isang wastong pagkakasunud-sunod. Kaya nga,ito ay isang repormasyon. Ito ay naiiba sa “pagpapanumbalik” sa Gawa 3:21 na magaganap sa ikalawang pagparito ni Kristo."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang pagtutubos ni Kristo ay isinagawa sa krus (Col. 1:20), subalit, saka pa lamang Niya natanggap ang katubusang ito mula sa Diyos bilang ang katubusang nagtataglay ng walang hanggang bisa, nang Siya ay pumasok sa Dakong Kabanal-banalan sa kalangitan sa pamamagitan ng Kanyang nagtutubos na dugo, yaon ay, nang Kanyang dinala ang Kanyang nagtutubos na dugo at inihandog ito sa harapan ng Diyos."
+        },
+        {
+            "id": "12-2",
+            "text": "Sa lumang tipan, ang dugo ng mga kambing at mga bisirong baka ay gumawa lamang ng pagtubos (sa Ingles ay atonement ) para sa mga kasalanan ng mga tao (Lev. 16:15-18); ngunit bagaman ang dugo ng mga ito ay para sa kanilang mga kasalanan, kailanman ito ay hindi nagsakatuparan ng katubusan; “sapagkat imposible na ang dugo ng mga baka at ng mga kambing ay makapag-alis ng mga kasalanan” (10:4). Sa Hebreo ang salitang-ugat para sa pagtubos ay nangangahulugang “takip.” Kaya nga, ang “pagtubos ng kasalanan” ay nangangahulugang takpan, hindi alisin ang mga kasalanan. Yamang si Kristo bilang ang Kordero ng Diyos ay nag-alis ng kasalanan ng sanlibutan (Juan 1:29) sa pamamagitan ng paghahandog ng Kanyang Sarili sa krus bilang hain para sa mga kasalanan (b. 14; 10:12), ang Kanyang dugo na Kanyang iwinisik sa tabernakulong nasa langit (12:24), ay nagsagawa ng walang hanggang katubusan para sa atin, maging ng katubusan ng mga pagsalansang sa ilalim ng unang (lumang) tipan (b. 15), na mga pagsalansang na tinakpan lamang ng dugo ng mga hayop na inihain. Kaya nga, tayo ay “tinubos ng mahalagang dugo ni Kristo” (1 Ped. 1:18-19)."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang dugo ni Kristo ay idinaloy para sa kapatawaran ng mga kasalanan (Mat. 26:28). Ang bagong tipan ay naisagawa sa pamamagitan nito (10:29; Luc. 22:20). Isinagawa ng dugong ito ang walang hanggang katubusan para sa atin (b. 12; Efe. 1:7; 1 Ped. 1:18-19), at binili ang ekklesia para sa Diyos (Gawa 20:28). Nililinis tayo nito mula sa ating mga kasalanan (Apoc. 1:5; 1 Juan 1:7), nililinis ang ating budhi (b. 14), at pinababanal tayo (13:12), at nagsasalita ng lalong mabuti para sa atin (12:24). Sa pamamagitan ng dugong ito ay pumapasok tayo sa Dakong Kabanal-banalan (10:19) at dinaraig si Satanas na tagapag-akusa (Apoc. 12:10-11). Samakatwid, ito ay mahalaga at nakahihigit kaysa sa dugo ng mga kambing at mga toro (bb. 12-13). Kinakailangan nating pahalagahan ang dugong ito at huwag itong ituring na karaniwan gaya ng dugo ng hayop. Kung gagawin natin ito, magdurusa tayo ng kaparusahan ng Diyos (10:29-31)."
+        },
+        {
+            "id": "14-2",
+            "text": "Sa krus, inihandog ni Kristo ang Kanyang sarili sa Diyos sa loob ng katawan ng tao (10:5, 10); ang katawang ito ay nalilimitahan ng panahon. Subalit ginawa Niya ang paghahandog ng Kanyang sarili sa pamamagitan ng walang hanggang Espiritu; ang Espiritung ito ay walang hanggan, hindi nalilimitahan ng panahon. Kaya nga, sa mga mata ng Diyos, si Kristo bilang ang Kordero ng Diyos ay “pinatay buhat nang itatag ang sanlibutan” (Apoc. 13:8). Ang paghahandog Niya ng Kanyang sarili ay “minsan magpakailanman” (7:27), at ang katubusang naisagawa sa pamamagitan ng Kanyang kamatayan ay walang hanggan (b. 12), nagtataglay ng walang hanggang bisa. Ang kinasasaklawang panahon ng Kanyang katubusan ay ganap na sumasakop sa kinasasaklawang panahon ng kasalanan. Tingnan ang tala 26-1 talata 2."
+        },
+        {
+            "id": "14-3",
+            "text": "Nililinis ng dugo ni Kristo ang ating budhi upang ating mapaglingkuran ang Diyos na buháy. Ang paglingkuran ang Diyos na buháy ay nangangailangan ng isang budhing nalinis-ng-dugo ni Kristo. Ang sumamba sa loob ng patay na relihiyon o ang maglingkod sa anumang patay na bagay maliban sa Diyos ay hindi humihiling na ang ating budhi ay malinis. Ang budhi ang pangunahing bahagi ng ating espiritu. Ang Diyos na buháy na ninanais nating paglingkuran ay palaging dumarating sa ating espiritu (Juan 4:24) sa pamamagitan ng paghipo sa ating budhi. Siya ay matuwid, banal, at buháy. Ang ating narumhang budhi ay kinakailangang malinis upang mapaglingkuran natin Siya sa buháy na paraan. Ang sumamba sa Diyos sa ating pag-i isip nang makarelihiyon ay hindi nangangailangan nito."
+        },
+        {
+            "id": "14-4",
+            "text": "Dahil sa tayo ay mga patay (Efe. 2:1; Col. 2:13), anumang ating ginawa, masama o mabuti man, ay mga patay na gawa sa harapan ng Diyos na buháy."
+        },
+        {
+            "id": "14-5",
+            "text": "Ang aklat na ito ay hindi isang aklat na nagtuturo ng relihiyon, kundi isang aklat na nagpapahayag sa Diyos na buháy (3:12; 9:14; 10:31; 12:22). Upang makaugnay ang Diyos na buháy na ito kailangan nating gamitin ang ating espiritu (4:12) at magkaroon ng espiritung may budhing nalinis-ng-dugo."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang pangako ng walang hanggang pamana ay batay sa walang hanggang pagtutubos ni Kristo, hindi sa ating gawa, at naiiba sa pangako sa 10:36 na nakasalig sa ating pagtitiis at paggawa sa kalooban ng Diyos. (Tingnan ang tala 36-1 sa kap. 10). Ang walang hanggang pamanang ipinangako rito ay sa pamamagitan ng walang hanggang pagtutubos ni Kristo, samantalang ang malaking gantimpala (10:35) na ipinangako sa 10:36 ay sa pamamagitan ng ating pagtitiis at paggawa ng kalooban ng Diyos."
+        },
+        {
+            "id": "15-2",
+            "text": "Tingnan ang tala 34-1 sa kapitulo 10."
+        },
+        {
+            "id": "16-1",
+            "text": "Sa Griyego, parehong salita ang ginamit para sa tipan at testamento. Ang isang tipan ay isang kasunduan na may ilang pangako upang isagawa ang ilang bagay para sa mga pinakipagkasunduang tao, samantalang ang isang testamento ay ang huling habilin na may ilang natatanging naisakatuparang bagay na ipinamana sa tagapagmana. Ang bagong tipan na naisagawa sa pamamagitan ng dugo ni Kristo ay hindi basta isang tipan, bagkus isang testamentong kasama ang lahat ng mga bagay na naisagawa ng kamatayan ni Kristo na ipinamana sa atin. Ibinigay muna ng Diyos ang pangakong Siya ay gagawa ng isang bagong tipan (Jer. 31:31-34). Pagkaraan ay nagdanak si Kristo ng Kanyang dugo upang tuparin ang bagong tipan (Luc. 22:20). Yamang may naisagawang mga tunay na bagay na ipinangako sa tipang ito, ito rin ay isang testamento. Ang testamentong ito, ang huling habiling ito, ay pinagtibay at binigyang-bisa ng kamatayan ni Kristo, at tinutupad at isinasakatuparan ng nabuhay na muling Kristo. Ang pangako ng tipan ng Diyos ay pinananagutan ng katapatan ng Diyos; ang tipan ng Diyos ay ginagarantiyahan ng katuwiran ng Diyos; at ang testamento ay tinutupad ng kapangyarihan ng pagkabuhay na muli ni Kristo."
+        },
+        {
+            "id": "17-1",
+            "text": "Tingnan ang tala 16-1 ."
+        },
+        {
+            "id": "17-2",
+            "text": "Lit. kung saan may kamatayan."
+        },
+        {
+            "id": "18-1",
+            "text": "*Gr. enkainizo . Dadalawang beses lamang ginamit sa buong Bagong Tipan, dito at sa 10:20.* Nagpapahiwatig ng pagpapanibago, pagpapasimula nang may orihinalidad."
+        },
+        {
+            "id": "21-1",
+            "text": "*Gr. skuos ; nangangahulugan ding mga sisidlan.*"
+        },
+        {
+            "id": "22-1",
+            "text": "Kung walang pagbububo ng dugo ay walang kapatawaran ng kasalanan. Kung walang kapatawaran ng kasalanan ay walang daan upang mabigyang-kasiyahan ang kahilingan ng katuwiran ng Diyos nang sa gayon ay matupad ang tipan. Subalit ang dugo ni Kristo ay naibubo na para sa kapatawaran ng kasalanan, at ang bagong tipan ay napagtibay sa pamamagitan ng Kanyang dugo (Mat. 26:27)."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang tabernakulo at ang lahat ng mga bagay na nauukol dito ay winisikan at nilinis ng dugo ng mga kambing at ng mga toro (bb. 21-23). Yaon ay isang sagisag na nagpapakita na ang mga bagay na nasa langit ay kinakailangang malinis ng dugo ng lalong mabubuting hain, na siyang si Kristo bilang mga hain (7:27; 9:14, 28; 10:10, 12, 14). Ang langit at ang lahat ng mga bagay na nasa langit ay narungisan ng pagrerebelde ni Satanas at ng mga natisod na anghel na sumunod sa kanya sa kanyang pagrerebelde laban sa Diyos. Kaya ang lahat ng mga bagay na nasa langit ay kinakailangang malinis. Isinagawa ni Kristo ang paglilinis na ito sa pamamagitan ng Kanyang sariling dugo nang Siya ay pumasok sa langit (bb. 12, 24)."
+        },
+        {
+            "id": "23-2",
+            "text": "Inihandog ni Kristo ang Kanyang sarili bilang isang hain (b. 14; 10:12). Ang isang haing ito, kung titingnan mula sa iba’t ibang aspekto nito, ay maituturing na maraming uri ng hain. Sapagkat si Kristo ang walang hanggang Anak ng Diyos na buháy na nagkatawang-tao upang maging ang Anak ng Tao, at naghandog ng Kanyang sarili sa Diyos sa pamamagitan ng walang hanggang Espiritu, ang Kanyang mga hain ay lalong mabuti kaysa yaong sa mga hayop. Ang mga haing hayop ay mga anino lamang na hindi kailanman makapag-aalis ng mga kasalanan (10:11), subalit ang Kanyang mga hain ay tunay at nag-alis ng kasalanan nang minsan magpakailanman (b. 26), sa gayon ay kinamtan ang walang hanggang katubusan para sa atin (b. 12)."
+        },
+        {
+            "id": "24-1",
+            "text": "Tingnan ang tala 2-2 sa kapitulo 8."
+        },
+        {
+            "id": "24-2",
+            "text": "O, mga kopya."
+        },
+        {
+            "id": "26-1",
+            "text": "O, kakumpletuhan ng mga kapanahunan, wakas ng mga kapanahunan. Dito ito ay nangangahulugang ang wakas ng kapanahunan ng Lumang Tipan, samantalang ang kaganapan ng kapanahunan sa Mat. 28:20 (Gr.) ay tumutukoy sa pagtatapos ng kapanahunan ng ekklesia. Si Kristo ay “itinalaga nga nang una” para sa atin “bago itinatag ang sanlibutan” (1 Ped. 1:20), at Siya ay “pinatay buhat nang itatag ang sanlibutan” (Apoc. 13:8). Sa katunayan, ang pagkapatay sa Kanya ay naganap nang minsan magpakai lanman sa kaganapan ng mga kapanahunan, nang Kanyang inihandog ang Kanyang Sarili sa Diyos sa Kanyang unang pagpapakita para sa pag-aalis ng kasalanan. Tingnan ang tala 14-2 ."
+        },
+        {
+            "id": "27-1",
+            "text": "Sapagkat ang tao ay kailangang mamatay nang minsan, at mahatulan pagkatapos mamatay, gayundin si Kristo ay namatay nang minsan upang pasanin ang mga kasalanan ng tao (b. 28; 1 Ped. 2:24) at nagdusa ng kahatulan para sa tao sa krus (Isa. 53:5, 11)."
+        },
+        {
+            "id": "28-1",
+            "text": "Yamang inalis na ni Kristo ang kasalanan sa Kanyang unang pagpapakita (b. 26; 1 Juan 3:5), ang Kanyang ikalawang pagpapakita ay magiging hiwalay sa kasalanan, lubusang walang kinalaman sa kasalanan."
+        },
+        {
+            "id": "28-2",
+            "text": "Ang kaligtasan dito ay tumutukoy sa “katubusan ng ating katawan” at kaligtasan mula sa “kawalang-kabuluhan” at “pagkaalipin sa kabulukan” ng lumang nilikha “tungo sa loob ng kalayaan ng kaluwalhatian ng mga anak ng Diyos” (Roma 8:18-23; Fil. 3:20-21), yaon ay, ang “maluwalhati” (Roma 8:17, 30)."
         }
     ]
 }

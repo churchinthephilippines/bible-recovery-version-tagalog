@@ -1,5 +1,5 @@
 {
-    "chapter": 7,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,15 +21,15 @@
             "footnotes": [
                 {
                     "word": "asawa",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -40,11 +40,11 @@
             "footnotes": [
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -55,15 +55,15 @@
             "footnotes": [
                 {
                     "word": "kayo",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "makapagpakasal",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "magsipamunga",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -80,15 +80,15 @@
             "footnotes": [
                 {
                     "word": "napalaya",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "kabaguhan",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -99,15 +99,15 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": [
@@ -120,7 +120,7 @@
             "footnotes": [
                 {
                     "word": "kasalanan,",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -137,7 +137,7 @@
             "footnotes": [
                 {
                     "word": "ikamamatay",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -148,7 +148,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -171,15 +171,15 @@
             "footnotes": [
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "espiritwal;",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "makalaman,",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -190,7 +190,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -207,7 +207,7 @@
             "footnotes": [
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -218,19 +218,19 @@
             "footnotes": [
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "laman,",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "pagpapasiya",
-                    "note": ""
+                    "id": "18-4"
                 }
             ],
             "outlines": null
@@ -253,11 +253,11 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "masama",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -268,7 +268,7 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -279,15 +279,15 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "nakikipagbaka",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "bihag",
-                    "note": ""
+                    "id": "23-3"
                 }
             ],
             "outlines": null
@@ -298,15 +298,15 @@
             "footnotes": [
                 {
                     "word": "Abang",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "katawan",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "kamatayang",
-                    "note": ""
+                    "id": "24-3"
                 }
             ],
             "outlines": null
@@ -317,14 +317,160 @@
             "footnotes": [
                 {
                     "word": "aking",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang bb. 1-6 ang pagpapatuloy ng 6:14 na nagpapaliwanag kung paanong tayo ay wala na sa ilalim ng kautusan. Sa isang panig, hindi pinapawalang-bisa ni kinakansela ni inaalis ng Diyos ang kautusan, kaya nga ang kautusan ay patuloy na umiiral. Sa kabilang panig, sapagkat ang ating lumang tao, ang unang asawang lalake na tinukoy sa mga bersikulong ito, ay napako na sa krus (6:6), tayo ay wala na sa ilalim ng kautusan, at tayo ay walang kinalaman sa kautusan. Tayo ay naging asawang babae ni Kristo at naging taong dumedepende kay Kristo."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang asawang lalake rito (ang unang asawang lalake) ay hindi tumutukoy sa laman o kautusan, ito ay tumutukoy sa lumang tao na binanggit sa 6:6 na napako na sa krus kasama ni Kristo. Kaya ang bb. 1-6 ay tumutugon sa 6:6."
+        },
+        {
+            "id": "2-2",
+            "text": "Yamang nilisan ng natisod na tao ang wastong posisyon bilang asawang babae ng Diyos at nag-isip na maging asawang lalake (tingnan ang tala 4-1 ), nagbigay sa kanya ang Diyos ng mga kautusan na hindi niya kayang tuparin. Kaya, ang intensiyon ng Diyos sa pagbibigay ng kautusan ay hindi para sa asawang babae kundi para sa asawang lalake; ang intensiyon ng Diyos sa pagbibigay ng kautusan sa tao ay hindi upang tuparin ng tao kundi upang ihantad ang lumang tao (b. 5; 3:20; 5:20). Kaya nga ang bersikulong ito ay tumutukoy sa kautusan bilang ang kautusan ng asawang lalake."
+        },
+        {
+            "id": "3-1",
+            "text": "Tumutukoy sa pangalawang asawang lalake. Ang “ibang lalake” na tinutukoy sa bersikulong ito at ang “iba” sa bersikulo 4 ay pawang tumutukoy kay Kristo."
+        },
+        {
+            "id": "4-1",
+            "text": "Yamang ang ating lumang tao, na siyang lumang asawang lalake, ay napako na sa krus kasama ni Kristo (6:6), tayo ay napalaya na mula sa kanyang kautusan at ikinasal na sa bagong Asawang Lalakeng si Kristo, ang magpakailanmang nabubuhay na Isa. Tayo, ang mga mananampalataya, ay may dalawang katayuan. Ang unang “kayo” sa bersikulong ito ay tumutukoy sa “atin,” na nasa lumang katayuan bilang ang mga natisod na makasalanan, na tumalikod sa orihinal na posisyon bilang asawang babae na dumedepende sa Diyos, inilalagay ang kanyang sarili sa posisyon ng asawang lalake na siyang ulo at naging hindi umaasa sa Diyos. Ang pangalawang “kayo” sa bersikulong ito ay tumutukoy sa “atin” na nasa bagong katayuan ng isang naisilang na muling bagong tao na bumabalik sa wastong posisyon bilang ang tunay na asawang babae ng Diyos (Isa. 54:5; I Cor. 11:3) at dumedepende sa Diyos, tinatanggap Siya bilang ating Ulo. Yamang tayo ay kasama ni Kristo na napako sa krus, tayo ay wala na sa lumang katayuan ng isang asawang lalake. Ngayon ay taglay na natin at nagtataglay lamang ng bagong katayuan ng isang wastong asawang babae, tinatanggap si Kristo bilang ating asawang lalake. Hindi tayo dapat mamuhay sa pamamagitan ng lumang tao, at hindi natin dapat tanggapin ang lumang tao bilang ating asawang lalake."
+        },
+        {
+            "id": "4-2",
+            "text": "Tinutukoy ng “makapagpakasal sa iba” na sa bagong katayuan bilang isang asawang babae, tayo ay pang-organikong naihugpong kay Kristo sa Kanyang pagkabuhay na muli, persona, pangalan, buhay, at pag-iral."
+        },
+        {
+            "id": "4-3",
+            "text": "Bilang ang naisilang na muling bagong tao at asawang babae ni Kristo, lahat ng kung ano tayo at lahat ng ginagawa natin ay may kaugnayan na ngayon sa Diyos. Higit pa rito, Siya ang bunga na ating ibinubunga, at ang nananaganang pag-apaw ng ating buhay. Ito ay naiiba sa ating pamumunga tungo sa kamatayan (b. 5), na ibinunga sa nakaraan nang tayo ay lumang tao pa, ang lumang asawang lalake."
+        },
+        {
+            "id": "6-1",
+            "text": "Yamang ang lumang tao ay naipako na sa krus, ang naisilang na muling bagong tao ay nailigtas mula sa kautusan ng lumang tao (bb. 2-3; Gal. 2:19). Ang kautusan ay ibinigay para sa lumang asawang lalake, ang lumang tao (hindi ibinigay para sa asawang babae); at ang lumang asawang lalake, ang lumang tao, ay naipako na. Kaya ang bagong tao (asawang babae) ay naligtas mula sa kanyang kautusan."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang kabaguhan ng buhay sa 6:4 ang kinalabasan ng pakikipagkaisa sa pagkabuhay na muli ni Kristo at ito ay para sa ating pang-araw-araw na paglakad. Ang kabaguhan dito ng espiritu ang resulta ng pagiging nailigtas mula sa kautusan tungo kay Kristo na nabuhay na muli, at ito ay para sa ating paglilingkod sa Diyos. Kaya ang kabaguhan ng espiritu at ang kabaguhan ng buhay ay pawang resulta ng pagiging naipako sa krus ng lumang tao."
+        },
+        {
+            "id": "6-3",
+            "text": "Tumutukoy sa espiritu ng naisilang na muling tao, taglay ang Panginoon, ang Espiritung nananahanan (2Tim. 4:22). Lahat ng bagay na may kaugnayan sa ating naisilang na muling espiritu ay bago. Lahat ng lumalabas sa Espiritu ay pawang bago rin. Ang espiritung ito ang pinagmumulan ng kabaguhan, sapagkat ang Panginoon, ang buhay ng Diyos, at ang Espiritu Santo, ay pawang nasa loob nito. (Tingnan ang 9-2 sa kap. 1)."
+        },
+        {
+            "id": "7-1",
+            "text": "Sa mga bersikulo 7-25, ginamit ni Pablo ang kanyang karanasan bago siya naligtas upang ilarawan kung gaano kamiserable para sa isang nasa ilalim ng kautusan ang magbigay-kaluguran sa Diyos. Sa talatang ito ay hindi binanggit ang espiritu ng tao ni ang Espiritu ng Diyos, bagkus ay binanggit ang tungkol sa pagpapasiya at kaisipan ng kaluluwa ng tao (bb. 19, 23), na nagsisikap na magbigay-kaluguran sa Diyos sa pamamagitan ng kabutihan ng likas na buhay (bb. 18-19, 21). Bagama’t ito ang sitwasyon ng mga hindi ligtas, halos karamihan ng lahat ng Kristiyano ay may gayong karanasan pagkatapos nilang maligtas."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang Diyos ay inilalarawan at ipinaliliwanag ng kautusan (Lev. 19:2). Kaya, ang kautusan ay maraming kahilingan at regulasyon patungkol sa natisod na tao upang mapatunayang ang kasalanan ay kasalanan, at upang makilala ng tao ang kasalanan (3:20; 4:15; 5:20). Sa ganitong kadahilanan, ang tao ay inihantad at sinupil ng kautusan (3:19)."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang ikasampung utos ay nagsasabing “Huwag kang mag-iimbot.” Ito ay walang kinalaman sa mga panlabas na gawa, kundi may kaugnayan sa panloob na kasalanan (pangunahing sa kaisipan). Ito ay nagpapakita na ang mga suliranin ng tao ay hindi lamang ang mga panlabas na makasalanang gawa, bagkus higit pa ay ang panloob na kasalanan na nananahan sa kanya."
+        },
+        {
+            "id": "8-1",
+            "text": "Sa kapitulong ito, lalung-lalo na sa bersikulong ito at sa mga bersikulo 11, 17, 20, tinutukoy na ang kasalanang nasa loob natin ay isang persona, si Satanas, na may ibang anyo na nabubuhay at aktibo sa ating loob."
+        },
+        {
+            "id": "10-1",
+            "text": "Tumutukoy sa sumpa at kahatulan na dinadala ng kasalanan sa pamamagitan ng kautusan (4:15; 5:13, 20) sa loob ng budhi ng tao at sa harapan ng Diyos. Sa gayon inilalagay ang tao sa kamatayan."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang kautusan ay ang instrumentong ginamit ng kasalanan upang linlangin at patayin ang tao. Ang kapangyarihan ng kasalanan ay ang kautusan (1 Cor. 15:56). Ito ay dapat magbabala sa atin upang huwag tayong bumaling sa kautusan at sikaping tuparin ito; sapagkat sa pamamagitan ng gayong paggawa ay binibigyan natin ng pagkakataon ang kasalanan na tayo ay linlangin at patayin."
+        },
+        {
+            "id": "14-1",
+            "text": "Tumutukoy sa panloob na subhektibong kamalayan. Tingnan ang tala 6-1 sa kap. 6."
+        },
+        {
+            "id": "14-2",
+            "text": "Nangangahulugang kapareho ng Diyos na Espiritu sa esensiya, kalikasan, at substansiya (Juan 4:24)."
+        },
+        {
+            "id": "14-3",
+            "text": "Natanto ni Pablo na siya ay taliwas sa inilarawan ng kautusan. Ang kautusan ay espirituwal, banal, matuwid, at mabuti, samantalang siya ay makalaman, karaniwan, marumi, di-matuwid, at masama. Tingnan ang tala 1-2 sa 1 Corinto 3."
+        },
+        {
+            "id": "15-1",
+            "text": "Lit., hindi ko nauunawaan. Tumutukoy sa hindi kinikilala, hindi aprobado. Hindi pinapayagan, ni inaaprobahan, ni kinikilala ni Pablo ang kanyang maling pagkilos sapagkat ang kanyang laman ay nagrerebelde sa kanyang kaisipan at pagpapasiya at pagkatapos ay naglilingkod sa kautusan ng kasalanan."
+        },
+        {
+            "id": "17-1",
+            "text": "Lit., gumagawa ng tahanan. Ang kasalanan ay hindi lamang namamalagi at nananatili sa atin nang pansamantala, bagkus ay gumagawa ito ng tahanan sa loob natin."
+        },
+        {
+            "id": "18-1",
+            "text": "Gr. oida . Tumutukoy sa panloob at subhektibong kamalayan. Tingnan ang tala 6-1 sa kap. 6."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang laman dito ay tumutukoy sa katawan ng natisod at napasamang tao kasama ang lahat ng pita nito. Ang lamang ito ay hindi nilikha ng Diyos, bagkus ay isang paghahalo ng nilikha ng Diyos at ng kasalanan (ang buhay ni Satanas, ang masamang isa). Ang katawan ng tao ayon sa paglikha ng Diyos, sa umpisa, ay isang dalisay at malinis na sisidlan, subalit nang ang tao ay natisod, itinurok ni Satanas ang kanyang sarili sa loob ng katawan ng tao. Ang kalikasan ng sisidlang ito sa gayon ay napasama at napalitan, sa gayon ay naging laman. Ngayon si Satanas, bilang ang kasalanan na nabigyang-katauhan, ay nasa ating laman, gumagawa ng tahanan sa ating laman; at bilang isang ilegal na amo ay namamahala at nang-aapi sa atin at ibinubuyo tayo na gawin ang ayaw nating gawin. Ginagawa ang buong sangkatauhan na mga nabuuang makasalanan (5:19) ng nananahang kasalanang ito, itong hindi nagbabagong masamang kalikasan."
+        },
+        {
+            "id": "18-3",
+            "text": "Dito ay maingat na sinabi ni Pablo na sa ating laman (hindi sa ating buong katauhan) ay walang anumang nananahang mabuti, subalit sa iba pang bahagi ng katauhan ng tao ay tunay na may umiiral na kabutihan. Ang pagpapasiya ay masigasig upang bigyan ng kaluguran ang Diyos (bb. 18-21) ayon sa kautusan ng mabuti (bb. 22-23) sa kaisipan, subalit ang gumawa ng mabuti sa pamamagitan ng katawan ay imposible, sapagkat ang katawan ay naging laman kung saan nananahan ang kasalanan."
+        },
+        {
+            "id": "18-4",
+            "text": "Ito ay pagbaling sa kautusan. Ang kautusan ng mabuti (bb. 22-23) na nasa ating kaisipan ay tumutugma sa kautusan ng Diyos, at tumutugon sa mga kahilingan nito, nagsisikap na tuparin ang mga ito."
+        },
+        {
+            "id": "21-1",
+            "text": "Batay sa katunayan sa bersikulo 20, natuklasan ni Pablo na ang kautusan ng kasalanan, na siyang kasalanan na nananahan sa atin, ay ang masama na kasama rin natin. Pagdating sa bersikulo 23 ay natanto ni Pablo na ang kautusan ay ang kautusan ng kasalanan na nasa mga sangkap ng ating katawan."
+        },
+        {
+            "id": "21-2",
+            "text": "Sa orihinal na teksto, tinutukoy yaong masama sa mga katangian. Ito ay tiyak na ang masamang buhay, kalikasan, at mga katangian ni Satanas. Siya ang nananahang kasalanan sa atin. Kapag ang nananahang kasalanang ito ay nakaabang lamang, ito ay kasalanan subali’t sa oras na ito ay pukawin ng ating pagpapasiyang gumawa ng mabuti, ito ay nagiging masama."
+        },
+        {
+            "id": "22-1",
+            "text": "Tumutukoy sa nakasulat na kautusan ng Diyos."
+        },
+        {
+            "id": "23-1",
+            "text": "Sa tatlong (3) iba’t ibang bahagi ng mga mananampalataya, sa kanilang espiritu, kaluluwa, at katawan, ay may tatlong (3) iba’t ibang kautusan. Ipinahahayag ng mga kapitulo 7 at 8 na ang tatlong kautusang ito ay nagmula sa tatlong pangkat ng sansinukob. Ang kautusan ng kasalanan at kamatayan na nasa mga sangkap (b. 23) ng katawan ng mga mananampalataya ay nagmula kay Satanas na siyang kasalanang nananahan sa laman ng mga mananampalataya. Ang kautusan ng mabuti (b. 23) sa kaisipan na nasa kaluluwa ng mga mananampalataya ay nagmumula sa likas na buhay ng tao, na siyang sarili ng tao. Ang kautusan ng Espiritu ng buhay na nasa espiritu ng mga mananampalataya ay nagmumula sa Diyos na siyang Espiritu na nasa espiritu ng mga mananampalataya (8:2, 16). Ang tatlong ito kasama ang tatlong kautusan ay pawang nasa loob ng mga mananampalataya, katulad na katulad sa situwasyon sa hardin ng Eden, kung saan ay nandoon ang tatlo (ang Diyos, ang tao, at si Satanas) (Gen. 3). Bukod sa tatlong kautusang ito na nasa loob ng mga mananampalataya ay mayroon pang kautusan ng Diyos na nasa labas ng tao (bb. 22, 25)."
+        },
+        {
+            "id": "23-2",
+            "text": "Ang pakikipagbaka rito ay ang pakikipagbakang nangyayari sa pagitan ng kautusan ng kasalanan na nasa mga sangkap ng katawan, at ng kautusan ng mabuti na nasa kaisipan ng kaluluwa. Ang pakikipagbakang ito ay lubos na pakikipagbaka ng kasalanan na nasa laman at ng kabutihan na nasa loob ng likas na tao. Ito ay walang kinalaman sa ating espiritu at sa Espiritu ng Diyos. Kaya, ito ay naiiba sa pakikipagbaka sa Gal. 5:16-25, na tumutukoy sa pantaong espiritu na nakahalo sa Espiritu ng Diyos na nakikipagbaka sa laman."
+        },
+        {
+            "id": "23-3",
+            "text": "Hindi makakayanan ng mga taong naging independiyente sa Diyos na harapin ang kautusan ng kasalanan na nasa mga sangkap ng katawan sapagkat ang kautusang ito ay si Satanas mismo na may kapangyarihan."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang tuparin ang kautusan sa pamamagitan ng laman ay magreresulta sa kamatayan at pagkaaba. Ang tao ay makalaman at naipagbili na sa kasalanan (b. 14). Walang nananahang mabuti sa laman ng tao (b. 18), hindi kayang daigin ng tao ang kasalanan (bb. 15-20). Kung sinisikap tuparin ng isang gayong tao ang kautusan ng Diyos, siya ay tiyak na matatalo."
+        },
+        {
+            "id": "24-2",
+            "text": "Sa 6:6 ang ating natisod na katawan ay tinatawag na katawan ng kasalanan. Dito, ito ay tinaguriang katawan ng kamatayang ito. Ang katawan ng kasalanan ay malakas sa pagkakasala laban sa Diyos subalit ang katawan ng kamatayan ay mahina sa paggawa ng mga bagay na ikalulugod ng Diyos. Pinalalakas ng kasalanan ang natisod na katawan upang magkasala samantalang lubusang pinanghihina at ginagawang inutil ng kamatayan ang napasamang katawan sa pagsunod sa mga utos ng Diyos."
+        },
+        {
+            "id": "24-3",
+            "text": "Tumutukoy sa kamatayang dinadala sa atin ng kasalanan sa pamamagitan ng mga sandata ng kautusan, ang kamatayang sa pamamagitan nito ay natatalo tayo, ang kamatayan kung saan dinadala tayo sa pagkabihag ng kautusan ng kasalanan sa ating mga sangkap kapag nagsisikap tayong tumupad sa kautusan upang bigyan ng kaluguran ang Diyos, at ito rin ang kamatayang gumagawa sa ating laman ngayon."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang “aking kaisipan” ay tumutukoy sa nagsasariling kaisipan na kumakatawan sa sarili, nagsisikap na gumawa ng mabuti. Bagama’t ang kautusan ng mabuti (b. 23) sa ating kaisipan ay nagtutulak sa atin na gumawa ng mabuti, sa katapus-tapusan ay matatalo ito sapagkat ang kautusan ng kasalanan sa ating mga sangkap ay higit na malakas kaysa sa nagsasariling kaisipan."
+        },
+        {
+            "id": "25-2",
+            "text": "Ang “kautusan ng kasalanan,” “kasalanan,” at “masama” (bb. 20, 21), ang tatlong ito ay magkakasingkahulugan, tumutukoy kay Satanas na nananahan sa natisod na katawan ng tao."
         }
     ]
 }

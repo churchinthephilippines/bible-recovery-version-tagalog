@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,32 +7,32 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "sugo",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "Efeso",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "sinasabi",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "hawak",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "lumalakad",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": [
-                "III. “Ang mga Bagay na Ngayon”—\nang Pitong Ekklesia Lokal 2:1-3:22",
-                "A. Ekklesia sa Efeso—ang Ekklesia\nsa Panahon ng Pagtatapos ng Umpisang Yugto 2:1-7"
+                "III. “Ang mga Bagay na Ngayon”—\nang Pitong Ekklesia Lokal\n 2:1-3:22",
+                "A. Ekklesia sa Efeso—ang Ekklesia\nsa Panahon ng Pagtatapos ng Umpisang Yugto\n 2:1-7"
             ]
         },
         {
@@ -41,7 +41,7 @@
             "footnotes": [
                 {
                     "word": "nagpapanggap",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -58,11 +58,11 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -73,7 +73,7 @@
             "footnotes": [
                 {
                     "word": "aalisin",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -84,7 +84,7 @@
             "footnotes": [
                 {
                     "word": "Nikolaita,",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -95,31 +95,31 @@
             "footnotes": [
                 {
                     "word": "pakinig",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "ekklesia.",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "magtagumpay",
-                    "note": ""
+                    "id": "7-4"
                 },
                 {
                     "word": "pakakainin",
-                    "note": ""
+                    "id": "7-5"
                 },
                 {
                     "word": "puno",
-                    "note": ""
+                    "id": "7-6"
                 },
                 {
                     "word": "paraiso",
-                    "note": ""
+                    "id": "7-7"
                 }
             ],
             "outlines": null
@@ -130,19 +130,19 @@
             "footnotes": [
                 {
                     "word": "sugo",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "Esmirna",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "Una",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "muling",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": [
@@ -155,35 +155,35 @@
             "footnotes": [
                 {
                     "word": "kapighatian",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "karukhaan,",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "mayaman;",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "paninirang-",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "tumatawag",
-                    "note": ""
+                    "id": "9-4"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "9-5"
                 },
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "9-6"
                 },
                 {
                     "word": "Satanas.",
-                    "note": ""
+                    "id": "9-7"
                 }
             ],
             "outlines": null
@@ -194,15 +194,15 @@
             "footnotes": [
                 {
                     "word": "Diyablo",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "sampung",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "putong",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -213,11 +213,11 @@
             "footnotes": [
                 {
                     "word": "magtagumpay",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "masasaktan",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -228,7 +228,7 @@
             "footnotes": [
                 {
                     "word": "Pergamo",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -241,19 +241,19 @@
             "footnotes": [
                 {
                     "word": "trono",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "pangalan,",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "Antipas",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -264,19 +264,19 @@
             "footnotes": [
                 {
                     "word": "pagtuturo",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Balaam,",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "diyos-",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "makiapid.",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -287,11 +287,11 @@
             "footnotes": [
                 {
                     "word": "pagtuturo",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "Nikolaita.",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -302,7 +302,7 @@
             "footnotes": [
                 {
                     "word": "paririyan",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -313,19 +313,19 @@
             "footnotes": [
                 {
                     "word": "magtagumpay",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "natatagong",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "bato,",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -336,15 +336,15 @@
             "footnotes": [
                 {
                     "word": "Tiatira",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "matang",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": [
@@ -357,7 +357,7 @@
             "footnotes": [
                 {
                     "word": "gawa",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -368,27 +368,27 @@
             "footnotes": [
                 {
                     "word": "babaeng",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "tumatawag",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "propetisa",
-                    "note": ""
+                    "id": "20-3"
                 },
                 {
                     "word": "nagtuturo",
-                    "note": ""
+                    "id": "20-4"
                 },
                 {
                     "word": "makiapid",
-                    "note": ""
+                    "id": "20-5"
                 },
                 {
                     "word": "diyos-",
-                    "note": ""
+                    "id": "20-5"
                 }
             ],
             "outlines": null
@@ -405,11 +405,11 @@
             "footnotes": [
                 {
                     "word": "higaan,",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "kapighatian,",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -420,11 +420,11 @@
             "footnotes": [
                 {
                     "word": "papatayin",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "panloob",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -435,7 +435,7 @@
             "footnotes": [
                 {
                     "word": "malalalim",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -446,7 +446,7 @@
             "footnotes": [
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -457,15 +457,15 @@
             "footnotes": [
                 {
                     "word": "magtagumpay,",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "Aking",
-                    "note": ""
+                    "id": "26-2"
                 },
                 {
                     "word": "awtoridad",
-                    "note": ""
+                    "id": "26-3"
                 }
             ],
             "outlines": null
@@ -476,11 +476,11 @@
             "footnotes": [
                 {
                     "word": "papastulin",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "tinanggap",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -491,7 +491,7 @@
             "footnotes": [
                 {
                     "word": "tala",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -502,10 +502,288 @@
             "footnotes": [
                 {
                     "word": "pakinig",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang pitong sulat sa mga kapitulo 2 at 3 ay tala ng aktuwal na situwasyon na umiiral sa pitong ekklesia nang panahon na isinulat ang mga sulat na ito. Gayunpaman, yayamang ang aklat na ito ay isang aklat ng mga tanda na may isang mapropetikong kalikasan, ang mga situwasyon ng pitong ekklesia ay mga tanda rin, sinasagisag nang may pagpopropesiya ang pagsulong ng kasaysayan ng ekklesia sa pitong yugto. Ang unang sulat, sa ekklesia sa Efeso, ay nagbibigay ng isang larawan ng wakas ng naunang ekklesia sa unang yugto, sa panahon ng huling bahagi ng unang siglo. Ang ikalawang sulat, sa ekklesia sa Esmirna, ay naglalarawan ng ekklesiang nagdurusa sa ilalim ng pag-uusig ng Emperyo Romano, mula sa huling bahagi ng unang siglo hanggang sa naunang bahagi ng ikaapat na siglo, nang yakapin ni Konstantino, ang Dakila, ng Emperyo Romano ang Kristiyanidad bilang pang-emperyong relihiyon. Ang ikatlong sulat, sa ekklesia sa Pergamo, ay paunang-sumasagisag sa makasanlibutang ekklesia, ang ekklesiang nagpakasal sa sanlibutan, mula sa araw na tinanggap ni Konstantino ang Kristiyanidad hanggang sa panahon na maitatag ang maka-papang sistema sa huling bahagi ng ikaanim na siglo. Ang sulat sa ekklesia sa Tiatira ay mapropesiyang naglalarawan sa ekklesiang tumalikod-sa-wastong-pananampalataya, mula sa pagtatalaga ng maka-papang sistema sa huling bahagi ng ikaanim na siglo hanggang sa wakas ng kapanahunang ito, sa pagbabalik ni Kristo. Ang ikalimang sulat, sa ekklesia sa Sardis, ay paunang-naglalarawan sa Protestantismo, mula sa Repormasyon sa naunang bahagi ng ikalabing-anim na siglo hanggang sa pagbabalik ni Kristo. Ang ikaanim na sulat, sa ekklesia sa Filadelfia, ay paunang-nagsasabi tungkol sa ekklesia ng pangkapatirang pagmamahal, ang pagbabawi ng wastong buhay-ekklesia, mula sa naunang bahagi ng ikalabinsiyam na siglo, nang ang mga kapatid ay naitindig sa Inglatera upang isagawa ang ekklesia sa labas ng lahat ng mga pandenominasyon at mapanghati-hating sistema, hanggang sa ikalawang pagpapakita ng Panginoon. Ang ikapitong sulat, sa ekklesia sa Laodicea, ay paunang-naglalarawan sa napababang buhay-ekklesia ng mga kapatid sa ikalabinsiyam na siglo, mula sa huling bahagi ng ikalabinsiyam na siglo hanggang sa pagbabalik ng Panginoon."
+        },
+        {
+            "id": "1-2",
+            "text": "Lit. anghel."
+        },
+        {
+            "id": "1-3",
+            "text": "Sa Griyego, ang mga pangalan ng pitong lunsod ay lubhang makahulugan, at tumutugon sa espirituwal na kalagayan ng mga ekklesia sa mga lunsod na ito. Ang “Efeso” sa Griyego ay nangangahulugang kanais-nais. Ito ay sumasagisag na ang ekklesia sa mga naunang araw, pagdating sa katapusan nito, ay kanais-nais pa rin sa Panginoon; ang Panginoon ay marami pa ring inaasam sa kanya."
+        },
+        {
+            "id": "1-4",
+            "text": "Sa pitong sulat, ang bawa’t sulat ay palaging pinasisimulan ng Panginoon ng pagsasabi ng tungkol sa Kanyang Sarili, kung sino Siya, batay sa kalagayan ng ekklesiang binanggit sa isang partikular na sulat."
+        },
+        {
+            "id": "1-5",
+            "text": "Ang mga sugo ng mga ekklesia, ang mga espirituwal na tao na sinagisag ng mga nagniningning na bituin, na pumapasan sa responsabilidad ng patotoo ni Hesus, ay hinahawakan sa kanang kamay ng Panginoon, at ang Panginoon ay naglalakad sa gitna ng mga ekklesia, na sinagisag ng pitong gintong patungan-ng-ilawan. Kahanga-hangang tanawin! Sa isang panig, ang Panginoon ay nakaupo sa kanang kamay ng Diyos bilang ating Mataas na Saserdote na namamagitan-sa-panalangin para sa atin, ang mga ekklesia (Heb. 7:25), sa kabilang panig, ang mga sugo ng mga ekklesia ay Kanyang hinahawakan at Siya ay lumalakad sa gitna ng mga ekklesia upang sila ay pangalagaan."
+        },
+        {
+            "id": "2-1",
+            "text": "Lit. nagsasabi."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang Griyegong salita para sa “una” ay katulad ng isinaling “pinakamabuti” sa Luc. 15:22. Kinakailangan na ang ating unang pag-ibig sa Panginoon ay ang ating pinakamabuting pag-ibig para sa Kanya."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang ekklesia bilang ang Katawan ni Kristo (Efe. 1:22-23) ay isang bagay ng buhay; bilang ang bagong tao (Efe. 2:15), ito ay isang bagay ng Persona ni Kristo; at bilang ang kasintahang-babae ni Kristo (Juan 3:29), ito ay isang bagay ng pag-ibig. Ang unang Sulat sa mga taga-Efeso ay nagsasabi sa atin na para sa buhay-ekklesia ay kailangan nating mapalakas tungo sa ating panloob na tao upang si Kristo ay makagawa ng Kanyang tahanan sa ating mga puso, upang tayo, na nagkaugat at napagtibay sa pag-ibig, ay makakilala ng pag-ibig ni Kristo na di-masayod ng kaalaman, upang tayo ay mapuspusan ng buong kapuspusan ng Diyos (Efe. 3:16-19); at para sa buhay-ekklesia, ang biyaya ay sumasa kanilang lahat na umiibig sa Panginoong Hesus (Efe. 6:24). Ngayon, ang ikalawang sulat sa mga taga Efeso ay naghahayag na ang pagbabà ng ekklesia ay nagsisimula sa ating pag-iwan sa “unang pag-ibig” sa Panginoon. Tanging pag-ibig lamang ang makapagpapanatili sa atin sa isang wastong kaugnayan sa Panginoon. Ang ekklesia sa Efeso ay may mabubuting gawa, nagpagal para sa Panginoon, nagbatá ng paghihirap, at sumubok sa mga nagpapanggap na apostol (bb. 2-3), subali’t ang unang pag-ibig niya sa Panginoon ay kanyang iniwan. Ang pag-iwan sa unang pag-ibig ang pinagmumulan ng lahat ng pagbabà sa mga sumusunod na yugto ng ekklesia."
+        },
+        {
+            "id": "5-1",
+            "text": "Kung ang unang pag-ibig natin sa Panginoon ay ating iniwan at hindi nagsisisi, ang patotoo ng Panginoon ay ating maiwawala at ang patungan-ng- ilawan ay aalisin sa atin."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “mga Nikolaita” ay isang katumbas ng Griyegong salitang nikolaitai , ang ugat nito ay nikolaos , binubuo ng dalawang salita – niko at laos . Ang niko ay nangangahulugang “dinadaig” o “nasa ibabaw ng iba.” Ang laos ay nangangahulugang “mga karaniwang tao,” “mga sekular na tao,” o sa Ingles ay ” laity .” Kaya ang nikolaos ay nangangahulugang “pinangingibabawan ang mga karaniwang tao,” “umaakyat sa ibabaw ng mga karaniwang tao.” Ang mga Nikolaita, kung gayon, ay tiyak na tumutukoy sa isang grupo ng tao na inaaring higit na mataas ang kanilang mga sarili kaysa sa mga karaniwang mananampalataya. Ito ay walang alinlangang ang hirarkiyang sinunod at itinatag ng Katolisismo at Protestantismo. Kinapopootan ng Panginoon ang mga gawa, ang kilos, nitong mga Nikolaita, at kailangan nating kamuhian ang kinamumuhian ng Panginoon."
+        },
+        {
+            "id": "7-1",
+            "text": "Bagaman tayo ay nasa tamang anggulo at katayuan, tayo ay maaari pa ring walang wastong tainga upang makinig. Ang binigyang-diin sa mga kapitulo 2 at 3 ay ang pakikinig. Sa mga espirituwal na bagay, ang pagkakita ay nakasalalay sa pakikinig. Narinig muna ng sumulat ng aklat na ito ang tinig (1:10) at pagkatapos ay nakita ang pangitain (1:12). Kung ang ating mga tainga ay mabibigat at hindi makarinig, tayo kung gayon ay hindi makakikita (Isa. 6:9-10). Ayaw pakinggan ng mga Hudyo ang salita ng Panginoon, kaya hindi nila makita ang ginagawa ng Panginoon ayon sa bagong tipan (Mat. 13:15; Gawa 28:27). Ang Panginoon ay palaging nagnanais na buksan ang ating mga tainga upang marinig ang Kanyang tinig (Job. 33:14-16; Isa. 50:4-5; Exo. 21:6) nang sa gayon ay makita natin ang mga bagay nang ayon sa Kanyang ekonomiya. Ang mabibigat na tainga ng mga makasalanan ay kinakailangang malinis ng nagtutubos na dugo at mapahiran ng Espiritu (Lev. 14:14, 17, 28). Upang makapaglingkod sa Panginoon bilang mga saserdote ay hinihiling din na ang ating mga tainga ay malinis ng nagtutubos na dugo (Exo. 29:20; Lev. 8:23-24). Sa aklat na ito, habang ang Espiritu ay nagsasalita sa mga ekklesia, ang isang bukas, natuli, nalinis, at napahirang tainga ay kailangan nating lahat upang marinig natin ang pagsasalita ng Espiritu."
+        },
+        {
+            "id": "7-2",
+            "text": "Sa simula ng bawa’t isa sa pitong sulat na itinala sa mga kapitulo 2 at 3, ang nagsasalita ay ang Panginoon (bb. 1,8,12,18; 3:1,7,14). Subali’t sa katapusan ng bawa’t isa sa pitong sulat, ang nagsasalita sa mga ekklesia ay ang Espiritu (bb. 7,11,17,29; 3:6,13,22). Ito ay hindi lamang tumutukoy na ang Espiritu ay ang Panginoon at ang Panginoon ay ang Espiritu, bagkus binibigyang-diin din nito ang matinding kahalagahan ng Espiritu sa panahon ng kadiliman ng pagbabà ng ekklesia katulad ng ipinakita sa 1:4 tungkol sa makapitong pinatinding Espiritu. Ang 14:13 at 22:17 ay nagbibigay-diin din sa gayunding bagay."
+        },
+        {
+            "id": "7-3",
+            "text": "Sa isang banda, ang bawa’t isa sa pitong sulat ay salita ng Panginoon sa isang partikular na ekklesia; subali’t sa kabilang banda, ito ay salita ng Espiritu sa lahat ng mga ekklesia. Bawa’t ekklesia ay hindi lamang dapat tumalima sa sulat na partikular na sinulat sa kanya, bagkus maging sa lahat ng mga sulat na sinulat sa iba pang mga ekklesia. Ito ay nagpapahiwatig na ang lahat ng mga ekklesia, gaya ng patotoo ng Panginoon sa loob ng Espiritu, ay nararapat na magkakatulad. Yamang ang Espiritu ngayon ay nagsasalita sa mga ekklesia, kailangan nating mapasa loob ng mga ekklesia upang maging wasto ang ating kinalalagyan nang sa gayon ay marinig ang pagsasalita ng Espiritu. Kung hindi, papaano tayo makaririnig?"
+        },
+        {
+            "id": "7-4",
+            "text": "Ang “magtagumpay” sa pitong sulat na ito ay nangangahulugang mapagtagumpayan ang napababang situwasyon ng mga ekklesia. Ang kahulugan ng “magtagumpay” sa sulat na ito ay ang mapanumbalik ang ating unang pag-ibig sa Panginoon at kamuhian ang mga gawa ng mga Nikolaita, ang hirarkiyang kinamumuhian ng Panginoon."
+        },
+        {
+            "id": "7-5",
+            "text": "Ang relihiyon ay palaging nagtuturo, subali’t ang Panginoon ay nagpapakain (Juan 6:35). Gayunding bagay ang ginawa ni Apostol Pablo, pinakakain ang mga mananampalataya (I Cor. 3:2). Para sa wastong buhay-ekklesia at pagbabawi ng buhay-ekklesia, yaon ay, para sa wastong paglago sa buhay-Kristiyano, ang ating kailangan ay hindi lamang ang maunawaan sa kaisipan ang mga pagtuturo, bagkus ang kainin sa ating espiritu ang Panginoon bilang ating tinapay ng buhay ( Juan 6:57). Maging ang mga salita ng Kasulatan ay hindi dapat ituring na basta mga doktrina lamang upang turuan ang ating kaisipan, bagkus bilang pagkain upang busugin ang ating espiritu (Mat. 4:4; Heb. 5:12-14). Dito sa sulat na ito ay nangangako ang Panginoon na pakakainin ng puno ng buhay ang magtatagumpay. Ito ay tumutukoy pabalik sa Gen. 2:8-9, 16, hinggil sa bagay ng pagkain na itinalaga ng Diyos. Sa sulat sa ekklesia sa Pergamo, ang Panginoon ay nangangako sa magtatagumpay na pakakainin ng natatagong manna (2:17), na tumutukoy sa pagkain ng manna ng mga anak ni Israel sa ilang (Exo.16:14-16, 31). At sa sulat sa ekklesia sa Laodicea, ang Panginoon ay nangangako na kakain ng hapunang kasalo niyaong magbubukas ng pintuan sa Kanya. Ang kumain ng hapunan ay hindi basta ang kumain ng iisang uri ng pagkain lamang, kundi ang kumain ng isang masaganang handaan. Ito ay malamang na tumutukoy sa pagkain ng mga anak ni Israel sa mayamang bunga ng mabuting lupa ng Canaan (Jos. 5:10-12). Ito ay nagpapakita na ninanais ng Panginoon na mabawi ng bayan ng Diyos ang pagkain ng wastong pagkain, gaya ng itinalaga ng Diyos at sinagisag ng puno ng buhay, ng manna, at ng bunga ng mabuting lupa; ang lahat ng mga ito ay mga sagisag ng iba’t ibang aspekto ni Kristo bilang pagkain sa atin. Ang pagbabà ng ekklesia ay gumagambala sa mga tao ng Diyos mula sa pagkain ng Kristo bilang kanilang pagkain tungo sa pagtuturo ng mga doktrina para sa kaalaman. Sa loob ng pagbaba ng ekklesia ay may pagtuturo ni Balaam (b.14), pagtuturo ng mga Nikolaita (b.15), pagtuturo ni Jezebel (b.20), at pagtuturo ng malalalim na bagay ni Satanas (b.24). Ngayon ang Panginoon ay dumarating sa mga sulat na ito upang papanumbalikin ang wastong pagkain sa Kanya bilang ating panustos ng buhay. Siya ay kailangan nating kainin hindi lamang bilang puno ng buhay at natatagong manna, bagkus bilang isang mayamang handaan na punung-puno ng Kanyang mga kayamanan."
+        },
+        {
+            "id": "7-6",
+            "text": "Ang salita para sa “puno ng buhay” rito ay “kahoy” sa Griyego, gaya ng nasa 1 Ped. 2:24, hindi ang karaniwang salita na ginamit para sa “puno ng buhay”. Sa Biblia ang puno ng buhay ay palaging tumutukoy kay Kristo bilang ang pagsasakatawan ng lahat ng mga kayamanan ng Diyos (Col. 2:9) bilang ating pagkain (Gen.2:9; 3:22, 24; Apoc. 22:2,14,19). Dito ay tumutukoy ito sa ipinako-sa-krus (naipahiwatig dahil sa ang salitang “puno” ay tumutukoy sa isang pirasong kahoy – I Ped. 2:24), at nabuhay-na-muli (ipinahiwatig sa zoe, ang dibinong buhay – Juan 11:25) na Kristo na nasa ekklesia ngayon; ang kaganapan ng ekklesia ay ang Bagong Herusalem, kung saan ang ipinako at nabuhay-na-muling Kristo ay magiging ang puno ng buhay para sa kabusugan ng lahat ng mga tinubos na tao ng Diyos hanggang sa kawalang-hanggan (22:2,14)."
+        },
+        {
+            "id": "7-7",
+            "text": "Ang paraiso sa Luc. 23:43 ay ang kaaya-aya at maginhawang lugar na kinaroroonan ni Abraham at ng lahat ng mga namatay na banal (Luc. 16: 23-26). Subali’t ang “paraiso ng Diyos” sa bersikulong ito ay ang Bagong Herusalem (3:12; 21:2, 10; 22:1-2, 14, 19). Ang ekklesia sa ngayon ay isang paunang- tikim ng Bagong Herusalem na ito. Tayo ay nagtatamasa sa napako-sa-krus at nabuhay-na-muling Kristo bilang ang puno ng buhay, ang panustos na pagkain sa ating espiritu, bilang isang paunangtikim ngayon sa ekklesia. Itong pagtatamasa ng paunang-tikim ang magdadala sa atin tungo sa loob ng buong lasa ng napako-sa-krus at nabuhay-na-muling Kristo bilang ang puno ng buhay, ang masustansiyang panustos ng buhay sa Bagong Herusalem magpasawalang-hanggan."
+        },
+        {
+            "id": "8-1",
+            "text": "Lit. anghel."
+        },
+        {
+            "id": "8-2",
+            "text": "Sa Griyego, ang “Esmirna” ay nangangahulugang mira, at ang mira sa tipolohiya ay sumasagisag sa pagdurusa. Kaya, ang ekklesia sa Esmirna ay isang nagdurusang ekklesia, sumasagisag sa ekklesia na nasa ilalim ng pag-uusig ng Emperyong Romano mula sa huling bahagi ng unang siglo hanggang sa naunang bahagi ng ikaapat na siglo."
+        },
+        {
+            "id": "8-3",
+            "text": "Sa pagdurusa, kinakailangang malaman ng ekklesia na ang Panginoon ay “ang Una at ang Huli,” ang Isa na palagiang-umiiral at di-nagbabago kailanman. Maging anupaman ang nang-uusig na kapaligiran, Siya ay nananatiling gayon pa rin; walang bagay na makauuna sa Kanya, ni walang anumang bagay na magiging higit na huli kaysa sa Kanya. Lahat ng mga bagay ay nasa loob ng paghahangga ng Kanyang kontrol."
+        },
+        {
+            "id": "8-4",
+            "text": "Ang “muling nabuhay” ay nangangahulugang pagkabuhay-na-muli. Ang Panginoon ay nagdusa ng kamatayan at nabuhay-na-muli. Siya ay pumasok sa kamatayan, subali’t hindi Siya kayang pigilan ng kamatayan (Gawa 2:24), sapagka’t Siya ang pagkabuhay-na-muli (Juan 11:25). Kinakailangan ding makilala Siya ng nagdurusang ekklesia bilang ang gayong Isa upang mabatá niya ang lahat ng uri ng kahirapan. Gaano man katindi ang kahirapan, ang ekklesia ay mananatiling buháy pa rin. Kayang batahin ng nabuhay-na-muling buhay ni Kristo ang kamatayan."
+        },
+        {
+            "id": "9-1",
+            "text": "Sa ekklesia, ang kapighatian ay mahalaga sapagka’t maaaring masubok nito ang kanyang buhay. Hinahayaan ng Panginoon ang Kanyang ekklesia na makasumpong ng kapighatian, hindi lamang upang ipatotoo kung paanong dinadaig ng Kanyang pagkabuhay-na-muli ang kamatayan, bagkus upang mabigyan din ng kakayahan ang ekklesia na matamasa ang kayamanan ng Kanyang buhay."
+        },
+        {
+            "id": "9-2",
+            "text": "Bagama’t ang nagdurusang ekklesia ay dukha sa mga materyal na bagay, mayaman naman siya sa Panginoon at sa mga kayamanan ng buhay ng Panginoon."
+        },
+        {
+            "id": "9-3",
+            "text": "Ang paninirang-puri ng mga maka-Hudaismo sa nagdurusang ekklesia ay ang kanilang masamang pagtutuligsa sa kanya. Kanilang iginigiit nang may katigasan-ng-ulo ang pagpapatupad ng kanilang maka- Hudaismong sistema, na binubuo ng Levitikong pagkasaserdote, ng mga rituwal na paghahandog at ng materyal na templo, mga sagisag na ngayon ay tinupad na at hinalinhan na ni Kristo. Yamang ang ekklesia sa ilalim ng bagong kasunduan sa ekonomiya ng Diyos ay walang bahagi sa kanilang makarelihiyong gawi-gawi, siya ay tinuligsa nang may pamumusong ng mga maka-Hudaismo. Sa prinsipyo, ito ay pareho sa ngayon, sa kadahilanang sinisiraang-puri ng mga relihiyosong tao ang mga ekklesia sa pagbabawi ng Panginoon, na naghahangad sa Panginoon at sumusunod sa Kanya sa loob ng espiritu at sa loob ng buhay at hindi nagbibigay-pansin sa anumang makarelihiyong sistema ni gawi-gawi."
+        },
+        {
+            "id": "9-4",
+            "text": "Lit. nagsasabi na ang kanilang mga sarili ay mga Hudyo. >"
+        },
+        {
+            "id": "9-5",
+            "text": "Ang mga maka-Hudaismo ay mga Hudyo sa laman, subali’t hindi mga Hudyo sa espiritu (Roma 2:28-29). Ang basta lamang pagiging binhi ni Abraham ay hindi nagbubuo sa kanila na maging mga tunay na Hudyo. “Yaong mga anak ng laman ay hindi mga anak ng Diyos” (Roma 9:7-8)."
+        },
+        {
+            "id": "9-6",
+            "text": "Ang ekonomiya ng Diyos ay ang magkaroon ng isang namumukod-tanging banal na templo sa lupa upang maging patotoo ng Diyos at ng pagkakaisa ng bayan ng Diyos. Sa Lumang Tipan, hinirang ng Diyos ang Herusalem upang maging ang lugar na kinaroroonan ng Kanyang namumukod-tanging banal na templo. Dahil sa pagkatisod, pagkakahati-hati at pagkakawatakwatak ng bayan ng Diyos, maraming napababà at nahating mga sentro ng pagsamba ang naitindig upang maging mga sinagoga. Ang mga sinagogang ito ay mga lugar kung saan sinasamba ng mga Hudyo ang Diyos; sa pangunahin, ang pagsamba ay isinasagawa sa pamamagitan ng pag-aaral ng Lumang Tipang Kasulatan. Gayunpaman, dahil sa katigasan ng kanilang ulo sa pagkapit sa kanilang mga makatradisyon na relihiyosong kaisipan, sila ay naging kaisa ni Satanas sa pagsalungat sa Diyos sa Kanyang paraan ng buhay upang maisakatuparan ang Kanyang layunin. Kaya, sa ilalim ng pagkokontrol ng kamay ni Satanas, nagawa ng mga sinagoga na usigin ang Panginoong Hesus (Mat. 12: 9-14; Luc. 4:28-29; Juan 9:22), pagkaraan ay usigin naman ang mga apostol (Gawa 13:43, 45-46, 50; 14:1-2, 19; 17:1,5-6), at ngayon ay inuusig naman ang mga ekklesia (3:9). Kaya, ang mga ito ay tinatawag ng Panginoon na “sinagoga ni Satanas.” Kahit na nang Siya ay nasa lupa pa, ang mga sinagoga ay Kanyang itinuring na kay Satanas, katulad ng ipinahiwatig sa Mat. 12:25-29 at Juan 8:44. Sa wari ay sumasamba sila sa Diyos; sa katunayan ay kanilang sinasalansang ang Diyos. Ang mga tunay na sumasamba sa Diyos ay kanilang pinag-usig at pinatay, subali’t itinuring pa rin nila ang kanilang mga sarili na naglilingkod sa Diyos (Juan 16:2). Simula noon, sa buong itinagal ng lahat ng mga siglo, ang kanilang mga yapak ay sinundan ng mga relihiyosong tao, pinag-uusig ang mga tunay na naghahanap at sumusunod sa Panginoon sa loob ng espiritu at buhay, habang itinuturing pa rin ang kanilang mga sarili na nagtatanggol sa mga kapakanan ng Diyos. Ang Romano Katolisismo at Protestantismo, gayon din ang Hudaismo, ay pawang nahulog sa loob ng kategoriyang ito, nagiging isang organisasyon ni Satanas bilang kanyang kagamitan upang pinsalain ang ekonomiya ng Diyos."
+        },
+        {
+            "id": "9-7",
+            "text": "Ang Satanas sa Griyego ay nangangahulugang katunggali. Siya ay hindi lamang ang nasa labas na kaaway ng Diyos, bagkus ang nasa loob din na katunggali ng Diyos."
+        },
+        {
+            "id": "10-1",
+            "text": "Gr. diabolos , nangangahulugang tagapag-akusa, maninirang-puri (12:9-10). Ang Diyablo, na si Satanas, ang katunggali ng Diyos, ay nag-aakusa sa atin sa harapan ng Diyos at naninirang puri sa atin sa harap ng mga tao."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang sampu ay isang kumpletong bilang, gaya ng sampung utos na naghahayag ng kumpletong kahilingan ng Diyos. Ang sampung araw sa Bibliya ay sumasagisag sa isang kumpletong panahon, subali’t maikli (Gen.24:55; Jer. 42:7; Dan. 1:12-14). Dito ay isinasagisag nito na ang kapighatian ng nagdurusang ekklesia ay kumpleto subali’t maikli. Bilang isang tanda, ang sampung araw na ito ay mapropesiyang tumutukoy sa sampung ulit na malaking pag-uusig na tiniis ng ekklesia sa ilalim ng mga Romanong emperador, nagsisimula kay Cesar Nero sa ikalawang kalahati ng unang siglo at nagtatapos kay Konstantino na Dakila sa unang bahagi ng ikaapat na siglo. Gaano man katindi ang mga pag-uusig na isinulsol ng Diyablo, si Satanas, sa pamamagitan ng mga Romanong Cesar, na gumawa ng buo nilang makakaya upang wasakin at iligpit ang ekklesia, siya ay hindi pa rin nila nakayanang gapiin at tapusin. Ipinakikita ng kasaysayan na ang ekklesia ng nabubuhay na Kristo “na namatay at muling nabuhay” ay matagumpay na nakalampas sa mga pag-uusig at mayabong na naparami sa pamamagitan ng di-mawasak na pagkabuhay-na-muling buhay."
+        },
+        {
+            "id": "10-3",
+            "text": "Sa Bagong Tipan, palaging ginagamit ang “putong” bilang isang gantimpalang karagdagan sa kaligtasan (tingnan ang reperensiya 10 j ). Ang putong ng buhay na iginagantimpala sa mga matapat hanggang kamatayan na nagtagumpay sa pag-uusig ay tumutukoy sa dumaraig na kalakasan na siyang kapangyarihan ng pagkabuhay-na-muling buhay (Fil.3:10); sinasagisag din nito na ang mga nagtagumpay na ito ay umabot na sa “higit-na-pagkabuhay-namuli mula sa mga patay,” yaon ay, ang namumukod na pagkabuhay-na-muli (Fil. 3:11)."
+        },
+        {
+            "id": "11-1",
+            "text": "Sa sulat na ito, ang “magtagumpay” ay nangangahulugang maging tapat hanggang sa kamatayan at pagtagumpayan ang pag-uusig."
+        },
+        {
+            "id": "11-2",
+            "text": "Dahil sa pagkatisod at pagpasok ng kasalanan, bawa’t tao ay kinakailangang mamatay nang minsan (Heb. 9:27). Ang unang kamatayang ito, gayunpaman, ay hindi pa ang huling pagtutuos. Sa pagwawakas ng isang libong taong kaharian, yaon ay, sa pagwawakas ng lumang langit at lumang lupa, maliban doon sa mga sumampalataya sa Panginoong Hesus at nakatala ang pangalan sa aklat ng buhay, ang lahat ng patay ay bubuhaying-muli at daraan sa paghahatol sa malaking puting trono. Bilang resulta ng paghahatol na ito, sila ay ihahagis sa dagat-dagatang apoy, na siyang ikalawang kamatayan, bilang ang huling pagtutuos (20:11-15). Kaya nga, ang ikalawang kamatayan ay ang pakikipagtuos ng Diyos sa tao pagkatapos ng kamatayan at muling-pagkabuhay ng tao. Yamang napagtagumpayan na ng mga mandaraig ang kamatayan sa pamamagitan ng kanilang katapatan hanggang sa kamatayan sa ilalim ng pag-uusig, at yamang wala silang iniwang anuman na kinakailangan pang tuusin ng Diyos pagkatapos ng kanilang pagkabuhay-na-muli, sila ay gagantimpalaan ng putong ng buhay at hindi na masasaktan ng kamatayan, na siyang ikalawang kamatayan."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “Pergamo” sa Griyego ay nangangahulugang kasal, nagpapahiwatig ng pakikipag-isa, at kinutaang tore. Bilang isang tanda, ang ekklesia sa Pergamo ay paunang-naglalarawan sa ekklesiang pumasok sa pakikipag-isang-dibdib sa sanlibutan at naging isang mataas na kinutaang tore, na katumbas ng napakalaking punong-kahoy na ipinropesiya ng Panginoon sa talinghaga ng butil ng binhi ng mustasa (Mat.13:31-32). Nang mabigo si Satanas na wasakin ang ekklesia sa pamamagitan ng pag-uusig ng Emperyo Romano sa naunang tatlong siglo, kanyang binago ang kanyang estratehiya o pamamaraan ng paglusob. Sa halip ay pinagsikapan niyang pasamain siya sa pamamagitan ng pagtanggap sa kanya ni Konstantino bilang pang-estadong relihiyon noong unang bahagi ng ikaapat na siglo. Sa pamamagitan ng pag-uudyok at mapolitikang impluwensiya ni Konstantino, laksa-laksang di-mananampalataya ang nabautismuhan tungo sa loob ng “ekklesia,” at ang “ekklesia” ay naging malahalimaw sa laki. Yamang ang ekklesia ay ipinakipagkasundo na kay Kristo bilang isang malinis na kasintahang-babae, ang kanyang pakikipag-isa sa sanlibutan ay itinuturing na espirituwal na pakikiapid sa paningin ng Diyos."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang “trono ni Satanas” ay nasa sanlibutang pinananahanan niya, na siyang kinasasaklawan ng kanyang pamumuno. Yamang ang makasanlibutang ekklesia ay pumasok sa pakikipag-isa sa sanlibutan, siya ay nananahan kung saan nananahan si Satanas."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang pangalan ng Panginoon ay tumutukoy sa Kanyang Persona; ang Persona ay ang realidad ng pangalan. Ang pananampalataya ng Panginoon ay tumutukoy sa lahat ng dapat nating panaligan ukol sa Kanyang Persona at gawa. Hindi ito ang subhektibong pananampalataya sa ating loob ukol sa paniniwala, kundi ang obhektibong pananampalataya sa mga bagay na ating pinaniniwalaan. Sa kadahilanang ang ekklesia ay pumasok sa pakikipag-isa sa sanlibutan, sinimulan niyang hindi pahalagahan ang pangalan ng Panginoon at ikaila ang wastong pananampalatayang Kristiyano."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang “Antipas” sa Griyego ay nangangahulugang “laban sa lahat.” Ang tapat na saksing ito ng Panginoon ay sumalungat laban sa lahat ng ipinasok at ginawa ng makasanlibutang ekklesia. Kaya nga, siya ay naging isang martir ng Panginoon. Ang salitang martir sa Griyego ay kapareho ng salitang “saksi.” Tinaglay ni Antipas, bilang isang saksing laban sa lahat, ang isang patotoong laban sa lahat, isang patotoong laban sa anumang bagay na lumilihis sa patotoo ni Hesus. Tiyak na dahil sa kanyang patotoong laban sa lahat, kaya noong kanyang mga araw ay tinanganang mabuti ng ekklesia sa Pergamo ang pangalan ng Panginoon at hindi ikinaila ang wastong pananampalatayang Kristiyano."
+        },
+        {
+            "id": "14-1",
+            "text": "Sa mga sulat na ito, ang Panginoon ay nagnanais, ayon sa ekonomiya ng Diyos, na kainin natin Siya bilang ang puno ng buhay (b.7), ang natatagong manna (b.17), at ang mayamang bunga ng mabuting lupa (3:20, tingnan ang tala 7 sa 2:7); subali’t ang makasanlibutang ekklesia ay bumaling mula sa buhay tungo sa mga pagtuturo lamang, sa gayon ay ginambala ang mga mananampalataya mula sa pagtatamasa kay Kristo bilang kanilang panustos ng buhay para sa pagsasakatuparan ng layunin ng Diyos. Ang pagtatamasa kay Kristo ang nagtatayo sa ekklesia, samantalang ang mga pagtuturo ay nagreresulta sa isang relihiyon."
+        },
+        {
+            "id": "14-2",
+            "text": "Si Balaam ay isang Hentil na propeta na nagdala ng pakikiapid at pagsamba sa mga diyos-diyosan sa bayan ng Diyos dahil siya ay binayaran (Blg. 25:1-3; 31:16). Sa makasanlibutang ekklesia, may ilang nagsimulang magturo ng mga gayunding bagay."
+        },
+        {
+            "id": "14-3",
+            "text": "Ang pagsamba sa mga diyos-diyosan ay palaging nagdadala ng pakikiapid (Blg. 25:1-3; Gawa 15:29). Nang winalang-halaga ng makasanlibutang ekklesia ang pangalan, ang Persona ng Panginoon, siya ay bumaling sa pagsamba sa mga diyos-diyosan, na nagresulta sa pakikiapid."
+        },
+        {
+            "id": "15-1",
+            "text": "Hindi lamang ang mga pagtuturo ni Balaam ang tinatanganan ng makasanlibutan at napababáng ekklesia, bagkus maging ang pagtuturo ng mga Nikolai ta. Ang mga mananampalataya ay ginagambala ng pagtuturo ni Balaam mula sa Persona ni Kristo tungo sa pagsamba sa mga diyos-diyosan, at mula sa pagtatamasa kay Kristo tungo sa espirituwal na pakikiapid; samantalang ang pangsyon ng mga mananampalataya bilang mga sangkap ng Katawan ni Kristo ay sinisira ng pagtuturo ng mga Nikolaita, sa gayon ay sinasanhing hindi maihayag ang Panginoon ng Kanyang Katawan. Pinawawalang-halaga ng naunang pagtuturo ang Ulo, at winawasak naman ng nahuhuli ang Katawan. Ito ang katusuhan ng kaaway sa lahat ng mga makarelihiyong pagtuturo."
+        },
+        {
+            "id": "15-2",
+            "text": "Tingnan ang tala 6-1 sa kapitulong ito."
+        },
+        {
+            "id": "16-1",
+            "text": "Ito ay hindi tumutukoy sa pagbabalik ng Panginoon, kundi sa Kanyang pagdating upang makipagdigma sa mga gurong Nikolaita sa napababáng ekklesia kapag Kanyang hahatulan na ang napababáng ekklesia sa pamamagitan ng pumapatay na salita na nagmumula sa Kanyang bibig. Gayunpaman, ang makasanlibutang ekklesia na sinagisag ng ekklesia sa Pergamo, ay nagresulta sa Relihiyong Romano Katoliko na sinagisag ng ekklesia sa Tiatira, at ang pagkamakasanlibutan at masasamang bagay na dinala ng napababang ekklesiang ito ay magpapatuloy sa Relihiyong Romano Katoliko hanggang sa pagbabalik ng Panginoon upang isagawa ang Kanyang buong paghahatol."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang magtagumpay rito ay tiyakang nangangahulugang pagtagumpayan ang pakikipag-isa ng ekklesia sa sanlibutan, ang pagtuturo ng pagsamba sa mga diyos-diyosan at pakikiapid, at ang pagtuturo ng relihiyosong hirarkiya."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang “manna” ay isang sagisag ni Kristo bilang ang makalangit na pagkain na nagbibigay-kakayahan sa mga tao ng Diyos na tumahak sa Kanyang daan. Ang isang bahagi ng mannang yaon ay iningatan sa loob ng isang gintong sisidlan na itinago sa kaban (Exo. 16:32-34; Heb. 9:4). Ang bukás na manna ay para sa pagtatamasa ng mga tao ng Diyos sa isang hayag na paraan; ang natatagong manna, na sumasagisag sa natatagong Kristo, ay isang espesyal na bahagi na itinabi para sa mga mandaraig na naghahanap sa Kanya na dumaraig sa pagbabà ng makasanlibutang ekklesia. Habang ang ekklesia ay tumatahak sa daan ng sanlibutan, ang mga mandaraig na ito ay lumalapit upang manatili sa presensiya ng Diyos sa Dakong Kabanal-banalan, kung saan ay kanilang tinatamasa ang natatagong Kristo bilang isang espesyal na bahagi para sa kanilang pang-araw-araw na panustos. Ang pangakong ito ay tinutupad ngayon sa wastong buhay-ekklesia at isasakatuparan nang ganap sa darating na kaharian. Kung hinahanap natin ang Panginoon, dinaraig ang pagbabà ng makasanlibutang ekklesia, at tinatamasa ang isang espesyal na bahagi ng Panginoon sa ngayon, Siya bilang ang natatagong manna ay magiging isang gantimpala sa atin sa darating na kaharian. Kung hindi natin Siya tatamasahin bilang ating espesyal na bahagi sa ngayon sa buhay-ekklesia, tiyak na mawawala sa atin ang pagtatamasa sa Kanya bilang isang gantimpala sa darating na kaharian."
+        },
+        {
+            "id": "17-3",
+            "text": "Ang isang “bato” sa Biblia ay sumasagisag sa materyal para sa pagtatayo ng Diyos (Mat. 16:18; 1 Ped. 2:5; 1 Cor. 3:12). Sa ating likas na katauhan, tayo ay hindi mga bato, kundi putik. Sapagka’t natanggap natin ang dibinong buhay kasama ang dibinong kalikasan nito sa pamamagitan ng pagkasilang-na-muli, tayo ay maaaring matransporma tungo sa pagiging mga bato, maging mahahalagang bato, sa pamamagitan ng pagtatamasa kay Kristo bilang ating panustos ng buhay (2 Cor. 3:18). Kung tayo ay hindi sumusunod sa makasanlibutang ekklesia, bagkus ay nagtatamasa sa Panginoon sa wastong buhay-ekklesia, tayo ay matatransporma tungo sa pagiging mga bato para sa pagtatayo ng Diyos.Ang mga batong ito ay bibigyang-katuwiran at aaprubahan ng Panginoon, gaya ng tinutukoy ng kulay na “puti,” samantalang ang makasanlibutang ekklesia ay hahatulan at Kanyang tatanggihan. Ang pagtatayo ng Diyos, ang pagtatayo ng ekklesia, ay nakasalalay sa ating transpormasyon, at ang ating transpormasyon ay nagmumula sa pagtatamasa kay Kristo bilang ating panustos ng buhay."
+        },
+        {
+            "id": "17-4",
+            "text": "Ang pangalan ay ipinangtatawag sa isang tao. Ang isang “bagong pangalan” ay ang pantawag sa isang natranspormang tao. Bawa’t natranspormang mananampalataya bilang isang “puting bato” ay nagtataglay ng “isang bagong pangalan na walang nakaalam kundi yaong tumatanggap nito.” Ang gayon “bagong pangalan” ay nagpapakita ng karanasan ng isang natranspormang tao. Kaya nga, tanging siya lamang ang nakaaalam sa kahulugan ng pangalang yaon."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang “Tiatira” sa Griyego ay nangangahulugang hain ng pabango o walang patid na hain. Bilang isang tanda, ang ekklesia sa Tiatira ay paunang- naglalarawan sa Relihiyong Romano Katoliko, na nabuong ganap bilang ang ekklesiang taliwas-sa-pananampalataya o tumalikod-sa-katotohanan sa pamamagitan ng pagtatatag ng pandaigdig na maka-papang sistema sa huling bahagi ng ikaanim na siglo. Ang ekklesiang ito na taliwas-sa-pananampalataya ay puno ng mga hain, gaya ng ipinakikita sa kanyang walang patid na misa."
+        },
+        {
+            "id": "18-2",
+            "text": "Matibay na ipinagdidiinan ng Romano Katolisismong tumalikod-sa-katotohanan, na si Kristo ay anak ni Maria. Kaya, dito ay taimtim na ipinapahayag ng Panginoon na Siya ay ang Anak ng Diyos, upang magprotesta laban sa ganitong erehiya."
+        },
+        {
+            "id": "18-3",
+            "text": "Lit. Kanyang mga mata. Sa pakikipagtuos sa makasanlibutang ekklesia, ang ekklesia sa Pergamo, tinukoy ng Panginoon ang Kanyang Sarili bilang ang Isa na may matalas na tabak na may dalawang talim. Sa pakikipagtuos dito sa ekklesiang taliwas-sa-pananampalataya, ang ekklesia sa Tiatira, tinukoy Niya ang Kanyang Sarili bilang ang Isa na may mga matang gaya ng ningas ng apoy, at mga paang katulad ng tansong binuli. Kinakailangan ng ekklesiang makasanlibutan ang pagtutuos ng Kanyang nanghahampas at pumapatay na salita, samantalang kinakailangan ng ekklesiang taliwas-sa-pananampalataya ang paghahatol ng Kanyang mga nagsasaliksik na mata at mga nangyayapak na paa."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang taliwas-sa-pananampalatayang Relihiyong Katoliko ay maraming gawa at mga paglilingkod. Ang kanyang mga gawa nitong mga huling araw ay higit na marami kaysa noong nakaraan."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang babae rito ay kagaya ng isa na ipinropesiya ng Panginoon sa Mat. 13:33, na nagdagdag ng lebadura (sumasagisag sa mga masama, maka-erehe, at paganong bagay) sa pinong harina (sumasagisag kay Kristo bilang ang handog na pagkain para sa kasiyahan ng Diyos at ng tao). Ang babaeng ito ay ang dakilang patutot ng Apocalipsis 17, na naghahalo ng mga kasuklam-suklam na bagay sa mga dibinong bagay. Ang paganong asawa ni Ahab, si Jezebel, ay isang sagisag nitong ekklesiang tumalikodsa-katotohanan (tingnan ang reperensiya 20 b )."
+        },
+        {
+            "id": "20-2",
+            "text": "Lit. nagsasabi."
+        },
+        {
+            "id": "20-3",
+            "text": "Ang isang propeta ay isang nagsasalita para sa Diyos, taglay ang awtoridad ng Diyos. Dito ay ginagamit ng Panginoon si Jezebel bilang isang sagisag upang tukuyin na ang Relihiyong Katolikong tumalikod-sa- katotohanan ay isang nag-atas sa sarili at nagtalaga sa sarili na propetisa, nagpapanggap na siya ay nasa ilalim ng awtoridad ng Diyos na nagsasalita para sa Diyos."
+        },
+        {
+            "id": "20-4",
+            "text": "Ang ekklesia sa Pergamo ay may mga pagtuturo ni Balaam at mga pagtuturo ng mga Nikolaita, at ang mga pagtuturong ito ay ipinagpatuloy sa Tiatira, ang ekklesiang tumalikod-sa-katotohanan. Higit pa rito, ang Relihiyong Katoliko mismo ay nagtuturo, nagsasanhi sa kanyang mga tao na makinig sa kanya kaysa sa banal na Salita ng Diyos. Ang kanyang mga tagapagtaguyod ay pawang nadroga ng kanyang maka-erehe, makarelihiyong pagtuturo, hindi nagbibigay-pansin kay Kristo bilang kanilang buhay at panustos ng buhay, gaya ng tinukoy ng puno ng buhay at ng natatagong manna na ipinangako ng Panginoon sa mga ekklesia sa Efeso at Pergamo (bb. 7,17)."
+        },
+        {
+            "id": "20-5",
+            "text": "Ang ekklesiang taliwas-sa-pananampalataya ay puno ng lahat ng uri ng pakikiapid at pagsamba sa mga diyos-diyosan, kapwa sa espirituwal at sa pisikal. Sa kapitulo 17, siya mismo ay tinawag na dakilang patutot."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang higaan ay normal na ginagamit para sa pagtulog at pamamahinga, at abnormal na ginagamit para sa karamdaman. Dito ay tinutukoy ng Panginoon na ang ekklesiang tumalikod-sa-katotohanan ay may sakit na walang lunas at mananatiling nakaratay sa higaan hanggang sa kanyang huling kahatulan."
+        },
+        {
+            "id": "22-2",
+            "text": "Ito ay hindi tumutukoy sa pagdurusa ng pag-uusig na nasusumpungan ng ekklesia sa buong itinagal ng mga kapanahunan at mga salinlahi (7:14). Hindi rin ito tumutukoy sa matinding kapighatian na darating sa lahat ng nananahan sa lupa sa loob ng tatlo at kalahating taon na mangyayari sa katapusan ng kapanahunang ito (Mat. 24:21), kundi tumutukoy ito sa natatanging bahagi ng kapighatian na kanyang tatanggapin, na igagawad ng Panginoon sa Romano Katolisismong tumalikod-sa-katotohanan sa darating na paghuhukom. Tingnan ang tala 23-1 ."
+        },
+        {
+            "id": "23-1",
+            "text": "Ito ay malamang na tumutukoy sa pagwawasak na gagawin ng Diyos sa Relihiyong Romano Katoliko sa pamamagitan ng Antikristo at ng mga tagasunod ng Antikristo."
+        },
+        {
+            "id": "23-2",
+            "text": "Lit. bato; sa Ingles, kidney ."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang malalalim na bagay ay nangangahulugang mga kalaliman, gaya ng sa Efe. 3:18. Tinutukoy nito nang may paglalarawan ang mahihiwagang bagay. Ang Relihiyong Romano Katoliko ay may maraming hiwaga o malalalim na doktrina. Laban sa nagdurusang ekklesia ay may sinagoga ni Satanas (b.9); sa makasanlibutang ekklesia ay may trono ni Satanas (b.13); at sa loob ng tumalikodsa- katotohanang ekklesia ay may malalalim na bagay ni Satanas. Ang relihiyon ng sinagoga, ang sanlibutang nasa ilalim ng trono ni Satanas, at ang pilosopiya ng mga maka-Satanas na hiwaga ay pawang ginamit ni Satanas upang pinsalain at pasamain ang ekklesia."
+        },
+        {
+            "id": "25-1",
+            "text": "Ito ay tumutukoy na ang Relihiyong Romano Katolikong tumalikod- sa-katotohanan ay mananatili hanggang sa pagbabalik ng Panginoon."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang “magtagumpay” rito ay nangangahulugang mapagtagumpayan ang Katolisismo."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang “Aking mga gawa” ay tumutukoy sa mga bagay na naisagawa na at ginagawa ng Panginoon, taliwas sa mga gawa ng ekklesiang tumalikod-sa-katotohanan na nasa ilalim ng impluwensiya ni Satanas."
+        },
+        {
+            "id": "26-3",
+            "text": "Ito ay isang gantimpala sa mga mandaraig, yaon ay, ang paghahari sa mga bansa kasama ni Kristo sa loob ng isang libong taong kaharian (Apoc. 20:4,6). Ang pangakong ito ng Panginoon ay matibay na nagpapahiwatig na yaong mga hindi tumutugon sa Kanyang pagtawag upang panagumpayan ang napababang Kristiyanidad ay hindi makababahagi sa paghahari na mangyayari sa loob ng isang libong taong kaharian."
+        },
+        {
+            "id": "27-1",
+            "text": "Sa isang libong taong kaharian, ang mamumuno ay isang pastol."
+        },
+        {
+            "id": "27-2",
+            "text": "Sa Awit 2:9, si Kristo ay binigyan ng Diyos ng awtoridad upang pamunuan ang mga bansa; dito ay ibinibigay ni Kristo ang gayunding awtoridad sa Kanyang mga mandaraig."
+        },
+        {
+            "id": "28-1",
+            "text": "Sa unang pagpapakita ni Kristo, ang mga mago, hindi ang mga Hudyong relihiyonista, ang nakakita sa Kanyang bituin (Mat. 2:2, 9-10). Sa Kanyang ikalawang pagpapakita, Siya ay magiging ang tala sa umaga sa Kanyang mga mandaraig na nagbabantay sa Kanyang pagdating. Sa lahat ng iba pa Siya ay magpapakita lamang bilang araw (Mal. 4:2)."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang bilang na pito sa Biblia ay binubuo alin man ng dalawa: anim dagdagan ng isa, katulad ng ang anim na araw dagdagan ng isang araw ay katumbas ng isang linggo; o ng tatlo dagdagan ng apat, gaya ng nasa dalawang kapitulong ito kung saan ang pitong ekklesia ay hinati sa dalawang grupo: ang isa ay binubuo ng tatlo at ang isa pa ay binubuo ng apat. Sa wakas ng bawa’t naunang tatlong sulat, ang “may pakinig” ay unang binanggit, at pagkaraan ay ang pagtawag sa mga mandaraig. Sa wakas naman ng bawa’t nahuling apat na sulat, ang pagkakasunud-sunod ay binaligtad. Ito ay nagpapatunay na ang naunang tatlo ay isang grupo, at ang huling apat ay isa namang grupo. Ang anim dagdagan ng isa ay nasa paglikha ng Diyos, samantalang ang tatlo dagdagan ng apat ay nasa bagong paglikha ng Diyos, ang ekklesia. Yamang lahat ng bagay ay nilikha sa loob ng anim na araw, ang bilang na anim ay sumasagisag sa paglikha, lalung-lalo na sa tao, na siyang nilikha sa ikaanim na araw; at yamang ang ikapitong araw ay ang konklusyon ng ikaanim na araw bilang ang isang araw ng kapahingahan ng Diyos, ang bilang na isa ay sumasagisag sa namumukod-tanging Manlilikha. Kaya, anim dagdagan ng isa ay nangangahulugan na ang lahat ay nilikha ng Diyos para sa katuparan ng Kanyang layunin na ang lahat ng bagay ay nilikha upang mapasa Diyos. Ang namumukod-tanging Manlilikha, ang Diyos, ay tres-uno, sinasagisag ng bilang na tatlo. Yamang ang nilikha ay kinatawan ng apat na buháy na nilalang sa harap ng Diyos (4:6-9), ang bilang na apat ay sumasagisag sa nilalang, lalung-lalo na sa tao. Sa gayon, tatlo dagdagan ng apat ay nangangahulugan na ang Diyos ay naidagdag sa Kanyang nilalang ang tao, at sa gayon ang Kanyang layunin ay naisasakatuparan. Ang ekklesia ay hindi lamang ang nilikha, bagkus ang nilikha kasama ang Manlilikha, yaon ay, ang Tres-unong Diyos ay naipamahagi sa loob ng ekklesia. Ang ekklesia ang tunay na bilang na pito: ang tunay na bilang na tatlo, ang Tres-unong Diyos, naidagdag sa tunay na bilang na apat, ang nilikhang tao. Samakatuwid, ang bilang na pito ay nangangahulugang ang kakumpletuhan ng pagkilos ng Diyos, unang-una sa lumang nilikha, at pagkatapos ay sa bagong nilikha, ang ekklesia."
         }
     ]
 }

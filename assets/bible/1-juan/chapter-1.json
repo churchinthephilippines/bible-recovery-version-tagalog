@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,27 +7,27 @@
             "footnotes": [
                 {
                     "word": "Yaong",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "buhat",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "namasdan,",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "nahipo",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "Salita",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "buhay;",
-                    "note": ""
+                    "id": "1-6"
                 }
             ],
             "outlines": [
@@ -41,23 +41,23 @@
             "footnotes": [
                 {
                     "word": "Buhay",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "nahayag,",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "nahayag.",
-                    "note": ""
+                    "id": "2-6"
                 }
             ],
             "outlines": null
@@ -68,23 +68,23 @@
             "footnotes": [
                 {
                     "word": "nakita",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "din",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "naman",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "salamuha",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "Ama",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": [
@@ -97,11 +97,11 @@
             "footnotes": [
                 {
                     "word": "ating",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "kagalakan",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -112,19 +112,19 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "liwanag,",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "kadiliman.",
-                    "note": ""
+                    "id": "5-4"
                 }
             ],
             "outlines": [
@@ -138,27 +138,27 @@
             "footnotes": [
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "nagsisilakad",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "nagsisinungaling",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "nagsisigawa",
-                    "note": ""
+                    "id": "6-5"
                 },
                 {
                     "word": "katotohanan.",
-                    "note": ""
+                    "id": "6-6"
                 }
             ],
             "outlines": null
@@ -169,31 +169,31 @@
             "footnotes": [
                 {
                     "word": "nagsisilakad",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "dugo",
-                    "note": ""
+                    "id": "7-4"
                 },
                 {
                     "word": "Hesus",
-                    "note": ""
+                    "id": "7-5"
                 },
                 {
                     "word": "naglilinis",
-                    "note": ""
+                    "id": "7-6"
                 },
                 {
                     "word": "kasalanan.",
-                    "note": ""
+                    "id": "7-7"
                 }
             ],
             "outlines": null
@@ -204,15 +204,15 @@
             "footnotes": [
                 {
                     "word": "wala",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "dinaraya",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -223,19 +223,19 @@
             "footnotes": [
                 {
                     "word": "ipahahayag",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "tapat",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "lilinisin",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "kalikuan.",
-                    "note": ""
+                    "id": "9-4"
                 }
             ],
             "outlines": null
@@ -246,14 +246,192 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang ministeryo ni Pablo ay ang kumpletuhin ang dibinong pahayag (Col. 1:25-27) ng Bagong Tipang ekonomiya ng Diyos, yaon ay, ang Tres-unong Diyos na nasa loob ni Kristo bilang ang Espiritung nagbibigay-buhay, ibinubunga ang mga sangkap ni Kristo para sa pagbubuo at pagtatayo ng Katawan ni Kristo upang ang Tres-unong Diyos ay magkaroon sa sansinukob ng isang ganap na kahayagan—ang kapuspusan ng Diyos (Efe. 1:23; 3:19). Nakumpleto ang mga isinulat ni Pablo noong mga A.D. 67. Ang kanyang nagkukumpletong ministeryo ay pininsala ng pagtalikod-sa-katotohanan na nangyari bago pa ang kanyang kamatayan at pagkaraan ng kanyang kamatayan. Pagkaraan ng halos 25 taon, noong mga A.D. 90, lumabas ang mga isinulat ni Juan. Ang kanyang ministeryo ay hindi lamang upang sulsihan ang napinsalang ministeryo ni Pablo, bagkus upang bigyan din ng pagtatapos ang buong dibinong pahayag kapwa ng Lumang Tipan at ng Bagong Tipan, kapwa ng Mga Ebanghelyo at Mga Sulat. Ang sentro ng ganitong ministeryo ay ang mga hiwaga ng dibinong buhay. Sa Ebanghelyo ni Juan na siyang pagtatapos ng Mga Ebanghelyo, ang mga hiwaga ng Persona at gawain ng Panginoong Hesu-Kristo ay ipinahayag. Sa Mga Sulat ni Juan, lalo na ang unang sulat, na siyang pagtatapos ng Mga Sulat, ang hiwaga ng pagsasalamuha ng dibinong buhay, na siyang hiwaga ng pagsasalamuha ng mga anak ng Diyos sa Diyos Ama at sa isa’t isa ay binuksan. Pagkatapos, sa Apocalipsis ni Juan, na siyang pagtatapos ng Bagong Tipan at ng Lumang Tipan, si Kristo ay ipinahayag bilang siyang panustos ng buhay sa mga anak ng Diyos upang matamo Niya ang Kanyang kahayagan, at Siya ang hiwaga ng sentro ng pansansinukob na administrasyon ng Tres-unong Diyos. Dito, ginagamit ni Juan ang katagang “yaong” upang umpisahan ang kanyang sulat at buksan ang hiwaga ng pagsasalamuha ng dibinong buhay. Ang hindi niya paggamit ng mga panghalip na panao sa pagtukoy sa Panginoon ay nagpapahiwatig na ang kanyang ibubunyag ay mahiwaga."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “buhat nang pasimula” rito ay naiiba sa “sa pasimula” sa Ebanghelyo ni Juan (Juan 1:1). Tinatalunton pabalik ng “sa pasimula” ang walang hanggang lumipas bago pa ang paglikha; ang “buhat nang pasimula” ay nagpapatuloy mula sa paglikha. Ito ay nangangahulugan na ang Sulat ni Juan ay isang pagpapatuloy ng kanyang Ebanghelyo hinggil sa karanasan ng mga mananampalataya sa dibinong buhay. Sa kanyang Ebanghelyo, ipinakikita ni Juan ang daan upang makatanggap ang mga makasalanan ng buhay na walang hanggan, yaon ay, ang sumampalataya sa Anak ng Diyos. Sa kanyang sulat itinuturo niya ang daan ng pagtatamasa sa buhay sa loob ng dibinong pagsasalamuha para sa mga mananampalatayang nakatanggap na ng dibinong buhay, yaon ay, ang manatili sa loob ng Anak ng Diyos. At sa kanyang Apocalipsis, ipinakikita niya na ang sukdulang kaganapan ng buhay na walang hanggan ay ang lubos na katamasahan ng mga mananampalataya sa kawalang-hanggan."
+        },
+        {
+            "id": "1-3",
+            "text": "Minamasdan na may isang layunin."
+        },
+        {
+            "id": "1-4",
+            "text": "Unang-una, “narinig,” pagkatapos “nakita”; pagkatapos na makita, “namasdan,” at “nahipo,” nahipo ng mga kamay. Ang mga katagang ito ay nangangahulugan na “ang Salita ng buhay” ay hindi lamang mahiwaga, bagkus nahihipo rin dahil sa pagiging laman. Ang mahiwagang Salita ng buhay sa Kanyang pagka-tao ay nahipo ng tao, hindi lamang bago ng Kanyang pagkabuhay na muli (Mar. 3:10; 5:31), bagkus pagkatapos din ng Kanyang pagkabuhay na muli (Juan 20:17, 27) sa Kanyang espirituwal na katawan (1 Cor. 15:44). Nang panahong yaon ay may isang erehiya na nagtatatwa sa pagiging laman ng Anak ng Diyos (4:1-3). Kaya, kinailangan ang ganitong malalakas na pananalita upang tukuyin ang tunay na substansiya ng Panginoon sa Kanyang nahihipong pagka-tao."
+        },
+        {
+            "id": "1-5",
+            "text": "Ito ay ang Salitang binanggit sa Juan 1:1-4 at 14. Ang Salitang ito ay kasama ng Diyos bago pa ang paglikha sa kawalang-hanggan, at ang Diyos Mismo; sa loob ng panahon, Siya ay naging laman at ang buhay ay nasa loob Niya. Ang Salitang ito ay ang dibinong Persona ni Kristo, ang lahat ng pagpapaliwanag, kahulugan, at kahayagan ng lahat ng kung ano ang Diyos. Nasa loob Niya ang buhay, at Siya Mismo ang buhay (Juan 11:25; 14:6). Ang pariralang “ang Salita ng buhay” sa Griyego ay nangangahulugan na ang Salita ay buhay. Ang Personang yaon ay ang dibinong buhay, ang walang hanggang buhay, na ating mahihipo. Ang “Salita” na binanggit dito ay nangangahulugan na ang Sulat na ito ay isang pagpapatuloy at pag-unlad ng Ebanghelyo ni Juan (cf. Juan 1:1-2, 14)."
+        },
+        {
+            "id": "1-6",
+            "text": "Ang mga isinulat ni Juan ay mga aklat ng mga hiwaga. Sa Sulat na ito, ang buhay, yaon ay, ang dibinong buhay, ang walang hanggang buhay, ang buhay ng Diyos na ipinamamahagi tungo sa loob ng mga mananampalataya ni Kristo at nananahan sa kanila, ay ang unang hiwaga (b. 2; 2:25; 3:15; 5:11, 13, 20). Mula sa hiwagang ito ay lumalabas ang isa pang hiwaga, ang hiwaga ng pagsasalamuha ng dibinong buhay (bb. 3-7). Kasunod nito ay ang hiwaga ng pagpapahid ng Tres-unong Diyos (2:20-27). Pagkatapos ay ang hiwaga ng pananatili sa Panginoon (2:27-28; 3:6, 24). Ang ikalima ay ang hiwaga ng dibinong kapanganakan (2:29; 3:9; 4:7; 5:1, 4, 18). Ang ikaanim ay ang hiwaga ng dibinong binhi (3:9). At ang panghuli ay ang hiwaga ng tubig, ng dugo, at ng Espiritu (5:6-12)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ito ay nangangahulugan na ang “Buhay” ay singkahulugan ng “Salita ng buhay” sa naunang bersikulo, na kapwa tumutukoy sa dibinong Persona ni Kristo, na kasama ng Ama sa kawalang-hanggan at naihayag sa loob ng panahon sa pamamagitan ng pagiging laman, at Siyang nakita ng mga apostol at ipinapatotoo at iniuulat sa mga mananampalataya."
+        },
+        {
+            "id": "2-2",
+            "text": "Itong paghahayag ng buhay na walang hanggan ay sa pamamagitan ng pagiging laman ni Kristo, na matibay na binigyang-diin ni Juan sa kanyang Ebanghelyo (Juan 1:14) bilang isang pangontra upang bakunahan ang mga mananampalataya laban sa erehiya na si Kristo ay hindi naging laman. Ang gayong paghahayag, na tumutugma sa pagiging “nahipo” sa b. 1, ay nagpapakitang muli ng kongkretong kalikasan ng pagka-tao ng Panginoon; ang pagka-tao ng Panginoon ay ang kahayagan ng dibinong buhay sa Bagong Tipang ekonomiya."
+        },
+        {
+            "id": "2-3",
+            "text": "Lit. ang buhay na walang hanggan. Ang salitang buhay rito ay zoe , ang espirituwal na buhay ng Diyos; hindi psuche , na tumutukoy sa pangkaluluwang buhay ng tao; hindi rin bios , na tumutukoy sa pisikal na buhay ng tao (tingnan ang tala 17-2 sa Roma 5). Ang “walang hanggan” ay hindi lamang tumutukoy sa pagiging walang hanggan sa panahon, na magpakailanman, walang katapusan, bagkus ito ay tumutukoy rin sa uri, na lubusang sakdal at kumpleto, walang anumang kulang o kapintasan. Binibigyang-diin ng gayong pagsasalita ang walang hanggang kalikasan ng dibinong buhay, ang buhay ng walang hanggang Diyos. Nakita ng mga apostol ang walang hanggang buhay na ito at ipinapatotoo at iniuulat ito sa mga tao. Ang kanilang karanasan ay hindi ukol sa anumang doktrina, bagkus ukol kay Kristo na Anak ng Diyos bilang ang walang hanggang buhay, at ang kanilang patotoo at pangangaral ay hindi ukol sa teolohiya o kaalaman sa Bibliya, kundi ukol sa gayong tunay at konkretong buhay."
+        },
+        {
+            "id": "2-4",
+            "text": "Gr. pros , nagpapahiwatig na namumuhay at kumikilos sa loob ng pakikipag-isa at pakikipagsalamuha sa Ama. Ang buhay na walang hanggan na siyang Anak ay hindi lamang kasama ng Ama, bagkus ay namumuhay at kumikilos sa loob ng pakikipag-isa at pakikipagsalamuha sa Ama. Ang salitang ito ay tumutugma sa Juan 1:1-2."
+        },
+        {
+            "id": "2-5",
+            "text": "Ang Ama ay ang pinagmumulan ng buhay na walang hanggan; ang Anak ay nahayag mula sa Ama at kasama ng Ama upang maging kahayagan ng buhay na walang hanggan, nang sa gayon ay magkaroon ng bahagi at pagtatamasa ang mga piniling tao ng Ama."
+        },
+        {
+            "id": "2-6",
+            "text": "Ang paghahayag ng buhay na walang hanggan ay kinabibilangan ng pagpapahayag at pamamahagi ng buhay sa mga tao, na may isang pananaw upang dalhin ang tao tungo sa loob ng buhay na walang hanggan, sa pakikipag-isa sa buhay at pakikipagsalamuha sa Ama."
+        },
+        {
+            "id": "3-1",
+            "text": "Sa b. 1, una munang “narinig” at pagkatapos ay “nakita”; dito naman ay ang kabaligtaran. Sa pagtanggap ng pahayag, ang pagdinig ay ang pangunahing bagay; sa pangangaral, sa pag-uulat, ang pagkakita ang dapat na maging saligan. Ang ating ipinangangaral ay dapat na yaong ating pagkaunawa at pagdaranas sa mga bagay na ating narinig."
+        },
+        {
+            "id": "3-2",
+            "text": "Narinig at nakita ng mga apostol ang buhay na walang hanggan. Pagkatapos ito ay iniuulat nila sa mga mananampalataya upang ito ay marinig at makita rin ng mga mananampalataya. Sa pamamagitan ng buhay na walang hanggan, ang mga apostol ay nakapagtamasa ng pakikipagsalamuha sa Ama at sa Kanyang Anak, ang Panginoong Hesus. Ninanais nilang matamasa rin ng mga mananampalataya ang pagsasalamuhang ito."
+        },
+        {
+            "id": "3-3",
+            "text": "Gr. koinonia , nangangahulugang kasamang nakikilahok, nakikibahagi, panlahat na pakikibahagi. Ang pagsasalamuha ay ang pagdaloy ng buhay na walang hanggan, at sa katunayan ay ang pagdaloy ng buhay na walang hanggan sa loob ng lahat ng mga mananampalataya na nakatanggap at nag-aangkin ng dibinong buhay. Ito ay inilarawan ng pagdaloy ng tubig ng buhay sa Bagong Herusalem (Apoc. 22:1). Kaya, ang lahat ng tunay na mananampalataya ay nasa pagsasalamuhang ito (Gawa 2:42). Ang pagsasalamuhang ito ay ipinagpapatuloy ng Espiritung nasa ating isinilang na muling espiritu. Kung kaya, ito ay tinawag na “pakikipagsalamuha ng Espiritu Santo” (2 Cor. 13:14) at “pakikipagsalamuha ng (ating) espiritu” (Fil. 2:1). Tayong mga mananampalataya ay nasa loob ng pagsasalamuha ng walang hanggang buhay na ito, may bahagi sa kung ano ang Ama at ang Anak at sa kung ano ang nagawa Nila para sa atin; yaon ay, sa pamamagitan ng pakikipagsalamuha ng Espiritu, tinatamasa natin ang pag-ibig ng Ama at ang biyaya ng Anak (2 Cor. 13:14). Ang gayong pakikipagsalamuha ay ang unang-unang bahagi na natamo ng mga apostol sa pagtatamasa sa Ama at sa Anak sa pamamagitan ng Espiritu. Kaya, ito ay tinawag na “ang pagsasalamuha ng mga apostol” (Gawa 2:42) at “ang pagsasalamuha namin [ng mga apostol]” sa bersikulong ito, isang pagsasalamuha sa Ama at sa Kanyang Anak na si Hesu-Kristo. Ito ay isang dibinong hiwaga. Ang mahiwagang pagsasalamuhang ito ng buhay na walang hanggan ay dapat ituring na pangunahing paksa ng Sulat na ito."
+        },
+        {
+            "id": "3-4",
+            "text": "Ang Ama at ang Anak lamang ang binanggit dito, hindi binanggit ang Espiritu, dahil sa ang Espiritu ay ipinahiwatig sa pagsasalamuha. Sa katunayan, ang pagsasalamuha ng buhay na walang hanggan ay ang pamamahagi ng Tres-unong Diyos—ang Ama, ang Anak, at ang Espiritu—tungo sa loob ng mga mananampalataya upang maging kanilang namumukod-tanging bahagi para matamasa nila mula ngayon hanggang sa kawalang-hanggan."
+        },
+        {
+            "id": "4-1",
+            "text": "Sa ilang manuskrito ay nababasang, inyo. Ang kagalakan ng mga apostol ay ang kagalakan din ng mga mananampalataya, dahil sa ang mga mananampalataya ay nasa loob ng pagsasalamuha ng mga apostol."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang pagsasalamuha ay ang pagdaloy ng buhay na walang hanggan; at ang kagalakan, yaon ay, ang katamasahan sa Tres-unong Diyos, ay ang kinalabasan ng pagsasalamuhang ito, ang kinalabasan ng pakikibahagi sa pag-ibig ng Ama at biyaya ng Anak sa pamamagitan ng Espiritu. Sa pamamagitan ng gayong espirituwal na katamasahan sa dibinong buhay, ang ating kagalakan sa loob ng ating Tres-unong Diyos ay malulubos."
+        },
+        {
+            "id": "5-1",
+            "text": "Bukod sa tatlong pangunahing bagay—buhay, salamuha, at kagalakan na binanggit sa mga naunang bersikulo, ang isa pang karagdagang mensaheng narinig ng mga apostol mula sa Panginoon ay ang ipahayag sa mga mananampalataya na ang Diyos ay liwanag."
+        },
+        {
+            "id": "5-2",
+            "text": "Sa mga naunang bersikulo, ang Ama at ang Anak ay binabanggit sa malilinaw na salita, at ang Espiritu ay ipinahihiwatig sa salamuha ukol sa buhay na walang hanggan. Dito nabanggit ang Diyos sa unang pagkakataon sa Sulat na ito, at nabanggit Siya bilang ang Tres-unong Diyos—ang Ama, ang Anak, at ang Espiritu. Ang Diyos na ito, na inihayag sa liwanag ng ebanghelyo, ay liwanag. Ang mensaheng narinig ni Juan at ng iba pang naunang apostol ay walang alinlangang ang salitang tinuran ng Panginoong Hesus sa Juan 8:12 at 9:5, na Siya ay ang liwanag. Gayunpaman, sinasabi ni Juan dito na ang mensahe ay yaong ang Diyos ay liwanag. Ito ay nagpapakita na ang Panginoong Hesus ay ang Diyos, nagpapahiwatig ng esensiya ng dibinong Trinidad."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang gayong pahayag, katulad ng ang Diyos ay liwanag, ang Diyos ay pag-ibig sa (4:8, 16), at ang Diyos ay Espiritu sa (Juan 4:24), ay hindi ginamit sa isang metaporikang kahulugan kundi sa isang pagpapahayag na kahulugan. Tinutukoy at inilalarawan nila ang kalikasan ng Diyos. Sa Kanyang kalikasan, ang Diyos ay Espiritu, pag-ibig, at liwanag. Tinutukoy ng Espiritu ang kalikasan ng Persona ng Diyos; ng pag-ibig, ang kalikasan ng esensiya ng Diyos; at ng liwanag, ang kalikasan ng kahayagan ng Diyos. Kapwa ang pag-ibig at liwanag ay may kaugnayan sa Diyos bilang buhay, ang buhay na ito ay ukol sa Espiritu (Roma 8:2). Ang Diyos, Espiritu, at ang buhay ay iisa sa katunayan. Ang Diyos ay Espiritu, at ang Espiritu ay buhay. Sa loob ng gayong buhay ay may pag-ibig at may liwanag. Kapag ang dibinong pag-ibig na ito ay nagpapakita sa atin, ito ay nagiging biyaya, at kapag ang dibinong liwanag na ito ay sumisilay sa atin, ito ay nagiging katotohanan. Ipinahahayag ng Ebanghelyo ni Juan na ang Panginoong Hesus ay nagdala ng biyaya at katotohanan sa atin (Juan 1:14, 17) upang tayo ay magkaroon ng dibinong buhay (Juan 3:14-16); samantalang ang kanyang Sulat ay naghahayag sa atin na ang Salamuha ukol sa dibinong buhay ay naghahatid sa atin sa mismong mga pinagmumulan ng biyaya at katotohanan, na siyang dibinong pag-ibig at dibinong liwanag. Ang kanyang Sulat ay ang pagpapatuloy ng kanyang Ebanghelyo. Sa kanyang Ebanghelyo ay ang Diyos sa loob ng Anak na dumarating sa atin bilang biyaya at katotohanan upang tayo ay maging mga anak ng Diyos (Juan 1:12-13); sa kanyang Sulat, tayo na mga anak, na nasa pagsasalamuha ng buhay ng Ama, ay lumalapit sa Ama upang makibahagi sa Kanyang pag-ibig at liwanag (tingnan ang tala 8-2 sa kap. 4). Ang nauna ay ang Diyos na lumalabas sa labas-na-looban upang doon sa dambana ay matugunan ang ating pangangailangan (Lev. 4:28-31); ang huli ay tayo na pumapasok tungo sa loob ng Kabanal-banalan upang doon sa kaban ay makipag-ugnayan sa Diyos (Exo. 25:22). Ito ay higit na pag-unlad at higit na malalim na karanasan sa dibinong buhay. Pagkatapos tanggapin ang dibinong buhay sa Ebanghelyo ni Juan, sa pamamagitan ng pagsampalataya sa Anak, kinakailangan nating magpatuloy na magtamasa sa buhay na ito sa kanyang Sulat sa pamamagitan ng pagsasalamuha ng buhay na ito. Ang kanyang buong Sulat ay nagpapahayag sa atin ng iisang bagay, yaon ay, ang pagtatamasa sa dibinong buhay sa pamamagitan ng pananatili sa pagsasalamuhang ito."
+        },
+        {
+            "id": "5-4",
+            "text": "Yamang ang liwanag ay ang kalikasan ng Diyos sa Kanyang kahayagan, ang kadiliman naman ay ang kalikasan ni Satanas sa kanyang mga masamang gawa (3:8). Salamat sa Diyos na iniligtas Niya tayo mula sa makasatanas na kadiliman tungo sa loob ng dibinong liwanag (Gawa 26:18; 1 Ped. 2:9). Ang dibinong liwanag ay ang dibinong buhay na nasa loob ng Anak na kumikilos sa atin. Ang liwanag na ito ay sumisilay sa kadilimang nasa loob natin, at hindi madaraig ng kadiliman ang liwanag (Juan 1:4, 5). Kapag sinunod natin ang liwanag na ito, hindi tayo kailanman lalakad sa kadiliman (Juan 8:12). Ayon sa nilalaman ng bb. 7-10, ang kadilimang ito ay ang kadiliman ng kasalanan."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang magkaroon ng pakikipagsalamuha sa Diyos ay ang magkaroon ng isang matalik at buháy na pakiki-ugnay sa Kanya sa daloy ng dibinong buhay ayon sa pagpapahid ng Espiritu sa loob ng ating espiritu (2:27). Iniingatan tayo nito sa loob ng pakikibahagi at pagtatamasa sa dibinong liwanag at dibinong pag-ibig."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang “sa Kanya” ay sa Diyos, katumbas ng “sa Ama at sa Kanyang Anak na si Hesu-Kristo” (b. 3). Muli nitong ipinahihiwatig ang dibinong Trinidad."
+        },
+        {
+            "id": "6-3",
+            "text": "Tumutukoy sa pangkalahatang paglakad, yaon ay, ang pamumuhay, pagkilos, pag-uugali, sa loob ng ating pamumuhay. Gayundin sa b. 7. Tingnan ang tala 16-1 sa Galacia 5. Ang lumakad nang nakasanayan sa kadiliman ay ang ibuhay, ikilos, at panatilihin ang katauhan sa kalikasan ng masasamang gawain ni Satanas. Ayon sa 2:11, ang lumakad sa kadiliman ay katumbas ng pagsasagawa ng kasalanan (3:4, 8)."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang magsinungaling ay kay Satanas; siya ang ama ng mga sinungaling (Juan 8:44 at tala 3). Ang makasatanas na kadiliman ay laban sa dibinong liwanag, at ang makasatanas na kasinungalingan ay laban sa dibinong katotohanan. Kung ang dibinong katotohanan ay ang kahayagan ng dibinong liwanag, ang makasatanas na kasinungalingan naman ay ang kahayagan ng makasatanas na kadiliman. Kung sinasabi natin na tayo ay may salamuha sa Diyos, na siyang liwanag, at lumalakad sa kadiliman, tayo ay nagsisinungaling sa loob ng kahayagan ng makasatanas na kadiliman, at hindi isinasagawa ang katotohanan sa loob ng kahayagan ng dibinong liwanag. Ang bersikulong ito ay nagbabakuna laban sa erehiya ng mga Antinomian, na nagtuturo ng kalayaan mula sa pananagutan ng kautusan ng kagandahang-asal at nagsasabi na ang isang tao ay maaaring mamuhay sa loob ng kasalanan at sa parehong panahon ay magkaroon ng salamuha sa Diyos."
+        },
+        {
+            "id": "6-5",
+            "text": "Ang pandiwang Griyegong poieo ay tumutukoy sa paggawa (ng mga bagay) hanggang sa makasanayan na at nang patuloy sa pamamagitan ng pananatili (sa mga bagay); kaya, nangangahulugang pagsasagawa. Ang salitang ito ay ginamit din sa 2:17, 29; 3:4 (dalawang ulit), 7, 8, 9, 10, 22; 5:2; Roma 1:32; at iba pa. Ang isagawa ang katotohanan ay ang ipamuhay ang katotohanan nang palagian, hindi ang gawin ito nang paminsan-minsan."
+        },
+        {
+            "id": "6-6",
+            "text": "Gr. aletheia , katotohanan—realidad (kasalungat ng walang kabuluhan), pagiging tunay, katunayan, pagkamakatotohanan at sinseridad. Ito ang personal at espesiyal na katawagang ginamit ni Juan, at ito ay isa sa malalalim na salita sa Bagong Tipan, tumutukoy sa lahat ng mga realidad ng dibinong ekonomiya bilang nilalaman ng dibinong pahayag, na ipinahatid at ipinahayag ng banal na Salita kagaya nang sumusunod:"
+        },
+        {
+            "id": "7-1",
+            "text": "Yaon ay, namumuhay, gumagawi, at pinananatili ang ating katauhan."
+        },
+        {
+            "id": "7-2",
+            "text": "Tayo ay lumalakad sa liwanag, subali’t ang Diyos ay nasa liwanag, dahil sa Siya ay liwanag. “Ang liwanag ay ang elemento na siyang pinananahanan ng Diyos (cf. 1 Tim. 6:16)… ang paglakad na ito sa liwanag, katulad nang ang Diyos ay nasa liwanag, ay hindi basta isang paggaya lamang sa Diyos…subali’t ito ay isang pagkikipagkaisa sa pang-esensiyang elemento ng ating pang-araw-araw na paglakad na may pang-esensiyang elemento ng kung ano ang walang hanggang Diyos: hindi paggaya, bagkus pagkakatulad at pagkakaisa ng mismong atmospero ng buhay” (Alford)."
+        },
+        {
+            "id": "7-3",
+            "text": "Kapag tayo ay lumalakad at nabubuhay sa liwanag ng Diyos, sama-sama nating tinatamasa ang Tres-unong Diyos at sama-sama ring nakikibahagi sa Kanyang dibinong layunin. Ang pagsasalamuha ng dibinong buhay ay naghahatid sa atin ng dibinong liwanag, at ang dibinong liwanag ay nag-iingat sa atin sa loob ng pakikipagsalamuha, yaon ay, sa sama-samang pagtatamasa sa Diyos at sama-samang pakikibahagi sa Kanyang layunin."
+        },
+        {
+            "id": "7-4",
+            "text": "Kapag tayo ay namumuhay sa dibinong liwanag, tayo ay nasa ilalim ng kaliwanagan nito, at inilalantad nito, ayon sa dibinong kalikasan ng Diyos at sa pamamagitan ng Kanyang kalikasan sa loob natin, ang lahat ng mga kasalanan, pagkakasala, kabiguan, at mga kakulangan na kumokontra sa Kanyang dalisay na liwanag, sakdal na pag-ibig, ganap na kabanalan, at pinakamahusay na katuwiran. Sa gayong panahon nadarama natin sa ating naliwanagang budhi ang pangangailangan ng paglilinis ng nagtutubos na dugo ng Panginoong Hesus, at ito ay naglilinis sa atin sa ating budhi mula sa lahat ng mga kasalanan, upang ang ating salamuha sa Diyos at sa isa’t isa ay mapanatili. Ang ating kaugnayan sa Diyos ay hindi napuputol, gayunpaman, ang ating pagsasalamuha sa Kanya ay maaaring maputol. Ang ating kaugnayan sa Diyos ay ukol sa buhay, samantalang ang ating pagsasalamuha sa Diyos ay batay sa ating pamumuhay, bagama’t ito rin ay ukol sa buhay. Ang ating kaugnayan sa Diyos ay walang pasubali; datapuwa’t ang pagsasalamuha ay may pasubali. Ang may pasubaling pagsasalamuhang ito ay nangangailangan ng palagiang paglilinis ng dugo ng Panginoon upang mapanatili."
+        },
+        {
+            "id": "7-5",
+            "text": "Ang pangalang Hesus ay tumutukoy sa pagka-tao ng Panginoon, na kinakailangan para sa pagbubo ng nagtutubos na dugo; at ang titulong Kanyang Anak ay tumutukoy sa pagka-Diyos ng Panginoon, na kinakailangan para sa walang hanggang bisa ng nagtutubos na dugo. Sa gayon, ang dugo ni Hesus na Kanyang Anak ay nagsasaad na ang dugong ito ay ang wastong dugo ng isang tunay na tao para sa katubusan ng mga natisod na nilalang ng Diyos na taglay ang dibinong katiyakan na ito ay may walang hanggang bisa; ang bisang ito, sa espasyo, ay lumalaganap sa lahat ng dako, at sa panahon naman ay nananatili magpasawalang-hanggan."
+        },
+        {
+            "id": "7-6",
+            "text": "Ang panahunan ng pandiwang ito sa Griyego ay pangkasalukuyan at tuluy-tuloy, nagpapakita na ang dugo ni Hesus na Anak ng Diyos ay naglilinis sa atin sa lahat ng oras, nang patuloy at palagian. Ang paglilinis dito ay tumutukoy sa dagliang paglilinis ng dugo ng Panginoon sa ating budhi. Sa harapan ng Diyos, ang nagtutubos na dugo ng Panginoon ay naglinis sa atin nang minsan para sa lahat nang walang hanggan (Heb. 9:12, 14), at ang bisa ng paglilinis na yaon ay magtatagal magpakailanman sa harapan ng Diyos, hindi na nangangailangan ng pag-uulit. Gayunpaman, sa ating budhi kinakailangan natin ang dagliang paggamit ng palagiang paglilinis ng dugo ng Panginoon nang paulit-ulit sa tuwing ang ating budhi ay naliliwanagan ng dibinong liwanag sa ating pakikipagsalamuha sa Diyos. Ang dagliang paglilinis na ito ay sinagisag ng pagpapadalisay sa mga abo ng dumalagang baka para sa tubig ng paghihiwalay (Blg. 19:2-10)."
+        },
+        {
+            "id": "7-7",
+            "text": "Tinutuos ng Bagong Tipan ang suliranin ng kasalanan sa pamamagitan ng paggamit kapwa ng salitang kasalanan sa pang-isahan at ng salitang mga kasalanan sa pangmaramihan. Ang pang-isahang “kasalanan” ay tumutukoy sa nananahanang kasalanan, na nagmula kay Satanas at sa pamamagitan ni Adam ay pumasok sa sangkatauhan (Roma 5:12). Ito ay tinuos sa ikalawang bahagi ng Roma, sa 5:12 hanggang 8:13 (hindi kasali ang 7:5, na kung saan binanggit ang pangmaramihang “mga kasalanan”). Ang pangmaramihang “mga kasalanan” ay tumutukoy sa mga gawaing masama, ang mga bunga ng nananahanang kasalanan, na tinuos sa unang bahagi ng Roma, sa 1:18 hanggang 5:11. Gayunpaman, ang pang-isahang kasalanan sa bersikulong ito na may pang-uring “lahat” ay hindi tumutukoy sa nananahanang kasalanan, kundi sa bawa’t kasalanan na ating nagawa (b. 10), pagkatapos na tayo ay maisilang na muli, na nagpaparumi sa ating nahugasang budhi at kinakailangang malinis ng dugo ng Panginoon sa ating pagsasalamuha sa Diyos."
+        },
+        {
+            "id": "8-1",
+            "text": "Yaon ay, walang nananahanang kasalanan (Roma 7:17) sa loob ng ating kalikasan. Ito ang itinuturo ng erehiyang Gnostiko. Binabakunahan ng apostol ang mga mananampalataya laban sa huwad na pagtuturong ito. Sa bahaging ito, 1:7-2:2, ay tinutuos ang pagkakasala ng mga mananampalataya pagkatapos ng pagkasilang na muli, na pumapatid sa kanilang pagsasalamuha sa Diyos. Kung pagkatapos ng pagkasilang na muli, ang mga mananampalataya ay wala nang kasalanan sa kanilang kalikasan, paano sila nagkakasala sa kanilang pagkilos? Bagama’t sila ay nagkakasala nang paminsan-minsan lang at hindi palagian, ang kanilang pagkakasala ay nagpapatunay na mayroon pa ring kasalanang gumagawa sa loob nila. Kung hindi, ang kanilang pagsasalamuha sa Diyos ay hindi sana napapatid. Kinokondena rin ng pagtuturo ng apostol dito ang pangkasalukuyang pagtuturo ng perpeksionismo. Inaakala ng ganitong uri ng pagtuturo na ang kalagayan ng kalayaan mula sa kasalanan ay naaabot sa pangkasalukuyang buhay o naabot na. Gayundin, pinawawalang-bisa ng pagtuturo ng apostol ang pangkasalukuyang maling pagtuturo ukol sa pag-aalis ng makasalanang kalikasan, na, sa maling pagbibigay ng kahulugan sa salita sa 3:9 at 5:18, ay nagsasabi na ang mga taong isinilang na muli ay hindi na magkakasala dahil ang kanilang makasalanang kalikasan ay buung-buo nang naalis."
+        },
+        {
+            "id": "8-2",
+            "text": "O, inililihis natin ang ating mga sarili. Ang sabihing tayo ay walang kasalanan *(makasalanang kalikasan)*, dahil sa tayo ay naisilang nang muli, ay isang pandaraya natin sa ating mga sarili, itinatatwa ang aktuwal na katunayan ng ating sariling karanasan, sa gayon, inililihis ang ating mga sarili."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang katotohanan ay tumutukoy sa nahayag na realidad ng Diyos, ang mga tunay na katotohanan, na inihatid sa ebanghelyo, katulad ng realidad ng Diyos at ng lahat ng mga dibinong bagay, na pawang si Kristong lahat (Juan 1:14, 17; 14:6); ang realidad ni Kristo at ang lahat ng mga espirituwal na bagay, na pawang ang Espiritu lahat (Juan 14:17; 15:26; 16:13; 1 Juan 5:6), at ang realidad ng kalagayan ng tao (Juan 16:8-11). Tingnan ang tala 6-6 . Dito, ito ay tumutukoy lalo na sa ating makasalanang kalagayan pagkatapos ng pagkasilang na muli, sa ilalim ng pagliliwanag ng dibinong liwanag sa ating pagsasalamuha sa Diyos. Kung sinasabi natin na tayo ay walang kasalanan *(makasalanang kalikasan)* pagkatapos ng pagkasilang na muli, ang gayong realidad, ang katotohanan, ay hindi nananatili sa atin; yaon ay, itinatatwa natin ang tunay na kalagayan pagkaraan ng pagkasilang na muli."
+        },
+        {
+            "id": "9-1",
+            "text": "Ito ay tumutukoy sa pagpapahayag ng ating mga kasalanan, yaon ay, ng ating mga kabiguan, pagkatapos ng pagkasilang na muli, hindi tumutukoy sa pagpapahayag ng ating mga kasalanan bago ang pagkasilang na muli."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang Diyos ay tapat sa Kanyang salita (b. 10) at matuwid sa dugo ni Hesus na Kanyang Anak (b. 7). Ang Kanyang salita ay ang salita ng katotohanan ng Kanyang ebanghelyo (Efe. 1:13), na nagsasabi sa atin na Kanyang patatawarin ang ating mga kasalanan dahil kay Kristo (Gawa 10:43); at tinupad ng dugo ni Kristo ang Kanyang matuwid na kahilingan upang mapatawad Niya tayo sa ating mga kasalanan (Mat. 26:28). Kung ipahahayag natin ang ating mga kasalanan, tayo ay patatawarin Niya ayon sa Kanyang salita at batay sa pagtutubos sa pamamagitan ng dugo ni Hesus, sapagka’t kinakailangan Niyang maging tapat sa Kanyang salita at matuwid sa dugo ni Hesus; kung hindi, Siya ay hindi magiging tapat at magiging hindi matuwid. Upang matamo natin ang Kanyang pagpapatawad, kinakailangan nating magpahayag ng ating mga kasalanan. Ang gayong kapatawaran ng Diyos para sa pagpapanumbalik ng ating pagsasalamuha sa Kanya ay may pasubali, yaon ay, batay sa ating pagpapahayag ng ating mga kasalanan."
+        },
+        {
+            "id": "9-3",
+            "text": "Ang patawarin tayo ay ang palayain tayo mula sa paglabag ng ating mga kasalanan, samantalang ang linisin tayo ay ang hugasan tayo mula sa mantsa ng ating kalikuan."
+        },
+        {
+            "id": "9-4",
+            "text": "Ang “kalikuan” at ang “mga kasalanan” ay magkasingkahulugan. Ang lahat ng kalikuan ay kasalanan (5:17). Kapwa ito tumutukoy sa ating mga maling gawa. Tinutukoy ng “mga kasalanan” ang paglabag ng ating mga maling gawa sa Diyos at sa mga tao; tinutukoy ng “kalikuan” ang mantsa ng ating mga maling gawa, na tayo ay hindi matuwid maging sa Diyos o maging sa mga tao. Ang paglabag ay nangangailangan ng pagpapatawad ng Diyos, at ang mantsa ay nangangailangan ng Kanyang paglilinis. Kapwa ang pagpapatawad ng Diyos at paglilinis ng Diyos ay kinakailangan para sa pagpapanumbalik ng ating naputol na pagsasalamuha sa Kanya, upang matamasa natin Siya sa walang patid na pagsasalamuha na may isang mabuting budhing walang paglabag (1 Tim. 1:5; Gawa 24:16)."
+        },
+        {
+            "id": "10-1",
+            "text": "Pinatutunayan ng b. 8 na pagkatapos ng pagkasilang na muli, sa panloob, tayo ay mayroon pa ring kasalanan. Pinatutunayan pa ng b. 10 na tayo ay nagkakasala pa sa panlabas, bagama’t hindi kinakagawian ang magkasala. Nagkakasala pa rin tayo sa panlabas sa ating gawi dahil sa tayo ay may kasalanan pa rin sa panloob sa ating kalikasan. Kapwa nito pinatutunayan ang ating makasalanang kondisyon pagkatapos ng pagkasilang na muli. Sa pagsasalita ng gayong kondisyon, ginagamit ng apostol ang panghalip na “tayo,” hindi ibinubukod ang kanyang sarili."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang salita ng pahayag ng Diyos, na siyang salita ng realidad (Efe. 1:13; Juan 17:17) at naghahatid ng mga nilalaman ng Bagong Tipang ekonomiya ng Diyos. Ito ay singkahulugan ng katotohanan sa b. 8. Sa salitang ito, inilalantad ng Diyos ang ating tunay na makasalanang kondisyon kapwa noong bago at pagkatapos ng pagkasilang na muli. Kung sinasabi natin na tayo ay hindi nagkasala pagkatapos ng pagkasilang na muli, ginagawa natin Siyang isang sinungaling, itinatatwa ang salita ng Kanyang pahayag."
         }
     ]
 }

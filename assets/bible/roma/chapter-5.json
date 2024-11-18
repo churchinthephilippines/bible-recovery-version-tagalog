@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -25,23 +25,23 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "biyayang",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "kinatatayuan,",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "nagmamapuri",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "2-5"
                 }
             ],
             "outlines": null
@@ -52,11 +52,11 @@
             "footnotes": [
                 {
                     "word": "kapighatian,",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "katiyagaan;",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -67,7 +67,7 @@
             "footnotes": [
                 {
                     "word": "pagiging",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -78,7 +78,7 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -89,7 +89,7 @@
             "footnotes": [
                 {
                     "word": "mahihina",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -118,23 +118,23 @@
             "footnotes": [
                 {
                     "word": "pinakipagkasundo",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "mangaliligtas",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "buhay.",
-                    "note": ""
+                    "id": "10-5"
                 }
             ],
             "outlines": null
@@ -145,7 +145,7 @@
             "footnotes": [
                 {
                     "word": "ipinagmamapuri",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -156,23 +156,23 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "kasalanan",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "sanlibutan,",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "kamatayan",
-                    "note": ""
+                    "id": "12-4"
                 },
                 {
                     "word": "kamatayan",
-                    "note": ""
+                    "id": "12-4"
                 }
             ],
             "outlines": [
@@ -186,7 +186,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -197,23 +197,23 @@
             "footnotes": [
                 {
                     "word": "kamatayan",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Adam",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "nangagkasala",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "pagsalansang",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "anyo",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": null
@@ -224,11 +224,11 @@
             "footnotes": [
                 {
                     "word": "lubha",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "Taong",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -239,15 +239,15 @@
             "footnotes": [
                 {
                     "word": "kaloob;",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -258,19 +258,19 @@
             "footnotes": [
                 {
                     "word": "magsisipaghari",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "kasaganaan",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "katuwiran",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -281,19 +281,19 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "gawa",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "buhay.",
-                    "note": ""
+                    "id": "18-4"
                 }
             ],
             "outlines": null
@@ -304,11 +304,11 @@
             "footnotes": [
                 {
                     "word": "nabuuang",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "pagtalima",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -319,11 +319,11 @@
             "footnotes": [
                 {
                     "word": "makapanagana;",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "nanagana",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -334,14 +334,192 @@
             "footnotes": [
                 {
                     "word": "kasalanan",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "katuwiran",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Lit. mula sa."
+        },
+        {
+            "id": "1-2",
+            "text": "Tayo ay naari nang matuwid sa pamamagitan ng pananampalataya nguni’t ang hakbangin ng pagpasok sa loob ng Diyos ay hindi pa nakumpleto, kaya dito ay sinasabi ni Pablo na “sa Diyos” hindi “kasama ng Diyos”‘ Ang biyaya ay para sa ating pagtayo (b. 2); ang kapayapaan naman ay para sa ating paglakad."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang pananampalataya ang nag-aring-matuwid sa atin at ang tumapos sa ating laman kasama ang likas na kalakasan at pagpapagal nito. Ang pananampalataya ring ito ang nagdala sa atin sa loob ng biyaya ng Diyos. Kung tayo ay nanatili sa laman kasama ang likas na pagpapagal nito ay hindi natin makikilala ni matatamasa ang biyaya ng Diyos; subali’t kung tayo ay nabubuhay sa pamamagitan ng pananampalataya, tayo ay makapapasok sa loob ng lubos na pagtatamasa sa biyaya ng Diyos."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang biyaya ay ang dumaan sa maraming hakbanging Tres-unong Diyos Mismo upang ating pasukan at tamasahin. Ang biyaya rito, sa isang higit na malalim na pakahulugan, ay ang Tres-unong Diyos na ito bilang ating katamasahan, hindi lamang tumutukoy sa ating pagtanggap ng mga pabor na di-karapat-dapat para sa atin ni sa panlabas na pagpapala lamang, bagkus tumutukoy rin sa Diyos Mismo na nasa loob natin bilang ang biyaya na ating tinatamasa sa panloob. Tayo ay hindi lamang nasa ilalim ng pagpapala ng Diyos, bagkus tayo ay nasa loob ng Kanyang biyaya (tingnan ang tala 3)."
+        },
+        {
+            "id": "2-3",
+            "text": "Una, ang pananampalataya ay gumagabay sa atin sa loob ng biyaya, pagkaraan ay sinasanhi tayo upang matatag na makatayo sa gitna ng biyaya."
+        },
+        {
+            "id": "2-4",
+            "text": "Nagpapahiwatig ng paggagalak. Ito ay nagpapahiwatig ng ating pagtatamasa sa Diyos. Gayundin ang kahulugan sa bersikulo 3."
+        },
+        {
+            "id": "2-5",
+            "text": "Ang ating pag-asa ay ang madala sa loob ng kaluwalhatian ng Diyos, yaon ay, sa loob ng Kanyang kahayagan. Ito ay lubusang matutupad sa darating na isang libong taong kaharian, kung saan ay maidadakila si Kristo bilang ating kaluwalhatian. Ngayon tayo ay nasa gitna ng pag-asa ng kaluwalhatian ng Diyos. (Tingnan ang tala 1-3 sa Heb. 11). Gayundin sa b. 4."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang kapighatian ay isa ring bahagi ng “lahat ng bagay” na binanggit sa 8:28 na sinasanhi ng Diyos na gumawa para sa ating kabutihan, upang tayo ay pabanalin, transpormahin, at maiwangis sa larawan ng Kanyang Anak na nagtungo na sa loob ng kaluwalhatian. Kaya nga tinatanggap natin ang kapighatian bilang ang nagbabalatkayong magiliw na pag-aaruga at biyaya, at tayo ay makapagmamapuri sa loob nito. Sa pamamagitan ng kapighatian ay inilalapat ng Espiritu Santo sa ating loob ang bisa ng pagpatay sa likas na tao sa pamamagitan ng krus ni Kristo,upang ang nabuhay na muling Diyos ay magkaroon ng daan upang idagdag ang Kanyang Sarili sa atin. (Tingnan ang II Cor. 4:16-18.)"
+        },
+        {
+            "id": "3-2",
+            "text": "Ang katiyagaan ang bunga ng pagtitiis na may mga paghihirap."
+        },
+        {
+            "id": "4-1",
+            "text": "O pagpapatunay. Ang pagiging aprubado ay resulta ng katiyagaan at karanasan ng kapighatian at pagsubok."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang pag-ibig ng Diyos ay ang Diyos Mismo (I Juan 4:8, 16). Ibinuhos ng Diyos ang Kanyang pag-ibig sa ating mga puso sa pamamagitan ng Espiritu Santong ibinigay sa atin bilang ang pampalakas-loob na kapangyarihan sa atin na nagbibigay-kakayahan sa atin upang tayo ay makapanagumpay nang higit pa sa lahat ng mga kapighatian (tingnan ang tala 37-1 sa kap. 8), sa gayon ay napagtitiisan natin ang alinmang kapighatian at hindi tayo napapahiya."
+        },
+        {
+            "id": "6-1",
+            "text": "Yaon ay walang kakayahan, hindi makapagbigay-kasiyahan sa Diyos."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang pagpapalubag-loob at kapatawaran sa mga kasalanan ay sapat na upang tugunin ang mga pangangailangan ng mga makasalanan, subali’t hindi sapat upang tugunin ang mga kahilingan ng kaaway; ang kaaway ay nangangailangan ng pakikipagkasundo. Ang pagiging naipagkasundo ay hindi lamang nagpapaloob ng pagpapalubag-loob at pagpapatawad ng mga kasalanan, higit pa rito, nilulutas nito ang mga alitan sa pagitan ng dalawang partido. Batay sa pagtutubos ni Kristo at sa pamamagitan ng pagkaaring-matuwid sa atin ng Diyos, tayo ay ipinagkasundo sa Diyos (3:24; II Cor. 5:18-19). Ang pagiging naipagkasundo ang kinalabasan ng pagkaaring-matuwid na nagbubuhat sa pananampalataya."
+        },
+        {
+            "id": "10-2",
+            "text": "Ipinapakita sa atin ng bersikulo 10 ng kapitulong ito na ang ganap na pagliligtas ng Diyos na inihayag sa aklat na ito ay binubuo ng dalawang seksiyon: ang isang seksiyon ay ang katubusang naisakatuparan para sa atin ng kamatayan ni Kristo, at ang isa pang seksiyon ay ang pagliligtas na idinudulot sa atin ng buhay ni Kristo. Puspusang tinatalakay ng unang apat na kapitulo ng aklat na ito ang hinggil sa pagtutubos na isinakatuparan ni Kristo, samantalang detalyado namang tinatalakay ng huling labindalawa pang kapitulo ang hinggil sa pagliligtas na idinudulot ng buhay ni Kristo. Bago dumating sa bersikulo 5:11 ay ipinakita sa atin ni Pablo na tayo ay naligtas na sapagka’t tayo ay tinubos, inaring-matuwid, at ipinagkasundo na sa Diyos. Subali’t ang kaligtasan natin ay hindi pa humantong sa sukat ng pagiging napabanal, natransporma, at naiwangis sa larawan ng Anak ng Diyos. Ang pagtutubos, pag-aaring-matuwid, at pakikipagkasundo ay sa pamamagitan ng kamatayan ni Kristo na isinagawa sa labas natin at pang- obhektibong nagligtas sa atin; ang pagpapabanal, transpormasyon, at pagwawangis ay sa pamamagitan ng pagkilos ng buhay ni Kristo na isinasagawa sa ating loob at pansubhektibong nagliligtas sa atin. Ang obhektibong kaligtasan ay nagpapalaya sa atin mula sa paghahatol at walang hanggang kaparusahan sa pamposisyon; samantalang ang subhektibong kaligtasan ay nagpapalaya sa atin mula sa ating lumang tao, sarili, at likas na buhay sa pandisposisyon. Ipinapakita sa atin ng bersikulo 10 ng kapitulong ito na ang ganap na pagliligtas ng Diyos na inihayag sa aklat na ito ay binubuo ng dalawang seksiyon: ang isang seksiyon ay ang katubusang naisakatuparan para sa atin ng kamatayan ni Kristo, at ang isa pang seksiyon ay ang pagliligtas na idinudulot sa atin ng buhay ni Kristo. Puspusang tinatalakay ng unang apat na kapitulo ng aklat na ito ang hinggil sa pagtutubos na isinakatuparan ni Kristo, samantalang detalyado namang tinatalakay ng huling labindalawa pang kapitulo ang hinggil sa pagliligtas na idinudulot ng buhay ni Kristo."
+        },
+        {
+            "id": "10-3",
+            "text": "Sa pamamagitan ng kamatayan ni Kristo ay naipagkasundo tayo sa Diyos, ito ay isang katotohanang naisagawa na; subali’t ang maligtas sa loob ng Kanyang buhay, napalalaya mula sa maraming negatibong bagay at hahantong sa pagkaluwalhati, ay isang pang-araw-araw na bagay."
+        },
+        {
+            "id": "10-4",
+            "text": "Ang maligtas sa loob ng Kanyang buhay ay nangangahulugang maligtas sa loob ni Kristo Mismo bilang buhay. Siya ay nabubuhay sa atin at tayo ay organikong kaisa Niya. Sa pamamagitan ng paglago ng Kanyang buhay sa atin ay lubos nating matatamasa ang Kanyang kumpletong kaligtasan. Ang pagtutubos, pag-aaring-matuwid, at pakikipagkasundo ay sadyang upang dalhin tayo sa loob ng pakikipagkaisa sa Kanya, upang tayo ay Kanyang mailigtas tungo sa pagkaluwalhati natin (8:30)."
+        },
+        {
+            "id": "10-5",
+            "text": "Nagpapahiwatig ng pagkabuhay na muli. Ang unang bahagi ng bersikulong ito ay nagsasalita tungkol sa kamatayan, pagkaraan ay tungkol naman sa buhay. Si Kristo ay namatay upang maging buhay sa pagkabuhay na muli. Sa pamamagitan ng Kanyang pagkamatay ay naligtas tayo mula sa paghahatol at walang hanggang kaparusahan ng Diyos, subali’t kailangan nating patuloy na maligtas sa loob ng Kanyang pagkabuhay na muli sa pamamagitan ng Kanyang buhay. Ang buhay Niyang ito kasama ang kapangyarihan sa 1:16 at ang Espiritu sa kapitulo 8 ay pawang tumutukoy sa iba’t ibang aspekto ng Tres-unong Diyos na dumaan sa maraming hakbangin."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang ipagmapuri ang Diyos ay may ibig sabihing taglay-taglay ang Diyos bilang ating pagmamapuri, bilang paggagalak; ipinakikita na ang Diyos ay ang ating katamasahan at kagalakan. Tingnan ang tala 2-4 . Sa ngayon, ganito ang ating pagmamapuri, paggagalak, pagtatamasa na naliligtas sa loob ng buhay ni Kristo."
+        },
+        {
+            "id": "12-1",
+            "text": "Yaon ay si Adam, ang unang tao, ang ninuno ng buong sangkatauhan na nagdala ng kamatayan sa pamamagitan ng kasalanan. Sa kabaliktaran, si Kristo, ang ikalawang tao (I Cor. 15:47) ay ang nagdadala ng buhay sa pamamagitan ng katuwiran (bb. 17-18)."
+        },
+        {
+            "id": "12-2",
+            "text": "Pang-isahan *(sa Ingles, sin )*. Hanggang sa bersikulo 11 tinalakay na ng aklat na ito ang pangmaramihang kasalanan *(sa Ingles, sins )*; mula sa bersikulo 12 ay sisimulang talakayin ang pang-isahang kasalanan. Ang “kasalanan” ay binibigyang-katauhan sa mga kapitulo 5-8. Ito ay katulad ng isang taong maaaring pumasok (b. 12), maghari (b. 21), makapaghari sa mga tao (6:14), mandaya at pumatay ng mga tao (7:11), manahan sa mga tao at magpagawa ng mga bagay na labag sa kalooban ng mga tao (7:17, 20). Ang kasalanan ay buháy (7:9) at lubhang aktibo; kaya ito ay tiyak na ang masamang kalikasan ni Satanas, ang masamang isa. Sa pagkatisod ni Adam, itinurok ni Satanas ang kanyang sarili sa loob ng tao, naging kalikasan ng kasalanan, nananahan, kumikilos at gumagawa sa natisod na sangkatauhan. Ang pang-isahan, nananahan, nabigyang-katauhang kalikasan ng kasalanan ay ang ugat ng pangmaramihan, panlabas na makasalanang pagkilos."
+        },
+        {
+            "id": "12-3",
+            "text": "O, sangkatauhan (cf. Juan 1:29; 3:16)."
+        },
+        {
+            "id": "12-4",
+            "text": "Ang kamatayan ang huling resulta ng pagkatisod ng tao. Una, ang espiritu ng tao ay namatay, sa katapus-tapusan ang katawan ay namatay rin. Ang kamatayan at ang kasalanan ay hindi maaaring paghiwalayin. Kapag ang isa ay presente ang ikalawa ay tiyak na nariyan din. Hindi lamang ito, ang kamatayan ay hindi lamang ang paghihirap ng katawan sa hinaharap, ito rin ang paggagapos na nararanasan ng tao sa araw-araw sa pangkasalukuyan."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang kasalanan ay umiral na bago pa man ibinigay ang kautusan subali’t nang panahong yaon ay hindi pa inihantad ang kasalanan sa mga tao kaya ito ay hindi pa ibinilang ng Diyos."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang kamatayan ay binanggit nang ilang ulit sa kapitulo 5 hanggang 8 (bb. 12, 14, 17, 21; 6:9, 16, 21, 23; 7:5, 10, 13, 24; 8:2, 6, 38), binanggit din ng mga kapitulong ito ang buhay nang maraming ulit (bb. 10, 17-18, 21; 6:4, 22-23; 7:10; 8:2, 6, 10-11, 38). Mula kapitulo 5 hanggang 8, ang dalawang susing salitang ito ay nagbuo ng dalawang magkaibang linya—ang linya ng buhay at ang linya ng kamatayan. Ito ay nagpapakita na ang tao ay nasa gitna ng tatsulok na kaugnayan, siya ay nakatayo sa pagitan ng Diyos at ni Satanas, ng buhay at ng kamatayan. Kaya nga, ang kapitulo 5 hanggang 8 ay maaaring ituring bilang pinakabuod ng Bibliya, praktikal at maingat na pinapaloob ang pangunahing paksa ng Bibliya nang buung-buo."
+        },
+        {
+            "id": "14-2",
+            "text": "Mula kay Adam hanggang kay Moises ay ang dispensasyon o kapanahunan bago dumating ang kautusan (walang kautusan); mula kay Moises hanggang kay Kristo (Juan 1:17) ay ang dispensasyon o kapanahunan ng kautusan; mula sa unang pagparito ni Kristo hanggang sa pagpapanumbalik ng lahat ng mga bagay (Gawa 3:20-21) ay ang dispensasyon o kapanahunan ng biyaya; mula sa ikalawang pagparito ni Kristo hanggang sa wakas ng isang libong taong kaharian (Apoc. 11:15; 20:4, 6) ang dispensasyon o kapanahunan ng kaharian. Ginagamit ng Diyos ang mga kapanahunang ito sa lumang paglikha upang isakatuparan ang Kanyang bagong paglikha."
+        },
+        {
+            "id": "14-3",
+            "text": "Sa kapitulong ito, ang pagsasalansang at pagrerebelde ay tumutukoy sa pagkatisod ni Adam, yaon ay, ang pagtalikod sa buhay at ang pagpili sa kamatayan. Tinalikuran ni Adam ang puno ng buhay na tumutukoy sa Diyos bilang buhay, at tinungo ang puno ng kaalamang tumutukoy kay Satanas o sa pinagmumulan ng kamatayan (Gen. 2:8-9, 17; 3:1-7)."
+        },
+        {
+            "id": "14-4",
+            "text": "Si Adam ang ulo ng lumang sama-samang tao (sangkatauhan). Anuman ang kanyang ginawa at anuman ang nangyari sa kanya ay nilahukan ng lahat ng sangkatauhan. Sa panig na ito, siya ang sagisag ni Kristo, na Siyang Ulo ng bagong sama-samang tao (ang ekklesia, Efe. 2:15-16). Anuman ang Kanyang ginawa at anuman ang nangyari sa Kanya ay nilahukan din ng lahat ng mga sangkap ng Kanyang Katawan, ang ekklesia (Efe. 1:22-23)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang biyaya ay hindi lamang sumagana (b. 17), dumami (lubha pang sumagana) (b. 20), ito rin ay naghahari (b. 21). Tangi lamang ang isang buháy na persona ang makapaghahari."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang ating Manunubos na si Kristo ay ang kumpletong Diyos (tingnan ang 9:5) at isa ring kumpletong tao. Ang biyaya at ang kaloob ay sumagana sa pagka-tao ni Kristo."
+        },
+        {
+            "id": "16-1",
+            "text": "Tumutukoy sa kaloob ng katuwiran na ating natanggap (b. 17), nagpapakita na ang katuwirang ibinibigay sa atin ng Diyos ay isang kaloob."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang “sa” ay maaaring ipakahulugang nagreresulta sa."
+        },
+        {
+            "id": "17-1",
+            "text": "Hindi lamang tayo inililigtas ng buhay na ating natanggap sa lahat ng bagay at sa mga bagay-bagay, binibigyan din tayo nito ng kakayahang maghari sa lahat ng bagay bilang hari, ito ay higit na mataas kaysa maligtas sa buhay. Natanggap na natin ang katuwiran sa pang-obhektibo, ngayon ay kailangan pa rin nating patuloy na matanggap ang nananaganang biyaya na magbibigay-kakayahan sa atin na maghari sa buhay, sa pansubhektibo, bilang mga hari. Ipinaliwanag sa atin ng kapitulo 6 hanggang 16 ang kahulugan ng paghahari bilang mga hari. Lahat ng aytem na ipinaliwanag ay hindi sa pamamagitan ng ating pagsusumikap kundi sa pamamagitan ng nananaganang biyaya na ating tinanggap."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang salitang buhay sa bersikulong ito at sa bb. 10, 18, 21; 6:4; 8:2, 6, 10 ay tumutukoy sa buhay ng Diyos ( zoe ) na walang hanggan, banal at di-nilikha, na siyang si Kristo Mismo bilang ating buhay (Juan 11:25; 14:6; Col. 3:4). Ito ay naiiba sa ating pisikal na buhay ( bios , Luc. 8:14) at sa ating pangkaluluwang buhay ( psuche , Mat. 16:25-26; Juan 12:25). Ang walang hanggang buhay na ito ang pangunahing elemento ng Dibinong biyaya na ipinagkaloob sa atin at sa loob din nito tayo makapaghahari bilang hari."
+        },
+        {
+            "id": "17-3",
+            "text": "Yaong mga nakatanggap ng nananaganang biyaya ay makapaghahari sa buhay, sapagka’t ang buhay ay ibinunga mula sa nananaganang biyaya."
+        },
+        {
+            "id": "17-4",
+            "text": "Ang kaloob ng katuwiran ay nagpapawalang-bisa sa kondenasyon. Ang kondenasyon ay nagmumula sa kasalanan, subali’t ang katuwiran ay nagmumula sa biyaya. Ang katuwiran ay palaging kasunod ng biyaya at ang kinalabasan ng biyaya. Ang subhektibong katuwiran (kap. 4) ay nagmumula sa biyaya (3:24), ang biyaya ay nagmumula sa obhektibong katuwiran (3:24, 26)."
+        },
+        {
+            "id": "18-1",
+            "text": "Lit. nagreresulta sa."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang matuwid na gawa ni Kristo sa pagkamatay sa krus ay nagreresulta sa ikaaaring-matuwid ng buhay. Sinasabi sa bersikulo 21 na ang biyaya ay naghahari sa pamamagitan ng katuwiran sa ikabubuhay. Ipinakikita ng dalawang bersikulo na ang pagparito ng buhay ay resulta ng katuwiran (tingnan ang 8:10)."
+        },
+        {
+            "id": "18-3",
+            "text": "Lit. nagreresulta sa ikaaaring-matuwid ng buhay."
+        },
+        {
+            "id": "18-4",
+            "text": "Dito ang buhay ang gol ng pagliligtas ng Diyos, kaya nga ang pagkaaring-matuwid ay ang ikaaaring-matuwid ng buhay. Hindi ang pagkaaring-matuwid mismo ang gol, bagkus ito ay para sa buhay. Sa pamamagi tan ng pagkaaring-matuwid ay naabot natin ang pamantayan ng katuwiran ng Diyos, kaya nga maibibigay na ng Diyos sa atin ang Kanyang buhay ngayon. Binabago ng pag-aaring-matuwid ang ating panlabas na posisyon, binabago naman ng buhay ang ating panloob na disposisyon. Ang pagiging naaring-matuwid at pagtanggap sa buhay ay nagpapakita na ang buhay ang sentro ng kapitulong ito at ang organikong pakikipagkaisa ng buhay ang resulta ng pagkaaring-matuwid."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang maging mga makasalanan o matutuwid, ay hindi nakasalalay sa paggawa, ito ay nakasalalay sa ating panloob na pagkakabuo. Ang pagkatisod ni Adam ay nagsanhi sa kanya na tumanggap ng isang elementong hindi nilikha ng Diyos, yaon ay, ang kalikasan ni Satanas na naging pangunahing esensiya at elemento ng pagkakabuo ng natisod na tao at nagsanhi sa lahat ng tao na mabuuang mga makasalanan. Sa ngayon tayo ay mga makasalanan hindi dahil sa tayo ay mga nagkasala kundi tayo ay nagkakasala sa dahilang tayo ay mga makasalanan. Kahit tayo ay maging mabuti o masama sa loob ni Adam, tayo ay pawang nangabuuan nang mga makasalanan. Ito ay dahil sa elementong nasa loob natin at hindi dahil sa mga panlabas nating gawa. Sa kabaligtaran, binuuan tayo ni Kristo na matuwid. Nang Siya, ang Diyos na buháy, bilang biyaya, ay pumasok sa loob natin, tayo ay nabuuang matutuwid. Siya ang naging elemento at esensiya ng pagbubuo sa loob natin at sinasanhi tayo na matransporma mula sa pagiging mga makasalanan tungo sa pagiging mga anak ng Diyos. Tangi lamang Siya ang makapagsasakatuparan ng ganitong kabigat na gawain."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang pagkamatay ni Kristo sa krus ang pinakamataas na kahayagan ng Kanyang pagtalima. Sa gayon, itinuring ito ng Diyos na isang gawa ng katuwiran (b. 18; Fil. 2:8)."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang kautusan ay nagpapasagana sa kasalanan, ipinakikita at ipinakikilala nito sa mga tao ang kasalanan, kaya sa ganito ang kasalanan ng tao ay lubusang nahantad."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang kasalanan ay naghahari sa pamamagitan ng awtoridad ng kamatayan, nagdadala ng kamatayan sa pamamagitan ng paghahari, kaya nga ang mga taong nagkakasala ay kailangang mamatay."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang katuwiran ay ang tuntungan, pundasyon, at kaparaanan na sa pamamagitan nito ay ipinamamahagi ng Diyos ang Kanyang Sarili sa atin bilang biyaya. Ang biyayang ito ay nagbibigay sa atin ng katayuan upang hilingin si Kristo na maging ating biyaya. Ang Diyos ay nagbibigay ng biyaya sa tao ipinakikita ang Kanyang katuwiran (Tingnan ang 1:17). Hindi lamang ito, ang kapangyarihan ng biyayang ito ay kumikilos sa atin, namumunga ng subhektibong katuwiran, ginagawa tayong wasto sa harap ng Diyos, ng tao, at maging sa ating sarili; dinaig din nito ang mga kasalanan, ginapi si Satanas at ang kamatayan sa loob natin. Kaya nga ang biyaya ay naghahari sa pamamagitan ng katuwiran at nagreresulta sa buhay na walang hanggan."
         }
     ]
 }

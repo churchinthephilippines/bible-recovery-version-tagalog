@@ -1,11 +1,11 @@
 {
-    "chapter": 7,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
             "text": "At ang mataas na saserdote ay nagsabi, Tunay ba ang mga bagay na ito?",
             "footnotes": [],
-            "outlines": null
+            "outlines": []
         },
         {
             "id": "2",
@@ -13,10 +13,12 @@
             "footnotes": [
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "(2) Nagpapatotoo\n 7:2-53"
+            ]
         },
         {
             "id": "3",
@@ -30,7 +32,7 @@
             "footnotes": [
                 {
                     "word": "inilipat",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -47,19 +49,19 @@
             "footnotes": [
                 {
                     "word": "lupain",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "sila",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "apat",
-                    "note": ""
+                    "id": "6-4"
                 }
             ],
             "outlines": null
@@ -94,7 +96,7 @@
             "footnotes": [
                 {
                     "word": "pagkain",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -117,7 +119,7 @@
             "footnotes": [
                 {
                     "word": "pitumpu’t",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -146,7 +148,7 @@
             "footnotes": [
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -163,11 +165,11 @@
             "footnotes": [
                 {
                     "word": "Moises",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "makisig",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -178,11 +180,11 @@
             "footnotes": [
                 {
                     "word": "itinapon,",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "pinulot",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -193,7 +195,7 @@
             "footnotes": [
                 {
                     "word": "karunungan",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -204,7 +206,7 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’t",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -251,7 +253,7 @@
             "footnotes": [
                 {
                     "word": "anghel",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -262,7 +264,7 @@
             "footnotes": [
                 {
                     "word": "Panginoon:",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -273,7 +275,7 @@
             "footnotes": [
                 {
                     "word": "suriin",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -290,7 +292,7 @@
             "footnotes": [
                 {
                     "word": "Totoong",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -337,7 +339,7 @@
             "footnotes": [
                 {
                     "word": "guya",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -348,7 +350,7 @@
             "footnotes": [
                 {
                     "word": "maglingkod",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -359,11 +361,11 @@
             "footnotes": [
                 {
                     "word": "tolda",
-                    "note": ""
+                    "id": "43-1"
                 },
                 {
                     "word": "Refan,",
-                    "note": ""
+                    "id": "43-2"
                 }
             ],
             "outlines": null
@@ -386,7 +388,7 @@
             "footnotes": [
                 {
                     "word": "tabernakulo",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
@@ -403,11 +405,11 @@
             "footnotes": [
                 {
                     "word": "Kataas-",
-                    "note": ""
+                    "id": "48-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "48-2"
                 }
             ],
             "outlines": null
@@ -418,7 +420,7 @@
             "footnotes": [
                 {
                     "word": "Anong",
-                    "note": ""
+                    "id": "49-1"
                 }
             ],
             "outlines": null
@@ -435,11 +437,11 @@
             "footnotes": [
                 {
                     "word": "nagsisisalansang",
-                    "note": ""
+                    "id": "51-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "51-2"
                 }
             ],
             "outlines": null
@@ -456,7 +458,7 @@
             "footnotes": [
                 {
                     "word": "pangangasiwa",
-                    "note": ""
+                    "id": "53-1"
                 }
             ],
             "outlines": null
@@ -467,10 +469,12 @@
             "footnotes": [
                 {
                     "word": "nangahiwa",
-                    "note": ""
+                    "id": "54-1"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "(3) Pinatay\n 7:54-60"
+            ]
         },
         {
             "id": "55",
@@ -478,15 +482,15 @@
             "footnotes": [
                 {
                     "word": "puspos",
-                    "note": ""
+                    "id": "55-1"
                 },
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "55-2"
                 },
                 {
                     "word": "nakatayo",
-                    "note": ""
+                    "id": "55-3"
                 }
             ],
             "outlines": null
@@ -497,7 +501,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "56-1"
                 }
             ],
             "outlines": null
@@ -514,7 +518,7 @@
             "footnotes": [
                 {
                     "word": "Saulo.",
-                    "note": ""
+                    "id": "58-1"
                 }
             ],
             "outlines": null
@@ -525,7 +529,7 @@
             "footnotes": [
                 {
                     "word": "tumatawag",
-                    "note": ""
+                    "id": "59-1"
                 }
             ],
             "outlines": null
@@ -536,14 +540,172 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "60-1"
                 },
                 {
                     "word": "iparatang",
-                    "note": ""
+                    "id": "60-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Maaaring ito ay ang nakikitang kaluwalhatian (cf. b. 55), katulad nang ang ulap at ang apoy ay nagpakita sa Israel (Exo. 16:10; 24:16-17; Lev. 9:23; Blg. 14:10; 16:19; 20:6; Deut. 5:24) at nagpuno sa tabernakulo at templo (Exo. 40:35; 1 Hari 8:11). Ang Diyos ng ganitong kaluwalhatian ang nagpakita kay Abraham at tumawag sa kanya. Ang Kanyang kaluwalhatian ay isang malaking pang-akit sa kanya. Ito ang naghiwalay (nagpabanal) sa kanya mula sa sanlibutan patungo sa Diyos (Exo. 29:43), at isang malaking pagpapalakas-loob at kalakasan na nagbigay-kakayahan sa kanya na sumunod sa Diyos (Gen. 12:1, 4). Sa parehong prinsipyo, ginamit din ng Diyos ang Kanyang di-nakikitang kaluwalhatian upang tawagin ang mga Bagong Tipang mananampalataya (2 Ped. 1:3)."
+        },
+        {
+            "id": "4-1",
+            "text": "Tila baga si Abraham ang naglakbay patungong Canaan (Gen. 12:4-5), subali’t sa katunayan ang Diyos ang naglipat sa kanya tungo sa mabuting lupa."
+        },
+        {
+            "id": "6-1",
+            "text": "Yaon ay, Ehipto (Exo. 1:1)."
+        },
+        {
+            "id": "6-2",
+            "text": "Yaon ay, ang mga Ehipcio (Exo. 1:11, 13-14)."
+        },
+        {
+            "id": "6-3",
+            "text": "Lit. dito, sa binhi."
+        },
+        {
+            "id": "6-4",
+            "text": "Tingnan ang tala 17-3 sa Gal. 3."
+        },
+        {
+            "id": "11-1",
+            "text": "Lit. kumpay (para sa kanilang mga baka)."
+        },
+        {
+            "id": "14-1",
+            "text": "Ihambing sa pitumpu sa Gen. 46:27 at Exo. 1:5. Sinipi ni Esteban ang bilang na ito mula sa Septuagint, na nagdaragdag ng limang inapo ni Jose sa Gen. 46:20. Kaya ang bilang na binanggit niya tungkol sa bahay ni Jacob na dumating sa Ehipto ay pitumpu’t lima sa halip na pitumpu."
+        },
+        {
+            "id": "18-1",
+            "text": "O, naiiba (sa ugali). Hindi lamang ibang hari, kundi isang hari na naiiba ang ugali."
+        },
+        {
+            "id": "20-1",
+            "text": "Mula sa bersikulo 20 hanggang bersikulo 44 sinadya ni Esteban na magbigay ng mahabang pagsasalaysay sa pinakapositibong paraan hinggil kay Moises. Ginawa niya ito upang mapatunayan ang kanyang sarili sa harapan ng kanyang mga mang-uusig, na nagparatang sa kanya ng paglapastangan kay Moises (6:11)."
+        },
+        {
+            "id": "20-2",
+            "text": "O, kaaya-aya sa Diyos, isang kawikaang Hebreo, na nangangahulugang kaaya-aya sa paningin ng Diyos, kaya labis na makisig."
+        },
+        {
+            "id": "21-1",
+            "text": "O, itinapon upang mamatay."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang pandiwang Griyego ay “ginagamit sa pagtanggap o pag-ampon bilang isang anak” (Bruce)."
+        },
+        {
+            "id": "22-1",
+            "text": "Yaon ay, karunungan sa pagkatuto."
+        },
+        {
+            "id": "23-1",
+            "text": "Lit. Nang ang panahon ng apatnapung taon ay natupad sa kanya."
+        },
+        {
+            "id": "30-1",
+            "text": "Dito at sa mga bersikulo 35 at 38, ang anghel sa Lumang Tipan ay si Kristo na Panginoon, na Siyang si Jehovah, ang Tres-unong Diyos (Exo. 3:2-16; Huk. 6:12-24; Zac. 2:6-11). Ito ay pinatutunayan ng “ang Panginoon” at “Diyos” sa mga sumusunod na bersikulo."
+        },
+        {
+            "id": "31-1",
+            "text": "Ang Panginoon at ang Diyos sa mga berikulo 31-35 ay ang anghel sa mga bersikulo 30, 35, at 38."
+        },
+        {
+            "id": "32-1",
+            "text": "Yaon ay, pansinin, kaya tingnan."
+        },
+        {
+            "id": "34-1",
+            "text": "Lit. Sa pagkakita aking nakita. Isang kawikaang Hebreo."
+        },
+        {
+            "id": "41-1",
+            "text": "O, isang batang guya."
+        },
+        {
+            "id": "42-1",
+            "text": "Yaon ay, pagsamba sa bituin."
+        },
+        {
+            "id": "43-1",
+            "text": "Yaon ay, ang nabibitbit na toldang-templo ng diyos, na dinadala sa prusisyon (Vincent)."
+        },
+        {
+            "id": "43-2",
+            "text": "Yaon ay, ang Ehipciong pangalan para sa Saturn."
+        },
+        {
+            "id": "46-1",
+            "text": "Sa ilang manuskrito ay mababasang, bahay."
+        },
+        {
+            "id": "48-1",
+            "text": "Tinawag ni Esteban ang Diyos na Diyos ng kaluwalhatian (b. 2) at ang Kataas-taasan upang patunayan ang kanyang sarili sa harapan ng kanyang mga mang-uusig, na nagparatang sa kanya ng panlalapastangan sa Diyos (6:11)."
+        },
+        {
+            "id": "48-2",
+            "text": "Nagpapahiwatig na pababayaan ng Diyos ang materyal na templo ng Lumang Tipan at pasisimulan ang isang bagong pamamahagi para sa Kanyang bayan upang sumamba sa Kanya sa espiritu (Juan 4:24), na siyang espirituwal na tahanan ng Diyos, ang ekklesia (Efe. 2:22)."
+        },
+        {
+            "id": "49-1",
+            "text": "Ito ay nagsasaad na ang Panginoon ay naghahanap ng isang espirituwal na tahanan sa espiritu ng tao. Ito ay pinatutunayan ng sumusunod na bahagi ng sipi mula sa Isa. 66:1-2 na nagsasabi, “Nguni’t ang taong ito ay titingnan Ko, samakatuwid ay siyang dukha at may isang nagsisising espiritu.”"
+        },
+        {
+            "id": "51-1",
+            "text": "Isang napakatinding pagpapahayag."
+        },
+        {
+            "id": "51-2",
+            "text": "Yamang si Esteban ay puspos ng Espiritu (b. 55) at kaisa ng Panginoon na Espiritu (1 Cor. 6:17), ang pagsalansang sa kanya ay ang pagsalansang sa Espiritu Santo. Kaya ipinakita ng Panginoon kay Saulo, na isa sa mga taga-usig ni Esteban (bb. 58, 60), na si Saulo ay nag-uusig sa Kanya (9:4)."
+        },
+        {
+            "id": "53-1",
+            "text": "Yaon ay, ang ilipat sa pangangalaga o pag-aari ng iba."
+        },
+        {
+            "id": "54-1",
+            "text": "Tingnan ang tala 33-1 sa kap. 5."
+        },
+        {
+            "id": "55-1",
+            "text": "Tingnan ang tala 3-1 sa kap. 6."
+        },
+        {
+            "id": "55-2",
+            "text": "Isang malaking pagpapatunay at pagpapalakas-loob sa isang pinag-uusig."
+        },
+        {
+            "id": "55-3",
+            "text": "Ang Panginoon sa pag akyat sa langit ay karaniwang tinutukoy bilang nakaupo sa kanan ng Diyos (Mat. 26:64; Heb. 1:3, 13). Subali’t nakita Siya ni Esteban na nakatayo roon. Ito ay nagsasaad na ang Panginoon ay labis na nagbibigay halaga sa isang pinag-uusig nang dahil sa Kanya."
+        },
+        {
+            "id": "56-1",
+            "text": "Tinanggihan ng sangkalupaan si Esteban at ito ay nakapinid sa kanya, subali’t ang mga kalangitan ay bukas sa kanya, nagpapakita na ang mga kalangitan ay kakampi niya at para sa kanya."
+        },
+        {
+            "id": "58-1",
+            "text": "Si Saulo, na di-naglaon ay naging isang apostol (13:9), ay isang katulong ng mga taga-usig sa pagpatay kay Esteban."
+        },
+        {
+            "id": "59-1",
+            "text": "Tingnan ang tala 21-1 sa kap. 2."
+        },
+        {
+            "id": "60-1",
+            "text": "Si Esteban ay nanalangin para sa kanyang mga taga-usig sa paraan na katulad ng pananalangin ng kanyang Panginoon na kanyang minahal at ipinamuhay (Luc. 23:34)."
+        },
+        {
+            "id": "60-2",
+            "text": "O, ilagay."
         }
     ]
 }

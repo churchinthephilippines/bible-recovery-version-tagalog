@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,27 +7,27 @@
             "footnotes": [
                 {
                     "word": "Nguni’t",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "lihim",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "nakapapahamak",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "erehiya",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "pagkapuksa",
-                    "note": ""
+                    "id": "1-6"
                 }
             ],
             "outlines": [
@@ -41,11 +41,11 @@
             "footnotes": [
                 {
                     "word": "magsisisunod",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "daan",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -56,15 +56,15 @@
             "footnotes": [
                 {
                     "word": "hatol",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "noong",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "pagkapuksa",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -75,19 +75,19 @@
             "footnotes": [
                 {
                     "word": "anghel",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "Tartaro,",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "paghuhukom,",
-                    "note": ""
+                    "id": "4-4"
                 }
             ],
             "outlines": [
@@ -100,11 +100,11 @@
             "footnotes": [
                 {
                     "word": "ikawalo,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "katuwiran,",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -115,11 +115,11 @@
             "footnotes": [
                 {
                     "word": "pagkalipol",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "mamuhay",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -130,15 +130,15 @@
             "footnotes": [
                 {
                     "word": "nahahapis",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "paraan",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "tiwali",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -155,23 +155,23 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "9-4"
                 },
                 {
                     "word": "paghuhukom;",
-                    "note": ""
+                    "id": "9-5"
                 }
             ],
             "outlines": null
@@ -182,19 +182,19 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "pagkapanginoon.",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "mapagsariling-",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "maykapangyarihan,",
-                    "note": ""
+                    "id": "10-4"
                 }
             ],
             "outlines": [
@@ -207,15 +207,15 @@
             "footnotes": [
                 {
                     "word": "anghel,",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -226,23 +226,23 @@
             "footnotes": [
                 {
                     "word": "hayop",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "upang",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "lipulin,",
-                    "note": ""
+                    "id": "12-4"
                 },
                 {
                     "word": "pagpapasamâ",
-                    "note": ""
+                    "id": "12-5"
                 }
             ],
             "outlines": null
@@ -253,19 +253,19 @@
             "footnotes": [
                 {
                     "word": "Na",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "kalikuan",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "gawang",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "dungis",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -276,7 +276,7 @@
             "footnotes": [
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -287,15 +287,15 @@
             "footnotes": [
                 {
                     "word": "matuwid",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "nagsisunod",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "Balaam",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": null
@@ -306,7 +306,7 @@
             "footnotes": [
                 {
                     "word": "asnong",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -317,11 +317,11 @@
             "footnotes": [
                 {
                     "word": "bukal",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "kapusikitan",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -332,11 +332,11 @@
             "footnotes": [
                 {
                     "word": "kahalayan,",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "namumuhay",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -347,7 +347,7 @@
             "footnotes": [
                 {
                     "word": "kabulukan;",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -364,7 +364,7 @@
             "footnotes": [
                 {
                     "word": "daan",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -375,10 +375,224 @@
             "footnotes": [
                 {
                     "word": "aso",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Pagkatapos na ilahad sa mga mananampalataya (sa kap. 1) ang mayamang panlaan ng dibinong buhay at ang nagniningning na pagliliwanag ng dibinong katotohanan, sa gayon nagsusustento para sa pagpapanatili ng buhay at nagbabakuna laban sa lason ng pagtalikod-sa-katotohanan, matapat na ipinahihiwatig ng apostol bilang isang babala sa kanila sa kapitulong ito ang mga nakakakilabot na nilalaman ng pagtalikod-sa-katotohanan at ang nakakatakot na resulta nito. Ang babalang ito ay isang malapit na pagtutulad sa babalang ibinigay sa Judas 4-19."
+        },
+        {
+            "id": "1-2",
+            "text": "O, dinadala sa pamamagitan ng lihim na pagpupuslit. Lit. dalhin na kaagapay, dalhin sa magkabilang panig, ang magpakilala ng isang bagong paksa kung saan hindi handa ang mga tagapakinig. Dito, ito ay tumutukoy sa mga bulaang guro na nagdadala at nagpapakilala ng kanilang mga huwad na pagtuturo na kasabay noong mga totoo."
+        },
+        {
+            "id": "1-3",
+            "text": "Lit. mga erehiya ng pagpuksa."
+        },
+        {
+            "id": "1-4",
+            "text": "Sa Griyego ay hairesis, nangangahulugang (sa doktrina) mga piniling opinyon na naiiba sa yaong mga karaniwang tinatanggap, “mga doktrinang pinili ng sarili na ibang-iba sa katotohanan” (Alford), sa gayon nagsasanhi ng pagkakabaha-bahagi at nagbubunga ng mga sekta. Sa Griyego, ang salitang ito ay ginamit din sa Gawa 5:17; 15:5; 24:5, 14; 26:5; 28:22; 1 Cor. 11:19; Gal. 5:20; at Tito 3:10 sa anyo ng pang-uri, hairetikon, taliwas sa wastong pananampalataya. Dito, ito ay tumutukoy sa mga bulaan at mga taliwas na doktrina na dinala ng mga bulaang guro, mga erehe, katulad ng mga doktrina ng pangkasalukuyang Modernismo."
+        },
+        {
+            "id": "1-5",
+            "text": "Ito ay nagpapahiwatig sa Persona at gawaing pagtutubos ng Panginoon. Ang mga bulaang guro sa kapanahunan ni Pedro, katulad ng mga pangkasalukuyang Modernista sa kanilang pagtalikod-sa-pananampalataya, ay nagtatwa kapwa sa Persona ng Panginoon bilang Panginoon at sa gawaing pagtutubos, na kung saang pamamagitan ay binili Niya ang mga mananampalataya."
+        },
+        {
+            "id": "1-6",
+            "text": "Sa Sulat na ito, gumagamit si Pedro ng tatlong iba’t ibang salitang Griyego hinggil sa kalalabasan ng pagtalikod-sa-katotohanan sa ilalim ng pampamahalaang paghahatol ng Diyos: 1) Apollumi, nangangahulugang puksain nang lubos; sa balarila ng Griyego ay nasa panggitnang tinig, ang mapahamak, katulad sa 3:6, 9. Ang kaisipan dito ay hindi ang mapuksa, kundi ang mawasak, mawala, hindi nauugnay sa pagkawasak o pagkawala ng pag-iral, kundi ng pagpapala at kaligayahan. Ito ay lalo pang naghahayag ng pampamahalaang paghahatol ng Diyos sa Mat. 10:28; 22:7; Mar. 12:9; Luc. 17:27, 29; Juan 3:16; 10:28; 17:12; I Cor. 10:9-10; 2 Cor. 2:15; 4:3; 2 Tes. 2:10; at Judas 5, 11. Higit na tinutukoy ng salitang ito ang pampamahalaang kahatulan ng Diyos. Sa 3:9, ang salitang ito ay tumutukoy sa kaparusahan ng pampamahalaang disiplina ng Diyos. 2) Apoleia, katulad ng pinagmulan ng apollumi, nagpapahiwatig ng pagkawala (hindi nauugnay sa pag-iral kundi sa pagpapala at kaligayahan), pagkawasak, pagkapuksa, o pagkapahamak (sa pisikal, espirituwal, o walang hanggan). Ito ay ginamit para sa “pagkapuksa” sa 2:1 (nang dalawang ulit); 2:3; 3:7, 16. Ang parehong salita ay tumutukoy sa iba’t ibang resulta ng iba’t ibang mga paghahatol ng Diyos (tingnan ang tala 17-2, talata 2, sa I Ped. 1). Sa mga pangyayari na katulad noong mga nakalarawan sa 2:1, 3; 3:7; Juan 17:12; Roma 9:22; Fil. 1:28; 3:19; 2 Tes. 2:3; at Apoc. 17:8, 11, ito ay tumutukoy sa walang hanggang kapahamakan. Sa mga pangyayari na katulad ng mga inilalarawan sa 3:16 (tingnan ang tala 4 at Heb. 10:39, tala 2), ito ay tumutukoy sa kaparusahan ng pampamahalaang disiplina ng Diyos, hindi sa walang hanggang kapahamakan. Sa Mat. 7:13 at 1 Tim. 6:9, ito ay tumutukoy sa isang prinsipyo para sa anumang pangyayari. 3) Phthora, tumutukoy sa kasamaan sa ikapupuksa, ang pagpuksang dumarating na kasama ang kasamaan, pumupuksa sa pamamagitan ng kasamaan, ukol sa moralidad, kaluluwa, at katawan. Ito ay ginamit para sa “kabulukan” sa 1:4; 2:19, at para sa “paglilipol” sa 2:12; at ang pandiwang anyo nito, phtheiro, ay ginamit sa panghinaharap na pabalintiyak na tinig para sa “malilipol” sa 2:12, at sa pangkasalukuyang pabalintiyak na tinig para sa “nangagpapakasira” sa Judas 10. Ang kahulugan nito ay higit pang makikita sa Roma 8:21; 1 Cor. 3:17 at mga tala 1 at 2; 15:33; 2 Cor. 7:2; 11:3; Gal. 6:8; Apoc. 11:18; at 19:2."
+        },
+        {
+            "id": "2-1",
+            "text": "Lit. magsisisunod nang mahigpit."
+        },
+        {
+            "id": "2-2",
+            "text": "Yaon ay ang landas ng buhay-Kristiyano ayon sa katotohanan, na siyang realidad ng mga nilalaman ng Bagong Tipan (1 Tim. 2:4; 3:15; 4:3; 2 Tim. 2:15, 18; Tito 1:1). Ito ay tinawag ng ibang mga katawagan ayon sa iba’t ibang mga kagalingan, katulad ng matuwid na daan (b. 15 at tala; cf. Heb. 12:13), ang daan ng katuwiran (b. 21 at tala; Mat. 21:32), ang daan ng kapayapaan (Luc.1:79; Roma 3:17), ang daan ng kaligtasan (Gawa 16:17), ang daan ng Diyos (Mat. 22:16; Gawa 18:26), ang daan ng Panginoon (Juan 1:23; Gawa 18:25), at ang daan (Gawa 9:2; 19:9, 23; 22:4; 24:22). Ito ay siniraang-puri bilang ang daan ng erehiya (Gawa 24:14)."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang unang Sulat ay nagbigay-diin sa pampamahalaang paghahatol ng Diyos (1 Ped. 4:17-18). Ito ay ipinagpatuloy sa ikalawa. Sa ilalim ng pamahalaan ng Diyos, ang mga natisod na anghel ay nahuli at nakakulong para sa paghahatol (b. 4), at ang kapanahunan ng dilubyo at ang mga lunsod ng Sodoma at Gomorra ay pawang nahatulang lahat (bb. 5-9). Subali’t espesiyal na ilalapat ng Diyos ang maselang paghahatol sa mga erehe sa Bagong Tipan (b. 10). At ang lahat ng mga di-makadiyos ay hahatulan at pupuksain sa araw na ang langit at ang lupa ay masunog ng apoy (3:7). Dahil dito, ang Diyos ng katarungan at kabanalan ay nagsimula ng Kanyang pampamahalaang paghahatol sa Kanyang Sariling sambahayan—ang mga mananampalataya. Tingnan ang tala 17-2 , talata 2, sa 1 Pedro 1."
+        },
+        {
+            "id": "3-2",
+            "text": "Yaon ay, mula sa mga sinaunang panahon, kagaya ng inilarawan sa bb. 4-9."
+        },
+        {
+            "id": "3-3",
+            "text": "Tingnan ang tala 16, punto 2."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang mga natisod na anghel (tingnan ang mga tala 19-2 sa 1 Ped. 3 at 41 sa Apoc. 12), na mga naunang natisod sa sansinukob ayon sa pagkakasunud-sunod ng mga pangkasaysayang katotohanan na itinala sa kapitulong ito."
+        },
+        {
+            "id": "4-2",
+            "text": "Isang malalim at madilim na kalaliman, na kinapipiitan ng mga natisod na anghel, bilang isang kulungan. Tingnan ang tala 19-3 sa 1 Ped. 3."
+        },
+        {
+            "id": "4-3",
+            "text": "O, patungo."
+        },
+        {
+            "id": "4-4",
+            "text": "Ang paghuhukom sa dakilang araw (Jud. 6), na malamang na magiging ang paghahatol sa malaking puting trono, isasagawa sa lahat ng mga namatay, sa mga demonyo, at malamang sa mga natisod na anghel din (Apoc. 20:11-15). Lohikal para sa lahat ng mga anghel, demonyo, at taong nakisama kay Satanas sa kanyang pagrerebelde na mahatulan sa parehong panahon, sa parehong paraan, na may parehong resulta, kaagad-agad pagkatapos na mahatulan at maitapon ang kanilang masamang pinuno sa dagat-dagatang apoy (Apoc. 20:10). Sa dagat-dagatang apoy rin sila itatapon. Tingnan ang tala 17-2 , talata 2, sa 1 Pedro 1."
+        },
+        {
+            "id": "5-1",
+            "text": "Yaon ay, isa sa walo."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang maging matuwid at makadiyos o liko at di-makadiyos ay napakahalaga sa pampamahalaang paghahatol ng Diyos (bb. 5-9). Ang maging matuwid ay ang maging matuwid sa tao sa harapan ng Diyos, at ang maging makadiyos ay ang ihayag ang Diyos sa harapan ng tao. Ito ay ang kaparaanan ng buhay na ipinamuhay nina Noe at Lot, na nagsanhi sa kanilang maligtas mula sa pampamahalaang paghahatol ng Diyos ayon sa Kanyang katuwiran."
+        },
+        {
+            "id": "6-1",
+            "text": "O, pagbagsak."
+        },
+        {
+            "id": "6-2",
+            "text": "Yaon ay, ang mamuhay sa laman,sumusunod lamang sa mga pita ng mga tao, hind1 sa kalooban ng Diyos; ang isagawa ang naisin ng mga Hentil (1 Ped. 4:2-3) at ang mamuhay sa isang walang kabuluhan, di-makadiyos na pamumuhay (1 Ped. 1:18)."
+        },
+        {
+            "id": "7-1",
+            "text": "*Gr. kataponeo lit. naaapi."
+        },
+        {
+            "id": "7-2",
+            "text": "Tingnan ang tala 6-2 ."
+        },
+        {
+            "id": "7-3",
+            "text": "Yaon ay, walang prinsipyo sa salitang Griyego, naiibang salita na isinaling “laban sa kautusan” sa b. 8. Ang tiwali rito ay tumutukoy lalo na roon sa mga sumusuway sa kautusan ng kalikasan at budhi."
+        },
+        {
+            "id": "9-1",
+            "text": "Yaong mga katulad nina Noe at Lot (bb. 5, 7) na namuhay ng isang makadiyos na buhay na kabaligtaran ng isang pamumuhay na di-makadiyos (b. 6)."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang mga tao na namumuhay ng isang likong buhay, sa mahalay na kaparaanan ng mga liko, katulad ng yaong mga nasa kapanahunan ni Noe at yaong mga nasa Sodoma at Gomorra (bb. 5-7)."
+        },
+        {
+            "id": "9-3",
+            "text": "O, hanggang."
+        },
+        {
+            "id": "9-4",
+            "text": "Ang araw ng huling paghahatol sa malaking puting trono (tingnan ang mga tala 7-5 sa kap. 3, tala 4-4 sa kap. 2, at tala 6-4 sa Judas)."
+        },
+        {
+            "id": "9-5",
+            "text": "Tingnan ang tala 17-2 , talata 2, sa 1 Ped. 1."
+        },
+        {
+            "id": "10-1",
+            "text": "Mula rito hanggang sa katapusan ng kapitulo, ang paglalantad ay bumabalik sa mga bulaang guro at sa kanilang mga tagasunod, na inilantad sa bb. 1-3. Sa pampamahalaang pagtutuos ng Diyos, sila ay sadyang ipasasailalim sa kaparusahan para sa araw ng paghuhukom dahil sa sila ay nagsisilakad nang ayon sa laman, nagmamalabis sa nagpaparuming pita at nagpapasamâ ng luho para sa kalayawan, at humahamak sa pamahalaan ng Panginoon, nagrerebelde laban sa Kanyang awtoridad (bb. 10, 13-14, 18). Kaya, sila ay nagiging mga taong tulad ng mga sumusunod: 1) Mga hayop na walang bait (b. 12). 2) Mga dungis at kapintasan sa mga mananampalatayang kayamanan ng Diyos (b. 13). 3) Si Balaam, na tumalikod sa matuwid na daan para sa di-matuwid na kapakinabangan (b. 15). 4) Mga bukal na walang tubig at mga ulap na tinatangay ng unos (bb. 17-19). 5) Mga aso at mga babaeng baboy, na narurumihan kapwa sa panloob at panlabas (bb. 20-22)."
+        },
+        {
+            "id": "10-2",
+            "text": "Ito ay tumutukoy sa lahat ng may kapangyarihang mamahala, lalung-lalo na sa pagkapanginoon ni Kristo, na siyang sentro ng dibinong pamahalaan, kasakupan, at awtoridad (Gawa 2:36; Efe. 1:21; Col. 1:16)."
+        },
+        {
+            "id": "10-3",
+            "text": "Pansariling kaluguran, naghahanap ng kaluguran para sa sarili."
+        },
+        {
+            "id": "10-4",
+            "text": "Lit. mga kaluwalhatian, malamang na tumutukoy kapwa sa mga anghel at mga taong nasa kapangyarihan at awtoridad (b. 11; Jud. 9; Tito 3:1-2)."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang “mga anghel” at “sa kanila”, na tumutukoy sa mga may kapangyarihan sa b. 10, ay binanggit dito sa isang pangkalahatang paraan, subali’t sa Jud. 9, hinggil sa parehong pangyayari, ang arkanghel na si Miguel at ang Diyablo ay espesiyal na ibinukod."
+        },
+        {
+            "id": "11-2",
+            "text": "Ito ay ang panatilihin ang kaayusan ng awtoridad sa pamahalaan ng Diyos."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. mga buháy na nilikha (kabilang ang tao), tumutukoy na ang mga tao ay nabubuhay na katulad ng mga hayop."
+        },
+        {
+            "id": "12-2",
+            "text": "O, wala sa matuwid, walang kamalayan sa mga moral na paksa. Ang pinakamataas na kamalayan sa kalooban ng tao ay ang kanyang espiritu na may budhi bilang nangungunang bahagi nito. Pagkatapos ng pagkatisod ng tao, ang budhi ang namamahala sa tao sa ilalim ng pamahalaan ng Diyos. Ang ilan, dahil sa kanilang pagtatatwa sa Diyos at pagbitiw sa kamalayan ng kanilang sariling budhi (Roma 1:23-32), ay nawalan na ng pakiramdam (Efe. 4:19 at tala). Ang mga erehe noong unang siglo, katulad ng mga Saduceo sa sinaunang Hudaismo (Gawa 23:8) at ng mga Modernista sa Kritiyanidad ngayon, ay pawang kabilang sa kategoriyang ito. Itinatwa nila ang Panginoon sa sukdulan, kaya, ang kanilang budhi ay naherohan at nawalan ng kamalayan nito (1 Tim. 4:2 at tala 2), na tila ba sila ay ni walang espiritu (Jud. 10 cf. 19). Sa gayon, sila ay naging gaya ng mga hayop na walang katuwiran, ng mga nilikha na may katutubong gawi, likas na isinilang upang mabihag ni Satanas, ang mamumuksa ng tao, dahil sa kanilang masasamang pita, upang sila ay mapasamâ sa ikapupuksa. Isinalarawan dito ang natisod na tao upang ating makita na sila ay maaaring maging mga katulad ng mga hayop na walang bait."
+        },
+        {
+            "id": "12-3",
+            "text": "Lit. tungo sa, nangangahulugang sila ay itinalagang hulihin upang lipulin at maging mga alipin ng kasamaan (b. 19). Sa pamamagitan ng dibinong panlaan (1:3-4) natatanggap natin ang panustos ng buhay, sa gayon, tayo ay nakakatakas sa ganitong kasamaan na nagdadala ng pagkapuksa. Tingnan ang tala 16, punto 3."
+        },
+        {
+            "id": "12-4",
+            "text": "Ang mga salitang “lipulin” at “malilipol”, sa Griyego, ay katulad ng “pasamain” at “mapasamâ.”"
+        },
+        {
+            "id": "12-5",
+            "text": "Habang pinapasamâ nila ang iba, sila mismo sa kanilang sarili ay mapapasamâ rin."
+        },
+        {
+            "id": "13-1",
+            "text": "Sa ilang manuskrito ay nababasang, Tinatanggap ang kagantihan ng kalikuan."
+        },
+        {
+            "id": "13-2",
+            "text": "Yaon ay, hindi makatuwirang paggawa."
+        },
+        {
+            "id": "13-3",
+            "text": "Sa mga tunay na mananampalataya, na siyang kayamanan ng Diyos, ang mga ereheng nagpapalayaw sa pita ay katulad ng mga dungis at kapintasan sa mga mamahaling hiyas."
+        },
+        {
+            "id": "14-1",
+            "text": "O, may buong paningin ng isang mapakiapid na babae."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang matuwid na daan, katulad ng daan ng katotohanan (b. 2 at tala) at ng daan ng katuwiran (b. 21 at tala), ay ang ibuhay ang isang matapat na buhay na walang kalikuan at walang pagkiling, na walang kalikuan."
+        },
+        {
+            "id": "15-2",
+            "text": "Lit. mahigpit na sumusunod."
+        },
+        {
+            "id": "15-3",
+            "text": "Si Balaam ay isang tunay na propetang Hentil, hindi isang huwad na propeta, subali’t isa na umibig sa kabayaran ng gawang liko (Blg. 22:5, 7; Deut. 23:4; Neh. 13:2; Apoc. 2:14)."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit. hayop na nagpapasan ng bigat."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang mga natuyong ereheng guro ay mga bukal na walang tubig at mga ulap na tinangay ng unos, yaon ay, mga alapaap na walang tubig na tinatangay ng mga hangin (Jud. 12), na walang bagay ng buhay na makatutugon sa pangangailangan ng mga nauuhaw."
+        },
+        {
+            "id": "17-2",
+            "text": "Ito rin ay ang pampamahalaang pagtutuos ng Diyos."
+        },
+        {
+            "id": "18-1",
+            "text": "Katulad sa b. 2."
+        },
+        {
+            "id": "18-2",
+            "text": "O, umuugali, iginagawi ang kanilang mga sarili."
+        },
+        {
+            "id": "19-1",
+            "text": "Tingnan ang tala 16, punto 3."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang daan ng katuwiran ay ang mabuhay ng isang buhay na matuwid kapwa sa Diyos at tao; ito ay isa pang aspekto ng daan ng katotohanan (b. 2 at tala) at ng matuwid na daan (b. 15 at tala). Ito ay ang mabuhay ng isang buhay na ayon sa katarungan ng Diyos, isang daan na makakatahak sa Kanyang pampamahalaang paghahatol (bb. 3, 9) para sa Kanyang kaharian ng katuwiran (Roma 14:17; Mat. 5:20). Si Pedro, sa kanyang mga Sulat ay nagbibigay-diin kapwa sa paraan ng pamumuhay at sa daan ng buhay, sapagka’t ang kanyang mga isinulat ay batay sa pampamahalaang pananaw ng administrasyon ng Diyos. Upang maiangkop sa pamahalaan Niya na banal at matuwid, nangangailangan ang Kanyang bayan na mamuhay ng isang pamumuhay na banal, dalisay, mabuti, at mahusay (1 Ped. 1:15; 3:16, 2; 2:12; 2 Ped. 3:11), hindi mahalay at hindi walang kabuluhan (b. 7; 1 Ped. 1:18), sa Kanyang matuwid na daan ng katuwiran at katotohanan."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang mga aso at mga baboy ay maruruming hayop ayon sa mga ordinansang itinalaga ng kabanalan ng Diyos (Lev. 11:27, 7; Mat. 7:6 at tala 2). Ang mga aso ay sanay kumain ng maruruming bagay. Isinusuka nila ang kanilang kinakain at binabalikan ang kanilang sariling suka upang marumihan sa panloob. Ang mga baboy ay naglulubalob sa putik upang sila ay maging marumi sa panlabas. Sa kalaunan, ang mga ereheng nagtatatwa sa Diyos ay magiging katulad ng maruruming hayop na ito, ginagawang marumi ang kanilang sarili kapwa sa panloob at sa panlabas. (Anong tinding paghahatol ang kanilang tatanggapin ayon sa katuwiran ng Diyos sa Kanyang pampamahalaang administrasyon!) Kaya, sila ay lubhang nakakahawa. Ang pakikipag-ugnayan ng mga mananampalataya sa kanila ay ipinagbabawal (2 Juan 9-11)."
         }
     ]
 }

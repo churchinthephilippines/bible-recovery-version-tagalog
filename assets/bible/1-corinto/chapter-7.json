@@ -1,456 +1,586 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
-            "text": "Si Pablo, isang tinawag na apostol ni Kristo Hesus sa pamamagitan ng kalooban ng Diyos, at si Sostenes na kapatid,",
+            "text": "Ngayon tungkol sa mga bagay na isinulat ninyo sa akin; mabuti sa lalake ang huwag humipo sa babae;",
             "footnotes": [
                 {
-                    "word": "tinawag",
-                    "note": ""
-                },
-                {
-                    "word": "kalooban",
-                    "note": ""
-                },
-                {
-                    "word": "Sostenes",
-                    "note": ""
+                    "word": "mga",
+                    "id": "1-1"
                 }
             ],
             "outlines": [
-                "I. Pambungad—Ang mga Panimulang Kaloob",
-                "at ang Pakikibahagi kay Kristo\n 1:1-9"
+                "VI. Tinutuos ang ukol sa Buhay may-asawa\n 7:1-40",
+                "A. Hinggil sa Kaloob na Hindi Pag-aasawa\n bb. 1-7"
             ]
         },
         {
             "id": "2",
-            "text": "Sa ekklesia ng Diyos na nasa Corinto,  samakatuwid ay sa mga pinaging-banal kay Kristo Hesus, na tinawag na mga banal, kasama ang lahat ng mga nagsisitawag sa bawa’t dako sa pangalan ng ating Panginoong Hesu-Kristo, na kanila at atin:",
-            "footnotes": [
-                {
-                    "word": "ekklesia",
-                    "note": ""
-                },
-                {
-                    "word": "nasa",
-                    "note": ""
-                },
-                {
-                    "word": "sa",
-                    "note": ""
-                },
-                {
-                    "word": "pinaging-",
-                    "note": ""
-                },
-                {
-                    "word": "kay",
-                    "note": ""
-                },
-                {
-                    "word": "tinawag",
-                    "note": ""
-                },
-                {
-                    "word": "kasama",
-                    "note": ""
-                },
-                {
-                    "word": "nagsisitawag",
-                    "note": ""
-                },
-                {
-                    "word": "kanila",
-                    "note": ""
-                }
-            ],
+            "text": "Datapuwa’t dahil sa mga pakikiapid,  ang bawa’t lalake ay magkaroon ng kanyang sariling asawa, at ang bawa’t babae ay magkaroon ng kanyang sariling asawa.",
+            "footnotes": [],
             "outlines": null
         },
         {
             "id": "3",
-            "text": "Sumainyo nawa ang biyaya at kapayapaang mula sa Diyos na ating Ama at sa Panginoong Hesu-Kristo.",
+            "text": "Ibigay ng lalake sa asawa ang sa kanya ay nararapat, at gayundin naman ang babae sa asawa.",
             "footnotes": [],
             "outlines": null
         },
         {
             "id": "4",
-            "text": "Nagpapasalamat akong lagi sa Diyos tungkol sa inyo dahil sa biyaya ng Diyos na ipinagkaloob sa inyo sa loob ni Kristo Hesus,",
-            "footnotes": [
-                {
-                    "word": "dahil",
-                    "note": ""
-                }
-            ],
+            "text": "Ang babae ay walang awtoridad sa kanyang sariling katawan, kundi ang asawa; at gayundin naman ang lalake ay walang awtoridad sa kanyang sariling katawan, kundi ang asawa.",
+            "footnotes": [],
             "outlines": null
         },
         {
             "id": "5",
-            "text": "Na kayo ay pinayaman sa Kanya sa lahat ng mga bagay, sa lahat ng pananalita at sa lahat ng kaalaman,",
+            "text": "Huwag magpigil ang isa’t isa, maliban kung pagkasunduan sa ilang panahon, upang maituon ang inyong buong puso sa pananalangin, at pagkatapos, kayo ay magsamang muli, baka kayo ay tuksuhin ni Satanas dahil sa inyong kawalan ng pagpipigil sa sarili.",
             "footnotes": [
                 {
-                    "word": "pananalita",
-                    "note": ""
+                    "word": "maituon",
+                    "id": "5-1"
+                },
+                {
+                    "word": "Satanas",
+                    "id": "5-2"
+                },
+                {
+                    "word": "kawalan",
+                    "id": "5-3"
                 }
             ],
             "outlines": null
         },
         {
             "id": "6",
-            "text": "Gaya nang pinagtibay sa inyo ang patotoo ni Kristo,",
+            "text": "Nguni’t ito ay sinasabi ko na parang payo,  hindi utos.",
             "footnotes": [
                 {
-                    "word": "sa",
-                    "note": ""
+                    "word": "payo,",
+                    "id": "6-1"
                 },
                 {
-                    "word": "patotoo",
-                    "note": ""
+                    "word": "utos.",
+                    "id": "6-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "7",
-            "text": "Anupa’t kayo ay hindi nagkulang sa anumang kaloob,  na nagsisipaghintay ng paghahayag ng ating Panginoong Hesu-Kristo,",
+            "text": "Kaya’t ibig ko sana na ang lahat ng tao ay maging gaya ko; nguni’t ang bawa’t tao ay may kani-kaniyang kaloob mula sa Diyos, ang isa ay ayon sa paraang ito, at ang iba ay ayon sa paraang yaon.",
             "footnotes": [
                 {
-                    "word": "kaloob,",
-                    "note": ""
+                    "word": "ibig",
+                    "id": "7-1"
                 },
                 {
-                    "word": "paghahayag",
-                    "note": ""
+                    "word": "kaloob",
+                    "id": "7-2"
                 }
             ],
             "outlines": null
         },
         {
             "id": "8",
-            "text": "Na Siya namang magpapatibay sa inyo hanggang sa katapusan, upang huwag kayong mapag-wikaan sa kaarawan ng ating Panginoong Hesu-Kristo.",
+            "text": "Datapuwa’t sinasabi ko sa mga walang asawa at sa mga babaeng balo, Mabuti sa kanila kung sila ay magsipanatiling gaya ko;",
             "footnotes": [
                 {
-                    "word": "Siya",
-                    "note": ""
-                },
-                {
-                    "word": "magpapatibay",
-                    "note": ""
-                },
-                {
-                    "word": "kaarawan",
-                    "note": ""
+                    "word": "Mabuti",
+                    "id": "8-1"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "B. Hinggil sa mga Walang Asawa at mga Babaeng Balo\n bb. 8-9"
+            ]
         },
         {
             "id": "9",
-            "text": "Ang Diyos ay tapat,  na sa pamamagitan Niya ay tinawag kayo sa pakikisalamuha sa Kanyang Anak na si Hesu-Kristo na Panginoon natin.",
+            "text": "Nguni’t kung sila ay walang pagpipigil sa sarili ay magsipag-asawa sila; sapagka’t magaling ang mag-asawa kaysa mangagningas ang pita.",
             "footnotes": [
                 {
-                    "word": "Diyos",
-                    "note": ""
-                },
-                {
-                    "word": "pakikisalamuha",
-                    "note": ""
+                    "word": "pagpipigil",
+                    "id": "9-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "10",
-            "text": "Ngayon ay ipinamamanhik ko sa inyo, mga kapatid, sa pamamagitan ng pangalan ng ating Panginoong Hesu-Kristo, na kayong lahat ay mangagsalita ng isa lamang bagay, at huwag mangagkaroon sa inyo ng mga pagkakabaha-bahagi, kundi kayo ay mangagkatugma sa isa lamang kaisipan at isa lamang kuru-kuro.",
+            "text": "Datapuwa’t sa mga may-asawa ay aking ipinag-uutos, nguni’t hindi ako kundi ang Panginoon, na ang babae ay huwag humiwalay sa kanyang asawa,",
             "footnotes": [
                 {
-                    "word": "pangalan",
-                    "note": ""
+                    "word": "aking",
+                    "id": "10-1"
                 },
                 {
-                    "word": "mangagsalita",
-                    "note": ""
-                },
-                {
-                    "word": "pagkakabaha-",
-                    "note": ""
-                },
-                {
-                    "word": "mangagkatugma",
-                    "note": ""
-                },
-                {
-                    "word": "kuru-",
-                    "note": ""
+                    "word": "hindi",
+                    "id": "10-2"
                 }
             ],
             "outlines": [
-                "II. Tinutuos ang ukol sa Pagkakabaha-bahagi\n 1:10-4:21",
-                "A. Si Kristo at ang Kanyang Krus, ang Namumukod-tanging Kalutasan sa Lahat ng mga Suliranin sa loob ng Ekklesia\n 1:10-31",
-                "1. Si Kristo, Hindi Nabaha-bahagi\n bb. 10-17"
+                "C. Hinggil sa May-asawa\n bb. 10-16"
             ]
         },
         {
             "id": "11",
-            "text": "Sapagka’t ipinatalastas sa akin tungkol sa inyo, mga kapatid ko, ng mga kasambahay ni Cloe, na sa inyo ay may mga pagtatalu-talo.",
-            "footnotes": [],
+            "text": "(Datapuwa’t kung siya ay humiwalay, manatili siyang walang asawa, o kaya ay makipagkasundo sa kanyang asawa), at huwag hiwalayan ng lalake ang kanyang asawa.",
+            "footnotes": [
+                {
+                    "word": "manatili",
+                    "id": "11-1"
+                }
+            ],
             "outlines": null
         },
         {
             "id": "12",
-            "text": "Ibig ko ngang sabihin ito, na ang bawa’t isa sa inyo ay nagsasabi, Ako ay kay Pablo,  at ako ay kay Apolos,  at ako ay kay Cefas,  at ako ay kay Kristo.",
+            "text": "Datapuwa’t sa iba ay ako ang nagsasabi, hindi ang Panginoon, Kung ang sinumang kapatid na lalake ay may asawang hindi sumasampalataya, at kung kalooban niyang manirahang kasama niya, ay huwag niyang hiwalayan;",
             "footnotes": [
                 {
-                    "word": "Ako",
-                    "note": ""
-                },
-                {
                     "word": "ako",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "13",
-            "text": "Nababahagi ba si Kristo?  Ipinako ba sa krus si Pablo dahil sa inyo? O binautismuhan ba kayo tungo sa pangalan ni Pablo?",
-            "footnotes": [
-                {
-                    "word": "Kristo?",
-                    "note": ""
-                },
-                {
-                    "word": "Ipinako",
-                    "note": ""
-                }
-            ],
+            "text": "At ang babaeng may asawang hindi sumasampalataya, at kalooban niyang manirahang kasama niya, ay huwag niyang hiwalayan ang kanyang asawa.",
+            "footnotes": [],
             "outlines": null
         },
         {
             "id": "14",
-            "text": "Nagpapasalamat ako sa Diyos na hindi ko binautismuhan ang sinuman sa inyo maliban kina Crispo at Gayo,",
-            "footnotes": [],
+            "text": "Sapagka’t ang lalakeng hindi sumasampalataya ay napababanal sa pamamagitan ng kanyang asawa, at ang babaeng hindi sumasampalataya ay napababanal sa pamamagitan ng kapatid na lalake; kung hindi, ang inyong mga anak ay hindi malilinis, nguni’t ngayon sila ay mga banal.",
+            "footnotes": [
+                {
+                    "word": "napababanal",
+                    "id": "14-1"
+                }
+            ],
             "outlines": null
         },
         {
             "id": "15",
-            "text": "Upang walang makapagsabi na kayo ay binautismuhan tungo sa loob ng aking pangalan.",
-            "footnotes": [],
+            "text": "Gayunpaman kung humiwalay ang hindi sumasampalataya ay bayaan siyang humiwalay; ang kapatid na lalake o kapatid na babae ay hindi natatali sa mga ganitong bagay; kundi sa kapayapaan ay tinawag tayo ng Diyos.",
+            "footnotes": [
+                {
+                    "word": "hindi",
+                    "id": "15-1"
+                },
+                {
+                    "word": "kundi",
+                    "id": "15-2"
+                }
+            ],
             "outlines": null
         },
         {
             "id": "16",
-            "text": "At binautismuhan ko rin naman ang sambahayan ni Estefanas;  maliban sa kanila, hindi ko alam kung may nabautismuhan pa akong iba.",
-            "footnotes": [],
+            "text": "Sapagka’ t paano mo malalaman, O babae,  kung maililigtas mo ang iyong asawa? O paano mo malalaman, O lalake, kung maililigtas mo ang iyong asawa?",
+            "footnotes": [
+                {
+                    "word": "Sapagka’",
+                    "id": "16-1"
+                },
+                {
+                    "word": "paano",
+                    "id": "16-2"
+                }
+            ],
             "outlines": null
         },
         {
             "id": "17",
-            "text": "Sapagka’t hindi ako isinugo ni Kristo upang magbautismo, kundi upang magpahayag ng ebanghelyo, hindi sa pananalitang batay sa karunungan, upang ang krus ni Kristo ay hindi mawalan ng kabuluhan.",
+            "text": "Ayon nga lamang sa ipinamahagi ng Panginoon sa bawa’t isa, at ayon sa pagkatawag ng Diyos sa bawa’t isa, ay gayon siya lumakad. At gayon ang iniuutos ko sa loob ng lahat ng mga ekklesia.",
             "footnotes": [
                 {
-                    "word": "isinugo",
-                    "note": ""
-                },
-                {
-                    "word": "pananalitang",
-                    "note": ""
-                },
-                {
-                    "word": "krus",
-                    "note": ""
-                }
-            ],
-            "outlines": null
-        },
-        {
-            "id": "18",
-            "text": "Sapagka’t ang salita ng krus sa kanila na nangapapahamak ay kamangmangan,  nguni’t sa atin na nangaliligtas ito ay kapangyarihan ng Diyos.",
-            "footnotes": [
-                {
-                    "word": "salita",
-                    "note": ""
+                    "word": "Ayon",
+                    "id": "17-1"
                 }
             ],
             "outlines": [
-                "2. Si Kristong Ipinako sa Krus,",
-                "ang Kapangyarihan ng Diyos at ang Karunungan ng Diyos\n bb. 18-25"
+                "D. Nananatili sa Katayuan ng Pagkatawag\n bb. 17-24"
             ]
         },
         {
+            "id": "18",
+            "text": "Tinawag ba ang sinumang tao na tuli na? Huwag niyang alisin ito. Tinawag ba ang sinumang di-tuli? Huwag siyang magpatuli.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
             "id": "19",
-            "text": "Sapagka’t nasusulat, Sisirain Ko ang karunungan ng marurunong,  at gagawin Kong walang kabuluhan ang pagkaunawa ng may-maingat-na katalinuhan.",
+            "text": "Ang pagtutuli ay walang anuman, at ang di-pagtutuli ay walang anuman, kundi ang pagtupad sa mga utos ng Diyos.",
             "footnotes": [
                 {
-                    "word": "may-",
-                    "note": ""
+                    "word": "Ang",
+                    "id": "19-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "20",
-            "text": "Saan naroroon ang marunong?  Saan naroroon ang eskriba?  Saan naroroon ang debatista ng kapanahunang ito? Hindi ba ginawa ng Diyos na kamangmangan ang karunungan ng sanlibutan?",
-            "footnotes": [
-                {
-                    "word": "eskriba?",
-                    "note": ""
-                }
-            ],
+            "text": "Bayaan ang bawa’t isa na manatili roon sa pagkatawag na itinawag sa kanya.",
+            "footnotes": [],
             "outlines": null
         },
         {
             "id": "21",
-            "text": "Sapagka’t yamang, sa karunungan ng Diyos, hindi nakilala ng sanlibutan ang Diyos sa pamamagitan ng Kanyang karunungan, kinalugdan ng Diyos na iligtas ang mga nagsisipanampalataya sa pamamagitan ng kamangmangan ng pagpapahayag.",
+            "text": "Ikaw ba ay isang alipin nang ikaw ay tinawag? Huwag kang mag-alaala; bagkus,  kung ikaw ay maaring maging malaya,  gamitin ito sa halip.",
             "footnotes": [
                 {
-                    "word": "kinalugdan",
-                    "note": ""
+                    "word": "Huwag",
+                    "id": "21-1"
                 },
                 {
-                    "word": "pagpapahayag.",
-                    "note": ""
+                    "word": "bagkus,",
+                    "id": "21-2"
                 }
             ],
             "outlines": null
         },
         {
             "id": "22",
-            "text": "Yamang ang mga Hudyo nga ay nagsisihingi ng mga tanda,  at ang mga Griyego ay nagsisihanap ng karunungan,",
+            "text": "Sapagka’t ang tinawag sa Panginoon nang siya ay alipin ay malaya sa Panginoon; gayundin naman ang tinawag nang siya ay malaya ay alipin ni Kristo.",
             "footnotes": [
                 {
-                    "word": "tanda,",
-                    "note": ""
+                    "word": "malaya",
+                    "id": "22-1"
                 },
                 {
-                    "word": "karunungan,",
-                    "note": ""
+                    "word": "alipin",
+                    "id": "22-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "23",
-            "text": "Datapuwa’t ang aming ipinapahayag ay ang Kristo na naipako-sa-krus, na sa mga Hudyo ay katitisuran,  at sa mga Hentil ay kamangmangan,",
+            "text": "Kayo ay binili sa isang halaga;  huwag kayong maging mga alipin ng mga tao.",
             "footnotes": [
                 {
-                    "word": "naipako-",
-                    "note": ""
+                    "word": "halaga;",
+                    "id": "23-1"
+                },
+                {
+                    "word": "alipin",
+                    "id": "23-2"
                 }
             ],
             "outlines": null
         },
         {
             "id": "24",
-            "text": "Nguni’t sa kanila na mga tinawag,  maging mga Hudyo at mga Griyego, si Kristo ang kapangyarihan ng Diyos at ang karunungan ng Diyos.",
+            "text": "Mga kapatid, bayaan ang bawa’t isa na manatili sa Diyos sa kalagayang itinawag sa kanya.",
             "footnotes": [
                 {
-                    "word": "kanila",
-                    "note": ""
-                },
-                {
-                    "word": "kapangyarihan",
-                    "note": ""
+                    "word": "sa",
+                    "id": "24-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "25",
-            "text": "Sapagka’t ang kamangmangan ng Diyos ay higit na marunong kaysa sa mga tao, at ang kahinaan ng Diyos ay higit na malakas kaysa sa mga tao.",
+            "text": "Ngayon, tungkol sa mga birhen ay wala akong utos ng Panginoon, nguni’t ibinibigay ko ang aking kuru-kuro na tulad ng sa nagkamit ng awa ng Panginoon upang maging tapat.",
+            "footnotes": [
+                {
+                    "word": "utos",
+                    "id": "25-1"
+                },
+                {
+                    "word": "kuru-",
+                    "id": "25-1"
+                }
+            ],
+            "outlines": [
+                "E. Hinggil sa Pananatiling Birhen\n bb. 25-38"
+            ]
+        },
+        {
+            "id": "26",
+            "text": "Inaakala ko ngang mabuti ito dahil sa kasalukuyang kahirapan,  samakatuwid ay mabuti ngang ang tao ay manatiling ayon sa kanyang kalagayan.",
+            "footnotes": [
+                {
+                    "word": "kasalukuyang",
+                    "id": "26-1"
+                },
+                {
+                    "word": "kahirapan,",
+                    "id": "26-2"
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "27",
+            "text": "Natatali ka ba sa asawa? Huwag mong pagsikapang ikaw ay makakalag. Ikaw ba ay kalag sa asawa? Huwag kang humanap ng asawa.",
             "footnotes": [],
             "outlines": null
         },
         {
-            "id": "26",
-            "text": "Sapagka’t masdan ninyo ang inyong pagkatawag, mga kapatid, na hindi ang maraming marurunong ayon sa laman, hindi ang maraming makapangyarihan, hindi ang maraming mahal na tao ang mga tinawag.",
-            "footnotes": [
-                {
-                    "word": "mahal",
-                    "note": ""
-                }
-            ],
-            "outlines": [
-                "3. Si Kristo, Ating Karunungan:",
-                "Katuwiran, Pagpapabanal, at Katubusan\n bb. 26-31"
-            ]
-        },
-        {
-            "id": "27",
-            "text": "Kundi pinili ng Diyos ang mga mangmang ng sanlibutan upang hiyain Niya ang marurunong, at pinili ng Diyos ang mahihina ng sanlibutan upang hiyain Niya ang malalakas,",
-            "footnotes": [
-                {
-                    "word": "pinili",
-                    "note": ""
-                }
-            ],
-            "outlines": null
-        },
-        {
             "id": "28",
-            "text": "At ang mabababang tao ng sanlibutan at ang mga hamak ang pinili ng Diyos, ang mga bagay na walang halaga, upang Kanyang maiuwi sa wala ang mga bagay na mahahalaga,",
+            "text": "Nguni’t kung ikaw ay mag-aasawa, hindi ka nagkakasala; at kung ang isang dalaga ay mag-aasawa, hindi siya nagkakasala; datapuwa’t ang mga gayon ay magkakaroon ng kahirapan sa laman, at ibig ko sanang kayo ay iligtas.",
             "footnotes": [
                 {
-                    "word": "mabababang",
-                    "note": ""
-                },
-                {
-                    "word": "hamak",
-                    "note": ""
-                },
-                {
-                    "word": "bagay",
-                    "note": ""
-                },
-                {
-                    "word": "walang",
-                    "note": ""
-                },
-                {
-                    "word": "maiuwi",
-                    "note": ""
-                },
-                {
-                    "word": "bagay",
-                    "note": ""
+                    "word": "ikaw",
+                    "id": "28-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "29",
-            "text": "Upang ang lahat ng sa laman ay hindi makapagmapuri sa harapan ng Diyos.",
+            "text": "Nguni’t sinasabi ko ito, mga kapatid, ang panahon ay pinaikli,  upang mula ngayon ang mga lalakeng may asawa ay maging mga tulad sa wala,",
             "footnotes": [
                 {
-                    "word": "Upang",
-                    "note": ""
+                    "word": "pinaikli,",
+                    "id": "29-1"
                 }
             ],
             "outlines": null
         },
         {
             "id": "30",
-            "text": "Datapuwa’ t sa Kanya kayo ay nangasa kay Kristo Hesus, na sa atin ay naging karunungang mula sa Diyos: katuwiran at pagpapabanal at katubusan;",
+            "text": "At ang mga nagsisiiyak ay maging tulad sa mga hindi nagsisiiyak, at ang nangagagalak ay maging tulad sa hindi nangagagalak, at ang mga nagsisibili ay maging tulad sa mga walang inaari.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "31",
+            "text": "At ang mga nagsisigamit ng sanlibutan ay maging tulad sa hindi nangagpapakalabis ng paggamit; sapagka’t ang panlabas na anyo ng sanlibutang ito ay lumilipas.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "32",
+            "text": "Datapuwa’t ang ibig ko ay mawalan kayo ng kabalisahan.  Ang walang asawa ay nagsusumakit sa mga bagay ng Panginoon, kung paanong makalulugod sa Panginoon;",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "33",
+            "text": "Nguni’t ang may asawa ay nagsusumakit sa mga bagay ng sanlibutan, kung paanong makalulugod sa kanyang asawa, at nagagambala.",
             "footnotes": [
                 {
-                    "word": "Datapuwa’",
-                    "note": ""
-                },
-                {
-                    "word": "Kanya",
-                    "note": ""
-                },
-                {
-                    "word": "katuwiran",
-                    "note": ""
+                    "word": "nagagambala.",
+                    "id": "33-1"
                 }
             ],
             "outlines": null
         },
         {
-            "id": "31",
-            "text": "Na ayon sa nasusulat, Ang nagmamapuri ay hayaang magmapuri sa Panginoon.",
+            "id": "34",
+            "text": "Gayundin naman ang babaeng walang asawa at ang dalaga ay nagsususmakit sa mga bagay ng Panginoon, upang siya ay maging banal kapwa sa katawan at sa espiritu; nguni’t ang babaeng may asawa ay nagsusumakit sa mga bagay ng sanlibutan, kung paanong makalulugod sa kanyang asawa.",
             "footnotes": [],
             "outlines": null
+        },
+        {
+            "id": "35",
+            "text": "At ito ay sinasabi ko para sa inyong sariling kapakinabangan hindi upang kayo ay siluin,  kundi dahil sa bagay na nararapat, at upang kayo ay makapaglingkod sa Panginoon nang walang abala.",
+            "footnotes": [
+                {
+                    "word": "siluin,",
+                    "id": "35-1"
+                }
+            ],
+            "outlines": null
+        },
+        {
+            "id": "36",
+            "text": "Nguni’t kung iniisip ng sinumang lalake na hindi siya gumagawa ng marapat sa kanyang anak na dalaga, kung ito ay sumapit na sa kanyang maibigan, hindi siya nagkakasala; bayaang mangag-asawa sila.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "37",
+            "text": "Subali’t ang nananatiling matibay sa kanyang puso, na walang kailangan, kundi may awtoridad tungkol sa kanyang sariling kalooban, at nagpasiya sa kanyang sariling puso na ingatan ang kanyang sariling anak na dalaga, ay mabuti ang gagawin.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "38",
+            "text": "Kaya nga ang nagpapahintulot sa kanyang anak na dalaga na mag-asawa ay gumagawa ng mabuti at ang hindi nagpapahintulot na siya ay mag-asawa ay gumagawa ng lalong mabuti.",
+            "footnotes": [],
+            "outlines": null
+        },
+        {
+            "id": "39",
+            "text": "Ang babaeng may-asawa ay natatalian samantalang nabubuhay ang kanyang asawa; nguni’t kung patay na ang kanyang asawa ay may kalayaan siyang makapag-asawa sa kanino mang ibig niya, lamang ay, sa loob ng Panginoon.",
+            "footnotes": [
+                {
+                    "word": "patay",
+                    "id": "39-1"
+                }
+            ],
+            "outlines": [
+                "F. Hinggil sa Muling Pag-aasawa\n bb. 39-40"
+            ]
+        },
+        {
+            "id": "40",
+            "text": "Nguni’t lalong pinagpala siya kung manatili ng ayon sa kanyang kalagayan, ayon sa aking kuru-kuro; subali’t iniisip ko na ako ay may Espiritu rin naman ng Diyos.",
+            "footnotes": [
+                {
+                    "word": "pinagpala",
+                    "id": "40-1"
+                },
+                {
+                    "word": "may",
+                    "id": "40-2"
+                }
+            ],
+            "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang ikalimang suliranin sa Sulat na ito ay tinutuos dito ang bagay ukol sa pag-aasawa. Ito ay tinutuos ayon sa mga prinsipyong itinatag sa naunang bahagi (6:12-20)."
+        },
+        {
+            "id": "5-1",
+            "text": "Lit. magkaroon ng panahon, maging malaya; ang maibigay ang sarili. Ang panalangin ay humihiling na tayo ay maging malaya sa mga tao, mga pangyayari, at mga bagay. Ang panalangin na humihiling ng pansamantalang paglayo sa asawa ay natatangi at mabigat."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang manunukso, si Satanas, ay gumagapang upang bihagin ang mga mananampalataya."
+        },
+        {
+            "id": "5-3",
+            "text": "O, kapusukan. Ang gayunding salitang Griyego ay isinaling pagpapakalayaw-sa-sarili sa Mat. 23:25."
+        },
+        {
+            "id": "6-1",
+            "text": "Ito ay nagpapahiwatig na ang apostol sa kanyang pagtuturo ay may awtoridad na magbigay ng mga pag-uutos sa mga mananampalataya."
+        },
+        {
+            "id": "7-1",
+            "text": "Yamang ang apostol ay napakaganap para sa Panginoon at sa Kanyang ekonomiya, hinahangad niya na ang lahat ng tao ay maging katulad niya na hindi nag-asawa (b. 8) upang sila ay maging ganap din para sa kapakanan ng Panginoon nang walang anumang hadlang (b. 33).Sa paghahangad na ito, ipinahahayag niya ang naisin ng Panginoon hinggil sa Kanyang mga tinawag."
+        },
+        {
+            "id": "7-2",
+            "text": "Para sa isang mananampalataya ni Kristo na hindi makapag-asawa ay isang kaloob mula sa Diyos (Mat. 19:10-12). Ang sinumang hindi nakatanggap ng ganitong kaloob ay higit na makabubuting mag-asawa (b. 9)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ito ang hangarin at kuru-kuro ng apostol sa kanyang naunang ministeryo (bb. 7, 25, 40).Sa huli, nang masaksihan ang tunay na kinalabasan, inatasan niya ang mga batang biyuda na mag-asawa (1 Tim. 5:11-15 at tala 14-1 doon)."
+        },
+        {
+            "id": "9-1",
+            "text": "O, pagkamahinahon. Ang gayunding salitang Griyego ay ginamit sa 9:25 ng mga manlalaro na nagpipigil mula sa mga kalayawan ng katawan habang naghahanda para sa mga laro."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang prinsipyo ng Lumang Tipan ukol sa pagsasalita para sa Diyos (pagpopropesiya) ay “Gayon ang sinasabi ng Panginoon” (Isa. 10:24; 50:1; Jer. 2:2; Ezek. 2:4).Subali’t ang prinsipyo ng pagkakatawang-tao sa Bagong Tipan ay, “Aking (ang tagapagsalita) ipinag-uutos.” Ang tagapagsalita at ang Panginoon ay magkaisa. Kaya, sinasabi rin niya, “hindi ako kundi ang Panginoon.” Ang salitang Griyego na “ipinag-uutos” ay maisalin ding ipinagtatagubilin o iniaatas."
+        },
+        {
+            "id": "10-2",
+            "text": "Ito ay nagpapakita ng dalawang bagay: 1) ang apostol ay kaisa ng Panginoon; kaya, ang kanyang iniuutos, ay ang iniuutos ng Panginoon; 2) ang kanyang mga pag-uutos ay ang mga pag-uutos ng Panginoon. Iniutos ng Panginoon sa Mat. 5:31-32 at 19:3-9 ang ipinag-uutos ni Pablo rito. Ang paghihiwalay o diborsiyo ay lubusang hindi pinahihintulutan ng Panginoon."
+        },
+        {
+            "id": "11-1",
+            "text": "Maging hiwalay o diborsiyado ang isang tao, siya ay dapat na manatiling hindi nag-aasawa, bagkus ay umaasa at naghihintay ng pagkakasundo."
+        },
+        {
+            "id": "12-1",
+            "text": "Muli ito ay nababatay sa prinsipyo ng pagkakatawang-tao sa Bagong Tipan. Bagama’t kasunod niyang sinasabi na “hindi ang Panginoon,” anuman ang kanyang sinasabi sa mga sumusunod na bersikulo ay bahagi ng dibinong pahayag ng Bagong Tipan. Ito ay ang kanyang kuru-kuro sa loob ng Panginoon, hindi ang pag-uutos ng Panginoon, gayunpaman ito ay naghahayag pa rin ng kaisipan ng Panginoon."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang mapabanal ay ang magawang banal, maihiwalay tungo sa Diyos para sa Kanyang layunin. Sapagka’t ang nananampalatayang asawang babae ay sa Panginoon at para sa Panginoon, ang hindi nananampalatayang asawang lalake ay nagawang banal, naihiwalay, naibukod tungo sa Diyos, dahil sa siya ay para sa kanyang asawa na ukol at para sa Diyos. Ito ay katulad ng templo at ng dambana na nagpapabanal sa mga karaniwang bagay kapag ang mga bagay na yaon ay naiugnay na sa mga ito (Mat. 23:17, 19). Ang parehong prinsipyo ay ginagamit sa mga di-mananampalatayang asawang babae at mga anak. Ang mapabanal sa ganitong paraan ay hindi nangangahulugang ang taong yaon ay ligtas, katulad ng kung paanong ang pagpapabanal sa pagkain sa pamamagitan ng panalangin ng mga banal ay walang kinalaman sa kaligtasan (1 Tim. 4:5). Ang naligtas na tao ay taong pinabanal at banal. Ang sinumang nakaugpong sa kanya o para sa kanya ay mapababanal nang dahil sa kanya."
+        },
+        {
+            "id": "15-1",
+            "text": "Lit. hindi naaalipin. Hindi napasasailalim sa pagkagapos, kundi napalaya sa tali ng pag-aasawa ang isang mananampalataya sa isang di-mananampalataya, kapag iniwanan ng di-mananampalataya ang mananampalataya."
+        },
+        {
+            "id": "15-2",
+            "text": "Tinawag tayo ng Diyos sa Kanyang pagliligtas tungo sa Kanya sa kinasasakupan at elemento ng kapayapaan. Kaya, tayo ay dapat na mamuhay sa ganitong kapayapaan. Kung ang kabiyak na di-mananampalataya ay magnais na lumisan, dapat natin siyang pahintulutan. Ito ay upang tayo ay makapamuhay sa kapayapaan kung saan tayo ay tinawag ng Diyos.Hindi ibig ng Diyos na tayo ay magsimula ng paggawa ng anumang ikahihiwalay habang ang kabilang panig ay sumasang-ayon na manatili (b. 13). Ang mga sumusunod na bersikulo (hanggang b. 24) ay batay rito, na tayo ay tinawag ng Diyos sa kapayapaan."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang “sapagka’t” ay nagpapakita na ang mga bersikulo 16-24 ay isang pagpapaliwanag ng naunang salita, na tinawag tayo ng Diyos sa kapayapaan. Upang manatili sa kapayapaang ito, kinakailangan nating tuparin ang salita sa mga bersikulo 16-24."
+        },
+        {
+            "id": "16-2",
+            "text": "Yamang hindi natin nalalaman kung maliligtas ang ating di-mananampalatayang asawang lalake o babae, hindi natin dapat igiit na sila ay manatili sa atin o sila ay lumisan. Nais ng Diyos na tayo ay mamalagi sa katayuan kung saan Niya tayo tinawag (bb. 20, 24), hindi ang mag-umpisa ng anumang pagbabago. Samakatuwid, dapat nating iwanan ang buong bagay sa di-nananampalatayang panig."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang salitang ito ay malakas na nag-aatas sa atin na manatili sa kalagayang may-asawa na kung saan tayo ay tinawag ng Diyos (bb. 20, 24)."
+        },
+        {
+            "id": "19-1",
+            "text": "Kapwa ang pagtutuli at di-pagtutuli ay mga panlabas na bagay at hindi mahalaga sa katunayan; tanging ang pagtupad sa mga utos ng Diyos ang pinakikinabangan (Gal. 5:6; 6:15; Rom. 2:25-29)."
+        },
+        {
+            "id": "21-1",
+            "text": "Huwag pansinin ito, huwag kayong mabagabag nito. Ang mananampalataya ay may Panginoon bilang kanyang sapat na biyaya (II Cor. 12:9) kaya hindi na dapat mabagabag ng anumang bagay."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang “bagkus” dito ay nagdurugtong sa “Huwag kang mag-alaala” at “gamitin ito sa halip”. Ito ay nangangahulugang ang isang aliping tinawag ng Panginoon ay hindi dapat mag-alaala sa kanyang pagkaalipin, bagkus ay gamitin ito, yaon ay, ang manatili rito na kasama ang Diyos (b. 24) para sa kaluwalhatian ng Diyos. Kahit na siya ay maaring maging malaya, mamatamisin pa niyang manatili sa kanyang pagka-alipin. Ito ay tumutugma sa pangunahing kaisipan ng pagtatagubilin ng apostol, katulad ng maliwanag na paghahayag sa mga bersikulo 20 at 24. Gayunpaman ang huling bahagi ng bersikulo ay maaring isalin na “kung ikaw ay magiging malaya, gamitin mo rin ang kalayaang ito.” Ang binibigyang-diin ng apostol sa seksiyong ito ng Kasulatan ay: hindi dapat maimpluwensiyahan ang isang mananampalataya ng kanyang katayuan sa panlabas. Kung siya man ay manatili sa pagkaalipin o mapalaya ay pawang mainam basta kasama niya ang Diyos."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang pagtawag ng Panginoon ay hindi nagpapabago sa panlabas na katayuan ng Kanyang mga mananampalataya, subali’t ito ay nagpapabago sa kanilang panloob na realidad; ang isang alipin sa panlabas ay napababago tungo sa pagiging isang malayang tao sa panloob; ang isang malayang tao sa panlabas ay napababago tungo sa pagiging isang alipin sa panloob."
+        },
+        {
+            "id": "23-1",
+            "text": "Tingnan ang tala 20-1 sa kap. 6."
+        },
+        {
+            "id": "23-2",
+            "text": "Sa panloob ang mga mananampalataya ay dapat na maging mga alipin lamang ni Kristo, hindi sila dapat maging mga alipin ng mga tao."
+        },
+        {
+            "id": "24-1",
+            "text": "Pagkatapos na matawag, ang mga mananampalataya ay hindi na kinakailangang magbago ng kanilang panlabas na katayuan, subali’t kinakailangan nilang magkaroon ng pagbabago sa kanilang panloob na kalagayan, yaon ay, mula sa pagiging walang Diyos tungo sa pagiging may Diyos, upang maging kaisa ng Diyos at taglayin ang Diyos kasama nila sa kanilang kalagayan anuman ito."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang isang asawang babae ay hindi dapat na maihiwalay sa kanyang asawa. Sinasabi ng apostol na ito ay utos ng Panginoon (b. 10). Subali’t hinggil sa hindi pag-aasawa ng mga birhen, siya ay nagsasabi na wala siyang utos ng Panginoon, subali’t siya ay nagbibigay ng kanyang kuru-kuro sa mga sumusunod na bersikulo. Siya ay nangangahas na gawin ito dahil siya ay nakatanggap ng awa sa Panginoon upang maging tapat para sa kapakanan ng Panginoon, at siya ay tunay na kaisa ng Panginoon. Ang kanyang kuru-kuro ay nagpapahayag ng naisin ng Panginoon. Ito ay muling nababatay sa prinsipyo ng pagiging-laman-ng-Salita sa Bagong Tipan."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang salitang Griyego para sa “kasalukuyan” ay maaaring mangahulugang ang pagkakaroon ng ilang bagay ay nagbababala at nagsisimula ng isang bagay na darating. Ang kasalukuyang pangangailangan o kahirapan ay nagsasaad ng higit pang hapis na darating, gaya ng ipinropesiya ng Panginoon sa Mat. 24:8, 19, 21."
+        },
+        {
+            "id": "26-2",
+            "text": "O, kagipitan, limitasyon; kaya, kahirapan, kahapisan. Ito ay tumutukoy sa pangangailangan ng buhay sa kasalukuyang panahon, ang pangangailangan na pumipilit at gumigipit sa mga tao at nagiging kahirapan at kahapisan sa kanila. Tingnan ang tala 10-3 sa II Corinto 12."
+        },
+        {
+            "id": "28-1",
+            "text": "Tumutukoy sa lalake."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang kaisipang ito ng apostol na ang kanyang panahon ay pinaikli ay dahil sa katotohanang ang mahabang panahon sa pagitan ng huling bahagi ng unang siglo at ang ikalawang pagdating ni Kristo ay hindi inihayag sa mga naunang apostol (Mat. 24:36). Inasahan nilang ang Panginoon ay magbabalik sa kanilang henerasyon."
+        },
+        {
+            "id": "33-1",
+            "text": "Lit. nahahati. Ang isang lalake na nagbibigay-lugod sa kanyang asawa ay naaabala, nahahati mula sa mga bagay ng Panginoon (b. 35)."
+        },
+        {
+            "id": "35-1",
+            "text": "Yaon ay, siluin sa isang patibong, pilitin kayong sundin ang aking salita."
+        },
+        {
+            "id": "39-1",
+            "text": "Lit. natulog."
+        },
+        {
+            "id": "40-1",
+            "text": "Tingnan ang tala 8-1 ."
+        },
+        {
+            "id": "40-2",
+            "text": "Sa bersikulo 10 sinasabi ng apostol, “aking ipinag-uutos, nguni’t hindi ako kundi ang Panginoon.” Sa bersikulo 12 kanyang sinasabi, “ako ang nagsasabi, hindi ang Panginoon.” Sa bersikulo 25 kanyang sinasabi, “wala akong utos ng Panginoon, nguni’t ibinibigay ko ang aking kuru-kuro.” Dito kanyang sinasabi, “ayon sa aking kuru-kuro; subali’t iniisip ko na ako ay may Espiritu rin naman ng Diyos.” Ang lahat ng salitang ito ay nagpapakita ng prinsipyo ng pagiging-laman-ng-Salita (yaon ay, ang Diyos at tao, ang tao at ang Diyos ay magkaisa) sa Bagong Tipan. Ito ay lubusang naiiba sa prinsipyo ng pagpopropesiya (pagsasalita para sa Diyos) sa Lumang Tipan. Sa Lumang Tipan ang salita ni Jehovah ay dumadapo sa isang propeta (Jer. 1:2; Ezek. 1:3), ang propeta ay bibig lamang ng Diyos. Subalit sa Bagong Tipan ang Panginoon ay naging kaisa ng Kanyang mga apostol, at sila ay naging kaisa Niya; sa gayon, sila ay nagsasalita nang magkasama. Ang Kanyang salita ay nagiging ang kanilang salita, at anuman ang kanilang bigkasin ay pawang Kanyang salita. Sa gayon, ang utos ng apostol ay ang utos ng Panginoon (b. 10). Kung ano ang kanyang sabihin, bagama’t hindi Panginoon ang nagsasabi, ay nagiging bahagi pa rin ng dibinong pahayag sa Bagong Tipan (b. 12). Ang kanyang pakikipagkaisa sa Panginoon ay ganap na ganap na humahantong sa kalagayan na kahit na nagbibigay siya ng kanyang sariling kuru-kuro, na hindi utos ng Panginoon (b. 25), iniisip pa rin niya na siya rin naman ay may Espiritu ng Diyos. Hindi niya inaangkin nang tiyakan ang pagkakaroon ng Espiritu ng Diyos, kundi kanyang iniisip na siya rin naman ay may Espiritu ng Diyos. Ito ang pinakamataas na pagiging espirituwal, ito ay batay sa prinsipyo ng pagiging-laman-ng-Salita."
         }
     ]
 }

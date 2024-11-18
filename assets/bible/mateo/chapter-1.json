@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "Hesu-",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Kristo,",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -33,23 +33,23 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "Isaac;",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "Jacob;",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "Juda",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "kapatid",
-                    "note": ""
+                    "id": "2-5"
                 }
             ],
             "outlines": null
@@ -60,11 +60,11 @@
             "footnotes": [
                 {
                     "word": "Tamar",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "Fares",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -81,19 +81,19 @@
             "footnotes": [
                 {
                     "word": "Rahab",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Booz",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "Ruth",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "Jesse;",
-                    "note": ""
+                    "id": "5-4"
                 }
             ],
             "outlines": null
@@ -104,19 +104,19 @@
             "footnotes": [
                 {
                     "word": "David",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "hari;",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "Salomon",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "asawa",
-                    "note": ""
+                    "id": "6-4"
                 }
             ],
             "outlines": null
@@ -127,7 +127,7 @@
             "footnotes": [
                 {
                     "word": "Rehoboam;",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -138,7 +138,7 @@
             "footnotes": [
                 {
                     "word": "Joram",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -161,19 +161,19 @@
             "footnotes": [
                 {
                     "word": "Josias",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "Jeconias",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "pagkakadalang-",
-                    "note": ""
+                    "id": "11-4"
                 }
             ],
             "outlines": null
@@ -184,11 +184,11 @@
             "footnotes": [
                 {
                     "word": "pagkakadalang-",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "Zorobabel;",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -217,19 +217,19 @@
             "footnotes": [
                 {
                     "word": "Jacob",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "Jose",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "Maria,",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "Kristo.",
-                    "note": ""
+                    "id": "16-4"
                 }
             ],
             "outlines": null
@@ -240,19 +240,19 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -263,11 +263,11 @@
             "footnotes": [
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": [
@@ -280,26 +280,26 @@
             "footnotes": [
                 {
                     "word": "matuwid",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "paalisin",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
         },
         {
             "id": "20",
-            "text": "Subali’t samantalang iniisip niya ang mga bagay na ito, narito, isang anghel ng Panginoon ang nagpakita sa kanya sa panaginip,  na nagsasabi, Jose, anak ni David, huwag kang mangambang tanggapin si Maria bilang iyong asawa, sapagka’t ang yaon na ipinanganak sa kanya ay sa Espiritu Santo.",
+            "text": "Subali’t samantalang iniisip niya ang mga bagay na ito, narito, isang anghel ng Panginoon ang nagpakita sa kanya sa panaginip,  na nagsasabi, Jose, anak ni David, huwag kang mangambang tanggapin si Maria bilang iyong asawa, sapagka’t ang yaon na ipinanganak sa kanya ay sa cEspiritu Santo.",
             "footnotes": [
                 {
                     "word": "ipinanganak",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -310,7 +310,7 @@
             "footnotes": [
                 {
                     "word": "Hesus",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -321,7 +321,7 @@
             "footnotes": [
                 {
                     "word": "propeta",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -332,15 +332,15 @@
             "footnotes": [
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "Emmanuel",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "sumasaatin",
-                    "note": ""
+                    "id": "23-3"
                 }
             ],
             "outlines": null
@@ -357,10 +357,200 @@
             "footnotes": [
                 {
                     "word": "nagsilang",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang una at huling pangalang binanggit sa Bagong Tipan (Apoc. 22:21) ay Hesus. Pinatutunayan nito na si Hesu-Kristo ang paksa ng Bagong Tipan, gayundin ang nilalaman ng Bagong Tipan."
+        },
+        {
+            "id": "1-2",
+            "text": "Sa talaangkanan ni Hesus na ibinigay ni Lucas, sa pagpapatunay na Siya ay isang wastong tao, ang titulong “Kristo” ay hindi binanggit (Luc. 3:23-38). subali’t sa talaangkanan ni Kristo na ibinigay rito ni Mateo, sa pagpapatunay na Siya ang Hari, ang Kristo ng Diyos, ang titulong Kristo ay binigyang-diin nang paulit-ulit (bb. 1, 16-17)."
+        },
+        {
+            "id": "1-3",
+            "text": "Si Salomon ay ang sagisag ni Kristo bilang “ang Anak ni David,” minamana ang trono at kaharian ni David (2 Sam. 7:12-13; Luc. 1:32-33). Si Salomon bilang sagisag ni Kristo ay gumawa ng dalawang pangunahing bagay: itinayo ang templo ng Diyos sa kaharian (1 Hari 6:2), at sinalita ang salita ng karunungan (1 Hari 10:23-24; Mat. 12:42). Sa pagsasakatuparan ni Kristo ng sagisag na ito, sinalita Niya ang salita ng karunungan at ngayon ay itinatayo ang ekklesia, ang tunay na templo ng Diyos, sa kaharian ng Diyos."
+        },
+        {
+            "id": "1-4",
+            "text": "Si Isaac ay sagisag ni Kristo bilang “ang Anak ni Abraham,” minamana ang pangako at pagpapala ng Diyos kay Abraham (Gen. 22:17-18; Gal. 3:16, 14). Si Isaac, bilang sagisag ni Kristo, ay gumawa rin ng dalawang pangunahing bagay: sumunod sa kanyang ama maging hanggang kamatayan at nabuhay-namuli mula sa kamatayan (Gen. 22:9-10; Heb. 11:19), at nag-asawa sa isang babaeng Hentil na si Rebecca (Gen. 24:61-67). Si Kristo, sa pagsasakatuparan ng sagisag na ito, ay inilagay sa kamatayan at inialay sa Diyos at nabuhay na muli, at kinukuha mula sa mga Hentil ang ekklesia bilang Kanyang Kasintahang Babae."
+        },
+        {
+            "id": "2-1",
+            "text": "*Gr. Gennao, Lit. nag-anak, o inanak. Kaya sa literal ang bersikulong ito ay maaaring basahing: Si Abraham ay nag-anak kay Isaac, atbp. gayundin ang lahat ng bersikulong may pariralang “ang ama ni” at “naging anak ni” katulad sa b. 3. Kaya ang bersikulo 3 ay maaaring basahing: At inanak ni Juda kay Tamar sina Fares at Zara; at si Fares ang nag-anak kay Hesron, at si Hesron ang nag-anak kay Aram."
+        },
+        {
+            "id": "2-2",
+            "text": "Walo ang naging anak ni Abraham (Gen. 16:15; 21:2-3; 25:2). Sa walong ito, tanging si “Isaac” lamang ang ibinilang bilang ang ipinangakong binhi (Roma 9:7-8). Kaya nga, si Kristo ay kanyang inapo upang isakatuparan ang pangako ng Diyos na ibinigay kay Abraham at sa kanya (Gen. 22:18; 26:4)."
+        },
+        {
+            "id": "2-3",
+            "text": "Kambal na anak na lalake ang naging anak ni Isaac, sina Esau at Jacob (Gen. 25:21-26), subali’t tangi lamang si “Jacob” ang hinirang ng Diyos (Roma 9:10-13). Kaya nga, si Kristo ay kanyang inapo upang isakatuparan ang pangako ng Diyos na ibinigay kay Abraham, Isaac, at sa kanya (Gen. 22:18; 26:4; 28:14)."
+        },
+        {
+            "id": "2-4",
+            "text": "Ang pagkapanganay ng ipinangakong binhi ay kinapapalooban ng dobleng bahagi ng lupa, ng pagkasaserdote, at ng pagkahari. Minana sana ni Ruben, bilang ang panganay na anak ni Jacob, ang pagkapanganay; subali’t, dahil sa kanyang karumihan, naiwala niya ang pagkapanganay (Gen. 49:3-4; 1 Cron. 5:1-2). Ang dobleng bahagi ng lupa ay napunta kay Jose sa pamamagitan ng kanyang dalawang anak na lalake, sina Manases at Efraim (Jos. 16 at 17); ang pagkasaserdote ay napunta kay Levi (Deut. 33:8-10); at ang pagkahari ay ibinigay kay Juda (Gen. 49:10; 1 Cron. 5:2). Kaya nga, si Kristo bilang ang Hari ng kaharian ng Diyos ay inapo ni “Juda,” minamana ang kaharian (Heb. 7:14)."
+        },
+        {
+            "id": "2-5",
+            "text": "Hindi ang mga kapatid ni Isaac ni ang kapatid ni Jacob, kundi tangi lamang “ang mga kapatid na lalake” ni Juda ang binanggit sa talaangkanang ito, sapagkat tangi lamang ang mga kapatid na lalake ni Juda ang hinirang ng Diyos."
+        },
+        {
+            "id": "3-1",
+            "text": "Sa lahat ng talaangkanan ni Adam, walang babaeng itinalâ (Gen. 5:1-32). Subali’t sa talaangkanan ni Kristo, limang babae ang binanggit. Tangi lamang isa sa limang ito ang isang malinis na birhen, si Maria, isang inapo ng hinirang na lahi kung kanino ay tuwirang isinilang si Kristo (b. 16). At sa gitna ng iba pang mga babae sina Tamar, Rahab, Ruth (b. 5), at Bathsheba, na naging asawa ni Urias (b. 6), ay may mga Hentil, at may nagsipag-asawang muli, at tatlo sa kanila ay lubhang makasalanan: si Tamar na nagkasala ng pakikiapid sa kanyang biyenang lalake, si Rahab bilang isang patutot, at si Bathsheba na nakagawa ng pangangalunya. Ito ay nagpapakita na si Kristo ay hindi lamang iniugnay sa mga Hudyo, bagkus maging sa mga Hentil, at ang makaharing Tagapagligtas ng mga katutubong makasalanan."
+        },
+        {
+            "id": "3-2",
+            "text": "Sina “Fares at Zara” ay kambal. Noong oras ng pagluluwal, inilabas ni Zara ang kanyang kamay, at ito ay minarkahan ng nagpaanak ng isang sinulid na pula, isinasaad na siya ang magiging panganay. Gayunpaman, siya ay inunahan ni Fares upang maging ang panganay (Gen. 38:27-30). Hindi tao ang humirang sa kanya, kundi Diyos ang nagpadala sa kanya, nagpapatunay na ito ay hindi ayon sa pagpili ng tao kundi sa pagpili ng Diyos."
+        },
+        {
+            "id": "5-1",
+            "text": "Si “Rahab” ay isang patutot sa Jerico (Jos. 2:1), isang pook na isinumpa ng Diyos magpasawalang-hanggan (Jos. 6:26). Pagkatapos niyang bumaling sa Diyos at sa bayan ng Diyos (Jos. 6:22-23, 25; Heb. 11:31) at pinakasalan si Salmon, isang pinuno ng nangungunang angkan ni Juda (1 Cron. 2:10-11), kanyang iniluwal si Booz, isang maka-Diyos na tao, na mula sa kanya ay nanggaling si Kristo. Maging ano pa man ang ating pinagmulan, kung tayo ay babaling sa Diyos at sa Kanyang bayan at nakaugpong sa wastong tao sa gitna ng mga tao ng Diyos, tayo ay magluluwal ng wastong bunga at makikilahok sa pagtatamasa ng pagkapanganay ni Kristo."
+        },
+        {
+            "id": "5-2",
+            "text": "Tinubos ni “Booz” ang mana ng kanyang kamag-anak at pinakasalan ang balo ng lalake (Ruth 4:1-17). Dahil sa ginawa niyang iyon ay naging isa siyang kilalang ninuno ni Kristo, isang dakilang kasamahan ni Kristo."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang pinagmulan ni “Ruth” ay yaong isang pakikiapid ng kanyang ninuno sa sariling anak na babae, sapagkat siya ay kabilang sa angkan ni Moab (Ruth 1:4), ang bunga ng pakikiapid ni Lot sa kanyang sariling anak na babae (Gen. 19:30-38). Ang Deuteronomio 23:3 ay nagbabawal sa mga Moabita na pumasok sa kongregasyon ng Panginoon maging hanggang ikasampung salinlahi. Subali’t si Ruth ay hindi lamang tinanggap ng Panginoon, bagkus naging isa rin sa mga pinakamahalagang ninuno ni Kristo, sapagkat hinanap niya ang Diyos at ang bayan ng Diyos (Ruth 1:15-17; 2:11-12). Maging sino pa man tayo at ano pa man ang ating pinagmulan, hangga’t tayo ay may pusong naghahanap sa Diyos at sa Kanyang bayan, tayo ay nasa isang katayuang matanggap tungo sa pagkapanganay ni Kristo."
+        },
+        {
+            "id": "5-4",
+            "text": "Pinropesiya ng Isaias 11:1 na si Kristo ay magiging “isang usbong (Heb.) na lalabas sa puno ni Isai at isang Sanga mula sa kanyang mga ugat.” Si Kristo ay lumabas sa kanya. Gayunpaman, ang Isaias 11:10 ay nagsasabi na si Kristo ang ugat ni Isai, isinasaad na si Isai ay lumabas mula kay Kristo. Si Isai ay isa na nagbunga kay Kristo, na nagsanga kay Kristo sa pamamagitan ng pagkakaugat kay Kristo. *(Si Isai at si Jesse ay iisang tao).*"
+        },
+        {
+            "id": "6-1",
+            "text": "Si “David” ang pangwalong anak ng kanyang ama, hinirang at pinahiran ng Diyos (1 Sam. 16:10-13). Isinasagisag ng bilang na walo ang pagkabuhay-na-muli. Na si David bilang ang ikawalong anak ay hinirang ng Diyos ay nagsasaad na ang kanyang kaugnayan kay Kristo ay nasa pagkabuhay-na-muli. Siya rin ay isang taong naaayon sa puso ng Diyos (1 Sam. 13:14) upang ihatid dito ang kaharian ng Diyos para kay Kristo."
+        },
+        {
+            "id": "6-2",
+            "text": "Sa talaangkanang ito, tangi lamang kay David nito sinabing “ang hari” sapagkat sa pamamagitan niya ay ipinasok ang kaharian kasama ang pagkahari."
+        },
+        {
+            "id": "6-3",
+            "text": "Nang si David ay gumawa ng pagpatay at pangangalunya, siya ay pinagwikaan ng propetang si Nathan na sadyang isinugo ng Diyos upang siya ay hatulan (2 Sam. 12:1-12). Nang siya ay hinatulan, si David ay nagsisi. Ang Awit 51 ay talâ ng kanyang pagsisisi. Siya ay nagsisi at siya ay pinatawad ng Diyos (2 Sam. 12:13). Pagkatapos ay naging anak niya si “Salomon” (2 Sam. 12:24). Kaya nga, si Salomon ang kinalabasan ng pagsalangsang at pagsisisi ng tao dagdag ang pagpapatawad ng Diyos."
+        },
+        {
+            "id": "6-4",
+            "text": "Si Urias ay isang Heteo, isang pagano, at ang kanyang asawa ay si Bathsheba (2 Sam. 11:3). Pinatay siya ni David at kinuha ang kanyang asawang si Bathsheba. Kaya nga, si Bathsheba ay nagpakasal na muli bilang resulta ng pagpatay at pangangalunya (2 Sam. 11:26-27). Si David, bilang ang taong naaayon sa puso ng Diyos, ay gumawa ng wasto sa mga mata ng Panginoon sa lahat ng kaarawan ng kanyang buhay, liban sa isang kasamaang ito (1 Hari 15:5). Dito, sa talaangkanang ito, ay hindi sinasabing “doon kay Bathsheba,” bagkus ay “doon sa asawa ni Urias,” upang bigyang-diin ang napakalaking kasalanang ito ni David, sa gayon ay ipinakikita na si Kristo bilang ang makaharing Tagapagligtas ay hindi lamang iniugnay sa mga pagano, bagkus gayon din sa mga makasalanan."
+        },
+        {
+            "id": "7-1",
+            "text": "Umpisa kay “Rehoboam,” ang kaharian ni David ay nahati (1 Hari 11:9-12; 12:1-17). Sa labindalawang angkan, isa ang itinabi para sa kapakanan ni David (1 Hari 11:13), yaon ay, para kay Kristo. Kailangan ni Kristo ang kahariang nabibilang sa sambahayan ni David, sa kadahilanang Siya ay kinakailangang maisilang bilang isang tagapagmana sa trono ni David."
+        },
+        {
+            "id": "8-1",
+            "text": "Itinatalâ ng talaangkanan dito na “Si Joram ang ama ni Ozias.” Ihambing ang talâng ito sa 1 Cron. 3:11-12 na nagsasabing, “Si Joram na kanyang anak, si Ochozias na kanyang anak, si Joas na kanyang anak, si Amasias na kanyang anak, si Azarias” (na siyang si Ozias-2 Hari 15:1, 13). Tatlong salinlahi — Ochozias, Joas, at Amasias ang tinanggal. Marahil ito ay dahil sa masamang pagpapakasal ni Joram sa anak na babae nina Ahab at Jezebel, na nagpasamâ sa mga inapo ni Joram (2 Cron. 21:5-6; 22:1-4). Ayon sa Exo. 20:5, tatlong salinlahi ng mga inapo ni Joram ang pinutol mula sa salinlahi ni Kristo."
+        },
+        {
+            "id": "11-1",
+            "text": "Itinatalâ ng talaangkanan dito na “Si Josias ang ama ni Jeconias.” Ihambing ang talâng ito sa “ang mga anak ni Josias… ang ikalawa ay si Joacim… at ang mga anak ni Joacim: si Jeconias na kanyang anak” (1 Cron. 3:15-16). Ang isang salinlahi-Joacim-ay tinanggal mula sa salinlahi ni Kristo. Marahil ito ay sa kadahilanang ginawa siyang hari ng Faraon ng Ehipto at nangulekta ng buwis para sa Faraon (2 Hari 23:34-35)."
+        },
+        {
+            "id": "11-2",
+            "text": "Si “Jeconias” ay hindi itinuring bilang isang hari sa talaangkanan sa kadahilanang siya ay isinilang noong panahon ng pagkabihag at tinangay bilang isang bihag (2 Cron. 36:9-10, si Joachin ay si Jeconias). Ayon sa propesiya ng Jer. 22:28-30, wala sa mga inapo ni Jeconias ang magmamana sa trono ni David. Kung si Kristo ay naging isang tuwirang inapo ni Jeconias, Siya ay walang karapatan sa trono ni David. Bagaman sinasabi ng Jer. 22:28-30 na ang lahat ng inapo ni Jeconias ay hindi kasali sa trono ni David, sa kasunod na kapitulo, sa bersikulo 5, sinasabi nito na ang Diyos ay magtitindig ng isang Sanga kay David, isang Hari na mamumuno at uunlad. Ang Sangang ito ay si Kristo. Ang propesiyang ito ay nagpapatibay na si Kristo ang magiging inapo ni David, bagaman hindi isang tuwirang inapo ni Jeconias, at magmamana sa trono ni David."
+        },
+        {
+            "id": "11-3",
+            "text": "Sa talaangkanang ito, walang binanggit tungkol sa mga kapatid na lalake ng alinmang hari. Gayunpaman, ang “mga kapatid na lalake” ni Jeconias ay binanggit dito, pinatutunayan na si Jeconias ay hindi itinuring bilang isang hari sa talaangkanang ito ni Kristo."
+        },
+        {
+            "id": "11-4",
+            "text": "Tumutukoy sa pagkakadalang-bihag sa Babilonia ng mga Israelita. Tingnan ang b. 17."
+        },
+        {
+            "id": "12-1",
+            "text": "Maging ang mga yaong tinangay patungong Babilonia bilang mga bihag ay kasali sa banal na talâng itong salinlahi, sa kadahilanang sila ay may isang di-tuwirang kaugnayan, yaon ay, sa pamamagitan ni Maria, ang ina ni Hesus, na asawang babae ng isa sa kanilang mga inapo."
+        },
+        {
+            "id": "12-2",
+            "text": "“Si Salatiel ay naging anak ni Jeconias at si Salatiel ang ama ni Zorobabel.” Ihambing ang talâng ito sa 1 Cron. 3:17-19, na nagsasabing, “ang mga anak na lalake ni Jeconias… si Salatiel… at si Pedaia… at ang mga anak na lalake ni Pedaia ay sina Zorobabel…,” ipinakikita na si Zorobabel ay anak ni Pedaia, ang kapatid ni Salatiel. Si Zorobabel ay hindi anak ni Salatiel, kundi kanyang pamangkin, na naging kanyang tagapagmana. Marahil ito ay isang kasong sang-ayon sa Deut. 25:5-6. Maging ang salitang yaon na nasa Deuteronomio ay iniugnay sa talaangkanan ni Kristo."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang talaangkanan dito ay nagsasabing “Si Jacob ang ama ni Jose,” subali’t sinasabi ng Luc. 3:23, “si Jose… ang anak ni Eli.” Ang talâ ni Lucas ay “ayon sa kautusan” (literal na pagsasalin ng “ayon sa sinasapantaha” sa Luc. 3:23), isinasaad na si Jose sa katunayan ay hindi anak ni Eli, kundi itinuring na kanyang anak ayon sa kautusan. Si Jose ay manugang na lalake ni Eli, ang ama ni Maria. Marahil ito ay isang kasong alinsunod sa Blg. 27:1-8 at 36:1-12, kung saan ay gumawa ng isang regulasyon ang Diyos na sinumang magulang ang may mga anak na babae lamang bilang tagapagmana, ang mana ay kailangang mapunta sa mga anak na babae; ang mga anak na babae sa gayon ay kinakailangang pakasal lamang sa isang lalakeng nagmumula sa kanilang sariling lipi upang ang kanilang mana ay manatili sa loob ng liping yaon. Maging ang gayong regulasyon sa Lumang Tipan ay iniugnay sa talaangkanan ni Kristo, ipinakikita na ang lahat ng Kasulatan ay isang talâ hinggil kay Kristo."
+        },
+        {
+            "id": "16-2",
+            "text": "Sa puntong ito, ang talâ ng angkanang ito ay hindi sinasabing, “si Jose ang ama ni Hesus,” katulad ng pagkakabanggit sa lahat ng naunang tao; sinasabi nitong, “Jose na asawa ni Maria, na siyang nanganak kay Hesus.” Si Hesus ay isinilang ni Maria, hindi ni Jose, yayamang pinropesiya na si Kristo ang magiging binhi ng babae at isisilang ng isang birhen (Gen. 3:15; Isa. 7:14). Si Kristo ay hindi maaaring isilang ni Jose, sapagkat si Jose ay isang lalake at isang inapo ni Jeconias, na sa kaninong mga inapo ay walang magmamana sa trono ni David (Jer. 22:28-30). Gayunpaman, si Maria ay isang birhen at isang inapo ni David (Luc. 1:27, 31-32), ang wastong tao na kung kanino ay isinilang si Kristo. Ang pagpapakasal ni Jose kay Maria ay nagdala sa kanya sa loob ng isang relasyon kay Kristo at pinag-isa ang dalawang linya ng talaangkanan ni Kristo para sa pagluluwal kay Kristo, katulad ng ipinakita sa tsart sa kasunod na pahina."
+        },
+        {
+            "id": "16-3",
+            "text": "Sa talâng ito binanggit ng talaangkanang ito ang apat na babae, kung hindi man mga nagsipag-asawang muli ay mga makasalanan. Bilang karagdagan, binabanggit nito ang isang malinis na birhen. Ito ay nagpapakita na ang lahat ng taong binanggit sa talaangkanang ito ay isinilang sa kasalanan, maliban kay Kristo, na isinilang sa kabanalan."
+        },
+        {
+            "id": "16-4",
+            "text": "Ang “Kristo” ay binigyang-diin dito upang patunayan na si Hesus ang mismong Mesiyas, ang Kristo, na pinropesiya sa Lumang Tipan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang talaangkanang ito ay nahahati sa loob ng tatlong kapanahunan: 1) “mula kay Abraham hanggang kay David,” labing-apat na salinlahi, ang kapanahunan bago ang pagtatatag ng kaharian; 2) “mula kay David hanggang sa pagkakadalang-bihag sa Babilonia,” labing-apat na salinlahi, ang kapanahunan ng kaharian; 3) “mula sa pagkakadalang-bihag sa Babilonia hanggang kay Kristo,” labing-apat na salinlahi rin, ang kapanahunan pagkatapos ng pagbagsak ng kaharian. Ayon sa aktuwal na kasaysayan, may apatnapu’t limang salinlahi. Sa pamamagitan ng pagbawas ng tatlong isinumpang salinlahi at ng isang di-wastong salinlahi, at pagdaragdag ng isa sa pamamagitan ng pagkagawa kay David na dalawang salinlahi (ang isa, nang kapanahunan bago ang pagtatatag ng kaharian, at ang isa pa, nang kapanahunan ng kaharian), ang mga salinlahi ay naging apatnapu’t dalawa na nahahati sa tatlong kapanahunan na may tiglalabing-apat na salinlahi. Ang bilang na labing-apat ay binubuo ng sampu dagdagan ng apat. Isinasagisag ng apat ang mga nilikha (Apoc. 4:6). Isinasagisag ng sampu ang kakumpletuhan (25:1). Kaya nga, isinasagisag ng labing-apat ang mga nilikha sa kakumpletuhan. Ang tatlong ulit ng labing-apat na salinlahi ay nagsasaad na inihahalo ng Tres-unong Diyos ang Kanyang Sarili sa buong nilikha. Ang talaangkanang ito ay may tatlong yugto: ang yugto ng mga ama, ang yugto ng mga hari, at ang yugto ng mga sibilyan, kabilang ang mga nabihag at ang mga nabawi. Ang Diyos Ama ay tumutugma sa yugto ng mga ama, ang Diyos Anak ay tumutugma sa yugto ng mga hari, at ang Diyos Espiritu ay tumutugma sa yugto ng mga sibilyan. Ang salinlahi ni Kristo ay nagsasaad ng paghahalo ng Tres-unong Diyos sa Kanyang mga nilikhang tao."
+        },
+        {
+            "id": "17-2",
+            "text": "Si David ang wakas ng mga salinlahi ng mga ama at ang pasimula ng mga salinlahi ng mga hari. Siya ang isang taong ginamit ng Diyos bilang isang palatandaan upang kapwa wakasan ang yugto ng mga ama at pasimulan ang yugto ng mga hari."
+        },
+        {
+            "id": "17-3",
+            "text": "Sa panahon ng pagbaba, walang tao ang nagamit bilang isang palatandaan upang paghiwalayin ang mga salinlahi katulad ng ginawa ni Abraham at ni David. Kaya, ang “pagkakadalang-bihag” ang naging isang palatandaan, isang palatandaan ng kahihiyan."
+        },
+        {
+            "id": "17-4",
+            "text": "Ang talâ ni Lucas ay nagsisimula kay Hesus at tumatalunton pabalik sa Diyos. Ang talâ ni Mateo ay nagsisimula kay Abraham hanggang kay Kristo. Ang Lucas ay bumabalik at paakyat sa Diyos; ang Mateo ay sumusulong hanggang sa umabot kay Kristo. Ang lahat ng salinlahi ay patungo kay Kristo at nagluwal kay Kristo. Si Kristo ang hanggahan, ang kaganapan, ang konklusyon, ang kakumpletuhan, at ang kasakdalan ng lahat ng salinlahi, isinasakatuparan ang kanilang mga propesiya, nilulutas ang kanilang mga suliranin, at tinutugon ang kanilang mga pangangailangan. Kapag si Kristo ay dumarating, ang liwanag, buhay, kaligtasan, kasiyahan, pagpapagaling, kalayaan, kapahingahan, kaaliwan, kapayapaan, at kagalakan, lahat ay kasama Niyang dumarating. Mula sa puntong ito, ang buong Bagong Tipan ay isang ganap na pagpapaliwanag ng kagila-gilalas na Kristong ito, na Siyang lahat-lahat sa atin. Aleluya, si Kristo ay dumating na!"
+        },
+        {
+            "id": "18-1",
+            "text": "Bagaman si Kristo ay ipinanganak ni Maria (b. 16), Siya ay isang “Anak ng Espiritu Santo.” Ang kapanganakan ni Kristo ay tuwirang mula sa Espiritu Santo (b. 20). Ang Kanyang pinagmulan ay ang Espiritu Santo, at ang Kanyang elemento ay dibino. Sa pamamagitan ng birheng Maria bilang isang kaparaanan, Kanyang isinuot ang laman at dugo, ang pantaong kalikasan, kinukuha ang “wangis ng laman” (Roma 8:3), “ang wangis ng mga tao” (Fil. 2:7)."
+        },
+        {
+            "id": "18-2",
+            "text": "Gr. mula sa."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang “isang matuwid na lalake” nang panahong yaon ay isang “lumalakad sa lahat ng utos at mga ordinansa ng Panginoon” (Luc. 1:6), yaon ay, namumuhay ayon sa kautusan ng Diyos sa pamamagitan ng mga handog bilang pambayad-pinsala."
+        },
+        {
+            "id": "19-2",
+            "text": "Palayain siya."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang Diyos, sa pamamagitan ng Kanyang Espiritu, ay ipinanganak muna sa loob ni Maria at naghintay hanggang ang pagdadalang-tao ay makumpleto, at taglay ang pagkatao ay ipinanganak upang maging ang Diyos-Tao na may dalawang kalikasan, ang kalikasan ng Diyos at kalikasan ng tao. Ito ang pinagmulan ni Kristo."
+        },
+        {
+            "id": "20-2",
+            "text": "Gr. mula sa."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang “Hesus” ay ang Griyegong katumbas ng Hebreong salitang Josue (Blg. 13:16), na nangangahulugang Jehovah ang Tagapagligtas, o, ang kaligtasan ni Jehovah. Kaya nga, si Hesus ay hindi lamang isang tao, bagkus si Jehovah; at hindi lamang si Jehovah, bagkus si Jehovah na naging ating kaligtasan. Kaya nga, Siya ang ating Tagapagligtas. Siya rin ang ating Josue na nagdadala sa atin tungo sa kapahingahan (Heb. 4:8; Mat. 11:28-29); ang kapahingahang ito ay Siya Mismo bilang ang mabuting lupa para sa atin."
+        },
+        {
+            "id": "22-1",
+            "text": "Tumutukoy sa taong nagsasalita para sa Diyos, nagsasalita ng Diyos, at nagpopropesiya."
+        },
+        {
+            "id": "23-1",
+            "text": "Itong “Anak na lalake” ng “birhen” ay “ang binhi ng babae” na pinropesiya sa Gen. 3:15."
+        },
+        {
+            "id": "23-2",
+            "text": "Hesus ang pangalang ibinigay ng Diyos, samantalang ang “Emmanuel,” na nangangahulugang “sumasaatin ang Diyos,” ay ang pangalang itinawag ng tao. Ang Hesus na Tagapagligtas ay ang Diyos na sumasaatin. Ang Diyos ay Siya, at Siya ay ang Diyos na nagkatawang-tao upang manahan sa gitna natin (Juan 1:14). Siya ay hindi lamang Diyos, bagkus ay Diyos na sumasaatin."
+        },
+        {
+            "id": "23-3",
+            "text": "Si Kristo bilang ang mismong Emmanuel ay hindi lamang sumasaatin nang nandito pa sa lupa, bagkus ay sumasaatin din simula nang Kanyang pag-akyat sa langit, sa tuwinang tayo ay nagtitipun-tipon sa loob ng Kanyang pangalan (18:20). Higit pa rito, Siya ay sasaatin sa lahat ng araw hanggang sa pagkukumpleto ng kapanahunan (28:20)."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang kapanganakan ni Kristo ay makapangyarihang isinaayos at tinupad ng Diyos. Sa pamamagitan ng makapangyarihang pagsasaayos ng Diyos, ang mga ninuno nina Jose at Maria, sa ilalim ng pamumuno ng kanilang ninunong si Zorobabel, ay nadalang pabalik sa lupain ng Judea mula sa kanilang pagkabihag sa Babilonia (b. 12; Ezra 5:1-2). Sa pamamagitan ng makapangyarihang pagsasaayos ng Diyos, si Maria at si Jose ay napatira sa parehong lunsod ng Nazaret (Luc. 1:26; 2:4). Higit pa sa pamamagitan ng Kanyang makapangyarihang pagsasaayos, ay pinagsama si Jose at si Maria upang maging mag-asawa nang sa gayon ay mailabas si Kristo upang maging ang legal na tagapagmana sa trono ni David."
         }
     ]
 }

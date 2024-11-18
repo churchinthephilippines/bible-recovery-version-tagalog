@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Kung",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "ibinangong",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -28,7 +28,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -39,15 +39,15 @@
             "footnotes": [
                 {
                     "word": "namatay",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "natatagong",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -58,11 +58,11 @@
             "footnotes": [
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -73,11 +73,11 @@
             "footnotes": [
                 {
                     "word": "Ilagay",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "sangkap",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": [
@@ -108,11 +108,11 @@
             "footnotes": [
                 {
                     "word": "hinubad",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "lumang",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -123,23 +123,23 @@
             "footnotes": [
                 {
                     "word": "nangagbihis",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "nababago",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "larawan",
-                    "note": ""
+                    "id": "10-4"
                 },
                 {
                     "word": "Niyaong",
-                    "note": ""
+                    "id": "10-5"
                 }
             ],
             "outlines": null
@@ -150,47 +150,47 @@
             "footnotes": [
                 {
                     "word": "Doon",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "Griyego",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "pagtutuli",
-                    "note": ""
+                    "id": "11-4"
                 },
                 {
                     "word": "barbaro,",
-                    "note": ""
+                    "id": "11-5"
                 },
                 {
                     "word": "Scita,",
-                    "note": ""
+                    "id": "11-6"
                 },
                 {
                     "word": "alipin,",
-                    "note": ""
+                    "id": "11-7"
                 },
                 {
                     "word": "malaya,",
-                    "note": ""
+                    "id": "11-8"
                 },
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "11-9"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "lahat.",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -201,11 +201,11 @@
             "footnotes": [
                 {
                     "word": "Mangagbihis",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -219,11 +219,11 @@
             "footnotes": [
                 {
                     "word": "isa’",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Panginoon,",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -234,11 +234,11 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "kasakdalan.",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -249,23 +249,23 @@
             "footnotes": [
                 {
                     "word": "kapayapaan",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "mamagitan",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "riyan",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "din",
-                    "note": ""
+                    "id": "15-4"
                 },
                 {
                     "word": "mapagpasalamat.",
-                    "note": ""
+                    "id": "15-5"
                 }
             ],
             "outlines": null
@@ -276,35 +276,35 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "manahanang",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "sagana",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "mangagturuan",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "isa’",
-                    "note": ""
+                    "id": "16-5"
                 },
                 {
                     "word": "salmo",
-                    "note": ""
+                    "id": "16-6"
                 },
                 {
                     "word": "nangagsisiawit",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "16-7"
                 }
             ],
             "outlines": [
@@ -317,7 +317,7 @@
             "footnotes": [
                 {
                     "word": "pangalan",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -328,7 +328,7 @@
             "footnotes": [
                 {
                     "word": "babae,",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": [
@@ -371,7 +371,7 @@
             "footnotes": [
                 {
                     "word": "gantimpala",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -381,6 +381,204 @@
             "text": "Sapagka’t ang gumagawa ng kalikuan ay tatanggap nang ayon sa kalikuang kanyang ginawa; at walang pagtatangi sa mga tao.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang mga bersikulo 1-4 ay nagpapahiwatig ng pagkakaroon natin ng magkatulad na kinaroroonan ni Kristo, magkatulad na buhay, pamumuhay, kahihinatnan, at kaluwalhatian ni Kristo."
+        },
+        {
+            "id": "1-2",
+            "text": "Ito ang pagbabangong aspekto ng bautismo, na lubusang laban sa asetisismo. Tayo ay ibinangong kalakip ni Kristo. Tayo ngayon ay nasa kinaroroonan ni Kristo, nakaupo sa kalangitan. Kaya nga, hindi tayo dapat magsagawa ng mga bagay sa lupa katulad ng ginagawa ng mga nag-aasetisismo. Dapat nating hanapin ang mga bagay na nasa kalangitan."
+        },
+        {
+            "id": "1-3",
+            "text": "Yaon ay, sa kalangitan na taliwas sa “nasa ibabaw ng lupa” sa bersikulo 2. Ang kalangitan ay nakaugpong kay Kristo at nakaugpong sa ekklesia. Ang mga bagay na nasa itaas ay kinabibilangan ni Kristo at ng lahat ng bagay na may kaugnayan sa Kanya. Kaya ang hanapin ang mga bagay na nasa itaas ay ang hanapin ang pamumuhay sa gitna ng ekklesia at ang pagbubuhay-ekklesia na ibinubuhay si Kristo."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang mga bagay na nasa ibabaw ng lupa ay kinabibilangan ng kultura, relihiyon, pilosopiya, at pagpapakabuti ng tao sa kanyang sarili na nabanggit sa naunang dalawang kapitulo."
+        },
+        {
+            "id": "3-1",
+            "text": "Tayo ay namatay kalakip ni Kristo sa mga bagay na nasa lupa, lalung-lalo na sa mga bagay na may kaugnayan sa asetisismo. Tayo ay nangabautismuhan sa loob ng Kanyang kamatayan (Roma 6:3)."
+        },
+        {
+            "id": "3-2",
+            "text": "Sapagka’t ang ating buhay (hindi ang ating likas na buhay, kundi ang ating espiritwal na buhay na si Kristo) ay natatagong kalakip ni Kristo sa loob ng Diyos, na nasa kalangitan, tayo ay hindi na dapat pang magpahalaga sa mga bagay na nasa lupa. Ang Diyos na nasa kalangitan ang nararapat na maging kinasasaklawan ng ating pamumuhay. Kalakip ni Kristo, nararapat tayong mamuhay sa loob ng Diyos."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang ating buhay na natatagong kalakip ni Kristo sa loob ng Diyos ay nangangahulugang natatagong kalakip ni Kristo sa kalangitan."
+        },
+        {
+            "id": "4-1",
+            "text": "Si Kristo ang ating buhay, matibay na ipinakikita na dapat natin Siyang maging buhay at dapat natin Siyang ipamuhay. Sa pang-araw-araw nating pamumuhay ay dapat natin Siyang ipamuhay. Dapat nating danasin ang pansansinukob-na-malawak na Kristo, upang ang lahat ng kung ano Siya, ang Kanyang naabot, ang Kanyang natamo, ay maging ating subhektibong karanasan at hindi lamang obhektibong katunayan."
+        },
+        {
+            "id": "4-2",
+            "text": "Sa loob ng Diyos, si Kristo ang ating buhay. Ang buhay na ito sa ngayon ay natatago subali’t sa darating na panahon ito ay mahahayag. Sa panahong yaon tayo ay mahahayag kasama ng buhay na ito sa kaluwalhatian. Sa 2:20-3:4 ang namumukod-tanging paraan at ang namumukod-tanging Persona ay inihayag sa atin. Ang namumukod-tanging paraan ay ang krus, ang sentro ng administrasyon ng Diyos; at ang namumukod-tanging Persona ay si Kristo, ang may unang puwesto, ang nagpapaloob ng lahat, ang sentro ng pansansinukob. Sa pamamagitan ng krus, hindi sa pamamagitan ng asetisismo, tayo ay naliligtas mula sa mga negatibong bagay. Sa pamamagitan ni Kristo, hindi sa pamamagitan ng pilosopiya, ating ipinamumuhay ang buhay na nakatago sa loob ng Diyos. Ang Kristo na Siyang buhay natin ay ang bahaging mana ng lahat ng banal (1:12), ang larawan ng Diyos na di-nakikita (1:15), ang Panganay ng lahat ng nilikha (1:15), ang Panganay na nabuhay mula sa mga patay (1:18), ang pinananahanan ng kapuspusan ng Diyos (1:19; 2:9), ang hiwaga ng ekonomiya ng Diyos (1:26), ang hiwaga ng Diyos (2:2), ang realidad ng lahat ng positibong bagay (2:16-17) at ang bumubuong elemento ng bagong tao (bb. 10-11). Ang ganitong nagpapaloob ng lahat na Kristo ang ating itinuturing na buhay at dapat ipamuhay, sa gayon mararanasan at matatamasa natin ang lahat ng Kanyang mga kayamanan."
+        },
+        {
+            "id": "5-1",
+            "text": "Ito ay batay sa katotohanan na tayo ay naipako na sa krus kalakip ni Kristo (Gal. 2:20a) at yaong tayo ay nangabautismuhan na tungo sa loob ng Kanyang kamatayan (Roma 6:3). Iginagawad natin ang kamatayan ni Kristo sa ating mga makasalanang sangkap sa pamamagitan ng pagpapako sa mga ito, sa pamamagitan ng pananampalataya, sa pamamagitan ng kapangyarihan ng Espiritu (Roma 8:13). Ito ay tumutugma sa Gal. 5:24. Naisagawa na ni Kristo ang nagpapaloob ng lahat na kamatayan sa krus. Ngayon ay ating inilalapat ito sa ating mapitang laman. Ito ay lubusang naiiba sa asetisismo."
+        },
+        {
+            "id": "5-2",
+            "text": "Sa loob ng ating mga makasalanang sangkap ay may kautusan ng kasalanan, ginagawa tayong mga bihag ng kasalanan, at sinasanhi ang ating napasamang katawan na maging katawan ng kamatayan (Roma 7:23-24). Kaya nga, ang ating mga makasalanang sangkap ay kinikilalang kaisa ng mga makasalanang bagay, katulad ng pakikiapid, karumihan, pagnanasa, masamang paghahangad, at di-mapigilang masakim na pita."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang hubarin ang lumang tao ay katulad ng paghuhubad ng isang lumang kasuotan: unang-una ay pinapatay ang mga pita ng katawan, pagkaraan ay inaalis ang kasamaan ng kaluluwa, at sa kahuli-hulihan ay hinuhubad ang buong lumang tao kasama na ang mga gawi nito. Ito ay hindi sa pamamagitan ng ating sariling kalakasan kundi sa pamamagitan ng kapangyarihan ng nagpapaloob ng lahat na Espiritu."
+        },
+        {
+            "id": "9-2",
+            "text": "Tingnan ang tala 22-1 sa Efeso 4."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang ibihis ang bagong tao ay katulad ng pagsusuot ng isang bagong kasuotan."
+        },
+        {
+            "id": "10-2",
+            "text": "Lit. bata, bago sa panahon, hindi katulad ng salita sa Efe. 4:24, na nangangahulugang bago sa kalikasan, kalidad, o anyo. Hinggil sa bagong tao, tingnan ang tala 24-2 , unang talata, sa Efeso 4. Yamang si Kristo ang elemento o ang bumubuo sa bagong tao, tayo na mga kabilang sa bagong tao ay kaisa rin ni Kristo. Ito ang pinakamahalagang punto ng aklat na ito."
+        },
+        {
+            "id": "10-3",
+            "text": "Sapagka’t tayo na pag-aari ng lumang paglikha ang ginamit sa paglikha ng bagong tao (Efe. 2:15), ang bagong tao ay kinakailangang mapabago. Ang pagbabagong ito ay pangunahing nagaganap sa ating kaisipan, katulad ng tinukoy ng pariralang “tungo sa lubos na kaalaman.” Ang bagong tao ay nilikha sa loob ng ating espiritu at ang ating kaisipan ay pinapabago tungo sa lubos na kaalaman ayon sa larawan ni Kristo."
+        },
+        {
+            "id": "10-4",
+            "text": "Tumutukoy sa larawan ni Kristo bilang kahayagan ng Diyos (1:15; Heb. 1:3a)."
+        },
+        {
+            "id": "10-5",
+            "text": "Tumutukoy sa Manlilikha, na si Kristo. Nilikha ni Kristo sa loob ng Kanyang Sarili ang bagong tao (Efe. 2:15)."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang “doon” na tumutukoy sa “bagong tao” sa bersikulo 10 ay nangangahulugang “sa loob ng bagong tao.”"
+        },
+        {
+            "id": "11-2",
+            "text": "Hindi lamang walang likas na tao sa bagong tao, bagkus walang posibilidad, walang puwang, para sa sinumang likas na tao."
+        },
+        {
+            "id": "11-3",
+            "text": "Ang mga Griyego ay para sa mapilosopiyang karunungan; ang mga Hudyo ay para sa mga mahimalang tanda (I Cor. 1:22)."
+        },
+        {
+            "id": "11-4",
+            "text": "Ang pagtutuli ay tumutukoy sa mga nangingilin ng mga maka-Hudyong relihiyosong ritwal; ang di-pagtutuli ay tumutukoy sa mga walang interes sa maka-Hudyong relihiyon."
+        },
+        {
+            "id": "11-5",
+            "text": "Ang isang barbaro ay isang taong di-sibilisado."
+        },
+        {
+            "id": "11-6",
+            "text": "Ang mga Scita ay itinuring na pinakabarbaro."
+        },
+        {
+            "id": "11-7",
+            "text": "Isang ipinagbili sa pagkaalipin."
+        },
+        {
+            "id": "11-8",
+            "text": "Isang malaya mula sa pagkaalipin."
+        },
+        {
+            "id": "11-9",
+            "text": "Sa bagong tao ay may puwang lamang para kay Kristo. Siya ang lahat ng mga sangkap ng bagong tao at nasa lahat ng mga sangkap. Siya ang lahat-lahat sa bagong tao. Sa katunayan,Siya ang bagong tao na siyang Kanyang Katawan (I Cor. 12:12). Sa bagong tao Siya ang sentralidad at unibersalidad, Siya ang bumubuong sangkap o elemento at lahat sa lahat ng bagong tao."
+        },
+        {
+            "id": "11-10",
+            "text": "Ang “lahat” ay tumutukoy sa lahat ng mga sangkap na bumubuo sa bagong tao."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “mangagbihis” ay katulad ng pagsusuot ng isang kasuotan."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang “banal” ay di-pangkaraniwan, di-makalupa, naibukod tungo sa Diyos. Tingnan ang tala 21 sa kapitulo 1."
+        },
+        {
+            "id": "13-1",
+            "text": "Lit. inyong mga sarili."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang nagpapatawad na Panginoon ay buhay natin at nabubuhay sa loob natin; ang pagpapatawad ay isang kagalingan ng Kanyang buhay. Kapag kinukuha natin Siya bilang ating buhay at Persona at nabubuhay tayo sa pamamagitan Niya, ang pagpapatawad sa iba ay magiging kusang-kusa, nagiging isang kagalingan ng ating buhay-Kristiyano."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang Diyos ay pag-ibig (I Juan 4:16). Ang pag-ibig ang esensiya ng kung ano ang Diyos, ang substansiya ng buhay ng Diyos. Kaya nga, ang magbihis ng pag-ibig ay ang maramtan ng elemento ng buhay ng Diyos. Ang gayong pag-ibig ay ang taling nagbubuklod sa kasakdalan, kakumpletuhan, at lahat ng mga may-gulang na kagalingan. Kailangan nating magbihis hindi lamang ng bagong tao (b. 10), bagkus maging ng mga kagalingan ng bagong tao (b. 12) at sa ibabaw ng lahat ng kagalingan ay magbihis pa ng pag-ibig (b. 14)."
+        },
+        {
+            "id": "14-2",
+            "text": "O, kakumpletuhan."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang kapayapaan ni Kristo ay si Kristo Mismo. Sa pamamagitan ng kapayapaang ito, ginawa na ni Kristo na isang bagong tao ang mga Hudyo at mga Hentil. Ang kapayapaang ito ay naging isang bahagi rin ng ebanghelyo (Efe. 2:14-18). Para sa kapakanan ng buhay ng Katawan ni Kristo, kinakailangang hayaan nating mamagitan ang kapayapaang ito sa ating mga puso."
+        },
+        {
+            "id": "15-2",
+            "text": "O, maghatol, mamuno, mailuklok bilang isang pinuno at tagapagpasiya sa lahat ng bagay. Ang naghaharing kapayapaan ni Kristo sa ating mga puso ay pumapawi sa sumbong sa bersikulo 13."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang “riyan” ay tumutukoy sa kapayapaan ni Kristo. Tayo ay tinawag sa kapayapaang ito sa isang Katawan ni Kristo. Para sa wastong buhay-Katawan, kailangan natin ang kapayapaan ni Kristo na mamagitan, magsaayos, magpasiya sa lahat ng bagay sa ating puso sa pakikipagugnayan ng mga sangkap ng Kanyang Katawan sa isa’t isa."
+        },
+        {
+            "id": "15-4",
+            "text": "Yaong tayo ay tinawag sa kapayapaan ni Kristo ay dapat ding maging motibo sa ating paghahaya sa kapayapaang ito na mamagitan sa ating mga puso."
+        },
+        {
+            "id": "15-5",
+            "text": "Hindi lamang natin dapat hayaan ang kapayapaan ni Kristo na mamagitan sa ating mga puso, bagkus dapat ding maging mapagpasalamat sa Panginoon. Sa buhay-Katawan, ang ating puso ay nararapat maging palaging nasa isang mapayapang kondisyon tungo sa mga sangkap at mapagpasalamat sa Panginoon."
+        },
+        {
+            "id": "16-1",
+            "text": "Yaon ay, ang salitang sinabi ni Kristo. Sa Kanyang Bagong Tipang ekonomiya, ang Diyos ay nagsasalita sa pamamagitan ng Anak, at ang Anak ay nagsasalita hindi lamang sa pamamagitan ng Kanyang Sarili sa mga aklat ng Ebanghelyo, bagkus maging sa pamamagitan ng Kanyang mga sangkap, ang mga apostol at ang mga propeta, sa Mga Gawa, mga Sulat, at Apocalipsis. Ang lahat ng ito ay maituturing na Kanyang salita. Sa siping ito, ang pagpupuno ng espirituwal na buhay na umaapaw sa pagpupuri at pag-awit ay may kaugnayan sa Salita, samantalang sa katulad na sipi nito, sa Efe. 5:18-20, ang pagpupuno ng espirituwal na buhay ay may kaugnayan sa Espiritu. Ito ay nagpapakita na ang Salita ay ang Espiritu (Juan 6:63b). Ang isang normal na buhay-Kristiyano ay nararapat na napupunuan ng Salita upang ang Espiritu ay mag-umapaw mula sa ating loob sa mga awit at papuri. Ang aklat na ito ay nakatuon kay Kristo bilang ating Ulo at buhay. Ang paraan upang maisagawa Niya ang Kanyang pagka-Ulo at maihain ang Kanyang mga kayamanan sa atin ay sa pamamagitan ng Kanyang salita. Kaya nga, ang diin ay nasa salita ni Kristo. Ang Efeso ay nauukol sa ekklesia bilang ang Katawan ni Kristo. Ang paraan upang maipamuhay natin ang isang normal na buhay-ekklesia ay ang mapunuan sa ating espiritu upang maging kapuspusan ng Diyos. Kaya nga, ang diin ay ang Espiritu. Sa Efeso, ang Espiritu at gayundin ang ating espiritu ay paulit-ulit na binigyang-diin; maging ang Salita ay ibinilang na Espiritu (Efe. 6:17). Sa aklat na ito, ang Espiritu at ang espiritu ay binanggit nang minsanan lamang (1:8; 2:5). Sa Efeso, ang Salita ay para sa paghuhugas ng ating likas na buhay (Efe. 5:26) at sa pakikipaglaban sa kaaway (Efe. 6:17), samantalang sa aklat na ito ang Salita ay para sa paghahayag ng Kristo sa Kanyang pagiging nangunguna, sentralidad at unibersalidad (1:25-27)."
+        },
+        {
+            "id": "16-2",
+            "text": "Lit. mapasaloob ng isang bahay, manuluyan. Ang salita ng Panginoon ay kinakailangang magkaroon ng puwang sa ating loob upang ito ay makakilos at makapaghain ng mga kayamanan ni Kristo sa ating panloob na tao."
+        },
+        {
+            "id": "16-3",
+            "text": "Ang mga kayamanan ni Kristo (Efe. 3:8) ay nasa salita Niya. Ang panunuluyan ng gayong kayamang salita ay tiyak na “sagana.”"
+        },
+        {
+            "id": "16-4",
+            "text": "Ang “mangagturuan at mangagpaalalahanan” at ang “mangagsiawit” ay pawang tumutukoy sa pandiwang “manahanan.” Ito ay nagpapakita na ang paraan upang hayaan ang salita ng Panginoon na makapanahan sa atin nang sagana ay sa pamamagitan ng pagtuturo, pagpapaalalahanan, at pag-awit."
+        },
+        {
+            "id": "16-5",
+            "text": "Lit. turuan ang inyong mga sarili, paalalahanan ang inyong mga sarili."
+        },
+        {
+            "id": "16-6",
+            "text": "Tayo ay nararapat magturo at magpaalalahanan hindi lamang sa pamamagitan ng mga salita, bagkus maging sa pamamagitan ng mga salmo, mga himno, at mga espirituwal na awitin."
+        },
+        {
+            "id": "16-7",
+            "text": "Tingnan ang mga tala 14-6 at 17-1 sa Juan 1."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang pangalan ay tumutukoy sa persona. Ang Persona ng Panginoon ay ang Espiritu (II Cor. 3:17a). Ang gawin ang mga bagay sa loob ng pangalan ng Panginoon ay ang kumilos sa loob ng Espiritu. Ito ay ang ipamuhay si Kristo."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang bersikulong ito hanggang 4:1 ay isang kapatid na sipi ng Efe. 5:22-6:9, na hinggil sa etikal na pakikipag-ugnayan ng mga mananampalataya. Sa Efeso, ang diin ay nasa pangangailangan sa napuspusan-ng-espiritu na etikal na pakikipag-ugnayan para sa kahayagan ng Katawan sa normal na buhay-ekklesia. Sa aklat na ito, ang diin ay yaong dapat nating tanganan si Kristo bilang ating Ulo at kunin Siya bilang ating buhay sa pamamagitan ng pananahanan sa atin ng Kanyang mayamang salita, upang mapangyari ang pinakamataas na etikal na pakikipag-ugnayan, nang sa gayon Siya ay mahayag. Ang ganitong etikal na pakikipag-ugnayan ay hindi nagmumula sa ating likas na buhay kundi nagmumula kay Kristo bilang ating buhay. Para sa bawa’t punto sa siping ito, tingnan ang mga katapat na tala sa Efeso."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang puntong ito rito ay hindi nailahad nang kasinlinaw ng nasa Efe. 6:8. Ang “mana” ay ang kung ano ang mamanahin ng mga mananampalataya (Roma 8:17; Gawa 26:18; I Ped. 1:4). “Ang gantimpala ng mana” ay nagpapakita na ginagamit ng Panginoon ang mana na Kanyang ibibigay sa Kanyang mga mananampalataya bilang isang pampasigla upang sila ay maging tapat sa kanilang paglilingkod sa Kanya. Ang mga di-tapat ay tiyak na hindi makakukuha ng gantimpalang ito (Mat. 24:45-51; 25:20-29)."
         }
     ]
 }

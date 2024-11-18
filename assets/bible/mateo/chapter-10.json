@@ -1,5 +1,5 @@
 {
-    "chapter": 10,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "labindalawang",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,7 +21,7 @@
             "footnotes": [
                 {
                     "word": "labindalawang",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -32,7 +32,7 @@
             "footnotes": [
                 {
                     "word": "",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -43,15 +43,15 @@
             "footnotes": [
                 {
                     "word": "Cananeo",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "Iscariote",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "nagkanulo",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -62,11 +62,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -87,7 +87,7 @@
             "footnotes": [
                 {
                     "word": "malapit",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -104,7 +104,7 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -145,7 +145,7 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -156,7 +156,7 @@
             "footnotes": [
                 {
                     "word": "mangagpakatalino",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": [
@@ -170,11 +170,11 @@
             "footnotes": [
                 {
                     "word": "ibibigay",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -185,7 +185,7 @@
             "footnotes": [
                 {
                     "word": "gobernador",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -202,7 +202,7 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -213,7 +213,7 @@
             "footnotes": [
                 {
                     "word": "kapatid",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -224,7 +224,7 @@
             "footnotes": [
                 {
                     "word": "maliligtas.",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -235,7 +235,7 @@
             "footnotes": [
                 {
                     "word": "matatapos",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -246,7 +246,7 @@
             "footnotes": [
                 {
                     "word": "hihigit",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -257,7 +257,7 @@
             "footnotes": [
                 {
                     "word": "Beelzebub",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -280,11 +280,11 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "Gehenna.",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": null
@@ -295,7 +295,7 @@
             "footnotes": [
                 {
                     "word": "tansong",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -318,11 +318,11 @@
             "footnotes": [
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "32-2"
                 }
             ],
             "outlines": null
@@ -333,7 +333,7 @@
             "footnotes": [
                 {
                     "word": "itatatwa",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -344,7 +344,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": [
@@ -364,7 +364,7 @@
             "footnotes": [
                 {
                     "word": "kasambahay.",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -375,7 +375,7 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -386,7 +386,7 @@
             "footnotes": [
                 {
                     "word": "nagpapasan",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -397,11 +397,11 @@
             "footnotes": [
                 {
                     "word": "nakasusumpong",
-                    "note": ""
+                    "id": "39-1"
                 },
                 {
                     "word": "mawawalan",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -412,7 +412,7 @@
             "footnotes": [
                 {
                     "word": "tumatanggap",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": [
@@ -426,15 +426,15 @@
             "footnotes": [
                 {
                     "word": "tumatanggap",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "propeta",
-                    "note": ""
+                    "id": "41-2"
                 },
                 {
                     "word": "matuwid",
-                    "note": ""
+                    "id": "41-2"
                 }
             ],
             "outlines": null
@@ -445,10 +445,164 @@
             "footnotes": [
                 {
                     "word": "gantimpala.",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 12-2 sa Apocalipsis 21. Gayundin sa b. 2"
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “awtoridad” na magpalayas ng mga karumal-dumal na espiritu at magpagaling ng mga karamdaman dito ay isang tikim ng kapangyarihan ng darating na kapanahunan (Heb. 6:5), na siyang kapangyarihan ng isang libong taong kaharian, kung saan ang lahat ng demonyo ay mapalalayas at ang lahat ng karamdaman ay mapagagaling (Isa. 35:5-6)."
+        },
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 12-2 sa Apocalipsis 21."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang isang apostol ay isang isinugo. Ngayon ang labindalawang disipulo (b.1) ay isusugo, sa gayon naging “ang labindalawang apostol.”"
+        },
+        {
+            "id": "3-1",
+            "text": "Itinala nina Marcos at Lucas si Mateo bago si Tomas (Marc. 3:18; Luc. 6:15), ngunit itinala ni Mateo, ang manunulat ng aklat na ito, ang kanyang sarili pagkatapos ni Tomas, ipinakikita ang kanyang pagpapakumbaba."
+        },
+        {
+            "id": "3-2",
+            "text": "Tinukoy ni Mateo ang kanyang sarili rito bilang “ang maniningil ng buwis,” inaalaala marahil ang kanyang kaligtasan nang may pagpapasalamat. Maging ang isang hinamak at makasalanang maniningil ng buwis ay maaaring maging isang apostol ng Hari ng makalangit na kaharian. Anong kaligtasan!"
+        },
+        {
+            "id": "3-3",
+            "text": "Siya ay si Judas (Luc. 6:16; Gawa 1:13; Juan 14:22)."
+        },
+        {
+            "id": "4-1",
+            "text": "Mula sa salitang Hebreo na kanná, masikap, tumutukoy sa isang sektang Galileo na kilala bilang mga Masisikap, hindi sa lupain ng Canaan. (Tingnan ang Luc. 6:15; Gawa 1:13)."
+        },
+        {
+            "id": "4-2",
+            "text": "Isang salitang Griyego, marahil nagmula sa Hebreo, na nangangahulugang isang taga-Kerioth. Ang Kerioth ay nasa Judah (Jos. 15:25). Sa gayon, si Judas ang natatanging apostol na nagmula sa Judea; ang lahat na ay mga Galileo."
+        },
+        {
+            "id": "4-3",
+            "text": "Lit. nagbigay, katulad ng nasa buong aklat."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “mga Samaritano” ay ang mga mestisong Hentil at Hudyo (2 Hari 17:24; Ezra 4:10; Juan 4:9). Ang labindalawang apostol ay isinugo sa sambahayan ni Israel (b. 6), at sinabihang huwag pumunta sa mga Hentil ni sa mga Samaritano."
+        },
+        {
+            "id": "7-1",
+            "text": "Kahit na sa panahong ito ang kaharian ng mga kalangitan ay hindi pa nakararating, kundi “nalalapit” pa lang."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang labindalawang apostol (isinugo sa sambahayan ni Israel, hindi sa mga Hentil), bilang mga manggagawang karapat-dapat sa kanilang pagkain, ay hindi nangailangang magbaon ng kanilang mga pangangailangan sa ikabubuhay. (Gayon pa man, ang mga manggagawa ng Panginoon na isinugo sa mga Hentil ay hindi nararapat na kumuha ng anuman mula sa mga Hentil — 3 Juan 7.) Ang prinsipyong ito ay binago nang ang Panginoon ay lubusang itinakwil ng sambahayan ni Israel (Luc. 22:35-38)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ito ay nagpapakita na ang kaparusahan ng paghahatol ng Diyos ay nasa iba’t ibang antas. Ang tanggihan ang mga apostol ng Panginoon at ang kanilang mga salita (b. 14) ay magsasanhi ng higit na kaparusahan kaysa sa kasalanan ng Sodoma at Gomora."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang propesiya na sinalita ng makalangit na Hari rito hinggil sa pag-uusig ng Hudaismo sa Kanyang mga apostol ay nagpakita na ang kaharian na Kanyang itinatatag sa pamamagitan ng pagpapahayag ng Kanyang mga apostol ay tatanggihan ng Hudaismo. Ito rin ay nagpapatunay na ang Kanyang kaharian ay hindi makalupa kundi makalangit."
+        },
+        {
+            "id": "17-2",
+            "text": "Tingnan ang tala 22-6 sa kap. 5."
+        },
+        {
+            "id": "18-1",
+            "text": "Kaparehong Griegong salitang mga prinsipe 2:6."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang mga apostol ay hindi lamang may awtoridad ng makalangit na Hari (b. 1), bagkus may Espiritu rin ng kanilang makalangit na Ama. Ang awtoridad ng Hari ay tumutuos sa mga karumal-dumal na espiritu at mga karamdaman; ang Espiritu ng Ama ay tumutuos sa pag-uusig ng mga tumutuligsa."
+        },
+        {
+            "id": "21-1",
+            "text": "Upang maging mga apostol ng makalangit na Hari para sa pagpapahayag ng ebanghelyo ng kaharian, sila ay dapat na magdusa ng pagkaputol ng pinakamalapit na pantaong kaugnayan."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang “maliligtas” dito ay maaaring mangahulugang maligtas mula sa yaong nangapopoot, subalit sa kalaunan ito ay nangangahulugang maligtas tungo sa pagpapakita ng kaharian ng mga kalangitan, isang gantimpala sa mga mandaraig na mananampalataya. Ito ay naiiba sa walang-hanggangg kaligtasan katulad ng ipinahayag ng Efe. 2:8."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang salitang ito ay hindi pa natupad sa panahon ng pagpapahayag ng labindalawang apostol bago maipako sa krus si Kristo, kundi ito ay matutupad sa panahon ng matinding kapighatian (24:21). Kung ano ang naipropesiya sa mga bersikulo 17-23 ay katulad na katulad ng nasa 24:9-13. Dito isinugo ng makalangit na Hari ang mga apostol upang ipahayag ang ebanghelyo ng kaharian sa mga Hudyo. Pagkaraan ng Kanyang pagkabuhay na muli, isinugo Niya ang Kanyang mga apostol upang ipahayag ang ebanghelyo sa mga Hentil. Pagkaraan ng kapunuan ng bilang ng mga maliligtas na Hentil, isusugo Niya ang Kanyang mga apostol upang ipahayag muli ang ebanghelyo ng kaharian sa mga Hudyo. Sa panahong yaon ang salitang ito ay matutupad, at Siya ay darating."
+        },
+        {
+            "id": "24-1",
+            "text": "Ayon sa ibig sabihin ng nilalaman, ang salita rito ay nangangahulugang sa pagdurusa sa pag-uusig ang Kanyang mga apostol ay hindi “hihigit” sa Kanya, sapagkat ang pag-uusig sa Kanya ay umabot sa sukdulan."
+        },
+        {
+            "id": "25-1",
+            "text": "Nangangahulugang panginoon ng mga langaw, ang pangalan ng diyos ng mga taga-Ekron (2 Hari 1:2). Dahil sa pag-aalipusta ng mga Hudyo ito ay ginawang Baalzebel na nangangahulugang panginoon ng bunton ng dumi, at ginamit para sa pinuno ng mga demonyo (12:24, 27; Marc. 3:22; Luc. 11:15, 18-19). Ang mga Fariseo, ang mga nangunguna sa relihiyon ng mga Hudyo, ay nanlait sa makalangit na Hari sa pagsasabi na Siya ay nagpapalayas ng mga demonyo sa pamamagitan ng pinuno ng mga demonyo sa 9:34. Itong pinakananlalapastangang pangalan ay naghayag ng kanilang matinding pagtutol at pagtakwil."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang Diyos ang tanging Isa “Na may kakayahang pumuksa kapwa ng kaluluwa at ng katawan sa Gehenna.” Ang salitang ito ay nagpapahiwatig na kung hindi matitiis ng mga apostol na isinugo ng Panginoon ang pag-uusig, sila ay didisiplinahin ng Diyos. Ito ay magaganap sa darating na kapanahunan, pagkatapos ng paghuhukom sa luklukan ng paghahatol ni Kristo, kung kailan ang mga mananampalataya ay tatanggap ng gantimpala o kaparusahan (2 Cor. 5:10; Apoc. 22:12)."
+        },
+        {
+            "id": "28-2",
+            "text": "Tingnan ang tala 22-8 sa kap. 5."
+        },
+        {
+            "id": "29-1",
+            "text": "Isang sinaunang baryang Romano na katumbas ng 1/16 ng isang denaryo. Tingnan ang tala 7-1 sa Juan 6."
+        },
+        {
+            "id": "32-1",
+            "text": "Ipinahihiwatig ang kanyang pakikipagkaisa sa Panginoon."
+        },
+        {
+            "id": "32-2",
+            "text": "Ipinahihiwatig ang pakikipagkaisa ng Panginoon sa kanya."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang salitang ito ay sinabi ng makalangit na Hari sa Kanyang mga apostol na Kanyang isinugo upang ipahayag ang ebanghelyo ng kaharian. Kanyang paunang sinabi na sila ay pag-uusigin (bb. 17, 21-23). Kung ang sinuman na nasa ilalim ng pag-uusig ay magtatwa sa Kanya, Kanyang itatatwa ang taong ito. Ito ay magaganap sa Kanyang pagbabalik (16:27). Ang maitatwa o kilalanin Niya sa panahong yaon ang magtatalaga kung karapat-dapat o hindi karapat-dapat ang Kanyang mga apostol na pumasok sa kaharian ng mga kalangitan sa darating na kapanahunan bilang gantimpala."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang buong lupa ay nasa ilalim ng pangangamkam ni Satanas (1 Juan 5:19). Ang makalangit na Hari ay dumating upang tawagin ang ilan mula sa kanyang pangangamkam. Ito ay tiyak na pumukaw sa paglaban ni Satanas. Sinulsulan niya ang mga tao sa ilalim ng kanyang pangangamkam upang lumaban sa mga tinawag ng makalangit na Hari. Sa gayon, ang Kanyang pagdating ay hindi “nagdala ng kapayapaan kundi ng isang tabak.”"
+        },
+        {
+            "id": "36-1",
+            "text": "Ang paglalabang sinulsulan ng mapangamkam na Satanas laban sa mga tinawag ng makalangit na Hari ay nangyayari kahit na sa kanilang sambahayan. Ang mga makalangit na tinawag ay tinutuligsa sa kanilang mga tahanan ng kanilang mga kamag-anak na nananatili sa ilalim ng mapangamkam na kamay ng masamang isa."
+        },
+        {
+            "id": "37-1",
+            "text": "Ang ating pag-ibig ay kinakailangang maging lubos para sa Panginoon. Sa ating pag-ibig ay walang dapat maging “higit” sa Kanya. Siya ang Isa na pinakakarapat-dapat sa ating pag-ibig, at kinakailangang tayo ay maging “karapat-dapat” sa Kanya."
+        },
+        {
+            "id": "38-1",
+            "text": "Si Kristo ay naipako sa pamamagitan ng pagtanggap sa kalooban ng Ama (26:39, 42). Nang Siya ay nabautismuhan, Siya ay ibinilang nang naipako, at magmula sa panahong iyon, Kanyang pinasan ang Kanyang krus upang gawin ang kalooban ng Diyos. Ang Kanyang mga tinawag ay kaisa Niya. Kanyang hiniling sa kanila na “pasanin” ang kanilang “krus” at “sumunod” sa Kanya; yaon ay, upang kunin ang kalooban ng Diyos sa pamamagitan ng pagsasaisantabi ng kanilang mga sarili. Ito ay humihiling na sila, sa anumang halaga, ay magbigay muna ng kanilang pag-ibig sa Kanya upang sila ay maaaring maging karapat-dapat sa Kanya."
+        },
+        {
+            "id": "39-1",
+            "text": "Ang “masumpungan” ang “pangkaluluwang buhay” ay ang hayaan ang kaluluwa na magkaroon ng pagtatamasa at hindi magdusa. Ang “iwala” ang “pangkaluluwang buhay” ay ang magsanhi sa kaluluwa na magdusa sa pagkawala ng pagtatamasa nito. Kung hahayaan ng mga tagasunod ng makalangit na Hari na magkaroon ng pagtatamasa ang kanilang kaluluwa sa kapanahunang ito, sasanhiin nilang magdusa ang kanilang kaluluwa sa pagkawala ng pagtatamasa nito sa darating na kapanahunan ng kaharian. Kung kanilang hahayaan ang kanilang kaluluwa na magdusa ng pagkawala ng pagtatamasa nito sa kapanahunang ito para sa kapakanan ng Hari, sasanhiin nila ang kanilang kaluluwa na magkaroon ng katamasahan nito sa darating na kapanahunan ng kaharian, yaon ay, ang makibahagi sa kagalakan ng Hari sa pamumuno sa lupa (25:21, 23)."
+        },
+        {
+            "id": "40-1",
+            "text": "Ang mga apostol na isinugo ng makalangit na Hari, na pinagkakatiwalaan ng Kanyang awtoridad (b. 1) at kapayapaan (b. 13), at pinananahanan ng Espiritu ng Ama at nakipag-isa sa Kanya sa Kanyang pagdurusa (bb. 22, 24-25) at kamatayan (bb. 21, 34-39), ay kaisa Niya. Sa gayon, ang tumatanggap sa kanila ay tumatanggap sa Kanya. Ang makilahok sa gayong pakikipag-isa sa makalangit na Hari ay nangangailangang ibigin natin Siya nang higit sa lahat, sa anumang halaga, at sumunod sa Kanya sa pamamagitan ng pagtahak sa makitid na daan ng krus, katulad ng pagkahayag sa mga bersikulo 37-39."
+        },
+        {
+            "id": "41-1",
+            "text": "Ang isang tumatanggap sa isang propeta ay nakaugpong sa salita ng propeta, at ang isang tumatanggap sa isang matuwid na tao ay nakaugpong sa katuwiran ng matuwid na tao. Sa gayon, sila ay tatanggap ng gantimpala katulad ng tatanggapin ng propeta at ng matuwid na tao."
+        },
+        {
+            "id": "41-2",
+            "text": "Ang isang “propeta” ay isang nagsasalita para sa Diyos at sinasalita ang Diyos. Ang isang “matuwid na tao” ay isang naghahanap ng katuwiran, gumagawa ng katuwiran, at inuusig dahil sa katuwiran para sa kaharian (5:6, 10, 20; 6:1). Ang makalangit na Hari ay isang gayong propeta na isinugo ng Diyos (Deut. 18:15) at isang gayong matuwid na tao (Gawa 3:14). Ang Kanyang mga apostol na isinugo Niya, nakipag-isa sa Kanya, ay mga gayunding propeta at mga taong matuwid. Kaya, ang sinumang tumatanggap sa kanila ay tatanggap ng gantimpala."
+        },
+        {
+            "id": "42-1",
+            "text": "Ang “gantimpalang” ito ay ibibigay sa darating na kapanahunan ng kaharian (Luc. 14:14)."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 10,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "hangganan",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "tinuruan",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -24,11 +24,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": [
@@ -65,7 +65,7 @@
             "footnotes": [
                 {
                     "word": "at",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -114,15 +114,15 @@
             "footnotes": [
                 {
                     "word": "nagalit",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Pabayaan",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "ganyan",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -145,7 +145,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": [
@@ -176,11 +176,11 @@
             "footnotes": [
                 {
                     "word": "giniliw",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "Akin.",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -203,7 +203,7 @@
             "footnotes": [
                 {
                     "word": "Diyos!",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -220,7 +220,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -249,7 +249,7 @@
             "footnotes": [
                 {
                     "word": "buhay.",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -274,15 +274,15 @@
             "footnotes": [
                 {
                     "word": "ibibigay",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "33-2"
                 },
                 {
                     "word": "patayin,",
-                    "note": ""
+                    "id": "33-3"
                 }
             ],
             "outlines": null
@@ -299,7 +299,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": [
@@ -324,11 +324,11 @@
             "footnotes": [
                 {
                     "word": "sarong",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "bautismong",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": null
@@ -375,15 +375,15 @@
             "footnotes": [
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "45-1"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "45-2"
                 },
                 {
                     "word": "pantubos",
-                    "note": ""
+                    "id": "45-3"
                 }
             ],
             "outlines": null
@@ -394,7 +394,7 @@
             "footnotes": [
                 {
                     "word": "bulag,",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": [
@@ -407,7 +407,7 @@
             "footnotes": [
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "47-1"
                 }
             ],
             "outlines": null
@@ -424,7 +424,7 @@
             "footnotes": [
                 {
                     "word": "Tawagin",
-                    "note": ""
+                    "id": "49-1"
                 }
             ],
             "outlines": null
@@ -441,7 +441,7 @@
             "footnotes": [
                 {
                     "word": "Ano",
-                    "note": ""
+                    "id": "51-1"
                 }
             ],
             "outlines": null
@@ -452,10 +452,116 @@
             "footnotes": [
                 {
                     "word": "pinagaling",
-                    "note": ""
+                    "id": "52-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang Aliping-Tagapagligtas ay naghahain ng Kanyang pang-ebanghelyong paglilingkod sa loob ng mahigit na tatlong taon sa hinamak na rehiyon ng Galilea, (tingnan ang tala 14-1 , talata 2, sa kap. 1), malayo mula sa banal na templo at banal na lunsod kung saan Siya dapat mamatay para sa pagsasakatuparan ng walang hanggang plano ng Diyos. Siya, bilang Kordero ng Diyos (Juan 1: 29), ay nararapat ihandog sa Diyos sa Bundok Moria, kung saan inihandog ni Abraham si Isaac at tinamasa ang pagtutustos ng Diyos ng isang lalakeng tupa bilang kahalili para sa kanyang anak (Gen. 22:2,9-14) at kung saan ang templo ay itinayo sa Herusalem (2 Cron. 3:1). Kinakailangang doon Siya maibigay, ayon sa pasiyang itinakda ng Trinidad ng Pagka-Diyos (Gawa 2:23), sa mga namumunong Hudyo (9:31; 10:33), at doon ay itinakwil nila bilang siyang Tagapagtayo ng gusali ng Diyos (8:31; Gawa 4:11). Doon din Siya nararapat na maipako sa krus ayon sa pamamaraan ng taga-Roma ng parusang kamatayan (Juan 18:31-32 at tala; 19:6,14-15) upang maisakatuparan ang sagisag tungkol sa uri ng kamatayang Kanyang ikamamatay (Blg. 21:8-9; Juan 3:14). Bukod pa roon, ang taóng yaon mismo ay ang taón nang ang Mesiyas (Kristo) ay dapat putulin (patayin) ayon sa propesiya ni Daniel (Dan. 9:24-26). Higit pa roon, bilang Kordero ng Paskua (1 Cor. 5:7) Siya ay kailangang patayin sa buwan ng Paskua (Exo. 12:1-11). Kaya Siya ay kailangang pumunta sa Herusalem (10:33; 11:1,11,15,27; Juan 12:12) bago mag-Paskua (Juan 12:1; Marc. 14:1), upang Siya ay mamatay roon sa araw ng Paskua (14:12-17; Juan 18:28) kapwa sa lugar at sa oras na itinakda ng Diyos sa simula pa."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 21-2 sa kap. 1."
+        },
+        {
+            "id": "2-1",
+            "text": "Para sa mga bb. 2-12, tingnan ang mga tala sa Mat. 19:3-9."
+        },
+        {
+            "id": "2-2",
+            "text": "Tingnan ang tala 6-1 sa kap. 2."
+        },
+        {
+            "id": "7-1",
+            "text": "Inaalis ng ilang manuskrito ang, at makikisama sa kanyang asawa."
+        },
+        {
+            "id": "14-1",
+            "text": "Inihayag nito ang pagiging tunay ng pagkatao ng Aliping-Tagapagligtas. Tingnan ang tala 5-1 sa kap. 3."
+        },
+        {
+            "id": "14-2",
+            "text": "Inihayag din ang pagkatao ng Aliping-Tagapagligtas sa Kanyang hindi paghamak o pagpapabaya sa maliliit. Tingnan ang mga tala 36-1 sa kap. 9 at 21-1 sa kapitulong ito."
+        },
+        {
+            "id": "17-1",
+            "text": "Para sa mga bb. 17-31, tingnan ang mga tala sa Mat. 19:16-30."
+        },
+        {
+            "id": "21-1",
+            "text": "Ito rin ang paghahayag ng Aliping-Tagapagligtas sa Kanyang pagkatao. Tingnan ang mga tala 14-2 at 49-1 ."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, na pinapasan mo ang krus."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, ang mga nagsisiasa sa kayamanan!"
+        },
+        {
+            "id": "26-1",
+            "text": "Sa ilang manuskrito ay binabasang, sa Kanya."
+        },
+        {
+            "id": "30-1",
+            "text": "Tingnan ang tala 43-3 sa kap. 9."
+        },
+        {
+            "id": "33-1",
+            "text": "Dalawang ulit nang nagpropesiya ang Aliping-Tagapagligtas tungkol sa Kanyang kamatayan at pagkabuhay na muli (8:31; 9:31). Mula nang dumating ang oras ng Kanyang kamatayan (tingnan ang tala 1-1 ), Siya ay may pagnanais na pumaroon sa Herusalem, pumaroon nang nangunguna pa sa Kanyang mga tagasunod na may kabilisan at katapangan na nakagulat sa kanila (b. 32). Ito ay ang Kanyang pagiging masunurin sa Diyos hanggang sa kamatayan (Fil. 2:8), ayon sa takdang pasiya ng Diyos (Gawa 2:23), para sa pagsasakatuparan ng Kanyang plano ng pagtutubos (Isa. 53:10). Alam Niya na sa pamamagitan ng Kanyang kamatayan, Siya ay maluluwalhati sa pagkabuhay na muli (Luc. 24:25-26) at ang Kanyang dibinong buhay ay mapalalaya upang makapagbunga ng maraming kapatid para sa Kanyang kahayagan (Juan 12:23-24; Roma 8:29). Dahil sa kagalakang inilagay sa harapan Niya, winalang-halaga Niya ang kahihiyan (Heb. 12:2) at nagkusa na maibigay sa mga pinuno ng mga Hudyong nakamkam ni Satanas at makondena nila sa kamatayan. Dahil dito, itinaas Siya ng Diyos sa langit, iniluklok Siya sa Kanyang kanang kamay (16:19; Gawa 2:33-35), binigyan Siya ng pangalang lalo sa lahat ng pangalan (Fil. 2:9-10), ginawa Siyang Panginoon at Kristo (Gawa. 2:36), at pinutungan Siya ng kaluwalhatian at karangalan (Heb. 2:9)."
+        },
+        {
+            "id": "33-2",
+            "text": "Tingnan ang tala 6-1 sa kap. 2."
+        },
+        {
+            "id": "33-3",
+            "text": "Tingnan ang tala 18-1 sa Mat. 20."
+        },
+        {
+            "id": "35-1",
+            "text": "Para sa mga bb. 35-45, tingnan ang mga tala sa Mat. 20:20-28."
+        },
+        {
+            "id": "38-1",
+            "text": "Kapwa ang saro at ang bautismo ay tumutukoy sa kamatayan ng Aliping-Tagapagligtas (Juan 18:11; Luc. 12:50). Ang saro ay nagsasagisag na ang Kanyang kamatayan ay ang bahaging ibinigay sa Kanya ng Diyos upang inumin alang-alang sa mga makasalanan na Kanyang tutubusin para sa Diyos. Ang bautismo ay tumutukoy na ang Kanyang kamatayan ay ang itinalagang paraan ng Diyos para sa Kanya upang maraanan para sa pagsasagawa ng pagtutubos ng Diyos para sa mga makasalanan. Para sa atin, minatamis Niyang inumin ang sarong ito at tanggapin ang bautismong ito."
+        },
+        {
+            "id": "45-1",
+            "text": "Ito ang pinakamalakas na pagpapahayag, sinasabi na ang Aliping-Tagapagligtas bilang ang Anak ng Tao sa Kanyang pagkatao ay isang Alipin ng Diyos upang paglingkuran ang mga makasalanan maging sa pamamagitan ng Kanyang buhay."
+        },
+        {
+            "id": "45-2",
+            "text": "O, kaluluwa."
+        },
+        {
+            "id": "45-3",
+            "text": "Ito ay nagpapakita na maging ang pagtutubos ng Aliping-Tagapagligtas ay Kanyang paglilingkod na inihain sa mga makasalanan para sa plano ng Diyos."
+        },
+        {
+            "id": "46-1",
+            "text": "Tingnan ang tala 22-1 sa kap. 8."
+        },
+        {
+            "id": "47-1",
+            "text": "Tingnan ang tala 30-1 sa Mat. 20."
+        },
+        {
+            "id": "49-1",
+            "text": "Sa kabila ng pagwiwika ng marami sa kaawa-awang pulubing bulag, inatasan sila ng Aliping-Tagapagligtas na tawagin ang bulag. Inihayag muli nito ang Kanyang pagkatao sa Kanyang pagkaawa tungo sa mga kahabag-habag na tao. Tingnan ang mga tala 51-1 at 21-1 ."
+        },
+        {
+            "id": "51-1",
+            "text": "Anong hayag na pag-ibig tungo sa isang nangangailangan! Inihayag nito ang pagkatao ng Aliping-Tagapagligtas sa isang di-mailarawang lawak. Tingnan ang tala 49-1 ."
+        },
+        {
+            "id": "52-1",
+            "text": "Tingnan ang mga tala 31-1 sa kap. 1 at 28-1 sa kap. 5."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 23,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -18,11 +18,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -45,11 +45,11 @@
             "footnotes": [
                 {
                     "word": "pilakteria",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "laylayan",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -66,7 +66,7 @@
             "footnotes": [
                 {
                     "word": "Rabi",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -77,7 +77,7 @@
             "footnotes": [
                 {
                     "word": "Iisa",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -88,11 +88,11 @@
             "footnotes": [
                 {
                     "word": "Iisa",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -103,11 +103,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "Iisa",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -130,11 +130,11 @@
             "footnotes": [
                 {
                     "word": "mapagpaimbabaw,",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": [
@@ -148,11 +148,11 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -163,7 +163,7 @@
             "footnotes": [
                 {
                     "word": "Gehenna",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -174,7 +174,7 @@
             "footnotes": [
                 {
                     "word": "nagkakautang",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -185,7 +185,7 @@
             "footnotes": [
                 {
                     "word": "nagpapabanal",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -202,7 +202,7 @@
             "footnotes": [
                 {
                     "word": "nagpapabanal",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -231,11 +231,11 @@
             "footnotes": [
                 {
                     "word": "kahatulan",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -306,7 +306,7 @@
             "footnotes": [
                 {
                     "word": "propeta",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -323,7 +323,7 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -334,7 +334,7 @@
             "footnotes": [
                 {
                     "word": "Kong",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": [
@@ -348,11 +348,11 @@
             "footnotes": [
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "wasak.",
-                    "note": ""
+                    "id": "38-2"
                 }
             ],
             "outlines": null
@@ -363,10 +363,116 @@
             "footnotes": [
                 {
                     "word": "dumarating",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 4-1 sa kap. 2."
+        },
+        {
+            "id": "2-2",
+            "text": "Tingnan ang tala 7-1 sa kap. 3."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang pilakteria ay isang maliit na kahong balat ng tupa o kambing na sinulatan ng isang bahagi ng kautusan na isinusuot sa noo at sa kaliwang bisig, ayon sa Deut. 6:8 at 11:18. Pinalalapad ito ng mga eskriba at Fariseo upang gawin itong isang anting-anting."
+        },
+        {
+            "id": "5-2",
+            "text": "Hinihiling ng kautusan na ang mga Israelita ay gumawa ng “mga palawit sa laylayan” ng kanilang mga damit na may gasang asul, sumasagisag na ang kanilang asal (sinasagisag ng kasuotan) ay pinamamahalaan ng makalangit na paghahari (tinutukoy ng gasang asul), at pinaaalalahanan sila na tuparin ang mga utos ng Diyos (Blg. 15:38-39). Pinalapad ng mga eskriba at Fariseo ang mga palawit, nagkukunwari na kanilang sinusunod ang mga utos ng Diyos at pinangangasiwaan sila ng mga ito sa isang humihigit na antas."
+        },
+        {
+            "id": "7-1",
+            "text": "Isang titulo ng karangalan na nangangahulugang guro at taong nagmamay-ari."
+        },
+        {
+            "id": "8-1",
+            "text": "Si Kristo ang ating nag-iisang Guro at Nagmamay-ari sa atin."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang Diyos lamang ang ating Ama."
+        },
+        {
+            "id": "9-2",
+            "text": "Sa literal ay, ang makalangit"
+        },
+        {
+            "id": "10-1",
+            "text": "O, patnubay, tagapagturo, tagapangasiwa."
+        },
+        {
+            "id": "10-2",
+            "text": "Si Kristo lamang ang ating Lider, Tagapatnubay, Tagapagturo, at Tagapangasiwa."
+        },
+        {
+            "id": "13-1",
+            "text": "Tingnan ang tala 2-2 sa kapitulo 6."
+        },
+        {
+            "id": "13-2",
+            "text": "Sa Kristiyanidad sa kasalukuyan, ang ilan ay katulad nito."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang bersikulong ito ay hindi natatagpuan sa mga pinakaunang manuskrito."
+        },
+        {
+            "id": "15-1",
+            "text": "Tingnan ang tala 22-8 sa kap. 5. Gayundin sa b. 33."
+        },
+        {
+            "id": "16-1",
+            "text": "Gr. siya ay nagkakautang katulad sa bersikulo 18."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay ang gawing banal sa pamposisyon ang ginto sa pamamagitan ng pagpapalit ng posisyon nito, mula sa isang karaniwang lugar tungo sa isang banal na lugar. Tingnan ang tala 19-1 sa Roma 6."
+        },
+        {
+            "id": "19-1",
+            "text": "Ito ay isa ring uri ng pamposisyong pagpapabanal, hindi pandisposisyon, sa pamamagitan ng paglilipat ng kinalalagyan ng handog mula sa isang pangkaraniwang lugar tungo sa isang banal na lugar. Tingnan ang tala 19 1 sa Roma 6."
+        },
+        {
+            "id": "19-1 sa Roma 6.",
+            "text": "23-1"
+        },
+        {
+            "id": "23-1",
+            "text": "Ang “kahatulan” dito ay tumutukoy sa katarungan."
+        },
+        {
+            "id": "23-2",
+            "text": "Bagama’t pinagdidiinan ng Panginoon ang “higit na matitimbang na bagay,” inatasan din Niya tayong huwag kaligtaan ang magagaang bagay."
+        },
+        {
+            "id": "34-1",
+            "text": "Ito ay ang Bagong Tipang mga apostol na isinugo ng Panginoon."
+        },
+        {
+            "id": "36-1",
+            "text": "Ang lahat ng bagay ay tumutukoy sa kasalanan ng pagpapadanak ng dugo ng matutuwid na tao sa mundo."
+        },
+        {
+            "id": "37-1",
+            "text": "Palaging ang Diyos Mismo ang Siyang nag-aaruga sa Herusalem, tulad sa isang ibon na yumuyungyong sa kanyang mga inakay (Isa. 31:5; Deut. 32:11-12). Kaya, nang sinabi ng Panginoong Hesus, “Gaanong kadalas Kong inibig na tipunin ang iyong mga anak tulad ng pagtitipon ng inahing manok sa kanyang mga sisiw sa ilalim ng kanyang mga pakpak,” Kanyang ipinakita na Siya ang Diyos Mismo."
+        },
+        {
+            "id": "38-1",
+            "text": "Yayamang ang “bahay” rito ay pang-isahan, ito ay nararapat na mangahulugang bahay ng Diyos, ang templo (21:12-13). Ito ang bahay ng Diyos, ngunit ngayon ay tinatawag itong “inyong bahay,” sapagkat ginawa nila itong isang yungib ng mga tulisan (21:13)."
+        },
+        {
+            "id": "38-2",
+            "text": "Ang propesiyang ito ay tumutugma sa yaong nasa 24:2, na naganap nang wasakin ni Tito ang Herusalem kasama ang hukbong Romano noong A.D. 70."
+        },
+        {
+            "id": "39-1",
+            "text": "Ito ang magiging pangalawang pagdating ng Panginoon, kapag ang lahat ng labi ng Israel ay bumaling upang manampalataya sa Kanya at maligtas (Roma 11:23, 26)."
         }
     ]
 }

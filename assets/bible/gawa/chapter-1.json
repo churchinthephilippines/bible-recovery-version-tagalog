@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Teofilo,",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -28,7 +28,7 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -39,19 +39,19 @@
             "footnotes": [
                 {
                     "word": "ipinakita",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "apatnapung",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "nagpapakita",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": [
@@ -68,11 +68,11 @@
             "footnotes": [
                 {
                     "word": "nakikipagpulong",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "pangako",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": [
@@ -85,11 +85,11 @@
             "footnotes": [
                 {
                     "word": "tubig,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "babautismuhan",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -100,7 +100,7 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -117,19 +117,19 @@
             "footnotes": [
                 {
                     "word": "tatanggapin",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "dumapo",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "saksi",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "hanggang",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": null
@@ -154,19 +154,19 @@
             "footnotes": [
                 {
                     "word": "langit,",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "pariritong",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "gaya",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "nakitang",
-                    "note": ""
+                    "id": "11-4"
                 }
             ],
             "outlines": null
@@ -177,11 +177,11 @@
             "footnotes": [
                 {
                     "word": "Herusalem",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "Sabbath",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -195,11 +195,11 @@
             "footnotes": [
                 {
                     "word": "Masikap,",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -210,15 +210,15 @@
             "footnotes": [
                 {
                     "word": "nagtitiyaga",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "pananalangin,",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "Maria",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -229,11 +229,11 @@
             "footnotes": [
                 {
                     "word": "tao,",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "nagsabi,",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": [
@@ -246,7 +246,7 @@
             "footnotes": [
                 {
                     "word": "Mga",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -257,7 +257,7 @@
             "footnotes": [
                 {
                     "word": "ministeryong",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -268,7 +268,7 @@
             "footnotes": [
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -279,11 +279,11 @@
             "footnotes": [
                 {
                     "word": "Akeldama,",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "Dugo.",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -294,7 +294,7 @@
             "footnotes": [
                 {
                     "word": "episkopo.",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -305,7 +305,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -316,7 +316,7 @@
             "footnotes": [
                 {
                     "word": "pagkabuhay",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -345,10 +345,168 @@
             "footnotes": [
                 {
                     "word": "palabunutan",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 3-1 sa Lucas 1."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 1-1 sa Lucas 1."
+        },
+        {
+            "id": "1-3",
+            "text": "Tingnan ang tala 1-5 sa Lucas 1."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang nabuhay na muling Kristo ay naging Espiritung nagbibigay-buhay (1 Cor. 15:45), gayunpaman, sa pagkabuhay na muli ginawa Niya ang mga bagay sa pamamagitan ng Espiritu Santo (Juan 20:22)."
+        },
+        {
+            "id": "3-1",
+            "text": "Ito ay upang sanayin ang mga disipulo na isagawa at tamasahin ang di-nakikitang presensiya ng Panginoon. Tingnan ang tala 26-3 sa Juan 20."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang apatnapung araw ay isang panahon ng pagsubok at pagsusuri (tingnan ang tala 2-1 sa Mat. 4)."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang nabuhay na muling Kristo ay nananahan sa mga disipulo, yamang inihinga Niya ang Kanyang Sarili bilang Espiritu sa loob nila noong araw ng Kanyang pagkabuhay na muli (Juan 20:22). Ang Kanyang pagpapakita ay hindi nangangahulugang Kanyang iniwan sila; ito ay nangangahulugang ginawa Niyang nakikita ang Kanyang presensiya sa kanila, sinasanay sila na matanto at matamasa ang Kanyang di-nakikitang presensiya sa lahat ng panahon."
+        },
+        {
+            "id": "3-4",
+            "text": "Ito ay nagpapatunay na ang kaharian ng Diyos ang magiging pangunahing paksa ng pagpapahayag ng mga apostol sa kanilang darating na gawain pagkatapos ng Pentecostes (8:12; 14:22; 19:8; 20:25; 28:23, 31). Ito ay hindi isang materyal na kahariang nakikita ng pantaong paningin, kundi isang kaharian ng dibinong buhay. Ito ang pagpapalaganap ng Kristo bilang buhay sa loob ng Kanyang mga mananampalataya upang makabuo ng isang kinasasakupan kung saan sa Kanyang buhay ang Diyos ay naghahari. Tingnan ang mga tala 15-1 sa Marcos 1, 26-1 sa Marcos 4, at 43-2 sa Lucas 4."
+        },
+        {
+            "id": "4-1",
+            "text": "O, magkakasama silang kumakain."
+        },
+        {
+            "id": "4-2",
+            "text": "Tingnan ang tala 49-1 sa Lucas 24, cf. tala 17-1 sa Juan 14."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang mga tala 6-1 sa Mateo 3 at 8-1 sa Marcos 1."
+        },
+        {
+            "id": "5-2",
+            "text": "Ito ay maisasakatuparan sa dalawang seksiyon 1) ang lahat ng mga mananampalatayang Hudyo ay babautismuhan sa Espiritu Santo sa araw ng Pentecostes (2:4); at 2) ang lahat ng mga mananampalatayang Hentil ay babautismuhan sa bahay ni Cornelio (10:44-47; 11:15-17). Sa dalawang seksiyong ito, ang lahat ng mga tunay na mananampalataya kay Kristo sa sansinukob ay nabautismuhan sa Espiritu Santo tungo sa loob ng iisang Katawan nang minsan lamang para sa lahat (1 Cor. 12:13 at tala 1)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang kaharian ng Israel, na hinahanap ng mga apostol at ng ibang mga taimtim na Hudyo, ay isang materyal na kaharian, naiiba sa kaharian ng buhay ng Diyos na binanggit sa bersikulo 3. Itong kaharian ng buhay ang siyang itinatayo ni Kristo sa pamamagitan ng pagpapahayag ng Kanyang ebanghelyo. Tingnan ang 3-4 ."
+        },
+        {
+            "id": "8-1",
+            "text": "Ito ay ang mabautismuhan sa Espiritu Santo (b. 5) para sa katuparan ng pangako ng Ama (b. 4)."
+        },
+        {
+            "id": "8-2",
+            "text": "Kaiba sa “nananahan sa inyo” (Juan 14:17). Ang Espiritu Santo ay inihinga sa loob ng mga disipulo noong araw ng pagkabuhay na muli ng Panginoon (Juan 20:22) upang sa pang-esensiya ay maging Espiritu ng buhay (Roma 8:2) sa kanila. Ang Espiritu Santo ring ito sa pang- ekonomiya ay dadapo sa mga disipulo sa araw ng Pentecostes upang maging Espiritu ng kapangyarihan. Tingnan ang tala 49-3 sa Lucas 24."
+        },
+        {
+            "id": "8-3",
+            "text": "Lit. mga martir, yaong nagdadala ng isang buháy na patotoo ng nabuhay na muli at umakyat sa langit na Kristo sa loob ng buhay, naiiba sa mga tagapangaral na nangangaral lamang ng mga doktrina ayon sa mga titik. Sa Kanyang pagiging laman, isinagawa ni Kristo sa pamamagitan Niya Mismo ang Kanyang ministeryo sa lupa, gaya ng nakatala sa mga Ebanghelyo, upang ihasik ang Kanyang Sarili bilang binhi ng kaharian ng Diyos sa lupain ng mga Hudyo lamang. Sa Kanyang pag-akyat sa langit isasagawa Niya ang Kanyang ministeryo sa langit, gaya ng nakatala sa aklat na ito, sa pamamagitan ng mga martir na ito sa loob ng Kanyang pagkabuhay na muling buhay at sa pamamagitan ng Kanyang kapangyarihan at awtoridad ng pag-akyat sa langit upang ipalaganap ang Kanyang Sarili bilang ang pagyabong ng kaharian ng Diyos mula sa Herusalem, bilang isang pasimula, hanggang sa kadulu-duluhang hangganan ng lupa, bilang kaganapan ng Kanyang ministeryo sa Bagong Tipan. Ang lahat ng mga apostol at mga disipulo sa aklat na ito ay Kanyang ganitong uring mga martir, Kanyang ganitong uring mga saksi, ng uring ito (reperensiya 8 c ). Tingnan ang mga tala 11-3 sa kapitulo 23 at 16-1 sa kapitulo 26."
+        },
+        {
+            "id": "8-4",
+            "text": "O, maging sa."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang Ebanghelyo ni Lucas ay nagtatapos sa pag-akyat sa langit ng Panginoon (Luc. 24:51), at ang kanyang aklat ng Mga Gawa ay nagsisimula tungkol dito. Ang kanyang Ebanghelyo ay isang pagsasalaysay ng ministeryo sa lupa ng Hesus na naging laman; ang kanyang Mga Gawa ay isang tala ng sumusunod na ministeryo ng nabuhay na muli at umakyat sa langit na Kristo na isinagawa sa pamamagitan ng Kanyang mga mananampalataya sa lupa. Sa mga Ebanghelyo, ang Panginoon Mismo ang nagsakatuparan ng Kanyang ministeryo na nasa lupa, Kanyang inihasik lamang ang Kanyang Sarili tungo sa loob ng mga mananampalataya bilang binhi ng kaharian ng Diyos. Sa panahong yaon ang ekklesia ay hindi pa naitayo. Sa Mga Gawa, ang Kanyang ministeryo sa langit, na isinagawa sa pamamagitan ng Kanyang mga mananampalataya sa Kanyang pagkabuhay na muli at pag-akyat sa langit, ay ikinalat Siya bilang ang pagyabong ng kaharian ng Diyos para sa pagtatayo ng ekklesia (Mat. 16:18) sa lahat ng dako ng buong sanlibutan upang bumuo ng Kanyang Katawan, na siya Niyang kapuspusan (Efe. 1:23), nang sa gayon ay ihayag Siya; bukod pa roon, upang maging ang kapuspusan ng Diyos (Efe. 3:19) para sa kahayagan ng Diyos."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang pag-akyat sa langit ng Panginoon ay tumutukoy sa Kanyang pagbabalik. Sa pagitan ng dalawang ito ay ang kapanahunan ng biyaya nang sa gayon Siya, bilang ang malahanging Kristo, ang Espiritung nagbibigay-buhay (1 Cor. 15:45), ay makapagsagawa ng Kanyang nagpapaloob ng lahat na pagtutubos sa mga taong hinirang ng Diyos para sa kanilang ganap na kaligtasan, upang Kanyang maibunga at maitayo ang ekklesia, bilang Kanyang Katawan, para sa pagtatatag ng kaharian ng Diyos sa lupa."
+        },
+        {
+            "id": "11-3",
+            "text": "Si Kristo ay umakyat sa langit sa pamamagitan ng isang alapaap, nakikita ng pantaong paningin, at sa Bundok Olivo (b. 12). Siya ay babalik sa ganoon ding paraan na nakikita, sa alapaap (Mat. 24:30) at sa bundok ding yaon (Zac. 14:4)."
+        },
+        {
+            "id": "11-4",
+            "text": "Pinalakas ng pangitaing ito ng pag-akyat sa langit ni Kristo ang pananampalataya ng mga disipulo sa Kanya at sa kung ano ang Kanyang nagawa para sa kanila sa pamamagitan ng Kanyang kamatayan at pagkabuhay na muli. Pinalawak nito ang kanilang pananaw sa makalangit na ekonomiya ng Diyos, na siyang nagdala sa kanila sa loob ng pakikipagtulungan sa ministeryo ni Kristo sa langit para sa pagsasagawa ng Bagong Tipang ekonomiya ng Diyos sa ibabaw ng lupa. Ang lahat ng mananampalataya ay nararapat magkaroon ng ganitong pangitain tungkol sa pag-akyat sa langit ni Kristo."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang mga disipulo ay bumalik sa Herusalem upang tuparin ang mga salita ng Panginoon sa Luc. 24:49 at Gawa 1:4, nang sa gayon kanilang matanggap sa pang-ekonomiya ang Espiritu ng kapangyarihan gaya ng ipinangako ng Ama. Silang lahat ay mga taga-Galilea (b. 11). Para sa kanila na manatili sa Herusalem, lalung-lalo na sa ilalim ng pagbabanta ng mga pinunong Hudyo, ay nangangahulugang inilalagay nila sa panganib ang kanilang mga buhay."
+        },
+        {
+            "id": "12-2",
+            "text": "Ayon sa maka-Hudyong tradisyon, ang isang araw ng Sabbath na lakbayin ay katumbas ng 3/4 ng isang milya."
+        },
+        {
+            "id": "13-1",
+            "text": "Tumutukoy sa isang grupo ng mga relihiyosong Galileo na lubhang masidhi para sa kanilang relihiyon, lalung-lalo na para sa mga kautusan ni Moises. Tingnan ang tala 4-1 sa Mat. 10."
+        },
+        {
+            "id": "13-2",
+            "text": "O, kapatid na lalake (Judas 1)."
+        },
+        {
+            "id": "14-1",
+            "text": "Bago ang kamatayan ng Panginoon ang mga disipulo ay walang interes na manalangin para sa mga espirituwal na bagay (Luc. 22:40, 45-46); manapa sila ay nagtatalu-talo sa kanilang mga sarili kung sino ang ituturing na higit na dakila (Luc. 22:24). Subali’t ngayon, pagkatapos ng pagkabuhay na muli at pag-akyat sa langit ng Panginoon, ang kanilang espirituwal na kondisyon ay lubusang nagbago. Sila ay hindi na nagtatalu-talo sa kanilang mga sarili, kundi nagkaroon na ng kabigatan na matiyagang manalangin na may isang puso’t kaisipan, bago pa man ang araw ng Pentecostes, kung kailan nila tatanggapin sa pang-ekonomiya ang ibinuhos na Espiritu ng kapangyarihan na binanggit sa kapitulo 2. Ito ay isang malakas na tanda at katibayan na kanilang natanggap, sa pang-esensiya, ang nananahanang Espiritu ng buhay noong araw ng pagkabuhay na muli ng Panginoon (Juan 20:22). Ito ay isa ring katibayang sila ay napalakas sa Bagong Tipang ekonomiya ng Diyos sa pamamagitan ng pangitain ng pag-akyat sa langit ng Panginoon."
+        },
+        {
+            "id": "14-2",
+            "text": "Maaaring ipinanalangin ng mga disipulo na mabihisan sila ng Espiritu ng kapangyarihan na siyang pangako ng Ama, kaya sila ay inatasan ng Panginoon na manatili sa Herusalem (Luc. 24:49 at Gawa 1:4), at maaari ring ipinanalangin nila ang gawain na ibinigay sa kanila ng Panginoon sa Luc. 24:47-48 at Gawa 1:8 na dalhin ang Kanyang patotoo hanggang sa kadulu-duluhang hangganan ng lupa."
+        },
+        {
+            "id": "14-3",
+            "text": "Ang ina ni Hesus na si Maria ay binanggit dito sa huling pagkakataon sa Bagong Tipan."
+        },
+        {
+            "id": "15-1",
+            "text": "Lit. mga pangalan."
+        },
+        {
+            "id": "15-2",
+            "text": "Bago ang kamatayan ng Panginoon, si Pedro ay madalas magsalita ng mga bagay na walang kabuluhan (Mat. 16:22-23; 17:24-26; 26:33-35). Subali’t ngayon, pagkatapos ng pagkabuhay na muli ng Panginoon, kanya nang naipaliliwanag nang wasto ang mga propesiya sa Lumang Tipan sa kanilang tamang kahulugan (bb. 16-20). Ito ay isa ring katibayan na ang mga disipulo, bago nila natanggap sa pang-ekonomiya ang Espiritu ng kapangyarihan noong araw ng Pentecostes, ay nakatanggap na sa pang-esensiya ng Espiritu ng buhay noong araw ng pagkabuhay na muli ng Panginoon."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang ganitong katawagan ay higit na kagalang-galang at kapita-pitagan kaysa sa mga kapatid lamang. Tingnan din ang 1:11; 2:22, 29; 3:12."
+        },
+        {
+            "id": "17-1",
+            "text": "Binanggit din sa bersikulo 25 – ang ministeryong magdadala ng patotoo ni Hesus (b. 8). Bagama’t ang mga apostol ay labindalawa sa bilang, ang kanilang ministeryo ay namumukod tanging isa – ang ministeryong ito, isang sama-samang ministeryo na nasa prinsipyo ng Katawan ni Kristo. Ang lahat ng mga apostol ay nagsakatuparan ng iisang ministeryo upang dalhin ang natatanging patotoo ng naging laman, nabuhay na muli, at umakyat sa langit na Hesu-Kristo, ang Panginoon ng lahat, at hindi ng anumang relihiyon, doktrina, o kagawian."
+        },
+        {
+            "id": "18-1",
+            "text": "Lit. mula sa ganti."
+        },
+        {
+            "id": "19-1",
+            "text": "Aramaiko."
+        },
+        {
+            "id": "19-2",
+            "text": "Sinasagisag ang isang madugong kamatayan (Mat. 27:5-8)."
+        },
+        {
+            "id": "20-1",
+            "text": "*Tingnan ang tala 1-3 sa Filipos 1. Sa Kastila, obispo."
+        },
+        {
+            "id": "21-1",
+            "text": "O, sa harapan."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang pagkabuhay na muli ng Panginoon ang sentro ng patotoo ng mga apostol. Ipinagugunita nito sa kanila ang tungkol sa Kanyang pagiging laman, pagka-tao, pantaong pamumuhay sa lupa at kamatayang itinalaga ng Diyos (2:23), at ipinapatanaw sa kanila ang Kanyang pag-akyat sa langit, ministeryo at pangangasiwa sa langit, at pagbabalik. Kaya nga, ang kanilang patotoo tungkol kay Hesu-Kristo, ang Panginoon ng lahat, ay nagpapaloob-ng-lahat, katulad ng inilarawan sa buong aklat na ito. Kanilang ipinahayag at inihain ang nagpapaloob-ng-lahat na Kristo, katulad ng pagkahayag sa buong Kasulatan."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang mga apostol, pagkatapos ng pag-akyat sa langit ng Panginoon at bago ang araw ng Pentecostes, ay nasa isang panahon ng transisyon o pagbabagong-kalagayan, tulad nang ipinakita ng kanilang pagkatanto sa paghahanap sa pagpapatnubay ng Panginoon. Natanggap nila ang nananahanang Espiritu noong araw ng pagkabuhay na muli ng Panginoon (Juan 20:22), at sinanay sila ng Panginoon upang makagawian ang Kanyang di-nakikitang presensiya sa loob ng apatnapung araw bago ang Kanyang pag-akyat sa langit (b. 3). Subali’t mahirap pa rin para sa kanila na bitiwan ang lumang makatradisyong pamamaraan ng paghahanap sa pangunguna ng Diyos sa pamamagitan ng pagpapalabunutan (Lev. 16:8; Jos. 14:2; 1 Sam. 14:41; Neh. 10:34; 11:1; Kaw. 16:33). Sila ay hindi pa rin nasanay sa pangunguna at pagpapatnubay ng nananahanang Espiritu (Roma 8:14) nang katulad ni Apostol Pablo sa kalaunan sa 16:6-8. Sila ay nasa unang hakbang pa rin ng Bagong Tipang ekonomiya ng Diyos bago ang araw ng Pentecostes."
         }
     ]
 }

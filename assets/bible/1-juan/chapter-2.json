@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,35 +7,35 @@
             "footnotes": [
                 {
                     "word": "Mumunti",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "magkasala,",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "Tagapagtanggol",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-6"
                 },
                 {
                     "word": "Ama,",
-                    "note": ""
+                    "id": "1-7"
                 },
                 {
                     "word": "Matuwid;",
-                    "note": ""
+                    "id": "1-8"
                 }
             ],
             "outlines": []
@@ -46,11 +46,11 @@
             "footnotes": [
                 {
                     "word": "pampalubag-",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "buong",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -61,19 +61,19 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "nakikilala,",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "utos.",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": [
@@ -86,11 +86,11 @@
             "footnotes": [
                 {
                     "word": "sinungaling,",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -101,19 +101,19 @@
             "footnotes": [
                 {
                     "word": "salita,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "napasakdal",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "5-4"
                 }
             ],
             "outlines": null
@@ -124,7 +124,7 @@
             "footnotes": [
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -135,11 +135,11 @@
             "footnotes": [
                 {
                     "word": "dating",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "buhat",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -150,15 +150,15 @@
             "footnotes": [
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "kadiliman",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -169,7 +169,7 @@
             "footnotes": [
                 {
                     "word": "liwanag",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -180,11 +180,11 @@
             "footnotes": [
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "liwanag,",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -195,15 +195,15 @@
             "footnotes": [
                 {
                     "word": "napopoot",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "paroroon,",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "binulag",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -214,11 +214,11 @@
             "footnotes": [
                 {
                     "word": "mumunti",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "ipinatawad",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -232,43 +232,43 @@
             "footnotes": [
                 {
                     "word": "ama,",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "nakikilala",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "Yaong",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "buhat",
-                    "note": ""
+                    "id": "13-4"
                 },
                 {
                     "word": "kabataang",
-                    "note": ""
+                    "id": "13-5"
                 },
                 {
                     "word": "dinaig",
-                    "note": ""
+                    "id": "13-6"
                 },
                 {
                     "word": "masamang",
-                    "note": ""
+                    "id": "13-7"
                 },
                 {
                     "word": "sinusulatan,",
-                    "note": ""
+                    "id": "13-8"
                 },
                 {
                     "word": "batang",
-                    "note": ""
+                    "id": "13-9"
                 },
                 {
                     "word": "Ama.",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -279,15 +279,15 @@
             "footnotes": [
                 {
                     "word": "sinulatan,",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "kayo",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "masamang",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -298,19 +298,19 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "sanlibutan,",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "Ama",
-                    "note": ""
+                    "id": "15-4"
                 }
             ],
             "outlines": null
@@ -321,19 +321,19 @@
             "footnotes": [
                 {
                     "word": "masamang",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "masamang",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "kapalaluan",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "buhay,",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -344,15 +344,15 @@
             "footnotes": [
                 {
                     "word": "masamang",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "kalooban",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -363,15 +363,15 @@
             "footnotes": [
                 {
                     "word": "batang",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "antikristo,",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "marami",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -382,11 +382,11 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "nagsipanatili",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -397,11 +397,11 @@
             "footnotes": [
                 {
                     "word": "pagpapahid",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": [
@@ -414,15 +414,15 @@
             "footnotes": [
                 {
                     "word": "katotohanan,",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "katotohanan.",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -433,11 +433,11 @@
             "footnotes": [
                 {
                     "word": "nagtatatwa",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "Hesus",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -448,7 +448,7 @@
             "footnotes": [
                 {
                     "word": "nagtatatwa",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -459,19 +459,19 @@
             "footnotes": [
                 {
                     "word": "yaong",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "buhat",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "buhat",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "mananahan",
-                    "note": ""
+                    "id": "24-3"
                 }
             ],
             "outlines": null
@@ -482,15 +482,15 @@
             "footnotes": [
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "ipinangako",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "25-3"
                 }
             ],
             "outlines": null
@@ -501,11 +501,11 @@
             "footnotes": [
                 {
                     "word": "hinggil",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "magligaw",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -516,43 +516,43 @@
             "footnotes": [
                 {
                     "word": "pagpapahid",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "Kanya",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "27-3"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "27-4"
                 },
                 {
                     "word": "tinuturuan",
-                    "note": ""
+                    "id": "27-5"
                 },
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "27-6"
                 },
                 {
                     "word": "totoo,",
-                    "note": ""
+                    "id": "27-7"
                 },
                 {
                     "word": "manahan",
-                    "note": ""
+                    "id": "27-8"
                 },
                 {
                     "word": "Kanya.",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -563,27 +563,27 @@
             "footnotes": [
                 {
                     "word": "mumunti",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "manahan",
-                    "note": ""
+                    "id": "28-2"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "28-3"
                 },
                 {
                     "word": "mapahiya",
-                    "note": ""
+                    "id": "28-4"
                 },
                 {
                     "word": "mapahiwalay",
-                    "note": ""
+                    "id": "28-5"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "28-6"
                 }
             ],
             "outlines": [
@@ -597,30 +597,412 @@
             "footnotes": [
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "matuwid,",
-                    "note": ""
+                    "id": "29-3"
                 },
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "29-4"
                 },
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "29-5"
                 },
                 {
                     "word": "ipinanganak",
-                    "note": ""
+                    "id": "29-6"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Gr. teknia , maramihan ng teknion , maliit na bata, pinaliit na teknon , bata, laging ginagamit sa mga pagbabati ng mga nakatatanda sa mga taong nakababata. “Ito ay isang katawagan ukol sa pagmamahal ng magulang. Ito ay nagagamit sa mga Kristiyano anuman ang gulang. Ginamit sa bb. 12, 28, 3:7, 18; 4:4; 5:21; Juan 13:33; Gal. 4:19” (Darby). Itinuring ng matandang apostol na kanyang maliliit na anak sa Panginoon ang lahat ng mga nakatanggap ng kanyang Sulat. Sa bb. 13-27, sila ay pinagbukud-bukod niya sa tatlong grupo: mga bata, mga kabataang lalake, at mga ama. Kaya, ang bb.1-12 at 28-29 ay isinulat sa lahat ng tagatanggap sa pangkalahatan; ang bb. 13-27 naman ay isinulat sa tatlong grupo nang magkakasunod ayon sa antas ng kanilang paglago sa loob ng dibinong buhay."
+        },
+        {
+            "id": "1-2",
+            "text": "Tumutukoy sa mga bagay na binanggit sa 1:5-10 hinggil sa paggawa ng kasalanan ng mga anak ng Diyos, ang mga naisilang-na-muling mananampalataya, na may dibinong buhay at nakikibahagi sa pagsasalamuha nito (1:1-4)."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang salitang ito at ang “kung ang sinuman ay magkakasala” sa sumusunod na pangungusap ay nagpapakita na ang mga naisilang-na-muling mananampalataya ay nagkakasala pa rin. Bagama’t tinataglay nila ang dibinong buhay, maaari pa rin silang magkasala kung sila ay hindi mamumuhay sa pamamagitan ng dibinong buhay at hindi mananatili sa pagsasalamuha nito."
+        },
+        {
+            "id": "1-4",
+            "text": "Sa Griyego, ipinakikita ng pandiwang ito na kung sakaling ginawa nang minsan (sa Ingles, Aorist subjunctive ), tumutukoy sa isang pang-isahang akto, hindi palagiang ginagawa."
+        },
+        {
+            "id": "1-5",
+            "text": "Gr. parakletos , ang isang tinatawag sa tabi ng isa pa upang tulungan siya, kaya, isang katulong; isang naghahandog ng legal na tulong o isang namamagitan para sa kapakanan ng iba, kaya, isang tagapagtanggol, tagapayo, o tagapamagitan. Ang salita ay nangangahulugang umaliw, at bigyang-aliw, kaya, isang taga-aliw, isang mang-aaliw. Ito ay ginamit sa Ebanghelyo ni Juan (14:16, 26; 15:26; 16:7) para sa Espiritu ng realidad bilang ating Mang-aaliw sa loob natin, na nangangalaga para sa ating kapakanan o mga gawain (tingnan ang tala 16-1 sa Juan 14). Ito ay ginamit dito para sa Panginoong Hesus bilang ating Tagapagtanggol sa Ama, namamahala sa ating kaso, namamagitan (Roma 8:34), at namamanhik para sa atin, ayon sa Kanyang pagpapalubag-loob, kung tayo ay nagkakasala."
+        },
+        {
+            "id": "1-6",
+            "text": "Tingnan ang tala 2-4 sa kapitulo 1. Ang Panginoong Hesus bilang ating Tagapagtanggol ay nabubuhay sa loob ng pakikipagsalamuha sa Ama."
+        },
+        {
+            "id": "1-7",
+            "text": "Ang dibinong titulong ito ay nagpapakita rito na ang ating kaso, na pinamamahalaan para sa atin ng Panginoong Hesus bilang ating Tagapagtanggol, ay isang pampamilyang bagay, isang kaso sa pagitan ng mga anak at ng Ama. Sa pamamagitan ng pagkasilang-na-muli tayo ay isinilang na mga anak ng Diyos. Pagkatapos ng pagkasilang-na-muli, kung sakaling tayo ay magkasala, ito ay isang bagay ng pagkakasala ng mga anak sa kanilang Ama. Ang ating Tagapagtanggol, na Siyang ating pampalubag-loob na handog, ay namamahala para sa ating pagkakasala upang ipanumbalik ang ating napatid na pagsasalamuha sa Ama, upang tayo ay makapanatili sa loob ng pagtatamasa ng dibinong pagsasalamuha."
+        },
+        {
+            "id": "1-8",
+            "text": "Ang tanging matuwid na Tao sa buong sangkatauhan ay ang ating Panginoong Hesus lamang. Binigyang-kasiyahan ng Kanyang matuwid na gawa (Roma 5:18) sa krus ang matuwid na kahilingan ng matuwid na Diyos para sa atin at para sa lahat ng mga makasalanan. Siya lamang ang kwalipikadong maging ating Tagapagtanggol upang mangalaga sa atin sa ating makasalanang kalagayan at magpanumbalik sa atin sa isang matuwid na kalagayan nang sa gayon ay mapayapa ang kaugnayan natin sa ating Amang matuwid."
+        },
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 25-2 sa Roma 3. Ibinigay ng Panginoong Hesus ang Kanyang Sarili Mismo sa Diyos bilang isang hain para sa ating mga kasalanan (Heb. 9:28), hindi lamang para sa ating katubusan bagkus para rin sa kasiyahan ng Diyos, pinapayapa ang kaugnayan natin sa Diyos. Kaya, sa harapan ng Diyos, Siya ang ating pampalubag-loob na handog."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang Panginoong Hesus ay naging isang pampalubag-loob na handog hindi lamang para sa ating mga kasalanan bagkus para rin sa buong sanlibutan. Gayunpaman, ang pampalubag-loob na handog na ito ay may pasubali ayon sa pagtanggap ng tao rito sa pamamagitan ng pagsampalataya sa Panginoon. Hindi nararanasan ng mga di-mananampalataya ang bisa ng pampalubag-loob na handog na ito, hindi dahil sa ito ay may kakulangan kundi dahil sa kanilang di-pagsampalataya."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang bb. 1 at 2 ay isang konklusyon sa salita sa 1:5-10 hinggil sa pagpapahayag natin ng ating mga kasalanan at pagpapatawad ng Diyos sa ating mga kasalanang pumapatid sa ating pakikisalamuha sa Kanya. Yaon ay ang unang kondisyon, ang unang kahilingan, para sa ating pagtatamasa sa dibinong buhay. Tinutuos ng bb. 3-11 ang ikalawang kondisyon, ang ikalawang kahilingan para sa ating pagsasalamuha sa Diyos, yaon ay, ang tuparin natin ang salita ng Panginoon at mahalin ang mga kapatid."
+        },
+        {
+            "id": "3-2",
+            "text": "O, nauunawaan, hindi sa pandoktrina kundi sa pangkaranasan sa pamamagitan ng pagtupad sa Kanyang mga utos."
+        },
+        {
+            "id": "3-3",
+            "text": "Lit. nakilala na Siya, tinutukoy na nasimulan na natin Siyang makilala at patuloy na kinikilala Siya hanggang sa pangkasalukuyang panahon. Ito ay tumutukoy sa ating pangkaranasang kaalaman sa Diyos sa ating pang-araw-araw na pamumuhay na may kaugnayan sa ating matalik na pagsasalamuha sa Kanya."
+        },
+        {
+            "id": "3-4",
+            "text": "Tingnan ang tala 34-1 sa Juan 13. Gayundin sa buong aklat."
+        },
+        {
+            "id": "4-1",
+            "text": "Tingnan ang tala 6-4 sa kapitulo 1."
+        },
+        {
+            "id": "4-2",
+            "text": "Tumutukoy sa naihayag na realidad ng Diyos na inihatid ng dibinong salita (tingnan ang tala 6-6 sa kap. 1). Ipinahahayag nito sa atin na dapat nating tuparin ang mga utos ng Panginoon pagkatapos na makilala natin Siya. Kung sinasabi natin na kilala natin ang Panginoon, subali’t hindi naman tinutupad ang Kanyang mga utos, ang katotohanan (realidad) ay wala sa atin, at tayo ay nagiging isang sinungaling."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “salita” rito ay singkahulugan ng “mga utos” sa bb. 3-4, na binubuo ng lahat ng mga utos. Ang binibigyang-diin ng “mga utos” ay ang pagtupad sa mga ito; nakapahiwatig naman sa “salita” ang espiritu at buhay bilang isang panustos sa atin (Juan 6:63)."
+        },
+        {
+            "id": "5-2",
+            "text": "Tingnan ang tala 12-4 sa kapitulo 4."
+        },
+        {
+            "id": "5-3",
+            "text": "Gr. agape , tinutukoy ang pag-ibig na higit na mataas at higit na dakila kaysa sa phileo (tingnan ang mga tala 7-1 at 7-2 sa 2 Ped. 1). Ang ginamit sa Sulat na ito para sa salitang “pag-ibig” ay ang salita lamang na ito ( agape ) na may pandiwang anyo nito. Ang “pag-ibig ng Diyos” dito ay tumutukoy sa ating pag-ibig tungo sa Diyos, na ibinunga ng Kanyang pag-ibig na nasa loob natin. Ang pag-ibig ng Diyos, ang salita ng Panginoon, at ang Diyos Mismo ay pawang may kaugnayan sa isa’t isa. Kung tinutupad natin ang salita ng Panginoon, ang pag-ibig ng Diyos ay napasakdal na sa atin. Ito ay lubusang isang bagay ukol sa dibinong buhay, na siyang Diyos Mismo. Ang pag-ibig ng Diyos ay ang Kanyang panloob na esensiya, at ang salita ng Panginoon ay nagtutustos sa atin ng dibinong esensiyang ito na ipinangingibig natin sa mga kapatid. Kaya, kapag tinutupad natin ang dibinong salita, ang dibinong pag-ibig ay napapasakdal sa pamamagitan ng dibinong buhay na ating ipinamumuhay."
+        },
+        {
+            "id": "5-4",
+            "text": "Yaon ay sa loob ng Panginoong Hesu-Kristo (b. 1). Ito ay isang malakas na pahayag na nagbibigay-diin na tayo ay kaisa ng Panginoon. Yamang tayo ay kaisa ng Panginoon, na siyang Diyos, ang nagmamahal na esensiya ng Diyos ay nagiging atin. Ito ay itinustos sa atin sa pamamagitan ng salita ng buhay ng Panginoon para sa ating pamumuhay sa pag-ibig, upang matamasa natin ang pagsasalamuha ng dibinong buhay at manatili tayo sa dibinong liwanag (b.10)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang mapasaloob ni Kristo ay ang simula ng buhay-Kristiyano. Yaon ay ginawa ng Diyos nang minsan para sa lahat (1 Cor. 1:30). Ang manahan sa Kanya ay ang pagpapatuloy ng buhay-Kristiyano. Ito ang ating responsabilidad sa ating pang-araw-araw na pamumuhay, isang pamumuhay na isang kopya ng pamumuhay ni Kristo sa lupa. Tingnan ang tala 27-8 ."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang utos na ibinigay ng Panginoon sa Juan 13:34, na siyang salitang narinig at tinaglay ng mga mananampalataya buhat nang pasimula."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang pariralang ito ay ginamit sa kahulugan ng paghahambing. Tingnan ang tala 1-2 , tal. 2, sa kapitulo 1."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang utos na magmahalan ang mga kapatiran ay kapwa dati at bago: dating utos, sapagka’t ito ay taglay na ng mga mananampalataya buhat nang pasimula ng kanilang buhay-Kristiyano; bagong utos, dahil sa kanilang pamumuhay-Kristiyano, ang utos na ito ay sumisikat na may bagong liwanag at sumisilay na may bagong kaliwanagan at sariwang kapangyarihan nang paulit-ulit."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang panghalip na pamanggit na “na,” na nasa pambalaking kasarian, ay hindi tumutukoy sa “utos,” na nasa pambabaeng kasarian. Ang “na” ay tumutukoy sa katotohanan na ang dating utos ng pagmamahalan ng mga kapatiran ay bago sa pamumuhay-Kristiyano ng mga mananampalataya. Sa panig ng Panginoon, ito ay tunay, yamang hindi lamang Niya ibinigay ang utos na ito sa Kanyang mga mananampalataya, bagkus pinababago rin ito sa kanilang pang-araw-araw na pamumuhay sa lahat ng oras. Sa panig naman ng mga mananampalataya, ito ay tunay rin, yamang hindi nila ito tinanggap nang minsan para sa lahat, bagkus sila ay nililiwanagan at pinananariwa rin nito nang paulit-ulit."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang unti-unting paglipas ng kadiliman ay ang paglalaho nito sa ilalim ng pagliliwanag ng tunay na liwanag. Ang tunay na liwanag ay ang liwanag ng utos ng Panginoon. Dahil sa ang liwanag na ito ay sumisilay, ang utos na magmahalan ang mga kapatiran ay sumisikat sa kadiliman, ginagawang bago at sariwa ang dating utos sa kabuuan ng buong buhay-Kristiyano."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang liwanag ay ang kahayagan ng esensiya ng Diyos at ang pinagmumulan ng katotohanan (tingnan ang tala 5-3 sa kapitulo 1). Ang dibinong pag-ibig ay nauugnay sa dibinong liwanag. Ito ay laban sa makasatanas na pagkapoot na nauugnay sa makasatanas na kadiliman. Ang pagkapoot sa isang kapatid sa Panginoon ay isang palatandaan ng pagiging nasa kadiliman (b.11). Gayundin, ang pag-ibig sa isang kapatid ay isang palatandaan ng pananahan sa liwanag (b. 10). Sinasanhi ng pag-ibig na tayo ay manatili sa liwanag at sinasanhi ng liwanag na tayo ay umibig sa mga kapatid."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang pananahan sa liwanag ay nababatay sa pananahan sa Panginoon (b. 6), na pinagmumulan ng pag-ibig tungo sa mga kapatid."
+        },
+        {
+            "id": "10-2",
+            "text": "Tingnan ang tala 9-1 ."
+        },
+        {
+            "id": "11-1",
+            "text": "Tingnan ang tala 9-1 ."
+        },
+        {
+            "id": "11-2",
+            "text": "Lit. lumilisan nang dahan-dahan."
+        },
+        {
+            "id": "11-3",
+            "text": "Sa Juan 12:35 at 40, ang kadiliman ay ang resulta ng pagkabulag; dito ay ang kabaligtaran."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 1-1 ."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang kapatawaran ng mga kasalanan ay ang pangunahing elemento ng ebanghelyo ng Diyos (Luc. 24:47; Gawa 5:31; 10:43; 13:38). Sa pamamagitan nito, ang mga mananampalatayang nakatanggap kay Kristo ay naisilang-na-muli upang maging mga anak ng Diyos (Juan 1:12-13)."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang mga mananampalatayang gumulang na sa dibinong buhay. Inuri sila ng apostol bilang ang unang grupo sa mga tagatanggap ng kanyang sulat."
+        },
+        {
+            "id": "13-2",
+            "text": "Nasa ganap na panahunan ( perfect tense ), tumutukoy na ang kalagayang ibinunga ay nagpapatuloy. Inyong nakikilala; samakatuwid ay, patuloy ninyong nakikilala. Ang gayong buháy na pagkakilala ay ang bunga ng pagdaranas sa buhay."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang walang hanggan, umiiral na noong una pa na Kristo, na siyang Salita ng buhay sa pasimula (1:1; Juan 1:1). Ang pagkakakilala sa gayong walang hanggang Kristo sa paraan ng buhay ay ang katangian ng mga gumulang na at mga eksperiyensiyadong ama. Sila ay hindi nadaya at hindi madaraya ng mga erehiyang nagpapahayag na si Kristo ay hindi walang hanggan na katulad ng Ama. Ang makilala si Kristo bilang ang walang hanggan, ang Yaong buhat pa nang pasimula, ay magsasanhi sa atin na gumulang at magsasanhi rin sa atin na hindi madaya ng erehiya ng bagong teolohiya."
+        },
+        {
+            "id": "13-4",
+            "text": "Nasa tiyak na kahulugan. Tingnan ang tala 1-2 , tal. 2, sa kapitulo 1."
+        },
+        {
+            "id": "13-5",
+            "text": "Ang mga mananampalatayang lumago na sa dibinong buhay. Inuri sila ng apostol bilang ang ikalawang grupo ng mga tagatanggap ng kanyang sulat."
+        },
+        {
+            "id": "13-6",
+            "text": "Ang pagdaig sa masamang isa ay ang katangian ng mga lumago na at malalakas na kabataang mananampalataya, na nakandili, napalakas, at natustusan ng salita ng Diyos na nananatili at kumikilos sa kanila laban sa Diyablo, sa sanlibutan, at sa pita nito (bb. 14b-17)."
+        },
+        {
+            "id": "13-7",
+            "text": "Tumutukoy kay Satanas, ang Diyablo. Tingnan ang tala 19-4 sa kapitulo 5."
+        },
+        {
+            "id": "13-8",
+            "text": "Gr. egrapsa , sinulatan; sa ibang manuskrito, grapho , sinusulatan. Bagama’t ang egrapsa , ayon sa pinakahuling pagkatuklas, ay higit na mapananaligan, ang grapho na ginamit ng KJV at ng J. N. Darby’s New Translation, ay lalong lohikal ayon sa nilalaman. Inihahatid ng apostol sa bersikulong ito ang kanyang isinulat sa bawa’t isa sa tatlong uri ng kanyang tagatanggap nang ang lahat ay nasa pangkasalukuyang panahunan. Sa mga sumusunod na bersikulo, 14-27, nagsasalita siyang muli sa bawa’t isa sa tatlong uri, subali’t ang lahat ng pandiwa ay nasa panahunang aorist (b. 14, sa mga ama at mga kabataang lalake, b. 26, cf. b. 18, sa mumunting anak) *yaon ay, isang pagbabagong-anyo ng isang pandiwa na tumutukoy sa simpleng pangyayari ng isang aksiyon na hindi tumutukoy sa pagkukumpleto nito ni sa tagal nito ni sa pag-uulit nito. Ang anyo ng pandiwa ay nagbabago upang ipakita ang kaibhan sa kaukulan (Ing. case ), kasarian (Ing. gender ), bilang, panahunan, panagano (Ing. mood ), tinig (Ing. voice ).*"
+        },
+        {
+            "id": "13-9",
+            "text": "Tumutukoy sa mga mananampalatayang katatanggap pa lamang ng dibinong buhay. Sila ay inuri ng apostol bilang ikatlong grupo ng mga tumanggap."
+        },
+        {
+            "id": "13-10",
+            "text": "Ang Ama ay ang pinagmumulan ng dibinong buhay, na siyang nagsilang-na-muli sa mga mananampalataya (Juan 1:12-13). Ang makilala ang Ama ay ang pangunahing kinalabasan ng pagiging naisilang-na-muli (Juan 17:3, 6). Kaya, ang gayong uri ng panimulang karanasan sa pagkaalam sa dibinong buhay ay ang pangunahing katangian ng mga batang anak, na pinakabata sa pag-uuri ni Juan."
+        },
+        {
+            "id": "14-1",
+            "text": "Bagama’t ang pandiwang “sinulatan” dito sa Griyego ay aorist , *(tingnan ang tala 13-8 )* hindi nito ipinahihiwatig na ang anumang naunang sulat ay isinulat ng apostol sa mga tumanggap; kundi ito ay tumutukoy na inuulit lamang niya ang naunang bersikulo na kanyang isinulat sa kanila upang palakasin at paunlarin ang kanyang sinabi, kaya nga “sinulatan”. *Sa b. 13 “sinusulatan” ang ginamit na pandiwa.*"
+        },
+        {
+            "id": "14-2",
+            "text": "Ang salitang ito, na nagtatapos sa “nananahan sa inyo,” ay nagpapatibay sa salitang “inyong dinaig,” na isinulat sa naunang bersikulo sa mga kabataang lalake."
+        },
+        {
+            "id": "14-3",
+            "text": "Tingnan ang tala 19-4 sa kapitulo 5."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang mga bb. 15-17 ay ang pag-unlad ng salitang isinulat sa mga kabataang lalake sa b. 13."
+        },
+        {
+            "id": "15-2",
+            "text": "Gr. kosmos , ginamit para sa iba’t ibang bagay, katulad ng mga sumusunod: *(1)* Sa Mat. 25:34; Juan 17:5; Gawa 17:24; Efe. 1:4; at Apoc. 13:8, ito ay tumutukoy sa pangmateryal na sansinukob bilang isang sistemang nilikha ng Diyos. *(2)* Sa Juan 1:29; 3:16; at Roma 5:12, ito ay tumutukoy sa natisod na lahi ng tao na pinasamâ at kinamkam ni Satanas bilang mga sangkap para sa pagbubuo ng kanyang masamang sistema ng sanlibutan. *(3)* Sa 2 Ped. 3:3 ito ay tumutukoy sa paggagayak, palamuti. *(4)* Dito, katulad ng nasa Juan 15:19; 17:14; at Sant. 4:4, ito ay tumutukoy sa isang kaayusan, isang inayos na porma, isang maayos na pagsasaayos, kaya, isang maayos na sistema (na inayos ni Satanas, ang katunggali ng Diyos), hindi tumutukoy sa lupa. Nilikha ng Diyos ang tao upang mabuhay sa lupa para sa katuparan ng Kanyang layunin. Subali’t ang Kanyang kaaway na si Satanas, upang makamkam ang taong nilikha ng Diyos, ay nagtatag ng isang sistema ng sanlibutang laban sa Diyos sa lupang ito sa pagsisistema sa mga tao sa pamamagitan ng relihiyon, kultura, edukasyon, industriya, pangangalakal, aliwan, at iba pa, ginagamit ang natisod na kalikasan ng mga tao sa kanilang mga pita, kalayawan, mga bagay na pinagsusumikapan, at maging sa kanilang pagmamalabis sa pangangailangan sa pamumuhay katulad ng pagkain, damit, bahay, at sasakyan (tingnan ang tala 31-2 sa Juan 12). Ang kabuuan ng gayong makasatanas na sistema ay nakahilig sa masamang isa (5:19). Ang hindi umibig sa sanlibutan ay ang batayan ng pagdaig sa masamang isa. Maging ang kaunti lamang na pag-ibig sa sanlibutan ay nagbibigay ng puwang sa masamang isa na talunin at sakupin tayo."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang pag-ibig ng Ama rito ay tumutukoy sa pag-ibig ng Ama na nasa loob natin na naging ating pag-ibig sa Kanya. Ginagamit natin ang pag-ibig na ito upang ibigin siya; sa ganito, ginagamit natin ang pag-ibig na Kanyang ipinang-ibig sa atin at tinamasa natin upang ibigin Siya."
+        },
+        {
+            "id": "15-4",
+            "text": "Ang sanlibutan ay laban sa Ama, ang Diyablo ay laban sa Anak (3:8), at ang laman ay laban sa Espiritu (Gal. 5:17)."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang masamang pita ng laman ay ang mapusok na pagnanasa ng katawan; ang masamang pita ng mga mata ay ang mapusok na pagnanasa ng kaluluwa na isinasagawa sa pamamagitan ng mga mata; at ang kapalaluan ng buhay ay ang hungkag na pagmamataas, pagmamayabang, pagtitiwala, katiyakan, at pagtatanyag sa mga bagay na materyal sa pangkasulukuyang buhay. Ang mga ito ay ang mga bumubuong sangkap ng sanlibutan."
+        },
+        {
+            "id": "16-2",
+            "text": "Gr. bios , pisikal na buhay, tumutukoy sa pangkasalukuyang buhay, naiiba sa zoe sa 1:1-2, na tumutukoy sa dibinong buhay."
+        },
+        {
+            "id": "17-1",
+            "text": "Yamang ang sanlibutan ay laban sa Diyos Ama, ang mga bagay sa sanlibutan (b. 15), at ang mga pita nito, ay laban din sa kalooban ng Diyos. Ang masamang pita ng sanlibutan kasama ang mga umiibig dito ay lumilipas, subali’t ang gumagawa ng kalooban ng Diyos ay nananatili magpakailanman."
+        },
+        {
+            "id": "17-2",
+            "text": "Yaon ay ginagawa ang kalooban ng Diyos nang palagian at tuluy-tuloy, hindi paminsan-minsan. Tingnan ang tala 6-5 sa kapitulo 1."
+        },
+        {
+            "id": "18-1",
+            "text": "Tumutukoy sa mga batang anak sa b. 13 bilang ikatlong uri ng mga tagatanggap. Ang mga bb. 18-27, na nagbibigay-diin sa kaalaman sa buhay (bb. 20-21), ay nagpapatibay sa salitang, “sapagka’t inyong nakikilala ang Ama,” na sinalita sa ikatlong uri ng mga tagatanggap sa b. 13."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang isang antikristo ay naiiba sa isang huwad na Kristo (Mat. 24:5, 24). Ang isang huwad na Kristo ay ang isa na sa paraan ng panlilinlang ay nagkukunwaring si Kristo; samantalang ang isang antikristo ay ang isa na nagtatatwa sa pagka-Diyos ni Kristo, itinatatwa na si Hesus ay ang Kristo, yaon ay, itinatatwa ang Ama at ang Anak sa pamamagitan ng pagtatatwa na si Hesus ay ang Anak ng Diyos (b. 22 at tala 2; b. 23), hindi ipinahahayag na Siya ay dumating sa laman sa pamamagitan ng dibinong paglilihi ng Espiritu Santo (4:2-3)."
+        },
+        {
+            "id": "18-3",
+            "text": "Sa panahon ng apostol, maraming erehe, katulad ng mga Gnostiko, Cerinto, at Docetisto, ang nagturo ng mga kataliwasan hinggil sa Persona ni Kristo, yaon ay, hinggil sa Kanyang pagka-Diyos at pagka-tao."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang mga antikristo ay hindi isinilang ng Diyos at wala sa pagsasalamuha ng mga apostol at ng mga mananampalataya (1:3; Gawa 2:42); kaya, sila ay hindi nabibilang sa ekklesia, yaon ay, sa Katawan ni Kristo."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang manatiling kasama ng mga apostol at ng mga mananampalataya ay ang manatili sa pagsasalamuha ng Katawan ni Kristo."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang pagpapahid ay ang pagkilos at paggawa ng nananahanang timpladang Espiritu, na lubusang isinagisag ng nagpapahid na langis, ang timpladang ungguwento sa Exo. 30:23-25 (tingnan ang Pag-aaral Pambuhay ng Exodo, Mensahe 157-166, at tala 19-4 sa Fil. 1). Ito ay ang nagpapaloob-ng-lahat na Espiritung nagbibigay-buhay mula sa Banal na Isa na nakapasok sa atin sa panahon ng pagkasilang-na-muli at mananatili sa atin magpakailanman (b. 27), na sa pamamagitan ng Espiritung ito, nakikilala ng mga batang anak ang Ama (b. 13) at nalalaman ang katotohanan (b. 21)."
+        },
+        {
+            "id": "20-2",
+            "text": "Sa ilang manuskrito ay nababasang, nalalaman ninyo ang lahat ng mga bagay."
+        },
+        {
+            "id": "21-1",
+            "text": "Tumutukoy sa realidad ng dibinong Trinidad, lalo na sa Persona ni Kristo (bb. 22-25), katulad ng itinuro ng dibinong pagpapahid (bb. 20, 27). Tingnan ang tala 6-6 sa kapitulo 1."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang pagkakaalam na ito ay sa pamamagitan ng pagpapahid ng nananahanan at nagbibigay-buhay na Espiritu. Ito ay isang kaalaman sa dibinong buhay sa ilalim ng dibinong liwanag, isang panloob na kaalaman na pinasimulan sa ating naisilang-na-muling espiritung pinananahanan ng timpladang Espiritu, hindi kaalaman sa isipan na ibinunga sa pamamagitan ng panlabas na pagpapasigla."
+        },
+        {
+            "id": "22-1",
+            "text": "Ito ay ang erehiya ni Cerinthus, isang ereheng taga-Siria mula sa lahi ng mga Hudyo na nakapag-aral sa Alexandria. Ang kanyang erehiya ay isang paghahalo ng Hudaismo, Gnosticismo, at Kristiyanismo. Ibinukod niya ang manlilikha (tagapaglalang) ng sanlibutan mula sa Diyos, at ibinilang ang manlilikha bilang isang pangalawang kapangyarihan. Itinuro niya ang “adoptionist Christology” (Adoptionismo), na nagsasabing si Hesus ay naging Anak ng Diyos sa pamamagitan ng pagtataas sa Kanya sa isang katayuan hanggang sa Siya ay maging Anak ng Diyos at hindi sa pamamagitan ng Kanyang pagsilang, kaya itinatatwa na si Hesus ay ipinaglihi sa pamamagitan ng Espiritu Santo. Sa kanyang erehiya, ibinukod niya ang taong si Hesus na nasa lupa (itinuring Siya na anak nina Jose at Maria), mula sa makalangit na Kristo at itinuro na pagkaraang mabautismuhan si Hesus, si Kristo, katulad ng isang kalapati, ay bumaba sa ibabaw Niya, at pagkatapos ay Kanyang ipinahayag ang Amang di-kilala ng mga tao, at Siya ay gumawa ng mga himala. Subali’t sa katapusan ng Kanyang ministeryo, si Kristo ay lumisan mula kay Hesus at si Hesus ay nagdusa ng kamatayan sa krus at bumangon mula sa mga patay, samantalang si Kristo ay nanatiling isang nakabukod na espiritu, at muling sasanib sa taong si Hesus sa pagdating ng Mesiyanikong kaharian ng kaluwalhatian."
+        },
+        {
+            "id": "22-2",
+            "text": "Ang ipahayag na si Hesus ay ang Kristo ay ang ipahayag na Siya ay ang Anak ng Diyos (Mat. 16:16; Juan 20:31). Kaya, ang itatwa na si Hesus ay ang Kristo ay ang “itatwa ang Ama at ang Anak”. Sinuman ang magtatwa sa dibinong Persona ni Kristo ay antikristo. Ang itatwa na si Hesus ay ang Kristo ay katumbas ng pagtatatwa sa Ama at sa Anak; ipinapahiwatig nito ang kaisipan na si Hesus, si Kristo, ang Ama, at ang Anak ay iisa, na pawang mga elemento at bumubuong sangkap ng nagpapaloob-ng-lahat na timpladang nananahanang Espiritu. Ang Espiritung ito sa ngayon ay nagpapahid sa mga mananampalataya sa lahat ng panahon (bb. 20, 27). Sa pagpapahid na ito, si Hesus, si Kristo, ang Ama, at ang Anak ay ipinapahid lahat tungo sa loob ng ating panloob na tao."
+        },
+        {
+            "id": "23-1",
+            "text": "Yamang ang Anak at ang Ama ay iisa (Juan 10:30; Isa. 9:6), ang itatwa ang Anak ay ang hindi mapasakanya ang Ama, at ang ipahayag ang Anak, ay ang mapasakanya pati na ang Ama. Ang itatwa ang Anak dito ay tumutukoy sa erehiyang nagtatatwa sa pagka-Diyos ni Kristo, hindi ipinapahayag na ang Taong si Hesus ay ang Diyos."
+        },
+        {
+            "id": "24-1",
+            "text": "Tumutukoy sa Salita ng buhay na siyang salita ng walang hanggang buhay na narinig ng mga mananampalataya buhat nang pasimula (1:1-2). Ang hindi magtatwa kundi magpahayag na ang Taong si Hesus ay ang Kristo, ang Anak ng Diyos (b.22), ay ang hayaang manahan sa atin ang Salita ng buhay na walang hanggan. Sa gayong pagsasagawa, tayo ay nananahan kapwa sa loob ng Anak at sa loob ng Ama, at hindi tayo maililigaw ng mga taliwas na pagtuturo hinggil sa Persona ni Kristo (b. 26). Ito ay nagpapakita na ang Anak at ang Ama ay ang buhay na walang hanggan para sa ating pagsilang-na-muli at pagtatamasa. Sa buhay na walang hanggan na ito, mayroon tayong pagsasalamuha sa Diyos at sa isa’t isa (1:2-3, 6-7), at napananatili tayo sa ating pang-araw-araw na pamumuhay (b. 6; 1:7)."
+        },
+        {
+            "id": "24-2",
+            "text": "Ginagamit sa paghahambing na kahulugan (tingnan ang tala 1-2 , tal. 2, sa kap. 1)."
+        },
+        {
+            "id": "24-3",
+            "text": "Tingnan ang tala 27-8"
+        },
+        {
+            "id": "25-1",
+            "text": "Ang pang-isahang panghalip *na “Kanyang”*, na tumutukoy kapwa sa Anak at sa Ama sa naunang bersikulo, ay nagpapakita na ang Anak at ang Ama ay iisa. Sa ating karanasan sa dibinong buhay, iisa ang Anak, ang Ama, si Hesus, at si Kristo. Sa atin, hindi lamang ang Anak ang buhay na walang hanggan bagkus maging ang Ama ay ang buhay na walang hanggan din. Sa atin, si Hesus bilang ang Kristo, na siyang Anak at Ama, ay ang walang hanggang dibinong buhay bilang ating bahagi."
+        },
+        {
+            "id": "25-2",
+            "text": "Ang pangakong ito ay matatagpuan sa Ebanghelyo ni Juan; katulad ng nasa Juan 3:15; 4:14; 6:40, 47; 10:10; 11:25; at 17:2-3."
+        },
+        {
+            "id": "25-3",
+            "text": "Ayon sa nilalaman ng bb. 22-25, ang buhay na walang hanggan ay walang iba kundi si Hesus, si Kristo, ang Anak, at ang Ama; ang lahat ng mga ito ay ang bumubuo ng buhay na walang hanggan. Kaya, ang buhay na walang hanggan ay isa ring elemento ng nagpapaloob-ng-lahat na timpladang nananahanang Espiritu na kumikilos sa loob natin."
+        },
+        {
+            "id": "26-1",
+            "text": "Ipinakikita ng bahaging ito ng Salita ang pagbabakuna sa mga mananampalataya ng katotohanan ng dibinong Trinidad laban sa mga erehiya hinggil sa Persona ni Kristo."
+        },
+        {
+            "id": "26-2",
+            "text": "O, mandaya sa inyo. Ang mailihis ang mga mananampalataya ay ang gambalain sila mula sa katotohanan hinggil sa pagka-Diyos at pagka-tao ni Kristo sa paggamit ng mga taliwas na pagtuturo hinggil sa mga hiwaga ng kung ano si Kristo."
+        },
+        {
+            "id": "27-1",
+            "text": "Tingnan ang tala 20-1 ."
+        },
+        {
+            "id": "27-2",
+            "text": "Tingnan ang tala 25-1 ."
+        },
+        {
+            "id": "27-3",
+            "text": "Ito ay ang pananahanan ng nagpapaloob-ng-lahat na timpladang Espiritung nagbibigay-buhay (Roma 8:9, 11)."
+        },
+        {
+            "id": "27-4",
+            "text": "Hinggil sa pananahanan ng dibinong Trinidad (Juan 14:17, 23), hindi na natin kailangan ang sinuman na magturo sa atin; sa pagpapahid ng nagpapaloob-ng-lahat na timpladang Espiritu, na siyang kabuuan ng dibinong Trinidad, nakikilala at natatamasa natin ang Ama, ang Anak, at ang Espiritu bilang ating buhay at panustos ng buhay."
+        },
+        {
+            "id": "27-5",
+            "text": "Hindi ito isang panlabas na pagtuturo sa pamamagitan ng mga salita, kundi isang panloob na pagtuturo ng pagpapahid sa pamamagitan ng ating panloob na pang-espirituwal na kamalayan. Idinaragdag ng ganitong pagtuturo ng pagpapahid ang mga dibinong elemento ng Trinidad, na siyang mga elemento ng nagpapahid na timpladang Espiritu, tungo sa loob ng ating katauhan bilang ating elemento. Ito ay katulad ng paulit-ulit na pagpipinta sa isang bagay; hindi lamang ipinakikita ng pintura ang uri ng kulay, bagkus sa pagpapahid ng patung-patong na pintura, ang mga elemento ng pintura ay idinaragdag sa bagay na pinipinturahan. Sa ganitong paraan, naisasalin, nailalalin, at naidaragdag ang Tres-unong Diyos sa bawa’t bahagi ng ating katauhan, upang lumago ang ating panloob na tao sa dibinong buhay dahil sa mga dibinong elemento."
+        },
+        {
+            "id": "27-6",
+            "text": "Ayon sa ibig sabihin ng nilalaman, “ang lahat ng bagay” ay tumutukoy sa lahat ng bagay hinggil sa Persona ni Kristo na nauugnay sa dibinong Trinidad. Ang pagtuturo ng pagpapahid hinggil sa mga bagay na ito ay nag-iingat sa atin upang tayo ay manahan sa Kanya (ang dibinong Trinidad), yaon ay, sa Anak at sa Ama (b. 24)."
+        },
+        {
+            "id": "27-7",
+            "text": "Ang timpladang Espiritu ay ang kabuuan ng Tres-unong Diyos. Ang Tres-unong Diyos na ito ay totoo (5:20); kaya ang pagpapahid ng Espiritu sa loob natin ay totoo, isang realidad, hindi isang kasinungalingan. Ito ay mapatutunayan ng ating aktuwal at praktikal na karanasan sa ating buhay-Kristiyano."
+        },
+        {
+            "id": "27-8",
+            "text": "Gr. meno , mamalagi (sa isang takdang lugar, kalagayan, ugnayan, o inaasahan); kaya, tumahan, manatili, at tumira. Ang manahan sa Kanya ay ang manahan sa Anak at sa Ama (b. 24). Ito ay ang manatili at manahan sa Panginoon (Juan 15:4-5). Ito rin ay ang manahan sa pagsasalamuha ng dibinong buhay at lumakad sa dibinong liwanag (1:2-3, 6-7), yaon ay, ang manahan sa dibinong liwanag (b. 10). Kinakailangan nating isagawa ang pananahang ito ayon sa pagtuturo ng nagpapaloob-ng-lahat na pagpapahid, upang ang ating salamuha sa Diyos (1:3, 6) ay mapanatili."
+        },
+        {
+            "id": "28-1",
+            "text": "Tingnan ang tala 1-1 . Mula sa b. 13 ay sinimulan ang pagsulat sa tatlong iba’t ibang uri ng mga tagatanggap, at tinapos sa b. 27. Sa b. 28 ay muling tinukoy ang mga tagatanggap sa pangkalahatan. Kaya, muli na naman silang tinukoy bilang “mumunti kong mga anak”, katulad sa bb. 1 at 12."
+        },
+        {
+            "id": "28-2",
+            "text": "Ang salita sa bb. 13-27 na isinulat sa tatlong grupo ng mga tagatanggap ay nagtatapos sa isang tagubilin: “manahan sa Kanya” nang ayon sa pagtuturo sa inyo ng pagpapahid. Sa bahaging ito, mula sa b. 28 hanggang 3:24, nagpapatuloy ang apostol sa paglalarawan ng isang pamumuhay na nananahan sa loob ng Panginoon. Ang seksiyon ng pagsasalitang ito ay nagsisimula (b. 28), nagpapatuloy (3:6), at nagtatapos (3:24) sa pananahan sa loob ng Panginoon."
+        },
+        {
+            "id": "28-3",
+            "text": "Dito ang panghalip na “Siya” ay tiyakang tumutukoy sa darating na Kristo, ang Anak. Kaya, ang nauunang saknong na isinaling “manahan kayo sa Kanya” ay isang pag-uulit ng saknong sa nauunang bersikulo na “gayon kayong manahan sa Kanya” na kinapapalooban ng Dibinong Trinidad. Kaya, ipinakikita na ang Anak ay ang pagsasakatawan ng Tres-unong Diyos, hindi hiwalay sa Ama o sa Espiritu."
+        },
+        {
+            "id": "28-4",
+            "text": "Ito ay nagpapakita na may ilang mananampalataya na hindi nananahan sa loob ng Panginoon (yaon ay, hindi nananahan sa pagsasalamuha ng dibinong buhay ayon sa dalisay na pananampalataya sa Persona ni Kristo), kundi nalinlang ng mga erehiya hinggil kay Kristo (b. 26), na maparurusahan, mapapahiya, mahihiwalay sa Kanya, mahihiwalay sa Kanyang maluwalhating parousia."
+        },
+        {
+            "id": "28-5",
+            "text": "Tingnan ang Mat. 7:23; tala 51-1 sa Mat. 24; at Mat. 25:30 at mga tala."
+        },
+        {
+            "id": "28-6",
+            "text": "Lit. sa Kanyang presensiya (parousia)."
+        },
+        {
+            "id": "29-1",
+            "text": "Gr. eidete mula sa oida , naunawaan na may isang namamalayang kaalaman, isang higit na malalim na panloob na pagkakita. Ito ay para sa pagkilala sa Panginoon."
+        },
+        {
+            "id": "29-2",
+            "text": "Ipinapaloob ng “Siya” rito ang Tres-unong Diyos, ang Ama, ang Anak, at ang Espiritu, sapagka’t ito ay tumutukoy sa “Siya” (tumutukoy sa darating na Anak) sa naunang bersikulo, at sa “Niya” (tumutukoy sa Ama na nagsilang sa atin). Ito ay nagpapakita nang matibay na ang Anak at ang Ama ay iisa (Juan 10:30)."
+        },
+        {
+            "id": "29-3",
+            "text": "Ito ay tumutukoy sa matuwid na Diyos sa 1:9 at kay Hesu-Kristo na Matuwid sa b. 1. Sa salitang ito na patungkol sa lahat ng mga tagatanggap, simula sa b. 28, ibinaling ng apostol ang kanyang pagbibigay-diin mula sa pagsasalamuha ng dibinong buhay sa 1:3-2:11, at sa pagpapahid ng dibinong Trinidad sa bb. 12-27, tungo sa katuwiran ng Diyos. Ang pagsasalamuha ng dibinong buhay at ang pagpapahid ng dibinong Trinidad ay dapat magkaroon ng isang resulta yaon ay, ang kahayagan ng matuwid na Diyos."
+        },
+        {
+            "id": "29-4",
+            "text": "Gr. ginoskete mula sa ginosko, ang panlabas, obhektibong kaalaman (tingnan ang mga tala 55-1 sa Juan 8, 17-3 sa Juan 21, at 11-1 sa Hebreo 8). Ito ay para sa pagkilala sa tao."
+        },
+        {
+            "id": "29-5",
+            "text": "Tingnan ang tala 6-5 sa kapitulo 1. Hindi tumutukoy sa paggawa ng katuwiran nang paminsan-minsan at sinasadya kundi sa paggawa ng katuwiran nang palagian at kusa, gaya nang kinaugalian na sa pang-araw-araw na pamumuhay. Ito ay katulad din sa 3:7. Ito ay isang kusang pamumuhay na ibinubunga ng dibinong buhay na nasa loob natin, na siyang ipinangsilang ng matuwid na Diyos sa atin. Kaya, ito ay isang buháy na kahayagan ng Diyos na matuwid sa lahat ng Kanyang mga gawa at kilos. Ito ay hindi lamang isang panlabas na ugali, bagkus ay ang kahayagan ng panloob na buhay; hindi lamang isang sinasadyang pagkilos, bagkus isang pagdaloy ng buhay mula sa loob ng dibinong kalikasan na nababahagi natin. Ito ang unang kondisyon ng pamumuhay na nananahan sa loob ng Panginoon. Ito ay lubusang dahil sa dibinong kapanganakan, na ipinahiwatig ng salitang “ipinanganak Niya,” at ng titulong “mga anak ng Diyos” sa sumusunod na bersikulo (3:1)."
+        },
+        {
+            "id": "29-6",
+            "text": "Ang mga isinulat ni Juan ukol sa mga hiwaga ng walang hanggang dibinong buhay ay lubhang nagbibigay-diin sa dibinong kapanganakan (3:9; 4:7; 5:1, 4, 18; Juan 1:12-13), na siyang ating pagkasilang-na-muli (Juan 3:3, 5). Pinakadakilang himala na ito sa buong sansinukob na ang mga tao ay maisilang ng Diyos at ang mga makasalanan ay magiging mga anak ng Diyos! Sa pamamagitan ng gayong kagila-gilalas na dibinong kapanganakan, natanggap natin ang dibinong buhay, na buhay na walang hanggan (1:2), bilang dibinong binhi na itinanim sa loob natin (3:9). Mula sa binhing ito, ang lahat ng mga kayamanan ng dibinong buhay ay lumalago mula sa loob natin. Sa pamamagitan nito, nananahan tayo sa loob ng Tres-unong Diyos at naipamumuhay ang dibinong buhay sa ating pantaong buhay, isang buhay na hindi nagsasagawa ng kasalanan (3:9), kundi nagsasagawa ng katuwiran (b. 29), umiibig sa mga kapatid (5:1), dumaraig sa sanlibutan (5:4), at hindi nahihipo ng masamang isa (5:18)."
         }
     ]
 }

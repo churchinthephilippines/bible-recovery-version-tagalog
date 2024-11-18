@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Gayundin",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -28,15 +28,15 @@
             "footnotes": [
                 {
                     "word": "dalisay",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -47,7 +47,7 @@
             "footnotes": [
                 {
                     "word": "paghihiyas",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -58,7 +58,7 @@
             "footnotes": [
                 {
                     "word": "natatagong",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -75,7 +75,7 @@
             "footnotes": [
                 {
                     "word": "kasindakan.",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -86,23 +86,23 @@
             "footnotes": [
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "pakundanganan",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "sisidlan,",
-                    "note": ""
+                    "id": "7-4"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "7-5"
                 }
             ],
             "outlines": null
@@ -121,11 +121,11 @@
             "footnotes": [
                 {
                     "word": "pagpapala,",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "dahil",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -136,7 +136,7 @@
             "footnotes": [
                 {
                     "word": "mabubuting",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -173,19 +173,19 @@
             "footnotes": [
                 {
                     "word": "ariing-",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "paliwanag",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "pagkatakot;",
-                    "note": ""
+                    "id": "15-4"
                 }
             ],
             "outlines": null
@@ -196,11 +196,11 @@
             "footnotes": [
                 {
                     "word": "budhi,",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -217,15 +217,15 @@
             "footnotes": [
                 {
                     "word": "kasalanan,",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "espiritu;",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -236,19 +236,19 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "espiritung",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "bilangguan,",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "nagproklama",
-                    "note": ""
+                    "id": "19-4"
                 }
             ],
             "outlines": null
@@ -259,15 +259,15 @@
             "footnotes": [
                 {
                     "word": "suwail,",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "nangaligtas",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": null
@@ -278,15 +278,15 @@
             "footnotes": [
                 {
                     "word": "Na",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "paghiling",
-                    "note": ""
+                    "id": "21-3"
                 }
             ],
             "outlines": null
@@ -297,10 +297,156 @@
             "footnotes": [
                 {
                     "word": "Na",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tumutukoy sa 2:18."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang salita ng Diyos (1 Ped. 1:23, 25; Roma 10:8; Efe. 1:13)."
+        },
+        {
+            "id": "2-1",
+            "text": "O, malinis; sa Griyego, nagmula sa salitang nangangahulugang banal, katulad sa b. 5 at 1:15. Ang dalisay at malinis na paraan ng pamumuhay ay ang banal na paraan ng pamumuhay (1:15), ang magaling na gawi ng buhay (2:12), at ang mabuting paraan ng pamumuhay (b. 16)."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang “na may pagkatakot” ay tumuturing sa “ugaling dalisay.”"
+        },
+        {
+            "id": "2-3",
+            "text": "Tingnan ang tala 17-4 sa kap. 1."
+        },
+        {
+            "id": "3-1",
+            "text": "Ninanais ng Diyos na gamitin ng mga kababaihan ang kanilang buhok bilang kanilang kaluwalhatian at tanda ng kanilang pagpapasakop (1 Cor. 11:15; A. A. 4:1; 6:5; 7:5). Subali’t napakaraming babae ang nagmalabis sa paggamit ng kanilang buhok, lalo na yaong mga nabubuhay sa marangya at maruming buhay ng Emperyo Romano noong panahon ng pagkasulat ng Sulat na ito, upang bigyang-kasiyahan ang kanilang mapagpitang laman na nais magpaganda sa pamamagitan ng mamahaling gayak na ginto at iba pang mamahaling bagay. Ang mga asawang babaeng Kristiyano, bilang mga banal na kababaihan, ay nararapat umiwas nang lubusan sa bagay na ito, sapagka’t ito ay kinondena ng Diyos."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang natatagong tao ng puso ay may gayak na walang kasiraan na siyang espiritung maamo at tahimik; ipinakikita nito sa atin na ang espiritung maamo at tahimik sa loob natin ay ang natatagong tao ng puso. Ang ating puso ay binubuo ng lahat ng mga bahagi ng ating kaluluwa-kaisipan, damdamin, at kapasiyahan-at ng pangunahing bahagi ng ating espiritu, ang budhi (Heb. 4:2). Sa lahat ng mga ito, ang ating espiritu ang nasa sentro; kaya, ang ating espiritu ay ang natatagong tao ng puso. Ang mga gayak ng mga asawang babae sa harapan ng Diyos ay dapat na maging ang kanilang panloob na katauhan-ang natatagong tao ng kanilang puso, na siyang espiritung maamo at tahimik. Ito ay ang di-nasisirang gayak na salungat sa nasisirang buhok, ginto, at mga kasuotan. Ang espirituwal na gayak na ito ay may malaking halaga sa paningin ng Diyos."
+        },
+        {
+            "id": "6-1",
+            "text": "Lit. nakakatakot, o nakakanerbiyos na pagkabigla."
+        },
+        {
+            "id": "7-1",
+            "text": "Yaon ay, ayon sa isang matalino at makatuwirang paraan, pinamahalaan ng espirituwal na kaalaman na kumikilala sa kalikasan ng kaugnayan ng mag-asawa at sa kahinaan ng babae, hindi napapamahalaan ng anumang pita at damdamin."
+        },
+        {
+            "id": "7-2",
+            "text": "Sa Griyego, aponemo , at time , nangangahulugang ibigay ang nararapat na paggalang; pahalagahan. Dapat na pakundanganan ang kahalagahan, ang mahalagang kahalagahan ng mga asawang babae, at ibahagi sa kanila ang nararapat na pagpipitagan bilang mga kasamang tagapagmana ng biyaya."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang babae, ayon sa kalikasan sa paglikha ng Diyos, ay higit na mahina kaysa lalake sa pisikal at sa sikolohikal."
+        },
+        {
+            "id": "7-4",
+            "text": "Ang tao, kabilang na ang babae, ay nilikhang isang sisidlan upang magsilid ng Diyos (Roma 9:21, 23), at ang mga mananampalataya kay Kristo ay mga sisidlan upang magsilid ng Kristo bilang kayamanan (2 Cor. 4:7). Bagama’t ang mga asawang babae, bilang mga babaeng sisidlan, ay higit na mahina, sila ay mga sisidlan pa rin ng Panginoon at maaaring maging mga sisidlan sa ikapupuri (2 Tim. 2:21)."
+        },
+        {
+            "id": "7-5",
+            "text": "Ang biyaya ng buhay ay ang Diyos bilang buhay at panustos ng buhay sa atin sa Kanyang pagka-Trinidad-ang Ama bilang pinagmulan ng buhay, ang Anak bilang ang daluyan ng buhay, at ang Espiritu bilang daloy ng buhay, dumadaloy sa kalooban natin kasama ang Anak at ang Ama (I Juan 5:11-12; Juan 7:38-39; Apoc. 22:1). Ang lahat ng mga mananampalataya ay mga tagapagmana ng biyayang ito. Tingnan ang tala 4-2 sa kapitulo 1."
+        },
+        {
+            "id": "9-1",
+            "text": "Sa Griyego, nangangahulugang “patuloy na pagpapala.”"
+        },
+        {
+            "id": "9-2",
+            "text": "Tayo ay tinawag upang pagpalain ang iba, kaya tayo, bilang isang pinagpalang bayan, ay dapat na laging magpala sa iba upang tayo ay makapagmana ng pagpapala. Anumang pinagpapala natin sa iba ay mamanahin din natin (Mat. 10:13)."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang mabubuting araw ay mga araw ng kabutihan, tumutukoy sa mabubuting bagay bilang pagpapala."
+        },
+        {
+            "id": "15-1",
+            "text": "Kung tayo ay natatakot sa at nababagabag ng mga tagapag-usig (bb. 13-14), lumilitaw na tayo ay tila walang Panginoon sa ating mga puso. Kaya, sa pagbabatá ng pag-uusig dapat nating ipakita sa iba na tayo ay may Kristo bilang Panginoon sa ating kalooban. Ito ay ang ariin Siyang banal, ibukod Siya, mula sa ibang mga diyos-diyosan, hindi Siya pinabababa na maging katulad ng mga walang buhay na diyos-diyosan."
+        },
+        {
+            "id": "15-2",
+            "text": "Gr. logos . Lit. salitang nagpapahayag ng katalinuhan o rason."
+        },
+        {
+            "id": "15-3",
+            "text": "Tumutukoy sa buháy na pag-asa dahil sa pamana ng buhay na walang hanggan. Tingnan ang mga tala 3-6 at 4-2 sa kapitulo 1."
+        },
+        {
+            "id": "15-4",
+            "text": "Isang banal na pagkatakot. Tingnan ang tala 17-4 sa kapitulo 1."
+        },
+        {
+            "id": "16-1",
+            "text": "Yamang ang budhi ay isang bahagi ng ating pantaong espiritu (Roma 9:1; 8:16), ang pangalagaan ang ating budhi ay ang pangalagaan ang ating espiritu sa harapan ng Diyos."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang mabuting paraan ng pamumuhay ng Kristiyano ay nararapat na isa na nasa loob ni Kristo. Ito ay isang pamumuhay, isang pang-araw-araw na pamumuhay, sa loob ng Espiritu. Ito ay higit na mataas kaysa sa isang buhay na etikal at moral."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang mga kasalanan sa bersikulong ito at sa 2:24, 1 Cor. 15:3, at Heb. 9:28 ay tumutukoy sa mga kasalanang nagawa natin sa ating panlabas na paggawi; samantalang ang kasalanan sa 2 Cor. 5:21 at Heb. 9:26 ay tumutukoy sa kasalanan sa ating kalikasan na taglay na natin mula pa sa ating pagkasilang. Si Kristo ay namatay para sa ating mga kasalanan, dinadala ang ating mga kasalanan sa krus, upang ang ating mga kasalanan ay mapatawad ng Diyos. Subali’t Siya ay naging kasalanan upang ang suliranin ng ating kasalanan ay malutas. Hindi muna tinutuos ni Pedro ang kasalanan sa ating kalikasan, kundi una muna niyang tinutuos ang mga kasalanan sa ating pag-uugali, sa ating paraan ng pamumuhay (b. 16). Sa aklat na ito ay binibigyang-diin ang kamatayan ni Kristo sa pagtubos sa atin mula sa ating minanang walang kabuluhang paraan ng pamumuhay (1:18-19)."
+        },
+        {
+            "id": "18-2",
+            "text": "Ito ay nagpapakita na ang kamatayan ni Kristo ay para sa pagtutubos, hindi para sa pagkamartir. Sa krus Siya ang ating Panghalili, pinapasan ang ating mga kasalanan, ang Matuwid na Isa na hinatulan sa halip natin, na mga di-matuwid, ng matuwid na Diyos ayon sa katuwiran, upang maalis Niya ang hadlang ng ating mga kasalanan at madala tayo sa Diyos. Ito ay ang tubusin tayo sa ating mga kasalanan pabalik sa Diyos, ihiwalay tayo sa ating di-matuwid na paraan ng pamumuhay pabalik sa matuwid na Diyos."
+        },
+        {
+            "id": "18-3",
+            "text": "Hindi ang Espiritu Santo, kundi ang espiritu na siyang espirituwal na kalikasan ni Kristo (Mar. 2:8; Luc. 23:46). Ang pagkapako sa krus ang naglagay sa kamatayan kay Kristo sa Kanyang laman, na Kanyang tinanggap sa panahon ng Kanyang pagiging laman (Juan 1:14), hindi sa Kanyang espiritu. Ang Kanyang espiritu ay hindi namatay sa krus nang katulad ng pagkamatay ng Kanyang laman; ang Kanyang espiritu sa halip ay nabuhay, nabigyang-lakas, ng bagong kapangyarihan ng buhay. Kaya, dahil sa napalakas na espiritung ito Siya ay nagpahayag sa mga natisod na anghel pagkaraan ng Kanyang kamatayan sa laman at bago ang Kanyang pagkabuhay na muli."
+        },
+        {
+            "id": "19-1",
+            "text": "Ito ay tumutukoy sa espiritu sa b. 18, nagpapakita at nagpapatunay na sa espiritung ito, si Kristo, pagkatapos mamatay sa Kanyang laman, ay kumikilos pa rin."
+        },
+        {
+            "id": "19-2",
+            "text": "Sa buong itinagal ng mga siglo, maraming dakilang guro ng iba’t ibang pagtuturo ang nagkaroon ng iba’t ibang pagpapaliwanag hinggil sa “mga espiritung nasa bilangguan.” Ang higit na tinatanggap ayon sa mga Kasulatan ay ang sumusunod: ang mga espiritu rito ay hindi tumutukoy sa mga espiritung walang katawan ng mga namatay na tao na nakakulong sa Hades, kundi sa mga anghel (ang mga anghel ay mga espiritu-Heb. 1:14) na natisod dahil sa pagsuway noong panahon ni Noe (b. 20 at Pag-aaral Pambuhay ng Genesis Mensahe 27) at nakakulong sa mga hukay ng kadiliman para sa kahatulan sa dakilang araw (2 Ped. 2:4-5; Judas 6). Pagkaraan ng Kanyang kamatayan sa laman, si Kristo sa Kanyang buháy na espiritu ay nagpunta (malamang sa kaila-ilaliman-Roma 10:7) sa mga rebeldeng anghel upang ipahayag, marahil, ang tagumpay ng Diyos sa masamang balak ni Satanas na guluhin ang dibinong plano. Hindi tumutukoy sa pagpapahayag ng ebanghelyo, kundi sa pagpapahayag ng tagumpay na isinagawa ng Diyos. Ang tagumpay na ito ay tumutukoy sa pagpuksa ng Diyos kay Satanas at sa kanyang kapangyarihan ng kadiliman, sa pamamagitan ng kamatayan ni Kristo sa krus (Heb. 2:14; Col. 2:15)."
+        },
+        {
+            "id": "19-3",
+            "text": "Tumutukoy sa Tartarus, ang mga malalim at madilim na hukay (2 Ped. 2:4 at Judas 6), na kinalalagyan ng mga natisod na anghel."
+        },
+        {
+            "id": "19-4",
+            "text": "Hindi ang magpahayag ng mabuting balita, kundi ang magproklama ng matagumpay na pagdaig."
+        },
+        {
+            "id": "20-1",
+            "text": "Hindi tumutukoy sa mga tao kundi sa mga nilikhang anghel, naiiba sa walong kaluluwa."
+        },
+        {
+            "id": "20-2",
+            "text": "“Sa Griyego ay nangangahulugang ‘dumating na ligtas patungo sa isang lugar ng katiwasayan sa pagdaan sa kahirapan at panganib,’ katulad sa Gawa 27:44”-Darby."
+        },
+        {
+            "id": "20-3",
+            "text": "Ang tubig ay ang kaparaanan kung saan naisasagawa ang pagliligtas. Iniligtas ng arka si Noe at ang kanyang pamilya sa paghatol ng Diyos; ang paghatol na ito ay ang pagpuksa sa mundo sa pamamagitan ng baha. Ang tubig ang nagligtas sa kanila mula sa masamang henerasyon at naghiwalay sa kanila tungo sa isang bagong henerasyon, katulad ng ginawa ng tubig ng Pulang Dagat sa mga anak ni Israel (Exo. 14:22, 29; 1 Cor. 10:1-2) at ng tubig ng bautismo sa mga Bagong Tipang mananampalataya (b. 21)."
+        },
+        {
+            "id": "21-1",
+            "text": "Tumutukoy sa tubig sa naunang bersikulo, na isang sagisag ng tubig ng bautismo. Ito ay nagpapakita na ang pagdaan sa baha ni Noe at ng kanyang pamilya na nasa loob ng arka ay isang sagisag ng ating pagdaan sa bautismo. Ang tubig ng baha ay nagligtas sa kanila mula sa lumang paraan ng pamumuhay tungo sa isang bagong kapaligiran; sa gayunding paraan ang tubig ng bautismo ay nagliligtas sa atin mula sa namanang walang kabuluhang paraan ng pamumuhay tungo sa paraan ng pamumuhay sa loob ng pagkabuhay na muli ni Kristo. Ito ang pangunahing binibigyang-diin ng aklat na ito. Ang pagtubos ni Kristo sa atin ay para rito (1:18-19). Ang pagtubos na ito ay isinagawa ng Kanyang kamatayan at tinanggap at ginamit sa atin sa bautismo sa pamamagitan ng Espiritu sa pamamagitan ng Kanyang pagkabuhay na muli. Ngayon ang ating pang-araw-araw na buhay ay dapat na maging nasa Espiritu ng nabuhay na muling Kristo, isang pamumuhay na ibinubuhay si Kristo sa pagkabuhay na muli sa pamamagitan ng kapangyarihan ng buhay ng Kanyang Espiritu (Roma 6:4-5). Ito ay isang bago at mahusay na paraan ng pamumuhay na lumuluwalhati sa Diyos (2:12)."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang bautismo mismo ay hindi nag-aalis at hindi makapag-aalis ng karumihan ng ating laman-ang dumi ng ating natisod na kalikasan at karumihan ng masasamang pita ng laman. Ang maling pagtuturo hinggil sa bautismong nagliligtas batay sa bersikulong ito at sa Mar. 16:16 at sa Gawa 22:16, ay itinutuwid dito. Ang bautismo ay isa lamang sagisag; ang realidad nito ay si Kristo sa pagkabuhay na muli bilang Espiritung nagbibigay-buhay, na ginagamit sa atin ang lahat ng pinagdaanan ni Kristo sa pamamagitan ng Kanyang pagkapako sa krus at pagkabuhay na muli, ginagawang tunay ang mga bagay na ito sa ating pang-araw-araw na buhay."
+        },
+        {
+            "id": "21-3",
+            "text": "Gr. eperotema , isang pagtatanong, isang pag-uusisa. Ang kahulugan nito ay lubhang tinututulan. Ang tamang kahulugan ay tila baga yaong katulad ng sinabi ni Alford, “ang paghahangad sa Diyos sa isang mabuti at dalisay na budhi,” na namamahala sa wastong buhay-Kristiyano. Ang ganitong uri ng pagtatanong, na nagtatanong ng isang bagay, ay maituturing na isang paghiling o pangangailangan. Ang kaisipan dito ni Pedro ay maaaring ang bautismo ay isang paghiling sa Diyos ng nabautismuhan para sa isang mabuting budhi tungo sa Diyos. Ang bautismo, bilang isang simbolo, isang katambal ng ating paniniwala sa lahat ng mga naisagawa ni Kristo, ay nagpapatotoo na ang lahat ng tinataglay nating mga suliranin sa harapan ng Diyos at sa Diyos ay nalutas na. Kaya, ito ay isang patotoo, sumasaksi na sa ating budhi ay wala ng paglabag, bagkus sa halip tayo ay punô ng kapayapaan at katiyakang tayo ay nabautismuhan tungo sa loob ng Tres-unong Diyos (Mat. 28:19) at organikong kaisa Niya sa pamamagitan ng pagkabuhay na muli ni Kristo, yaon ay, sa pamamagitan ni Kristo sa pagkabuhay na muli bilang Espiritu ng buhay. Kung wala ang Espiritu ni Kristo bilang realidad nito, ang bautismo sa pamamagitan ng tubig ay kaagad na nagiging isang hungkag at patay na rituwal."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang karagdagang salitang ito ay hindi lamang nagbubukas sa atin ng higit pa, tulad ng maluwalhating resulta ng pagdurusa ni Kristo, ng pagtataas sa Kanya pagkatapos ng pagkabuhay na muli tungo sa humihigit na kataasan at kagalang-galang na posisyon na Kanyang hinahawakan ngayon sa mga kalangitan sa kanang kamay ng Diyos, bagkus nagpapakita rin kung gaano kaluwalhati at karangal ang organikong pakikipag-isa na ating pinasukan sa Kanyang loob sa pamamagitan ng bautismo, sapagka’t tayo ay binautismuhan tungo sa loob Niya (Roma 6:3; Gal. 3:27)."
         }
     ]
 }

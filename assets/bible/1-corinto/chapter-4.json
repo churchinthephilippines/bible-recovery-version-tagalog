@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "ganitong",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "ipalagay",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "lingkod",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "katiwala",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -33,7 +33,7 @@
             "footnotes": [
                 {
                     "word": "Dito,",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -44,11 +44,11 @@
             "footnotes": [
                 {
                     "word": "siyasatin",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -65,7 +65,7 @@
             "footnotes": [
                 {
                     "word": "bago",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -76,15 +76,15 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "inianyo",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "nangasusulat,",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": [
@@ -97,7 +97,7 @@
             "footnotes": [
                 {
                     "word": "sino",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -108,7 +108,7 @@
             "footnotes": [
                 {
                     "word": "Kayo",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -119,15 +119,15 @@
             "footnotes": [
                 {
                     "word": "kahuli-",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "itinalaga",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "panoorin",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -138,15 +138,15 @@
             "footnotes": [
                 {
                     "word": "mangmang",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "mahina,",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "maluwalhati,",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": [
@@ -171,19 +171,19 @@
             "footnotes": [
                 {
                     "word": "sinisiraang-",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "namamanhikan,",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "yagit",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "sukal",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -202,11 +202,11 @@
             "footnotes": [
                 {
                     "word": "gabay",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "ama;",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -217,7 +217,7 @@
             "footnotes": [
                 {
                     "word": "namamanhik",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -228,11 +228,11 @@
             "footnotes": [
                 {
                     "word": "paraang",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "saanmang",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -255,7 +255,7 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -266,14 +266,136 @@
             "footnotes": [
                 {
                     "word": "panghampas,",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang paraang inilarawan sa 3:21-23."
+        },
+        {
+            "id": "1-2",
+            "text": "O, ibilang, sukatin, at uriin."
+        },
+        {
+            "id": "1-3",
+            "text": "Gr. hupeeretees. Isang kawaksi o katulong o itinalagang tagapaglingkod, isang opisyal na tagapaglingkod na natatanging itinalaga para sa isang tiyak na layunin (Gawa 26:16)."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang salitang Griyego ay mula sa salitang ugat na tulad ng sa salitang ekonomiya o pamamahagi sa I Tim. 1:4 at Efe. 1:10. Ito ay nangangahulugang isang namamahaging katiwala, isang tagapamahala sa sambahayan, na namamahagi ng sambahayang panustos sa mga miyembro nito. Ang mga apostol ay itinalaga ng Panginoon na maging mga gayong katiwala, namamahagi ng mga hiwaga ng Diyos, na si Kristo bilang hiwaga ng Diyos at ang ekklesia bilang hiwaga ni Kristo (Col. 2:2; Efe. 3:4), sa mga mananampalataya. Ang namamahaging paglilingkod na ito, ang pagkakatiwala, ay ang ministeryo ng mga apostol."
+        },
+        {
+            "id": "2-1",
+            "text": "Yaon ay, sa pagkakatiwala na siyang namamahaging ministeryo."
+        },
+        {
+            "id": "3-1",
+            "text": "Sinuri para sa paghatol o nasa paghahatol."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang araw ng paghatol ng tao ay ang pangkasalukuyang kapanahunan kung saan ang tao ay naghahatol (ang paghatol na ito ay tumutukoy sa pagsisiyasat ng tao), na kabaligtaran ng araw ng Panginoon (3:13), na siyang darating na kapanahunan, ang kapanahunan ng kaharian, kung kailan maghahatol ang Panginoon."
+        },
+        {
+            "id": "5-1",
+            "text": "Yaon ay, bago dumating ang araw ng Panginoon (3:13)."
+        },
+        {
+            "id": "6-1",
+            "text": "Tumutukoy sa mga bagay na binanggit sa nauunang sipi mula kapitulo 1 hanggang sa kapitulong ito."
+        },
+        {
+            "id": "6-2",
+            "text": "Ito ay isang metaporikong katawagan. Ang lahat ng isinulat ng apostol sa nauunang sipi na nagsisimula sa kapitulo 1 hanggang kapitulo 3 ay maaaring iangkop sa mga naglilingkod sa Panginoon, lalung-lalo na sa mga palalo at mapagbaha-bahaging taga-Corinto. Nguni’t para sa kanilang kapakanan, yaon ay, ayon sa kanilang situwasyon at para sa kanilang kapakinabangan, iniangkop ni Pablo ang sagisag na ito sa kanilang dalawa ni Apolos, (katulad ng kanyang sinabi sa 3:5-8), umaasang mauunawaan ito ng mga palalong taga-Corinto at iangkop sa kanilang sarili."
+        },
+        {
+            "id": "6-3",
+            "text": "Ito ay maaaring tumutukoy sa kung anuman ang naisulat sa mga naunang kapitulo, katulad ng: “Ipinako ba sa krus si Pablo dahil sa inyo” (1:13)? “Ano nga si Apolos? At ano si Pablo?” Sila ay pawang mga tagapaglingkod lamang ni Kristo, isang tagapagtanim at isang tagapagdilig (3:5-7). Hindi sila ang Kristo na naipako sa krus para sa mga mananampalataya. Hindi sila ang Diyos, na nagpapalago sa mga mananampalataya. Hindi sila dapat pahalagahan nang labis dito. Kung hindi, ang mga nagpapahalaga sa kanila, katulad ng mga makalamang mananampalatayang taga-Corinto, ay maaaring ipagpalalo ang isa laban sa iba."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang Diyos ang gumagawa ng pagkakaiba natin sa iba. At anuman ang ating taglay ay tinanggap natin mula sa Diyos. Kaya, ang lahat ng kaluwalhatian ay dapat maiukol sa Diyos, at tayo ay dapat magmapuri sa Kanya, hindi sa ating mga sarili ni kanino mang lingkod, katulad nina Pablo o Apolos, na Kanyang ginamit."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang mga mananampalatayang taga-Corinto na nagmalaki sa kanilang natamo ay nasiyahan na sa kanilang taglay. Sila ay naging sapat-na-sa-kanilang-sarili at naghari-harian nang hiwalay sa mga apostol. Ito ay lubusang nasa kanilang mga sarili at nasa kanilang laman."
+        },
+        {
+            "id": "9-1",
+            "text": "Noong panahon ni Pablo, kapag ang mga kriminal ay nakikipaglaban sa mababangis na hayop sa teatro para sa paglilibang ng karamihan, ang mga kriminal ay itinatanghal nang huli sa lahat. Ginamit ni Pablo ang ganitong metapora upang ipakita na silang mga apostol ay ginawa ng Diyos bilang huling pagtatanghal ng isang panoorin ng Diyos."
+        },
+        {
+            "id": "9-2",
+            "text": "Itinuring ng mga apostol ang kanilang mga sarili bilang mga kriminal na itinalaga sa kamatayan sa harapan ng sanlibutan, hindi bilang mga hari na katulad ng mga taga-Corinto na tila mga haring itinalaga upang maghari."
+        },
+        {
+            "id": "9-3",
+            "text": "Isang metapora, tumutukoy sa mga paglalabanan ng mga kriminal at mababangis na hayop sa teatrong Romano. Ang mga apostol ay naging gayong panoorin sa sanlibutan, hindi lamang nakikita ng mga tao, bagkus ng mga anghel din. Tingnan ang tala 33-1 sa Hebreo 10."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang mga apostol ay handang maging mangmang sa pamamagitan ng pagtatakwil ng kanilang pantaong karunungan alang-alang kay Kristo. Subali’t ang mga makalamang mananampalatayang taga-Corinto ay nanatiling maingat sa katalinuhan sa kanilang likas na karunungan, habang sila ay nagpapahayag na sila ay nasa loob ni Kristo."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang mga apostol habang naghahain ng Kristo ay nakitang tila mahina, sapagka’t sila ay hindi gumamit ng kalakasan o kapangyarihan ng kanilang likas na katauhan (2:3). Subali’t ang mga makalamang mananampalatayang taga-Corinto ay malakas,nagpapakatanyag sa gitna ng mga mananampalataya sa pagsasagawa ng kanilang likas na kakayahan."
+        },
+        {
+            "id": "10-3",
+            "text": "Ang mga mananampalatayang taga-Corinto ay maluwalhati, o kagalang-galang, sa pagtatanghal ng kaluwalhatian. Subali’t ang mga apostol ay siniraang-puri at hinamak ng mga naghahangad sa kaluwalhatian na taga-Corinto."
+        },
+        {
+            "id": "13-1",
+            "text": "O, iniinsulto, pinagsasalitaan ng nakasasakit."
+        },
+        {
+            "id": "13-2",
+            "text": "Yaon ay, ang magsumamo nang may paghihikayat, pag-aaliw, at pagpapasigla upang mapayapa."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang yagit at sukal ay magkasingkahulugan. Ang yagit ay tumutukoy sa itinatapon sa paglilinis; kaya, basura, dumi. Ang sukal ay tumutukoy roon sa pinalis; kaya, basura , dumi. Kapwa ang magkasing-kahulugang salitang ito ay ginamit bilang mga metapora, lalo na sa mga hinatulang kriminal ng pinakamababang uri, na itinapon sa dagat o sa mababangis na hayop sa teatro."
+        },
+        {
+            "id": "15-1",
+            "text": "Lit. mga tagapatnubay ng bata katulad sa Gal. 3:24-25."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang mga guro, ang mga tagapatnubay ng bata ay nagbibigay ng mga tagubilin at mga utos sa mga bata sa ilalim ng kanilang pangangalaga; ang mga ama ay namamahagi ng buhay sa kanilang mga anak na kanilang isinilang. Ang apostol ay isang gayong ama; isinilang niya ang mga mananampalatayang taga-Corinto sa loob ni Kristo sa pamamagitan ng ebanghelyo, namamahagi ng dibinong buhay sa kanila upang sila ay maging mga anak ng Diyos at mga sangkap ni Kristo."
+        },
+        {
+            "id": "16-1",
+            "text": "Tingnan ang tala 13-2 ."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ang mga paraaang iginawi ng apostol sa kanyang sarili habang tinuturuan niya ang mga banal sa bawa’t ekklesia."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang ganitong pananalita ay nagpapahiwatig ng dalawang bagay: 1) ang pagtuturo ng apostol sa bawa’t dako ay pare-pareho, hindi nag-iiba 2) ang saanmang dako ay katumbas ng bawa’t ekklesia; at ang bawa’t ekklesia ay katumbas ng saanmang dako."
+        },
+        {
+            "id": "20-1",
+            "text": "Ito ay tumutukoy sa buhay-ekklesia, nagpapahiwatig na sa aspekto ng awtoridad, ang ekklesia sa kapanahunang ito ay ang kaharian ng Diyos."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang salitang ito ay sinalita sa mga mananampalatayang taga-Corinto batay sa pagsasaalang-alang na ang apostol ang kanilang espirituwal na ama. Sa gayon siya ay may katayuan at pananagutang disiplinahin ang kanyang mga anak."
+        },
+        {
+            "id": "21-2",
+            "text": "Tumutukoy sa naisilang-na-muling espiritu ng apostol na pinanahanan at hinaluan ng Espiritu Santo. Ang espiritu ng kaamuan ay isang espiritung nababaran ng kaamuan ni Kristo (II Cor. 10:1) upang ihayag ang kagalingan ni Kristo."
         }
     ]
 }

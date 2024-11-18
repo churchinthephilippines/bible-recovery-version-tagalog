@@ -1,5 +1,5 @@
 {
-    "chapter": 12,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,27 +7,27 @@
             "footnotes": [
                 {
                     "word": "Kaya",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "kahabagan",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "ihandog",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "buháy,",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "katampatang",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "paglilingkod.",
-                    "note": ""
+                    "id": "1-6"
                 }
             ],
             "outlines": [
@@ -42,31 +42,31 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "magsiayon",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "kapanahunang",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "matransporma",
-                    "note": ""
+                    "id": "2-4"
                 },
                 {
                     "word": "pagpapabago",
-                    "note": ""
+                    "id": "2-5"
                 },
                 {
                     "word": "mapatunayan",
-                    "note": ""
+                    "id": "2-6"
                 },
                 {
                     "word": "kalooban",
-                    "note": ""
+                    "id": "2-7"
                 }
             ],
             "outlines": [
@@ -79,7 +79,7 @@
             "footnotes": [
                 {
                     "word": "mag-",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -90,7 +90,7 @@
             "footnotes": [
                 {
                     "word": "gawain,",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": [
@@ -103,11 +103,11 @@
             "footnotes": [
                 {
                     "word": "kay",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "sangkap",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -118,15 +118,15 @@
             "footnotes": [
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "propesiya,",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "kasukatan",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -137,7 +137,7 @@
             "footnotes": [
                 {
                     "word": "paglilingkod,",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -148,15 +148,15 @@
             "footnotes": [
                 {
                     "word": "namimigay,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "namumuno,",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "naaawa,",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -167,7 +167,7 @@
             "footnotes": [
                 {
                     "word": "Maging",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": [
@@ -186,11 +186,11 @@
             "footnotes": [
                 {
                     "word": "espiritu,",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "naglilingkod",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -207,7 +207,7 @@
             "footnotes": [
                 {
                     "word": "Dumaramay",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -218,7 +218,7 @@
             "footnotes": [
                 {
                     "word": "Pagpalain",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -229,7 +229,7 @@
             "footnotes": [
                 {
                     "word": "Makigalak",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -246,7 +246,7 @@
             "footnotes": [
                 {
                     "word": "Isipin",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -263,7 +263,7 @@
             "footnotes": [
                 {
                     "word": "ipaghiganti",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -279,6 +279,136 @@
             "text": "Huwag kang padaig sa masama, kundi daigin mo ng mabuti ang masama.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang aklat na ito, pagkatapos ng mga naisingit na salita na nagpaliwanag nang mabuti tungkol sa pagpili ng Diyos, ay nagpapatuloy sa kapitulo walo upang salitain ang tungkol sa ikalawang kalahati ng kumpletong pagliligtas ng Diyos sa loob ni Kristo. Yaon ay, yaong mga tumanggap at nagtamasa sa unang kalahati ng kumpletong pagliligtas ng Diyos ay mga sangkap ng Katawan sa isa’t isa upang maging Katawan ni Kristo (b. 5), at ibinubuhay ang buhay ng Katawan ni Kristo sa lupa sa iba’t ibang lokalidad (gaya ng sinasabi sa kapitulo labing-anim) upang ihayag si Kristo, nang sa gayon ang Tres-unong Diyos na dumaan sa maraming hakbangin ay maihayag dito, gaya ng pagtuturo ng banal na salita sa kapitulo lima hinggil sa iba’t ibang aspekto ng pang-araw-araw na buhay. Ang unang kalahati ng kumpletong pagliligtas ng Diyos, gaya ng ipinahayag sa mga kapitulo isa hanggang walo, ay ang mga kaparaanan upang marating ng Diyos, ang Kanyang gol; samantalang ang ikalawang kalahati ng kumpletong pagliligtas ng Diyos na ipinahayag sa mga kapitulo labindalawa hanggang labing-anim, ay ang gol ng kumpletong pagliligtas ng Diyos."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 2 ng 9:15. Patungkol sa atin, ang Diyos ay may iba’t ibang uri ng kahabagang naihayag sa pagpili, pagtawag, at pagliligtas, at nagdadala sa atin tungo sa loob ng Kanyang buhay upang tamasahin ang Kanyang kayamanan at maging Kanyang kahayagan. Ginamit ng apostol ang maraming kahabagang ito ng Diyos bilang mga kaparaanan at lakas upang hikayatin tayong maghandog ng ating mga katawan sa Diyos, upang maisakatuparan ang Kanyang layunin."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang ating buong katauhan ay kinakailangan upang matanto ang pamumuhay ng ekklesia, na siyang Katawan ni Kristo. Kaya, sinasalita sa kapitulong ito ang tungkol sa ating mga katawan (b. 1), sa ating kaluluwa (b. 2) at sa ating espiritu (b. 11). Alang-alang sa Katawan ni Kristo, kailangan nating ihandog ang ating mga katawan sa Diyos."
+        },
+        {
+            "id": "1-4",
+            "text": "Sa kapitulo anim, ang ating mga sangkap ay inihahandog natin bilang mga sandata ng katuwiran (6:13) para sa pakikipagdigma at paglilingkod. Subali’t sa kapitulong ito, ang ating paghahandog ng ating mga katawan bilang haing buháy ay para sa buhay-ekklesia. Ang haing ito ay buháy sapagka’t ito ay nabuhay na muli at nagtataglay ng buhay, hindi gaya ng mga hain sa Lumang Tipan na pinatay. Ang haing ito ay pinabanal din, sapagka’t sa pamposisyon, ito ay ibinukod mula sa sanlibutan, at sa lahat ng pangkaraniwang tao, bagay at pangyayari para sa Diyos sa pamamagitan ng dugo ni Kristo; at sa pandisposisyon, ginagamit ng Espiritu Santo ang buhay ng Diyos at ang nagpapabanal na kalikasan ng Diyos upang pabanalin at transpormahin ang likas na buhay, laman, at lumang paglikha para sa kasiyahan ng Diyos. Kaya, ito ay kaaya-aya sa Diyos. Mapapansin natin na ang “mga katawan” ay pangmaramihan. Samantalang ang “hain” ay pang-isahan. Ito ay tumutukoy na ang ating inihahandog ay maraming katawan, subali’t ang hain ay ang natatanging hain. Ito ay nagpapahiwatig na ang mga paglilingkod sa Katawan ni Kristo ay hindi nararapat na maging hiwa-hiwalay, yaon ay, walang kaugnayan sa isa’t isa. Ang lahat ng ating paglilingkod ay nararapat na maging iisang buong paglilingkod at dapat na namumukod-tanging isa sapagka’t ito ay ang paglilingkod ng iisang Katawan ni Kristo."
+        },
+        {
+            "id": "1-5",
+            "text": "O matalino, bagay na bagay, nararapat, umaayon sa pinakamataas na pagkaunawa."
+        },
+        {
+            "id": "1-6",
+            "text": "Nangangahulugang paglingkuran ang Diyos sa gitna ng pagsamba. Tingnan ang tala 1 ng 1:9. Bago dumating sa kapitulong ito, maliban sa apostol, hindi binanggit na ang mga mananampalataya ay mayroon ding isang gayong paglilingkod. Tinutukoy nito na ang paglilingkod ng mga mananampalataya ay ang kinalabasan ng paglago sa buhay na inilarawan sa mga naunang kapitulo at ang gayong paglilingkod ay nararapat na nasa ekklesia, nasa loob ng katawan, gaya ng paunang-inilarawan sa Exodo at Levitico, na naglarawan sa paglilingkod ng pagkasaserdote patungkol sa Diyos. Ang paglilingkod na ito ay itinatag pagkatapos maitayo ang tabernakulo."
+        },
+        {
+            "id": "2-1",
+            "text": "Nangangahulugang huwag magpalagom sa kapanahunang ito, upang tayo, na pinabanal mula sa sanlibutang ito tungo sa Diyos, ay hindi na muling maitulad sa kapanahunang ito, sapagka’t ang kapanahunang ito ay hindi tumatalima sa pagkilos at paggawa ng Panginoong Espiritu sa loob natin sa pamamagitan ng buhay ng Diyos at sa pamamagitan ng Kanyang nagpapabanal na kalikasan na siyang nagwawangis at nagtutulad sa atin tungo sa maluwalhating larawan ng Panginoon sa pamamagitan ng paggamit sa esensiya ng Diyos na nasa loob natin (2 Cor. 3:18)."
+        },
+        {
+            "id": "2-2",
+            "text": "*Gr. suskeematizomai. Gayundin sa 1 Ped. 1:14, nangangahulugang maianyong katulad sa panlabas."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang kapanahunang ito ay tumutukoy sa kasalukuyan, at praktikal na bahagi ng sanlibutan (tingnan ang tala 2 ng Gal. 1:4) na ating nakauugnay at ating tinitirhan. Ang sanlibutan, ang makasatanas na masamang sistema (tingnan ang tala 1 ng Efe. 2:2) ay ang kabuuan ng lahat ng tao, bagay, at mga pangyayari maliban sa Diyos, kabilang ang mga makasanlibutang bagay at mga makarelihiyong bagay kagaya ng sanlibutang binanggit sa Gal. 6:14, na siyang makarelihiyong sanlibutan noong panahon ni Pablo. Ang maka-Satanas na sanlibutang ito ay binubuo ng sari-saring kapanahunan at bawa’t kapanahunan ay may partikular na moda, katangian, uso, pansamantalang uso, at kalakaran. Kung hindi natin itatakwil ang kapanahunang nakaharap sa atin, ang sanlibutan ay hindi natin maitatakwil."
+        },
+        {
+            "id": "2-4",
+            "text": "Ang transpormasyon ay ang hakbangin ng panloob na paggawa ng Diyos, isang metabolikong pagbabago para sa pagpapalawak ng buhay at kalikasan ng Diyos sa ating buong katauhan, lalung-lalo na sa ating kaluluwa, para sa pamamahagi ng Kristo at ng Kanyang kayamanan tungo sa loob ng bawa’t bahagi ng ating katauhan, upang maging bagong elemento natin, inaalis nang unti-unti ang ating kalumaan, ang likas na elemento. Sa katapus-tapusan, tayo ay matatransporma sa gayon ding larawan Niya (2 Cor. 3:18), yaon ay, ang mapawangis sa larawan ng Panganay na Anak ng Diyos, upang maging Kanyang maraming kapatid na lalake (8:29), angkop para sa pagtatayo ng Kanyang Katawan."
+        },
+        {
+            "id": "2-5",
+            "text": "Pagkatapos maihandog ang ating katawan kailangan pa ring mapabago ang ating kaisipan. Ang pagpapabago ng kaisipan ay ang batayan ng tranpormasyon ng ating kaluluwa; ito ang batayan ng pagtutuon ng ating kaisipan sa ating espiritu (8:6). Ang ating kaisipan ay ang pangunahing bahagi ng ating kaluluwa. Yamang ang ating kaisipan ay napapabago, ang pagpapasiya at ang damdamin na mga bahagi rin ng kaluluwa ay kusang-kusa ring mapapabago. Ang pagbabago ay nangangahulugang pagdaragdag ng bagong esensiya tungo sa loob natin, at pagbubunga ng metabolikong pagpapabago, ginagawa tayong angkop sa pagtatayo ng Katawan ni Kristo, na siyang gawi ng buhay-ekklesia."
+        },
+        {
+            "id": "2-6",
+            "text": "O, mapagmasdan at mapag-aninaw. Dahil sa paghahandog ng ating mga katawan at ng transpormasyon ng kaisipan, tayo ay makapagmamasid, makapag-aaninaw at makapagpapatunay na ang kalooban ng Diyos ay ang magkaroon ng isang Katawan para kay Kristo bilang Kanyang kapuspusan at kahayagan."
+        },
+        {
+            "id": "2-7",
+            "text": "Sa kapitulong ito, ang kalooban ng Diyos ay yaong tayo, na mga pinili, tinawag, tinubos, inaring-matuwid, pinabanal, at iwinangis upang maluwalhati gaya ng binanggit sa mga naunang labing-isang kapitulo, ay nararapat na maging sangkap ng isa’t isa sa Katawan at mamuhay ng buhay-Katawan ni Kristo (bb. 3-5). Ang Katawan ni Kristo ang pinakamataas na paksa ng dibinong pahayag. Ang buhay-Katawang ito ang resulta at ang gol ng ating paghahandog ng ating mga katawan, pagpapabago ng ating kaisipan at ng lahat ng mga gawi ng buhay na binanggit sa mga naunang kapitulo."
+        },
+        {
+            "id": "3-1",
+            "text": "Nangangahulugang magpalagay. Upang tayo ay magkaroon ng wastong buhay-ekklesia, ang unang bagay na kinakailangang mabuwag ay ang ating mataas na pagpapalagay sa ating mga sarili, sa gayon tayo ay makakikita nang mahinahon at maayos. Kinakailangan nito na hayaan nating lulunin ng buhay ni Kristo ang lahat ng ating panloob na negatibong elemento; sa gayon ay muling mapabago ang ating kaisipan, at upang maipagpalagay o matasahan natin ang ating mga sarili nang ayon sa pananampalatayang ibinahagi ng Diyos sa atin, na siyang elementong inilalalin Niya tungo sa loob natin."
+        },
+        {
+            "id": "4-1",
+            "text": "*O, pangsyon.* Ang pagpapangsyon ay ang paglilingkod para sa Katawan ni Kristo (b. 1). Kinakailangan ng ganitong paglilingkod ang dibinong buhay para sa dibinong kahayagan."
+        },
+        {
+            "id": "5-1",
+            "text": "Sa loob ni Kristo tayo ay iisang Katawan at tayo ay may organikong pakikipagkaisa sa Kanya, upang tayo ay maging kaisa Niya sa buhay at kaisa ng lahat ng mga sangkap ng Kanyang Katawan. Ang Kanyang Katawan ay hindi isang organisasyon o isang panlipunang grupo kundi isang organismong ibinunga ng ating pakikipagkaisa sa Kanya sa buhay."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang layunin ng pagliligtas ng Diyos ay ang magkaroon ng pagpapalaganap ni Kristo sa mga milyung-milyong banal, ginagawa silang mga sangkap ng Kanyang Katawan, hindi ang mga hiwa-hiwalay at mga kumpletong yunit sa kani-kanilang mga sarili kundi nagiging buháy at mga sangkap na gumagawa sa pakikipagkoordina o pagtutugma-tugma sa loob ng isang entidad. Bagama’t may iba’t ibang pangsyon ang maraming bahaging ito, sila ay hindi hiwa-hiwalay sa isa’t isa bagkus sila sa isa’t isa ay mga sangkap ng iba. Bawa’t sangkap ay organikong kaisa ng ibang sangkap at bawa’t isang sangkap ay nangangailangan ng paggawa ng lahat ng iba pang sangkap. Ang lahat ng sangkap ay kinakailangang magkoordina sa isa’t isa upang isagawa ang buhay-Katawan na ipinahayag sa kapitulong ito."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang mga kaloob na ito ay nakamit ayon sa biyayang ibinigay sa atin, at siyang kinalabasan ng ating pagdaranas kay Kristo. Ang biyayang ito ay ang Diyos na nasa loob ni Kristo, bilang ang dibinong esensiya, na pumapasok sa loob natin bilang buhay, at nagiging katamasahan natin. Kapag ang biyayang ito ay pumapasok sa loob natin, kasama nitong dinadala ang mga elemento ng espirituwal na kakayahan at mga abilidad na lumalago sa paglago ng buhay sa atin at nabubuo upang maging mga kaloob ng buhay, sa gayon ay makapagpapangsyon tayo sa Katawan ni Kristo, upang maglingkod sa Diyos. Ang mga kaloob ng buhay na binanggit dito ay naiiba sa binanggit sa Efe. 4:8 na tumutukoy sa mga may kaloob na tao na ibinigay sa Kanyang Katawan noong panahon ng pag-akyat sa langit ni Kristo para sa pagtatayo ng Kanyang Katawan. Ang mga kaloob ng buhay na ito ay naiiba rin sa mga mahimalang kaloob na binanggit sa I Corinto kapitulo 12 at 14. Ang mga kaloob ng buhay na ito ay nabuo sa pamamagitan ng paglago sa buhay, at sa pamamagitan ng transpormasyon ng buhay na binanggit sa kapitulo 2 mula sa mga panloob na pasimulang kaloob na binanggit sa 1 Cor. 1:7."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang magpropesiya ay ang magsalita para sa Diyos at ang isalita ang Diyos sa ilalim ng tuwirang pahayag ng Diyos. Sa propesiya, paminsan-minsan ay may panghuhula, subali’t hindi ito ang pangunahing aspekto ng propesiyang binanggit dito. Ang propesiya ay nagdadala ng pahayag ng Diyos, para sa pagtatayo ng ekklesia, ang Katawan ni Kristo (1 Cor. 14:4b). Ang tatlong aytem: ang propesiya, pagtuturo (b. 7), at panghihikayat (b. 8), ay may kaugnayan at pagkakatugma sa isa’t isa. Sinasalita ng propeta kung ano ang kanyang natanggap mula sa tuwirang pahayag ng Diyos; ang guro ay walang tuwirang pahayag, kundi nagtuturo nang ayon sa propesiya ng propeta; ang isang nanghihikayat ay nanghihikayat batay sa tuwirang pagsasalita sa ilalim ng pahayag ng Diyos, at nanghihikayat din nang ayon sa pagtuturo na galing sa pagsasalita ng pahayag na ito. Ang tatlong uring ito ng pagsasalita ay para sa pagtatayo ng Katawan ni Kristo, naghahain ng panustos ng buhay sa mga banal, nang sa gayon ay lumago silang sama-sama sa pamamagitan ng salita ng Diyos."
+        },
+        {
+            "id": "6-3",
+            "text": "*Gr. analogia, sa Ingles ”proportion”, naiiba sa wikang Griyegong metron na sa wikang Ingles ay ”measure” sa 12:3."
+        },
+        {
+            "id": "7-1",
+            "text": "Paglilingkod ng mga diyakono at mga diyakonesa sa mga ekklesia lokal. Tingnan ang Roma 16:1; 1 Tim. 3:8-13; at Fil. 1:1."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang namimigay ay tumutukoy sa mga nagtutustos sa pangangailangan sa loob ng ekklesia at nag-iintindi sa mga talagang nangangailangan sa ekklesia."
+        },
+        {
+            "id": "8-2",
+            "text": "Tumutukoy sa mga nangungunang kapatid na lalake sa ekklesia. Ang pangunahing katangian ng isang nangungunang kapatid ay ang pagiging masikap."
+        },
+        {
+            "id": "8-3",
+            "text": "Tumutukoy sa nakikiramay at tumutulong at naaawa. Ito ay hindi likas na pagkagalante kundi ang katangiang nabuo sa pamamagitan ng transpormasyon."
+        },
+        {
+            "id": "9-1",
+            "text": "Ipinakikita sa atin ng mga bersikulo 9-21 at ng buong kapitulo 13 ang normal na buhay-Kristiyano. Ito ang kinakailangang batayan sa pagsasagawa ng buhay-ekklesia at ito ay umaangkop sa buhay-ekklesia. Ang ganitong pamumuhay ay inilarawan sa limang panig: 1) tungo sa ibang tao (bb. 9-10, 13, 15-16); 2) tungo sa Diyos (b. 11); 3) tungo sa sarili (b. 12); 4) tungo sa mga mang-uusig at kaaway (bb. 14, 17-21); 5) tungo sa pangkalahatan, sa harapan ng lahat ng tao (b. 17). Ang ganitong pamumuhay na kumpleto at wasto tungo sa limang panig ay nangingibabaw sa uri at magreresulta sa lubos na kagandahan."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang inihandog na katawan, natranspormang kaluluwa at maningas na espiritu ay ang tatlong bagay na hindi maaaring magkulang sa normal na buhay-ekklesia. Nang dahil sa buhay-ekklesia, inihandog natin ang ating katawan, at pagkaraan nito, napakadali para sa atin ang mahulog sa opinyon ng kaisipan na bahagi ng kaluluwa. Sa gayon, nasisira ang ating buhay-ekklesia, kaya ang ating kaluluwa ay nangangailangan ng transpormasyon. Kapag natransporma na ang ating kaisipan, madali naman tayong mahulog sa negatibong katahimikan, kaya sa panahong ito kinakailangan naman nating mapaningas sa espiritu at pakilusin at palakasin ang loob ng ating mga sarili na sumulong nang positibo sa buhay-ekklesia."
+        },
+        {
+            "id": "11-2",
+            "text": "Lit. naglilingkod bilang alipin. Tingnan ang tala 1-2 sa kapitulo 1."
+        },
+        {
+            "id": "13-1",
+            "text": "Lit. mapagsalamuha. Ang pagdamay na ito ay ayon sa ating kakayahan, kusang-loob na inaalala ang mga kailangan ng mga banal. Ang ganitong materyal na pagdamay ay tinaguriang “pagsasalamuha” ng apostol sapagka’t ang biyaya ng buhay ng Panginoon ay napadadaloy at naihahatid sa mga sangkap ng Katawan ni Kristo sa pamamagitan ng materyal na pakikibahagi."
+        },
+        {
+            "id": "14-1",
+            "text": "Tayong mga Kristiyano ay mga taong pinagpala. Kaya, magpapala lamang tayo at hindi maaaring manumpa. Nang tayo ay mga kaaway pa ng Panginoon, tayo ay Kanyang pinagpala (5:10), kaya nararapat din nating pagpalain ang ating mga kaaway at mang-uusig."
+        },
+        {
+            "id": "15-1",
+            "text": "Kung ninanais natin na maging para sa buhay-ekklesia at mamuhay ng isang normal na buhay-Kristiyano, kinakailangan natin ang isang angkop na damdamin, nakikigalak sa mga nangagagalak at nakikitangis sa mga nagsisitangis. Hindi tayo magkakaroon ng angkop na damdamin sa pamamagitan ng ating likas na buhay kundi ito ay resulta ng buhay na dumaan sa transpormasyon."
+        },
+        {
+            "id": "17-1",
+            "text": "Tayo ay hindi lamang namumuhay sa harapan ng Diyos bagkus sa harapan din ng mga tao. Kaya nga, kinakailangan din nating isipin ang mga bagay na kapuri-puri sa harapan ng lahat ng tao."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang Diyos ang nakapangyayari sa lahat. Hindi tayo dapat gumamit ng anumang paraan upang ipaghiganti ang ating sarili kundi ibigay sa makapangyarihang kamay ng Diyos ang ating buong sitwasyon, bigyan Siya ng puwang at hayaang gawin Niya ang Kanyang kinalulugdan."
         }
     ]
 }

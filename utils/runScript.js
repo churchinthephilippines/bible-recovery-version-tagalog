@@ -25,6 +25,7 @@ function extractChapterContent(chapter) {
         footnoteReferences: []
     }
 }
+extractChapterContent(null)
 
 function extractChapterFootnoteReferences() {
 
@@ -36,3 +37,5 @@ function extractChapterFootnoteReferences() {
         return { id, text };
     })
 }
+
+extractChapterFootnoteReferences()

@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "pangako",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -20,7 +20,7 @@
             "footnotes": [
                 {
                     "word": "kaawaan,",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -31,15 +31,15 @@
             "footnotes": [
                 {
                     "word": "pinaglilingkuran",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "dalisay",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": [
@@ -62,7 +62,7 @@
             "footnotes": [
                 {
                     "word": "namalagi",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -73,11 +73,11 @@
             "footnotes": [
                 {
                     "word": "muling",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "pagpapatong",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -88,15 +88,15 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "mahinahong",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -107,19 +107,19 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "patotoo",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "ebanghelyo",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": null
@@ -130,15 +130,15 @@
             "footnotes": [
                 {
                     "word": "tumawag",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "layunin",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "bago",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -149,19 +149,19 @@
             "footnotes": [
                 {
                     "word": "nahayag",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "nagpawalang-",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "10-3"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "10-4"
                 }
             ],
             "outlines": null
@@ -172,11 +172,11 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "tagapagbalita",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -187,27 +187,27 @@
             "footnotes": [
                 {
                     "word": "dito",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "Yaong",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "aking",
-                    "note": ""
+                    "id": "12-4"
                 },
                 {
                     "word": "ipinagkatiwala",
-                    "note": ""
+                    "id": "12-5"
                 },
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "12-6"
                 }
             ],
             "outlines": null
@@ -218,15 +218,15 @@
             "footnotes": [
                 {
                     "word": "tularan",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "malulusog",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -237,11 +237,11 @@
             "footnotes": [
                 {
                     "word": "ipinagkatiwala",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -252,15 +252,15 @@
             "footnotes": [
                 {
                     "word": "Asia",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "tumalikod",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "Figello",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": [
@@ -274,7 +274,7 @@
             "footnotes": [
                 {
                     "word": "Onesiforo,",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -291,10 +291,172 @@
             "footnotes": [
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang aklat na ito ay isinulat noong panahong ang mga ekklesiang itinatag sa pamamagitan ng ministeryo ng apostol sa daigdig ng mga Hentil ay nasa kalagayan ng pagbaba, at ang mismong apostol ay nakakulong sa isang malayong bilangguan. Marami ang tumalikod na sa kanya at nagpabaya sa kanya (b. 15; 4:16); sa mga tumalikod sa kanya ay kabilang pa ang ilang kamanggagawa niya (4:10). Ito ay isang nakasisira ng loob at nakapanlulumong tagpo, lalo na sa kanyang batang kamanggagawa at espirituwal na anak na si Timoteo. Dahil dito, sa pagbubukas ng nakapagpapalakas-loob, nakapagpapatibay, at nakapagpapatatag na Sulat na ito, pinatunayan niya kay Timoteo na siya ay isang apostol ni Kristo, hindi lamang ayon sa kalooban ng Diyos, bagkus ayon din sa pangako ng buhay na nasa loob ni Kristo. Ito ay nagpapahiwatig na maaaring mapababa ang mga ekklesia, at marami sa mga banal na dahil sa di-katapatan ay maaaring bumalik sa dating gawi, subalit ang buhay na walang hanggan, ang dibinong buhay, ang di-nilikhang buhay ng Diyos, na ipinangako ng Diyos sa Kanyang mga banal na Salita at ibinigay sa apostol at sa lahat ng mga mananampalataya, ay nananatiling walang pagbabago magpakailanman. Kasama ng di-nagbabagong buhay na ito at sa ibabaw nito ay itinatag na ang matibay na pundasyon ng Diyos at nananatiling di-natitinag buhat sa simula hanggang sa wakas ng lahat ng pagbabang kalakaran (2:19). Sa pamamagitan ng gayong buhay, ang mga naghahanap sa Panginoon mula sa isang dalisay na puso ay may kakayahang humarap sa pagsubok ng pagbaba ng ekklesia. Sa kanyang unang Sulat, tinagubilinan ng apostol si Timoteo at ang iba pang tao na manangan sa buhay na ito (1 Tim. 6:12, 19); sa mga mapanganib na panahon, ang buhay na ito ay makapagpapalakas-loob at makapagpapatibay sa kanya."
+        },
+        {
+            "id": "2-1",
+            "text": "Tangi lamang sa Sulat kay Timoteo isinama ng apostol ang kaawaan ng Diyos sa pambungad na pagbati sa kanyang mga Sulat. Higit na malayo ang naaabot ng kaawaan ng Diyos kaysa sa Kanyang biyaya. Sa napababang situwasyon ng mga ekklesia, ang kaawaan ng Diyos ay kinakailangan. Dinadala ng kaawaan ng Diyos ang mayamang biyaya ng Diyos na sapat sa pagtugon sa alinmang uri ng pagbaba."
+        },
+        {
+            "id": "3-1",
+            "text": "Yaon ay, ang maglingkod sa Diyos sa pagsamba sa Kanya (Gawa 24:14; Fil. 3:3)."
+        },
+        {
+            "id": "3-2",
+            "text": "Sumusunod sa mga yapak ng kanyang mga ninuno upang maglingkod sa Diyos sa isang dalisay na budhi."
+        },
+        {
+            "id": "3-3",
+            "text": "*Gr. katharos , malinis o dalisay mula sa pagkakarungis ng kasalanan.* Tingnan ang tala 9-2 sa I Timoteo 3. Sa panahon ng pagbaba, ang isang dalisay na budhi ay kinakailangan upang maglingkod sa Diyos."
+        },
+        {
+            "id": "5-1",
+            "text": "Lit. nanahanan."
+        },
+        {
+            "id": "6-1",
+            "text": "*Gr. anazöpureo , lit. muling paalabin, paypayan upang umalab.* Ito ay isinulat upang mapalakas ang loob at mapatibay si Timoteo sa kanyang ministeryo para sa Panginoon, na maaaring lubhang napahina ng pagkakabilanggo ni Pablo at ng napababang situwasyon ng mga ekklesia."
+        },
+        {
+            "id": "6-2",
+            "text": "Tingnan ang tala 14-4 sa I Timoteo 4."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang ating pantaong espiritu, na naisilang-na-muli at pinanahanan ng Espiritu Santo (Juan 3:6; Roma 8:16). Ang paningasin ang kaloob ng Diyos (b. 6) ay may kaugnayan sa ating naisilang na muling espiritu."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang kapangyarihan ay tumutukoy sa ating kapasiyahan, ang pag-ibig ay tumutukoy sa ating damdamin, at ang isang mahinahong kaisipan ay tumutukoy sa ating isipan. Ito ay nagpapakita na ang isang malakas na kapasiyahan, ang nagmamahal na damdamin, at isang mahinahong kaisipan ay may napakalaking kinalaman sa isang malakas na espiritu para sa paggamit ng kaloob ng Diyos na nasa loob natin."
+        },
+        {
+            "id": "7-3",
+            "text": "O, matinong kaisipan."
+        },
+        {
+            "id": "8-1",
+            "text": "Ito ang dahilan ng pag-aatas ni Pablo kay Timoteo sa nauunang dalawang bersikulo na magpaningas ng kaloob ng Diyos na nasa loob niya sa pamamagitan ng isang malakas na espiritu."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang hindi ikahiya ang patotoo ng ating Panginoon ay ang paglabanan ang pababang agos ng mga humihinang ekklesia."
+        },
+        {
+            "id": "8-3",
+            "text": "Yamang dito, ang ebanghelyo na binigyang-katauhan (cf. tala 2 sa Apoc. 6:2) ay nagdurusa ng pag-uusig, si Timoteo ay dapat magtiis ng kahirapan na kasama ng ebanghelyo."
+        },
+        {
+            "id": "8-4",
+            "text": "Ang ating pagdurusa ng pag-uusig na kasama ng ebanghelyo ay kinakailangang dumating sa isang antas na mapagtitiisan ito ng ayon sa kapangyarihan ng Diyos, hindi ng ayon sa ating likas na kalakasan."
+        },
+        {
+            "id": "9-1",
+            "text": "Hindi lamang tayo iniligtas ng Diyos upang tamasahin ang Kanyang pagpapala, bagkus tinawag din tayo sa isang banal na pagtawag, isang pagtawag para sa isang natatanging dahilan, yaon ay, ang isakatuparan ang Kanyang layunin."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang layunin ay ang plano ng Diyos ayon sa Kanyang kalooban upang ilagay tayo sa loob ni Kristo, ginagawa tayong kaisa Niya upang makabahagi ng Kanyang buhay at posisyon nang sa gayon tayo ay maging patotoo Niya. Ang biyaya ay ang panustos na nasa loob ng buhay ng Diyos na Kanyang ibinibigay sa atin upang ipamuhay natin ang Kanyang layunin."
+        },
+        {
+            "id": "9-3",
+            "text": "Yaon ay, bago pa magsimula ang sanlibutan. Ang biyayang nasa loob ni Kristo na ibinigay sa atin ay ipinagkaloob sa atin bago pa man itatag ang sanlibutan. Ito ay isang tiyak at di-natitinag na saligan, tumatayo nang matibay laban sa mga alon ng pababang agos at naglalantad ng kalahatang kahinaan ng mga pagsisikap ng kaaway upang kalabanin ang walang hanggang layunin ng Diyos. Para sa pagpapatibay kay Timoteo, iniuugpong ng apostol ang kanilang ministeryo sa “bago pa ang mga panahong walang hanggan.”"
+        },
+        {
+            "id": "10-1",
+            "text": "Ang biyaya ng Diyos ay ibinigay sa atin sa loob ng kawalang-hanggan, subali’t nahayag at naisagawa sa atin sa pamamagitan ng unang pagdating ng Panginoon upang mapawalang-bisa ang kamatayan at makapagdala ng buhay sa atin."
+        },
+        {
+            "id": "10-2",
+            "text": "Pinawalang-bisa ni Kristo ang kamatayan, ginagawa itong walang bisa, sa pamamagitan ng Kanyang nagwawasak-sa-Diyablo na kamatayan (Heb. 2:14) at lumululon sa kamatayan na pagkabuhay na muli (1 Cor. 15:52-54)."
+        },
+        {
+            "id": "10-3",
+            "text": "Tumutukoy sa walang hanggang buhay ng Diyos, na ibinibigay sa lahat ng mananampalataya kay Kristo (1 Tim. 1:16) at siyang pangunahing elemento ng dibinong biyaya na ibinigay sa atin (Roma 5:17, 21). Nilupig na ng buhay na ito ang kamatayan (Gawa 2:24) at lululunin ang kamatayan (2 Cor. 5:4). Ayon sa pangako ng gayong buhay naging apostol si Pablo (b. 1). Ang buhay na ito at ang walang pagkasirang bunga nito ay nadala sa kaliwanagan at ipinakita sa mga tao sa pamamagitan ng pagpapahayag ng ebanghelyo."
+        },
+        {
+            "id": "10-4",
+            "text": "Ang buhay ay ang dibinong elemento, maging ang Diyos Mismo sa Kanyang Sarili, na ibinahagi sa loob ng ating espiritu; ang walang pagkasira ay ang resulta ng pagbababad ng buhay sa ating katawan (Roma 8:11). Ang buhay na ito at ang walang pagkasira ay may kakayahang lumaban sa kamatayan at pagkasira ng pagbaba ng mga ekklesia."
+        },
+        {
+            "id": "11-1",
+            "text": "Ito ay tumutukoy sa ebanghelyo ng dibinong biyaya at walang hanggang buhay, na tumutugma sa ebanghelyo ng biyaya at buhay na ipinahayag ni Apostol Juan (Juan 1:4, 16-17). Dahil sa gayong ebanghelyo, si Pablo ay itinalagang tagapagbalita, apostol, at guro."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang isang tagapagbalita ay nagpapabatid at nagpapatalastas ng ebanghelyo, ang isang apostol ay nagtatalaga at nagtatatag ng mga ekklesia para sa administrasyon ng Diyos, at ang isang guro ay nagbibigay ng mga pagtuturo sa mga ekklesia na kasama ang lahat ng mga banal. Tingnan ang tala 7-1 sa 1 Timoteo 2."
+        },
+        {
+            "id": "12-1",
+            "text": "May layunin ang apostol sa kanyang mga pagdurusa, isang layuning nasa napakataas na antas—ang ipatalastas ang masayang balita ng ebanghelyo ng biyaya at buhay, ang itatag ang mga ekklesia, at ang gabayan ang mga banal. Ang gayong dahilan ang dapat maging pagpapalakas-loob at pagpapatibay rin kay Timoteo sa pagharap sa paglubha ng mga panghihina ng mga napababang ekklesia."
+        },
+        {
+            "id": "12-2",
+            "text": "Kaya si Timoteo ay hindi rin dapat mahiya (b. 8)."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang sinampalatayanan ng apostol ay hindi isang bagay, kundi isang buhay na Persona, si Kristo, ang Anak ng Diyos na buhay, na Siyang pagsasakatawan ng dibinong biyaya at walang hanggang buhay. Ang buhay na walang hanggan sa loob Niya ay makapangyarihan; ito ay may higit na kakayahan na makapagbigay-lakas hanggang sa katapusan sa isang nagdurusa para sa Kanyang kapakanan, at may higit ding kakayahang makapag-ingat sa kanya para sa pagmamana ng darating na kaluwalhatian. Ang biyaya na nasa loob ni Kristo ay higit kaysa sapat upang matustusan ang lahat ng pangangailangan ng isinugo Niya para sa pagtatapos ng hakbangin ng kanyang ministeryo hanggang sa gantimpala sa kaluwalhatian (4:7-8). Kaya, maiingatan Niya ang ipinagkatiwala sa Kanya ng apostol hanggang sa araw ng Kanyang pagbabalik. Ang ganoong katiyakan ay dapat ding maging isang pagpapalakas-loob at pagpapatibay sa nanghihina at nalulungkot na si Timoteo."
+        },
+        {
+            "id": "12-4",
+            "text": "Ipinagkatiwala ng apostol ang kanyang buong katauhan, kalakip ang kanyang maluwalhating hinaharap, sa Isa na may kakayahan, sa pamamagitan ng Kanyang buhay at biyaya, na mag-ingat sa kanyang ipinagkatiwala hanggang sa araw ng Kanyang ikalawang pagpapakita."
+        },
+        {
+            "id": "12-5",
+            "text": "* Gr. paratheke , lit. isang deposito.*"
+        },
+        {
+            "id": "12-6",
+            "text": "Ang araw ng ikalawang pagpapakita ni Kristo."
+        },
+        {
+            "id": "13-1",
+            "text": "O, isang halimbawa. Ang nauunang salita sa bersikulo 12 ay isang tularan, isang halimbawa, ng malulusog na salita."
+        },
+        {
+            "id": "13-2",
+            "text": "Tingnan ang tala 3-2 sa 1 Tim. 6."
+        },
+        {
+            "id": "13-3",
+            "text": "Tingnan ang tala 14-2 sa 1 Timoteo 1."
+        },
+        {
+            "id": "14-1",
+            "text": "Ito ang ipinagkatiwala ng Panginoon sa atin. Maihahambing natin ito sa ating ipinagkatiwala sa Kanya na binanggit sa bersikulo 12. Ayon sa ibig sabihin ng nilalaman ng bersikulo 13, ang ipinagkatiwala rito ay tumutukoy sa malulusog na salitang naipon sa loob natin kalakip na ang mga kayamanan ng buhay na nasa salita ng Panginoon. Tingnan ang tala 20-1 sa 1 Timoteo 6."
+        },
+        {
+            "id": "14-2",
+            "text": "Lit. nananahanan. Ang Espiritu Santo ay nananahan sa ating espiritu (Roma 8:16). Kaya, ang ingatan ang mabuting bagay na ipinagkatiwala sa pamamagitan ng Espiritu Santo ay humihiling sa atin na gamitin ang ating espiritu."
+        },
+        {
+            "id": "15-1",
+            "text": "Yaon ay, ang lalawigan ng Asia. Ang lahat ng nasa Asia ay tumutukoy sa pangkalahatang kalagayan ng mga mananampalataya sa Asia, hindi tumutukoy sa bawa’t mananampalataya, sapagka’t si Onesiforo na binanggit sa aklat na ito ay buhat sa Asia at madalas na pinaginhawa niya si Pablo at hinanap pa nga niya si Pablo (bb. 16-18)."
+        },
+        {
+            "id": "15-2",
+            "text": "Ito ay nagpapakita na ang mga mananampalataya sa Asia na dating nakatanggap ng ministeryo ng apostol ay tumalikod na sa kanya ngayon. Sa kabila ng ganoong pagtatakwil, ang apostol ay lalong napalakas sa biyaya na nasa loob ni Kristo, na Siyang gayon pa rin at hindi nagbabago magpakailanman. Sa pagiging hindi nawalan ng pag-asa, hinikayat niya ang kanyang anak sa pananampalataya na magtiis nang matatag sa ministeryo sa gitna ng kabiguan at pagkawasak ng mga ekklesia."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang dalawang ito ay maaaring ang mga nanguna sa pagtalikod sa apostol dahil sa kanyang pagkabilanggo (cf. b. 8)."
+        },
+        {
+            "id": "16-1",
+            "text": "Si Onesiforo ay isang mandaraig na nakapangibabaw sa pangkalahatang kalakaran at tumayo laban sa pababang agos upang paginhawahin ang espiritu, kaluluwa, at katawan ng embahador ng Panginoon, na hindi ikinahihiya ang kanyang pagkakabilanggo dahil sa pagsasagawa ng pag-aatas ng Panginoon."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang araw ng matagumpay na pagpapakita ng Panginoon upang gantimpalaan ang Kanyang mga mandaraig (4:8; Apoc. 22:12)."
         }
     ]
 }

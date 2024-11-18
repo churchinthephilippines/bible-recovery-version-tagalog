@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,23 +7,23 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "sandatahan",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "gayunding",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "nagbatá",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "kasalanan,",
-                    "note": ""
+                    "id": "1-5"
                 }
             ],
             "outlines": [
@@ -36,7 +36,7 @@
             "footnotes": [
                 {
                     "word": "Upang",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -47,15 +47,15 @@
             "footnotes": [
                 {
                     "word": "hangad",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "kahalayan,",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "labag",
-                    "note": ""
+                    "id": "3-3"
                 }
             ],
             "outlines": null
@@ -66,19 +66,19 @@
             "footnotes": [
                 {
                     "word": "Ikinatataka",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "nakikitakbong",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "pagpapakalabis",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "pinagsasalitaan",
-                    "note": ""
+                    "id": "4-4"
                 }
             ],
             "outlines": null
@@ -89,15 +89,15 @@
             "footnotes": [
                 {
                     "word": "Na",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "magbibigay",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "humatol",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -108,15 +108,15 @@
             "footnotes": [
                 {
                     "word": "patay,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "mahatulan",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -127,15 +127,15 @@
             "footnotes": [
                 {
                     "word": "wakas",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "magpakahinahon",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "magpakahinahon",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": [
@@ -160,7 +160,7 @@
             "footnotes": [
                 {
                     "word": "iba’",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -171,23 +171,23 @@
             "footnotes": [
                 {
                     "word": "orakulo",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "itinutustos",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "Kanya",
-                    "note": ""
+                    "id": "11-4"
                 },
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "11-5"
                 }
             ],
             "outlines": null
@@ -198,19 +198,19 @@
             "footnotes": [
                 {
                     "word": "magtaka",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "tila",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "subukin,",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "kataka-",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -229,19 +229,19 @@
             "footnotes": [
                 {
                     "word": "Kung",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "pangalan",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "nagpapahingalay",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": null
@@ -252,7 +252,7 @@
             "footnotes": [
                 {
                     "word": "mapanghimasok",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -263,11 +263,11 @@
             "footnotes": [
                 {
                     "word": "Kristiyano,",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "luwalhatiin",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -278,19 +278,19 @@
             "footnotes": [
                 {
                     "word": "paghuhukom",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "ano",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -301,15 +301,15 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "makaliligtas",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "saan",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -320,30 +320,236 @@
             "footnotes": [
                 {
                     "word": "nangagbabatá",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "kalooban",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "ipagkatiwala",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "kaluluwa",
-                    "note": ""
+                    "id": "19-4"
                 },
                 {
                     "word": "paggawa",
-                    "note": ""
+                    "id": "19-5"
                 },
                 {
                     "word": "Lumalang.",
-                    "note": ""
+                    "id": "19-6"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng “para sa atin.”"
+        },
+        {
+            "id": "1-2",
+            "text": "Ito ay nagpapakita na ang buhay-Kristiyano ay isang buhay ng pakikibaka."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang isang pangunahing layunin ng aklat na ito ay ang palakasin ang loob ng mga mananampalataya at hikayatin sila na sumunod sa mga yapak ni Kristo sa panahon ng pag-uusig sa kanila (1:6-7; 2:18-25; 3:8-17; 4:12-19). Sila ay dapat magkaroon ng parehong kaisipang taglay ni Kristo sa Kanyang pagdurusa (3:18-22). Ang pangunahing gawain ng ating kaisipan ay ang umunawa at umintindi. Upang makapamuhay ng isang buhay na sumusunod sa mga yapak ni Kristo, kinakailangan natin ang isang nabagong kaisipan (Roma 12:2) nang sa gayon ay maunawaan at maintindihan ang naging paraan ng pamumuhay ni Kristo upang maisakatuparan ang layunin ng Diyos."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang kalayawan ay nagpapainit sa mga pita ng ating laman (b. 2); ang pagbabatá ay nagpapalamig sa mga ito. Ang layunin ng pagtutubos ni Kristo ay ang iligtas tayo mula sa ating minanang walang kabuluhang paraan ng pamumuhay (1:18-19). Ang pagbabatá ay tumutugon sa pagtutubos ni Kristo sa layuning ito, nag-iingat sa atin mula sa makasalanang paraan ng pamumuhay, mula sa pagpapakalabis ng kaguluhan (bb. 3-4). Ang gayong pagbabatá, na ang halos karamihan ay nagmumula sa pag-uusig, ay ang pagdidisiplina ng Diyos sa Kanyang pampamahalaang pagtutuos. Ang dumaan sa gayong pagdurusa ay ang mahatulan, matuos, at madisiplina ng Diyos sa laman (b. 6). Kaya, dapat nating sandatahan ang ating mga sarili ng isang mahinahong kaisipan upang matiis ang gayong pagbabatá."
+        },
+        {
+            "id": "1-5",
+            "text": "Ang ilang manuskrito ay nababasang, mga kasalanan."
+        },
+        {
+            "id": "2-1",
+            "text": "Yaon ay, ang hindi na mamuhay sa walang kabuluhang paraan ng pamumuhay na ipinamana ng mga magulang (1:18), kundi sa isang banal at ekselenteng paraan ng pamumuhay (1:15; 2:12), dalisay sa banal na takot at mabuti sa loob ni Kristo (3:2, 16), na siyang kalooban ng Diyos."
+        },
+        {
+            "id": "3-1",
+            "text": "Lit. layunin, kalooban; yaon ay, nilalayon, pagkahilig; kaya, ninanais."
+        },
+        {
+            "id": "3-2",
+            "text": "Yaon ay, sa walang kabuluhang paraan ng pamumuhay (1:18)."
+        },
+        {
+            "id": "3-3",
+            "text": "*Gr. athemitos , mula sa negatibong a at themitos , isang salitang pang-uri mula sa themis, nangangahulugang batas. Hindi ayon sa batas o hindi matuwid."
+        },
+        {
+            "id": "4-1",
+            "text": "Gr. xenizo , ang may bisita o ang bisita, ang banyaga, taga-ibang lupain; ang umistima, ang tumira, (ang isiping ito) ay kataka-taka. Ang mabuhay sa laman sa mga pita ng mga tao (b. 2) ay karaniwan sa mga di-nananampalatayang Hentil, na magkakasamang tumatakbo sa pagpapakalabis ng kaguluhan. Nguni’t ang mabuhay ng isang banal na buhay sa kalooban ng Diyos, hindi kasamang tumatakbo sa pagpapalayaw ng mga pita, para sa kanila, ay kataka-taka. Ito ay isang bagay na walang kaugnayan, banyaga sa kanila. Sila ay nagugulat at namamangha rito (cf. b. 12)."
+        },
+        {
+            "id": "4-2",
+            "text": "Lit. sumusugod sa karamihan katulad ng isang pangkat ng mga nagkakatuwaan. Ito ay ang mamuhay sa laman sa mga pita ng mga tao (b. 2), upang gawin ang ninanais ng mga Hentil (b. 3) sa walang kabuluhang paraan ng pamumuhay (1:18)."
+        },
+        {
+            "id": "4-3",
+            "text": "Gr. anachusis , nangangahulugang, isang pagbubuhos, isang pagbubuhos sa ibabaw (katulad ng paglaki ng tubig); kaya, isang baha. Dito ito ay nangangahulugang pagdagsa ng mga kalayawan ng mga pita, ang kalabisan ng moral na kasamaan at pagbabà na katulad ng isang baha, na kinalulubugan ng isang tao kapag tumatakbong papasok dito."
+        },
+        {
+            "id": "4-4",
+            "text": "Yaon ay, nagsasalita ng masama ukol sa (inyo), nagsasalita ng nakapipinsala sa (inyo) (Gawa 13:45; 1 Ped. 2:12; 3:16). Ang mga mananampalataya, na inakalang kakaiba ang ugali, ay di-makatuwirang siniraang-puri at pinaratangan ng lahat ng uri ng mabibigat na kasalanan."
+        },
+        {
+            "id": "5-1",
+            "text": "Tumutukoy sa mga Hentil (b. 3), na nagtataka sa naiibang paraan ng pamumuhay ng mga mananampalataya at naninirang-puri sa kanila (b. 4)."
+        },
+        {
+            "id": "5-2",
+            "text": "Yaon ay, ang isalaysay ng isang tao sa Diyos ang lahat ng ginawa at sinalita niya sa kanyang buong buhay. Ito ay nagpapahayag ng pamahalaan ng Diyos sa lahat ng mga tao. Siya ay handang humatol sa lahat, kapwa sa buháy at patay. Ang Kanyang paghatol ay ang Kanyang pampamahalaang pangangasiwa upang tuusin ang situwasyon sa gitna ng mga tao."
+        },
+        {
+            "id": "5-3",
+            "text": "Maaaring ito ay ang hatulan muna ang mga nabubuhay sa mga bansa (Hentil) sa luklukan ng kaluwalhatian ni Kristo bago ang isang libong taon (Mat. 25:31- 46), at pagkatapos ang mga patay sa malaking tronong puti pagkaraan ng isang libong taong kaharian (Apoc. 20:11-15). Ito rin ang magiging paghahatol ng pamahalaan ng Diyos, subali’t ito ay naiiba sa paghahatol sa mga mananampalataya sa b. 6, na nagsisimula sa bahay ng Diyos sa kapanahunang ito (b. 17). Tingnan ang tala 17-2 talata 2 sa kapitulo 1."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang mga patay ay tumutukoy sa mga patay na mananampalataya kay Kristo, na nagdusa ng pag-uusig dahil sa kanilang Kristiyanong patotoo, katulad ng tinukoy sa 1:6; 2:18-21; 3:16-17; at 4:12-19. Ang ganitong uri ng pag-uusig ay itinuring ni Pedro sa aklat na ito bilang paghahatol ng Diyos, ayon sa pamahalaan ng Diyos, na nagsisimula sa bahay ng Diyos (b. 17). Ang mga mananampalatayang ito, nang sila ay buháy pa, ay napahayagan ng ebanghelyo upang sa isang banda, bilang mga taong nasa laman, sila ay mahatulan, matuos ng Diyos sa pamamagitan ng pag-uusig na sinanhi ng mga kumakalaban, subali’t sa kabilang banda, nabuhay sa pamamagitan ng pananampalataya kay Kristo ayon sa Diyos sa espiritu. Ito ay nagpapakita kung gaano kahigpit at kaselan ang paghahatol ng Diyos sa Kanyang pampamahalaang pangangasiwa. Kung ang mga mananampalataya, na naging masunurin sa ebanghelyo, ay tinuos ng pampamahalaang paghahatol ng Diyos, gaano pa kaya yaong mga sumasalungat sa ebanghelyo at lumalapastangan sa mga mananampalataya na hahatulan ng pagtutuos ng Diyos (bb. 17-18)!"
+        },
+        {
+            "id": "6-2",
+            "text": "Tingnan ang tala 17-2 talata 2 sa kap. 1."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang espiritu ng mga mananampalataya, na isinilang na muli at pinanahanan ng Espiritu ng Diyos (Juan 3:6; Roma 8:10-11), sa gayon ay nagiging isang pinaghalong espiritu, na ipinamumuhay at ipinanglalakad ng mga mananampalataya (Roma 8:4)."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang lahat ng mga bagay na inaasahan ng laman ay lilipas, at ang katapusan ng mga ito, na sinasabi ng apostol sa atin, ay malapit na. Ito ay nagbababala sa atin na ang isang buhay na ibinuhay sa laman sa mga masamang pita ng mga tao (b. 2) ay mawawakasan na, sapagka’t ang ganitong pamumuhay ay may kaugnayan sa lahat ng mga bagay na malapit nang lumipas. Samakatuwid, kinakailangan nating maging mahinahon sa kaisipan at sa mga panalangin."
+        },
+        {
+            "id": "7-2",
+            "text": "Lit. ukol sa isang maayos na kaisipan, may isang kaisipang mahinahon, kayang unawain ang mga bagay nang maayos at lubusan nang hindi naguguluhan."
+        },
+        {
+            "id": "7-3",
+            "text": "Yaon ay, mahinahong magbantay, listo. Ito ay ang maging mapagbantay; kaya, mahinahon sa panalangin. Ito ay katumbas ng salita ng Panginoon, “Magbantay at manalangin” (Mat. 26:41; Luc. 21:36). Tingnan ang tala 8-1 sa kapitulo 5."
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang mga tala 2-8 sa kapitulo 1 at 10-2 sa kapitulo 5. Ang iba’t ibang biyaya ng Diyos, bilang ang buong biyaya sa kapitulo 5, ay ang mayamang panustos ng buhay, na Siyang Tres-unong Diyos na inihahain paloob sa atin sa maraming aspekto (2 Cor. 13:14; 12:9). Bilang mga mabuting katiwala, tayo ay dapat maghain sa ekklesia at sa mga banal ng gayong biyaya, hindi lamang ng doktrina o anumang walang kabuluhang bagay, sa pamamagitan ng biyaya na ating tinanggap."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang mga dibinong pagsasalita o mga pag-usal bilang mga pahayag. Sa ministeryo ng biyaya, katulad ng binanggit sa b.10, ang ating pagsasalita ay dapat na maging pagsasalita ng Diyos, pag-usal ng Diyos, na naghahatid ng dibinong pahayag."
+        },
+        {
+            "id": "11-2",
+            "text": "Itinutustos sa atin ng Diyos ang naglilingkod na kalakasan ng pagkabuhay na muli ni Kristo sa pamamagitan ng Espiritu ni Kristo (Fil. 1:19; 4:13)."
+        },
+        {
+            "id": "11-3",
+            "text": "Ipinakikita nito na lahat ng ating paghahain ng biyaya, maging sa pagsasalita o sa paglilingkod, ay dapat na maging punô ng Kristo, upang ang Diyos ay maluwalhati sa pamamagitan ni Kristo sa lahat ng mga bagay."
+        },
+        {
+            "id": "11-4",
+            "text": "Tumutukoy sa Diyos."
+        },
+        {
+            "id": "11-5",
+            "text": "Ang kaluwalhatian ay panlabas at ang kapangyarihan ay panloob. Ang kapangyarihan ay nagtutustos ng kalakasan sa loob natin; ang kaluwalhatian ay ang Diyos na naluwalhati sa atin. Kaya, ang “kaluwalhatian” ay tumutugma sa “maluwalhati,” at ang “kapangyarihan” ay tumutugma sa “kalakasan”."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 4-1 . Ang tila apoy na mahigpit na pagsubok ay karaniwan sa mga mananampalataya; hindi nila ito dapat na isiping kataka-taka o banyaga sa kanila at hindi sila dapat magulat at mamangha rito."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang Griyego, purosei , para sa tila apoy na mahigpit na pagsubok ay nangangahulugang nasusunog, isinasagisag ang pagniningas ng isang tumutunaw na pugon para sa pagpapadalisay ng ginto at pilak (Kaw. 27:21; Awit 66:10), katulad ng metaporang ginamit sa 1:7. Itinuring ni Pedro ang pag-uusig na pinagdusahan ng mga mananampalataya bilang isang nagniningas na pugon na ginamit ng Diyos upang padalisayin ang kanilang buhay. Ito ang paraan ng Diyos upang tuusin ang mga mananampalataya sa paghahatol ng Kanyang pampamahalaang pangangasiwa, na nagsisimula sa Kanyang Sariling sambahayan (bb. 17-19)."
+        },
+        {
+            "id": "12-3",
+            "text": "O, sulitin."
+        },
+        {
+            "id": "14-1",
+            "text": "*Lit. kung kayo ay inalipusta sa loob ng pangalan ni Kristo."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang pangalan ay tumutukoy sa persona. Sa katunayan ang “sa pangalan ni Kristo” ay tumutukoy sa persona ni Kristo; tumutukoy kay Kristo Mismo. Ang mga mananampalatayang nanampalataya tungo sa loob ni Kristo (Juan 3:15), at nabautismuhan tungo sa loob ng Kanyang pangalan (Gawa 19:5), yaon ay, nabautismuhan tungo sa loob ng Kanyang Sarili (Gal. 3:27), ay nasa loob na ni Kristo (1 Cor. 1:30) at kaisa Niya (1 Cor. 6:17). Kapag sila ay dinusta sa Kanyang pangalan, sila ay dinudustang kasama Niya, nakikibahagi sa Kanyang mga pagdurusa (b. 13), sa pagsasalamuha sa Kanyang mga pagdurusa (Fil. 3:10)."
+        },
+        {
+            "id": "14-3",
+            "text": "Lit. ang Espiritu ng kaluwalhatian at ng sa Diyos. Ang Espiritu ng kaluwalhatian ay ang Espiritu ng Diyos. Ang Espiritu ng kaluwalhatian ay yaong kung kaninong pamamagitan naluwalhati si Kristo sa Kanyang pagkabuhay na muli (Roma 1:4). Ang mismong Espiritung ito ng kaluwalhatian, na Espiritu ng Diyos Mismo, ay nagpapahingalay sa mga nagdurusang mananampalataya sa pag-uusig sa kanila para sa pagluluwalhati ng nabuhay na muli at itinaas na Kristo, na nasa kaluwalhatian ngayon (b. 13)."
+        },
+        {
+            "id": "14-4",
+            "text": "Sa Griyego ay kapareho ng salitang “kapahingahan” na ginamit sa Mat. 11:28. Dito, nagpapahiwatig ito ng paninirahan."
+        },
+        {
+            "id": "15-1",
+            "text": "Lit. isang tagapagmasid sa pamumuhay ng iba. Isang gumagawa ng kaguluhan sa pamamagitan ng panghihimasok sa gawain ng iba."
+        },
+        {
+            "id": "16-1",
+            "text": "Gr. Christianos , isang binuong salitang Latin. Ang hulihang ianos , na nangangahulugang isang tagasunod ng sinuman, ay ginamit sa mga aliping pag-aari ng mga dakilang pamilya sa Emperyo Romano. Yaong mga sumasamba sa emperador, ang Caesar- Kaisar, ay tinawag na Kaisarianos, na nangangahulugang mga tagasunod ni Kaisar, ang mga taong nabibilang kay Kaisar. Nang ang mga tao ay nanampalataya kay Kristo at naging Kanyang mga tagasunod, ito ay nagsanhi sa ilan sa Emperyo na ituring si Kristo na karibal ng kanilang Kaisar. At sa Antioquia (Gawa 11:26) pinasimulan nilang tawagin ang mga tagasunod ni Kristo na Christianos (mga Kristiyano), mga kabig ni Kristo, bilang isang palayaw, isang katawagan ng pagdusta. Kaya, sa bersikulong ito, sinasasabing “bilang isang Kristiyano, huwag siyang mahiya,” yaon ay, kung ang sinumang mananampalataya ay magdusa mula sa mga taga-usig na lumalait na tawagin siyang isang Kristiyano, siya ay hindi dapat na mahiya bagkus ay magluwalhati sa Diyos sa pangalang ito."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang luwalhatiin ang Diyos ay ang ihayag Siya sa kaluwalhatian."
+        },
+        {
+            "id": "17-1",
+            "text": "Ipinakikita ng aklat na ito ang pamahalaan ng Diyos lalo na sa Kanyang pagtutuos sa Kanyang hinirang na bayan. Ang mga pagdurusa na kanilang pinagdaanan sa tila apoy na pag-uusig ay ginamit Niya bilang kaparaanan upang hatulan sila nang sila ay madisiplina, mapadalisay, at maihiwalay mula sa mga di-mananampalataya at hindi magkaroon ng parehong hantungan na katulad nila. Kaya, ang gayong pandisiplinang paghuhukom ay nagsisimula sa Kanyang Sariling sambahayan. Ito ay hindi minsanan lamang na nagaganap kundi patuloy hanggang sa pagdating ng Panginoon. Tingnan ang tala 17-2 talata 2 sa kapitulo 1."
+        },
+        {
+            "id": "17-2",
+            "text": "O, sambahayan, yaon ay, ang ekklesia na binubuo ng mga mananampalataya (2:5; Heb. 3:6; 1 Tim. 3:15; Efe. 2:19). Mula sa sambahayang ito, bilang Kanyang tahanan, sinisimulan ng Diyos ang Kanyang pampamahalaang pangangasiwa sa pamamagitan ng pandisiplinang paghuhukom sa Kanyang mga Sariling anak, upang Siya ay magkaroon ng malakas na batayan upang hatulan, sa Kanyang pansansinukob na kaharian, yaong mga suwail sa Kanyang ebanghelyo at rebelde sa Kanyang pamahalaan. Ito ay para sa pagtatatag ng Kanyang kaharian, na tinalakay sa ikalawang aklat (2 Ped. 1:11)."
+        },
+        {
+            "id": "17-3",
+            "text": "Ito ay nangangahulugang ang mga di-mananampalataya, na hindi nagsitalima sa ebanghelyo ng Diyos, ay daraan sa isang paghahatol na higit na mabagsik kaysa sa pinagdaanan ng mga mananampalataya."
+        },
+        {
+            "id": "17-4",
+            "text": "Ito sa pangunahin ay tumutukoy sa pagsuway ng mga di-nananampalatayang Hudyo na nagrebelde at lumaban sa pagbabago ng panahon mula sa kautusan ni Moises sa Lumang Tipan patungo sa ebanghelyo ni Hesu-Kristo sa Bagong Tipan. Ang sulat na ito ay ipinadala sa mga inuusig na mananampalatayang Hudyo (ang mga hinirang na nakikipamayan na nasa pangangalat-1:1). Ang pag-uusig sa kanila ay hindi nanggaling sa mga Hentil, kundi mula sa mga sumasalungat na Hudyo na hindi nagsitalima sa ebanghelyo."
+        },
+        {
+            "id": "18-1",
+            "text": "Tumutukoy sa mga mananampalataya, na naging matuwid dahil sa pagiging naaring-matuwid sa pamamagitan ng kanilang pananampalataya kay Kristo (Roma 5:1) at sa pamamagitan ng pamumuhay ng isang matuwid na buhay kay Kristo (Fil. 3:9; 2 Cor. 5:21; Apoc. 19:8)."
+        },
+        {
+            "id": "18-2",
+            "text": "Ligtas, hindi mula sa walang hanggang kapahamakan sa pamamagitan ng kamatayan ng Panginoon, kundi mula sa darating na pagkawasak (1 Tes. 5:3, 8, at tala 3), sa pamamagitan ng mga pagsubok ng pag-uusig bilang pandisiplinang paghuhukom ng Diyos. Ang mananampalatayang dinisiplina ng Diyos sa pamamagitan ng mga pagdurusa sa pag-uusig upang dalisayin ang kanyang buhay, ay maliligtas sa kahirapan ng pag-uusig mula sa pagwawasak na dadalhin ng poot ng Diyos sa sanlibutan, lalo na sa mga Hudyong di-nananampalataya, dahil sa darating na pagkawasak ng Herusalem."
+        },
+        {
+            "id": "18-3",
+            "text": "Ang mga sinaunang apostol ay nagkaroon ng isang malakas na paniniwala na ang Panginoong Hesus ay darating kaagad upang hatulan ang mga di-nananampalatayang makasalanan na hindi maka-Diyos at sumusuway sa Kanyang ebanghelyo (2 Tes. 1:6-9). Ang salita rito ni Pedro ay maaaring tumutukoy sa 2 Tes. 1:6-9. Sa pamahalaan ng Diyos, kung ang matuwid, na sumunod sa Kanyang ebanghelyo at nabubuhay ng isang matuwid na buhay sa harapan Niya, ay naligtas nang may kahirapan, nagdurusa ng pag-uusig bilang paraan ng Kanyang nagdidisiplinang kaparusahan upang dalisayin ang kanyang buhay, saan kaya magsisiharap ang di-makadiyos, na hindi nagsisitalima sa Kanyang ebanghelyo at nabubuhay ng isang makasalanang buhay laban sa Kanyang pamahalaan, kapag dumating ang pagwawasak na sasanhiin ng Kanyang poot?"
+        },
+        {
+            "id": "19-1",
+            "text": "Yaong nangagbabatá ayon sa kalooban ng Diyos ay magtitiwala rin sa Panginoon."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang kalooban ng Diyos dito ay yaong nais Niya tayo at itinalaga Niya tayong magdusa para sa kapakanan ni Kristo (3:17; 2:15; 1 Tes. 3:3)."
+        },
+        {
+            "id": "19-3",
+            "text": "Lit. ipinababahala bilang isang deposito, katulad sa Luc. 12:48; Gawa 20:32; 1 Tim. 1:18; at 2 Tim. 2:2. Kapag ang mga mananampalataya ay nagdusa ng paghihirap sa kanilang katawan, lalo na sa pagkamartir, dapat nilang ipagkatiwala ang kanilang mga kaluluwa bilang isang deposito sa Diyos, ang tapat na Lumalang, katulad ng ginawang pagkakatiwala ng Panginoon sa Kanyang espiritu sa Ama (Luc. 23:46)."
+        },
+        {
+            "id": "19-4",
+            "text": "Ang pag-uusig ay makapipinsala lamang sa katawan ng mga nagdurusang mananampalataya, hindi sa kanilang mga kaluluwa (Mat. 10:28). Ang kanilang kaluluwa ay iningatan ng Panginoon bilang ang tapat na Lumalang. Sila ay dapat na makipagtulungan sa Panginoon sa pamamagitan ng kanilang tapat na pagtitiwala."
+        },
+        {
+            "id": "19-5",
+            "text": "O, gumagawa ng matuwid, wasto, at mga gawaing marangal."
+        },
+        {
+            "id": "19-6",
+            "text": "Hindi tumutukoy sa Lumalang ng bagong paglikha sa bagong kapanganakan, kundi tumutukoy sa Lumalang ng lumang paglikha. Ang pag-uusig ay isang pagdurusa sa loob ng lumang paglikha. Bilang ang Lumalang sa atin, maiingatan ng Diyos ang ating kaluluwa, na Kanyang nilikha para sa atin. Kahit na ang ating mga buhok ay nabilang Niya (Mat. 10:30). Siya ay mapagmahal at tapat. Sinasamahan ng Kanyang mapagmahal at tapat na pangangalaga (5:7) ang Kanyang katarungan sa Kanyang pampamahalaang pangangasiwa. Habang hinahatulan Niya tayo, bilang Kanyang sambahayan, sa Kanyang pamahalaan, ang Kanyang pag-ibig ay nangangalaga sa atin nang tapat. Sa pagdurusa ng Kanyang matuwid na pandisiplinang paghuhukom sa ating katawan, dapat nating ihabilin ang ating mga kaluluwa sa Kanyang tapat na pangangalaga."
         }
     ]
 }

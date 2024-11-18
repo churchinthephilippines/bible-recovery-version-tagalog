@@ -1,5 +1,5 @@
 {
-    "chapter": 14,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -16,7 +16,7 @@
             "footnotes": [
                 {
                     "word": "kumikilos",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -69,7 +69,7 @@
             "footnotes": [
                 {
                     "word": "pinapugutan",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -92,11 +92,11 @@
             "footnotes": [
                 {
                     "word": "umalis",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "sumunod",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -122,11 +122,11 @@
             "footnotes": [
                 {
                     "word": "bigyan",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "makakain.",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -137,11 +137,11 @@
             "footnotes": [
                 {
                     "word": "tinapay",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "isda.",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -152,7 +152,7 @@
             "footnotes": [
                 {
                     "word": "Dalhin",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -163,19 +163,19 @@
             "footnotes": [
                 {
                     "word": "magsiupo",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "pagtingala",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "pinag-",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "ibinigay",
-                    "note": ""
+                    "id": "19-4"
                 }
             ],
             "outlines": null
@@ -186,7 +186,7 @@
             "footnotes": [
                 {
                     "word": "labindalawang",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -197,7 +197,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -208,7 +208,7 @@
             "footnotes": [
                 {
                     "word": "pinilit",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": [
@@ -222,11 +222,11 @@
             "footnotes": [
                 {
                     "word": "manalangin.",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "gabi,",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -237,7 +237,7 @@
             "footnotes": [
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -248,11 +248,11 @@
             "footnotes": [
                 {
                     "word": "ikaapat",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "naglalakad",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -269,7 +269,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -292,7 +292,7 @@
             "footnotes": [
                 {
                     "word": "makita",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -303,7 +303,7 @@
             "footnotes": [
                 {
                     "word": "nag-",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -314,7 +314,7 @@
             "footnotes": [
                 {
                     "word": "hangin",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -325,7 +325,7 @@
             "footnotes": [
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -352,14 +352,124 @@
             "footnotes": [
                 {
                     "word": "laylayan",
-                    "note": ""
+                    "id": "36-1"
                 },
                 {
                     "word": "nagsigaling.",
-                    "note": ""
+                    "id": "36-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Kumikilos at nahahayag."
+        },
+        {
+            "id": "10-1",
+            "text": "Sa 12:24 ang makalangit na Hari ay sukdulang tinanggihan ng mga relihiyosong pinuno ng mga Hudyo, kumakatawan sa buong bansa ng mga Hudyo. Ito ang nagtulak sa Kanya upang talikuran ang Kanyang likas na kaugnayan sa kanila (12:46-50). Pagkatapos, sa 13:53-58 Siya ay tinanggihan din ng mga Galileo. Ngayon sa kapitulo 14, ang pagkasulat ni Mateo ayon sa pandoktrinang pagsasaayos ay naghahayag sa atin kung paano pinakitunguhan ng mga pulitikong Hentil ang tagapagpauna ng Hari. Ito ay masama at punô ng kabulukan at kadiliman. Hanggang sa puntong ito ay nakapagbigay si Mateo ng isang ganap na larawan kung paano tinanggihan ng lahat ng Hudyo, mga Galileo, at mga Hentil ang ministeryo ng kaharian ng mga kalangitan."
+        },
+        {
+            "id": "13-1",
+            "text": "Dahil sa pagtanggi ng lahat ng relihiyoso, makakultura, pulitikal na tao, iniwan sila ng makalangit na Hari upang magtungo “nang bukod sa isang ilang na dako.” Tinutukoy nito na mula ngayon Kanyang ikukubli ang Kanyang Sarili nang bukod sa isang ilang, sa isang dakong walang kultura, mula sa mga relihiyoso, pulitikal, at makulturang tao. Ginawa Niya ito “sa isang daong,” nagpapahiwatig na Kanyang gagawin ito sa pamamagitan ng ekklesia. Dahil sa pagtanggi ng sibilisadong sanlibutan, laging ikinukubli ng Panginoon, sa pamamagitan ng ekklesia, ang Kanyang Sarili nang bukod mula sa mga makarelihiyon at pulitikal na kapaligiran sa isang kinasasakupan na walang gaanong kultura."
+        },
+        {
+            "id": "13-2",
+            "text": "Sa kabila ng pagtanggi ng lahat ng tao, mayroon pa ring mabuting bilang na “sumunod” sa makalangit na Hari. Ginawa nila ito sa pamamagitan ng paglisan sa kanilang “mga lunsod.” Hindi ang Hari ang pumaroon sa kanilang mga lunsod upang dalawin sila, kundi kanilang iniwan ang kanilang mga makulturang lunsod upang sundan Siya sa ilang. Sa lahat ng siglo, iniwan ng mga tunay na tagasunod ni Kristo ang kinasasakupan ng kultura upang sundan ang kanilang makalangit na Hari sa labas ng makulturang sanlibutan."
+        },
+        {
+            "id": "16-1",
+            "text": "Sinabihan ng mga disipulo ang Panginoon na paalisin na ang mga kalipunan upang sila ay magsiparoon at magsibili ng pagkain para sa kanilang mga sarili (b. 15), subalit sinabihan ng Panginoon ang mga disipulo na “bigyan” ang mga kalipunan ng makakain. Sa kanilang kaisipan, nais nilang ang mga tao ang gumawa; ito ang prinsipyo ng kautusan. Subalit sa kaisipan ng Panginoon, nais Niyang mabigyan ng katamasahan ang mga tao; ito ang prinsipyo ng biyaya."
+        },
+        {
+            "id": "16-2",
+            "text": "Sa talang ito ng himala, ang layunin ng Espiritu Santo sa Kanyang inspirasyon ay upang ipakita na ang tunay na pangangailangan ng mga tagasunod ng makalangit na Hari ay ang wastong pagkain upang mapawi ang kanilang kagutuman. Hindi ito nalalaman ng mga disipulo ni Kristo, ni ng mga kalipunan na nagsisunod. Subalit nalalaman ito ng makalangit na Hari at gagawa ng mahimalang bagay upang ikintal sa kanila ang kanilang tunay na pangangailangan at ang Kanyang panustos para sa pangangailangang yaon. Ang tangi lamang nilang kailangan ay ang Kanyang pagkabuhay na muling buhay upang bigyang-kasiyahan ang kanilang espiritwal na kagutuman gaya ng isinagisag sa himalang ito. Ang ginawa ng makalangit na Hari ay matibay at malinaw ring nagpapakita na Siya ay nagtutustos para sa pangangailangan ng Kanyang mga tagasunod habang sila ay sumusunod sa Kanya sa tumatangging sanlibutang ito. Ito ay tumutugon sa Kanyang salita sa makalangit na saligang-batas na ang mga tao ng kaharian ay hindi kinakailangang mabalisa tungkol sa kanilang kakainin (6:31-33)."
+        },
+        {
+            "id": "17-1",
+            "text": "Sinasabi sa atin ng Juan 6:9 na ang limang tinapay na ito ay tinapay na sebada. Sa tipolohiya, ang sebada ay sumasagisag sa nabuhay-namuling Kristo (Lev. 23:10). Kaya nga, ang tinapay na sebada ay sumasagisag kay Kristo sa pagkabuhay na muli bilang pagkain para sa atin. Samantalang ang “mga tinapay” ay sa panghalamang buhay, sumasagisag sa nagpapasibol na aspekto ng buhay ni Kristo, ang “mga isda” ay sa panghayop na buhay, sumasagisag sa nagtutubos na aspekto ng buhay ni Kristo. Upang mabigyang-kasiyahan ang ating espiritwal na kagutuman, hindi lamang natin kailangan ang nagtutubos na buhay ni Kristo, bagkus gayundin ang Kanyang nagpapasibol na buhay. Ang mga aspektong ito ay kapwa sinasagisag ng maliliit na bagay-ng mga tinapay at mga isda. Ito ay nagpapakita na ang makalangit na Hari ay hindi dumating sa Kanyang mga tagasunod sa kapanahunang ito upang mamuno sa kanila bilang isang dakilang Hari, kundi bilang maliliit na piraso ng pagkain upang pakainin sila. Tingnan ang tala 9-2 ng Juan 6."
+        },
+        {
+            "id": "18-1",
+            "text": "Kinakailangan nating ibigay sa Panginoon ang natanggap natin mula sa Panginoon upang ito ay maging isang malaking pagpapala sa marami pang iba. Malimit ginagamit ng Panginoon ang inihandog natin sa Kanya upang matustusan ang pangangailangan ng marami pang iba. Sa ganito ring paraan Niya tinutustusan ang pangangailangan ng Kanyang mga tagasunod sa ngayon."
+        },
+        {
+            "id": "19-1",
+            "text": "Ito ay upang maisaayos nang mabuti ang mga tao, ipinakikita ang karunungan at pagiging maayos ng Panginoon."
+        },
+        {
+            "id": "19-2",
+            "text": "Sa pamamagitan ng “pagtingala sa langit,” ipinakita ng makalangit na Hari na ang Kanyang pinagkukunan ay ang Kanyang Ama na nasa mga kalangitan."
+        },
+        {
+            "id": "19-3",
+            "text": "Anuman ang ating dinadala sa Panginoon ay kinakailangang mapagpira-piraso upang ito ay maging isang pagpapala sa iba."
+        },
+        {
+            "id": "19-4",
+            "text": "Ang mga tinapay ay nanggaling sa mga disipulo, at dinala nila ang mga ito sa Panginoon. Matapos pagpalain at pagpira-pirasuhin ng Panginoon, ang mga ito ay ibinalik sa mga disipulo upang ipamahagi sa mga kalipunan, kung kanino ang mga tinapay ay naging isang malaking kasiyahan. Ipinakikita nito na ang pinagmumulan ng pagpapala ay hindi ang mga disipulo; sila ay mga lagusan lamang na ginamit ng Panginoon, na Siyang pinagmumulan ng kasiyahan ng mga tao."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang “labindalawang bakol na punô” ng mga piraso ay nagpapakita na hindi lamang walang-hanggangan at hindi nauubos ang nabuhay na muling Kristo, bagkus masagana rin ang panustos para sa atin ng Panginoon, higit sa sapat upang matugunan ang lahat ng ating pangangailangan."
+        },
+        {
+            "id": "21-1",
+            "text": "*Sapagkat hindi eksaktong 5,000 ang bilang kaya nilagyan ng pang-abay na “mga” gayundin sa Marc. 6:44; Luc. 9:14 at Juan 6:10."
+        },
+        {
+            "id": "22-1",
+            "text": "“Pinilit” ng Panginoon ang mga disipulo na iwanan Siya nang sa gayon ay magkaroon Siya ng maraming panahong makapanalangin nang bukod sa Ama (b. 23)."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang makalangit na Hari, bilang ang sinisintang Anak ng Ama (3:17), tumatayo sa katayuan ng tao (4:4), ay nangailangang “manalangin” nang bukod sa Kanyang Ama na nasa langit, upang Siya ay makipag-isa sa Ama at makasama ang Ama sa anumang Kanyang ginagawa sa lupa para sa pagtatatag ng kaharian ng mga kalangitan. Hindi Siya nanalangin sa ilang, kundi sa bundok, iniwan ang lahat ng tao, maging ang Kanyang mga disipulo, upang Kanyang makaugnay ang Ama nang sarilinan."
+        },
+        {
+            "id": "23-2",
+            "text": "Gr. takip-silim. Ang tinutukoy rito ay higit na gabi pa kaysa sa tinutukoy sa bersikulo 15 kaya isinalin na gabi."
+        },
+        {
+            "id": "24-1",
+            "text": "Mababasa sa ilang sinaunang manuskristo na, ay maraming estadia na mula sa lupa. (Ang isang estadion ay humigit-kumulang sa 600 piye.)"
+        },
+        {
+            "id": "25-1",
+            "text": "Sang-ayon sa mga guardiyang Romano, ang mga pagbabantay sa gabi ay may apat na parte, ang bawat isa ay tigtatatlong oras, mula sa paglubog ng araw hanggang sa pagsikat ng araw. Ang unang pagbabantay ay ang gabing pagbabantay, ang ikalawa ay ang hatinggabing pagbabantay, ang ikatlo ay ang pagtilaok ng manok na pagbabantay, at ang ikaapat ay ang umagang pagbabantay (Marc. 13:35). Ang “ikaapat na pagbabantay” ay maaaring mula sa ikatlo hanggang sa ikaanim ng umaga."
+        },
+        {
+            "id": "25-2",
+            "text": "Habang ang Kanyang mga disipulo ay nahihirapan sa mga alon, ang Panginoon ay lumakad paparoon sa kanila. Ito ay nagpapatotoo na Siya ang Manlilikha at Pinuno ng sansinukob (Job 9:8)."
+        },
+        {
+            "id": "27-1",
+            "text": "O, Ako nga."
+        },
+        {
+            "id": "30-1",
+            "text": "Si Pedro ay sumampalataya sa salita ng Panginoon kaya bumaba mula sa daong at lumakad sa ibabaw ng tubig (b. 29); gayon pa man, nang kanyang makita ang malakas na hangin, ang kanyang pananampalataya ay nawala. Siya ay dapat lumakad sa pamamagitan lamang ng pananampalataya sa salita ng Panginoon, hindi siya dapat tumingin sa kapaligiran. Ang pagsunod sa Panginoon, ay dapat na sa pamamagitan lamang ng pananampalataya at hindi sa pamamagitan ng paningin (2 Cor. 5:7)."
+        },
+        {
+            "id": "31-1",
+            "text": "Yamang sinabi ng Panginoon kay Pedro, “Halika” (b. 29), si Pedro ay dapat tumayo sa salitang yaon at hindi nag-alinlangan. Dahil dito, siya ay pinagalitan ng Panginoon. Ang pananampalataya ay nagmumula sa salita ng Panginoon at tumitindig sa salita ng Panginoon. Hangga’t tayo ay may salita ng Panginoon, tayo ay dapat na payak na manampalataya sa Kanyang salita at hindi mag-alinlangan."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang himalang ito, ay hindi lamang nagpapatotoo na ang Panginoon ay ang Pinuno ng mga kalangitan at lupa, bagkus Siya rin ay nangangalaga sa mga kahirapan ng Kanyang mga tagasunod habang sumusunod sila sa Kanya sa daan. Kapag tayo ay may Panginoon sa ating daong, ang hangin ay tumitigil. Ang tala ng dalawang himalang nakatala sa kapitulong ito ay nagpapahiwatig na noong si Kristo ay tinatanggihan ng mga relihiyoso at ng mga taong pulitikal, Siya at ang Kanyang mga tagasunod ay nasa tigang na ilang at sa mabagyong dagat. Gayon pa man, Siya ay may kakayahang tustusan ang kanilang pangangailangan at itawid sila sa mga kahirapan."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang makilala na ang Panginoon ay ang “Anak ng Diyos” ay ang matanto na Siya ay kapantay ng Diyos (Juan 5:18). Kaya, ito ay tumutukoy na kinilala ng mga disipulo ang pagka-Diyos ng Panginoon (1:23; 3:17)."
+        },
+        {
+            "id": "36-1",
+            "text": "Tingnan ang tala 20-4 sa kapitulo 9."
+        },
+        {
+            "id": "36-2",
+            "text": "Gr. naligtas nang lubusan."
         }
     ]
 }

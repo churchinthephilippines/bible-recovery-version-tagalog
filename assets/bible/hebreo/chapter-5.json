@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": []
@@ -18,7 +18,7 @@
             "footnotes": [
                 {
                     "word": "nakapagtitiis",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -41,11 +41,11 @@
             "footnotes": [
                 {
                     "word": "niluwalhati",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Ikaw",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -56,11 +56,11 @@
             "footnotes": [
                 {
                     "word": "Ikaw",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "orden",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -71,11 +71,11 @@
             "footnotes": [
                 {
                     "word": "palabas",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "maka-",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": null
@@ -86,7 +86,7 @@
             "footnotes": [
                 {
                     "word": "pagtalima",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -97,15 +97,15 @@
             "footnotes": [
                 {
                     "word": "mapaging-",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "sanhi",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -116,7 +116,7 @@
             "footnotes": [
                 {
                     "word": "Pinangalanan",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -135,15 +135,15 @@
             "footnotes": [
                 {
                     "word": "panimulang",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "orakulo",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "gatas",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -154,11 +154,11 @@
             "footnotes": [
                 {
                     "word": "gatas",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -169,14 +169,92 @@
             "footnotes": [
                 {
                     "word": "sangkap",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "mabuti",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang mga kaloob ay para sa kasiyahan ng Diyos; ang mga hain ay para sa ating mga kasalanan."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang salitang Griyego ay nagpapahiwatig ng isang damdamin patungkol sa mga di-nakaaalam at nalilihis na hindi naman masyadong mahigpit o masyadong mapagpaubaya. Ito ay ang maging katamtaman o malumanay sa paghatol sa kanilang kalagayan. Ang kaisipan sa bersikulong ito ay isang pagpapatuloy ng kaisipan sa 4:15. Si Kristo bilang ang ating Mataas na Saserdote, bagama’t hindi napaliligiran ng kahinaan gaya ng mataas na saserdoteng kinuha mula sa mga tao, ay tinukso sa lahat ng paraan katulad natin. Kaya nga, sa pagsisimpatiya sa ating mga kahinaan, Siya ay nakapagtitiis na may kaamuan sa atin, ang mga di-nakaaalam at mga nalilihis."
+        },
+        {
+            "id": "5-1",
+            "text": "Sa bersikulong ito, pinapalitan ng salitang niluwalhati ang salitang karangalan sa nauunang bersikulo. Sa mataas na saserdoteng kinuha mula sa mga tao ay mayroon lamang karangalan, isang bagay ng katayuan. Kay Kristo bilang ang Mataas na Saserdote ay hindi lamang may karangalan, bagkus may kaluwalhatian din; hindi lamang ang kahalagahan ng Kanyang katayuan, bagkus maging ang karilagan din ng Kanyang Persona. Tingnan ang tala 9-3 sa kapitulo 2."
+        },
+        {
+            "id": "5-2",
+            "text": "Ito ay tumutukoy sa pagkabuhay na muli ni Kristo (Gawa 13:33), na nagpaging-dapat sa Kanya na maging ating Mataas na Saserdote. Upang si Kristo ay maging Mataas na Saserdote natin, kinakailangan Niyang makibahagi sa ating pagka-tao, gaya ng binanggit sa kapitulo 2 (bb. 14-18), at pumasok sa loob ng pagkabuhay na muli na kalakip ang ganitong pagka-tao. Sa Kanyang pagka-tao ay maaaring makasimpatiya Siya sa atin at maging maawain sa atin (4:15; 2:17). Sa Kanyang pagka-Diyos, Siya, sa loob ng pagkabuhay na muli, ay maaaring gumawa ng lahat ng bagay para sa atin at maging tapat sa atin (7:24-25; 2:17)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ito ay tumutukoy sa pag-akyat sa langit at sa pagluluklok kay Kristo sa trono (Awit 110:1-4), na mga kwalipikasyon maliban pa sa Kanyang pagkabuhay na muli, nang sa gayon Siya ay maging ating Mataas na Saserdote (7:26)."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang orden ni Melquisedec ay higit na mataas kaysa sa orden ni Aaron. Ang orden ni Aaron ay para sa pagkasaserdote lamang sa loob ng pagka-tao, samantalang ang orden ni Melquisedec ay para sa pagkasaserdote sa loob ng pagka-tao at ng pagka-Diyos. Ito ay lubusang bibigyang-kahulugan sa kapitulo 7."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang “palabas sa kamatayan” dito ay hindi nangangahulugang hindi pumasok si Kristo sa loob ng kamatayan at hindi nagdusa ng kamatayan, kundi nangangahulugang nabuhay na muli palabas sa kamatayan. Si Kristo ay nanalangin para rito bago Siya namatay, at Siya ay sinagot ng Diyos sa pamamagitan ng pagbabangon sa Kanya mula sa mga patay."
+        },
+        {
+            "id": "7-2",
+            "text": "*Gr. ulabia , dadalawang ulit lamang ginamit sa buong Bagong Tipan, sa bersikulong ito at sa 12:28."
+        },
+        {
+            "id": "8-1",
+            "text": "Itinalaga ng Diyos si Kristo na mamatay, at Siya ay tumalima (Fil. 2:8). Ang pagtalimang ito ay natutunan Niya sa pamamagitan ng pagdurusa ng kamatayan."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 10-4 sa kap. 2."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang salitang Griyego ay nagpapahiwatig din ng kaisipan ng may-akda at ang pinagmulan."
+        },
+        {
+            "id": "9-3",
+            "text": "Hindi pangmatagalang kaligtasan, kundi walang hanggang kaligtasan, kung saan ang lahat ng mga bisa, mga kapakinabangan, at mga resulta ay pawang may kalikasan na walang hanggan, pinangingibabawan ang lahat ng mga kalagayan at limitasyon ng panahon."
+        },
+        {
+            "id": "10-1",
+            "text": "*O, tinawag ng Diyos sa pangalang Mataas na Saserdote."
+        },
+        {
+            "id": "12-1",
+            "text": "O, mga pangunahing elemento."
+        },
+        {
+            "id": "12-2",
+            "text": "Mga dibinong pananalita."
+        },
+        {
+            "id": "12-3",
+            "text": "Bagaman binabanggit ng bersikulong ito ang mga guro at turuan, inihahalintulad nito ang Salita ng Diyos sa gatas at pagkaing matigas, na para sa pagpapakain. Ito ay tumutugma sa salita ng Panginoon sa Mat. 4:4 at sa salita ng propeta sa Jer. 15:16. Sina Pablo at Pedro ay may gayunding kaisipan tungkol sa dibinong Salita (1 Cor. 3:2; I Ped. 2:2)."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang gatas dito ay tumutukoy sa mga panimulang aralin ng orakulo ng Diyos na binanggit sa b. 12, samantalang ang salita ng katuwiran ay tumutukoy sa pagkaing matigas. Ang “mabuting salita” na binanggit sa 6:5 ay ang “salita ng panimulain ng Kristo” (6:1). Subalit ang salita ng katuwiran ay higit na malalim kaysa sa mga panimulang aralin ng orakulo ng Diyos, sapagka’t ipinapaloob nito ang higit na malalim na kaisipan ng katarungan at katuwiran ng Diyos sa Kanyang pampanahunan at pampamahalaang pakikipagtuos sa Kanyang mga tao. Ang salitang ito ay higit na mahirap kilatisin kaysa sa salita ng biyaya (Gawa 14:3; 20:32) at sa salita ng buhay (Fil. 2:16)."
+        },
+        {
+            "id": "14-1",
+            "text": "Nagpapahiwatig ng mga abilidad na makapansin, makakita, makarinig, makabasa, makaamoy, makaramdam, makahalata at makaunawa, nakasalalay hindi lamang sa ating pang-isip na kakayahan, bagkus maging sa atin ding espirituwal na pang-unawa."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang mabuti at masama rito ay tumutukoy sa kung ano ang nakahihigit kung ihahambing sa kung ano ang mababa: tulad ng, ang pagiging nakahihigit ni Kristo kung ihahambing sa kababaan ng mga anghel, ni Moises, at ni Aaron; ang pagiging nakahihigit ng bagong tipan kung ihahambing sa kababaan ng lumang tipan. Ayon sa ibig sabihin ng nilalaman ng bersikulong ito, ito ay katulad sa bagay ng pagkilala sa iba’t ibang pagkain, na walang kinalaman sa moral na kalikasan ng mga bagay."
         }
     ]
 }

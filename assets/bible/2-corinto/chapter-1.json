@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,27 +7,27 @@
             "footnotes": [
                 {
                     "word": "Si",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "kalooban",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "ekklesia",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "kasama",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "Acaya:",
-                    "note": ""
+                    "id": "1-5"
                 }
             ],
             "outlines": [
@@ -47,11 +47,11 @@
             "footnotes": [
                 {
                     "word": "kahabagan",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "pagpapalakas-",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": [
@@ -65,7 +65,7 @@
             "footnotes": [
                 {
                     "word": "mapalakas",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -76,15 +76,15 @@
             "footnotes": [
                 {
                     "word": "pagdurusa",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": [
@@ -109,11 +109,11 @@
             "footnotes": [
                 {
                     "word": "nabigatan,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "nawalan",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -124,15 +124,15 @@
             "footnotes": [
                 {
                     "word": "aming",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "hatol",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "Diyos,",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": null
@@ -143,7 +143,7 @@
             "footnotes": [
                 {
                     "word": "magliligtas;",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -154,15 +154,15 @@
             "footnotes": [
                 {
                     "word": "nagsisitulong",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -173,23 +173,23 @@
             "footnotes": [
                 {
                     "word": "budhi,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "kapayakan",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "katapatan",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "karunungan",
-                    "note": ""
+                    "id": "12-4"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "12-5"
                 }
             ],
             "outlines": [
@@ -208,7 +208,7 @@
             "footnotes": [
                 {
                     "word": "kaarawan",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -219,7 +219,7 @@
             "footnotes": [
                 {
                     "word": "pangalawang",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": [
@@ -233,7 +233,7 @@
             "footnotes": [
                 {
                     "word": "Macedonia,",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -250,11 +250,11 @@
             "footnotes": [
                 {
                     "word": "Nguni’t",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -265,11 +265,11 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "Silvano",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -280,31 +280,31 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "Niya",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "Oo;",
-                    "note": ""
+                    "id": "20-3"
                 },
                 {
                     "word": "Niya",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "20-4"
                 },
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "20-5"
                 },
                 {
                     "word": "namin.",
-                    "note": ""
+                    "id": "20-6"
                 }
             ],
             "outlines": null
@@ -315,23 +315,23 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’t",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "matibay",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "21-3"
                 },
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "21-4"
                 },
                 {
                     "word": "nagpahid",
-                    "note": ""
+                    "id": "21-5"
                 }
             ],
             "outlines": null
@@ -342,15 +342,15 @@
             "footnotes": [
                 {
                     "word": "nagtatak",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "prenda",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "puso.",
-                    "note": ""
+                    "id": "22-3"
                 }
             ],
             "outlines": null
@@ -361,11 +361,11 @@
             "footnotes": [
                 {
                     "word": "laban",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": [
@@ -379,14 +379,208 @@
             "footnotes": [
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 1-2 sa 1 Cor. 1."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 2-1 sa 1 Cor. 1."
+        },
+        {
+            "id": "1-3",
+            "text": "Tingnan ang tala 2-2 sa 1 Cor.1."
+        },
+        {
+            "id": "1-4",
+            "text": "Tingnan ang tala 2-7 sa 1 Cor. 1."
+        },
+        {
+            "id": "1-5",
+            "text": "Nasa katimugan ng Macedonia, isang lalawigan ng Emperyo ng Roma, isang mahalagang bahagi ng Grecia sa ngayon, kung saan naroroon ang lunsod ng Corinto."
+        },
+        {
+            "id": "3-1",
+            "text": "O, mga kaawaan, pakikiramay."
+        },
+        {
+            "id": "3-2",
+            "text": "Napapaloob din sa salitang ito ang kahulugan ng pag-alo. Ang gayong titulo bilang Ama ng mga kahabagan at Diyos ng lahat ng pagpapalakas-loob ay iniukol dito sa Diyos sapagka’t ang Sulat na ito ay isang pag-aaliw at pagpapalakas-loob na isinulat ng apostol pagkaraang siya ay maaliw at mapalakas ang loob sa pamamagitan ng pagsisisi ng mga mananampalatayang taga-Corinto. Ang pagwiwika at paghahatol sa naunang aklat ay may layuning ibaling ang pagpapahalaga ng mga mananampalatayang taga-Corinto kay Kristo; samantalang ang pag-aaliw at pagpapalakas-loob ng aklat na ito ay upang dalhin sila sa pagtatamasa at pagdaranas kay Kristo."
+        },
+        {
+            "id": "4-1",
+            "text": "Dapat muna nating maranasan ang pagpapalakas-loob ng Diyos; pagkatapos tayo ay makapagpapalakas na ng loob ng iba sa pamamagitan ng pagpapalakas-loob na ating naranasan mula sa Diyos. Ang unang Sulat sa mga taga-Corinto ay ang pangangatuwiran ng apostol, isang pangangatuwirang dumaig at nagpasuko sa mga naguguluhan at nalilitong taga-Corinto. Ngayon sila ay ibinabalik ng ikalawang Sulat sa pagdaranas kay Kristo, na siyang paksa ng kanyang pangangatuwiran sa unang Sulat. Kaya, ang ikalawang Sulat ay higit na pangkaranasan, higit na subhektibo, at higit na malalim kaysa sa unang aklat. Sa unang aklat si Kristo, ang Espiritu kasama ang ating espiritu, ang ekklesia, at ang mga kaloob ay tinalakay bilang mga pangunahing paksa. Sa ikalawang aklat, si Kristo, ang Espiritu kasama ang ating espiritu at ang ekklesia ay ibayong napaunlad, subali’t ang mga kaloob ay hindi man lamang nabanggit. Ang mga kaloob ay hinalinhan sa aklat na ito ng ministeryo, na binubuo, ibinubunga at itinatatag ng mga karanasan ng mga kayamanan ni Kristo sa pamamagitan ng mga pagdurusa, mga nakauubos na kagipitan at pumapatay na gawain ng krus. Ang ikalawang Sulat ay nagbibigay sa atin ng tularan, ng halimbawa, ng kung paanong gumagawa ang pagpatay ng krus, kung paanong si Kristo ay naisasagawa paloob sa ating katauhan, at kung paano tayo nagiging kahayagan ni Kristo. Ang mga ito ang bumubuo sa mga tagapaghain ni Kristo at nagbubunga ng ministeryo para sa bagong tipan ng Diyos. Tinutuos nang negatibo ng unang Sulat ang mga kaloob; nagsasalita nang positibo ang ikalawa tungkol sa ministeryo. Kinakailangan ng ekklesia ang ministeryo nang higit kaysa sa mga kaloob. Ipinaglilingkod ng ministeryo si Kristo na ating naranasan, samantalang itinuturo lamang ng mga kaloob ang mga doktrina ukol kay Kristo. Hindi ang mga kaloob kundi ang ministeryong ibinunga at nabuo sa pamamagitan ng mga pagdurusa at mga kapighatian ni Kristo ang siyang katibayan na ang mga apostol ay mga tagapaghain ni Kristo."
+        },
+        {
+            "id": "5-1",
+            "text": "Hindi tumutukoy sa mga pagdurusa para kay Kristo, kundi sa mga Sariling pagdurusa ni Kristo kung saan ang Kanyang mga disipulo ay nakibahagi (Mat. 20:22; Fil. 3:10; Col. 1:24; I Ped. 4:13)."
+        },
+        {
+            "id": "5-2",
+            "text": "Ang pariralang “ng Kristo” rito sa halip na “ni Kristo” ay isang designasyon ng kalagayan ni Kristo, at hindi isang pangalan (Darby). Dito ito ay tumutukoy sa pagdurusa ni Kristo na nagdusa ng mga kapighatian para sa Kanyang Katawan ayon sa kalooban ng Diyos. Ang mga apostol ay nakibahagi sa mga pagdurusa ng gayong Kristo, at sa pamamagitan ng gayong Kristo sila ay nakatanggap ng pagpapalakas-loob."
+        },
+        {
+            "id": "8-1",
+            "text": "Yaon ay, nabigatan, nadaganan. Katulad ng salitang Griyego sa 5:4."
+        },
+        {
+            "id": "8-2",
+            "text": "Katulad ng salitang Griyego sa 4:8. Tingnan ang tala roon."
+        },
+        {
+            "id": "9-1",
+            "text": "Sa aklat na ito, ipinakikita sa atin sa limang panig na ipinamuhay ng apostol si Kristo upang maging huwaran para sa ekklesia: 1) hindi nagtiwala sa sarili, nagtitiwala lamang sa Diyos na nagbabangon sa mga patay (b. 9), na nagpapaloob ng lahat ng mga may kaugnayang bagay katulad ng pagiging wastong tao rito sa lupa, hindi umaasa sa karunungang ayon sa laman kundi umaasa sa biyaya ng Diyos (b. 12), at nakikipag-isa sa di-nagbabagong Kristo ng tapat na Diyos (bb. 18-20); 2) nakaugpong kay Kristo, napahiran at natatakan ng Kanyang Espiritu, nabihag, nasupil at pinangungunahan Niya upang ikalat ang Kanyang mabangong samyo (bb. 21-22; 2:14-16); 3) kwalipikadong gamitin si Kristo bilang mga espirituwal na alpabeto upang maisulat ang buháy na liham sa pamamagitan ng nagbibigay-buhay na Espiritu ng Diyos na buháy (3:3-6); 4) may pagsinag ng kaluwalhatian ng Bagong Tipan (3:7-11); 5) gumagamit ng isang walang talukbong na mukha, tumitingin, at umaaninag sa kaluwalhatian ng Panginoon, natatransporma sa gayunding larawan Niya mula sa kaluwalhatian hanggang sa kaluwalhatiang gaya ng mula sa Panginoong Espiritu (3:16-18)."
+        },
+        {
+            "id": "9-2",
+            "text": "Lit. sagot o tugon ng kamatayan. Nang ang mga apostol ay nasa ilalim ng pagdagan ng kapighatian, nawawalan ng pag-asang mabuhay pa, maaaring tinanong nila ang kanilang mga sarili kung ano ang magiging bunga ng kanilang pagdurusa. Ang sagot o tugon ay kamatayan. Ito ang nagsanhi sa kanila na gumawa ng isang napakalaking pagpapasiya, yaon ay, ang hindi magtiwala sa kanilang mga sarili kundi ang magtiwala sa Diyos na nagbabangon sa mga patay."
+        },
+        {
+            "id": "9-3",
+            "text": "Ang karanasan ng kamatayan ay naghahatid sa atin paloob sa pagdaranas ng pagkabuhay na muli. Ang pagkabuhay na muli ay ang mismong Diyos na bumubuhay na muli sa patay. Ang paggawa ng krus ay tumatapos sa ating sarili upang maranasan natin ang Diyos ng pagkabuhay na muli. Ang pagdaranas sa krus ay laging namumunga ng pagtatamasa sa Diyos ng pagkabuhay na muli. Ang gayong karanasan ay namumunga at bumubuo ng ministeryo (bb. 4-6). Ito ay higit pang inilarawan sa 4:7-12."
+        },
+        {
+            "id": "10-1",
+            "text": "Tumutukoy sa pinakamalapit na hinaharap."
+        },
+        {
+            "id": "11-1",
+            "text": "O, gumagawa nang sama-sama. Ito ay maaaring tumutukoy sa nasabi sa nauunang bersikulo na ang pagliligtas ng Diyos at ang pag-asa ng mga apostol sa Diyos ay tinutulungan ng panalangin."
+        },
+        {
+            "id": "11-2",
+            "text": "Tumutukoy sa biyayang ipinag-kaloob, na siyang mismong nabuhay na muling Kristo (b. 12), ang biyayang tinamasa ng mga apostol sa pagdaranas ng pagkabuhay na muli mula sa kamatayan (bb. 9-10). Ito ang kaloob ng biyaya, naiiba sa kaloob ng abilidad na nabanggit sa I Corinto kapitulo 12 at 14. Ang nauna ay ang nasa loob bilang buhay; ang huli ay ang nasa labas bilang kasangkapan sa pagkilos."
+        },
+        {
+            "id": "11-3",
+            "text": "Lit. mga mukha, nagpapahiwatig na ang mga pasasalamat ay ibinigay ng mga mukhang masasaya."
+        },
+        {
+            "id": "12-1",
+            "text": "Tayo ay kailangang magkaroon ng dalisay na budhi (II Tim. 1:3), isang budhing walang sala (Gawa 24:16), upang magdala ng patotoo sa kung ano tayo at sa kung ano ang ginagawa natin."
+        },
+        {
+            "id": "12-2",
+            "text": "O, pagiging simple. Sa ilang manuskrito ay binabasang “kabanalan”. Ang situwasyon ng kamatayang nakaharap ng mga apostol ang nagtulak sa kanila na maging simple, yaon ay, hindi na magtiwala sa kanilang sarili ni sa kanilang natural na abilidad upang lutasin ang kanilang mahirap na situwasyon. Ito ang patotoo ng kanilang budhi gayon din ang kanilang inaasam at pinaniniwalaan (b. 15)."
+        },
+        {
+            "id": "12-3",
+            "text": "*Tingnan ang tala 8-2 sa I Corinto 5.* Isang dibinong kagalingan, isang kagalingan ng kung ano ang Diyos. Ang igawi ang ating mga sarili sa gayong kagalingan ay nangangahulugang danasin ang Diyos Mismo. Kaya, ito ay katumbas ng “sa biyaya ng Diyos” (sa hulihan ng bersikulo)."
+        },
+        {
+            "id": "12-4",
+            "text": "Yaon ay, karunungan ng tao sa laman. Ito ay katumbas ng ating mga sarili, gaya nang ang “biyaya ng Diyos” ay katumbas ng “Diyos Mismo”."
+        },
+        {
+            "id": "12-5",
+            "text": "Ang Diyos na para sa ating pagtatamasa (tingnan ang tala 10-1 sa I Cor. 15). Ang biyaya rito ay ang kaloob sa bersikulo 11, na siyang tinanggap ng mga apostol para sa pagdaranas ng pagkabuhay na muli sa gitna ng kanilang mga pagdurusa."
+        },
+        {
+            "id": "14-1",
+            "text": "Tingnan ang tala 13-1 sa I Cor. 3."
+        },
+        {
+            "id": "15-1",
+            "text": "Yaon ay, ang dobleng biyaya ng pagdating ng apostol sa Corinto ng dalawang ulit, minsan sa bersikulong ito at muli sa susunod na bersikulo. Sa pamamagitan ng pagdating ng apostol, ang biyaya ng Diyos, yaon ay, ang pamamahagi ng Diyos bilang ang panustos ng buhay at espirituwal na pagtatamasa, ay naipagkaloob sa mga mananampalataya. Ang dalawa niyang pagdating ay magdadala sa kanila ng dobleng bahagi ng gayong biyaya."
+        },
+        {
+            "id": "16-1",
+            "text": "Isang lalawigan ng Emperyo ng Roma, nasa hilaga ng Acaya, kung saan naroroon ang mga lunsod ng Filipos at Tesalonica."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang “nguni’t” ay nagbibigay ng paghahambing. Sa naunang bersikulo ang apostol ay tumutukoy sa bintang na siya ay isang tao ng oo at hindi. Sa bersikulong ito, ipinagtanggol niya ang kanyang sarili sa pamamagitan ng pagsasabi na ang Diyos ay tapat, kaya ang salita ng kanilang pangangaral ay hindi oo at hindi. Kung kaya, sila ay hindi rin mga pabagu-bago at mga magagaang na tao sa kanilang paggawa. Ang kanilang katauhan ay ayon sa kanilang pangangaral. Sila ay namuhay ayon sa kung ano ang kanilang ipinangaral."
+        },
+        {
+            "id": "18-2",
+            "text": "Tumutukoy sa salitang ipinangaral ng mga apostol (I Cor. 1:18), ang kanilang mensahe tungkol kay Kristo (b. 19)."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang “sapagka’t” ay nagbibigay ng dahilan para sa kung ano ang binanggit sa nauunang bersikulo. Ang Diyos ay tapat, hindi kailanman nagbabago, lalo na sa Kanyang mga pangako tungkol kay Kristo, upang ang salitang ipinangaral ng mga apostol tungkol kay Kristo ay hindi rin kailanman magbabago, sapagka’t ang mismong Kristo na Siyang ipinangako ng Diyos sa Kanyang tapat na salita at Siyang ipinangaral nila sa kanilang ebanghelyo ay hindi naging oo at hindi, kundi sa Kanya ay oo. Yamang ang Kristo na kanilang ipinangaral ayon sa mga pangako ng Diyos ay hindi naging oo at hindi, ang salita na kanilang ipinangaral tungkol sa Kanya ay lalong hindi naging oo at hindi. Hindi lamang ang kanilang pangangaral bagkus maging ang kanilang pamumuhay ay ayon sa kung ano si Kristo. Kanilang ipinangaral si Kristo at ipinamuhay Siya. Sila ay hindi mga tao ng oo at hindi, kundi mga tao na katulad ni Kristo."
+        },
+        {
+            "id": "19-2",
+            "text": "Yaon ay, si Silas, Gawa 15:22; 18:5."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang “sapagka’t” muli ay nagbibigay ng dahilan para sa kung ano ang binanggit sa nauunang bersikulo. Si Kristo, na Siyang ipinangako ng tapat na Diyos at Siyang ipinangaral ng mga tapat na apostol, ay hindi naging oo at hindi, hindi nagbago, sapagka’t sa loob Niya ay ang Oo ng lahat ng mga pangako ng Diyos, at sa pamamagitan Niya ay ang Amen ng mga apostol at mga mananampalataya sa Diyos para sa Kanyang kaluwalhatian."
+        },
+        {
+            "id": "20-2",
+            "text": "Tumutukoy kay Kristo."
+        },
+        {
+            "id": "20-3",
+            "text": "Si Kristo ang Oo, ang kongkretong sagot, ang katuparan ng lahat ng mga pangako ng Diyos sa atin."
+        },
+        {
+            "id": "20-4",
+            "text": "Ang Amen na ibinigay natin sa pamamagitan ni Kristo sa Diyos (cf. I Cor. 14:16). Si Kristo ang Oo, at nagsasabi tayo ng Amen sa Oo na ito sa harap ng Diyos."
+        },
+        {
+            "id": "20-5",
+            "text": "Para sa kaluwalhatian ng Diyos. Kapag nagsasabi tayo ng Amen sa harapan ng Diyos sa katotohanang si Kristo ay ang Oo, ang katuparan, ng lahat ng mga pangako ng Diyos, ito ay isang kaluwalhatian sa Diyos sa pamamagitan natin."
+        },
+        {
+            "id": "20-6",
+            "text": "Tumutukoy hindi lamang sa mga apostol, na nangaral ukol kay Kristo ayon sa mga pangako ng Diyos, bagkus gayon din sa mga mananampalataya, na nagsitanggap kay Kristo ayon sa pangangaral ng mga apostol. Sa pamamagitan ng dalawa ay may kaluwalhatian para sa Diyos kapag nagsasabi sila ng Amen kay Kristo bilang ang dakilang Oo ng lahat ng mga pangako ng Diyos."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang mga apostol, na nagpahayag ng ukol kay Kristo ayon sa mga pangako ng Diyos at ipinamuhay si Kristo ayon sa kanilang pangangaral, at ang mga mananampalatayang tumanggap kay Kristo ayon sa pangangaral ng mga apostol, ay nakaugpong kay Kristo, naging kaisa Niya, na sa pamamagitan Niya kanilang sinasabing Amen sa harapan ng Diyos sa dakilang Oo ng mga pangako ng Diyos, na si Kristo Mismo. Subali’t hindi sila mismo kundi ang Diyos ang nag-uugpong sa kanilang lahat nang sama-sama kay Kristo. Ang pagiging isa nila kay Kristo ay sa Diyos at sa pamamagitan ng Diyos, hindi nagmumula sa kanilang mga sarili ni sa pamamagitan ng kanilang mga sarili."
+        },
+        {
+            "id": "21-2",
+            "text": "O, matibay na nagdurugtong…sa. Lit. pinatatatag. Sa loob ni Kristo ay pinatatatag ng Diyos ang mga apostol kasama ang mga mananampalataya. Ito ay nangangahulugan na iniuugpong ng Diyos ang mga apostol kasama ang mga mananampalataya tungo kay Kristo, idinurugtong ang mga apostol at ang mga mananampalataya kay Kristo, ang Pinahiran. Sa gayon, ang mga apostol at ang mga mananampalataya ay kaisa hindi lamang ni Kristo, ang Pinahiran, bagkus kaisa rin ng bawa’t isa, sama-samang nakikibahagi sa pagpapahid ni Kristo na Kanyang tinanggap sa Diyos."
+        },
+        {
+            "id": "21-3",
+            "text": "Tumutukoy na ang mga mananampalataya ay kasama ng mga apostol na nakaugpong kay Kristo, ang Pinahiran. Ito ay nagpapakita na hinanay ng mga apostol ang kanilang mga sarili sa mga mananampalataya tungkol sa bagay ng espirituwal na pagkaugpong kay Kristo sa pamamagitan ng pagpapahid at hindi nila itinuring ang kanilang mga sarili na natatangi o hiwalay sa mga mananampalataya sa bagay ukol sa nagpapaloob ng lahat na pagliligtas ng Diyos."
+        },
+        {
+            "id": "21-4",
+            "text": "Yaon ay, ang Pinahiran (Dan. 9:26, lit.)"
+        },
+        {
+            "id": "21-5",
+            "text": "Yamang tayo ay naiugpong na ng Diyos kay Kristo, ang Pinahiran, tayo ay kusang pinapahiran ng Diyos kasama Niya."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang pagpapahid sa nauunang bersikulo ay ang pagtatatak. Yamang pinahiran tayo ng Diyos kasama ni Kristo, tinatakan na rin Niya tayo sa loob Niya. Tingnan ang tala 13-1 sa Efeso 1."
+        },
+        {
+            "id": "22-2",
+            "text": "Ang prenda ng Espiritu ay ang Espiritu Mismo bilang ang prenda. Ang pagtatatak ay isang tanda na tayo ay mana ng Diyos, pag-aari ng Diyos, nabibilang sa Diyos. Ang prenda ay isang garantiya na ang Diyos ang ating mana na nabibilang sa atin (tingnan ang tala 14-1 sa Efe. 1). Ang Espiritung nasa loob natin ay ang prenda, isang garantiya, ng Diyos bilang ating bahagi sa loob ni Kristo. Ang pag-uugpong ng Diyos sa atin kay Kristo ay nagbubunga ng tatlong bagay: 1) isang pagpapahid na nagbabahagi ng mga elemento ng Diyos paloob sa atin; 2) isang pagtatatak na humuhubog sa mga dibinong elemento tungo sa isang impresyon upang ihayag ang larawan ng Diyos; 3) isang prendang nagbibigay sa atin ng paunang-tikim bilang isang sampol at garantiya ng ganap na pagdaranas ng Diyos. Sa pamamagitan ng tatlong karanasang ito ng nagpapahid na Espiritu, kasama ang pagdaranas ng krus, ang ministeryo ni Kristo ay naibubunga."
+        },
+        {
+            "id": "22-3",
+            "text": "Ang Espiritu bilang ang garantiya na ang Diyos ay ang ating bahagi ay isang paunang-tikim sa atin; kaya rito ay sinasabi na Siya ay nasa ating mga puso. Tinatalakay ng Roma 5:5 at Gal. 4:6 ang mga bagay tungkol sa pag-ibig; kaya binabanggit ng mga ito ang tungkol sa Espiritu sa ating puso. Subali’t tinatalakay ng Roma 8:16 ang gawain ng Espiritu, yamang sinasabi nito na ang Espiritu ang sumasaksi kasama ng ating espiritu. Ang ating puso ay ang organo o sangkap na nagmamahal, subali’t ang ating espiritu ay ang organo o sangkap na gumagawa."
+        },
+        {
+            "id": "23-1",
+            "text": "Lit. sa ibabaw ng aking kaluluwa. Ang apostol ay tumatawag o humihingi sa Diyos upang maging saksi laban sa kanyang kaluluwa, yaon ay, laban sa kanyang sarili, kung siya ay nagsasalita ng kasinungalingan."
+        },
+        {
+            "id": "23-2",
+            "text": "Maging mahinahon sa inyo. Hindi ninanais ng apostol na dumating upang dalawin ang mga mananampalatayang taga-Corinto na may dalang pandisiplinang pamalo, kundi dumating sa loob ng pag-ibig at isang espiritu ng kaamuan para sa pagtatayo (I Cor. 4:21). Upang maiwasan ang anumang di-kasiya-siyang damdamin, siya ay nagpigil sa pagpunta. Kanyang pinakitunguhan sila nang may kaluwagan at hindi paroroon sa kanila na may kalumbayan (2:1). Hindi niya ninais na panginoonan ang kanilang pananampalataya kundi maging kanilang kamanggagawa upang sila ay magalak (b. 24). Ito ang katotohanan. Siya ay tumatawag sa Diyos upang saksihan ito para sa kanya."
+        },
+        {
+            "id": "24-1",
+            "text": "Upang ang mga mananampalataya ay makatayo sa obhektibong pananampalataya (I Cor. 16:13 at tala 2), ang subhektibong pananampalataya ay kinakailangan. Ang panginoonan ang kanilang subhektibong pananampalataya ay nagpapahina ng kanilang pananampalataya, subali’t ang maging kamanggagawa nila upang sila ay magalak ay nagpapalakas sa kanilang pananampalataya."
         }
     ]
 }

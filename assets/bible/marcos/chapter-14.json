@@ -1,5 +1,5 @@
 {
-    "chapter": 14,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Ito",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -26,7 +26,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -37,7 +37,7 @@
             "footnotes": [
                 {
                     "word": "ginawa",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -48,7 +48,7 @@
             "footnotes": [
                 {
                     "word": "denario",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -65,7 +65,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -76,11 +76,11 @@
             "footnotes": [
                 {
                     "word": "Ginawa",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "bago",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -91,7 +91,7 @@
             "footnotes": [
                 {
                     "word": "ipahayag",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -108,11 +108,11 @@
             "footnotes": [
                 {
                     "word": "salapi.",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "maibigay.",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -123,11 +123,11 @@
             "footnotes": [
                 {
                     "word": "kapistahan",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "inihain",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -170,15 +170,15 @@
             "footnotes": [
                 {
                     "word": "nagsisikain,",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "ipagkakanulo",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -189,7 +189,7 @@
             "footnotes": [
                 {
                     "word": "",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -200,7 +200,7 @@
             "footnotes": [
                 {
                     "word": "yaong",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -211,7 +211,7 @@
             "footnotes": [
                 {
                     "word": "papanaw",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -222,11 +222,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "nagsisikain",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -243,7 +243,7 @@
             "footnotes": [
                 {
                     "word": "tipan,",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -254,7 +254,7 @@
             "footnotes": [
                 {
                     "word": "bunga",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -291,7 +291,7 @@
             "footnotes": [
                 {
                     "word": "ikakaila",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -308,7 +308,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": [
@@ -321,7 +321,7 @@
             "footnotes": [
                 {
                     "word": "magtakang",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -338,7 +338,7 @@
             "footnotes": [
                 {
                     "word": "oras.",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -349,7 +349,7 @@
             "footnotes": [
                 {
                     "word": "kalooban",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -424,7 +424,7 @@
             "footnotes": [
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "47-1"
                 }
             ],
             "outlines": null
@@ -441,11 +441,11 @@
             "footnotes": [
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "49-1"
                 },
                 {
                     "word": "nagtuturo,",
-                    "note": ""
+                    "id": "49-2"
                 }
             ],
             "outlines": null
@@ -474,11 +474,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "53-1"
                 },
                 {
                     "word": "dinala",
-                    "note": ""
+                    "id": "53-2"
                 }
             ],
             "outlines": [
@@ -498,7 +498,7 @@
             "footnotes": [
                 {
                     "word": "Sanedrin",
-                    "note": ""
+                    "id": "55-1"
                 }
             ],
             "outlines": null
@@ -521,7 +521,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "58-1"
                 }
             ],
             "outlines": null
@@ -544,7 +544,7 @@
             "footnotes": [
                 {
                     "word": "Pinagpala?",
-                    "note": ""
+                    "id": "61-1"
                 }
             ],
             "outlines": null
@@ -555,7 +555,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "62-1"
                 }
             ],
             "outlines": null
@@ -572,7 +572,7 @@
             "footnotes": [
                 {
                     "word": "kalapastanganan!",
-                    "note": ""
+                    "id": "64-1"
                 }
             ],
             "outlines": null
@@ -583,15 +583,15 @@
             "footnotes": [
                 {
                     "word": "luraan",
-                    "note": ""
+                    "id": "65-1"
                 },
                 {
                     "word": "Magpropesiya",
-                    "note": ""
+                    "id": "65-2"
                 },
                 {
                     "word": "pinagsasampal.",
-                    "note": ""
+                    "id": "65-3"
                 }
             ],
             "outlines": null
@@ -602,7 +602,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "66-1"
                 }
             ],
             "outlines": null
@@ -631,7 +631,7 @@
             "footnotes": [
                 {
                     "word": "rin.",
-                    "note": ""
+                    "id": "70-1"
                 }
             ],
             "outlines": null
@@ -642,7 +642,7 @@
             "footnotes": [
                 {
                     "word": "manungayaw,",
-                    "note": ""
+                    "id": "71-1"
                 }
             ],
             "outlines": null
@@ -652,6 +652,184 @@
             "text": "At kapagdaka,  ang isang tandang ay tumilaok sa ikalawang pagkakataon. At naalaala ni Pedro ang salitang sinabi ni Hesus sa kanya, Bago tumilaok ang tandang nang makalawa, ikakaila mo Ako nang makatlo. At nang maisip niya ito ay tumangis siya.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa bb. 1-2, tingnan ang mga tala sa Mat. 26:2-5."
+        },
+        {
+            "id": "3-1",
+            "text": "Para sa bb. 3-9, tingnan ang mga tala sa Mat. 26:6-13."
+        },
+        {
+            "id": "4-1",
+            "text": "Lit. naganap."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 7-1 sa Juan 6."
+        },
+        {
+            "id": "7-1",
+            "text": "Ninanais ng Panginoon na sa lahat ng bagay ay binibigyan natin Siya ng unang puwesto (Col. 1:18)."
+        },
+        {
+            "id": "8-1",
+            "text": "Lit. Ang kanyang ginawa ay ayon sa abot ng kanyang makakayanan."
+        },
+        {
+            "id": "8-2",
+            "text": "O, nauna na niyang (o, kinuha na niya ang pagkakataon na) pahiran ang Aking katawan para sa paglilibing."
+        },
+        {
+            "id": "9-1",
+            "text": "Tingnan ang tala 14-2 sa kap. 1."
+        },
+        {
+            "id": "11-1",
+            "text": "O, pilak, yaon ay, tatlumpung pirasong pilak (Mat. 26:15), na siyang halaga ng isang alipin (Exo. 21:32)."
+        },
+        {
+            "id": "11-2",
+            "text": "Samantalang ang isa sa mga tagasunod ng Aliping-Tagapagligtas ay naghayag sa Kanya ng kanyang pag-ibig sa sukdulan, ang isa naman ay ipagkakanulo Siya. Ang isa ay nagpahalaga sa Kanya, at kasabay nito ang isa naman ay ibinibigay Siya sa iba."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang tala 17-1 sa Mateo 26."
+        },
+        {
+            "id": "12-2",
+            "text": "Sa kalendaryo ng mga Hudyo, na ayon sa kanilang Kasulatan, ang isang araw ay nagsimula sa gabi (Gen. 1:5). Sa gabi ng huling araw ng Paskua, ang Aliping-Tagapagligtas ay kumain muna ng kapistahan ng Paskua kasama ang Kanyang mga disipulo at itinatag ang Kanyang hapunan para sa kanila (bb. 12-25). Pagkatapos ay pumunta Siya kasama ang mga disipulo sa Hardin ng Getsemani na nasa Bundok ng mga Olivo (bb. 26-42). Doon ay hinuli at dinala Siya sa mataas na saserdote, kung saan Siya ay hinatulan ng Sanedrin na gabing-gabi na (bb. 43-72). Sa umaga ng araw ding yaon, Siya ay dinala kay Pilato upang masentensiyahan, at mahatulan ng kamatayan (15:1-15). Pagkatapos ay dinala Siya sa Golgota at ipinako roon sa ikatlong oras sa umaga (ika-9 ng umaga), nananatili sa krus hanggang sa ikasiyam na oras sa hapon (ika-3 ng hapon) (15:16-41), para sa pagsasakatuparan ng sagisag ng Paskua (Exo. 12:6-11). Tingnan ang tala 37-1 sa kapitulo 12."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang pagkain ng kapistahan ng Paskua (b. 16), hindi ang pagkain ng hapunan ng Aliping-Tagapagligtas, na nasa bb. 22-24."
+        },
+        {
+            "id": "18-2",
+            "text": "Lit. ibibigay."
+        },
+        {
+            "id": "18-3",
+            "text": "Si Judas Iscariote."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang ilang manuskrito ay nagdagdag ng, at ang isa pa ay nagtanong, Ako ba?"
+        },
+        {
+            "id": "20-1",
+            "text": "Matapos maihantad, si Judas ay umalis (Juan 13:21-30) bago ang hapunan ng Aliping-Tagapagligtas (Mat. 26:20-26). Hindi siya nakibahagi sa katawan at dugo ng Aliping-Tagapagligtas, sapagkat hindi siya isang tunay na mananampalataya sa Kanya, kundi isang anak ng kapahamakan (Juan 17:12), ibinilang na isang diyablo ng Aliping-Tagapagligtas (Juan 6:70-71). Sa Lucas 22:21-23 para bang isinasaad na si Judas ay umalis pagkatapos ng hapunan ng Panginoon, na binanggit sa nauunang bb. 19-20. Gayon pa man, ang tala ni Marcos, tulad ng kay Mateo, ay nagpapakita na si Judas ay itinuro ng Aliping-Tagapagligtas bilang Kanyang tagapagkanulo sa bb. 18-21 bago Niya itinatag ang Kanyang hapunan sa bb. 22-24. Ang tala ni Marcos ay ayon sa ayos ng kasaysayan, at ang kay Lucas naman ay ayon sa ayos ng moralidad. Tingnan ang tala 16-1 , talata 2, sa Mat. 8."
+        },
+        {
+            "id": "21-1",
+            "text": "Ito ay tumutukoy sa Kanyang pagtungo sa kamatayan."
+        },
+        {
+            "id": "22-1",
+            "text": "Para sa bb. 22-26, tingnan ang mga tala sa Mat. 26:26-30."
+        },
+        {
+            "id": "22-2",
+            "text": "Ito ay ang pagkain ng hapunan ng Aliping-Tagapagligtas matapos na Siya at ang Kanyang mga tagasunod ay kumain ng kapistahan ng Paskua sa bb. 16-18. Pinasimulan Niya ang bagong piging na ito para maging isang alaala sa Kanya ng Kanyang mga mananampalataya upang halinhan ang kapistahan ng Paskua, ang lumang tipang piging ng mga hinirang sa kanilang pag-aalaala ng pagliligtas ni Jehovah (Exo. 12:14; 13:3). Ang bagong piging na ito sa bagong tipan ay ang alalahanin ang Aliping-Tagapagligtas sa pamamagitan ng pagkain ng tinapay, na sumasagisag sa Kanyang katawang ibinigay para sa Kanyang mga mananampalataya (1 Cor. 11:24), at inumin ang saro, na sumasagisag sa Kanyang dugong ibinuhos para sa kanilang mga kasalanan (Mat. 26:28). Ang tinapay ay tumutukoy sa buhay (Juan 6:35), ang buhay ng Diyos, ang buhay na walang hanggan, at ang saro ay tumutukoy sa pagpapala (1 Cor. 10:16), na siyang Diyos Mismo bilang kanilang bahagi (Awit 16:5). Bilang mga makasalanan, ang dapat na maging bahagi nila ay ang saro ng kapootan ng Diyos (Apoc. 14:10). Subalit ininom ng Aliping-Tagapagligtas ang sarong yaon para sa kanila (Juan 18:11), at ang Kanyang kaligtasan ay nagiging bahagi nila, ang saro ng kaligtasan (Awit 116:13) na umaapaw (Awit 23:5), na ang nilalaman ay ang Diyos bilang kanilang nagpapaloob-ng-lahat na pagpapala. Ang gayong tinapay at gayong saro ang bumubuo ng hapunan ng Aliping-Tagapagligtas, na isang dulang (1 Cor. 10:21), isang kapistahan, na itinatag Niya upang maalaala Siya ng Kanyang mga mananampalataya sa pamamagitan ng pagtatamasa sa Kanya bilang gayong kapistahan. Sa gayon kanilang ipinatototoo ang Kanyang mayaman at kagila-gilalas na kaligtasan sa buong sansinukob, inihahayag ang Kanyang nagtutubos at nagbibigay-buhay na kamatayan (1 Cor. 11:26 – Ang Kanyang dugong hiwalay sa Kanyang katawan ay nagdedeklara ng kamatayan)."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang Diyos ay gumawa ng isang tipan sa tinubos na Israel sa Exo. 24:3-8 (Heb. 9:18-21), na naging lumang tipan, bilang isang batayan para sa pakikitungo Niya sa Kanyang mga tinubos na tao sa kapanahunan ng kautusan. Ang Aliping-Tagapagligtas ay dumating upang isagawa ang walang hanggang pagtutubos ng Diyos para sa mga napiling tao ng Diyos sa pamamagitan ng Kanyang kamatayan, ayon sa kalooban ng Diyos (Heb. 10:7, 9, 10), at sa pamamagitan ng Kanyang dugo ay itinatag ang isang bagong tipan, isang lalong magaling na tipan (Heb. 8:6-13), na naging ang bagong tipan pagkatapos ng Kanyang pagkabuhay na muli (Heb. 9:16-17), bilang isang batayan para sa Diyos upang maging kaisa ng Kanyang mga tinubos at isinilang-na-muling tao sa kapanahunan ng biyaya. Hinalinhan ng bagong tipang ito ang lumang tipan at kasabay na binago ang lumang pamamahagi ng Diyos tungo sa Kanyang bagong pamamahagi. Nais ng Aliping-Tagapagligtas na malaman ito ng Kanyang mga tagasunod at mamuhay ng isang buhay na nababatay rito at ayon dito pagkatapos ng Kanyang pagkabuhay na muli."
+        },
+        {
+            "id": "25-1",
+            "text": "O, katas ng ubas."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, sa Akin sa gabing ito."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang pandiwa sa Griyego (isang tambalan) ay nangangahulugang itatatwa nang sukdulan. Gayundin sa bb. 31, 72."
+        },
+        {
+            "id": "32-1",
+            "text": "Para sa bb. 32-42, tingnan ang mga tala sa Mat. 26:36-46."
+        },
+        {
+            "id": "33-1",
+            "text": "“Nasa mahigpit na pagkahawak ng isang nakapangangatal na kilabot sa harap ng nakatatakot na mangyayari sa Kanya” (Cranfield)."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang pamamanglaw ng Aliping-Tagapagligtas at ang Kanyang panalangin dito ay katulad ng nasa Juan 12:27. Doon ay sinabi Niya na Siya ay naparito sa oras na ito; yaon ay, nalalaman Niya na ang kalooban ng Ama ay yaong Siya ay mamatay sa krus para sa katuparan ng walang-hanggang plano ng Diyos."
+        },
+        {
+            "id": "36-1",
+            "text": "Sa walang hanggang nakaraan ay ipinasiya ng Tres-unong Diyos sa Kanyang maka-Diyos na plano na ang Ikalawa sa dibinong Trinidad ay nararapat magkatawang-tao at mamatay sa krus upang gampanan ang Kanyang walang hanggang pagtutubos para sa pagsasakatuparan ng Kanyang walang hanggang layunin (Efe. 1:7-9). Sa gayon, ang Ikalawa sa dibinong Trinidad ay itinalaga na maging Kordero ng Diyos (Juan 1:29) bago pa ang pagkatatag ng sanlibutan, yaon ay, sa kawalang-hanggang lumipas (1 Ped. 1:19-20); at sa mga mata ng Diyos, bilang Kordero ng Diyos, Siya ay pinatay mula pa sa pagkatatag ng sanlibutan, yaon ay, mula sa pag-iral ng mga natisod na nilikha ng Diyos (Apoc. 13:8). Mula sa pagkatisod ng tao, ang mga kordero, mga tupa, mga guya, at mga toro ay ginamit bilang mga sagisag para sa mga piniling tao ng Diyos (Gen. 3:21; 4:4; 8:20; 22:13; Exo. 12:3-8; Lev. 1:2), tumutukoy sa Kanya na Siyang darating bilang ang tunay na Korderong itinalaga noong una pa ng Diyos. Sa kapuspusan ng panahon, isinugo ng Tres-unong Diyos ang Ikalawa sa dibinong Trinidad, ang Anak ng Diyos, na pumarito sa pamamagitan ng pagkakatawang-tao upang magkaroon ng pantaong katawan (Heb. 10:5) nang sa gayon ay maihain Siya sa Diyos sa ibabaw ng krus (Heb. 9:14; 10:12) upang gampanan ang kalooban ng Tres-unong Diyos (Heb. 10:7), yaon ay, upang palitan ang mga alay at mga handog, na siyang mga sagisag, ng Kanyang Sarili sa Kanyang pagkatao bilang ang bukod-tanging alay at handog para sa pagpapabanal ng mga piniling tao ng Diyos (Heb. 10:9-10). Sa Kanyang panalangin dito, kaagad bago ang Kanyang pagkapako-sa-krus, inihanda Niya ang Kanyang Sarili upang tanggapin ang saro ng krus (Mat. 26:39, 42), na nahahandang gawin itong bukod-tanging kalooban ng Ama upang maisakatuparan ang walang hanggang plano ng Tres-unong Diyos."
+        },
+        {
+            "id": "47-1",
+            "text": "Ito ay si Pedro (Juan 18:10, 26)."
+        },
+        {
+            "id": "49-1",
+            "text": "Ang mga tumatalikod sa Diyos at nagkakasala-sa-Diyos na tagasalungat, na takot sa mga taong mainit na tumanggap sa Aliping-Tagapagligtas (11:7-11) at nangagalak sa Kanyang pagsasalita (12:37), ay hindi nangahas na hulihin Siya sa araw o sa isang mataong lugar katulad ng templo, kundi nang may katusuhan sa kalaliman ng gabi (b. 1), na para bang humuhuli ng isang magnanakaw (b. 48)."
+        },
+        {
+            "id": "49-2",
+            "text": "Tingnan ang tala 21-2 sa kap. 1."
+        },
+        {
+            "id": "53-1",
+            "text": "Para sa bb. 53-65, tingnan ang mga tala sa Mat. 26:57-68."
+        },
+        {
+            "id": "53-2",
+            "text": "Ang Aliping-Tagapagligtas ay dinakip katulad ng isang magnanakaw (b. 48) at dinala sa patayan katulad ng isang kordero (Isa. 53:7)."
+        },
+        {
+            "id": "55-1",
+            "text": "Tingnan ang tala 22-6 sa Mat. 5."
+        },
+        {
+            "id": "58-1",
+            "text": "Lit. pagkaraan ng tatlong araw."
+        },
+        {
+            "id": "61-1",
+            "text": "Ang Diyos ay tinawag na “Ang Pinagpala” ng natulirong pinakapunong saserdote ng makatradisyon, nagtatakwil-sa-Diyos at itinakwil-ng-Diyos na relihiyon upang ipakita kung paano niya pinagpipitaganan at iginagalang ang Diyos."
+        },
+        {
+            "id": "62-1",
+            "text": "Bagama’t hinggil sa Kanyang pagkilos ay hindi sasagutin ng Aliping-Tagapagligtas ang mga maling paratang ng Kanyang mga tagasuri, gayon pa man hinggil sa Kanyang dibinong Persona, sa Kanyang pagka-Diyos, Siya ay hindi nanahimik, kundi matibay at tiyakang sumagot, pinagtitibay ang Kanyang pagka-Diyos sa Kanyang pagkatao sa pamamagitan ng pagpapahayag na bilang ang Anak ng Tao Siya ay luluklok sa kanan ng Diyos."
+        },
+        {
+            "id": "64-1",
+            "text": "Kinondena ng mga bulag na sumasalungat ang Aliping-Tagapagligtas sa pagiging mapanlapastangan sa pagpapatibay ng Kanyang pagka-Diyos, hindi natatanto na kanilang tunay na nilalapastangan ang Diyos sapagkat ang naroroon na kanilang sinisiraang-puri at kinukutya ay ang Diyos Mismo."
+        },
+        {
+            "id": "65-1",
+            "text": "Ito ang sukdulang pagkukutya at pagtatakwil ng mga Hudyo sa Aliping-Tagapagligtas, katulad ng naipropesiya sa Isa. 53:3."
+        },
+        {
+            "id": "65-2",
+            "text": "Ito ay isang salita ng pangungutya at pagbibiro."
+        },
+        {
+            "id": "65-3",
+            "text": "O, tinanggap na may pagsampal."
+        },
+        {
+            "id": "66-1",
+            "text": "Para sa bb. 66-72, tingnan ang mga tala sa Mat. 26:69-75."
+        },
+        {
+            "id": "70-1",
+            "text": "Ang ilang manuskrito ay nagdaragdag ng, at ang punto ng inyong pananalita ay magkatulad."
+        },
+        {
+            "id": "71-1",
+            "text": "Yaon ay, ipinasailalim ang kanyang sarili sa isang sumpa."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 15,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Sanedrin",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Pilato.",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -42,7 +42,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -65,7 +65,7 @@
             "footnotes": [
                 {
                     "word": "nagsipanhik",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -100,7 +100,7 @@
             "footnotes": [
                 {
                     "word": "Ipako",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -117,11 +117,11 @@
             "footnotes": [
                 {
                     "word": "mahagupit",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "maipako-",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -132,11 +132,11 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": [
@@ -149,11 +149,11 @@
             "footnotes": [
                 {
                     "word": "kulay-",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -164,7 +164,7 @@
             "footnotes": [
                 {
                     "word": "Magalak,",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -187,7 +187,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -204,7 +204,7 @@
             "footnotes": [
                 {
                     "word": "pinagsikapang",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -221,7 +221,7 @@
             "footnotes": [
                 {
                     "word": "ikatlo",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -244,7 +244,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -255,7 +255,7 @@
             "footnotes": [
                 {
                     "word": "Ikaw",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -266,7 +266,7 @@
             "footnotes": [
                 {
                     "word": "Iligtas",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -289,11 +289,11 @@
             "footnotes": [
                 {
                     "word": "ikaanim",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "ikasiyam",
-                    "note": ""
+                    "id": "33-2"
                 }
             ],
             "outlines": null
@@ -304,7 +304,7 @@
             "footnotes": [
                 {
                     "word": "Eloi,",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -345,15 +345,15 @@
             "footnotes": [
                 {
                     "word": "Mariang",
-                    "note": ""
+                    "id": "40-1"
                 },
                 {
                     "word": "munti",
-                    "note": ""
+                    "id": "40-2"
                 },
                 {
                     "word": "Salome,",
-                    "note": ""
+                    "id": "40-3"
                 }
             ],
             "outlines": null
@@ -370,7 +370,7 @@
             "footnotes": [
                 {
                     "word": "gumabi",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": [
@@ -383,7 +383,7 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "43-1"
                 }
             ],
             "outlines": null
@@ -406,7 +406,7 @@
             "footnotes": [
                 {
                     "word": "inilagay",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
@@ -416,6 +416,116 @@
             "text": "At tiningnan ni Maria Magdalena at ni Mariang ina ni Jose kung saan Siya inilagay.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 22-6 sa Mateo 5."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 2-1 sa Mat. 27. Sa ilalim ng kataas-taasang kapangyarihan ng Diyos, ang Aliping-Tagapagligtas ay hinatulan hindi lamang ng mga pinunong Hudyo bilang tupa sa harap ng manggugupit (Isa. 53:7), sa 14:53-65, bagkus ng Romanong gobernador din, bilang isang kriminal sa harap ng mga nagbibintang (14:64), sa bb. 1-15, upang Siya ay mamatay at mapaglingkuran ang mga makasalanan sa pamamagitan ng Kanyang buhay bilang isang pantubos (10:45), hindi lamang para sa mga Hudyo na kinatawan ng mga namumunong Hudyo, bagkus para rin sa mga Hentil na kinatawan ng Romanong gobernador. Tingnan ang tala 37-1 sa kap. 12."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang Aliping-Tagapagligtas ay hindi nagtanggol sa Kanyang Sarili."
+        },
+        {
+            "id": "8-1",
+            "text": "Sa ilang manuskrito ay binabasang, nagsipagsigaw."
+        },
+        {
+            "id": "13-1",
+            "text": "Ito ay isang di-resonableng pagsigaw."
+        },
+        {
+            "id": "15-1",
+            "text": "Inilantad nito ang kadiliman at kawalang-katarungan ng pulitika ng tao sa sukdulan. Yaon ay isang katuparan ng propesiya hinggil sa paghihirap ng Aliping-Tagapagligtas sa Isa. 53:5, 8."
+        },
+        {
+            "id": "15-2",
+            "text": "Tingnan ang tala 26-2 sa Mat. 27."
+        },
+        {
+            "id": "16-1",
+            "text": "Para sa bb. 16-20, tingnan ang mga tala sa Mat. 27:27-31."
+        },
+        {
+            "id": "16-2",
+            "text": "O, sa loob"
+        },
+        {
+            "id": "17-1",
+            "text": "Sinasagisag ang pagkamaharlika, ginamit dito bilang isang pangungutya (b. 20)."
+        },
+        {
+            "id": "17-2",
+            "text": "O, sa palibot ng Kanyang ulo."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang tala 29-2 sa Mat. 27."
+        },
+        {
+            "id": "21-1",
+            "text": "Para sa bb. 21-38, tingnan ang mga tala sa Mat. 27:32-51."
+        },
+        {
+            "id": "23-1",
+            "text": "O, inalok Siya ng alak na hinaluan ng mira."
+        },
+        {
+            "id": "25-1",
+            "text": "Yaon ay, ika-9 ng umaga."
+        },
+        {
+            "id": "28-1",
+            "text": "Marami sa mahahalagang manuskrito ang nag-aalis ng bersikulong ito."
+        },
+        {
+            "id": "29-1",
+            "text": "Ito ay isang pagpilipit sa salita ng Aliping-Tagapagligtas, “Gibain (ninyo) ang templong ito,” sa Juan 2:19."
+        },
+        {
+            "id": "30-1",
+            "text": "Kung ililigtas Niya ang Kanyang Sarili ay hindi Niya tayo maililigtas."
+        },
+        {
+            "id": "33-1",
+            "text": "Yaon ay, ika-12 ng tanghali."
+        },
+        {
+            "id": "33-2",
+            "text": "Yaon ay, ika-3 ng hapon."
+        },
+        {
+            "id": "34-1",
+            "text": "Aramaiko."
+        },
+        {
+            "id": "40-1",
+            "text": "Ang ina ng Aliping-Tagapagligtas (Mat. 13:55)."
+        },
+        {
+            "id": "40-2",
+            "text": "Maaaring munti sa sukat o sa gulang."
+        },
+        {
+            "id": "40-3",
+            "text": "Ang maybahay ni Zebedeo at ina nina Santiago at Juan (Mat. 27:56)."
+        },
+        {
+            "id": "42-1",
+            "text": "Tingnan ang tala 38-1 sa Juan 19."
+        },
+        {
+            "id": "43-1",
+            "text": "Ang pantukoy ay nagpapahiwatig sa isang taong kilalang-kilala."
+        },
+        {
+            "id": "46-1",
+            "text": "Ito ay para sa katuparan ng Isa. 53:9a."
         }
     ]
 }

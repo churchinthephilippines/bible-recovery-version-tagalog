@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "hiwaga",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -26,11 +26,11 @@
             "footnotes": [
                 {
                     "word": "maliban",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "ipinako-",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -41,11 +41,11 @@
             "footnotes": [
                 {
                     "word": "kahinaan",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "pagkatakot",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -56,7 +56,7 @@
             "footnotes": [
                 {
                     "word": "mapanghikayat",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -67,7 +67,7 @@
             "footnotes": [
                 {
                     "word": "karunungan",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -78,7 +78,7 @@
             "footnotes": [
                 {
                     "word": "nangauuwi",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": [
@@ -92,15 +92,15 @@
             "footnotes": [
                 {
                     "word": "karunungan",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "bago",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "ikaluluwalhati",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -117,11 +117,11 @@
             "footnotes": [
                 {
                     "word": "mata",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "nangagsisiibig",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -132,15 +132,15 @@
             "footnotes": [
                 {
                     "word": "ipinahayag",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "sinisiyasat",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -151,7 +151,7 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -165,7 +165,7 @@
             "footnotes": [
                 {
                     "word": "natanggap,",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -176,11 +176,11 @@
             "footnotes": [
                 {
                     "word": "ipinababatid",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -191,27 +191,27 @@
             "footnotes": [
                 {
                     "word": "Nguni’",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "makakaluluwang",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "14-4"
                 },
                 {
                     "word": "nakikilala",
-                    "note": ""
+                    "id": "14-5"
                 },
                 {
                     "word": "espiritu.",
-                    "note": ""
+                    "id": "14-6"
                 }
             ],
             "outlines": null
@@ -222,7 +222,7 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -233,10 +233,128 @@
             "footnotes": [
                 {
                     "word": "taglay",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Lit. ayon sa kataasan o kahigitan. Si Pablo ay pumunta sa Corinto hindi upang itanyag ang mahusay na pananalita o pilosopikal na karunungan sa pagpapatotoo sa Diyos."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang ilang sinaunang awtoridad ay binabasang, patotoo. Ang ipinahayag ng apostol ay ang hiwaga ng Diyos na si Kristo bilang ang pagsasakatawan ng Diyos at ang ekklesia bilang kahayagan ni Kristo (Roma 16:25-26; Col. 1:26-27; 2:2; 4:3; Efe. 3:4-6, 9)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang ipinako sa krus na Kristo ang namumukod-tanging paksa, ang sentro, ang nilalaman, at ang substansiya ng ministeryo ng apostol. Dahil dito ipinasiya niyang huwag malaman ang anumang bagay maliban sa nagpapaloob ng lahat na Kristo kapag siya ay namamahagi ng salita ng patotoo ng Diyos sa mga Griyegong mahuhusay magsalita, nagmamataas, at sumasamba sa karunungan. Anong pagpapasya! Ito ay dapat na maging isang huwaran sa ating lahat."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang “Hesu-Kristo” ay tumutukoy sa Persona ng Panginoon. Ang Isang ipinakong ito ay tumutukoy sa buhay, pagkilos, gawain, at huwaran ng daan ng Panginoon; ito ay tumutukoy sa pagiging mababa at hamak ng Panginoon; ito ay tumutukoy sa paghamak at paglibak sa Panginoon. Hindi binanggit dito ang Kanyang pagkabuhay na muli sa kaluwalhatian (Luc. 24:26) at pag-akyat sa langit sa kadakilaan (Gawa 2:33, 36) upang ibagsak ang kapalaluan ng mga Griyego sa kanilang pagpapataas sa karunungan."
+        },
+        {
+            "id": "3-1",
+            "text": "Marahil tumutukoy sa kahinaan ng katawan ni Pablo na sinanhi ng pagpapahirap sa kanya dahil sa pag-uusig na natanggap alang-alang sa ebanghelyo. Ang mga Griyego ay hindi lamang naghahanap ng pagpapalakas ng kanilang damdamin at kaisipan sa pamamagitan ng pilosopiya bagkus naghahanap din ng pagpapalakas ng kanilang katawan sa pamamagitan ng gimnastiko subali’t ang apostol ay hindi man lamang nagpakita sa kanila na siya ay isang taong may malakas na pangangatawan."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang pagkatakot ay isang panloob na damdamin; ang panginginig ay ang panlabas na kahayagan. Natatakot ang apostol na mawaglit niya si Kristo sa kanyang ministeryo sa mga Griyegong mapaghanap sa karunungan at nanginginig na baka siya mahawahan ng kanilang nananaig na paghahangad. Sa gayong pagkatakot at panginginig siya ay tapat at matatag na tumayo sa kanyang ministeryong itinalaga ng Diyos ayon sa makalangit na pangitain, iniiwasan ang anumang paglihis. Ipinagmamalaki ng mga relihiyosong Hudyo ang kanilang katutubong relihiyon at ipinagmamayabang naman ng mga pilosopikong Griyego ang kanilang makasanlibutang karunungan. Sa pagmiministeryo ng Kristo sa dalawa, si Pablo ay nasa pagkatakot at nasa lubhang panginginig. Anong kaibhan niya sa kanila!"
+        },
+        {
+            "id": "4-1",
+            "text": "Ang mga mapanghikayat na salita ng karunungan ay nagmumula sa pantaong kaisipan; ang “pagtatanghal ng Espiritu” ay nagmumula sa ating espiritu. Ang pananalita at pangangaral ng apostol ay hindi mula sa kanyang kaisipan na iniisip ang pananalita, subali’t mula sa kanyang espiritu na ginagamit ang pagpapalaya ng espiritu at pagtatanghal ng Espiritu, kaya ito ay makapangyarihan."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang karunungan ng mga tao ay ang elementaryang pilosopiya; ang kapangyarihan ng Diyos ay ang nagpapaloob ng lahat na Kristo (1:24)."
+        },
+        {
+            "id": "6-1",
+            "text": "Yaon ay, nasira. Gayundin sa 1:28."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang karunungan ng Diyos ay si Kristo (1:24) na Siyang nakukubling hiwaga (Col. 1:26-27) na itinalaga bago pa ang mga kapanahunan sa ikaluluwalhati natin."
+        },
+        {
+            "id": "7-2",
+            "text": "Yaon ay, sa kawalang-hanggan."
+        },
+        {
+            "id": "7-3",
+            "text": "Si Kristo ang Panginoon ng kaluwalhatian (b. 8). Si Kristo ang ating buhay sa ngayon (Col. 3:4) at ang ating kaluwalhatian sa hinaharap (Col. 1:27). Sa kaluwalhatiang ito tayo ay tinawag ng Diyos (I Ped. 5:10), at sa loob nito tayo ay dadalhin Niya (Heb. 2:10). Ito ang gol ng pagliligtas ng Diyos."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang sakop ng makikita ng mata ay makitid; ang sakop ng maririnig ng tainga ay higit na malawak; at ang sakop ng mapagtatanto ng puso ay walang hangganan. Ang Diyos sa Kanyang karunungan (yaon ay, kay Kristo) ay nagtalaga at naghanda para sa atin ng maraming malalalim at natatagong bagay, katulad ng pag-aaring matuwid, pagpapabanal, at pagluluwalhati. Ang lahat ng mga ito ay hindi pa kailanman nakita ng mata ng tao, hindi pa kailanman narinig ng tainga ng tao, at hindi pa kailanman napag-isipan ng puso ng tao."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang matanto at makibahagi sa mga malalalim at natatagong bagay ng Diyos na itinalaga at inihanda para sa atin ay humihiling sa atin na hindi lamang tayo manampalataya sa Kanya, bagkus umibig din sa Kanya. Ang matakot sa Diyos, ang sumamba sa Diyos, at ang manampalataya sa Diyos, yaon ay, ang tumanggap sa Diyos, ay lubusang hindi sapat; ang ibigin Siya ay ang kailangang-kailangang kahilingan. Ang ibigin ang Diyos ay nangangahulugang ilagak ang ating buong katauhan – espiritu, kaluluwa, at katawan, kasama ang puso, kaluluwa, isipan, at kalakasan (Mar. 12:30) – nang lubusan sa Kanya, yaon ay, ang hayaan ang ating buong katauhan na maokupahan Niya at mawala sa Kanya, upang Siya ay maging lahat-lahat sa atin at tayo ay maging kaisa Niya nang praktikal sa ating buhay sa araw-araw. Sa ganitong paraan tayo ay nagkakaroon ng pinakamalapit at pinakamatalik na pagsasalamuha sa Diyos. Sa ganoon tayo nakapapasok paloob sa Kanyang puso at natututuhan ang lahat ng mga lihim nito (Awit 73:25; 25:14). Sa gayon, hindi lamang natin nauunawaan, bagkus nararanasan, natatamasa ang mga malalalim at natatagong bagay na ito ng Diyos, at lubusang nakababahagi sa mga ito."
+        },
+        {
+            "id": "10-1",
+            "text": "Naiiba sa itinuro. Ang pagtuturo ay may kaugnayan sa ating kaisipan; ang paghahayag ay may kaugnayan sa ating espiritu. Upang matanto ang mga malalalim at natatagong bagay na inihanda ng Diyos para sa atin, ang ating espiritu ay higit na kinakailangan kaysa sa ating kaisipan. Kapag ang ating buong katauhan ay nagiging kaisa ng Diyos sa pamamagitan ng pagmamahal sa Kanya sa matalik na pagsasalamuha, ipinakikita Niya sa atin, sa loob ng ating espiritu sa pamamagitan ng Kanyang Espiritu, ang lahat ng mga natatagong bagay na inihanda ng Kanyang karunungan hinggil kay Kristo, na hindi pa kailanman nakapasok sa puso ng tao."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang salitang Griyego ay nangangahulugang aktibong pagsasaliksik, nagpapahiwatig ng wastong kaalaman hindi sa pagtuklas kundi sa pagsisiyasat. Ang Espiritu ng Diyos ay nagsisiyasat ng mga kalaliman ng Diyos hinggil kay Kristo at ipinakikita ang mga ito sa atin sa ating espiritu para sa ating pagkatanto at pakikibahagi."
+        },
+        {
+            "id": "10-3",
+            "text": "Tumutukoy sa malalalim na bagay ng Diyos, na si Kristo sa maraming aspekto bilang ating walang hanggang bahagi, itinalaga nang una pa, inihanda, at ibinigay sa atin nang walang bayad ng Diyos. Ito ay hindi pa kailanman nagbuhat sa puso ng tao, subali’t inihayag ng Espiritu ng Diyos sa atin sa ating espiritu. Kaya, kinakailangan nating maging espirituwal upang makabahagi sa mga ito. Kinakailangan nating kumilos, gumawi, at mamuhay sa ating espiritu upang matamasa natin si Kristo bilang lahat-lahat sa atin."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang espiritu ng tao ang pinakamalalim na bahagi ng kanyang katauhan. Ang kakayahan nito ay makatatagos sa kaloob-loobang panig ng mga bagay ng tao, samantalang ang kaisipan ng tao ay may kakayahan lamang na mabatid ang mabababaw na bagay. Gayundin, tanging ang Espiritu ng Diyos ang makababatid ng malalalim na bagay ng Diyos. Pinabayaan ng mga mananampalatayang taga-Corinto ang espiritu ng tao at Espiritu ng Diyos at sila ay bumaling upang mamuhay sa kanilang kaisipan sa pamamagitan ng pilosopiya, kaya ipinaliliwanag ng Sulat na ito na ang wastong pagdaranas sa espiritu ng tao at Espiritu ng Diyos ay kinakailangan upang maisagawa ang buhay-ekklesia."
+        },
+        {
+            "id": "12-1",
+            "text": "Purihin ang Panginoon na tayo na mga naisilang ng Diyos sa pamamagitan ng Kanyang Espiritu, ay nakatanggap ng Espiritu ng Diyos. Kaya, tayo ay lubusang makababatid ng malalalim na bagay ng Diyos na Kanyang ibinigay sa atin nang walang bayad para sa ating katamasahan."
+        },
+        {
+            "id": "13-1",
+            "text": "Lit. inihahalo o pinagsasama, katulad ng pagpapakahulugan o pagpapaliwanag. Ito ay pangkaraniwan sa Septuagint: Gen. 40:8; 41:12, 15."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang kaisipan dito ay ang magsalita ng mga bagay na espirituwal sa pamamagitan ng mga salitang espirituwal. Ang binibigyang-diin ay hindi ang taong sinasalitaan, kundi ang mga kaparaanan kung paano sinasalita ang mga bagay na espirituwal. Ang apostol ay nagsasalita ng mga bagay na espirituwal, na malalalim na bagay ng Diyos hinggil kay Kristo, sa pamamagitan ng mga bagay na espirituwal, na mga salitang espirituwal na itinuro ng Espiritu."
+        },
+        {
+            "id": "14-1",
+            "text": "Binibigyang-diin ng bersikulo 13 ang mga kaparaanang espirituwal, yaon ay, ang mga salitang espirituwal kung paano ang mga espirituwal na bagay ay sinasalita. Binibigyang-diin ng mga bersikulo 14 at 15 ang espirituwal na paksa, yaon ay, isang espirituwal na tao, hindi isang makakaluluwa, na kayang kumilala sa mga bagay na espirituwal. Kapwa ang kaparaanan at ang paksa ay kinakailangang maging espirituwal. Ang mga bagay na espirituwal ay kinakailangang salitain sa pamamagitan ng mga salitang espirituwal sa espirituwal na tao."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang isang makakaluluwang tao ay isang likas na tao, hinahayaan ang kanyang kaluluwa (kinabibilangan ng kaisipan, damdamin, at kapasiyahan), ang mamahala sa kanyang buong katauhan at namumuhay sa pamamagitan ng kanyang kaluluwa, hindi nauunawaan ang espiritu, hindi ginagamit ang espiritu, bagkus halos gaya ng isang walang espiritu (Jud. 19). Ang gayong tao ay hindi tumatanggap ng mga bagay ng Espiritu ng Diyos. Sa halip, tinatanggihan niya ang mga ito. Ang mga relihiyosong Hudyo na nangangailangan ng mga tanda at ang mga mapilosopiyang Griyego na naghahangad ng karunungan (1:22) ay mga gayong likas na tao, na kung kanino ang mga bagay ng Espiritu ng Diyos ay kamangmangan (1:23)."
+        },
+        {
+            "id": "14-3",
+            "text": "Tumutukoy sa mga malalalim na bagay ng Diyos hinggil kay Kristo bilang bahagi natin."
+        },
+        {
+            "id": "14-4",
+            "text": "Ang isang taong makakaluluwa ay walang kakayahan para sa espirituwal na pandama at pang-unawa. Kaya, wala siyang kakayahang makaalam ng mga bagay na espirituwal."
+        },
+        {
+            "id": "14-5",
+            "text": "O, sinisiyasat, sinusuri sa pamamagitan ng mga taong espirituwal na may espirituwal na kaparaanan."
+        },
+        {
+            "id": "14-6",
+            "text": "Ang espiritu rito ay ang espiritu ng tao na nahikayat ng Espiritu ng Diyos na kumilos nang sukdulan ayon sa Kanyang gawain sa gayon ay hinahalinhan ang pamamahala ng kaluluwa sa tao. Sa pamamagitan ng espiritung ito nakikilala ng tao ang mga bagay ng Espiritu ng Diyos. Ang ganitong tao ay ang espirituwal na taong binabanggit sa kasunod na bersikulo. Ang Diyos ay Espiritu samakatuwid ang mga bagay ng Diyos ay espirituwal. Upang lubusang makilala at maunawaan ang mga bagay ng Espiritu ng Diyos kinakailangan nating gamitin ang espiritu ng tao (Juan 4:24)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang espirituwal na tao ay ang taong nagtakwil sa kanyang kaluluwa, hindi nabubuhay sa pamamagitan ng kaluluwa kundi kumikilos, gumagawi, at namumuhay sa kanyang espiritung naookupahan ng Espiritu ng Diyos na nananahan sa kanyang espiritu. Ang espiritung ito ay ang kanyang naisilang na muling espiritu at ang espirituwal na taong ito ay namumuhay at kumikilos nang ayon sa naisilang na muling espiritu (Roma 8:4). Ang ganitong espirituwal na tao ay may kakayahan sa pang-espirituwal at sa gayon ay nakakikilala ng mga bagay ng Espiritu ng Diyos."
+        },
+        {
+            "id": "16-1",
+            "text": "Dahil sa tayo ay organikong nakikipagkaisa kay Kristo, tinataglay natin ang lahat ng kakayahang taglay Niya. Ang kaisipan ay ang kakayahan ng katalinuhan, ang sangkap na pang-unawa. Tayo ay may isang gayong sangkap ni Kristo upang malaman natin ang kaisipan ni Kristo. Kinakailangang mababaran ni Kristo ang ating kaisipan mula sa ating espiritu, ginagawa ang ating kaisipan na kaisa ng sa Kanya."
         }
     ]
 }

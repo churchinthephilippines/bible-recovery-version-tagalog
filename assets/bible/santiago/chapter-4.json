@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "kalayawan",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,7 +21,7 @@
             "footnotes": [
                 {
                     "word": "nagnanasa",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -32,7 +32,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -43,23 +43,23 @@
             "footnotes": [
                 {
                     "word": "mangangalunyang-",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "pakikipagkaibigan",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "sanlibutan",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "nagiging",
-                    "note": ""
+                    "id": "4-4"
                 },
                 {
                     "word": "kaaway",
-                    "note": ""
+                    "id": "4-5"
                 }
             ],
             "outlines": null
@@ -70,11 +70,11 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -85,15 +85,15 @@
             "footnotes": [
                 {
                     "word": "ito",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "Sinasalansang",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "palalo,",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -104,15 +104,15 @@
             "footnotes": [
                 {
                     "word": "Pasakop",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "salansangin",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "Diyablo,",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -123,7 +123,7 @@
             "footnotes": [
                 {
                     "word": "dalawang-",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -134,7 +134,7 @@
             "footnotes": [
                 {
                     "word": "Kayo",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -145,7 +145,7 @@
             "footnotes": [
                 {
                     "word": "Magpakababa",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -156,7 +156,7 @@
             "footnotes": [
                 {
                     "word": "tagatupad",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -175,7 +175,7 @@
             "footnotes": [
                 {
                     "word": "magsisiparoon",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": [
@@ -189,7 +189,7 @@
             "footnotes": [
                 {
                     "word": "singaw",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -206,7 +206,7 @@
             "footnotes": [
                 {
                     "word": "pagpapalalo;",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -217,10 +217,108 @@
             "footnotes": [
                 {
                     "word": "Samakatwid",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tinutukoy ang mga kalayawan ng laman o kalayawan ng mga sangkap ng katawan; sa b. 3 ay tinutukoy ang kalayawan na nagbibigay-kasiyahan sa pita ng laman."
+        },
+        {
+            "id": "2-1",
+            "text": "O, nag-iimbot, nagpipita sa kasamaan."
+        },
+        {
+            "id": "3-1",
+            "text": "Lit. sa loob ng."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang Diyos at si Kristo ay ang ating Asawang Lalake (Isa. 54:5; 2 Cor. 11:2). Dapat tayong maging malinis at ibigin Siya lamang ng ating buong katauhan (Mar. 12:30). Kung ang ating puso ay nahahati sa pamamagitan ng pag-ibig sa sanlibutan, tayo ay nagiging mga mangangalunyang-babae."
+        },
+        {
+            "id": "4-2",
+            "text": "Yaon ay, umiibig sa sanlibutan para sa mga kalayawan ng laman (bb. 1, 4)."
+        },
+        {
+            "id": "4-3",
+            "text": "Tumutukoy sa makasatanas na sistema, na siyang pakikipag-away sa Diyos. Tingnan ang tala 15-2 sa 1 Juan 2."
+        },
+        {
+            "id": "4-4",
+            "text": "Lit. binubuuang."
+        },
+        {
+            "id": "4-5",
+            "text": "Binubuuang kaaway ng Diyos ng pag-ibig sa sanlibutan ang mga mangingibig ng Diyos."
+        },
+        {
+            "id": "5-1",
+            "text": "Nang kinuha tayo ng Diyos upang maging Kanyang esposa, inilagay Niya ang Kanyang Espiritu tungo sa loob natin upang gawin tayong kaisa Niya (1 Cor. 6:19, 16-17). Siya ay isang mapanibughuing Diyos (Exo. 20:5), at ang Kanyang Espiritu ay naninibugho tungkol sa atin ng paninibugho ng Diyos (2 Cor. 11:2), umaasam, nagnanasa nang may paninibugho, na hindi tayo makikipagkaibigan sa Kanyang kaaway nang kasabay ng pagiging mangingibig Niya. Ito ang tanging beses na binabanggit ni Santiago ang nananahanang Espiritu ng Diyos, at sa pang-negatibo pa, ang hinggil sa pagbibigay-wakas sa pakikipagkaibigan sa sanlibutan, ngunit sa pampositibo, hindi niya binabanggit ang hinggil sa pagtatayo ng Katawan ni Kristo."
+        },
+        {
+            "id": "5-2",
+            "text": "O, gumagawa ng Kanyang tahanan. Ang nananahanang Espiritu ay gumagawa ng Kanyang tahanan sa atin upang maokupa Niya ang ating buong katauhan (cf. Efe. 3:17) para sa Diyos, sinasanhi tayo na maging lubusang para sa ating Asawang Lalake."
+        },
+        {
+            "id": "6-1",
+            "text": "Tumutukoy sa Kasulatan sa b. 5."
+        },
+        {
+            "id": "6-2",
+            "text": "Isang sipi mula sa Septuagint, Kaw. 3:34."
+        },
+        {
+            "id": "6-3",
+            "text": "Ayon sa ibig sabihin ng nilalaman ng mga nauna at nahuling bersikulo, ito ay nangangahulugan na ang magpalalo sa Diyos ay nagsasanhi sa Kanyang pagsalansang sa atin. Ang maging mapagkumbaba sa Diyos ay nagsasanhi sa Kanya na bigyan tayo ng biyaya nang ayon sa Kanyang ninanais."
+        },
+        {
+            "id": "7-1",
+            "text": "Yaon ay, maging mapagpakumbaba sa Diyos (b. 10; 1 Ped. 5:6)."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang maging palalo sa Diyos ay ang kumampi sa kaaway ng Diyos, ang Diyablo; ang maging mapagpakumbaba sa Diyos, yaon ay, mapagpasakop sa Diyos, ay ang kumalaban, yaon ay, ang tumindig laban sa Diyablo. Ito ang pinakamahusay na estratehiya upang labanan ang kaaway ng Diyos; ito ang laging magsasanhi kay Satanas na tumakas mula sa atin."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang ipinahihiwatig na “laman” sa b. 1, na “sanlibutan” sa b. 4, at “Diyablo” rito ay ang tatlong pangunahing kaaway ng mga mananampalataya. Ang mga ito ay may kaugnayan sa isa’t isa: ang laman ay laban sa Espiritu (Gal. 5:17), ang sanlibutan ay laban sa Diyos (1 Juan 2:15), at ang Diyablo ay laban kay Kristo (1 Juan 3:8). Dahil sa pag-ibig sa sanlibutan, ang laman ay nagpapakasasa sa kalayawan, at kinakamkam naman tayo ng sanlibutan para sa Diyablo. Sinasanhi nitong masira ang walang hanggang layunin ng Diyos sa atin."
+        },
+        {
+            "id": "8-1",
+            "text": "Yaon ay, dalawang akala (tingnan ang tala 8-1 sa kap. 1), nagtataglay ng pusong nahahati sa dalawang partido – sa Diyos at sa sanlibutan. Ginagawa nito ang mga tao na mga mangangalunyang-babae (b. 4) at mga makasalanan, na nangangailangang mapadalisay ang mga puso at malinisan ang mga kamay, upang sila ay makalapit sa Diyos at ang Diyos ay makalapit sa kanila."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang bersikulong ito ay isang solemneng pagpapaalala sa mapangalunyang asawa ng Diyos, na nagpapasasa sa makalamang kalayawan dahil sa pag-ibig sa sanlibutan na nasa ilalim ng pangangamkam ng Diyablo."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang salitang ito, bilang konklusyon ng bahaging ito (bb. 1-10), ay isang paghihikayat laban sa mga pakikipagbaka at mga pagnanasa na nabanggit sa bb. 1-3."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang mga salita rito ni Santiago at sa 2:8-11 hinggil sa Lumang Tipang kautusan, at ang kanyang mga salita sa 1:25 at 2:12 hinggil sa sakdal na kautusan ng kalayaan, ay maaaring magpakita na walang pagkakaiba sa pagtupad ng Lumang Tipang kautusan at sa pamumuhay sa pamamagitan ng sakdal na kautusan ng kalayaan, ang panloob na kautusan ng buhay. Subalit ayon sa dibinong pahayag sa buong Bagong Tipan, may isang malinaw at tiyak na pagkakaiba sa dalawa. Ginagawa tayong wasto sa Diyos at sa mga tao ng pagtupad sa Lumang Tipang kautusan upang tayo ay ariing-matuwid ng kautusan. Subalit ang pamumuhay sa pamamagitan ng panloob na kautusan ng buhay (Heb. 8:10-11; Roma 8:2) ay ang ipamuhay at ipadakila si Kristo (Fil. 1:20-21) para sa pagtatayo ng Kanyang Katawan upang maihayag Siya (Efe. 1:22-23) at maitayo ang tahanan ng Diyos upang mabigyan Siya ng kasiyahan (1 Tim. 3:15). Ito ay para sa pagsasakatuparan ng walang hanggang layunin ng Diyos ayon sa Kanyang Bagong Tipang ekonomiya. Kahit na tayo ay maging sakdal sa pagtupad sa Lumang Tipang kautusan, hindi pa rin natin maaabot ang walang hanggang layunin ng Diyos; tangi lamang ang pamumuhay sa pamamagitan ng panloob na kautusan ng buhay ang makaaabot dito. Ang gayong pamumuhay ay kusang-kusa at di-namamalayang tumutupad nang higit kaysa mga hiniling sa ilalim ng Lumang Tipang kautusan (Roma 8:4), aabot maging sa pamantayan ng saligang-batas ng kaharian, katulad ng pagkahayag sa Mateo 5-7."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang pakikipagbaka para sa mga makalamang kalayawan (b. 1), ang pakikipagkaibigan sa sanlibutan (b. 4), ang pagsasalita laban sa isang kapatid, yaon ay, humahatol sa kautusan (b. 11), ang mangalakal ayon sa sariling kapasiyahan, at magmapuri sa loob ng kapalaluan (b. 16) ay pawang mga tanda ng di-makadiyos at pangahas na pagtitiwala ng isang taong nakalilimot sa Diyos. Lahat ng mga ito, malamang, ay itinuro ni Santiago batay sa kanyang pananaw hinggil sa praktikal na pang-Kristiyanong kasakdalan."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang salita ni Santiago rito ay tila may himig ng Lumang Tipan (cf. Awit 90:3-10). Anupaman, ang kanyang salita ay pumupukaw ng isang pagkatakot sa sariling pagpapasiya at isang pagtitiwala sa Diyos, katulad ng naihayag sa bersikulo 15. Ito anupaman ay mga salitang lumalabas sa bibig ng isang taong may takot sa Diyos."
+        },
+        {
+            "id": "16-1",
+            "text": "O, pagkukunwari, labis na kahambugan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang bersikulong ito ay isang pangwakas na salita sa lahat ng mga tagubilin sa mga naunang bersikulo, na nagsasabing kung ang mga nakatanggap ay natulungan ng sulat ni Santiago at ayaw pang gawin nang katulad ng kanyang pagkasulat, ito ay kasalanan sa kanila."
         }
     ]
 }

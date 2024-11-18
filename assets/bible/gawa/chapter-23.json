@@ -1,5 +1,5 @@
 {
-    "chapter": 23,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "Sanedrin,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "ikinilos",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "budhi",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": []
@@ -32,7 +32,7 @@
             "footnotes": [
                 {
                     "word": "sinabi",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -55,15 +55,15 @@
             "footnotes": [
                 {
                     "word": "Saduceo,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "Fariseo,",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "sumigaw",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -92,11 +92,11 @@
             "footnotes": [
                 {
                     "word": "pangulong",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "ipinag-",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -107,19 +107,19 @@
             "footnotes": [
                 {
                     "word": "tumayo",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "taimtim",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "magpatotoo",
-                    "note": ""
+                    "id": "11-3"
                 },
                 {
                     "word": "Roma.",
-                    "note": ""
+                    "id": "11-4"
                 }
             ],
             "outlines": [
@@ -132,7 +132,7 @@
             "footnotes": [
                 {
                     "word": "pakana",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -151,7 +151,7 @@
             "footnotes": [
                 {
                     "word": "Kami",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -162,7 +162,7 @@
             "footnotes": [
                 {
                     "word": "mapasiyahan",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -173,7 +173,7 @@
             "footnotes": [
                 {
                     "word": "narinig",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": [
@@ -223,11 +223,11 @@
             "footnotes": [
                 {
                     "word": "maninibat",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -238,7 +238,7 @@
             "footnotes": [
                 {
                     "word": "Felix",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -285,7 +285,7 @@
             "footnotes": [
                 {
                     "word": "Antipatris.",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -314,10 +314,100 @@
             "footnotes": [
                 {
                     "word": "praetorio",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 5-1 sa kap. 22."
+        },
+        {
+            "id": "1-2",
+            "text": "O, nabuhay ako bilang isang mamamayan."
+        },
+        {
+            "id": "1-3",
+            "text": "Kasunod ng pagkatisod ng tao at ng pagpapalayas sa kanya sa halamanan ng Eden (Gen. 3:23), ninais ng Diyos na ang tao, sa loob ng Kanyang pamamahagi, ay managot sa sarili niyang budhi. Nguni’t ang tao ay nabigong mamuhay at lumakad ayon sa kanyang budhi at lalo pang nalugmok sa kasamaan (Gen. 6:5). Pagkatapos ng paghuhukom ng baha, itinalaga ng Diyos ang tao na mapasailalim ng pantaong pamahalaan (Gen. 9:6). Nabigo rin ang tao rito. Pagkatapos, bago isinakatuparan ang Kanyang pangako kay Abraham tungkol sa pagpapala sa mga bansa sa loob ni Kristo (Gen. 12:3; Gal. 3:8), inilagay ng Diyos ang tao sa ilalim ng pagsubok ng kautusan (Roma 3:20; 5:20). Lubos na nabigo ang tao sa pagsubok na ito. Tinutukoy ng lahat ng mga kabiguang ito na ang tao ay natisod mula sa Diyos patungo sa kanyang budhi, mula sa kanyang budhi patungo sa pantaong pamahalaan, at mula sa pantaong pamahalaan patungo sa walang-kinikilalang-kautusan, yaon ay, ang tao ay natisod na nang lubusan. Kaya, ang ikilos ang sarili “sa harapan ng Diyos sa buong kabutihan ng budhi.” tulad ng ginawa ni Pablo, ay isang matinding pagbabalik sa Diyos mula sa pagkatisod ng tao. Sinabi ni Pablo ang salitang ito upang maipagsanggalang ang kanyang sarili sa harap ng mga umaakusa sa kanya ng pagiging walang-kinikilalang-kautusan at taong walang paggalang sa batas. Sa kanyang pagtatanggol, tinukoy niyang muli ang kanyang budhi sa 24:16. Ipinakikita nito ang kataasan ng pamantayan ng kanyang moralidad laban sa pagkukunwari ng mga relihiyosong Hudyo at sa kabaluktutan ng mga pulitikong Romano (Hentil). Tingnan ang mga tala 12-1 sa kapitulong ito, 2-1 , 24-1 , 26-1 , at 27-3 sa kapitulo 24, at 9-1 at 13-2 sa kapitulo 25."
+        },
+        {
+            "id": "3-1",
+            "text": "Ito ang kaprangkahan at katapangan ni Pablo sa pakikitungo sa mga nagsisipag-usig sa kanya. Tingnan ang tala 1-1 sa kapitulo 22."
+        },
+        {
+            "id": "6-1",
+            "text": "Tingnan ang tala 7-2 sa Mateo 3."
+        },
+        {
+            "id": "6-2",
+            "text": "Tingnan ang tala 7-1 sa Mateo 3."
+        },
+        {
+            "id": "6-3",
+            "text": "Dito ay muling ginamit ni Pablo ang kanyang karunungan upang maiwasan ang pagdurusa sa pag-uusig. Tingnan ang tala 1-1 sa kapitulo 22."
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang tala 31-1 sa kap. 21."
+        },
+        {
+            "id": "10-2",
+            "text": "Ito ang kapangyarihan ng Panginoon upang mailigtas si Pablo mula sa kamay ng mga Hudyo. Iniligtas ng Diyos si Pablo mula sa mahirap na kalagayang kanyang napasukan dahil sa pagtanggap niya ng mungkahi ni Santiago na magkaroon ng bahagi sa rituwal na pang-Nazareo sa pamamagitan ng malaking panggugulo na ginawa ng mga Hudyo sa Herusalem; ngayon sa ilalim ng kataas-kataasang kapangyarihan ng Panginoon at sa pamamagitan ng pangulong kapitan ng mga Romano, iniligtas siya sa mga kamay ng mga magugulong nais pumatay sa kanya; upang maihiwalay siya mula sa lahat ng panganib at pananakit at maihatid sa isang matahimik na kulungan, nang sa gayon maging siya ay nasa Cesarea (24:27) o sa Roma (28:16, 20, 30) ay magkaroon ng matahimik na kapaligiran at panahon upang maisulat ang natanggap niya mula sa Panginoon na mahiwagang pahayag tungkol sa Bagong Tipang ekonomiya ng Diyos. Sa pamamagitan ng mga huling Sulat na kanyang isinulat, ang Bagong Tipang ekonomiya ng Diyos ay napalaya nang detalyado at malinaw sa maraming henerasyon ng ekklesia. Ang mga kapakinabangan na natanggap ng ekklesia sa maraming henerasyon hanggang sa ngayon ay kinakailangan ang buong kawalang-hanggan upang makuwenta ang kahalagahan nito."
+        },
+        {
+            "id": "11-1",
+            "text": "Sa pang-esensiya ang Panginoon ay patuloy na nabubuhay sa loob ni Pablo (Gal. 2:20). Ngayon, upang siya ay mabigyan ng kalakasan at mapalakas ang kanyang loob, sa pang-ekonomiya, ang Panginoon ay tumayo sa kanyang tabi. Ito ay nagpapakita ng katapatan at mahusay na pangangalaga ng Panginoon para sa Kanyang tagapaglingkod."
+        },
+        {
+            "id": "11-2",
+            "text": "Tinutukoy nito na inamin ng Panginoon na ang apostol ay nagdala ng isang taimtim na patotoo tungkol sa Kanya sa Herusalem. Ang patotoo ay naiiba sa basta pagtuturo lamang (tingnan ang tala 40-1 sa kapitulo 2)."
+        },
+        {
+            "id": "11-3",
+            "text": "Ang nais gamitin ng umakyat sa langit na Kristo sa pagsasagawa ng Kanyang makalangit na ministeryo para sa pagpapalaganap ng Kanyang sarili, upang ang kaharian ng Diyos ay maitatag para sa pagtatayo ng mga ekklesia upang maging Kanyang kapuspusan, ay hindi isang pangkat ng mga mangangaral na sinanay sa pamamagitan ng pagtuturo ng tao upang gumawa ng isang gawain ng pangangaral, kundi isang lupon ng Kanyang mga saksi, mga martir, na nagsisipagdala ng isang buháy na patotoo ng nagkatawang-tao, napako sa krus, nabuhay na muli at umakyat sa langit na Kristo (tingnan ang mga tala 8-3 sa kap. 1 at 16-2 sa kap. 26). Si Satanas ay maaaring makapagsulsol sa mga relihiyosong Hudyo at makagamit ng mga pulitikong Hentil upang gapusin ang mga apostol at ang kanilang pang-ebanghelyong ministeryo, nguni’t hindi niya magagapos ang mga buháy na saksi ni Kristo at ang kanilang mga buháy na patotoo. Lalo nilang ginagapos ang mga apostol at ang kanilang pang-ebanghelyong ministeryo, lalong lumalakas at lumiliwanag ang mga martir na ito ni Kristo at gayundin naman ang kanilang mga buháy na patotoo. Tinutukoy ng Panginoon dito sa Kanyang pagpapakita sa apostol na sa ngayon ay hindi Niya siya ililigtas mula sa kanyang mga gapos, kundi hahayaan Niya siyang nakagapos at madala sa Roma, upang siya ay makapagpatotoo para sa Kanya katulad ng kanyang ginawa sa Herusalem. Pinalakas ng Panginoon ang loob ni Pablo na gawin ito."
+        },
+        {
+            "id": "11-4",
+            "text": "Ito ay upang maisakatuparan ang naisin ni Pablo sa 19:21. Tingnan ang tala 24-1 sa kap. 27."
+        },
+        {
+            "id": "12-1",
+            "text": "Ipinakita ng pakana sa mga bersikulo 12-15 ang kasinungalingan at makasatanas na kapootan (Juan 8:44; Mat 23:34) ng mga mapagkunwaring relihiyonista ng Hudaismo. Tingnan ang tala 1-3 ."
+        },
+        {
+            "id": "14-1",
+            "text": "Lit. Naisumpa namin ang aming mga sarili ng isang sumpa. Isang napakalakas na pagpapahayag."
+        },
+        {
+            "id": "15-1",
+            "text": "Yaon ay, pagpapasiya sa pamamagitan ng masinsing pagsisiyasat (tingnan ang 24:22)."
+        },
+        {
+            "id": "16-1",
+            "text": "Ito rin ang kataas-taasang kapangyarihan ng Panginoon upang masagip ang buhay ni Pablo."
+        },
+        {
+            "id": "23-1",
+            "text": "O, mga naninirador, mga bahagyang armadong kawal."
+        },
+        {
+            "id": "23-2",
+            "text": "Yaon ay, ika-9 ng gabi."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang Romanong gobernador ng lalawigan ng Judea."
+        },
+        {
+            "id": "31-1",
+            "text": "Isang lugar na may layong humigit-kumulang sa 59 kilometro mula sa Herusalem at mga 38 kilometro mula sa Cesarea."
+        },
+        {
+            "id": "35-1",
+            "text": "Itinayo ni Herodes na Dakila, ang palasyo ng mga naunang hari. Ito ang opisyal na tirahan ng gobernador ng lalawigang Romano ng Judea. *(Ang Judea ay naging isang lalawigan na lamang ng Emperyo Romano nang panahong yaon.)* Dito ay hindi lubhang mahigpit ang pagbabantay kay Pablo, hindi katulad ng pagbabantay na ginagawa sa isang pangkaraniwang bilangguan."
         }
     ]
 }

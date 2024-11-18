@@ -1,5 +1,5 @@
 {
-    "chapter": 1,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,23 +7,23 @@
             "footnotes": [
                 {
                     "word": "Santiago,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Panginoong",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "labindalawang",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "pangangalat:",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "magalak",
-                    "note": ""
+                    "id": "1-5"
                 }
             ],
             "outlines": [
@@ -37,7 +37,7 @@
             "footnotes": [
                 {
                     "word": "pagsubok,",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": [
@@ -53,7 +53,7 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -64,7 +64,7 @@
             "footnotes": [
                 {
                     "word": "ganap",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -75,19 +75,19 @@
             "footnotes": [
                 {
                     "word": "karunungan",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "humingi",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "5-4"
                 }
             ],
             "outlines": null
@@ -98,11 +98,11 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "nag-",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -119,7 +119,7 @@
             "footnotes": [
                 {
                     "word": "dalawang-",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -130,11 +130,11 @@
             "footnotes": [
                 {
                     "word": "magmapuri",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pagtaas,",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -145,7 +145,7 @@
             "footnotes": [
                 {
                     "word": "pinababa;",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -156,15 +156,15 @@
             "footnotes": [
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "init",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "mayaman",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -175,23 +175,23 @@
             "footnotes": [
                 {
                     "word": "pagsubok",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "naaprubahan",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "putong",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "12-4"
                 },
                 {
                     "word": "nagsisiibig",
-                    "note": ""
+                    "id": "12-5"
                 }
             ],
             "outlines": null
@@ -202,19 +202,19 @@
             "footnotes": [
                 {
                     "word": "tinutukso,",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "nanunukso",
-                    "note": ""
+                    "id": "13-4"
                 }
             ],
             "outlines": [
@@ -227,7 +227,7 @@
             "footnotes": [
                 {
                     "word": "natutukso,",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -238,7 +238,7 @@
             "footnotes": [
                 {
                     "word": "nanganganak",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -255,19 +255,19 @@
             "footnotes": [
                 {
                     "word": "pagbibigay",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "Ama",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "pagpapabago-",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
@@ -278,19 +278,19 @@
             "footnotes": [
                 {
                     "word": "Pagkalayon",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "isinilang",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "18-4"
                 }
             ],
             "outlines": null
@@ -301,11 +301,11 @@
             "footnotes": [
                 {
                     "word": "Nalalaman",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "magmakupad",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": [
@@ -320,7 +320,7 @@
             "footnotes": [
                 {
                     "word": "galit",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -331,11 +331,11 @@
             "footnotes": [
                 {
                     "word": "naitanim,",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "makapagliligtas",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -364,11 +364,11 @@
             "footnotes": [
                 {
                     "word": "nagsisiyasat",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "sakdal",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -379,15 +379,15 @@
             "footnotes": [
                 {
                     "word": "relihiyoso,",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "26-2"
                 },
                 {
                     "word": "relihiyon",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -398,18 +398,220 @@
             "footnotes": [
                 {
                     "word": "ulila",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "sanlibutan.",
-                    "note": ""
+                    "id": "27-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Si Santiago ay isang kapatid sa laman ng Panginoong Hesus (Mat. 13:55) at ni Judas (Jud. 1). Siya ay hindi kabilang sa labindalawang Apostol na hinirang ng Panginoon samantalang Siya ay nasa lupa pa, ngunit siya ay naging isa sa mga apostol pagkatapos ng pagkabuhay na muli ng Panginoon (Gal. 1:19), at ang nangungunang matanda sa ekklesia na nasa Herusalem (Gawa 12:17; 15:2, 13; 21:18), kinikilalang kasama nina Pedro at Juan bilang isang haligi ng ekklesia, at binanggit ni Pablo bilang ang nangunguna sa tatlong haligi (Gal. 2:9)."
+        },
+        {
+            "id": "1-2",
+            "text": "Inihanay ni Santiago ang Panginoong Hesus na kapantay ng Diyos. Ito ay salungat sa Hudaismo, na hindi kumikilala sa pagka-Diyos ng Panginoon (Juan 5:18)."
+        },
+        {
+            "id": "1-3",
+            "text": "Tumutukoy sa mga lipi ni Israel. Tinutukoy nito na ang Sulat na ito ay isinulat para sa mga Kristiyanong Hudyo, na sumasampalataya sa ating maluwalhating Panginoong Hesu-Kristo ng kaluwalhatian (2:1) at inaring-matuwid sa pamamagitan ng pananampalataya (2:24), naisilang na muli sa pamamagitan ng salita ng katotohanan (b.18), at pinananahanan ng Espiritu ng Diyos (4:5), at mga sangkap ng ekklesia (5:14), nagsisihintay sa pagbabalik ng Panginoon (5:7-8). Gayunpaman, ang tawagin itong mga mananampalatayang nasa loob ni Kristo na “labindalawang lipi,” katulad ng sa hinirang na bayan ng Diyos sa Kanyang Lumang Tipang ekonomiya, ay maaari ring magpahiwatig ng kakulangan ng isang malinaw na pananaw ukol sa kaibhan ng mga Kristiyano sa mga Hudyo, sa kaibhan ng Bagong Tipang ekonomiya ng Diyos sa Lumang Tipang pamamahagi, na sa Bagong Tipan ay iniligtas na at inihiwalay na ng Diyos ang mga mananampalatayang Hudyo, na nasa loob ni Kristo, mula sa bansang Hudyo na noon ay itinuturing ng Diyos na “likong henerasyon” (Gawa 2:40). Sa Kanyang Bagong Tipang ekonomiya, hindi na itinuturing ng Diyos ang mga mananampalatayang Hudyo bilang mga Hudyo para sa Hudaismo kundi bilang mga Kristiyano para sa ekklesia. Sila, bilang ang ekklesia ng Diyos, ay kinakailangang maging iba at hiwalay sa mga Hudyo katulad ng kanilang pangangailangan na maging iba at hiwalay sa mga Hentil (1 Cor. 10:32). Ngunit si Santiago, bilang isang haligi ng ekklesia, sa kanyang Sulat sa mga Kristiyanong kapatid ay tinawag pa rin sila na “ang labindalawang lipi.” (Maaaring ito ang dahilan kaya ipinatungkol niya ang salita sa 5:1-6 sa mga mayayaman sa gitna ng mga Hudyo sa pangkalahatan). Ito ay salungat sa Bagong Tipang ekonomiya ng Diyos. Tingnan ang tala 2-1 sa kapitulo 2."
+        },
+        {
+            "id": "1-4",
+            "text": "Tingnan ang tala 1-5 sa 1 Pedro 1. Ang pangangalat na ito ay maaaring kinabibilangan ng mga Hudyong mananampalataya mula sa Herusalem na nangalat dahil sa pag-uusig pagkaraan ng Pentecostes (Gawa 8:1, 4)."
+        },
+        {
+            "id": "1-5",
+            "text": "Tingnan ang tala 10-3 sa 2 Juan."
+        },
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 12-1 ."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang pananampalatayang ibinigay ng Diyos sa mga Kristiyano; ang pagbibigay na ito ay isinagawa ng Diyos sa loob ni Kristo (2 Ped. 1:1; Sant. 2:1)."
+        },
+        {
+            "id": "4-1",
+            "text": "Bagama’t maaaring hindi nagkaroon si Santiago ng isang malinaw na pananaw hinggil sa kaibhan ng biyaya sa kautusan, gayunpaman, tungkol sa ugaling Kristiyano, ang kanyang Sulat ay natatangi at kapansin-pansin; binibigyangdiin nito ang praktikal na pang-Kristiyanong kasakdalan, na ang mga mananampalataya ay kinakailangang maging “ganap at buo, na walang anumang kakulangan.” Maaaring ituring ito bilang ang pangunahing paksa ng kanyang Sulat. Ang gayong kasakdalan sa kagawiang Kristiyano ay nangangailangan ng mga pagsubok ng pampamahalaang pagtutuos ng Diyos (bb. 2, 12) at ng pagtitiis ng mga mananampalataya sa pamamagitan ng kagalingan ng dibinong kapanganakan sa pamamagitan ng pagkasilang-na-muli na isinagawa ng salitang naitanim (bb. 18, 21)."
+        },
+        {
+            "id": "5-1",
+            "text": "Itinakda ng Diyos sa loob ni Kristo ang Kanyang walang hanggang plano sa pamamagitan ng Kanyang karunungan at Kanyang isinagawa ito (1 Cor. 2:7; Efe. 3:9-11; Kaw. 8:12, 22-31). At sa Kanyang Bagong Tipang ekonomiya, ginawa ng Diyos si Kristo, unanguna, bilang ating karunungan (1 Cor. 1:24, 30). Ang karunungan ng Diyos ay kinakailangan para sa praktikal na pang-Kristiyanong kasakdalan. Kaya, kinakailangang hingiin natin ito sa Diyos. Ayon sa nilalaman ng Sulat na ito, bagama’t si Santiago ay tila walang malinaw na pangitain ukol sa Bagong Tipang ekonomiya ng Diyos, taglay niya ang karunungang magsalarawan ng mga bagay hinggil sa praktikal na pang-Kristiyanong pamumuhay."
+        },
+        {
+            "id": "5-2",
+            "text": "Si Santiago ay tinawag na taong mapanalangin. Dito ay inatasan niya ang kanyang mga sinusulatan na manalangin upang magkaroon ng karunungan, ipinahihiwatig na ang kanyang karunungan ay ibinigay ng Diyos sa pamamagitan ng panalangin. Sa Sulat na ito ay binigyan niya ng diin ang panalangin (5:14-18). Ang pananalangin ay isang kagalingan ng praktikal na pang-Kristiyanong kasakdalan."
+        },
+        {
+            "id": "5-3",
+            "text": "O, na may kapayakan, kagandahangloob, walang pag-aatubili (Roma 12:8; 2 Cor. 8:2)."
+        },
+        {
+            "id": "5-4",
+            "text": "Ang taong kuripot ay hindi magbibigay; kung magbigay man siya, gagawin niya ito nang may panunumbat, nang may mga nakasasakit na salita. Ang bukas-palad na Diyos ay hindi katulad ng taong gayon."
+        },
+        {
+            "id": "6-1",
+            "text": "O, nag-uurong-sulong, mga mapag-atubili."
+        },
+        {
+            "id": "8-1",
+            "text": "Ginawa ng Diyos ang tao na isang kaluluwang may isang kaisipan at isang pagpapasiya. Kapag ang isang mananampalataya ay nag-aalinlangan sa panalangin, ginagawa niya ang kanyang sarili na dalawang-kaluluwa, katulad ng isang daong na may dalawang ugit, hindi matatag sa direksiyon. Ang pananampalataya sa pananalangin ay isa ring kagalingan ng praktikal na pang-Kristiyanong kasakdalan."
+        },
+        {
+            "id": "9-1",
+            "text": "O, magmalaki, magalak. Kapag ang isang kapatid na may mababang-kapalaran ay nagmapuri at nagalak sa kanyang pagtaas, kusang-kusa siyang ginagabayan nitong magpuri sa Panginoon (5:13). Hindi siya dapat magmapuri sa isang makasanlibutang paraan ng walang pagpupuri sa Panginoon."
+        },
+        {
+            "id": "9-2",
+            "text": "O, mataas-na-kalagayan."
+        },
+        {
+            "id": "10-1",
+            "text": "Madali para sa isang kapatid na may mababang-kapalaran ang magmapuri, magalak, at magpuri sa Panginoon sa Kanyang pagtaas. Hindi madali para sa isang mayamang kapatid na gawin ito sa kanyang pagbaba. Maging sa pagtaas o pagbaba, ang magalak at magpuri ay isang kagalingan ng praktikal na pang-Kristiyanong kasakdalan."
+        },
+        {
+            "id": "11-1",
+            "text": "Ginamit ni Santiago ang alon ng dagat sa b. 6 upang ilarawan ang nag-aalinlangang puso, at ang bulaklak ng damo sa b. 10 upang ilarawan ang lumilipas na mayamang tao; dito ay kanyang ginamit ang araw sa kalangitan na may nakapapasong init nito upang ilarawan ang lumilipas na salik ng kayamanan ng tao sa ilalim ng pampamahalaang pagtutuos ng Diyos. Maging ang pag-ikot ng mga planeta sa b. 17 ay ginamit niya upang ilarawan ang isang pagpapabago-bago na salungat sa di-pagpapabago-bago ng Diyos Ama. Sa pakikipagtuos sa suliranin ng ating dila sa 3:3-12, gumamit siya ng dalawampung uri ng bagay para sa paglalarawan. Higit pa rito, ginamit niya ang singaw sa 4:14 upang ilarawan ang maikling paglitaw ng ating buhay, at ang matiyagang pagtitiis ng magsasaka sa 5:7 at 8 upang turuan tayo kung papaano ang maghintay sa pagparito ng Panginoon. Siya ay isang matalino at may karanasang tao, hindi lamang may karanasan ng pantaong buhay bagkus may karunungan mula sa dibinong pinagmulan sa pamamagitan ng paghahanap sa pamamagitan ng pananalangin (b. 5; 3:13, 15, 17). Ngunit dahil sa nakiramay siya at pinagbibigyan niya ang Hudaismo, tila nabigo siya sa kanyang lubusang pagkakita sa pangitain ng karunungan hinggil sa Bagong Tipang ekonomiya ng Diyos, hindi gaya ng pagkakita at pagkahayag ni Pablo sa kanyang mga Sulat. Tingnan ang mga tala 12-1 at 17-1 sa kapitulo 3."
+        },
+        {
+            "id": "11-2",
+            "text": "Paghihip ng mainit na hangin."
+        },
+        {
+            "id": "11-3",
+            "text": "Anong isang nagpapahinahon sa kaisipan na salita para sa mga yaong naghahabol sa kayamanan! Subalit ito ay isang nag-aaliw na salita sa mga mayayaman na napababa dahil sa pagkawala ng kanilang kayamanan."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang bb. 2-12 ay tumatalakay sa mga pagsubok (tingnan ang tala 13-1 ). Ang mga pagsubok ay nanggagaling sa kapaligiran ng mga mananampalataya upang subukin ang kanilang pananampalataya (bb. 2-3) sa pamamagitan ng pagdurusa (bb. 9-11). Dapat batahin ng mga mananampalataya ang mga pagsubok nang may buong kagalakan (b. 2) dahil sa kanilang pag-ibig sa Panginoon upang sila ay makatanggap ng pagpapala ng putong ng buhay."
+        },
+        {
+            "id": "12-2",
+            "text": "Yaon ay, ang pag-aapruba sa pananampalataya ng mga mananampalataya (b. 3)."
+        },
+        {
+            "id": "12-3",
+            "text": "Tumutukoy sa kaluwalhatian ng buhay, sa kahayagan ng buhay. Ang mga mananampalataya ay nagbabata ng mga pagsubok sa pamamagitan ng buhay ng Diyos, at ito ay magiging kanilang kaluwalhatian, kanilang kahayagan, ang putong ng buhay, bilang isang gantimpala sa kanila sa pagpapakita ng Panginoon para sa kanilang katamasahan sa darating na kaharian (2:5)."
+        },
+        {
+            "id": "12-4",
+            "text": "Tinutukoy nito na ang sinasaligang kaisipan sa bb. 12-27 ay ang mahigpit na pangangailangan sa buhay ng Diyos. Ang nanganganak na Ama at ang Kanyang panganganak sa atin, ang Kanyang paggawa sa atin bilang unang bunga sa Kanyang mga nilalang (bb. 17-18, 27), ang naitanim na salita ng buhay (b. 21), at ang sakdal na kautusan ng buhay (b. 25) ay pawang mga katibayan nito."
+        },
+        {
+            "id": "12-5",
+            "text": "Ang sumampalataya sa Panginoon ay ang tumanggap ng buhay ng Diyos para sa ating kaligtasan; ang umibig sa Panginoon ay ang lumago sa buhay ng Diyos para sa paggulang, upang tayo ay mapaging-dapat para sa isang gantimpala – ang putong ng buhay – ang tamasahin ang kaluwalhatian ng buhay ng Diyos sa kaharian."
+        },
+        {
+            "id": "13-1",
+            "text": "O, sinusubukan, pinupurbahan. Ang salitang Griyego para sa mga pagsubok o pagsubok sa mga bersikulo 2 at 12 ay peirasmos , at para sa tinutukso rito ay peirazo . Ang dalawang salita ay magkalapit na magkalapit sa kahulugan, kapwa nangangahulugang subukin, purbahan, patunayan. Ang subukin, purbahan, patunayan, sa pamamagitan ng panlabas na pangkapaligirang pagdurusa ay isang pagsubok (b. 2). Ang subukin, purbahan, patunayan, sa pamamagitan ng panloob na mapitang pagrarahuyo ay isang pagtukso (b. 14). Ang pagsubok ay tinalakay sa bb. 2-12; ang pagtukso ay tinalakay sa bb. 13-21. Para sa pagsubok, dapat nating batahin ito sa pamamagitan ng pag- ibig sa Panginoon upang matamo ang pagpapala – ang putong ng buhay. Para sa pagtukso, dapat nating labanan ito sa pamamagitan ng pagtanggap sa naitanim na salita upang matamo ang kaligtasan – ang kaligtasan ng ating mga kaluluwa (b. 21)."
+        },
+        {
+            "id": "13-2",
+            "text": "Lit. mula sa."
+        },
+        {
+            "id": "13-3",
+            "text": "Gr. apeirastos , di-masusubukan, kaya hindi matukso-tukso, hindi matutukso, hindi kayang tuksuhin."
+        },
+        {
+            "id": "13-4",
+            "text": "Gr. peirazo . Ang Diyablo, hindi ang Diyos, ang siyang manunukso (Gr. peirazo – Mat. 4:3; I Tes. 3:5)."
+        },
+        {
+            "id": "14-1",
+            "text": "Gr. peirazo ."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang manunukso, ang Diyablo, ay ang nanganganak na ama ng kasalanan (1 Juan 3:8, 10), na may kapangyarihan ng kamatayan (Heb. 2:14) sa pamamagitan ng kasalanan (1 Cor. 15:56). Kanyang itinurok ang kasalanan kay Adam. Sa pamamagitan nito, ang kamatayan ay naililipat sa lahat ng mga tao (Roma 5:12)."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang pagbibigay ay tumutukoy sa gawa ng pagbibigay; ang kaloob ay tumutukoy sa bagay na ibinigay."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang mga ilaw rito ay tumutukoy sa mga makalangit na luminaryo. Ang Ama ay ang Manlilikha, ang pinagmulan, ng mga nagniningning na luminaryong ito. Sa Kanya ay walang anino ng pagpipihit katulad ng mga makalangit na luminaryo; hindi katulad ng buwang ibinabaling sa atin ang madilim na panig nito o ng araw na nai-eklipse ng buwan, sapagka’t Siya ay hindi pabagu-bago. Bilang gayon, Siya ay hindi kayang matukso ng masama at Siya ay hindi nanunukso sa kaninuman."
+        },
+        {
+            "id": "17-3",
+            "text": "O, pag-iiba-iba."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang paglalayong ito ay ayon sa Sariling kalooban ng Diyos, sa pamamagitan ng Kanyang layon, upang isagawa ang Kanyang layunin sa pagsilang sa atin nang sa gayon tayo ay maging unang bunga sa Kanyang mga nilalang."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang kasalanan, ang pinagmulan ng kadiliman, ay nagbubunga ng kamatayan (b. 15). Subalit isinilang tayo ng Ama ng mga ilaw upang maging unang bunga sa Kanyang mga nilalang, punung-puno ng masiglang buhay na nagpapagulang agad. Ito ay tumutukoy sa dibinong kapanganakan, ang ating pagkasilang na muli (Juan 3:5, 6), na isinagawa ayon sa walang hanggang layunin ng Diyos."
+        },
+        {
+            "id": "18-3",
+            "text": "Ang salita ng dibinong realidad na kung ano ang Tres-unong Diyos (Juan 1:14, 17); ang salitang ito ay siyang binhi ng buhay, sa pamamagitan nito tayo ay naisilang na muli (1 Ped. 1:23)."
+        },
+        {
+            "id": "18-4",
+            "text": "Babaguhin ng Diyos ang Kanyang buong nilikha upang magkaroon ng isang bagong langit at bagong lupa na may Bagong Herusalem bilang sentro (Apoc. 21:1-2). Tayo ay Kanya munang isinilan na muli upang maging unang bunga sa Kanyang bagong nilikha sa pamamagitan ng pamamahagi ng Kanyang dibinong buhay tungo sa loob ng ating katauhan sa pamamagitan ng naitanim na salita ng buhay, nang sa gayon tayo ay makapamuhay ng isang buhay ng kasakdalan. Ito ang nararapat na maging binhi ng praktikal na pang-Kristiyanong kasakdalan. Ang buhay na ito ay mapalulubos sa Bagong Herusalem bilang ang buháy na sentro ng walang hanggang bagong sansinukob ng Diyos."
+        },
+        {
+            "id": "19-1",
+            "text": "O, Dapat malaman ninyo ito."
+        },
+        {
+            "id": "19-2",
+            "text": "Tinutukso tayong magsalita ng ating pakikinig at ang pagsasalita ay ang apoy na nagpapaalab ng galit (cf. 3:6). Kung pipigilin natin ang ating pagsasalita (cf. b. 26), ating papawiin ang ating galit. Ang salita ni Santiago rito para sa pagpapatibay ng kanyang pananaw ukol sa praktikal na pang-Kristiyanong kasakdalan ay nakakahawig sa tono ng mga Lumang Tipang kawikaan (Kaw. 10:19; 14:17)."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang katuwiran ng Diyos ay hindi nangangailangan ng tulong ng galit ng tao; ang pantaong galit ay walang kuwenta sa pagsasagawa ng katuwiran ng Diyos."
+        },
+        {
+            "id": "21-1",
+            "text": "Inihahalintulad nito ang salita ng Diyos sa isang halaman na may buhay na itinanim sa ating katauhan at lumalago sa atin upang magbunga para sa kaligtasan ng ating mga kaluluwa. Dapat nating tanggapin ang salita ng Diyos sa loob ng kaamuan, sa loob ng buong pagpapasakop, nang walang anumang pagtutol."
+        },
+        {
+            "id": "21-2",
+            "text": "Ang kaligtasan ng ating mga kaluluwa, ayon sa nilalaman ng kapitulong ito, ay nagpapahiwatig ng pagbabata sa mga pangkapaligirang pagsubok (bb. 2-12) at ang paglaban sa mapitang tukso (bb. 13-21). Ang pananaw ni Santiago hinggil sa kaligtasan ng ating mga kaluluwa ay may pagkanegatibo at hindi gaanong positibo katulad ng kay Pablo na nagsasabi na ang ating kaluluwa ay maaaring matransporma sa pamamagitan ng nagpapabagong Espiritu maging hanggang sa larawan ng Panginoon mula sa kaluwalhatian hanggang sa kaluwalhatian (Roma 12:2; Efe. 4:23; 2 Cor. 3:18). Tingnan ang mga tala 5-5 sa 1 Pedro 1 at 39-3 sa Hebreo 10."
+        },
+        {
+            "id": "25-1",
+            "text": "Katulad ng salita sa 1 Ped. 1:12 na isinaling “mamasdan.”"
+        },
+        {
+            "id": "25-2",
+            "text": "Ang sakdal na kautusan, ang kautusan ng kalayaan, ay hindi ang kautusan ng mga titik na isinulat sa mga tapyas ng bato na nasa ating labas, kundi ang kautusan ng buhay na isinulat sa ating mga puso (Heb. 8:10), ang moral na pamantayan na siyang tumutugma sa saligang-batas ng kaharian na itinakda ng Panginoon sa bundok (Mat. 5-7). Yamang ang kautusan ng mga titik ay hindi makapagbibigay ng buhay sa tao (Gal. 3:21), kundi makapaghahantad lamang ng kahinaan at ng kabiguan ng tao at pinananatili siya sa pagkaalipin (Gal. 5:1 at tala 4), ito ay isang kautusan ng pagkatali. Yamang ang sakdal na kautusan ng buhay ay ang pagkilos ng dibinong buhay na siyang ipinamahagi tungo sa loob ng at ing katauhan sa panahon ng pagkasilang na muli, at nagtutustos sa atin sa loob ng ating buong buhay-Kristiyano ng di-masayod na mga kayamanan ng dibinong buhay upang palayain tayo mula sa kautusan ng kasalanan at kamatayan, at tumutupad sa lahat ng makatuwirang kautusan ng mga titik (Roma 8:2, 4), ito sa gayon ay ang kautusan ng kalayaan. Ito ay ang kautusan ni Kristo (1 Cor. 9:21), maging si Kristo Mismo, namumuhay sa loob natin upang pamahalaan tayo sa pamamagitan ng pamamahagi ng dibinong kalikasan tungo sa loob ng ating katauhan, nang sa gayon ay makapamuhay tayo ng isang buhay na naghahayag ng larawan ng Diyos. Maaaring itinuring ni Santiago ang kautusang ito na batayan ng pang-Kristiyanong buhay para sa praktikal na pang-Kristiyanong kasakdalan."
+        },
+        {
+            "id": "26-1",
+            "text": "Gr. threskos , pang-uri, para sa relihiyoso; threskeia , pangngalan, para sa relihiyon, nangangahulugang panseremonyang paglilingkod at pagsamba sa Diyos (nagpapahiwatig ng pagkatakot sa Diyos). Dito lamang ginamit ang pang-uri. Ang pangngalan ay ginamit dito at sa b. 27 sa isang positibong pakahulugan, sa Col. 2:18 (para sa pagsamba) naman ay ginamit sa isang negatibong pakahulugan, at sa Gawa 26:5 sa isang pangkalahatang pakahulugan. Ang pagsusulat ni Santiago hinggil sa Bagong Tipang ekonomiya ng Diyos ay hindi kasing kapansin-pansin ng kay Pablo, kay Pedro, at kay Juan. Si Pablo ay nagsesentro kay Kristo na nabubuhay at nahuhubog sa atin (Gal. 2:20; 4:19) at si Kristo na pinadakila sa loob natin at ipinamuhay natin (Fil. 1:20-21), upang tayo bilang ang ekklesia, ang Kanyang Katawan, ay maging Kanyang kapuspusan, Kanyang kahayagan (Efe. 1:22-23). Si Pedro ay nagbibigay-diin sa katunayan na tayo ay isinilang na muli ng Diyos sa pamamagitan ng pagkabuhay na muli ni Kristo (1 Ped. 1:3), ginagawa tayong mga kabahagi sa Kanyang dibinong kalikasan upang tayo ay makapamuhay ng isang buhay ng pagkamakadiyos (2 Ped. 1:3-7) at maitayo na isang espirituwal na tahanan upang ihayag ang Kanyang mga kagalingan (1 Ped. 2:5, 9). Si Juan ay nagbibigay-diin sa walang hanggang buhay na ibinigay sa atin para sa ating pakikipagsalamuha sa Tres-unong Diyos (1 Juan 1:2-3), at sa dibinong kapanganakan na nagdadala sa atin ng dibinong buhay bilang ang dibinong binhi upang maipamuhay natin ang isang pamumuhay na katulad ng sa Diyos (1 Juan 2:29; 3:9; 4:17) at maging ang ekklesia, bilang isang patungan-ng-ilawan, nagpapatotoo kay Hesus (Apoc. 1:9, 11-12), na mapalulubos sa Bagong Herusalem upang ihayag ang Diyos hanggang sa kawalang-hanggan (Apoc. 21:2-3, 10-11). Samantala, ang binibigyang-diin ni Santiago na may katangiang tila pambagong tipan ay ang tungkol lamang sa pagsilang ng Diyos sa atin (b. 18), ang sakdal na kautusan ng kalayaan (b. 25), ang nananahanang Espiritu (4:5), at ang kakaunting pagbanggit tungkol sa ekklesia (5:14), na hindi nagsasalita tungkol kay Kristo bilang ating buhay at sa ekklesia bilang ang kahayagan ni Kristo na siyang dalawang pinakatampok at mga pampanahunang katangian ng Bagong Tipan. Ayon sa kanyang Sulat, si Santiago ay tiyak na napakarelihiyoso. Malamang dahil dito at sa kanyang praktikal na pang-Kristiyanong kasakdalan kaya siya kinilala kasama nina Pedro at Juan bilang haligi, maging ang nangungunang isa sa ekklesia sa Herusalem (Gal. 2:9). Gayunpaman, hindi siya malakas sa pahayag ng Bagong Tipang ekonomiya ng Diyos tungkol kay Kristo, kundi nananatili pa rin sa impluwensiya ng pumapaligid-na-pangyayari ng lumang maka-Hudaismong relihiyon – ang sambahin ang Diyos sa pamamagitan ng mga seremonya at ipamuhay ang isang buhay sa loob ng pagkatakot sa Diyos. Ito ay napatunayan sa pamamagitan ng mga salita sa Gawa 21:20-24 at sa Sulat na ito, sa 2:2-11. Ang kanyang pang-espiritwal na paningin ay natatabingan ng Hudaismo kaya hindi siya nakapasok nang lubusan sa pahayag ng Bagong Tipang ekonomiya ng Diyos tulad nang pagkapasok nina Pablo, Pedro, at Juan."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang hindi pigilan ang dila ay ang maging mabilis sa pagsasalita (cf. b. 19) at ang maging pabaya na walang pagpipigil sa pananalita. Palagi nitong dinadaya ang sariling puso ng nagsasalita, dinadaya ang kanyang budhi – ang kamalayan ng kanyang puso."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang salitang ito ni Santiago, para sa pagpapatibay ng kanyang pananaw ukol sa praktikal na pang-Kristiyanong kasakdalan, ay nagpapahiwatig ng isang elemento ng mga pag-aatas sa Lumang Tipan (Deut. 14:29; 24:19-21, 12-13)."
+        },
+        {
+            "id": "27-2",
+            "text": "Yaon ay, ang hindi maging makasanl ibutan, ang hindi mamantsahan ng pagkamakasanlibutan. Ito ay isang bahagi rin ng may pagkatakot-sa-Diyos na pananaw ni Santiago ukol sa praktikal na pang-Kristiyanong kasakdalan. Ang dalawin ang mga ulila at mga babaeng balo ay ang kumi los ayon sa mapagmahal na puso ng Diyos; ito ay isang katangian ng kasakdalan ng mga Kristiyano sa positibong aspekto, at ang pag-ingatang walang dungis ang sarili mula sa sanlibutan ay ang maihiwalay mula sa sanlibutan nang ayon sa banal na kalikasan ng Diyos; ito naman ay isang katangian ng kasakdalan ng mga Kristiyano sa negatibong aspekto."
+        },
+        {
+            "id": "27-3",
+            "text": "Tingnan ang tala 4-3 sa kapitulo 4."
         }
     ]
 }

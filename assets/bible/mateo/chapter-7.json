@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "humatol,",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -26,7 +26,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -37,7 +37,7 @@
             "footnotes": [
                 {
                     "word": "pinapansin",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -54,11 +54,11 @@
             "footnotes": [
                 {
                     "word": "Mapagkunwari,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "makakakita",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -69,19 +69,19 @@
             "footnotes": [
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "perlas",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "baboy,",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -92,7 +92,7 @@
             "footnotes": [
                 {
                     "word": "Humingi",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -103,15 +103,15 @@
             "footnotes": [
                 {
                     "word": "humihingi",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "naghahanap",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "kumakatok",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -134,11 +134,11 @@
             "footnotes": [
                 {
                     "word": "gaano",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "mabubuting",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -149,7 +149,7 @@
             "footnotes": [
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -160,15 +160,15 @@
             "footnotes": [
                 {
                     "word": "Pumasok",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "humahantong",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "kapahamakan,",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": [
@@ -183,11 +183,11 @@
             "footnotes": [
                 {
                     "word": "makitid",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "buhay,",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -198,7 +198,7 @@
             "footnotes": [
                 {
                     "word": "dayukdok.",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -239,7 +239,7 @@
             "footnotes": [
                 {
                     "word": "papasok",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -250,7 +250,7 @@
             "footnotes": [
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -261,7 +261,7 @@
             "footnotes": [
                 {
                     "word": "nakilala;",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -272,7 +272,7 @@
             "footnotes": [
                 {
                     "word": "bato.",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -283,11 +283,11 @@
             "footnotes": [
                 {
                     "word": "umulan,",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -298,7 +298,7 @@
             "footnotes": [
                 {
                     "word": "buhanginan.",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -309,7 +309,7 @@
             "footnotes": [
                 {
                     "word": "bumagsak,",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -326,10 +326,132 @@
             "footnotes": [
                 {
                     "word": "awtoridad,",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang ikaanim na bahagi ng pagtatalaga ng saligang-batas na ginawa ng bagong Hari sa bundok sa bb. 1-12, ay hinggil sa mga prinsipyo ng mga tao ng kaharian sa kanilang pakikitungo sa iba."
+        },
+        {
+            "id": "1-2",
+            "text": "O, pumula. Ang palaging hinahatulan (pinupulaan) ng mga tao ng kaharian, na namumuhay sa isang mapagpakumbabang espiritu sa ilalim ng makalangit na paghahari ng kaharian, ay ang kanilang mga sarili, hindi ang iba."
+        },
+        {
+            "id": "2-1",
+            "text": "Sa ilalim ng makalangit na paghahari ng kaharian, ang mga tao ng kaharian ay hahatulan sa kung ano ang kanilang inihahatol. Kung kanilang hinahatulan ang iba ng katuwiran, sila ay hahatulan ng Panginoon ng katuwiran; kung kanilang hinahatulan ang iba ng awa, sila ay hahatulan ng Panginoon ng awa. Ang awa ay nagmamalaki laban sa kahatulan (Sant. 2:13)."
+        },
+        {
+            "id": "3-1",
+            "text": "Bilang mga tao ng kaharian, na namumuhay sa isang mapagpakumbabang espiritu sa ilalim ng makalangit na paghahari ng kaharian, kinakailangan nating “pansinin ang troso” na nasa ating sariling mata sa tuwinang tayo ay “tumitingin sa puwing” na nasa mata ng ating kapatid. Ang puwing na nasa mata ng ating kapatid ay dapat na makapagpaalala sa atin sa troso na nasa ating sariling mata."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 2-3 sa kap. 6."
+        },
+        {
+            "id": "5-2",
+            "text": "Hangga’t ang troso ay nananatili sa ating mata, ang ating paningin ay malabo at tayo ay hindi “makakikita nang malinaw.”"
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “yaong banal” ay tiyak na tumutukoy sa obhektibong katotohanan na pag-aari ng Diyos; ang “inyong mga perlas” ay tiyak na tumutukoy sa mga subhektibong karanasan na nasa atin."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang mga aso ay walang matitigas na keratin na bumabalot sa mga paa nito ni hindi ngumunguya at ang mga baboy ay may mga paang hati subalit hindi ngumunguya. Kaya, sila ay parehong marumi (Lev. 11:27, 7). “Ang mga aso” at “ang mga baboy” rito ay tumutukoy sa mga taong relihiyoso, subalit hindi malinis, ayon sa inihayag sa 2 Ped. 2:12, 19-22 at Fil. 3:2."
+        },
+        {
+            "id": "7-1",
+            "text": "Unang-una ay “humingi,” pagkatapos ay “maghanap,” at sa kahuli-hulihan ay “kumatok.” Ang humingi ay ang manalangin sa pangkalahatang paraan, ang maghanap ay ang manalangin para sa natatanging bagay, at ang kumatok ay ang pinakamalapit, pinakataimtim na paghiling."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang bahaging ito ng pangako ng Hari sa bersikulong ito ay umaangkop sa panalangin ng mga tao ng kaharian hinggil sa kanilang pagtupad sa bagong kautusan ng kaharian. Sila ay humihingi nito at makatatanggap nito."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang bahaging ito ng pangako ng Hari ay umaangkop sa 6:33. Hinahanap ng mga tao ng kaharian ang kaharian ng Ama at ang Kanyang katuwiran at masusumpungan nila ang mga ito."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang bahaging ito ng pangako ng Hari ay umaangkop sa b. 14. Ang makitid na pintuan ay bubuksan sa mga tao ng kaharian bilang resulta ng kanilang pagkatok."
+        },
+        {
+            "id": "11-1",
+            "text": "Ito ay isang dakilang pangako, nagpapatunay na ang mga tao ng kaharian ay nasa ilalim ng pangangalaga at pagtutustos ng kanilang “Ama na nasa mga kalangitan.” Sa gayon, kaya nilang tuparin ang bagong kautusan ng kaharian at mamuhay sa realidad nito nang sa gayon ay makapasok sila sa pagpapakita nito."
+        },
+        {
+            "id": "11-2",
+            "text": "Sa katulad na bersikulo, Luc. 11:13, ito ay ang “Espiritu Santo” sa halip na “mabubuting bagay,” sapagkat ang binibigyang-diin ni Lucas ay ang pagpapala ng ebanghelyo, ang sentro nito ay ang Espiritu (Gal. 3:8, 14). Yayamang ang binibigyang-diin ng Mateo ay ang kaharian ng mga kalangitan, ang “mabubuting bagay” ay tiyak na tumutukoy sa mga pagpapala ng realidad ng kaharian katulad ng inihayag sa mga kapitulo 5-7 na ginagawang aginaldong hinahandog sa mga tao ng kaharian."
+        },
+        {
+            "id": "12-1",
+            "text": "Hindi sinasalungat ng bagong kautusan ang “kautusan at ang mga propeta”; bagkus tinutupad at hinuhusto pa ang mga ito."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang ikapitong bahagi, ang huli sa mga pagtatalaga ng saligang-batas ng kaharian na ginawa ng Hari sa bb. 13-29, ay hinggil sa batayan ng pamumuhay at gawain ng mga tao ng kaharian."
+        },
+        {
+            "id": "13-2",
+            "text": "Gr. nagbubunsod sa."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang “kapahamakan” dito ay hindi tumutukoy sa kapahamakan ng tao, kundi sa kapahamakan ng kanyang mga ginawa at gawain (1 Cor. 3:15)."
+        },
+        {
+            "id": "14-1",
+            "text": "“Makitid ang pintuan at makipot ang daan” sapagkat ang bagong kautusan ng kaharian ay mas mahigpit at ang pautos-na-hiling ng kaharian ay mas mataas kaysa roon sa lumang kasunduan. Ito ay tumutuos hindi lamang sa panlabas na pagkilos, bagkus maging sa panloob na motibo. Ang lumang tao, ang sarili, ang laman, ang pantaong kaisipan, at ang sanlibutan kasama ang kaluwalhatian nito ay pawang hindi kasali; tangi lamang yaong tumutugon sa kalooban ng Diyos ang maaaring makapasok. Ang mga tao ng kaharian ay kinakailangang unang-unang pumasok sa gayong kakitid na pintuan at pagkatapos ay lumakad sa gayong kakipot na daan. Ito ay hindi paglakad muna sa daan at pagkatapos ay pagpasok sa pintuan. Ang pumasok sa pintuan ay ang pasimulan lamang ang paglakad sa daan, isang daan na panghabambuhay."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang “buhay” rito ay tumutukoy sa palagiang pinagpalang kondisyon ng kaharian, na napupuspusan ng buhay na walang-hanggan ng Diyos. Ang buhay na ito ay nasa realidad ng kaharian sa ngayon at magiging nasa pagpapakita ng kaharian sa darating na kapanahunan (19:29; Luc. 18:30)."
+        },
+        {
+            "id": "15-1",
+            "text": "Gr. sobrang mangikil."
+        },
+        {
+            "id": "21-1",
+            "text": "Upang “makapasok sa kaharian ng mga kalangitan,” kailangan nating gawin ang dalawang bagay: tumawag sa Panginoon, at gawin ang kalooban ng makalangit na Ama. Ang tumawag sa Panginoon ay sapat na para sa atin upang maligtas (Roma 10:13), subalit upang makapasok sa kaharian ng mga kalangitan, kailangan din nating gawin ang kalooban ng makalangit na Ama. Kaya nga, “hindi lahat ng nagsasabi ng… Panginoon, Panginoon, ay makapapasok sa kaharian ng mga kalangitan,” kundi yaong tumatawag sa Panginoon at ginagawa ang kalooban ng makalangit na Ama. Yayamang ang pagpasok sa kaharian ng mga kalangitan ay humihiling din ng paggawa ng kalooban ng makalangit na Ama, ito ay malinaw na naiiba mula sa pagpasok sa kaharian ng Diyos sa pamamagitan ng pagiging naisilang-na-muli (Juan 3:3, 5). Itong huli ay sa pamamagitan ng pagsilang ng dibinong buhay; ang nauna ay sa pamamagitan ng pamumuhay ng buhay na yaon."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang “araw na yaon” ay tumutukoy sa araw ng luklukan ng paghahatol ni Kristo (1 Cor. 3:13; 4:5; 2 Cor. 5:10)."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang “nakilala” rito ay nangangahulugang inaprobahan. Ang parehong salita sa Roma 7:15 ay isinaling “pinapayagan.” Kailanman ay hindi inaprobahan ng Panginoon yaong nagpropesiya, nagpalayas ng mga demonyo, at gumawa ng maraming gawa ng kapangyarihan sa Kanyang pangalan (b. 22), subalit hindi ayon sa kalooban ng makalangit na Ama (b. 21). Hindi itinatwa ng Panginoon na ginawa nila ang mga bagay na yaon. Subalit Kanyang itinuturing ang mga bagay na yaon bilang “katiwalian” sapagkat ang mga ito ay hindi ginawa ayon sa kalooban ng makalangit na Ama; ang mga ito ay hindi ginawa sa linya ng dibinong kalooban. Kaya, sila na gumagawa ng mga bagay na yaon, kahit na sa pangalan pa ng Panginoon, ay hindi makapapasok sa kaharian ng mga kalangitan, kundi “magsisilayo mula” sa Panginoon, yaon ay, hindi makasasali sa pagpapakita ng kaharian sa darating na kapanahunan."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang “bato” ay hindi tumutukoy kay Kristo, kundi sa salitang may karunungan ni Kristo, ang salitang naghahayag ng kalooban ng Kanyang Ama na nasa mga kalangitan. Ang pamumuhay at gawain ng mga tao ng kaharian ay kinakailangang maitatag sa salita ng bagong Hari para sa pagsasagawa ng kalooban ng makalangit na Ama. Ito ay ang pumasok sa makitid na pintuan at lumakad sa makipot na daan na humahantong sa buhay."
+        },
+        {
+            "id": "25-1",
+            "text": "“Ang ulan” ay sa Diyos, bumababa mula sa mga kalangitan; “ang mga ilog” ay sa tao, nagmumula sa lupa; at “ang hangin” ay kay Satanas, humihihip mula sa himpapawid. Susubukin ng lahat ng ito ang pamumuhay at gawain ng mga tao ng kaharian."
+        },
+        {
+            "id": "25-2",
+            "text": "Ang bahay na itinayo sa ibabaw ng bato na hindi bumagsak ay katulad ng gawain ng pagtatayo ng ginto, pilak, at mahahalagang bato na makatatagal sa nagsusubok na apoy (1 Cor. 3:12-13)."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang “buhanginan” dito ay tumutukoy sa mga pantaong kaisipan at mga likas na pamamaraan. Kung tayo ay nabubuhay at gumagawa ayon sa ating mga pantaong kaisipan at mga likas na pamamaraan, ang ating pamumuhay at gawain ay maitatayo sa lumulubog na buhanginan. Ito ay ang pumasok sa malapad na pintuan at lumakad sa maluwang na daan na humahantong sa kapahamakan."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang bahay na itinayo sa buhanginan na bumabagsak ay katulad ng gawain ng pagtatayo ng kahoy, dayami, at pinaggapasan, na tutupukin ng sumusubok na apoy. Gayon pa man, ang nagtatayo mismo ay maliligtas (1 Cor. 3:12-15)."
+        },
+        {
+            "id": "29-1",
+            "text": "Si Kristo, bilang ang bagong Hari ng kaharian ng mga kalangitan, ay nagsalita nang may “awtoridad” sa pagtatalaga ng bagong kautusan ng kaharian."
         }
     ]
 }

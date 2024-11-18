@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "bumaba",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -23,11 +23,11 @@
             "footnotes": [
                 {
                     "word": "ketongin",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "sumamba",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -38,7 +38,7 @@
             "footnotes": [
                 {
                     "word": "humipo",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -49,7 +49,7 @@
             "footnotes": [
                 {
                     "word": "magpakita",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -60,7 +60,7 @@
             "footnotes": [
                 {
                     "word": "senturyon",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -89,7 +89,7 @@
             "footnotes": [
                 {
                     "word": "awtoridad,",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -100,7 +100,7 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -111,11 +111,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -126,15 +126,15 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "kadiliman",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "pagtangis",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -151,7 +151,7 @@
             "footnotes": [
                 {
                     "word": "biyenang",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -168,11 +168,11 @@
             "footnotes": [
                 {
                     "word": "maraming",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -183,7 +183,7 @@
             "footnotes": [
                 {
                     "word": "Mismo",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -194,7 +194,7 @@
             "footnotes": [
                 {
                     "word": "lumayo",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": [
@@ -208,11 +208,11 @@
             "footnotes": [
                 {
                     "word": "susunod",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "pumaroon.",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -223,11 +223,11 @@
             "footnotes": [
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -238,7 +238,7 @@
             "footnotes": [
                 {
                     "word": "makaalis",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -249,11 +249,11 @@
             "footnotes": [
                 {
                     "word": "patay",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "patay.",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -275,7 +275,7 @@
             "footnotes": [
                 {
                     "word": "bagyo",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -292,15 +292,15 @@
             "footnotes": [
                 {
                     "word": "pananampalataya?",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "sinaway",
-                    "note": ""
+                    "id": "26-2"
                 },
                 {
                     "word": "malaking",
-                    "note": ""
+                    "id": "26-3"
                 }
             ],
             "outlines": null
@@ -311,7 +311,7 @@
             "footnotes": [
                 {
                     "word": "tumatalima",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -331,15 +331,15 @@
             "footnotes": [
                 {
                     "word": "Anong",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "bago",
-                    "note": ""
+                    "id": "29-3"
                 }
             ],
             "outlines": null
@@ -356,7 +356,7 @@
             "footnotes": [
                 {
                     "word": "nagsumamo",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -367,11 +367,11 @@
             "footnotes": [
                 {
                     "word": "Humayo",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "sumugod",
-                    "note": ""
+                    "id": "32-2"
                 }
             ],
             "outlines": null
@@ -388,10 +388,152 @@
             "footnotes": [
                 {
                     "word": "lumayo",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Pagkatapos na maibigay ang pagtatalaga ng bagong kautusan ng kaharian, ang bagong Hari ay bumaba mula sa bundok upang ipagpatuloy ang Kanyang makaharing ministeryo. Ang unang bagay na Kanyang ginawa ay ang linisin ang marurumi, ang pagalingin ang mga may karamdaman, at ang palayasin ang mga demonyo sa mga inaalihan upang sila ay maging mga tao ng kaharian ng mga kalangitan (bb. 2-17)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang unang uri ng mga tao na iniligtas ng makaharing Tagapagligtas upang maging mga tao ng kaharian ay kinatawan ng “isang ketongin.” Ayon sa mga pang-kasulatang halimbawa, ang ketong ay nagmumula sa paghihimagsik at pagsuway. Si Miriam ay naging ketongin dahil sa kanyang paghihimagsik laban sa kinatawang awtoridad ng Diyos (Blg. 12:1-10). Ang ketong ni Naaman ay nalinis dahil sa kanyang pagtalima (2 Hari 5:1, 9-14). Lahat ng mga natisod na tao ay naging ketongin sa mga mata ng Diyos dahil sa kanilang paghihimagsik. Ngayon ang makaharing Tagapagligtas ay dumarating upang iligtas ang mga tao mula sa kanilang paghihimagsik at linisin sila mula sa kanilang ketong nang sa gayon ay maging mga tao sila ng Kanyang kaharian."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang ketongin ay “sumamba” sa bagong Hari at tinawag Siyang, “Panginoon,” kinikilala na Siya ang Panginoong Diyos. Sa realidad ang bagong Hari ay si Jehovah na Tagapagligtas — si Hesus. (Tingnan ang tala 21-1 sa kapitulo 1.)"
+        },
+        {
+            "id": "3-1",
+            "text": "Ang isang ketongin, ayon sa kautusan, ay nararapat ihiwalay mula sa mga tao dahil sa kanyang karumihan. Wala ni isa ang makahihipo sa kanya (Lev. 13:45-46). Subalit ang bagong Hari, bilang isang tao at bilang ang makaharing Tagapagligtas, ay “humipo sa kanya.” Anong awa at pakikiramay! Sa pamamagitan ng Kanyang isang paghipo, “kaagad na nalinis ang kanyang ketong.” Anong kamangha-manghang paglilinis!"
+        },
+        {
+            "id": "4-1",
+            "text": "Sinabihan ng bagong Hari ang nalinis na ketongin na gawin pa rin ang mga bagay ayon sa mga regulasyon ng lumang kautusan para sa kanyang paglilinis, sapagkat ang transitoryong kapanahunan ay nananatili pa, nang ang lumang kautusan ay hindi pa natutupad sa pamamagitan ng Kanyang nagtutubos na kamatayan."
+        },
+        {
+            "id": "5-1",
+            "text": "Isang opisyal na namamahala sa isang daang kawal sa hukbong Romano. Ang ketongin sa mga bersikulo 2-4 ay kumakatawan sa mga Hudyo, samantalang ang “senturyon” sa mga bersikulo 5-13 ay kumakatawan sa mga Hentil. Sa harap ng Diyos, ang mga Hudyo ay naging ketongin, marumi, dahil sa kanilang paghihimagsik at pagsuway; samantalang ang mga Hentil ay naging paralisado, patay sa pangsyon, dahil sa kanilang pagkamakasalanan. Ang makaharing Tagapagligtas ay unang lumapit sa mga Hudyo, at pagkatapos ay sa mga Hentil (Gawa 3:26; 13:46; Roma 1:16; 11:11). Ang mga sumasampalatayang Hudyo ay naligtas sa pamamagitan ng Kanyang direktang paghipo (b. 3), samantalang ang mga sumasampalatayang Hentil ay naligtas sa pamamagitan ng pananampalataya sa Kanyang salita (bb. 8, 10, 13)."
+        },
+        {
+            "id": "9-1",
+            "text": "Kinilala ng Hentil na senturyon ang “awtoridad” ng makaharing Tagapagligtas at natanto na taglay ng Kanyang salita ang awtoridad na magpagaling. Sa gayon siya ay sumampalataya, hindi lamang sa makaharing Tagapagligtas, bagkus maging sa Kanyang salita, hinihiling sa Kanya na huwag nang pumaroon nang personal kundi magpahatid na lamang ng isang salita. Ito ay higit na malakas na pananampalataya, at ito ay pinanggilalasan ng Tagapagligtas (b. 10)."
+        },
+        {
+            "id": "10-1",
+            "text": "Sa ilang sinaunang manuskristo ay mababasang, Ni sa Israel ay hindi Ako nakasumpong ng gayon kadakilang pananampalataya."
+        },
+        {
+            "id": "11-1",
+            "text": "Ito ay nagpapakita na ang mga Hentil ay makikilahok sa ebanghelyo ng kaharian (Efe. 3:6, 8; Gal. 2:8-9; Roma 1:13-16)."
+        },
+        {
+            "id": "11-2",
+            "text": "Ito ay tumutukoy sa pagpapakita ng “kaharian ng mga kalangitan.” Sa panahon ng pagpapakita ng kaharian, ang mga mandaraig na mananampalatayang Hentil ay magpipiging kasama nina Abraham, Isaac, at Jacob."
+        },
+        {
+            "id": "12-1",
+            "text": "“Ang mga anak ng kaharian” ay tumutukoy sa mga ligtas na Hudyo na mabubuting binhi (13:38), subalit walang malakas na pananampalataya na magbibigay kakayahan sa kanila na makapasok sa makitid na pintuan at makalakad sa makipot na daan (7:13-14). Hindi nila madadaluhan ang piging sa pagpapakita ng kaharian (Luc. 13:24-30)."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang “kadiliman sa labas” ay ang kadiliman sa labas ng maliwanag na kaluwalhatian sa pagpapakita ng kaharian ng mga kalangitan (16:28; 25:30). Ang “maitapon sa kadiliman sa labas” sa darating na kapanahunan ng kaharian ay naiiba mula sa maitapon sa dagat-dagatang apoy pagkatapos ng isang libong taon at magpasawalang-hanggan (Apoc. 20:15)."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang “pagtangis” ay nagsasaad ng pagsisisi at ang “pagngangalit ng mga ngipin” ay nagsasaad ng paninisi-sa-sarili."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang biyenang babae ni Pedro sa mga bersikulo 14 at 15 ay kumakatawan sa mga Hudyo na nabubuhay sa wakas ng kapanahunang ito na maliligtas sa pamamagitan ng pagtanggap sa makaharing Tagapagligtas (Roma 11:25-26). Sa panahong yaon, sa panahon ng matinding kapighatian, ang mga Hudyo sa mga mata ng Diyos ay “nilalagnat” (b. 14), mainit sa mga bagay na maliban sa Diyos. Ang makaharing Tagapagligtas, pagkatapos ng kaganapan ng pagliligtas sa mga Hentil, ay babalik sa labing ito ng mga Hudyo upang sila ay mangaligtas (Roma 11:25-26; Zac. 12:10). Ang biyenang babae ni Pedro ay napagaling sa “bahay ni Pedro.” Sa wakas ng kapanahunang ito lahat ng labi ng mga Hudyo ay maliligtas sa bahay ni Israel. Sila rin ay ililigtas ng direktang paghipo ng makaharing Tagapagligtas (b. 15), katulad ng Hudyong ketongin (b. 3)."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang “maraming inalihan ng demonyo” at “lahat ng may sakit” ay kumakatawan sa lahat ng tao sa lupa sa isang libong taon. Ang isang libong taon ang magiging huling pamamahagi ng lumang langit at lumang lupa; kaya nga ito ay itinuturing na “gabi” ng lumang langit at lumang lupa. Sa isang libong taon, ang kapangyarihan na magpalayas ng mga demonyo at magpagaling ng mga karamdaman ay magiging sa sukdulan. Kaya nga, lahat ng inalihan ng demonyo at lahat ng may karamdaman ay mapagagaling. Ang gayong kasaklaw na kapangyarihan ay ang kapangyarihan ng darating na kapanahunan (Heb. 6:5). Ang pagpapalayas ng mga demonyo at ang pagpapagaling ng may karamdaman sa kapanahunang ito ay isa lamang patikim sa masaklaw na kapangyarihan ng darating na kapanahunan. Ang mga tanda sa mga bersikulo 2 hanggang 17 ay nakatala na may isang pampanahunang kahulugan. Ito ay isang maliit na larawan ng kaharian sa darating na kapanahunan. Ang pagkakasunud-sunod ng apat na pangyayari na nakatala sa Mateo 8:2-16 ay naiiba doon sa Marc. 1:29- 2:1 at Luc. 4:38-41; 5:12-14; 7:1-10. Ang pagkakasunod-sunod ng talá ni Marcos, nagpapakita na si Hesus ay ang Alipin ng Diyos, ay ayon sa kasaysayan. Ang pagkakasunod-sunod ng tala ni Mateo, pinatutunayan na si Kristo ang Hari ng kaharian ng mga kalangitan, ay ayon sa doktrina; yaon ay, pinagsasama-sama ni Mateo ang mga natatanging pangyayari upang ilahad ang isang doktrina. Ang pagkakasunod-sunod ng talá ni Lucas, nagpapahayag na si Hesus ang wastong tao upang maging Tagapagligtas ng tao, ay ayon sa moralidad. Ang pagkakasunud-sunod ng talá ni Juan sa apat na Ebanghelyo, nagpapatotoo na si Kristo ang Anak ng Diyos at maging ang Diyos Mismo, ay tila ayon din sa kasaysayan."
+        },
+        {
+            "id": "17-1",
+            "text": "Lahat ng mga pagpapagaling na isinagawa sa mga natisod na tao ay dahil sa pagtutubos ng Panginoon. Siya ang “kumuha ng ating mga kahinaan at nagpasan ng ating mga sakit” sa Kanyang krus at nagsagawa ng lubos na pagpapagaling para sa atin doon. Gayon pa man, ang pagsasagawa ng pagpapagaling sa pamamagitan ng dibinong kapangyarihan ay maaari lamang maging isang tikim sa atin sa kapanahunang ito; ang ganap na pagpapagaling sa pamamagitan ng dibinong kapangyarihan ay isasagawa sa darating na kapanahunan."
+        },
+        {
+            "id": "18-1",
+            "text": "Sa Kanyang ministeryo, katulad ng nakatala sa apat na Ebanghelyo, ang Panginoon ay palaging lumalayo mula sa lubhang maraming tao; hindi Niya gustong makasama ang mga usyosong tao. Hindi Niya pinansin ang “lubhang maraming kalipunan,” kundi yaon lamang mga tapat na naghahanap sa Kanya."
+        },
+        {
+            "id": "19-1",
+            "text": "Sa pagsasalita nito, hindi niya isinaalang-alang ang halaga. Kaya nga, ang Hari ay sumagot sa bersikulo 20 sa isang paraan na magsasanhi sa kanya upang isaalang-alang ang halaga."
+        },
+        {
+            "id": "19-2",
+            "text": "Gr. lumayo."
+        },
+        {
+            "id": "20-1",
+            "text": "Patuloy na kinuha ng bagong Hari sa Kanyang makaharing ministeryo ang katayuan ng “Anak ng Tao” hanggang sa kapitulo 16:13-17."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang Hari ng kaharian ay wala man lamang pahingahan, hindi katulad ng mga zorra at mga ibon, nagpapatunay na ang kaharian na Kanyang itinatatag ay hindi materyal na nasa panlupang kalikasan, kundi espiritwal na nasa makalangit na kalikasan."
+        },
+        {
+            "id": "21-1",
+            "text": "Sa gayong pagsasalita, ang disipulong ito, hindi isang eskriba, ay labis na nagsaalang-alang sa halaga ng pagsunod sa Hari ng makalangit na kaharian. Kaya nga, siya ay sinagot ng Hari sa paraang pinalalakas ang kanyang loob upang makasunod sa Kanya at mabitiwan ang kanyang pagsasaalang-alang sa halaga, at hayaan ang paglilibing ng kanyang ama sa iba."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang unang “patay” ay tumutukoy sa mga taong patay sa espiritwal, katulad ng binanggit sa Efe. 2:1, 5; ang ikalawang “patay” ay tumutukoy sa ama ng disipulo na patay sa pisikal."
+        },
+        {
+            "id": "24-1",
+            "text": "Gr. paglindol o pagyanig."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang “pananampalataya” ay nagmumula at nakasalalay sa salita ng Panginoon (Roma 10:17). Ibinigay sa kanila ng Panginoon ang salita sa bersikulo 18 na “lumayo patungo sa kabilang ibayo.” Kung pinanampalatayanan nila ang salitang yaon, hindi na sana nila kinailangang manalangin pa katulad ng ginawa nila sa bersikulo 25. Ang kanilang pagkatanto sa salita ng Panginoon ay hindi lubos; kaya nga, ang kanilang pananampalataya ay “maliit.”"
+        },
+        {
+            "id": "26-2",
+            "text": "Ang isang pagsaway ay hindi ibinibigay sa mga bagay na walang buhay kundi sa mga bagay na may personalidad. “Sinaway” ng Hari “ang mga hangin at ang dagat,” sapagkat nasa hangin ang mga natisod na anghel ni Satanas (Efe. 6:12), at sa dagat ay ang mga demonyo (b. 32). Ang mga natisod na anghel sa himpapawid at ang mga demonyo sa tubig ay nagsabwatang hadlangan ang Hari sa pagtawid tungo sa kabilang ibayo ng dagat, sapagkat nalalaman nila na Siya ay magpapalayas ng mga demonyo roon (bb. 28-32)."
+        },
+        {
+            "id": "26-3",
+            "text": "Ang “malaki” ay kabaligtaran ng “maliit” na nasa unang bahagi ng bersikulong ito."
+        },
+        {
+            "id": "27-1",
+            "text": "Sa katunayan, hindi ang mga hangin at ang dagat, kundi ang mga natisod na anghel na nasa ibabaw ng mga hangin at ang mga demonyo na nasa ilalim ng dagat ang nagsitalima sa awtoridad ng Hari."
+        },
+        {
+            "id": "29-1",
+            "text": "Gr. Ano ang kaugnayan nito sa amin at sa iyo? (isang Hebreong kawikaan)."
+        },
+        {
+            "id": "29-2",
+            "text": "Tinawag ng Hari ang Kanyang Sarili na Anak ng Tao (b. 20), subalit tinawag Siya ng mga demonyo na “Anak ng Diyos,” tinutukso Siya upang lumisan mula sa Kanyang tinatayuan bilang ang Anak ng Tao. (Tingnan ang tala 3-2 sa kap. 4.)"
+        },
+        {
+            "id": "29-3",
+            "text": "Ang “bago dumating ang panahon” ay nagpapahiwatig na ang Diyos ay nagtalaga ng isang panahon upang pahirapan ang mga demonyo at nalalaman ng mga demonyo ang panahong yaon. Ito ay pagkatapos ng isang libong taong kaharian hanggang sa kawalang-hanggan. (Tingnan ang tala 13-1 sa Apoc. 20.)"
+        },
+        {
+            "id": "31-1",
+            "text": "Ito ay nagsasaad na ang mga demonyo ay nasa ilalim ng kapangyarihan at awtoridad ng Hari."
+        },
+        {
+            "id": "32-1",
+            "text": "Ito ang maawtoridad na pag-uutos ng Hari, at ito ay sinunod ng mga demonyo. Tinugon ng Hari ang pagsamo ng mga demonyo na makapasok sa loob ng mga baboy sapagkat ang mga baboy ay marumi sa mga mata ng Diyos (Lev. 11:7)."
+        },
+        {
+            "id": "32-2",
+            "text": "Hindi mapahintulutan ng mga baboy na maalihan sila ng mga demonyo kaya “sumugod…patungo sa dagat.” Ang mga demonyo ay sumang-ayon, sapagkat ang tubig ay ang kanilang tinatahanang lugar (12:43-44). (Tingnan ang mensahe 2 ng Pag-aaral Pambuhay ng Genesis.)"
+        },
+        {
+            "id": "34-1",
+            "text": "Matapos mawalan ng kanilang mga baboy, tinanggihan ng mga tao sa lunsod ang Hari. Gusto nila ang kanilang maruruming baboy subalit hindi ang Hari ng makalangit na kaharian. Sila ay maaaring mga Hentil. (Ang Gadara ay nasa dalampasigan ng Dagat ng Galilea, kaharap ng Galilea ng mga Hentil — 4:15.) Kanilang tinanggihan ang makalangit na Hari dahil sa kanilang maruming paraan ng paghahanapbuhay."
         }
     ]
 }

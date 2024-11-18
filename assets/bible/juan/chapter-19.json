@@ -1,5 +1,5 @@
 {
-    "chapter": 19,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -19,7 +19,7 @@
             "footnotes": [
                 {
                     "word": "Magalak,",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -60,7 +60,7 @@
             "footnotes": [
                 {
                     "word": "pretorio",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -89,7 +89,7 @@
             "footnotes": [
                 {
                     "word": "Gabbatha.",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -100,11 +100,11 @@
             "footnotes": [
                 {
                     "word": "paghahanda",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "mag-",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -121,7 +121,7 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -153,15 +153,15 @@
             "footnotes": [
                 {
                     "word": "Hebreo,",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "Latin,",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "Griyego.",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -178,7 +178,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -189,15 +189,15 @@
             "footnotes": [
                 {
                     "word": "Kinuha",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "tunika;",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "tunika",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -208,7 +208,7 @@
             "footnotes": [
                 {
                     "word": "ginawa",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -219,7 +219,7 @@
             "footnotes": [
                 {
                     "word": "kapatid",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -230,7 +230,7 @@
             "footnotes": [
                 {
                     "word": "narito",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -241,7 +241,7 @@
             "footnotes": [
                 {
                     "word": "Narito,",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -252,7 +252,7 @@
             "footnotes": [
                 {
                     "word": "nauuhaw.",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -263,7 +263,7 @@
             "footnotes": [
                 {
                     "word": "isopo,",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -274,11 +274,11 @@
             "footnotes": [
                 {
                     "word": "suka,",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "Naganap",
-                    "note": ""
+                    "id": "30-2"
                 }
             ],
             "outlines": null
@@ -309,11 +309,11 @@
             "footnotes": [
                 {
                     "word": "dugo",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "tubig.",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -330,11 +330,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "36-1"
                 },
                 {
                     "word": "buto",
-                    "note": ""
+                    "id": "36-2"
                 }
             ],
             "outlines": null
@@ -351,7 +351,7 @@
             "footnotes": [
                 {
                     "word": "pagkatapos",
-                    "note": ""
+                    "id": "38-1"
                 }
             ],
             "outlines": [
@@ -364,7 +364,7 @@
             "footnotes": [
                 {
                     "word": "libra.",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -386,6 +386,100 @@
             "text": "Samakatuwid, dahil sa paghahanda ng mga Hudyo, at yamang malapit ang libingan, kanilang inilagay si Hesus doon.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 29-2 sa Mateo 27."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang opisyal na tahanan ng gobernador."
+        },
+        {
+            "id": "13-1",
+            "text": "Heb. isang nakaangat na lugar (katulad ng isang entablado) na ginamitan ng magagandang bato sa pagtatayo nito."
+        },
+        {
+            "id": "14-1",
+            "text": "Tingnan ang tala 62-1 sa Mat. 27."
+        },
+        {
+            "id": "14-2",
+            "text": "Yaon ay, ikaanim ng umaga."
+        },
+        {
+            "id": "16-1",
+            "text": "Inihahantad ng di-matuwid, na pinag-anib na sentensiyang ito kapwa ang kabulagan ng relihiyon at ang kadiliman ng pulitika."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang Hebreo ay kumakatawan sa relihiyong Hebreo, ang Latin ay kumakatawan sa pulitikang Romano, at ang Griyego ay kumakatawan sa kulturang Griyego. Ang tatlong ito na pinagsama-sama ay kumakatawan sa buong sanlibutan ng buong sangkatauhan. Ito ay sumasagisag na ang Panginoon Hesus bilang Kordero ng Diyos ay pinatay ng sangkatauhan at para sa lahat ng sangkatauhan."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang naisulat na ni Pilato ay hindi galing sa kanya, kundi sa kataas-taasang kapangyarihan ng Diyos."
+        },
+        {
+            "id": "23-1",
+            "text": "Sa Kanyang pagkapako sa krus, kapwa ang mga karapatan ng Panginoon ukol sa pananamit (bb. 23-24) at ukol sa pag-inom (bb. 28-30) ay ninakaw kasama ng Kanyang buhay."
+        },
+        {
+            "id": "23-2",
+            "text": "Isang panloob na kasuotan na tulad ng kamiseta."
+        },
+        {
+            "id": "24-1",
+            "text": "Ito ay hindi rin galing sa mga kawal kundi sa kataas-taasang kapangyarihan ng Diyos."
+        },
+        {
+            "id": "25-1",
+            "text": "Ito ay si Salome (Mar. 15:40), asawa ni Zebedeo at ina nina Santiago at Juan (Mat. 27:56)"
+        },
+        {
+            "id": "26-1",
+            "text": "Sa Luc. 23:43 sinabi ng Panginoon sa isa sa dalawang magnanakaw na nakapakong kasama Niya, “Sa araw na ito ikaw ay makakasama Ko sa Paraiso.” Ang salitang yaon ay hinggil sa kaligtasan, dahil sa ang ebanghelyo ni Lucas ay nagpapatunay na ang Panginoon ay ang Tagapagligtas ng mga makasalanan. Dito, sa mga bersikulo 26 at 27, sinabi ng Panginoon sa Kanyang ina, “Narito ang iyong anak,” at sa Kanyang iniibig na disipulo, “Narito ang iyong ina.” Ang mga salitang ito ay tumutukoy sa pagkakaisa ng buhay, sapagka’t ang Ebanghelyo ni Juan ay nagpapatotoo na ang Panginoon ay buhay na ibinahagi tungo sa loob ng Kanyang mga mananampalataya. Sa pamamagitan ng buhay na ito ang Kanyang iniibig na disipulo at Siya ay nagkakaisa, kaya ang disipulo ay naging anak ng kanyang ina, at ang Kanyang ina ay naging ina ng Kanyang iniibig na disipulo."
+        },
+        {
+            "id": "27-1",
+            "text": "Tingnan ang tala 26-1 ."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang pagkauhaw ay isang pagtikim sa kamatayan (Luc. 16:24; Apoc. 21:8) Tumikim ang Panginoong Hesus ng kamatayan para sa atin sa krus (Heb. 2:9)."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang isopo rito ay ang “tambo” sa Mat. 27:29 at Mar. 15:19, na siyang tambong isopo."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang alak na hinaluan ng apdo at mira, sa Mat. 27:34 at Mar. 15:23, ay inialok sa Panginoon bago ang Kanyang pagkapako sa krus bilang isang nakakapamanhid na inumin, na hindi Niya ininom. Subali’t ang suka sa bersikulong ito ay ibinigay sa Kanya sa katapusan ng Kanyang pagkapako sa krus sa isang nakalilibak na paraan (Luc. 23:36)."
+        },
+        {
+            "id": "30-2",
+            "text": "Sa Kanyang pagkapako sa krus, ang Panginoon ay gumagawa pa rin, at sa pamamagitan ng pagkapako sa krus Kanyang tinapos ang gawain ng Kanyang nagpapaloob ng lahat na kamatayan kung saan isinagawa Niya ang katubusan, tinapos ang lumang nilikha, at pinalaya ang Kanyang buhay ng pagkabuhay na muli upang ibunga ang bagong nilikha nang sa gayon ay maisakatuparan ang layunin ng Diyos. Sa hakbangin ng kamatayan, pinatunayan Niya sa Kanyang mga tagasalungat at Kanyang mga mananampalataya na Siya ang buhay, sa pamamaraan ng Kanyang pagkilos. Ang nakahihindik na kapaligiran ng kamatayan ay hindi nagsanhi sa Kanya ng pagkatakot kahit kaunti; sa halip, ito ay nagbigay ng isang paghahambing na nagpapatunay nang matibay na Siya ang buhay na laban sa kamatayan, isang buhay na hindi maapektuhan ng kamatayan sa anumang paraan. Kaya tinukoy rito ang gawaing nakumpleto ng Panginoon na kinapapalooban ng pagsasakatuparan ng pagtutubos, pagkatapos ng lumang nilikha, pagpapalaya ng Kanyang buhay ng pagkabuhay na muli, at paghahayag na Siya nga ang buhay na hindi kayang apektuhan ng kamatayan."
+        },
+        {
+            "id": "34-1",
+            "text": "Dalawang bagay ang lumabas sa tinulos na tagiliran ng Panginoon: dugo at tubig. Ang dugo ay para sa pagtutubos, na nagtutuos sa mga kasalanan (1:29; Heb. 9:22) upang bilhin ang ekklesia (Gawa 20:28); ang tubig ay para sa pamamahagi ng buhay, tinutuos ang kamatayan (12:24; 3:14-15) upang maibunga ang ekklesia (Efe. 5:29-30). Ang pagkamatay ng Panginoon, sa negatibong panig, ay ang pag-aalis ng ating mga kasalanan, at, sa positibong panig, ay ang pamamahagi ng buhay sa atin. Kaya ang kamatayan ng Panginoon ay may dalawang aspekto: ang nagtutubos na aspekto at ang namamahagi ng buhay na aspekto. Ang nagtutubos na aspekto ay para sa pamamahagi ng buhay na aspekto. Ang talâ ng tatlo pang Ebanghelyo ay para lamang sa nagtutubos na aspekto ng kamatayan ng Panginoon, subali’t ang talâ ni Juan ay hindi lamang para sa nagtutubos na aspekto, bagkus para rin sa pamamahagi ng buhay na aspekto. Sa Mat. 27:45,51; Mar 15:33, at Lucas 23:44-45, ang “kadiliman” na isang simbolo ng kasalanan ay lumitaw, at ang “tabing ng templo” na naghihiwalay sa tao mula sa Diyos “ay nahapak”. Ang mga ito ay mga palatandaan tungkol sa nagtutubos na aspekto ng kamatayan ng Panginoon. At ang mga katagang binigkas ng Panginoon sa krus sa Luc 23:34, “Ama, patawarin mo sila,” at sa Mat. 27:46 “Diyos Ko, Diyos Ko, bakit Mo Ako pinabayaan?” (sapagka’t dinala Niya ang ating kasalanan sa oras na yaon), ay naglalarawan din sa nagtutubos na aspekto ng kamatayan ng Panginoon. Subalit ang dumadaloy na tubig at di-nabaling buto na binanggit ni Juan sa mga bersikulo 34 at 36, ay mga palatandaan tungkol sa namamahagi ng buhay na kamatayan ng Panginoon. (Tingnan ang tala 26-1 ). Ang kamatayan ito na namamahagi ng buhay ay nagpapalaya sa dibinong buhay ng Panginoon mula sa Kanyang loob upang ibunga ang ekklesia, na binubuo ng lahat ng Kanyang mga mananampalataya kung kanino ang Kanyang dibinong buhay ay naibahagi. Ang namamahagi ng buhay na kamatayan ng Panginoon ay isinagisag ng pagtulog ni Adam na nagbunga kay Eva (Gen.2:21-23), at isinagisag ng pagkamatay ng isang butil ng trigo na nahulog sa lupa upang maibunga ang maraming butil (12:24) upang magawa ang tinapay na sumasagisag sa Katawan ni Kristo (1 Cor. 10:17). Kaya, ito rin ang kamatayang nagpapalaganap ng buhay, nagpaparami ng buhay, ang kamatayang nagpapasibol at namumunga."
+        },
+        {
+            "id": "36-1",
+            "text": "Ito ay lubusang nasa kataas-taasang kapangyarihan ng Diyos kaya nangyari ang mga bagay na ito sa isang makahulugan at kagilas-gilalas na paraan. Ito ay matibay na nagpapatunay na ang kamatayan ng Panginoon ay hindi aksidente, kundi binalak ng Diyos “bago pa man ang pagtatag ng sanlibutan” (1 Ped 1:19-20)."
+        },
+        {
+            "id": "36-2",
+            "text": "Sa Gen. 2:21-23, unang binanggit ng Kasulatan ang ukol sa “buto,” na isang tadyang na kinuha mula kay Adam para sa pamumunga at pagtatayo kay Eva upang tumugma kay Adam. Si Eva ay isang sagisag ng ekklesia na ibinunga at itinayo sa pagkabuhay na muling buhay ng Panginoon na pinalaya mula sa Kanya. Kaya, ang buto ay isang sagisag, isang larawan, ng pagkabuhay na muli ng Panginoon, na walang makababali. Ang tagiliran ng Panginoon ay tinulos, subali’t wala ni isang buto Niya ang nabali. Ito ay sumasagisag na bagama’t ang pisikal na buhay ng Panginoon ay pinatay, ang Kanyang buhay ng pagkabuhay na muli, ang mismong dibinong buhay, ay hindi masasaktan o masisira ng anumang bagay. Ang ekklesia ay naibunga at naitayo ng buhay na ito. Ito rin ang buhay na walang hanggan na ating nakamtan sa ating pagsampalataya tungo sa loob Niya (3:36)."
+        },
+        {
+            "id": "38-1",
+            "text": "Pagkatapos maisakatuparan ng Panginoon ang Kanyang nagtutubos at namamahagi ng buhay na kamatayan, ang Kanyang situwasyon ng pagdurusa ay naging karangal-rangal. Ang “isang mayamang tao” na nagngangalang Jose (Mat. 27:57) at Nicodemo, “isang pinuno ng mga Hudyo” (3:1), ay dumating upang asikasuhin ang Kanyang libing sa pamamagitan ng pagbabalot ng mira at mga aloe sa Kanyang katawan at inilibing sa isang bagong libingan “na kasama ang mayayaman” (Isa. 53:9). Sa isang mataas na pamantayan na pantaong karangalan, ang Panginoon ay namahinga sa araw ng Sabbath (Luc. 23:55-56), naghihintay ng oras upang mabuhay na muli mula sa mga patay."
+        },
+        {
+            "id": "39-1",
+            "text": "Tingnan ang tala 3-1 sa kap. 12."
         }
     ]
 }

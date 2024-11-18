@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "tungkol",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "pagparito",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "pagkakatipon",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -28,15 +28,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "kaarawan",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -47,19 +47,19 @@
             "footnotes": [
                 {
                     "word": "padaya",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "apostasia,",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "katiwalian,",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": null
@@ -70,11 +70,11 @@
             "footnotes": [
                 {
                     "word": "nagmamataas",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "templo",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -91,11 +91,11 @@
             "footnotes": [
                 {
                     "word": "nakapipigil,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "panahon.",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -106,15 +106,15 @@
             "footnotes": [
                 {
                     "word": "hiwaga",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "katiwalian",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "alisin",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -125,19 +125,19 @@
             "footnotes": [
                 {
                     "word": "papatayin",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "hininga",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "pagkahayag",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "pagparito),",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": null
@@ -148,11 +148,11 @@
             "footnotes": [
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "kasinungalingan,",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -169,7 +169,7 @@
             "footnotes": [
                 {
                     "word": "dito,",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -180,7 +180,7 @@
             "footnotes": [
                 {
                     "word": "nangalugod",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -191,19 +191,19 @@
             "footnotes": [
                 {
                     "word": "pagkakahirang",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "buhat",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "pagpapabanal",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "13-4"
                 }
             ],
             "outlines": [
@@ -216,11 +216,11 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "kaluwalhatian",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -231,7 +231,7 @@
             "footnotes": [
                 {
                     "word": "aral",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -242,19 +242,19 @@
             "footnotes": [
                 {
                     "word": "Panginoong",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "mabuting",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "biyaya,",
-                    "note": ""
+                    "id": "16-4"
                 }
             ],
             "outlines": null
@@ -264,6 +264,152 @@
             "text": "Ay magbigay-aliw nawa sa inyong mga puso, at patatagin kayo sa bawat mabuting gawa at salita.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "O, sa kapakanan ng."
+        },
+        {
+            "id": "1-2",
+            "text": "Gr. parousia, presensiya. Tingnan ang mga tala 19-1 sa 1 Tes. 2 at 3-3 sa Mateo 24. Dalawang bagay ang tinatalakay rito: ang parousia ng Panginoon (presensiya), at ang ating pagkakatipon (pag-akyat-na-may-masidhing kagalakan) sa Kanya. Ang parousia ng Panginoon ay magsisimula sa pag-akyat-namay- masidhing-kagalakan ng mga mandaraig sa kinaroroonan ng trono ng Diyos (Apoc. 12:5-6), sa Kanyang pagdating mula sa kalangitan tungo sa himpapawid (Apoc. 10:1 at tala 2) sa panahon ng matinding kapighatian na magaganap sa huling tatlo at kalahating taon ng kapanahunang ito, ang ikalawang kalahati ng huling pitong taon ng Dan. 9:27 (Mat. 24:21 at tala; Apoc. 11:2 at tala 4); at magtatagal ng isang panahon at magwawakas sa “pagpapakita ng Kanyang parousia” (b. 8; Mat. 24:30 at tala 4). Sa panahon ng parousia ng Panginoon sa himpapawid, ang nakararaming bilang ng mga mananampalataya ay iaakyat sa himpapawid na may masidhing kagalakan upang salubungin ang Panginoon sa himpapawid (1 Tes. 4:17). “Ang kaarawan ng Panginoon” sa bersikulo 2 ay tumutukoy, ayon sa ibig sabihin ng nilalaman, sa panahon ng parousia (pagdating) ng Panginoon, kung kailan ang pag-akyat sa himpapawid na may masidhing kagalakan ng nakararaming bilang ng mga mananampalataya ay magaganap. Pasang-ayong sinasabi sa atin ng bersikulo 3 na bago dumating ang panahong ito, ang antikristo ay mahahayag upang ganapin ang pinakamalaking papel sa matinding kapighatian (b. 4; Apoc. 13:1-8, 12-15). Ito ay malinaw at tiyakang naghahayag na ang pagdating ( parousia ) ng Panginoon at ang pag-akyat sa himpapawid na may masidhing kagalakan ng nakararaming bilang ng mga mananampalataya ay hindi magaganap bago dumating ang matinding kapighatian."
+        },
+        {
+            "id": "1-3",
+            "text": "Lit. pagkakatipon sa pamamagitan Niya."
+        },
+        {
+            "id": "2-1",
+            "text": "Lit. mula sa kaisipan; mula sa “isang matatag at mahinahong humahatol na kaisipan”-Darby."
+        },
+        {
+            "id": "2-2",
+            "text": "Sa pamamagitan ng nagsasalitang espiritu na nagkukunwari at nagsasabing may awtoridad ng dibinong pahayag."
+        },
+        {
+            "id": "2-3",
+            "text": "Tingnan ang tala 2-1 sa 1 Tesalonica 5."
+        },
+        {
+            "id": "3-1",
+            "text": "O, malinlang, “hindi lamang gumagawa ng isang huwad na pagkikintal, bagkus sa katunayan ay inililigaw ang mga tao” (Vincent)."
+        },
+        {
+            "id": "3-2",
+            "text": "Yaon ay, nahuhulog palayo (sa tuwid na landas ng ekonomiya ng Diyos katulad ng ipinahayag sa mga Kasulatan)."
+        },
+        {
+            "id": "3-3",
+            "text": "Tumutukoy sa antikristo, katulad ng ipinropesiya sa Dan. 7:20-21, 24-26; 8:9-12, 23-25; 9:27; 11:36-37; Apoc. 13:1-8, 12-18; 19:19-20. Siya ang tao ng katiwalian, ibinabagsak ang katotohanan sa lupa, pinapalitan ang mga kautusan, ekstra-ordinaryong winawasak at pinasasama ang marami, nilalapastangan ang Diyos, at nililinlang ang mga tao. Kaya nga, siya ay pupuksain sa sukdulan ng Panginoon, at siya ay magiging anak ng kapahamakan."
+        },
+        {
+            "id": "3-4",
+            "text": "*Gr. hamartia , kasalanan, katulad ng pagkagamit sa 1 Juan 5:16."
+        },
+        {
+            "id": "4-1",
+            "text": "Isinasakatuparan nito ang propesiya hinggil sa antikristo sa Dan. 11:36-37. Ito ay magaganap sa kalagitnaan ng huling pitong taon, katulad ng ipinropesiya sa Dan. 9:27. Tingnan ang tala 15-1 sa Mateo 24."
+        },
+        {
+            "id": "4-2",
+            "text": "Ito, bilang “ang dakong banal” sa Mat. 24:15, ay nagpapakita na ang templo ng Diyos ay itatayong muli bago bumalik ang Panginoon."
+        },
+        {
+            "id": "6-1",
+            "text": "Ito ay tumutukoy sa ilang uri ng kapangyarihan na humahadlang sa pagkakahayag ng tao ng katiwalian, ang antikristo."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang panahong itinalaga ng Diyos, na magiging huling sanlinggo ng pitumpung sanlinggo, katulad ng ipinropesiya sa Dan. 9:27; 7:24-26; Apoc. 13:1-8."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang katiwaliang magpapakilala sa antikristo (b. 3) ay mahiwaga nang gumagawa sa kapanahunang ito. Ito ang hiwaga ng katiwaliang kumikilos ngayon sa gitna ng mga bansa at sa pantaong lipunan."
+        },
+        {
+            "id": "7-2",
+            "text": "*Gr. anomia , lit. walang batas, hindi kumikilala sa batas."
+        },
+        {
+            "id": "7-3",
+            "text": "Ito marahil ay nangangahulugan na ang pumipigil ay inalis na."
+        },
+        {
+            "id": "8-1",
+            "text": "Ito ay maisasakatuparan sa Apoc. 19:19-20."
+        },
+        {
+            "id": "8-2",
+            "text": "Sa Griyego ay pneuma. Kaisang salita ng “espiritu.”"
+        },
+        {
+            "id": "8-3",
+            "text": "Ito ay nagpapakita na ang pagdating ( parousia ) ng Panginoon ay nakakubli bago ito magpakita nang hayagan (tingnan ang tala 27-1 sa Mateo 24). Ito rin ay nagpapakita na ang pagdating ng Panginoon ay tumatagal ng isang panahon (tingnan ang tala 1-2 ). Una ito ay lihim, at pagkaraan nito ito ay ipakikita sa lahat ng tao."
+        },
+        {
+            "id": "8-4",
+            "text": "Gr. parousia , presensiya. Tingnan ang tala 1-2 ."
+        },
+        {
+            "id": "9-1",
+            "text": "Katulad ng ipinropesiya sa Apoc. 13:2, 4, 7."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang buong paggawa ni Satanas upang linlangin ang mga tao (bb. 9-10) sa kalahatan nito ay isang kasinungalingan, katulad ng siya ay isang sinungaling at ang ama ng kasinungalingan (Juan 8:44)."
+        },
+        {
+            "id": "11-1",
+            "text": "Sapagkat hindi tinanggap ng mga napapahamak ang pag-ibig sa katotohanan, na nilayon ng Diyos na ibigay sa kanila upang sila ay mangaligtas (b. 10), ipinadala ng Diyos sa kanila ang isang paggawa ng kamalian, isang aktibong kapangyarihan ng pagliligaw, upang sila ay maniwala sa kasinungalingan."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang mga mananampalataya ay nalulugod sa kabutihan (1:11); ang mga napapahamak na makasalanan (b. 10) na tumatanggi sa katotohanan ng Diyos ay nalulugod sa kalikuan. Ang magkasala ay isang kasiyahan sa kanila (Roma 1:32)."
+        },
+        {
+            "id": "13-1",
+            "text": "May ilang matandang manuskrito ang nagsasaad ng, pagkakahirang sa inyo bilang unang bunga. Ang Diyos ang umibig sa atin (b. 16), humirang sa atin mula sa pasimula, at tumawag sa atin sa pamamagitan ng ebanghelyo (b. 14). Siya ang humirang sa atin tungo sa Kanyang pagliligtas, sa pamamagitan ng pagpapabanal ng Espiritu, at Siya ang tumawag sa atin sa ikatatamo ng kaluwalhatian ng Panginoon. Ngayon Siya ang nagdadala sa atin sa pagpapatuloy sa loob ng biyaya na may walang hanggang kaaliwan at mabuting pag-asa."
+        },
+        {
+            "id": "13-2",
+            "text": "Yaon ay, mula sa kawalang-hanggang lumipas (cf. Efe. 1:4)."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang pagpapabanal ng Espiritu ay may tatlong hakbangin: (1) sa panahon ng ating pagsisisi at pagsampalataya, hinahanap Niya tayo at sinasanhing sumbatan natin ang ating mga sarili (1 Ped. 1:2; Juan 16:8); (2) sa panahon ng ating pagkakaligtas, ibinubukod Niya tayo sa pangkalikasan, upang maging banal (1 Cor. 6:11); (3) sa panahon ng ating paghahabol upang lumago ang buhay, tayo ay pinababanal sa kalikasan (Roma 6:19, 22). Ang pagliligtas ng Diyos ay isinasagawa sa atin sa pamamagitan ng tatlong hakbangin ng pagpapabanal ng Espiritu upang lubusan natin itong matamo at matamasa. Hindi lamang tayo ibinukod ng tatlong hakbangin ng pagpapabanal ng Espiritu mula sa lahat ng kalumaan at mga negatibong bagay upang maging banal tungo sa Diyos, bagkus pinababanal pa tayo para sa bagong nilalang, punung-puno ng elemento ng Panginoon upang matamo ang kaluwalhatian ng Panginoon."
+        },
+        {
+            "id": "13-4",
+            "text": "Ang pagpapabanal ng Espiritu ang naghahatid sa atin ng lahat ng pagliligtas ng Diyos at ng pahayag nito; ang ating pananampalataya naman ay ang pagtanggap sa pahayag at sa lahat ng inihahatid ng Espiritu sa atin, sa gayon ay natatamo ang pagliligtas ng Diyos."
+        },
+        {
+            "id": "14-1",
+            "text": "Tumutukoy sa “ikaliligtas… pagpapabanal at pananampalataya…” sa nauunang bersikulo. Ang Diyos ang pumili sa atin sa ating ikaliligtas… pagkatapos sa loob ng panahon, tayo ay tinawag Niya upang matamo natin ang kaluwalhatian ng ating Panginoon. Ang ikaliligtas sa pamamagitan ng pagpapabanal ng Espiritu at ng pananampalataya sa katotohanan ay ang hakbangin; ang pagtatamo ng kaluwalhatian ng ating Panginoon ay ang layunin."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang “kaluwalhatian ng Panginoon” ay tumutukoy sa Kanyang pagiging ang Anak ng Diyos Ama, tinataglay ang buhay at kalikasan ng Ama upang ihayag ang Ama. Ang tamuhin ang kaluwalhatian ng Panginoon ay ang mapasa katulad na posisyon ng Anak ng Diyos upang ihayag ang Ama (Juan 17:22 at tala 1)."
+        },
+        {
+            "id": "15-1",
+            "text": "* Gr. paradosis . Lit. tradisyon. Gayundin sa 3:6.* Tingnan ang tala 2-1 sa 1 Corinto 11."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang ating Panginoong Hesu-Kristo at ang Ama nating Diyos ay magkasamang gumagawa, inaaliw at pinatatatag ang mga mananampa lataya (b. 17)."
+        },
+        {
+            "id": "16-2",
+            "text": "Hindi pansamantala at hindi panandaliang kaaliwan at kalakasan, kundi walang hanggang kaaliwan ng dibinong buhay. Ang kaaliwang ito ay sapat para sa anumang uri ng kapaligiran at kalagayan; sa gayon ito ay may mabuting pag-asa."
+        },
+        {
+            "id": "16-3",
+            "text": "Yaon ay, ang pag-asa ng kaluwalhatian (Col. 1:27), na siyang pag-asa sa pagbabalik ng Panginoon (1 Tes. 1:3); sa panahong yaon, alinman sa dalawa, tayo ay bubuhaying-muli o babaguhing-anyo upang pumasok sa kaluwalhatian (1 Tes. 4:13-14; Fil. 3:21; Heb. 2:10)."
+        },
+        {
+            "id": "16-4",
+            "text": "Tumutukoy sa Diyos Mismo na nasa loob ni Kristo para sa ating katamasahan (tingnan ang tala 17-1 sa Juan 1) upang tayo ay mapabanal sa pamamagitan ng Kanyang Espiritu (b. 13), at mapalakas ang loob at mapatatag (b. 17) nang may walang hanggang kaaliwan at mabuting pag-asa."
         }
     ]
 }

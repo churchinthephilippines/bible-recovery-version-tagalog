@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "kalayaan",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "magsitibay",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "magpasakop",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "pamatok",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -33,11 +33,11 @@
             "footnotes": [
                 {
                     "word": "tinuli,",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": [
@@ -56,11 +56,11 @@
             "footnotes": [
                 {
                     "word": "Naputol",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "nangahulog",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -71,15 +71,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -90,15 +90,15 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -109,7 +109,7 @@
             "footnotes": [
                 {
                     "word": "katotohanan?",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -120,7 +120,7 @@
             "footnotes": [
                 {
                     "word": "paghihikayat",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -131,11 +131,11 @@
             "footnotes": [
                 {
                     "word": "lebadura",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "limpak.",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -152,11 +152,11 @@
             "footnotes": [
                 {
                     "word": "pagtutuli,",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "krus.",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -167,7 +167,7 @@
             "footnotes": [
                 {
                     "word": "putulin",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -178,11 +178,11 @@
             "footnotes": [
                 {
                     "word": "kalayaan;",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "laman,",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": [
@@ -207,15 +207,15 @@
             "footnotes": [
                 {
                     "word": "Magsilakad",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "Espiritu,",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "laman.",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": [
@@ -228,15 +228,15 @@
             "footnotes": [
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "Espiritu,",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "naglalabanan,",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
@@ -247,11 +247,11 @@
             "footnotes": [
                 {
                     "word": "Espiritu,",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "kautusan.",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -262,11 +262,11 @@
             "footnotes": [
                 {
                     "word": "gawa",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "pakikiapid,",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -277,19 +277,19 @@
             "footnotes": [
                 {
                     "word": "Pagsamba",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "20-3"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "20-4"
                 }
             ],
             "outlines": null
@@ -300,15 +300,15 @@
             "footnotes": [
                 {
                     "word": "paglalasing,",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "nagsisigawa",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "21-3"
                 }
             ],
             "outlines": null
@@ -319,7 +319,7 @@
             "footnotes": [
                 {
                     "word": "bunga",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -336,15 +336,15 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "ipinako",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "krus",
-                    "note": ""
+                    "id": "24-3"
                 }
             ],
             "outlines": null
@@ -355,11 +355,11 @@
             "footnotes": [
                 {
                     "word": "namumuhay",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "magsilakad",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -370,10 +370,188 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Kalayaan mula sa pang-aalipin ng kautusan. Tayo ay napalaya na ni Kristo sa pamamagitan ng Kanyang nagtutubos na kamatayan at namamahagi ng buhay na pagkabuhay na muli upang matamasa natin ang kalayaang ito sa loob ng biyaya."
+        },
+        {
+            "id": "1-2",
+            "text": "Yaon ay, maging matatag sa kalayaan mula sa pang-aalipin ng kautusan, hindi lumilihis kay Kristo, hindi nagpapatihulog mula sa biyaya."
+        },
+        {
+            "id": "1-3",
+            "text": "O, mahulog sa patibong. Ang lumihis kay Kristo at manumbalik sa kautusan ay ang masangkot o mahulog sa patibong."
+        },
+        {
+            "id": "1-4",
+            "text": "Ang pamatok ng pagkaalipin ay ang panggagapos ng kautusan, ginagawang mga alipin ang mga tumutupad sa kautusan sa ilalim ng isang nanggagapos na pamatok."
+        },
+        {
+            "id": "2-1",
+            "text": "Ginawang isang kondisyon ng mga maka-Hudaismo, mga huwad na kapatid, ang pagtutuli upang makamit ang kaligtasan (2:3-5; Gawa 15:1). Tingnan ang tala 3-2 sa kapitulo 2."
+        },
+        {
+            "id": "2-2",
+            "text": "Kung tinanggap ng mga mananampalatayang taga-Galacia ang pagtutuli at ginawa itong kondisyon ng kaligtasan, si Kristo ay hindi makikinabang sa kanila, sapagka’t sa kanilang pagbalik sa kautusan, kusang tinalikdan nila si Kristo."
+        },
+        {
+            "id": "4-1",
+            "text": "Yaon ay, kumaunti mula kay Kristo hanggang mauwi sa wala, naalisan ng lahat ng pakinabang mula kay Kristo at mahiwalay sa Kanya (Darby’s New Translation), ginagawa Siyang walang bisa. Ang manumbalik sa kautusan ay nangangahulugang maputol sa pakikipag-ugnayan kay Kristo, maging hiwalay kay Kristo."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang maputol sa pakikipag- ugnayan kay Kristo ay nangangahulugang mahulog mula sa biyaya. Ito ay nagpapahiwatig na ang biyayang kinalalagyan nating mga mananampalataya ay si Kristo."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang “sa pamamagitan ng Espiritu Santo” ay salungat sa “sa pamamagitan ng laman” (3:3)."
+        },
+        {
+            "id": "5-2",
+            "text": "Lit., mula sa pananampalataya, salungat sa “sa pamamagitan ng mga gawa ng kautusan” (3:2)."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang pag-asa ng katuwiran ay tumutukoy sa katuwirang inaasahan natin, na si Kristo Mismo (1 Cor. 1:30). Ito ay hindi sa pamamagitan ng mga gawa ng kautusan sa laman kundi sa pamamagitan ng pananampalataya sa Espiritu."
+        },
+        {
+            "id": "6-1",
+            "text": "Walang anumang lakas, walang anumang praktikal na kapangyarihan."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang buháy na pananampalataya ay aktibo. Ito ay gumagawa upang maisakauparan ang kautusan sa pamamagitan ng pag-ibig (b.14). Ang pagtutuli ay isang panlabas na ordinansa lamang, walang kapangyarihan ng buhay, kung kaya ito ay walang ibinubunga. Ang pananampalataya ay tumatanggap ng Espiritu ng buhay (3:2), na punung-puno ng kapangyarihan. Ito ay gumagawa sa pamamagitan ng pag-ibig upang maisakatuparan hindi lamang ang kautusan bagkus ang layunin din ng Diyos, yaon ay, ang mabuo ang pagka-anak ng Diyos para sa Kanyang samasamang kahayagan—ang Katawan ni Kristo."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang pag-ibig ay may kaugnayan sa ating pagpapahalaga kay Kristo. Kung walang ganitong pagpapahalaga, ang pananampalataya ay hindi makagagawa. Ang pananampalataya nang dahil sa pakikinig ay nanghihikayat sa ating pag-ibig dahil sa pagpapahalaga. Lalo nating iniibig ang Panginoon, lalong gumagawa ang pananampalataya upang dalhin tayo sa mga kayamanan at kapakinabangan ng nagpapaloob ng lahat na Espiritu."
+        },
+        {
+            "id": "7-1",
+            "text": "Hindi ang doktrina kundi ang realidad na nasa loob ni Kristo, gaya ng ipinangaral ng apostol sa mga taga-Galacia."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang mga mapanghikayat na pagtuturo ng mga maka-Hudaismo na nanggambala sa mga taga-Galacia mula kay Kristo tungo sa pagtupad ng kautusan."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang mga huwad na pagtuturo ng mga maka-Hudaismo (cf. Mat. 16:12)."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang limpak ay ang kalipunan ng mga mananampalataya. Ang buong limpak ay ang ekklesia."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang pagtutuli ay anino ng pagtutuos sa laman ng tao; ang krus ang realidad ng pagtutuos na ito (Col. 2:11-12). Sinikap ng mga maka-Hudaismo na ibalik ang mga taga-Galacia sa anino; si Apostol Pablo naman ay nagpunyaging mapanatili sila sa realidad."
+        },
+        {
+            "id": "12-1",
+            "text": "Ninasa ni Apostol Pablo na ang mga maka-Hudaismong nanggugulo sa mga taga-Galacia sa pamamagitan ng pagpipilit tungkol sa pagtutuli ay hindi lamang magpatuli ng kanilang sarili bagkus putulin ang kanilang mga sarili. Ang kanilang mga mapanggulo at mapanggambalang sarili ay kinakailangang maputol."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang kalayaang walang limitasyon ay hahantong sa kalayawan ng laman. Ang kalayaang may limitasyon ay hahantong sa ating pag-ibig sa tao at sa pamamagitan ng pag-ibig na ito, mapaglilingkuran natin bilang mga alipin ang iba (cf. b. 14)."
+        },
+        {
+            "id": "13-2",
+            "text": "Tingnan sa tala 3-2 sa kapitulo 3."
+        },
+        {
+            "id": "16-1",
+            "text": "Gr. peripateo , tapakan ang lahat ng lugar, yaon ay, ang lumakad nang may kalayaan, samakatwid ay, tumutukoy sa ating pang-araw-araw na pamumuhay, kinapapalooban ng ating pagkilos, paggawa at pagkatao (cf. Roma 6:4; 8:4; Fil. 3:17-18)."
+        },
+        {
+            "id": "16-2",
+            "text": "Batay sa pinakakahulugan ng kapitulong ito, ang Espiritu rito ay ang Espiritu Santo na Siyang nananahan at naihahalo sa ating naisilang-na-muling espiritu. Ang lumakad sa pamamagitan ng Espiritu ay ang mapamahalaan ang ating pagkilos at pamumuhay ng Espiritu Santo mula sa loob ng ating espiritu. Ito ay naiiba sa ating pagkilos sa pamumuhay na napamamahalaan ng kautusan sa loob ng ating laman. Tingnan ang tala 3-2 sa kapitulo 3.Ang laman ay ang sukdulang kahayagan ng natisod na tao na may tatlong bahagi (Gen. 6:3); ang Espiritu ay ang sukdulang kaganapan ng dumaan sa iba’t ibang hakbanging Tres-unong Diyos (Juan 7:39). Dahil sa pagtutubos ni Kristo at sa gawaing pagsisilang na muli ng Espiritu, tayo ay naging mga taong nakatanggap ng pamamahagi ng Diyos, kaya nagkaroon ng kakayahang gumawa hindi sa pamamagitan ng laman, ni sa pamamagitan ng natisod na tao, kundi sa pamamagitan ng Espiritu, sa pamamagitan ng Tres-unong Diyos na dumaan sa iba’t ibang hakbangin. Sa pagsulat ni Pablo ng aklat na ito, sa negatibong panig, hindi lamang niya inililigtas ang mga mananampalatayang taga-Galacia na lumisan sa kautusan bagkus, sa positibong panig, ay makilala nila na sa loob ng espiritu ng isang mananampalataya ay may nagpapaloob ng lahat na Espiritung nagbibigay-buhay na nagbibigay ng kakayahan sa kanila na makapamuhay at makagawa sa loob ng Espiritung ito."
+        },
+        {
+            "id": "17-1",
+            "text": "Ukol sa laman at Espiritu, tingnan ang tala 3-2 sa kapitulo 3 at 19-1 at 22-1 sa kapitulong ito."
+        },
+        {
+            "id": "17-2",
+            "text": "Tingnan ang tala 16-2 ."
+        },
+        {
+            "id": "17-3",
+            "text": "Tingnan ang tala 23-2 sa Roma 7."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang kautusan ay may kaugnayan sa ating laman (Roma 7:5), at ang ating laman ay laban sa Espiritu (b.17). Samakatwid, ang Espiritu ay salungat sa kautusan. Kung tayo ay lumalakad sa pamamagitan ng Espiritu sa ating naisilang na muling espiritu, tiyak na hindi natin gagawin ang mga pita ng ating laman (b.16); kung tayo ay pinapatnubayan ng Espiritu, tayo ay hindi mapasasailalim ng kautusan. Ang Espiritu ng buhay, hindi ang kautusan ng mga titik, ang ating naggagabay na prinsipyo, pinamamahalaan ang ating Kristiyanong pamumuhay sa loob ng ating naisilang na muling espiritu."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang laman ang siyang kahayagan ng lumang Adam. Ang natisod na buhay ng lumang Adam ay naihahayag nang praktikal sa laman, at ang mga gawa ng laman, gaya ng naitala sa mga bersikulo 19 hanggang 21, ay iba’t ibang aspekto ng gayong makalaman na kahayagan. Ang pakikiapid, karumihan, kahalayan, paglalasing, at mga kalayawan ay kaugnay sa pita ng napasamang katawan. Ang mga pagtataniman ng galit, mga pagtatalo, mga paninibugho, mga pag-aalitan, mga pagkakampi-kampi, mga pagkakabaha-bahagi, mga hidwaang pananampalataya, at mga pagkainggit ay kaugnay ng natisod na kaluluwa na napakalapit sa napasamang katawan. Ang pagsamba sa diyos-diyosan at pangkukulam ay may kaugnayan sa namatay na espiritu. Ito ay nagpapatunay na ang tatlong bahagi – ang espiritu, kaluluwa, at katawan – ng ating natisod na katauhan ay pawang nasasangkot sa masamang laman."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang pakikiapid, karumihan, at kahalayan ay nabibilang sa isang pangkat na hinggil sa masamang nasa."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang pagsamba sa diyos-diyosan at ang pangkukulam ay nabibilang sa isang pangkat na hinggil sa makademonyong pagsamba."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang mga pagtataniman ng galit, mga pagtatalo, mga paninibugho, at mga pag-aalitan ay nabibilang sa isang pangkat na tungkol sa pagiging wala sa mabuting kundisyon ng kalooban."
+        },
+        {
+            "id": "20-3",
+            "text": "Ang mga pagkakampi-kampi, mga pagkakabaha-bahagi, mga hidwaang pananampalataya, at mga pagkainggit ay kabilang sa isang pangkat hinggil sa mga sekta."
+        },
+        {
+            "id": "20-4",
+            "text": "Lit. mga erehiya, na nangangahulugang mga grupo ng mga opinyon (Darby’s New Translation), mga sekta."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang paglalasing at mga kalayawan ay kabilang sa isang pangkat hinggil sa pagkagumon sa kasamaan o layaw ng katawan."
+        },
+        {
+            "id": "21-2",
+            "text": "*Gr. prasso ; sa Ingles ay ” to practice ”; yaon ay, paulit-ulit na isinasagawa hanggang sa makasanayan na."
+        },
+        {
+            "id": "21-3",
+            "text": "Ang pagmamana ng kaharian ng Diyos ay tumutukoy sa pagtatamasa sa darating na kaharian bilang isang gantimpala sa mga mandaraig na mananampalataya. Ito ay naiiba sa kaligtasan ng mga mananampalataya sapagka’t ito ay tumutukoy sa gantimpala bilang karagdagan sa panimulang kaligtasan. Tingnan ang mga tala 5-3 sa Efeso 5 at 28-1 sa Hebreo 12."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang mga nagagawa ng laman ay pawang “mga gawa” ngunit walang buhay (b.19); ang ibinubunga ng Espiritu ay “bunga” na punung-puno ng buhay. Ang bunga ng Espiritu, bilang iba’t ibang kahayagan ng Espiritu na Siyang buhay sa atin, ay naitala rito at mayroon lamang siyam na bagay bilang mga halimbawa. Bukod pa rito, marami pang bagay katulad ng pagpapakumbaba (Efe. 4:2; Fil. 2:3), habag (Fil. 2:1), pagkamakadiyos (2 Ped. 1:6), katuwiran (Roma 14:17; Efe. 5:9), kabanalan (Efe. 4:24; Luc. 1:75), kadalisayan (Mat. 5:8) at iba pang kagalingan. Ang pagpapakumbaba ay kapwa nabanggit sa Efe. 4:2 at Col. 3:12 bilang isang kagalingan maliban sa kaamuan na naitala rito. Sa Roma 14:17 ang katuwiran, kapayapaan, at kagalakan ay pawang mga aspekto ng kaharian ng Diyos ngayon. Ngunit ang naitala lamang dito ay ang kapayapaan at kagalakan, hindi naitala ang katuwiran. Sa 2 Ped. 1:5-7, ang pagkamakadiyos at pagtitiis ay napabilang sa pagpipigil sa sarili at pag-ibig bilang mga katangian ng paglago sa espiritu, nguni’t ang mga ito ay hindi naitala rito. Sa Mat. 5:5-9, ang katuwiran, kaawaan, at kadalisayan ay napabilang sa kaamuan at kapayapaan bilang kondisyon ng realidad ng kaharian ngayon. Gayunpaman, ni isa sa tatlong kagalingan ay hindi naitala rito. Kung paanong ang laman ay ang kahayagan ng lumang Adam, ang Espiritu naman ay ang pagkatanto kay Kristo. Sa katunayan si Kristo ay naipamumuhay sa Espiritu. Ang bunga ng Espiritu na naitala rito ay ang mga katangian ni Kristo."
+        },
+        {
+            "id": "24-1",
+            "text": "Ipinakikita ng “datapuwa’t” sa bersikulo 22 ang kaibhan ng bunga ng Espiritu sa bersikulong yaon sa mga gawa ng laman sa bersikulo 19. Ipinakikita ng “datapuwa’t” sa bersikulong ito ang kaibhan ng pagkapako sa krus ng laman sa mga gawa ng laman sa bersikulo 19."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang pagkapako sa krus ng ating lumang tao sa Roma 6:6 at ang pagkapako sa krus ng “ako” sa Gal . 2:20 ay hindi tayo ang nagsakatuparan. Subalit sinasabi rito na ipinako na natin sa krus ang laman kasama ang masasamang nasa at ang mga pita nito. Ang lumang tao at ang “ako” ay ang ating katauhan; ang laman ay ang kahayagan ng ating katauhan sa ating praktikal na pamumuhay. Ang pagkapako sa krus ng ating lumang tao at ng “ako” ay isang katunayang naisagawa ni Kristo sa krus; samantalang ang pagkapako sa krus ng ating laman kasama ang masasamang nasa at ang mga pita nito ay ang ating praktikal na karanasan ng katunayang yaon. Ang praktikal na karanasang ito ay maisasakatuparan sa pamamagitan ng Espiritu sa pamamagitan ng pagsasagawa ng naisakatuparang pagkapako sa krus ni Kristo. Ito ay ang paglalagay ng mga gawi ng ating mapitang katawan kasama ang masasamang sangkap nito sa kamatayan sa pamamagitan ng Espiritu (Roma 8:13b; Col. 3:5) Hinggil sa pagdaranas sa krus, may tatlong aspekto: 1) ang tunay na pangyayaring naisakatuparan ni Kristo (Roma 6:6, Gal. 2:20), 2) ang ating paggamit ng naisakatuparang katotohanang ito (b.24), at 3) ang ating karanasan sa ating paggamit ng naisakatuparang katotohanan, pinapasan araw-araw ang krus (Mat. 16:24; Luc. 9:23)."
+        },
+        {
+            "id": "24-3",
+            "text": "Ipinakikita ng aklat na ito na ang maling paggamit ng kautusan ay laban kay Kristo (2:16) at ang laman ay nagpipita laban sa Espiritu (b.17). Napawalang-bisa na ng krus ang “ako” na kumikiling sa pagtupad ng kautusan (2:20), at napawalang-bisa na rin ng krus ang laman na nagpipita laban sa Espiritu, upang mahalinhan ni Kristo ang kautusan at mahalinhan ng Espiritu ang laman. Hindi nais ng Diyos na tuparin natin ang kautusan sa pamamagitan ng laman; ibig Niyang maipamuhay natin si Kristo sa pamamagitan ng Espiritu."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang mamuhay sa pamamagitan ng Espiritu ay nangangahulugang ang ating buhay ay nakasalalay sa at pinamamahalaan ng Espiritu, hindi ng kautusan. Ito ay katumbas ng paglakad sa pamamagitan ng Espiritu sa bersikulo 16, ngunit naiiba sa paglakad sa pamamagitan ng Espiritu sa bersikulong ito (tingnan ang tala 25-2 )."
+        },
+        {
+            "id": "25-2",
+            "text": "Gr. stoicheo , ang magmartsa sa hukbo, yaon ay, ang maglakad nang naaayon sa reglamento. Ito ang pandiwang anyo ng stoicheion , na nangangahulugang mga unang prinsipyo; samakatwid, maaari itong isaling obserbahan ang mga unang prinsipyo, lumakad nang ayon sa mga unang prinsipyo samakatwid ang magmartsa sa hukbo, may kaayusan at sabay-sabay na paghakbang (tingnan ang 6:16; Gawa 21:24; mga tala 12-1 sa Roma 4 at 16-4 sa Fil. 3). Ang “magsilakad” sa bersikulo16 at ang “magsilakad” sa bersikulong ito ay pawang sa pamamagitan ng Espiritu, pinamamahalaan ng Espiritu; ang magsilakad sa bersikulo 16 ay tumutukoy sa pangkalahatan at pang-araw-araw na paglakad samantalang ang “magsilakad” sa bersikulong ito ay tumutukoy sa isang gol at direksiyon ng pamumuhay, at ang pangunahing prinsipyo sa paglakad na ito ay ang Espiritu. Ang pangunahing alituntunin naman ay ang mamuhay sa loob ng bagong nilalang (6:16 at tala 1), masigasig na naghahabol kay Kristo upang makamtan Siya (Fil. 3:12 at tala) at ang magbuhay-ekklesia (Roma 12:1-5; Efe. 4:1-16) upang ang ganitong paglakad na ninanais ng Diyos para sa ekklesia ay mapaunlad at maisakatuparan sa loob ni Kristo."
+        },
+        {
+            "id": "26-1",
+            "text": "Ito ang resulta ng paglakad sa pamamagitan ng Espiritu na nakatala sa bersikulo 25. Ang pagiging mapaghangad sa gloryang walang kabuluhan, pagmumungkahian sa galit sa isa’t isa, at pagkakainggitan ay pawang kabilang sa laman (cf. b.24). Ang paghahangad sa gloryang walang kabuluhan ay nakakapagmungkahi sa tao na magalit at nag-uudyok ng pag-iinggitan. Kung sa pamamagitan ng Espiritu ay papatayin natin ang paghahangad sa gloryang walang kabuluhan, pagmumungkahian sa galit sa isa’t isa, at pag-iinggitan, ang resulta ay kapayapaan. Ang tatlong bagay na ito ay napakapraktikal upang masubukan kung tayo nga ba ay lumalakad sa pamamagitan ng Espiritu o hindi."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 7,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "pumasok",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -74,7 +74,7 @@
             "footnotes": [
                 {
                     "word": "pagkatapos",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -93,7 +93,7 @@
             "footnotes": [
                 {
                     "word": "habag",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -122,7 +122,7 @@
             "footnotes": [
                 {
                     "word": "Judea",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -133,7 +133,7 @@
             "footnotes": [
                 {
                     "word": "Juan",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": [
@@ -146,7 +146,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -169,7 +169,7 @@
             "footnotes": [
                 {
                     "word": "dinadala",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -180,7 +180,7 @@
             "footnotes": [
                 {
                     "word": "pinagpala",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -227,11 +227,11 @@
             "footnotes": [
                 {
                     "word": "pinawalang-",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "30-2"
                 }
             ],
             "outlines": null
@@ -280,7 +280,7 @@
             "footnotes": [
                 {
                     "word": "nagdala",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -291,15 +291,15 @@
             "footnotes": [
                 {
                     "word": "buhok",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "38-2"
                 },
                 {
                     "word": "ungguwento.",
-                    "note": ""
+                    "id": "38-3"
                 }
             ],
             "outlines": null
@@ -310,7 +310,7 @@
             "footnotes": [
                 {
                     "word": "kung",
-                    "note": ""
+                    "id": "39-1"
                 }
             ],
             "outlines": null
@@ -321,7 +321,7 @@
             "footnotes": [
                 {
                     "word": "sumagot",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": null
@@ -332,11 +332,11 @@
             "footnotes": [
                 {
                     "word": "dalawang",
-                    "note": ""
+                    "id": "41-1"
                 },
                 {
                     "word": "denario,",
-                    "note": ""
+                    "id": "41-2"
                 }
             ],
             "outlines": null
@@ -347,15 +347,15 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "42-1"
                 },
                 {
                     "word": "pinatawad",
-                    "note": ""
+                    "id": "42-2"
                 },
                 {
                     "word": "kung",
-                    "note": ""
+                    "id": "42-3"
                 }
             ],
             "outlines": null
@@ -372,7 +372,7 @@
             "footnotes": [
                 {
                     "word": "binigyan",
-                    "note": ""
+                    "id": "44-1"
                 }
             ],
             "outlines": null
@@ -395,11 +395,11 @@
             "footnotes": [
                 {
                     "word": "nagmahal",
-                    "note": ""
+                    "id": "47-1"
                 },
                 {
                     "word": "nagmamahal",
-                    "note": ""
+                    "id": "47-1"
                 }
             ],
             "outlines": null
@@ -410,7 +410,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -421,7 +421,7 @@
             "footnotes": [
                 {
                     "word": "Sino",
-                    "note": ""
+                    "id": "49-1"
                 }
             ],
             "outlines": null
@@ -432,14 +432,120 @@
             "footnotes": [
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "50-1"
                 },
                 {
                     "word": "payapa.",
-                    "note": ""
+                    "id": "50-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Para sa bb. 1-10, tingnan ang mga tala sa Mat. 8:5-13."
+        },
+        {
+            "id": "11-1",
+            "text": "O, sa sumunod na araw."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang pangyayari ay bukod-tangi sa katindihan ng kalungkutan — ang bugtong na anak na lalake ng isang balo ay pinapasan sa loob ng isang kabaong. Ang habag ng Tagapagligtas ay bukod-tangi rin sa Kanyang nagmamahal na pakikiramay — Siya ay kusang-loob na nagbigay, sa Kanyang magiliw na habag, ng Kanyang kapangyarihan ng pagkabuhay na muli upang ibangon ang anak ng balo mula sa kamatayan, kahit na hindi siya hinilingang gawin ito. Ito ay nagpapakita ng bukod-tanging gawain na ipinagkatiwala sa Kanya, naparito upang iligtas ang mga nawawalang makasalanan (19:10), at ipinakikita ang mataas na pamantayan ng Kanyang moralidad, bilang isang Taong-Tagapagligtas, sa pagliligtas sa mga makasalanan."
+        },
+        {
+            "id": "17-1",
+            "text": "Isang pangkaraniwang pangalan ng bayan ng mga Hudyo, kasama ang Galilea kung saan naroon ang lunsod ng Nain (tingnan ang tala 44-2 sa kapitulo 4)."
+        },
+        {
+            "id": "18-1",
+            "text": "Para sa bb. 18-35, tingnan ang mga tala sa Mat. 11:2-19."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang ilang manuskrito ay binabasang, kay Hesus."
+        },
+        {
+            "id": "22-1",
+            "text": "Tingnan ang tala sa 43-1 sa kapitulo 4."
+        },
+        {
+            "id": "23-1",
+            "text": "Bagama’t tila hindi gumagawa para sa akin ang Panginoon at ako ay hindi natitisod, ako ay pinagpala."
+        },
+        {
+            "id": "30-1",
+            "text": "O, isinaisantabi, pinawalangsaysay."
+        },
+        {
+            "id": "30-2",
+            "text": "Hindi mga abogado ng batas, kundi mga dalubhasang nagtuturo ng mga kautusan ni Moises."
+        },
+        {
+            "id": "37-1",
+            "text": "O, naghanda."
+        },
+        {
+            "id": "38-1",
+            "text": "Ang buhok ay ang kaluwalhatian ng babae (1 Cor. 11:15), ang pinakamataas na bahagi ng kanyang katawan. Sa pamamagitan ng kanyang pinakamataas na bahagi pinunasan niya ang mga paa ng Tagapagligtas, ang pinakamababang bahagi ng Kanyang katawan, minamahal Siya sa pamamagitan ng kanyang kaluwalhatian."
+        },
+        {
+            "id": "38-2",
+            "text": "Sa loob ng pag-ibig."
+        },
+        {
+            "id": "38-3",
+            "text": "Tumutukoy na hinangaan ng babaeng yaon ang kahalagahan at katamisan ng Panginoon. Maging ang mga paa ng Tagapagligtas ay karapat-dapat din sa kanyang matamis na pagmamahal."
+        },
+        {
+            "id": "39-1",
+            "text": "Isang napakalaking kalipunan ng mga tao sa Nain, na nakasaksi sa Kanyang kapangyarihan ng pagkabuhay na muli, ang kumilala sa Tagapagligtas bilang isang dakilang Propeta (b. 16). Ngunit ang Fariseo ay nagtaka kung Siya nga ay isang propeta. Hindi lamang siya nag-alinlangan tungkol sa Tagapagligtas, hinamak din niya ang babae bilang isang makasalanan."
+        },
+        {
+            "id": "40-1",
+            "text": "Nagpapakita ng kaalaman ng Tagapagligtas sa lahat ng bagay."
+        },
+        {
+            "id": "41-1",
+            "text": "Ipinalagay ni Simon na ang babae lamang, hindi siya mismo, ang makasalanan, at nag-alinlangan na alam ng Tagapagligtas na ang babae ay isang makasalanan. Datapuwa’t ang talinghaga ng Tagapagligtas ay nagpakita na siya at ang babae ay parehong makasalanan — mga may pagkakautang sa Kanya na pawang nangangailangan ng Kanyang kapatawaran."
+        },
+        {
+            "id": "41-2",
+            "text": "Tingnan ang tala 7-1 sa Juan 6."
+        },
+        {
+            "id": "42-1",
+            "text": "Ipinakikita na ang lahat ng makasalanan ay walang maibabayad sa kanilang utang sa Diyos na kanilang Tagapagligtas."
+        },
+        {
+            "id": "42-2",
+            "text": "Ipinakikita na pinatawad na silang pareho ng Tagapagligtas."
+        },
+        {
+            "id": "42-3",
+            "text": "Ipinakikita na ang kanilang pagmamahal sa Tagapagligtas ang kinalabasan, hindi ang dahilan, ng pagpapatawad ng Tagapagligtas."
+        },
+        {
+            "id": "44-1",
+            "text": "Ang salita ng Tagapagligtas sa bb. 44-46 ay nagpapakita na dapat tularan ni Simon ang babae at matuto sa kanya."
+        },
+        {
+            "id": "47-1",
+            "text": "Ang kanyang malaking pagmamahal ay isang katunayan ng kanyang maraming kasalanang pinatawad na; ang kaunting pagmamahal ni Simon ay nagpapatotoo sa kanyang kaunting kasalanan na pinatawad."
+        },
+        {
+            "id": "48-1",
+            "text": "Ang pangyayaring ito at ang pangyayari sa bugtong na anak na lalake ng balo sa Nain (bb. 11-17) ay parehong matatagpuan lamang sa Ebanghelyong ito, ipinakikita ang magiliw na pag-aaruga ng Tagapagligtas sa mga patay at mga makasalanan, at inihahatid ang prinsipyo ng moralidad bilang bukod-tanging katangian ng Ebanghelyong ito."
+        },
+        {
+            "id": "49-1",
+            "text": "Hindi naunawaan ng mga kasama sa piging na ang Taong-Tagapagligtas na ito ay ang mismong Diyos, na may kapangyarihang magpatawad ng kasalanan ng tao. Tingnan ang tala 7-1 sa Marcos 2."
+        },
+        {
+            "id": "50-1",
+            "text": "Ang “yumaon kang payapa” sa literal ay “yumaon ka sa pagtahak sa loob ng kapayapaan.” Ang pinatawad na babae ay hindi lamang may pagmamahal sa Tagapagligtas bagkus may pananampalataya rin sa Kanya; ang pananampalataya ay gumagawa sa pamamagitan ng pag-ibig (Gal. 5:6) at nagreresulta sa kapayapaan. Ang pananampalatayang nagligtas sa kanya ang nagdala sa kanya sa Tagapagligtas sa loob ng pag-ibig at nagresulta sa kanyang pagyaon sa kapayapaan. Ang pananampalataya, pag-ibig, at kapayapaan ay tatlong mahalagang kagalingan sa pagdaranas at pagtatamasa sa pagliligtas ng Panginoon. Ang pananampalataya ay naibubunga sa pamamagitan ng pagkakilala sa Tagapagligtas sa Kanyang nagliligtas na kapangyarihan at kagalingan. Ang pag-ibig ay nagmumula sa pananampalatayang ito at nagreresulta sa kapayapaan upang sumunod sa Tagapagligtas. Sa loob ng pamumuhay ng pagsunod sa Tagapagligtas, ang pananampalataya at pag-ibig ay makapagdadala sa atin ng kapayapaan, upang matamasa natin ang buhay ng Panginoon at sa gayon ay lumago tayo."
         }
     ]
 }

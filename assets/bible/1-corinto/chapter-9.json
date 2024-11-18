@@ -1,5 +1,5 @@
 {
-    "chapter": 9,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,23 +7,23 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "malaya?",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "apostol?",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "nakita",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "gawa",
-                    "note": ""
+                    "id": "1-5"
                 }
             ],
             "outlines": [
@@ -37,11 +37,11 @@
             "footnotes": [
                 {
                     "word": "inyo",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "tatak",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -52,7 +52,7 @@
             "footnotes": [
                 {
                     "word": "pagsasanggalang",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -63,15 +63,15 @@
             "footnotes": [
                 {
                     "word": "Wala",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "karapatang",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "magsikain",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": [
@@ -127,7 +127,7 @@
             "footnotes": [
                 {
                     "word": "tinitiis",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -138,7 +138,7 @@
             "footnotes": [
                 {
                     "word": "banal",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -155,7 +155,7 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -174,11 +174,11 @@
             "footnotes": [
                 {
                     "word": "gantimpala",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "pagkakatiwala.",
-                    "note": ""
+                    "id": "17-2"
                 }
             ],
             "outlines": null
@@ -207,15 +207,15 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -226,7 +226,7 @@
             "footnotes": [
                 {
                     "word": "nakibagay",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -237,7 +237,7 @@
             "footnotes": [
                 {
                     "word": "kasamang",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -248,11 +248,11 @@
             "footnotes": [
                 {
                     "word": "nagsisitakbo",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "gantimpala?",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": [
@@ -265,7 +265,7 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -282,22 +282,132 @@
             "footnotes": [
                 {
                     "word": "binubugbog",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "sinusupil",
-                    "note": ""
+                    "id": "27-2"
                 },
                 {
                     "word": "pagkapangaral",
-                    "note": ""
+                    "id": "27-3"
                 },
                 {
                     "word": "disaprubado.",
-                    "note": ""
+                    "id": "27-4"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang kapitulong ito ay isang isiningit na bahagi sa seksiyong ito ukol sa pagkain ng mga inihain sa diyos-diyosan. Sa isiningit na bahaging ito ay ibinigay ng apostol ang kanyang sarili sa mga mananampalatayang taga-Corinto bilang isang tularan, upang hindi nila matisod ang iba kundi patatagin sila sa pamamagitan ng pagsasagawa ayon sa prinsipyo ng mapag-arugang pag-ibig sa 8:13."
+        },
+        {
+            "id": "1-2",
+            "text": "Si Apostol Pablo ay malaya sa lahat ng tao, hindi napaaalipin kaninuman (b. 19). Bagama’t siya ay nagsasagawa ayon sa prinsipyo ng mapag-arugang pag-ibig, hindi siya nagagapos ng anumang partikular na paraan ng pagkain. Ang lahat ng mananampalatayang nasa loob ni Kristo ay nararapat na maging ganyan."
+        },
+        {
+            "id": "1-3",
+            "text": "Sa kanyang pagbibigay ng kanyang sarili bilang isang tularan sa mga mananampalataya, ang apostol ay dumako sa kanyang pagkaapostol, na nagbibigay sa kanya ng awtoridad upang tuusin ang lahat ng mga suliranin na tinalakay sa aklat na ito. Ang mga suliraning ito ay mga malubhang suliranin hinggil sa buhay-ekklesia at sa pagsasalamuha ng ekklesia. Ang pagtutuos niya sa mga suliraning ito ay hindi lamang batay sa kanyang pagtuturo, bagkus batay rin sa awtoridad na kalakip sa kanyang pagka-apostol. Upang matuos ang ganitong kalagayan kinakailangan niyang gamitin ang kanyang pagka-apostol at gawing malinaw sa mga mananampalatayang taga-Corinto ang ukol sa kanyang katayuan. Pinag-alinlanganan nila ang kanyang pagka-apostol at sila ay nasa magulong kalagayan, na ang pangunahing dahilan ay ang kamangmangan ng kanilang makasanlibutang karunungan, pagtitiwala sa kanilang mga sarili, at pagmamataas. Ang “apostol” ay isang salitang Griyego na nangangahulugang “isa na isinugo.” Ang isang apostol ng Panginoon ay isang mananampalatayang isinugo Niya na taglay ang Kanyang awtoridad upang ipangaral ang ebanghelyo ng Diyos, upang ituro ang dibinong katotohanan, at upang magtatag ng mga ekklesia. Sina Pedro at Juan ay mga gayong apostol sa unang bahagi ng Aklat ng Mga Gawa (sa mga Hudyo), at sina Pablo at Bernabe ay mga gayong apostol sa ikalawang bahagi ng Mga Gawa (sa mga Hentil). Kasunod nila, ang iba ay naging mga apostol din, gaya nina Silas at Timoteo (I Tes. 1:1; 2:6). Hangga’t ang isa ay may kalakasang ipangaral ang ebanghelyo, may kaloob upang magturo ng dibinong katotohanan, at may kakayahang magtatag ng mga ekklesia, siya ay karapat-dapat at napatunayan na upang maging isang apostol na isinugo ng Panginoon na taglay ang Kanyang pag-aatas at awtoridad."
+        },
+        {
+            "id": "1-4",
+            "text": "Ito ay tumutukoy sa pagkakita ni Pablo sa Panginoon sa Kanyang maluwalhating nabuhay na muling katawan (15:5-8). Ito ay isang tanging pribilehiyo; ito ay nagbubuo ng kaunting karangalan at kaluwalhatian sa nakakita, subali’t ito ay hindi kondisyon o isang kwalipikasyon para sa pagiging isang apostol ng Panginoon. Ito ay lubos na pinatunayan ng kaso ni Bernabe na bagama’t hindi niya nakita ang Panginoon sa ganitong paraan siya ay isa sa mga apostol (Gawa 14:14). Gayunpaman, ang makilala ang Panginoon sa espiritu sa pamamagitan ng espirituwal na pahayag ay tiyak na kinakailangan upang maging isang apostol."
+        },
+        {
+            "id": "1-5",
+            "text": "Ang mabungang resulta ng kanyang gawain sa Panginoon ay isang patunay, hindi isang kwalipikasyon, ng pagka-apostol ni Pablo."
+        },
+        {
+            "id": "2-1",
+            "text": "Sapagka’t sila ay isinilang niya sa Panginoon sa pamamagitan ng ebanghelyo (4:15). Ang bunga ng kanyang pagpapagal ay ang katibayan ng kanyang pagka-apostol."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang sapat na bunga ng mabisang gawain ng apostol ay hindi lamang isang katibayan, isang katunayan, bagkus gayon din ay isang tatak ng kanyang pagka-apostol. Ito ay naglalagay ng mapagkakakilanlang tanda sa kanyang gawaing pang-apostol na nagpapatotoo at nagpapatibay ng kanyang pagka-apostol."
+        },
+        {
+            "id": "3-1",
+            "text": "Tumutukoy sa kanyang mga sinalita nang detalyado sa mga bersikulo 1-2."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pagsasanggalang ng apostol sa mga bersikulo 4-15 ay may kalakasang-loob, matuwid, matibay at direkta. Ipinakikita nito na siya ay isang taong may dalisay na puso at espiritu. Ipinahahayag din nito na sa gawain ng Panginoon ang kanyang tanging layunin ay si Kristo at ang Kanyang Katawan."
+        },
+        {
+            "id": "4-2",
+            "text": "O, kalayaan. Lit. awtoridad (at gayundin hanggang bersikulo 18). Tulad ng sa 8:9."
+        },
+        {
+            "id": "4-3",
+            "text": "Ang kumain at uminom para sa ebanghelyo (b. 14) sa gugol ng mga banal at mga ekklesia."
+        },
+        {
+            "id": "12-1",
+            "text": "O, pinagtitiyagaan. Lit. inilalaman (katulad ng sisidlan), ikinukubli; sa gayon, tinatakpan (katulad ng bubong)."
+        },
+        {
+            "id": "13-1",
+            "text": "Banal, hindi katulad ng nasa Roma 1:2 at Luc. 1:75 nguni’t katulad ng nasa II Tim. 3:15; ito ay tumutukoy sa kabanalan na may kaugnayan sa pagsamba sa Diyos."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang apostol ay lubhang ganap para sa interes ng Panginoon. Hindi lamang siya nahahandang ipagpakasakit ang lahat ng kanyang mga karapatan (bb. 12, 15a, 18), bagkus maging ang ibuwis ang kanyang buhay bilang halaga."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang aklat na ito ay isinulat hindi upang tulungan ang mga nawawalang makasalanan na maligtas, kundi upang tulungan ang mga naligtas na mananampalataya na lumago (3:6-7), upang magtayo sa pamamagitan ng mahahalagang materyal (3:10, 12-14), upang pangalagaan ang mga sangkap ng Katawan ng Panginoon (8:9-13), at upang makatakbo sa takbuhan (b. 24). Sa gayon, ang gantimpala ay binanggit nang paulit-ulit bilang pampasigla sa pagsulong ng mga mananampalataya (3:14; 9:18, 24-25). Tingnan ang tala 35-1 sa Hebreo 10."
+        },
+        {
+            "id": "17-2",
+            "text": "O, pansambahayang pangangasiwa, sambahayang pamamahagi. Ang apostol ay hindi lamang isang mangangaral kundi isang katiwala sa bahay ng Diyos, isang tagapangasiwa ng sambahayan, ipinamamahagi ang kaligtasan, buhay, at mga kayamanan ni Kristo sa Kanyang mga mananampalataya. Ang gayong ministeryo ay ang pagkakatiwala na ipinagkatiwala at iniatas sa kanya (Efe. 3:2; II Cor. 4:1)."
+        },
+        {
+            "id": "21-1",
+            "text": "Gr. anomos, yaon ay, sa labas ng kinasasaklawan, ng limitasyon ng kautusan, sa gayon ay walang kautusan."
+        },
+        {
+            "id": "21-2",
+            "text": "Gr. ennomos, yaon ay, sa loob ng kinasasaklawan, ng limitasyon ng kautusan, sa gayon, ay nagpapasakop sa kautusan. Itinuturing ni Pablo si Kristo bilang kanyang buhay at namumuhay siya sa pamamagitan ni Kristo. Ang Kristong nabubuhay sa loob niya bilang kanyang buhay na may dala ng kautusan ng buhay ay Siya rin Mismong kautusan ng buhay (Roma 8:2), pinamamahalaan siya, nireregula siya upang siya ay maging wasto, angkop, matuwid, at nararapat kay Kristo, kaya, siya ay nasa loob ng isang higit na mataas at higit na mabuting kautusan at nagpapasakop siya sa ganitong kautusan ng buhay. Sa gayon, tungo sa Diyos, hindi rin naman siya isang taong nasa labas ng kautusan o kaya ay isang taong walang kautusan."
+        },
+        {
+            "id": "22-1",
+            "text": "Ito ay nangangahulugang ibinabagay ng apostol ang kanyang sarili sa lahat ng bagay, yaon ay, sa iba’t ibang paraan ng pagkain at kaugalian (b. 23), para sa kapakanan ng lahat ng tao."
+        },
+        {
+            "id": "23-1",
+            "text": "Lit . kasamang nagtatamasa sa ebanghelyong ito (kalahok, katulong, kasama). Ang apostol ay hindi lamang kasamang kabahagi , kalahok, na nagtatamasa ng ebanghelyo, bagkus isa ring katulong, kasama, na nagpapagal para sa ebanghelyo. Gayunpaman, dito ay tinutukoy niya ang pagtatamasa ng ebanghelyo. Sa gayon, ating ginawang “kasamang kabahagi” sa teksto."
+        },
+        {
+            "id": "24-1",
+            "text": "Ipinahahayag nito na ang buhay-Kristiyano ay isang takbuhang dapat nating takbuhin nang matagumpay."
+        },
+        {
+            "id": "24-2",
+            "text": "Yaon ay, isang gantimpala bilang pampasigla. Tingnan ang tala 17-1 ."
+        },
+        {
+            "id": "25-1",
+            "text": "Tumutukoy na noong sinaunang panahon, ang putong na natatanggap sa pangkalusugang paligsahan ay yari lamang sa dahon. Ang walang pagkasirang putong, na igagantimpala ng Panginoon sa Kanyang mga mananaig na banal na mananalo sa takbuhan, ay isang gantimpalang karagdagan sa kaligtasan (tingnan ang tala 35-1 sa Heb. 10). Tayong lahat na mga mananampalataya ng Panginoon ay nakatanggap na ng Kanyang pagliligtas sa pamamagitan ng pananampalataya sa Kanya. Ito ay naisaayos na nang minsan para sa lahat. Subali’t kung tayo ay gagantimpalaan Niya o hindi sa darating na panahon ay nakasalalay sa kung paano natin tinatakbo ang takbuhan. Dito sa kapitulong ito ay tinatakbo ng apostol ang takbuhan (b. 26). Sa Filipos, na isa sa kanyang mga huling Sulat, siya ay tumatakbo pa rin (Fil. 3:14). Siya ay nagkaroon ng katiyakang siya ay magagantimpalaan ng Panginoon sa Kanyang pagpapakita noon lamang huling sandali ng kanyang pagtakbo, sa II Tim. 4:6-8. Tungkol sa gantimpalang ito, inatasan ng apostol ang mga mananampalatayang taga-Corinto na takbuhin ang takbuhan upang matamo nila ang gantimpala (b. 24)."
+        },
+        {
+            "id": "27-1",
+            "text": "Lit. ang hampasin ang mukha sa ilalim ng mata hanggang sa mangitim at mangasul. Ito ay hindi ang saktan ang katawan gaya ng sa asetisismo, ni ang ibilang ang katawan na masama gaya ng sa Nostisismo. Ito ay ang supilin ang katawan at gawin itong natalong bihag upang paglingkuran tayo bilang alipin para sa pagsasakatuparan ng ating banal na layunin. Ito ay katumbas ng paglalagay sa kamatayan ng ating mga sangkap na nasa lupa (Col. 3:5) at paglalagay sa kamatayan ng mga gawain ng katawan (Roma 8:13), na hindi pinahihintulutan ang ating katawan na magamit para sa pagpapalayaw ng pita ni gumawa ng anumang bagay sa ating sarili maliban sa kung ano ang banal sa Diyos. Ginamit sa maling paraan ng mga taga-Corinto ang kanilang katawan sa pamamagitan ng pagpapakalayaw sa pakikiapid, hindi nagpapahalaga sa templo ng Diyos (6:19), at sa walang pagpipigil na pagkain ng mga inihain sa mga diyos-diyosan, hindi inaaruga ang mahihinang mananampalataya (8:9-13)."
+        },
+        {
+            "id": "27-2",
+            "text": "Isang metapora, na nangangahulugang dalhin ang natalo bilang bihag at alipin, upang madala ang bihag sa pagkaalipin, ginagawa siyang alipin upang magamit sa layunin ng manlulupig."
+        },
+        {
+            "id": "27-3",
+            "text": "Ayon sa pakahulugan ng nilalaman ng mga bersikulo 24-27 ito ay tumutukoy sa pangangaral ng gantimpala bilang pampasigla sa mga tumatakbong Kristiyano. Ang gantimpalang ito ay may kaugnayan sa kaharian, ang kahayagan ng kaharian na magiging isang gantimpala sa mga mandaraig na banal na nagtagumpay sa takbuhan ng mga Kristiyano. Tingnan ang tala 28-1 sa Hebreo 12."
+        },
+        {
+            "id": "27-4",
+            "text": "O, hindi karapat-dapat, hindi katanggap-tanggap, yaon ay, hindi karapat-dapat sa gantimpala. Ang apostol ay tiyak na iniligtas ng biyaya sa pamamagitan ng pananampalataya kay Kristo. Hindi lamang gayon, siya rin ay tinawag upang maging apostol upang isagawa ang Bagong Tipang ekonomiya ng Diyos. Gayunpaman, dito siya ay alertung-alerto sa takbuhan na kanyang tinatakbo (Gawa 20:24) sa pamamagitan ng pagsupil sa kanyang katawan upang magamit sa kanyang banal na layunin nang sa gayon siya ay hindi disaprubahan at hindi tanggihan sa harap ng hukuman ni Kristo (II Cor. 5:10) at hindi matagpuang hindi karapat-dapat sa gantimpala ng darating na kaharian. Tingnan ang Mat. 7:21-23 at 25:11-12."
         }
     ]
 }

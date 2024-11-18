@@ -1,5 +1,5 @@
 {
-    "chapter": 17,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,14 +7,16 @@
             "footnotes": [
                 {
                     "word": "Tesalonica,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "d. Sa Tesalonica\n 17:1-9"
+            ]
         },
         {
             "id": "2",
@@ -22,7 +24,7 @@
             "footnotes": [
                 {
                     "word": "pumasok",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -39,7 +41,7 @@
             "footnotes": [
                 {
                     "word": "nakiisa",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -56,7 +58,7 @@
             "footnotes": [
                 {
                     "word": "sanlibutan",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -83,7 +85,9 @@
             "id": "10",
             "text": "At pinayaong madali ng mga kapatid sina Pablo at Silas nang gabi ring yaon patungo sa Berea, na nang magsidating ay nagsipasok sa sinagoga ng mga Hudyo.",
             "footnotes": [],
-            "outlines": null
+            "outlines": [
+                "e. Sa Berea\n 17:10-13"
+            ]
         },
         {
             "id": "11",
@@ -107,7 +111,10 @@
             "id": "14",
             "text": "At kapagdaka ay pinayaon ng mga kapatid si Pablo upang pumaroon hanggang sa dagat, subali’t si Silas at Timoteo ay nanatili roon.",
             "footnotes": [],
-            "outlines": null
+            "outlines": [
+                "f. Sa Atenas\n 17:14-34",
+                "(1) Isinugo ng mga Kapatid\n bb. 14-15"
+            ]
         },
         {
             "id": "15",
@@ -115,7 +122,7 @@
             "footnotes": [
                 {
                     "word": "Atenas;",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -126,14 +133,17 @@
             "footnotes": [
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "puno",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "(2) Nakikipagmatuwiranan sa mga Hudyo",
+                "at Hinaharap ang mga Pilosopong Hentil\n bb. 16-18"
+            ]
         },
         {
             "id": "17",
@@ -147,15 +157,15 @@
             "footnotes": [
                 {
                     "word": "Epicureo",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "Estoico",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "masalitang",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": null
@@ -166,10 +176,12 @@
             "footnotes": [
                 {
                     "word": "Areopago,",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
-            "outlines": null
+            "outlines": [
+                "(3) Nagpapahayag sa Areopago\n bb. 19-34"
+            ]
         },
         {
             "id": "20",
@@ -177,7 +189,7 @@
             "footnotes": [
                 {
                     "word": "ano",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -188,7 +200,7 @@
             "footnotes": [
                 {
                     "word": "bago.",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -199,7 +211,7 @@
             "footnotes": [
                 {
                     "word": "lubhang",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -216,7 +228,7 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -233,11 +245,11 @@
             "footnotes": [
                 {
                     "word": "isa",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "itinalagang",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -248,7 +260,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -259,19 +271,19 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "manunula,",
-                    "note": ""
+                    "id": "28-2"
                 },
                 {
                     "word": "Kanyang",
-                    "note": ""
+                    "id": "28-3"
                 },
                 {
                     "word": "supling.",
-                    "note": ""
+                    "id": "28-4"
                 }
             ],
             "outlines": null
@@ -282,11 +294,11 @@
             "footnotes": [
                 {
                     "word": "Dibinong",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "kaisipan",
-                    "note": ""
+                    "id": "29-2"
                 }
             ],
             "outlines": null
@@ -297,7 +309,7 @@
             "footnotes": [
                 {
                     "word": "inuutusan",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -308,11 +320,11 @@
             "footnotes": [
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "katibayan",
-                    "note": ""
+                    "id": "31-2"
                 }
             ],
             "outlines": null
@@ -334,6 +346,120 @@
             "text": "Datapuwa’t ang ilang tao ay sumama sa kanya at sumampalataya, kabilang si Dionisio na Areopagito,  at isang babaeng nagngangalang Damaris, at iba pang kasama nila.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Isa pang pangunahing lunsod, na nakaluklok sa malaking look sa gitna ng baybayin ng lalawigan ng Macedonia."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 2-1 sa Sant. 2."
+        },
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 14-1 sa kapitulo 13. Gayundin sa bersikulo 10."
+        },
+        {
+            "id": "4-1",
+            "text": "Lit. itinoka na"
+        },
+        {
+            "id": "6-1",
+            "text": "Lit. pinananahanang lupa."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang kapital ng Acaya, isang lalawigan ng Emperyo Romano, ang sentro ng kaliwanagan sa agham, panitikan, at sining para sa sinaunang daigdig. Sa pamamagitan ng pagdalaw ni Apostol Pablo sa gayong sentro, ang ebanghelyo ng kaharian ng Diyos ay nakaabot sa mga taong may pinakamataas na kultura."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang pantaong espiritu ni Pablo (Zac. 12:1; Job 32:8; Kaw. 20:27), na isinilang na muli sa pamamagitan ng Espiritu ng Diyos (Juan 3:6), na pinananahanan ng Panginoong Espiritu (II Tim. 4:22; Roma 8:10-11), at sumasaksing kasama ng Espiritu (Roma 8:16), na kung saan siya ay sumasamba at naglilingkod sa Diyos (Juan 4:24; Roma 1:9). Ang gayong espiritu ang napagalit ng maraming diyus-diyusan sa Atenas."
+        },
+        {
+            "id": "16-2",
+            "text": "Maging ang pinakamataas na kultura ay hindi nakapigil sa mga tao mula sa pagsamba sa mga diyus-diyusan, sapagka’t sa kaloob-looban nila, tulad sa buong sangkatauhan, ay may espiritung sumasamba sa Diyos na nilikha ng Diyos para sa tao upang hanapin at sambahin Siya (cf. b. 22). Gayunpaman, dahil sa kanilang kabulagan at kamangmangan, kinuha nila ang maling bagay para sambahin (b. 23). Ngayon ang tunay na Diyos, na lumikha sa sansinukob at sa kanila, ay inatasan ang Kanyang apostol upang ipahayag ang tunay na bagay na dapat nilang sambahin (bb. 23-29)."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang mga pilosopong Epicureo ay mga tagasunod ng pilosopong Griyego na si Epicuro (341-270 B.C. ), na ang pilosopiya ay materialismo, hindi kumikilala sa Lumikha at Kanyang pagkalinga sa sanlibutan, kundi naghahanap ng kalayawang panlaman, lalung-lalo na sa pagkain at pag-inom. Ang mga salita ni Pablo sa mga taga-Filipos (Fil. 3:18 at tala 1) at sa mga taga-Corinto (I Cor. 15:32 at tala 3) ay tumutukoy sa kanila."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang mga pilosopong Estoico ay ang mga kasapi ng paaralan ng pilosopiya na itinatag ni Zeno (340-265 B.C.). Sila ay mga mananampalataya ng panteismo na naniniwalang ang lahat ng bagay ay pinamamahalaan ng kapalaran, at ang lahat ng mga pangyayari ay resulta ng makalangit na kagustuhan; kaya’t dapat itong tanggapin nang mahinahon ng tao, na walang simbuyo ng damdamin, hinagpis, o kagalakan. Kanilang binibigyang-diin na ang pinakamataas na kabutihan ay ang kagalingan, na ang kagalingan ay ang gantimpala ng kaluluwa. Ang sulat ni Pablo sa mga taga-Filipos ay tumutukoy rin sa kanila (Fil. 4:11 at tala)."
+        },
+        {
+            "id": "18-3",
+            "text": "Lit. tagatuka ng binhi: isang ibong tumutuka ng binhi sa mga lansangan at pamilihan; kaya’t isang namumulot at nagtitingi ng pira-pirasong balita (Vincent)."
+        },
+        {
+            "id": "19-1",
+            "text": "Burol ni Marte (sa Atenas), ang luklukan ng sinauna at kagalang-galang na hukuman ng mga taga-Atenas, na humahatol sa mga pinakataimtim na suliranin sa relihiyon."
+        },
+        {
+            "id": "20-1",
+            "text": "Lit. ano ang ninanais maging ng mga bagay na ito."
+        },
+        {
+            "id": "21-1",
+            "text": "Lit. higit na bago."
+        },
+        {
+            "id": "22-1",
+            "text": "Lit. ang katakutan ang isang demonyo, na isang sobrenatural na espiritu, yaon ay, ang sumamba sa demonyo at maging lubhang relihiyoso. Ang katulad na salita ay ginamit sa anyong pangngalan sa 25:19 para sa relihiyon."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang salita ng apostol sa mga bersikulo 24-25 ay isang napakalakas na bakuna kapwa sa ateistang Epicureo, na hindi kumikilala sa Lumikha at sa Kanyang pagkalinga sa sanlibutan, at sa panteistikong Estoico, na nagpapailalim ng kanilang sarili sa kagustuhan ng maraming diyos tungkol sa kanilang kapalaran (cf. b. 18)."
+        },
+        {
+            "id": "26-1",
+            "text": "Tumutukoy kay Adam."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang mga paglipat sa Amerika sa mga kapanahunan at mga hangganan nito ay isang malakas na katibayan ng mga salitang ito at ng unang bahagi ng sumusunod na bersikulo."
+        },
+        {
+            "id": "27-1",
+            "text": "Sapagka’t ang Diyos ay ang Espiritu na nasa lahat ng dako."
+        },
+        {
+            "id": "28-1",
+            "text": "Ipinakikita na ang buhay ng tao at ang kanyang pananatiling buháy at maging ang kanyang mga kilos ay sa Diyos. Ito ay hindi nangangahulugan na ang di-nananampalatayang tao ay may buhay ng Diyos at namumuhay, nananatiling buháy, at kumikilos sa Diyos tulad ng mga mananampalataya ni Kristo, na isinilang ng Diyos, na nagtataglay ng Kanyang dibinong buhay at kalikasan, at namumuhay, nananatiling buháy, at kumikilos sa loob ng Persona ng Diyos."
+        },
+        {
+            "id": "28-2",
+            "text": "Maaaring tumutukoy kay Arato (mga 270 B.C.) at Cleantes (mga 300 B.C.), na kapwa sumambit ng magkatulad na salita sa kanilang mga tula kay Zeus (Jupiter), na itinuturing nilang kataas-taasang Diyos."
+        },
+        {
+            "id": "28-3",
+            "text": "Sa mga isinulat ng dalawang makata ang “Kanyang” ay tumutukoy kay Zeus bilang kataas-taasang Diyos."
+        },
+        {
+            "id": "28-4",
+            "text": "Gaya ng kung paanong si Adam ay itinuturing na anak ng Diyos (Luc. 3:38 at tala 2). Yamang ang Diyos ang Manlilikha, ang pinanggalingan ng lahat ng tao, Siya ang Ama nilang lahat (Mal. 2:10) sa likas na kaisipan, hindi sa espirituwal na kaisipan na Siya ang Ama ng lahat ng mananampalataya (Gal. 4:6), na isinilang na muli sa pamamagitan Niya sa kanilang espiritu (I Ped. 1:3; Juan 3:5-6)."
+        },
+        {
+            "id": "29-1",
+            "text": "Gr. theion (cf. theiotes, dibinidad, sa Roma 1:20), nangangahulugang yaon na Dibino, isang higit na malabo, higit na mahirap unawain, at di-lubhang personal na salita kaysa sa theotes, na nagpapakitang maaaring makilala ng tao ang dibinidad ng Diyos mula sa Kanyang mga gawa, hindi Siya Mismo mula sa pahayag ng Kanyang walang hanggang Salita, si Kristong nagkatawang tao, bilang theotes, ang Pamunuang Diyos, sa Col. 2:9."
+        },
+        {
+            "id": "29-2",
+            "text": "O, likhang-isip, paraan."
+        },
+        {
+            "id": "30-1",
+            "text": "Sa ilang manuskrito ay nababasang, ipinapahayag…sa."
+        },
+        {
+            "id": "31-1",
+            "text": "Ang araw kung kailan hahatulan ni Kristo ang mga buháy na tao sa trono ng Kanyang kaluwalhatian bago sumapit ang isang libong taon (Mat. 25:31- 46), maaaring hindi kabilang ang araw kung kailan Niya hahatulan ang mga patay na tao sa malaking puting trono pagkatapos ng isang libong taon (Apoc. 20:11-15), tulad sa 10:42 (tingnan ang tala roon), II Tim. 4:1, at I Ped. 4:5, sapagka’t sa araw na ito Niya hahatulan “ang pinananahanang lupa,” na nararapat na tumutukoy lamang sa mga buháy na tao. Ang araw na ito ng paghahatol ni Kristo sa buong lupa ay maisasakatuparan sa pamamagitan ng Kanyang pagbabalik. Siya ay itinalaga ng Diyos upang isakatuparan ang paghahatol na ito at ang pagbuhay sa Kanya ng Diyos mula sa mga patay ay isang matibay na katunayan nito. Sa kanilang pangangaral sa mga Hentil, binigyang-diin kapwa ni Pedro sa 10:42 at ni Pablo rito at sa 24:25 ang darating na paghahatol ng Diyos."
+        },
+        {
+            "id": "31-2",
+            "text": "O, pananampalataya, katiyakan, garantiya. Ang pagkabuhay na muli ni Kristo ay isang katibayan at katiyakan ng Kanyang pagbabalik upang hatulan ang lahat ng nananahan sa lupa. Ito ay isang garantiya upang magkaroon tayo ng pananampalataya rito at upang maakay tayo nito na magsisi (b. 30)."
         }
     ]
 }

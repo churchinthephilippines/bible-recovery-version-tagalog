@@ -1,5 +1,5 @@
 {
-    "chapter": 2,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "patay",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "pagsalansang",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -29,19 +29,19 @@
             "footnotes": [
                 {
                     "word": "lakad",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "pinuno",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "2-4"
                 }
             ],
             "outlines": null
@@ -52,19 +52,19 @@
             "footnotes": [
                 {
                     "word": "yaon,",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "tayo",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "pita",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "anak",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": null
@@ -75,11 +75,11 @@
             "footnotes": [
                 {
                     "word": "Nguni’",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "awa",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -90,19 +90,19 @@
             "footnotes": [
                 {
                     "word": "binuhay",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "nangaligtas),",
-                    "note": ""
+                    "id": "5-4"
                 }
             ],
             "outlines": null
@@ -113,23 +113,23 @@
             "footnotes": [
                 {
                     "word": "ibinangong",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "magkakasama,",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "pinaupong",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "sangkalangitan,",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-5"
                 }
             ],
             "outlines": null
@@ -140,19 +140,19 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "maipakita",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "kayamanan",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "kagandahang-",
-                    "note": ""
+                    "id": "7-4"
                 }
             ],
             "outlines": null
@@ -163,19 +163,19 @@
             "footnotes": [
                 {
                     "word": "Sapagka’",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "pananampalataya;",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "ito",
-                    "note": ""
+                    "id": "8-4"
                 }
             ],
             "outlines": null
@@ -186,7 +186,7 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -197,15 +197,15 @@
             "footnotes": [
                 {
                     "word": "obra,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "nilikha",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "noong",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -216,7 +216,7 @@
             "footnotes": [
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -229,27 +229,27 @@
             "footnotes": [
                 {
                     "word": "hiwalay",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "bansang",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "tipan",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "12-4"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "12-5"
                 },
                 {
                     "word": "sanlibutan,",
-                    "note": ""
+                    "id": "12-6"
                 }
             ],
             "outlines": null
@@ -260,19 +260,19 @@
             "footnotes": [
                 {
                     "word": "Datapwa’",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "nalalayo",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "malapit",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "dugo",
-                    "note": ""
+                    "id": "13-4"
                 }
             ],
             "outlines": null
@@ -283,23 +283,23 @@
             "footnotes": [
                 {
                     "word": "ating",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "kapayapaan,",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "dalawa,",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "pader,",
-                    "note": ""
+                    "id": "14-4"
                 },
                 {
                     "word": "pagkakaalit.",
-                    "note": ""
+                    "id": "14-5"
                 }
             ],
             "outlines": null
@@ -310,43 +310,43 @@
             "footnotes": [
                 {
                     "word": "pinawalang-",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "laman,",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "ordinansa,",
-                    "note": ""
+                    "id": "15-4"
                 },
                 {
                     "word": "malalang",
-                    "note": ""
+                    "id": "15-5"
                 },
                 {
                     "word": "dalawa",
-                    "note": ""
+                    "id": "15-6"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "15-7"
                 },
                 {
                     "word": "tungo",
-                    "note": ""
+                    "id": "15-8"
                 },
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "15-9"
                 },
                 {
                     "word": "gumagawa",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -357,27 +357,27 @@
             "footnotes": [
                 {
                     "word": "dalawa",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "krus,",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "pinapatay",
-                    "note": ""
+                    "id": "16-5"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "16-6"
                 }
             ],
             "outlines": null
@@ -388,15 +388,15 @@
             "footnotes": [
                 {
                     "word": "naparito",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "nangalalayo,",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "nangalalapit;",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
@@ -407,19 +407,19 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "pagpasok",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "Ama.",
-                    "note": ""
+                    "id": "18-4"
                 }
             ],
             "outlines": null
@@ -430,19 +430,19 @@
             "footnotes": [
                 {
                     "word": "kayo",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "estranghero",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "kababayan",
-                    "note": ""
+                    "id": "19-3"
                 },
                 {
                     "word": "miyembro",
-                    "note": ""
+                    "id": "19-4"
                 }
             ],
             "outlines": null
@@ -453,15 +453,15 @@
             "footnotes": [
                 {
                     "word": "itinatayo",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "pundasyon",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "batong",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": null
@@ -472,27 +472,27 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "buong",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "nagkakalapat",
-                    "note": ""
+                    "id": "21-3"
                 },
                 {
                     "word": "lumalago",
-                    "note": ""
+                    "id": "21-4"
                 },
                 {
                     "word": "templong",
-                    "note": ""
+                    "id": "21-5"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "21-6"
                 }
             ],
             "outlines": null
@@ -503,22 +503,384 @@
             "footnotes": [
                 {
                     "word": "kayo",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "naman",
-                    "note": ""
+                    "id": "22-2"
                 },
                 {
                     "word": "tahanan",
-                    "note": ""
+                    "id": "22-3"
                 },
                 {
                     "word": "espiritu.",
-                    "note": ""
+                    "id": "22-4"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang “at” ay nagpapakita, ayon sa balarila, na ang huling pangungusap ng kapitulo isa ay hindi nakumpleto. Ang huling bersikulo ng kapitulo isa ay nagpapakita na ang ekklesia, ang Katawan ni Kristo, ay naibunga ni Kristo sa pamamagitan ng Kanyang mga natamo. Ngayon, ipinakikita sa atin ng kapitulo dalawa na ang pumapaligid-na-pangyayari sa pagkakabunga sa ekklesia ay nasa kinasasaklawan ng kamatayan. Sa kapitulo isa, ang ekklesia ay bunga ng makalangit na paglalalin ng pagka-Diyos sa ating loob; sa kapitulong ito, ang ekklesia ay nagmula sa panlupang pagka-tao."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “nang kayo ay mga patay” ay tumutukoy sa kamatayan ng ating espiritu na kumakalat sa ating buong katauhan at siyang nagsanhi ng pagkawala ng abilidad natin na makipag-ugnay sa Diyos."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang mga pagsalansang ay mga gawang lumalampas sa limitasyon ng karapatan. Ang mga kasalanan ay masasamang gawain. Bago tayo naligtas, tayo ay mga patay sa mga gayong pagsalansang at kasalanan. Mula sa ganitong pumapaligid-na-pangyayari ng kamatayan tayo nangaligtas upang maging ang ekklesia, ang Katawan ni Kristo. Ang mga patay ay binuhay na upang maging isang buhay na organismo na inihahayag si Kristo."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang “sanlibutang ito” ay tumutukoy sa makasatanas na sistema na binubuo ng maraming kapanahunan. Kaya, “ang lakad” dito *sa Griyego ay aion , sa literal ay “kapanahunan”; at ito* ay tumutukoy sa isang bahagi, isang seksiyon, isang aspekto, ang kasalukuyan at modernong anyo ng sistema ni Satanas, na kanyang ginagamit upang kamkamin at okupahin ang mga tao at ilayo sila sa Diyos at sa Kanyang layunin. Nang tayo ay mga patay sa mga pagsalansang at mga kasalanan, tayo ay lumakad ayon sa lakad, sa modernong anyo, sa kasalukuyang kurso ng sanlibutan na siyang sistema ni Satanas."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang “pinuno” ay tumutukoy kay Satanas ang prinsipe ng panghimpapawid na awtoridad na binanggit sa 6:12."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang “espiritu” at “awtoridad ng hangin,” ay kapwa tumutukoy sa sama-samang kapangyarihan, yaon ay, ang magkasanib na awtoridad ng masamang anghel na pinamumunuan ni Satanas. Ang sama-samang espiritung ito ay kumikilos ngayon sa mga anak ng pagsuway. Nang tayo ay mga patay pa sa loob ng mga pagsasalansang at mga kasalanan, tayo ay lumakad hindi lamang ayon sa lakad ng sanlibutang ito, bagkus ayon din kay Satanas, ang pinuno ng awtoridad ng hangin, ang masamang espirituwal na kapangyarihan."
+        },
+        {
+            "id": "2-4",
+            "text": "*Gr. whyos . Lit. anak na lalake. Gayundin sa 3:5; 4:13; at 5:6.* Dati tayo ay mga anak ng pagsuway, nguni’t ngayong naligtas na, tayo ay naging ang ekklesia."
+        },
+        {
+            "id": "3-1",
+            "text": "Ito ay tumutukoy sa mga anak ng pagsuway sa bersikulo 2."
+        },
+        {
+            "id": "3-2",
+            "text": "Ito ay tumutukoy sa lahat ng mga mananampalataya, kapwa mga Hudyo at mga Hentil."
+        },
+        {
+            "id": "3-3",
+            "text": "Nang tayo ay mga patay sa pagsasalansang at mga kasalanan, tayo rin ay nangabuhay ayon sa mga pita ng ating laman, ginagawa ang mga pagnanasa hindi lamang ng laman bagkus ng mga pag-iisip din. May tatlong masamang bagay ang nagdomina sa ating buhay: ang lakad ng sanlibutang ito na nasa labas natin, ang pinuno ng awtoridad ng hangin na nasa ibabaw at nasa loob natin; at ang pita ng ating laman sa ating natisod na kalikasan. Tayo ay naligtas na at mula sa masasamang bagay na ito ay nangaligtas tayo upang maging ang Katawan ni Kristo."
+        },
+        {
+            "id": "3-4",
+            "text": "Tayo, bilang dating mga anak ng pagsuway, ay mga anak din ng kapootan. Sa loob ng kinasasaklawan ng kamatayan tayo ay nasa ilalim ng kapootan ng Diyos dahil sa ating pagsuway. Nguni’t nang tayo ay maligtas, tayo ay nangaligtas kapwa mula sa ating pagsuway at mula sa kapootan ng Diyos."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang “nguni’t ang Diyos” ay ang salik na nagbabaling sa ating posisyon."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang pinagtutuunan ng pag-ibig ay nararapat na nasa isang kaibig-ibig na kondisyon, subali’t ang pinagtutuunan ng awa ay palaging nasa isang kaawa-awang sitwasyon. Kaya ang awa ng Diyos ay umaabot nang higit pa kaysa sa Kanyang pag-ibig. Tayo ay iniibig ng Diyos sapagka’t tayo ay pinagtutuunan ng Kanyang pagpili. Subali’t tayo ay naging kaawa-awa dahil sa ating pagkatisod, naging patay sa ating mga pagsasalansang at mga kasalanan; kaya nga, kailangan natin ang awa ng Diyos. Dahil sa Kanyang dakilang pag-ibig, ang Diyos ay mayaman sa awa upang tayo ay iligtas mula sa ating abang kinalalagyan tungo sa isang kondisyong akma para sa Kanyang pag-ibig."
+        },
+        {
+            "id": "5-1",
+            "text": "Hindi tayo itinuturing ng aklat ng Efeso na mga makasalanan katulad ng aklat ng Roma; itinuturing tayo nito na mga patay na tao. Bilang mga makasalanan, kailangan natin ang katulad ng ipinahayag sa aklat ng Roma. Subali’t bilang mga patay na tao, kailangan natin ang pagpapatawad at pag-aaring-matuwid ng Diyos, katulad ng ipinahayag sa aklat ng Roma. Subali’t bilang mga patay na tao, kailangan tayong mabigyang-buhay. Ang pagpapatawad at pag-aaring-matuwid ay nagdadala sa atin pabalik sa presensiya ng Diyos upang tamasahin ang Kanyang biyaya at makibahagi sa Kanyang buhay; samantalang ang pagbuhay sa atin ay nagsasanhi sa ating mga buhay na sangkap ng Katawan ni Kristo upang maihayag Siya. Binuhay tayo ng Diyos sa pamamagitan ng pamamahagi ng Kanyang buhay na walang hanggan, na si Kristo Mismo (Col. 3:4), tungo sa ating patay na espiritu sa pamamagitan ng Kanyang Espiritu ng buhay (Roma 8:2). Tayo ay binuhay ng Diyos nang magkakasama kalakip ni Kristo."
+        },
+        {
+            "id": "5-2",
+            "text": "Nang buhayin ng Diyos ang Hesus na napako-sa-krus, binuhay rin tayong magkakasama kalakip Niya. Kaya nga, “tayo ay binuhay nang magkakasama kalakip ni Kristo.”"
+        },
+        {
+            "id": "5-3",
+            "text": "Ang biyaya ay walang bayad. Hindi lamang tinutukoy rito ang Diyos na ipinamahagi sa ating loob nang walang bayad para sa ating pagtatamasa, bagkus maging ang pagkilos ng Diyos sa pagliligtas sa atin nang walang bayad. Sa pamamagitan ng gayong biyaya ay nangaligtas tayo mula sa ating abang posisyon ng kamatayan tungo sa loob ng kagila-gilalas na kinasasaklawan ng buhay."
+        },
+        {
+            "id": "5-4",
+            "text": "Hindi lamang ang mga makasalanan ang naligtas bagkus maging ang mga patay ay naligtas. Sa pamamagitan ng kamatayan ni Kristo, sila ay natubos; sa pamamagitan ng Kanyang pagkabuhay na muli nakamtan nila ang pagkabuhay-na-muling buhay; sa pamamagitan ng Kanyang pag-akyat-sa-langit, sila ay naging sumasaibabaw-sa-lahat. Ito ang lumalampas-sa-lahat na pagliligtas para sa mga namatay na makasalanan na ginawa ng dumaan sa pagiging laman, napako-sa-krus, namatay, nabuhay-na-muli at umakyat-sa-langit na Kristo na Siyang pagsasakatawan ng Tres-unong Diyos na dumaan-sa-iba’t-ibang-hakbangin Dibinong Trinidad upang maging Kanyang kahayagan."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang buhayin tayo ay ang panimulang hakbang ng pagliligtas ng Diyos sa buhay. Kasunod nito, tayo ay ibinangon ng Diyos nang magkakasama mula sa posisyon ng kamatayan."
+        },
+        {
+            "id": "6-2",
+            "text": "Sa pananaw ng ating kinatatayuan tayo ay isa-isang ibinangon mula sa ating patay na posisyon. Subali’t sa pananaw ng Diyos tayong lahat ay sama-samang ibinangon katulad ng lahat ng mga Israelita na ibinangon nang sama-sama mula sa tubig ng kamatayan ng Pulang Dagat (Exo. 14)."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang ikatlong hakbang ng pagliligtas ng Diyos sa buhay ay ang paupuin tayo nang sama-sama sa sangkalangitan. Hindi lamang Niya tayo ibinangon mula sa posisyon ng kamatayan, bagkus pinaupo rin tayo sa pinakamataas na dako sa sansinukob."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang sangkalangitan ay ang pinakamataas na posisyon na ating pinasukan sa loob ng ating kaligtasan kay Kristo. Sa aklat ng Roma, dinala tayo ni Kristo bilang ating katuwiran sa loob ng isang gayong kalagayan upang tayo ay maging katanggap-tanggap sa Diyos. Sa aklat ng Efeso, iniligtas tayo ni Kristo bilang ating buhay tungo sa loob ng isang gayong posisyon upang tayo ay mapasaibabaw ng lahat ng mga kaaway ng Diyos. Sa loob nito taglay natin ang makalangit na kalikasan at tayo ay nasa loob ng katangi-tanging atmospero bilang ang mga makalangit na mamamayan."
+        },
+        {
+            "id": "6-5",
+            "text": "Sa loob ni Kristo tayong lahat ay sama-samang pinaupo ng Diyos, nang minsanan, sa sangkalangitan. Ito ay naisakatuparan nang si Kristo ay umakyat sa langit, at ito ay naisagawa sa atin sa pamamagitan ng Espritu ni Kristo simula nang tayo ay sumampalataya sa Kanya. Ngayon ay natatanto natin at nararanasan ang realidad na ito sa ating espiritu sa pamamagitan ng pananampalataya sa naisakatuparang katotohanan."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang mga kapanahunan ng isang libong taon at kawalang-hanggang hinaharap na darating pagkatapos ng kasalukuyang kapanahunan, kung kailan ang ekklesia ay naibunga."
+        },
+        {
+            "id": "7-2",
+            "text": "Yaon ay, maitanghal sa buong sansinukob nang hayagan."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang mga kayamanan ng biyaya ng Diyos ay hindi nahahanggahan ng anumang limitasyon. Ang mga ito ay ang mga kayamanan ng Diyos Mismo para sa ating pagtatamasa. Ang mga ito ay itatanghal nang hayagan magpasawalang hanggan."
+        },
+        {
+            "id": "7-4",
+            "text": "Ang kagandahang-loob ay isang kabutihang nagmumula sa awa at pag-ibig. Sa loob ng gayong kagandahang-loob, ipinagkaloob sa atin ang biyaya ng Diyos."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang “sapagka’t” ay nagbibigay ng dahilan upang ipakita ng Diyos ang Kanyang biyaya (b. 7). Sa dahilang tayo ay naligtas sa pamamagitan ng Kanyang biyaya, ang biyaya ay maaaring itanghal ng Diyos."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang biyaya ay tumutukoy sa Diyos na naipamahagi sa ating loob. Kaya, ang maligtas sa pamamagitan ng biyaya ay nangangahulugan ding ang matanggap ang pamamahagi ng dumaan-sa-iba’t-ibang-hakbangin Tres-unong Diyos sa loob natin."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang pananampalataya ay ang pagsusubstansiya ng mga bagay na hindi nakikita (Heb. 11:1). Sa pamamagitan ng pananampalataya ating nasusubstansiya ang lahat ng bagay na naisakatuparan ni Kristo para sa atin. Sa pamamagitan ng gayong nagsusubstansiyang abilidad, tayo ay nangaligtas sa pamamagitan ng biyaya. Ang walang bayad na aksiyon ng biyaya ng Diyos ang nagligtas sa atin sa pamamagitan ng ating nagsusubstansiyang pananampalataya. Ang pananampalataya nating ganito ay ang pananampalataya kay Kristo; ito rin ay si Kristo na nasa loob natin bilang ating pananampalataya (Tingnan ang tala 22-1 sa Roma 3)."
+        },
+        {
+            "id": "8-4",
+            "text": "Ang “ito” ay hindi tumutukoy sa “pananampalataya” kundi sa “pagkaligtas sa biyaya sa pamamagitan ng pananampalataya.”"
+        },
+        {
+            "id": "9-1",
+            "text": "Ang pananampalataya ay hindi sa pamamagitan ng ating mga gawa, ni sa pamamagitan ng ating pagsisikap, kundi sa pamamagitan ng kaloob ng Diyos upang ang sinuman ay huwag magmapuri."
+        },
+        {
+            "id": "10-1",
+            "text": "O, obra maestra. Ang Griyegong salitang poiema ay nangangahulugang isang bagay na ginawa, isang ginawa ng kamay, o isang bagay na isinulat o kinatha katulad ng isang tula. Hindi lamang ang patulang pagsusulat, kundi ang alinmang uri ng sining na nagpapahayag ng karunungan at disenyo ng gumawa ay pawang tula. Tayo, ang ekklesia, ang obra maestra ng paggawa ng Diyos, ay isa ring tula na naghahayag ng walang katapusang karunungan ng Diyos at ng dibinong disenyo. Ang sangkalangitan, sangkalupaan, at ang tao na nilikha ng Diyos ay hindi ang obra maestra ng Diyos. Nguni’t ang ekklesia na Katawan ni Kristo na siyang kapuspusan Niyaong pumupuspos ng lahat sa lahat (1:23), ang pansansinukob at sama-samang bagong tao (b. 15), ay ang obra maestra. Dahil dito tayo ay naligtas sa pamamagitan ng biyaya para sa mabubuting gawa na mga inihanda ng Diyos noong una pa upang siya nating lakaran."
+        },
+        {
+            "id": "10-2",
+            "text": "Tayo, ang ekklesia, bilang ang obra maestra ng paggawa ng Diyos, ay isang lubusang bagong aytem sa sansinukob, isang bagong imbento ng Diyos. Tayo ay nilikha ng Diyos sa loob ni Kristo sa pamamagitan ng pagsilang-na-muli upang maging Kanyang bagong nilikha (2 Cor. 5:17)."
+        },
+        {
+            "id": "10-3",
+            "text": "Ang mabubuting gawa na siyang dahilan ng paglikha sa atin ng Diyos ay hindi ang mabubuting bagay na nasa ating pangkalahatang kaisipan, kundi ang tiyak na mabubuting gawa na binalak ng Diyos noong una pa man at naunang itinalaga upang ating lakaran. Ang mabubuting bagay na ito ay tiyak na ang mga gawa ng Kanyang kalooban na ipamuhay ang buhay-ekklesia at taglayin ang patotoo ni Hesus, katulad ng ipinahayag sa mga sumusunod na kapitulo ng aklat na ito."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang taong nilikha ng Diyos upang magsakatuparan ng Kanyang layunin ay dalisay, walang kasalanan o anumang uri ng negatibong paghahalo. Gayon pa man, dahil sa pagkatisod, ang kasalanan, ang masamang kalikasan ni Satanas, ay pumasok sa loob ng tao. Unang-una nitong sinanhi ang katawan ng tao na maging laman, puno ng mga pita, at sa katapus-tapusan ay ginawa ang buong katauhan ng tao na laman. Kaya, ang tao ay napasama at nahadlangan mula sa pagsasakatuparan ng layunin ng Diyos. Pagkaraan, ang Diyos ay tumawag mula sa natisod na sangkatauhan ng isang lahi-si Abraham at ang kanyang mga inapo. Para sa pagsasakatuparan ng Kanyang layunin, ang Diyos ay nag-utos sa kanila na patuli, yaon ay, ang alisin ang kanilang laman. Ito ay nangangahulugang sila ay inihiwalay sa natisod na sangkatauhan at iniligtas sa natisod na katayuan. Ang pagtutuli ay gumawa ng isang napakalaking pagkakakilanlan sa pagitan nila at ng nalalabing sangkatauhan. Sila ay tinawag na pagtutuli, yaong mga inihiwalay mula sa natisod na situwasyon. Ang nalalabing sangkatauhan ay tinawag na di-pagtutuli, yaong mga nanatili sa natisod na kalagayan. Ito ang mga bansa sa laman, ang mga Hentil. Tayo noon ay nasa ganitong kategoriya bago tayo napasa kay Kristo."
+        },
+        {
+            "id": "12-1",
+            "text": "Si Kristo, na Siyang pinaglangkapan ng lahat ng pagpapala ng Diyos sa Kanyang mga hinirang na tao, ay nagmula sa Israel, ang mga tinuling tao. Yamang tayo, ang mga di-tuling Hentil, ay bukod sa Israel, tayo ay hiwalay kay Kristo, walang kinalaman kay Kristo."
+        },
+        {
+            "id": "12-2",
+            "text": "Yaon ay, ang pagkamamamayan, ang mga sibil na karapatan ng hinirang na bayan ng Diyos katulad ng pamumuno ng Diyos, pagpapala, presensiya, atbp. Dahil sa pagkatisod, ang lahat ng mga karapatang nilayon ng Diyos para sa tao na Kanyang nilikha ay naiwalang lahat ng sangkatauhan. Sa pamamagitan ng pagtawag kay Abraham, dinala ng Diyos ang Kanyang mga hinirang na tao pabalik sa lahat ng mga karapatang ito sa pamamagitan ng pagtutuli. Tayo bilang mga di-tinuling Hentil, ay nanatili pa ring hiwalay sa mga karapatang ito."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang mga tipan ng Diyos ay ang Kanyang mga pangako. Ang Kanyang pangako ay ang Kanyang Salita na gagawin Niyang walang-bayad ang ilang mga bagay para sa Kanyang mga hinirang na tao. Kapag ang Kanyang pangako ay nagawang legal sa pamamagitan ng mga kinakailangang hakbangin, ito ay nagiging isang nagtataling tipan. Lahat ng mga salitang sinalita ng Diyos sa Kanyang mga hinirang na tao, mula kay Abraham hanggang kay Malakias, ay ang Kanyang mga tipan. Tayo, ang mga Hentil, ay hindi lamang mga banyaga sa bansang Israel, bagkus mga estranghero rin mula sa mga tipang ito ng pangako ng Diyos."
+        },
+        {
+            "id": "12-4",
+            "text": "Lahat ng mga pagpapala ng Diyos ay nakapaloob kay Kristo; lahat ng mga karapatang sibil ay may kaugnayan sa bansang Israel; at ang lahat ng mabubuting bagay ay ipinangako sa mga tipan ng Diyos. Yamang tayo ay mga hiwalay kay Kristo, mga banyaga sa bansang Israel, at mga estranghero mula sa tipan ng pangako ng Diyos, tayo ay walang anumang pag-asa."
+        },
+        {
+            "id": "12-5",
+            "text": "Ang Diyos ay nasa loob ni Kristo; Siya ay namumuno at kumikilos sa bansang Israel, at Kanyang ibinibigay ang Kanyang mga pagpapala ayon sa Kanyang mga tipan. Nang tayo ay mga hiwalay kay Kristo, sa bansang Israel, at sa mga tipan ng pangako ng Diyos, tayo ay walang Diyos; wala tayong Diyos bilang ating pagtatamasa."
+        },
+        {
+            "id": "12-6",
+            "text": "Ang sanlibutan na siyang sistema ni Satanas ay taliwas sa bansang Israel. Ang bansang Israel ay ang kaharian ng Diyos, samantalang ang sanlibutan ay ang kaharian ni Satanas. Bago tayo nangaligtas, tayo ay namuhay sa sanlibutan, kung saan ay wala tayong pag-asa para sa ating inaasam at walang Diyos para sa ating pagtatamasa. Maging ang kapanahunan ngayon o ang darating na kapanahunan ay pawang kahungkagan."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang “datapuwa’t ngayon” ay dalawang mahalagang salita. Tumutukoy na ngayong tayo ay nasa loob na ni Kristo, ay mayroon nang pag-asa at mayroon nang Diyos."
+        },
+        {
+            "id": "13-2",
+            "text": "Yaon ay, malayo kay Kristo, sa bansang Israel, at sa mga tipan ng pangako ng Diyos. Ito ay katumbas ng pagiging malayo sa Diyos at sa lahat ng Kanyang mga pagpapala."
+        },
+        {
+            "id": "13-3",
+            "text": "Yaon ay, malapit kay Kristo, sa Israel, at sa pangako ng Diyos. Ito ay katumbas ng pagiging malapit sa Diyos at sa lahat ng Kanyang mga pagpapala."
+        },
+        {
+            "id": "13-4",
+            "text": "Tayo ay malayo sapagka’t tayo ay natisod. Subali’t ibinalik tayo ng nagtutubos na dugo ni Kristo. Kaya, sa pamamagitan ng dugong ito, inilapit tayo sa Israel at gayundin sa Diyos."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang “ating” ay tumutukoy kapwa sa mga mananampalatayang Hudyo at Hentil."
+        },
+        {
+            "id": "14-2",
+            "text": "Si Kristo, na Siyang nagsakatuparan ng ganap na pagtutubos para sa mga mananampalatayang Hudyo at Hentil ay ang ating kapayapaan mismo, ang ating pagkakasundo, at ang nagsanhi sa dalawa na maging isa. Dahil sa pagkatisod ng sangkatauhan at sa pagtawag sa hinirang na lahi, nagkaroon ng isang paghihiwalay ang Israel at ang mga Hentil. Sa pamamagitan ng pagtutubos ni Kristo, ang paghihiwalay na ito ay naalis. Ngayon, sa loob ng nagtutubos na Kristo, na Siyang tali ng pagkakaisa, ang dalawa ay naging isa; Siya ang tali ng pagkakaisa."
+        },
+        {
+            "id": "14-3",
+            "text": "Ang “dalawa” ay tumutukoy sa mga mananampalatayang Hudyo at Hentil. Gayundin sa karugtong na bersikulo."
+        },
+        {
+            "id": "14-4",
+            "text": "Ang nasa gitnang naghihiwalay na pader ay “ang kautusan ng mga utos sa mga ordinansa” sa bersikulo 15, na ibinigay dahil sa laman ng tao. Ang una sa mga ordinansang ito ay ang pagtutuli upang putulin at alisin ang laman ng tao. Ito ay naging pader na nasa gitna na naghihiwalay sa pagtutuli at sa mga di-pagtutuli."
+        },
+        {
+            "id": "14-5",
+            "text": "Ang nasa gitnang naghihiwalay na pader, na siyang mapagkikilanlan (pangunahing ginawa ng pagtutuli) sa pagitan ng pagtutuli at di-pagtutuli, ay naging pagkakaalit sa pagitan ng mga Hudyo at ng mga Hentil."
+        },
+        {
+            "id": "15-1",
+            "text": "Giniba ni Kristo ang pader na nasa gitna na paghihiwalay sa mga Hudyo at sa mga Hentil sa pamamagitan ng pagpapawalang-bisa sa kautusan ng mga utos sa mga ordinansa. Nang Siya ay napako-sa-krus, ang lahat ng mga ordinansa ay napako roon (Col. 2:14)."
+        },
+        {
+            "id": "15-2",
+            "text": "Yamang ang tao ay naging laman (Gen. 6:3) at sa gayon ay nailayo sa Diyos at sa Kanyang layunin, ang Diyos ay nagtalaga sa Kanyang mga hinirang na tao na matuli upang alisin ang laman. Ang ordinansang ito ay itinakda dahil sa laman ng tao. Sa laman napako si Kristo sa krus. Nang Siya ay napako-sa-krus, ang Kanyang laman, na sinasagisag ng tabing na naghihiwalay sa dakong banal at kabanal-banalan ng templo, ay nahapak (Heb. 10:20)."
+        },
+        {
+            "id": "15-3",
+            "text": "Hindi ito ang kautusan ng mga moral na utos, kundi ang kautusan ng mga panrituwal na kautusan, katulad ng mga ordinansa ng pagtutuli, pangingilin sa Sabbath, pagkain ng mga natatanging pagkain, atbp. Ang mga ordinansang ito ay ang haligi ng Hudaismo. Kailanman, ang mga moral na utos ay hindi maaalis subali’t ang mga panrituwal na utos ay pampanahunan lamang at may bisa lamang sa isang natatanging panahon, kaya, hindi pangwalang hanggan."
+        },
+        {
+            "id": "15-4",
+            "text": "Mga ritwal, ang mga anyo o mga pamamaraan ng pamumuhay at pagsamba. Ito ang nagsasanhi ng alitan at paghahati-hati. Upang maisagawa ang wastong buhay-ekklesia, kinakailangang alisin at itapon ang mga ganitong ordinansa."
+        },
+        {
+            "id": "15-5",
+            "text": "Nilalang ni Kristo ang isang bagong tao, ang ekklesia, taglay ang dibinong kalikasan ng Diyos na nailangkap sa loob ng pagka-tao. Ang pagkilos na ito ay isang bagay na bago, kaya nga, ito ay isang paglalang. Sa lumang paglalang, hindi isinagawa ng Diyos ang Kanyang Sariling kalikasan tungo sa loob ng alinman sa Kanyang mga nilalang, ni maging sa loob ng tao. Sa paglalang ng isang bagong tao, gayunpaman, ang kalikasan ng Diyos ay isinagawa tungo sa loob ng tao upang gawin ang Kanyang dibinong kalikasan na kaisang entidad ng pagka-tao."
+        },
+        {
+            "id": "15-6",
+            "text": "Ang “dalawa” ay tumutukoy sa mga mananampalatayang Hudyo at Hentil."
+        },
+        {
+            "id": "15-7",
+            "text": "Si Kristo ay hindi lamang ang Manlilikha ng isang bagong tao, ang ekklesia, bagkus ang kinasasaklawan at mga kaparaanan din sa paglikha sa isang bagong taong ito. Siya ang elemento ng bagong taong ito upang maging iisang entidad ang pagka-Diyos at ang pagka-tao. Ang mga salitang “sa loob” dito sa orihinal ay nangangahulugang “sa pamamagitan” at may kahulugang “paggamit,” ipinahihiwatig na ginamit si Kristo bilang dibinong esensiya sa paglalang ng bagong tao."
+        },
+        {
+            "id": "15-8",
+            "text": "Ang mga Hudyo at mga Hentil ay pinaghiwalay sa sukdulan ng mga naghihiwalay na ordinansa. Subali’t ang dalawang ito ay nilalang sa loob ni Kristo taglay ang dibinong esensiya sa loob ng isang bagong entidad, na isang sama-samang tao, ang ekklesia."
+        },
+        {
+            "id": "15-9",
+            "text": "Ang ekklesia ay hindi lamang ang ekklesia ng Diyos, Katawan ni Kristo, ang kapuspusan (kahayagan) Niyaong pumupuspos ng lahat sa lahat (1:23), ang sambahayan, tahanan, templo, at tirahan ng Diyos (bb. 19, 21-22), bagkus isa ring bagong tao na sama-sama, pansansinukob, na nilikha o binuo ng lahat ng mga mananampalataya maging Hudyo o Hentil; bagama’t sila ay marami, sa buong sansinukob ay may iisa lamang bagong tao. Ang taong nilalang ng Diyos ay isang sama-samang tao (Gen. 1:26). Ang sama-samang taong ito na nilalang ng Diyos ay nasira dahil sa pagkatisod ng tao. Kaya ngayon, kinakailangan ng Diyos na sa loob ng Kanyang ibinihis na laman ay alisin ang ordinansa at sa loob ng Kanyang Sarili ay lalangin ang isang bagong tao."
+        },
+        {
+            "id": "15-10",
+            "text": "Sa dahilang pinawalang-bisa na ni Kristo ang paghihiwalay na ordinansa sa pamamagitan ng Kanyang laman, ang pagkakaalit ay pinatay, ang mga mananampalatayang Hudyo at Hentil ay nilalang na maging isang bagong tao, at sa gayon ay naisagawa ang kapayapaan sa pagitan ng lahat ng mga mananampalataya."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang “dalawa” ay tumutukoy sa mga Hudyo at mga Hentil. Hindi lamang ang mga di-tuling Hentil, bagkus maging ang mga tuling Hudyo ay nangangailangan ng pakikipagkasundo sa Diyos sa pamamagitan ng pagtutubos ni Kristo na isinakatuparan sa Kanyang krus."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang isang Katawang ito, ang ekklesia (1:23), ay ang isang bagong tao sa naunang bersikulo. Sa loob ng isang katawang ito, ang mga Hudyo at gayundin ang mga Hentil ay naipagkasundo sa Diyos sa pamamagitan ng krus. Tayo, ang mga pananampalataya, maging mga Hudyo o mga Hentil, ay naipagkasundo hindi lamang para sa Katawan ni Kristo, bagkus maging sa loob ng Katawan ni Kristo. Anong pahayag ito! Tayo ay naipagkasundo sa Diyos; tayo ay naligtas sa loob ng Katawan ni Kristo."
+        },
+        {
+            "id": "16-3",
+            "text": "Dati-rati tayo ay walang Diyos, naiwala natin ang Diyos (b. 12). Subali’t sa pamamagitan ng krus kasama ang dugo ni Kristo, tayo ay naibalik sa Diyos sa loob ng isang Katawan."
+        },
+        {
+            "id": "16-4",
+            "text": "Pinatay ng krus ni Kristo, sa isang panig, ang pagkakaalit na sinanhi ng mga ordinansa na ibinigay dahil sa laman, at, sa kabilang panig, ay tinubos tayo dahil sa dugo ni Kristo na idinaloy sa ibabaw nito. Sa pamamagitan ng krus na ito, naipagkasundo ang mga Hudyo at mga Hentil sa loob ng isang Katawan tungo sa Diyos."
+        },
+        {
+            "id": "16-5",
+            "text": "Ito ang paggigiba sa nasa gitnang naghihiwalay na pader at ang pag-aalis ng mga ordinansa na nagsasanhi ng di-pagkakasundo ng mga Hudyo at mga Hentil sa mga bersikulo 4 at 15."
+        },
+        {
+            "id": "16-6",
+            "text": "O, sa loob Niya."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ang pagdating ni Kristo bilang ang Espiritu upang ipahayag ang kapayapaan bilang ebanghelyo; ang kapayapaang ito ay Kanyang naisagawa sa pamamagitan ng Kanyang krus."
+        },
+        {
+            "id": "17-2",
+            "text": "Ito ay tumutukoy sa mga di-tuling Hentil na nalalayo at nahiwalay dahil sa kanilang laman."
+        },
+        {
+            "id": "17-3",
+            "text": "Ito ay tumutukoy sa mga tuling Hudyo na nalalapit, ginawang malapit dahil sa paghirang ng Diyos."
+        },
+        {
+            "id": "18-1",
+            "text": "Yaon ay, nagkaroon ng pagpasok sa Ama ang mga mananampalatayang Hudyo at Hentil sa pamamagitan ni Kristo, na nagpawalang-bisa sa kautusan ng mga utos sa mga ordinansa, naggiba ng nasa gitnang naghihiwalay na pader, pumatay sa pagkakaalit upang papagkasunduin ang mga Hentil sa mga Hudyo, at nagdaloy ng Kanyang dugo upang matubos ang dalawa tungo sa Diyos."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang daan upang makapasok sa harapan ng Ama ay ang krus ni Kristo at ang Kanyang dugo (Heb. 10:19)."
+        },
+        {
+            "id": "18-3",
+            "text": "Unang-una, ang mga Hudyo at gayundin ang mga Hentil na mananampalataya ay naipagkasundo sa Diyos sa loob ng isang Katawan (b. 16). Yaon ay isang pamposisyong bagay. Pagkatapos, tayo na mga mananampalatayang Hudyo at Hentil, sa loob ng isang Espiritu ay nagkaroon ng pagpasok sa harapan ng Ama. Ito ay isang pangkaranasang bagay. Upang sa karanasan ay matamasa natin ang nakamtan natin sa pamposisyon, kinakailangang nasa loob tayo ng espiritu."
+        },
+        {
+            "id": "18-4",
+            "text": "Sa pamposisyon, tayo ay naipagkasundo sa Diyos; sa pangkaranasan, tayo ay may pagpasok sa harapan ng Ama. Ang maipagkasundo sa Diyos ay ang maligtas; ang magkaroon ng pagpasok sa harapan ng Ama ay ang tamasahin ang Diyos. Siya ang pinagmulan ng buhay at Siya rin ang nagsilang-na-muli sa atin upang tayo ay maging Kanyang mga anak. Dito ang Trinidad ng Pamunuang-Diyos ay pinahiwatig: sa pamamagitan ng Diyos Anak na Siyang Tagapagsakatuparan, ang kaparaanan; sa Diyos Espiritu na Siyang Tagapagsagawa, ang pagsasagawa, tayo ay may pagpasok sa harapan ng Diyos Ama na Siyang Pinagmulan, ang pinagmumulan ng ating pagtatamasa."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang “kayo” ay tumutukoy sa mga Hentil na mananampalataya."
+        },
+        {
+            "id": "19-2",
+            "text": "Ang mga estanghero ay mga banyaga, at ang mga manlalakbay ay mga taong nakikitira sa gitna ng mga Israelita, mga dayuhang walang mga karapatan sa pagkamamamayan. Ang “mga estanghero” at “mga manlalakbay” ay kapwa tumutukoy sa mga Hentil."
+        },
+        {
+            "id": "19-3",
+            "text": "Tinutukoy ng “mga kababayan ng mga banal” ang kaharian ng Diyos. Lahat ng mga mananampalataya, maging Hudyo o Hentil, ay pawang mga mamamayan sa kaharian ng Diyos. Ang kaharian ng Diyos ay isang kinasasaklawan upang isagawa Niya ang Kanyang awtoridad."
+        },
+        {
+            "id": "19-4",
+            "text": "Ang “mga miyembro ng sambahayan ng Diyos” ay tumutukoy sa tahanan ng Diyos. Ang mga mananampalatayang Hudyo at Hentil ay kapwa mga miyembro ng tahanan ng Diyos. Ang tahanan ng Diyos ay isang bagay ng buhay at pagtatamasa; lahat ng mga mananampalataya ay isinilang ng Diyos tungo sa loob ng Kanyang tahanan upang tamasahin ang Kanyang mga kayamanan. Ang kaharian ng Diyos ay isang bagay ng karapatan at responsibilidad; lahat ng mga mananampalatayang isinilang tungo sa loob ng tahanan ng Diyos ay may mga karapatang sibil at nagtataglay ng responsibilidad sa kaharian ng Diyos. Ang “mga banal” ay pang-indibiduwal at ang “tahanan ng Diyos” ay pangsama-sama, nagreresulta sa kaharian ng Diyos."
+        },
+        {
+            "id": "20-1",
+            "text": "Bilang ang Katawan ni Kristo, ang ekklesia ay naisilang-na-muli na kung saan kinakailangan ang paglago sa buhay; bilang ang tahanan ng Diyos, ang ekklesia ay itinatayo. Ang paglago at pagtatayo ay hindi magkahiwalay na mga bagay sapagka’t ang paglaki ng Katawan ay siyang pagtatayo ng tahanan."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang pundasyon ng ekklesia ay si Kristo (1 Cor. 3:11). Yamang ang hiwaga ni Kristo ay naihayag na sa mga apostol (3:5-6), ang pahayag na kanilang natanggap ay itinuring na pundasyong pinagtayuan ng ekklesia. Ito ay tumutugma sa bato sa Mat. 16:18, na hindi lamang si Kristo, bagkus, maging ang pahayag din hinggil kay Kristo, na kung saan sa ibabaw nito ay itatayo ni Kristo ang Kanyang ekklesia. Kaya nga, ang pundasyon ng mga apostol at mga propeta ay ang pahayag na kanilang natanggap para sa pagtatayo ng ekklesia."
+        },
+        {
+            "id": "20-3",
+            "text": "Dito si Kristo ay tinukoy, hindi bilang ang pundasyon (Isa. 28:16), kundi bilang ang batong panulok, sapagka’t ang pangunahing pinag-uukulan dito ay hindi ang pundasyon kundi ang batong panulok na nag-uugpong sa dalawang pader, ang isa ay ang pader ng mga mananampalatayang Hudyo at ang isa naman ay ang pader ng mga mananampalatayang Hentil. Si Kristo ay hindi binigyang-diin dito bilang ang pundasyon, sa halip, ang binigyang-diin bilang pundasyon ay ang mga apostol at ang mga propeta na nakatanggap ng pahayag hinggil kay Kristo. Nang tinanggihan ng mga tagapagtayong Hudyo si Kristo, Siya ay kanilang tinanggihan bilang ang batong panulok (Gawa 4:11; 1 Ped. 2:7), na Siyang mag-uugpong ng mga Hentil sa mga Hudyo para sa pagtatayo ng tahanan ng Diyos."
+        },
+        {
+            "id": "21-1",
+            "text": "Sa loob ni Kristo na Siyang batong panulok, ang buong gusali, kasali kapwa ang mga mananampalatayang Hudyo at Hentil, ay nagkakalapat nang magkakasama at lumalago upang maging isang templong banal sa loob ng Panginoon."
+        },
+        {
+            "id": "21-2",
+            "text": "Lit. bawa’t gusali."
+        },
+        {
+            "id": "21-3",
+            "text": "Yaon ay, ginagawang akma para sa kondisyon at situwasyon ng buong gusali."
+        },
+        {
+            "id": "21-4",
+            "text": "Yamang ang gusaling ito ay buhay (1 Ped. 2:5), ito ay lumalago. Ito ay lumalago upang maging isang templong banal. Ang aktuwal na pagtatayo ng ekklesia bilang tahanan ng Diyos ay sa pamamagitan ng paglago sa buhay ng mga mananampalataya."
+        },
+        {
+            "id": "21-5",
+            "text": "O, santuaryo, tumutukoy sa dakong loob ng buong templo."
+        },
+        {
+            "id": "21-6",
+            "text": "Ang buong gusali ng tahanan ng Diyos bilang Kanyang santuaryo ay nasa loob ni Kristo na Panginoon."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang “kayo” ay tumutukoy sa mga banal na nasa isang lokalidad."
+        },
+        {
+            "id": "22-2",
+            "text": "Ang “naman” ay nagpapakita na ang “gusali” sa bersikulo 21 ay pansansinukob at ang “itinatayo” sa bersikulo 22 ay panlokal. Sa pansansinukob na aspekto, ang ekklesia sa sansinukob ay iisa, ang kanyang paglago ay pangkalahatan; sa panlokal na aspekto, ang ekklesia sa kinalalagyan na lokalidad ay iisa rin. Ang mga banal ng lokalidad na yaon ang sama-samang itinatayo."
+        },
+        {
+            "id": "22-3",
+            "text": "Ayon sa ibig sabihin ng nilalaman, ang templong banal sa bersikulo 21 ay pansansinukob, at ang tahanan ng Diyos sa bersikulong ito ay panlokal."
+        },
+        {
+            "id": "22-4",
+            "text": "Ito ay tumutukoy sa pantaong espiritu ng mga mananampalataya na pinananahanan ng Espiritu Santo ng Diyos. Ang Espiritu ng Diyos ang nananahan, hindi ang pinananahanang lugar. Ang tahanan ay ang espiritu ng mga mananampalataya. Ang Espiritu ng Diyos ay nananahan sa ating espiritu. Kaya nga, ang tahanan ng Diyos ay nasa ating espiritu. Sinasabi sa bersikulo 21 na ang templo ay nasa loob ng Panginoon, sinasabi ng bersikulong ito na ang pinananahanan ng Diyos ay ang espiritu. Ito ay tumutukoy na para sa tahanan ng Diyos, ang Panginoon ay kaisa ng ating espiritu at ang ating espiritu ay kaisa rin ng Panginoon (1 Cor. 6:17); ang ating espiritu ay ang lugar na pinagtatayuan ng ekklesia na siyang tahanan ng Diyos."
         }
     ]
 }

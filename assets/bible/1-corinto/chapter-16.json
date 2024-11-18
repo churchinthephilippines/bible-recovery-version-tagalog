@@ -1,5 +1,5 @@
 {
-    "chapter": 16,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "paglilikom",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "gaya",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -25,11 +25,11 @@
             "footnotes": [
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "magsimpan,",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -40,7 +40,7 @@
             "footnotes": [
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -77,7 +77,7 @@
             "footnotes": [
                 {
                     "word": "Efeso",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -109,11 +109,11 @@
             "footnotes": [
                 {
                     "word": "ipinamanhik",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -124,15 +124,15 @@
             "footnotes": [
                 {
                     "word": "mangagpakatatag",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "mangagpakalalake,",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -143,7 +143,7 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -172,11 +172,11 @@
             "footnotes": [
                 {
                     "word": "inaliw",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -187,7 +187,7 @@
             "footnotes": [
                 {
                     "word": "ekklesiang",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": [
@@ -207,7 +207,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -218,11 +218,11 @@
             "footnotes": [
                 {
                     "word": "masumpa",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -233,7 +233,7 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -244,10 +244,92 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ito ang ikalabing-isang bagay na tinuos ng apostol sa Sulat na ito, isang bagay na nauugnay sa salapi, mammon, at mga materyal na kayamanan. Ang buong natisod na sangkatauhan ay nasa ilalim ng paghahari ng mammon at ng mga materyal na kayamanan (Mat. 6:19-21,24-25, 30; 19:21-22; Luc. 12:13-19). Noong araw ng Pentecostes, sa ilalim ng kapangyarihan ng Espiritu Santo, winakasan ng lahat ng mananampalataya ang paghahari ng salapi at ginawang pangkalahatan ang lahat nilang ari-arian upang maipamahagi sa mga nangangailangan (Gawa 2:44-45; 4:32, 34-37). Ang pagsasagawang yaon, dahilan sa kahinaan ng natisod na kalikasan ng mga mananampalataya (cf. Gawa 5:1-11; 6:1), ay hindi nagtagal. Nawala na ito nang dumating ang panahon ni Apostol Pablo. Kaya, kinailangan ng mga mananampalataya ang biyaya upang mapagwagian ang kapangyarihan ng mammon at ng mga materyal na bagay at mapalaya sila mula sa paghahari ni Satanas para sa isang handog sa Panginoon upang maisakatuparan ang Kanyang layunin. Ang buhay ng pagkabuhay na muli ay ang masaganang panustos para sa mga mananampalataya upang ipamuhay ang gayong uri ng buhay, isang buhay na nananalig sa Diyos at hindi sa materyal na kayamanan, isang buhay na hindi para sa ngayon kundi para sa hinaharap, hindi para sa panahong ito kundi para sa darating na kapanahunan (Luc. 12:16-21; I Tim. 6:17-19), isang buhay na gumugupo sa pangangamkam ng mga pansamantala at di-tiyak na kayamanan. Ito marahil ang dahilan kaya ang pagtutuos na ito ay sumusunod sa isa na ukol sa realidad ng buhay ng pagkabuhay na muli. Sa alinmang kaso, ang pagtutuos na ito ay may kaugnayan sa pangangasiwa ng Diyos sa mga ekklesia."
+        },
+        {
+            "id": "1-2",
+            "text": "Muli, ito ay matibay na nagsasaad na ang lahat ng mga ekklesia lokal ay dapat na maging iisa sa kanilang pagsasagawa o gawi (7:17; 11:16; 14:33)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang ikapitong araw ng sanlinggo, ang Sabbath, ay isang alaala ng paglikha ng Diyos (Gen. 2:1-3; Exo. 20:8, 11). Ang unang araw ng sanlinggo ay isang sagisag ng pagkabuhay na muli ng Panginoon; ito ang araw na ang Panginoon ay nabuhay na muli mula sa mga patay (Juan 20:1 at tala). Ito ay tinatawag na araw ng Panginoon (Apoc. 1:10). Ang mga banal sa Bagong Tipan ay nagpupulong at naghahandog ng kanilang mga materyal na bagay sa araw na ito (Gawa 20:7), ang araw ng pagkabuhay na muli ng Panginoon; nagpapakita na sila ay binuhay na muli kasama ng Panginoon (Efe. 2:6) sa pamamagitan ng Kanyang pagkabuhay na muli (I Ped. 1:3), at yaong sila ay nagpupulong upang alalahanin Siya at sambahin ang Diyos sa pamamagitan ng kanilang mga handog sa loob ng pagkabuhay na muli sa pamamagitan ng Kanyang pagkabuhay na muling buhay, hindi sa pamamagitan ng kanilang likas na buhay."
+        },
+        {
+            "id": "2-2",
+            "text": "Lit. magtabi."
+        },
+        {
+            "id": "3-1",
+            "text": "Lit . biyaya. Ito ay isang uri ng pagsasalamuha ng mga ekklesia ng mga Hentil sa ekklesia sa Herusalem, sa ilalim ng pagtuturo ng apostol (II Cor. 8:1-2; Roma 15:25-27)."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang Sulat na ito ay isinulat sa Efeso, kung saan ang apostol ay tumigil ng tatlong taon sa kanyang ikatlong pangministeryong paglalakbay (Gawa 19:21- 22; 20:1, 31)."
+        },
+        {
+            "id": "12-1",
+            "text": "Sa pamamagitan nitong sinabi ni Pablo, dapat matanto ng mga taga-Corinto ang saloobin ni Pablo kay Apolos at ang kanyang kaugnayan kay Apolos; ito ay naging maliwanag na paghahambing sa mga likas na pagtatangi ng mga taga-Corinto (1:11-12). Ang pakikitungo at pakikipag-ugnayan ni Pablo kay Apolos ay nagpanatili ng pagkakaisa; ang mga likas na pagtatangi ng mga taga-Corinto ay nagsanhi ng pagkakabaha-bahagi."
+        },
+        {
+            "id": "12-2",
+            "text": "Kapwa sina Pablo at Apolos ay mga taong namumuhay sa loob ng Espiritu. Gayunpaman, pinamanhikan ng isa yaong isa na dalawin ang ekklesia, subali’t ang isa ay walang pagnanasang gawin ito. Ito ay nagpapakita na sila ay kapwa may kalayaan sa loob ng Espiritu, at ang Espiritu ay may kalayaan din sa loob nila. Ito ay nagpapakita rin na sa gawain ng Panginoon ay walang sinuman ang nagkokontrol."
+        },
+        {
+            "id": "13-1",
+            "text": "Yaon ay, hindi dapat matinag ng anumang kataliwasan sa wastong pananampalataya, lalung-lalo na sa kamalian ukol sa pagsasabi na walang pagkabuhay na muli."
+        },
+        {
+            "id": "13-2",
+            "text": "Obhektibo, tumutukoy sa kung ano ang ating pinananampalatayanan."
+        },
+        {
+            "id": "13-3",
+            "text": "Isang taong husto sa gulang, malakas sa pananampalataya at matatag sa kanyang kinatatayuan, hindi tulad ng isang musmos sa pang-unawa (14:20), o mga musmos pa na sinisiklot ng alon at dinadala sa magkabi-kabila ng lahat ng hangin ng aral (Efe. 4:14). Ang pangangailangan sa paglago sa buhay (3:1, 6) ang siyang minata ng mga mananampalatayang taga-Corinto; ito rin ang kanilang kakulangan."
+        },
+        {
+            "id": "14-1",
+            "text": "Gaya ng ipinaliwanag sa kapitulo 13."
+        },
+        {
+            "id": "18-1",
+            "text": "Ito ay ang mga kayamanan ni Kristo na itinutustos ng espiritu ng isa na nakahihipo sa espiritu ng iba."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang ating pakikitungo at pakikipag-ugnayan sa mga banal ay kinakailangang nasa loob ng espiritu at sa pamamagitan ng ating espiritu, hindi sa loob ni sa pamamagitan ng ating makakaluluwang damdamin."
+        },
+        {
+            "id": "19-1",
+            "text": "Ito ay nangangahulugan na ang ekklesia sa Efeso ay nagpulong sa tahanan nina Aquila at Prisca nang sila ay nanirahan doon (Gawa 18:18-19, 26). Nang nanirahan sila sa Roma, ang ekklesia sa Roma ay nagpulong sa kanilang tahanan (Roma 16:5; cf. Col. 4:15-16; Filem. 2)."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang mga bersikulo 10 hanggang 21 ay nagpapakita ng larawan ng tunay na pamumuhay-Katawan sa magandang pagsasamahan, hindi lamang sa pagitan ng apostol at ng kanyang mga kamanggagawa, bagkus maging sa pagitan ng mga apostol at ng mga ekklesia para sa pagtatayo ng Katawan ni Kristo. Ito ay matinding binigyang-diin sa mga kapitulo 12 hanggang 14."
+        },
+        {
+            "id": "22-1",
+            "text": "Gr. anathema, isang bagay o tao na isinumpa; inihiwalay, nakalaan sa kamalasan. Ang pag-ibig sa Diyos ang nagsasanhi sa atin upang maging yaong mga pinagpala ng Diyos na makabahagi ng mga dibinong pagpapala na Kanyang itinalaga at inihanda para sa atin nang higit sa ating pagkaalam (2:9). Ang hindi pag-ibig sa Panginoon ang nagsasanhi sa atin upang maging yaong mga isinumpa, inihiwalay upang masumpa. Anong babala ito."
+        },
+        {
+            "id": "22-2",
+            "text": "Gr. Maranatha (isang parirala mula sa Aramaiko), Ang Panginoon ay darating! O, Ang ating Panginoon ay darating! Isang pagsigaw na nagpapaalala sa atin na ang Panginoon ay tiyak na paririto at isasagawa ang paghahatol."
+        },
+        {
+            "id": "23-1",
+            "text": "Tingnan ang tala 10-1 sa kap. 15."
+        },
+        {
+            "id": "24-1",
+            "text": "Hindi likas na pag-ibig, kundi pag-ibig na nasa loob ni Kristo, pag-ibig na nasa loob ng pagkabuhay na muli (4:21), ang pag-ibig ng Diyos na nagiging atin sa pamamagitan ng biyaya ni Kristo at ng pagsasalamuha ng Espiritu (II Cor. 13:14). Tangi lamang ang Sulat na ito, sa labing-apat na Sulat ni Pablo, ang nagwawakas nang may gayong salita ng katiyakan ng pag-ibig. Ito ay dahilan sa pagtutuos ng apostol na may mga mahigpit na pagsaway (1:13; 3:3; 4:7-8; 5:2, 5; 6:5-8; 11:17). Siya ay tapat, tunay, at tahasan sa kanila sa loob ng pag-ibig ng Diyos sa loob ni Kristo (II Cor. 2:4), nang walang anumang pamumulitika. Kaya, kinikilala ng Panginoon ang kanyang mga pagtutuos upang tanggapin ng mga taga-Corinto ang kanyang pagsaway at mangagsisi para sa kanilang mga kapakinabangan (II Cor. 7:8-13)."
         }
     ]
 }

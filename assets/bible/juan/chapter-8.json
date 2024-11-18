@@ -1,5 +1,5 @@
 {
-    "chapter": 8,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -19,7 +19,7 @@
             "footnotes": [
                 {
                     "word": "babaeng",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -36,7 +36,7 @@
             "footnotes": [
                 {
                     "word": "Ano",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -47,7 +47,7 @@
             "footnotes": [
                 {
                     "word": "yumuko",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -84,11 +84,11 @@
             "footnotes": [
                 {
                     "word": "Panginoon.",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -99,7 +99,7 @@
             "footnotes": [
                 {
                     "word": "ilaw",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -131,7 +131,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -154,7 +154,7 @@
             "footnotes": [
                 {
                     "word": "nakikilala,",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -185,19 +185,19 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -208,7 +208,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -219,7 +219,7 @@
             "footnotes": [
                 {
                     "word": "sinalita",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -242,7 +242,7 @@
             "footnotes": [
                 {
                     "word": "maitaas",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": [
@@ -261,7 +261,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -280,11 +280,11 @@
             "footnotes": [
                 {
                     "word": "realidad,",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "realidad",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -295,7 +295,7 @@
             "footnotes": [
                 {
                     "word": "inapo",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -324,7 +324,7 @@
             "footnotes": [
                 {
                     "word": "inapo",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": [
@@ -365,11 +365,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "42-1"
                 },
                 {
                     "word": "isinugo",
-                    "note": ""
+                    "id": "42-2"
                 }
             ],
             "outlines": null
@@ -386,27 +386,27 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "44-1"
                 },
                 {
                     "word": "amang",
-                    "note": ""
+                    "id": "44-2"
                 },
                 {
                     "word": "katotohanan,",
-                    "note": ""
+                    "id": "44-3"
                 },
                 {
                     "word": "katotohanan",
-                    "note": ""
+                    "id": "44-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "44-4"
                 },
                 {
                     "word": "ama",
-                    "note": ""
+                    "id": "44-5"
                 }
             ],
             "outlines": null
@@ -432,15 +432,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "47-1"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "47-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "47-1"
                 }
             ],
             "outlines": null
@@ -469,7 +469,7 @@
             "footnotes": [
                 {
                     "word": "kamatayan.",
-                    "note": ""
+                    "id": "51-1"
                 }
             ],
             "outlines": null
@@ -500,11 +500,11 @@
             "footnotes": [
                 {
                     "word": "napagkilala;",
-                    "note": ""
+                    "id": "55-1"
                 },
                 {
                     "word": "nakikilala",
-                    "note": ""
+                    "id": "55-1"
                 }
             ],
             "outlines": null
@@ -527,7 +527,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "58-1"
                 }
             ],
             "outlines": null
@@ -537,6 +537,120 @@
             "text": "Sila nga ay nagsidampot ng mga bato upang ihagis sa Kanya, datapuwa’t nakubli si Hesus at lumabas sa templo.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "3-1",
+            "text": "Sa tala ng ebanghelyong ito, siyam na kaso ang napili upang patunayan na ang Panginoong Hesus ay ang buhay at ang panustos ng buhay sa mga tao. Ang unang anim na kaso, sa mga kapitulo tatlo hanggang pito, ay bumubuo ng isang grupo ng mga tanda, sumasagisag sa Panginoon bilang buhay at panustos ng buhay sa atin sa positibong panig: ang pagsisilang na muli, ang pagbibigay-kasiyahan, ang pagpapagaling, ang pagpapasigla, ang pagpapakain, at ang pagpapawi ng uhaw. Ang huling tatlong kaso, sa mga kapitulo walo hanggang labing-isa, ay isa ring grupo ng mga tanda, sumasagisag sa Panginoon bilang buhay sa atin sa negatibong panig, upang hanguin tayo sa tatlong negatibong bagay: sa kasalanan, kabulagan at kamatayan."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang tanong dito, katulad ng yaong nasa 4:20-25 at 9:2-3, ay isang bagay ng tama o mali, na nabibilang sa puno ng kaalaman na humahantong sa kamatayan (Gen. 2:17). Ngunit ang sagot ng Panginoon sa bersikulo 7 ay ang paggabay sa kanila tungo sa Kanyang Sarili, ang puno ng buhay na humahantong sa buhay (Gen. 2:9)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang pagyuko ni Hesus ay ang paggawa ng isang tanda ng Panginoon para sa mga eskriba at mga Fariseong palalo at nagmamatuwid-sa-sarili upang sila ay maging mapagpakumbaba at manahimik. Sa panahong yaon, maaaring ang isinulat Niya ay: Sino ang walang sala sa inyo?"
+        },
+        {
+            "id": "11-1",
+            "text": "O, Ginoo."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang mga eskriba at mga Fariseo ay pawang mga makasalanan, sa gayon hindi nila maaaring hatulan ang babae. Tangi lamang ang Panginoon ang walang kasalanan at kwalipikadong humatol sa kanya, subalit hindi Niya hinatulan siya."
+        },
+        {
+            "id": "12-1",
+            "text": "“Ang ilaw ng buhay” (1:4) ay nagliliwanag sa loob ng tao sa pamamagitan ng panloob na kamalayan ng buhay upang hanguin ang tao sa kasalanan."
+        },
+        {
+            "id": "16-1",
+            "text": "Ito ay nagpapatunay na nang ang Anak ay nasa ibabaw ng lupa, kasama rin Niya ang Ama sa ibabaw ng lupa. Ang Ama at ang Anak, ang Anak at ang Ama, kailanman ay hindi maaaring paghiwalayin. Nang ang Anak ay nasa ibabaw ng lupa, Siya ay nanatili pa rin sa kalangitan kasama ng Ama (3:13). Ito ay nagpapatunay rin na nang ang Diyos ay naging laman (1:14), ang buong kumpletong Diyos – ang Ama, ang Anak, ang Espiritu – ay naging laman sapagkat dala ng Anak ang Ama, kasama ng Ama ang Anak na nasa loob ng Espiritu (1 Tim. 3:16). Gayundin sa bersikulo 29."
+        },
+        {
+            "id": "19-1",
+            "text": "Sa Griyego ang salitang “nakikilala” ay katulad ng “nalalaman” sa b. 14."
+        },
+        {
+            "id": "23-1",
+            "text": "Sa Griyego, ang “mula sa” at “sa” ay magkatulad na salita."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang “Ako Nga” (bb. 28, 58) ay ang kahulugan ng pangalang Jehovah (Exo. 3:14) at ang Jehovah ay ang pangalan ng Diyos sa pakikipag-ugnay sa tao (Gen. 2:7), na Siya Nga ngayon, Siya Nga noon, at Siya Nga sa darating, na umiiral sa Kanyang Sarili at umiiral magpakailanman (Apoc. 1:4; Exo. 3:14-15). Samakatuwid , ipinakikita nito na ang Panginoon na Siyang Diyos na umiiral magpakailanman ay nagkaroon ng kaugnayan sa tao. Kung hindi paniniwalaan ng tao na Siya na nga ang Diyos na ito, siya ay mamamatay sa kanyang mga kasalanan."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang sinalita ng Panginoon dito ay ang Kanyang pagpapahayag ng Kanyang Persona, lalung-lalo na ang Kanyang walang hanggang pagka-Diyos katulad ng “Ako Nga” na binanggit sa naunang bersikulo. Ito ang pangunahing punto ng pahayag ng salita ng Panginoon."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang salitang “maitaas” ay ginamit din sa 3:14 at 12:31-34. Sa 3:14 ang Panginoon bilang ang Anak ng Tao ay itinaas sa anyong ahas, pinasan ang kahatulan ng Diyos para sa mga taong nalason ng ahas. Sa 12:31-34, ang Panginoon bilang ang Anak ng Tao ay itinaas upang mapalayas ang matandang ahas na si Satanas, ang prinsipe ng sanlibutan. Samakatuwid, sa kapitulong ito, ang Panginoon bilang ang Anak ng Tao ay itinaas upang maligtas ang mga taong nalason ng ahas mula sa kasalanan, na siyang kamandag ng ahas."
+        },
+        {
+            "id": "30-1",
+            "text": "Gr. tungo sa loob Niya."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang realidad ay hindi ang tinatawag na katotohanan ng doktrina, kundi ang realidad ng mga dibinong bagay na Siyang Panginoon Mismo (14:6; 1:14, 17). Sa bersikulong ito, sinasabi nito na, Ang realidad ang magpapalaya sa inyo. Sa bersikulo 36, sinasabi na, Ang Anak ng Diyos ang magpapalaya sa inyo. Pinatutunayan nito na ang Anak ng Diyos, ang Panginoon Mismo, ay ang realidad. Yamang ang Panginoon ay ang pagsasakatawan ng Diyos (Col. 2:9), Siya ang realidad ng kung ano ang Diyos. Samakatuwid, ang realidad ay ang mismong dibinong elemento ng Diyos na natanto natin. Kapag ang Panginoon bilang ang dakilang Ako Nga ay pumasok sa loob natin bilang buhay, Siya ay lumiliwanag sa kalooban natin bilang ilaw, na nagdadala ng dibinong elemento bilang realidad sa atin. Ang realidad na ito, na siyang dibinong elementong ipinamahagi sa loob natin at natanto natin, ang magpapalaya sa atin mula sa pagkagapos ng kasalanan sa pamamagitan ng dibinong buhay na naging ilaw ng tao. Ang Panginoon bilang Salita ng Diyos ay naging laman (1:14); Kanyang dinala sa atin ang Diyos bilang realidad upang maging biyayang ating tinatamasa (1:17)."
+        },
+        {
+            "id": "33-1",
+            "text": "Lit. binhi."
+        },
+        {
+            "id": "37-1",
+            "text": "Lit. binhi."
+        },
+        {
+            "id": "42-1",
+            "text": "Lit. mula sa"
+        },
+        {
+            "id": "42-2",
+            "text": "Tingnan ang tala 6-1 sa kap. 1."
+        },
+        {
+            "id": "44-1",
+            "text": "Lit. mula sa"
+        },
+        {
+            "id": "44-2",
+            "text": "Sa dahilang ang Diyablo ang ama ng mga makasalanan, ang mga makasalanan ay ang “mga anak ng Diyablo” (1 Juan 3:10). Ang Diyablo ay ang matandang ahas (Apoc. 12:9; 20:2) at ang mga makasalanan ay ang “mga ahas, ang mga supling ng mga ulupong” (Mat. 23:33; 3:7). Samakatuwid, kailangan nila ang Panginoon sa anyong ahas na maitaas sa krus para sa kanila (3:14). Hindi lamang sila iniligtas mula sa kasalanan, bagkus iniligtas din sila mula sa Diyablo, ang pinagmulan ng kasalanan (Heb. 2:14)."
+        },
+        {
+            "id": "44-3",
+            "text": "Ang gayunding salitang Griyego ang ginamit para sa salitang realidad sa bersikulo 32."
+        },
+        {
+            "id": "44-4",
+            "text": "Ipinahihiwatig ng salita ng Panginoon dito na sa loob ng Diyablo, ang ama ng kasinungalingan, ay may isang espesyal na kasamaang nagsasanhi sa kanya upang maging ang pinagmumulan ng kasalanan; ito ay ang “sa ganang kanyang sarili” na wala sa ibang nilikha."
+        },
+        {
+            "id": "44-5",
+            "text": "Sa kadahilanang ang Diyablo ay ang ama ng mga sinungaling, siya ang pinagmumulan ng kasalanan. Ang dibinong elemento ng Diyos, na gumagawa bilang buhay at ilaw sa loob ng tao, ang nagpapalaya sa tao mula sa pagkaalipin sa kasalanan. Nguni’t ang masamang elemento ng Diyablo, na gumagawa bilang kasalanan sa pamamagitan ng kamatayan at kadiliman sa loob ng tao, ang bumibihag sa tao upang magkasala. Ang kanyang kalikasan ay isang kasinungalingan at naghahatid ng kamatayan at kadiliman. Ang kasama ng kadiliman ay ang kasinungalingan, ang kabaligtaran ng katotohanan."
+        },
+        {
+            "id": "47-1",
+            "text": "Lit. mula sa."
+        },
+        {
+            "id": "47-2",
+            "text": "Gr. rhema . Tingnan ang tala 63-3 sa kapitulo 6."
+        },
+        {
+            "id": "51-1",
+            "text": "Sa prinsipyong itinalaga sa kapitulo 2, ito man ay ang pagpapalit ng buhay sa kamatayan."
+        },
+        {
+            "id": "55-1",
+            "text": "Sa bersikulong ito, dalawang salitang Griyego ang ginamit para sa salitang kilala: ang una ay ginosko na nangangahulugang panlabas at obhektibong pagkakilala; ang ikalawa ay oida na nangangahulugang panloob at subhektibong pagkaalam. Ang Panginoong Hesus ay nagsabi sa mga Fariseo na hindi nila kilala (ginosko) ang Diyos Ama (kahit man lamang sa panlabas at obhektibong pagkakilala), nguni’t kilala (oida) Niya ang Ama (sa panloob at subhektibong pagkaalam)."
+        },
+        {
+            "id": "58-1",
+            "text": "Ang Panginoon bilang ang dakilang Ako Nga ay ang walang hanggan, palagiang-umiiral na Diyos. Samakatuwid, Siya ay nauna pa kaysa kay Abraham at higit na dakila kaysa kay Abraham (b. 53)."
         }
     ]
 }

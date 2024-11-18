@@ -1,5 +1,5 @@
 {
-    "chapter": 6,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "espiritwal",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -24,11 +24,11 @@
             "footnotes": [
                 {
                     "word": "matutupad",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "kautusan",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": [
@@ -41,7 +41,7 @@
             "footnotes": [
                 {
                     "word": "nag-",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -64,7 +64,7 @@
             "footnotes": [
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -75,7 +75,7 @@
             "footnotes": [
                 {
                     "word": "paliligaw,",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": [
@@ -88,27 +88,27 @@
             "footnotes": [
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "laman",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "kasiraan,",
-                    "note": ""
+                    "id": "8-3"
                 },
                 {
                     "word": "para",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -125,15 +125,15 @@
             "footnotes": [
                 {
                     "word": "mabuti",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "kasambahay",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "pananampalataya.",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -144,7 +144,7 @@
             "footnotes": [
                 {
                     "word": "kalalaking",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -157,11 +157,11 @@
             "footnotes": [
                 {
                     "word": "mabuting",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -178,15 +178,15 @@
             "footnotes": [
                 {
                     "word": "krus",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Niya",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "sanlibutan",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -197,7 +197,7 @@
             "footnotes": [
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -208,23 +208,23 @@
             "footnotes": [
                 {
                     "word": "magsisilakad",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "alituntuning",
-                    "note": ""
+                    "id": "16-2"
                 },
                 {
                     "word": "kapayapaan",
-                    "note": ""
+                    "id": "16-3"
                 },
                 {
                     "word": "maging",
-                    "note": ""
+                    "id": "16-4"
                 },
                 {
                     "word": "Israel",
-                    "note": ""
+                    "id": "16-5"
                 }
             ],
             "outlines": null
@@ -235,7 +235,7 @@
             "footnotes": [
                 {
                     "word": "tatak",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": [
@@ -248,20 +248,138 @@
             "footnotes": [
                 {
                     "word": "Mga",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "espiritu.",
-                    "note": ""
+                    "id": "18-3"
                 }
             ],
             "outlines": [
                 "IV. Konklusyon-ang Biyaya ng Ating Panginoong Hesu-Kristo ay Sumasaating Espiritu\n 6:18"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Yaon ay, ang namumuhay at lumalakad sa pamamagitan ng Espiritu (5:25)."
+        },
+        {
+            "id": "1-2",
+            "text": "Tinutukoy ang ating espiritung naisilang na muli na pinanahanan ng at inihalo sa Espiritu Santo. Ang ganitong espiritu ng kaamuan ang bunga ng pamumuhay at paglakad sa pamamagitan ng Espiritu gaya ng nabanggit sa 5:16, 25."
+        },
+        {
+            "id": "2-1",
+            "text": "*Gr. anapleeroö ; o, lubusang mabibigyang-kasiyahan."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang higit na mataas at mainam na kautusan ng buhay na gumagawa sa pamamagitan ng pag-ibig (Roma 8:2; Juan 13:34). Ang pag-ibig ay ang resulta at kahayagan ng dibinong buhay (cf. 1 Cor. 13) at ang bunga rin ng Espiritu (5:22). Ang kautusan ni Kristo ay kautusan din ng pag-ibig at kinakailangan ang kautusan ng Espiritu ng buhay upang ito ay matanto nang sa gayon ay makapagdala tayo ng mga pasanin ng isa’t isa."
+        },
+        {
+            "id": "3-1",
+            "text": "Yaong mga nag-aakala na sila ay mahalaga ay hindi makapagdadala ng pasanin ng iba. Tangi lamang yaong mga hindi nag-aakala sa kanilang mga sarili na sila ay mahalaga, dahilan sa sila ay nasa loob ng Espiritu at lumalakad sa pamamagitan ng Espiritu, ang kusang magkakaroon ng bunga: ang magdala ng pasanin."
+        },
+        {
+            "id": "6-1",
+            "text": "Tumutukoy sa mga bagay na mabuti para sa buhay na ito, mga bagay na kinakailangan sa araw-araw."
+        },
+        {
+            "id": "7-1",
+            "text": "Ito muli ay tumutukoy sa mga maling pagtuturo ng mga maka-Hudaismo. Iniligaw ng mga maling pagtuturong ito ang mga taga-Galacia mula sa Espiritu na nasa loob ng kanilang espiritu tungo sa kautusang tinutupad sa pamamagitan ng kanilang laman."
+        },
+        {
+            "id": "8-1",
+            "text": "Para sa laman na may kagustuhan at layunin ng laman, tinutupad ang mga iniimbot ng laman; ang para sa Espiritu na may kagustuhan at layunin ng Espiritu, tinutupad ang ninanasa ng Espiritu. Ang lahat ng ating ginagawa ay isang paghahasik, maaaring para sa sariling laman o maaaring para sa Espiritung yaon. Ang lahat ng paghahasik ay pawang may inaani; maaaring pag-aani ng kasiraan mula sa laman o pag-aani ng buhay na walang hanggan mula sa Espiritu."
+        },
+        {
+            "id": "8-2",
+            "text": "Tingnan ang mga tala 3-2 sa kapitulo 3 at 19-1 at 22-1 sa kapitulo 5."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang maghasik para sa pagtupad ng layunin ng laman ay nagbubunga ng kasiraan; ang maghasik para sa pagtupad ng layunin ng Espiritu ay nagbubunga ng buhay, maging ng buhay na walang hanggan. Ang kasiraan ay nabibilang sa laman, nagpapahiwatig na ang laman ay kasiraan; ang buhay na walang hanggan ay nabibilang sa Espiritu maging sa Espiritu Mismo."
+        },
+        {
+            "id": "10-1",
+            "text": "Ito ay pangunahing tumutukoy sa pamamahagi ng mga materyal na bagay sa mga nangangailangan (2 Cor. 9:6-9)."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang kasambahay ng pananampalataya ay tumutukoy sa mga anak ng pangako (4:28), sa lahat ng mga anak na lalake ng Diyos sa pamamagitan ng pananampalataya sa loob ni Kristo (3:26). Ang lahat ng mga mananampalataya ang bumubuo sa isang pansansinukob na sambahayan na siyang malaking pamilya ng Diyos. Sila ay naging ang pansansinukob na sambahayan ng Diyos sa pamamagitan ng pananampalataya kay Kristo, at hindi sa pamamagitan ng mga gawa ng kautusan. Ang sambahayang ito, bilang ang bagong tao (Col. 3:10-11), ay binubuo ng lahat ng mga sangkap ni Kristo. Taglay ng bagong taong ito si Kristo bilang bumubuong sangkap niya. Samakatwid, nararapat tayong gumawa ng mabuti, lalung-lalo na sa mga nabibilang sa sambahayang ito, anuman ang kanilang lahi at katayuan sa lipunan (3:28)."
+        },
+        {
+            "id": "10-3",
+            "text": "Tingnan ang tala 23-2 sa kap. 1."
+        },
+        {
+            "id": "11-1",
+            "text": "Marahil dahil sa kahinaan ng mga mata ni Pablo (4:13-15 at tala 15-2 doon)."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. mabuting mukha, samakatwid, mabuting anyo para sa mabuting pagpapakita, isang pakitang-tao. Ito ay ginamit dito sa isang negatibong pagpapakahulugan.Ang pagtutuli, katulad ng krus, ay hindi isang mabuting pagpapakita kundi isang pagpapakababa. Gayunpaman, ginawa itong isang bagay na pakitang-tao ng mga maka-Hudaismo sa kanilang pagmamapuri sa laman (b.13)."
+        },
+        {
+            "id": "12-2",
+            "text": "Yaon ay, sa panlabas sa kinasasaklawan ng laman na kinondena, itinatwa, at itinakwil ng Diyos. Ito ay nasa natural at panlabas na katauhan ng tao at walang panloob na realidad at espiritwal na kahalagahan na siyang matatagpuan sa ating naisilang na muling espiritu."
+        },
+        {
+            "id": "14-1",
+            "text": "Sa katunayan ang krus ay isang pagpapakababa, ngunit ito ay ginawa ng apostol na dahilan ng kanyang pagmamapuri."
+        },
+        {
+            "id": "14-2",
+            "text": "Sa ganang atin, ang sanlibutan ay naipako na sa krus at sa ganang sanlibutan, tayo ay naipako na sa krus, hindi nang tuwiran kundi sa pamamagitan ni Kristo na siyang naipako sa krus."
+        },
+        {
+            "id": "14-3",
+            "text": "Ang pagpapaliwanag sa sumusunod na bersikulo ay nagpapatunay na ang “sanlibutan” sa bersikulong ito ay tumutukoy nang pangunahin sa relihiyosong sanlibutan sapagka’t sa aklat na ito, ang tinutuos ni Pablo ay ang mga taong maiinit sa relihiyon. Ang kanilang pagmamalasakit sa mga bagay ng Diyos ay pumasok na sa maling landas at naghayag pa sa kamalian nito. Ang kanilang relihiyon ay naging sanlibutan na. Sa pamamagitan ng krus ni Kristo, tayo ay naihiwalay na sa relihiyosong sanlibutan upang magkaroon tayo ng kwalipikasyon na mamuhay sa loob ng bagong nilalang."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang lumang nilalang ay ang ating lumang tao sa loob ni Adam (Efe. 4:22), ang ating natural na katauhan mula sa pagkasilang, na hindi nagtataglay ng buhay ng Diyos at ng dibinong kalikasan. Ang bagong nilalang ay ang bagong tao sa loob ni Kristo (Efe. 4:24), ang ating katauhang naisilang na muli sa pamamagitan ng Espiritu (Juan 3:6), na may buhay ng Diyos at dibinong kalikasang naisagawa sa loob nito (Juan 3:36; 2 Ped. 1:4) na taglay si Kristo bilang ang mga bumubuong bahagi nito (Col. 3:10-11), upang maging bagong kabuuan. Ito ay tumutukoy sa esensiya ng ekklesia; ito rin ay ang organikong bumubuong sangkap na nasa loob ng ekklesia. Sa gayon ang bagong nilalang ay isang samahan, at ang samahang ito ay ang banal na pagka-anak, na binubuo ng mga anak na lalake ng Diyos (3:26; 4:5, 7). Ang samahan ng pagka-anak na ito ay ibinunga sa pamamagitan ng pagtutubos ni Kristo, ng pagsisilang na muli ng Espiritu, ng pamamahagi ng Diyos ng Kanyang sarili tungo sa ating loob, at sa pamamagitan ng ating sama-samang pagpasok sa organikong pakikipag-isa sa Tres-unong Diyos upang maging ang bagong taong ito.Ang lumang nilalang ay luma sapagka’t walang Diyos bilang sangkap; ang bagong nilalang ay bago sapagka’t may Diyos bilang sangkap. Bagama’t tayo ay lumang nilalang pa rin, dahilan sa tayo ay lumalakad sa pamamagitan ng Espiritu (5:16, 25), nararanasan natin ang realidad ng bagong nilalang. Ang pinakamahalagang bagay na tinalakay ng aklat na ito ay yaong tayo ay ang bagong nilalang, kaya nararapat na sa pamamagitan ng organikong pakikipagkaisa sa Tres-unong Diyos, tayo ay mamuhay ayon sa bagong nilalang. Isinasakatuparan ng bagong nilalang na ito ang walang hanggang layunin ng Diyos, yaon ay, sa loob ng pagka-anak ng Anak ng Diyos ay maihayag ang Diyos.Ang pagtutuli ay isang ordinansa ng kautusan; ang bagong nilalang ay ang obra-maestra ng buhay na may dibinong kalikasan. Ang una ay nabibilang sa mga patay na titik; ang huli ay nabibilang sa buháy na Espiritu. Samakatuwid, ito ay may kabuluhan. Inilalantad ng aklat na ito ang kawalangkakayahan kapwa ng kautusan at ng pagtutuli. Hindi makapagbigay ng buhay ang kautusan (3:21) kaya ito ay walang kakayahang magsilang na muli sa atin, at ang pagtutuli ay hindi makapagbibigay ng lakas sa atin (5:6) upang maipamuhay ang isang bagong nilalang. Nguni’t ang Anak ng Diyos na naihayag sa atin (1:16) ay may kakayahang magbigay sa atin ng buhay at gawin tayong isang bagong nilalang, at si Kristo na nabubuhay sa atin (2:20) ay makapagbibigay sa atin ng mga kayamanan ng Kanyang buhay bilang panustos upang ating maipamuhay ang bagong nilalang. Ang kautusan ay hinalinhan ni Kristo (2:19-20), at ang pagtutuli ay natupad sa pamamagitan ng pagkapako sa krus ni Kristo (b.14). Samakatwid, ang pagtutuli o di-pagtutuli, alinman sa dalawa, ay walang kabuluhan, kundi ang isang bagong nilalang at si Kristo bilang buhay nito. Ang pamumuhay ng bagong nilalang ay nagsasanhi at nagreresulta sa paghahasik ng Espiritu (b.8). Ang pagtupad sa kautusan at pagtutuli ay para sa paghahasik ng laman at wala pa itong kakayahang mabago ang lumang nilalang; ngunit ang maghasik para sa Espiritu ay magsasanhi sa atin na maging bagong nilalang, yaon ay, ang malikhang muli ng Espiritu Santo. Ang bagong nilalang na ito ay natatransporma ng buhay ng Diyos at binuo sa pamamagitan ng paghahalo sa atin ng mayamang sangkap ng Tres-unong Diyos na dumaan sa iba’t ibang hakbangin."
+        },
+        {
+            "id": "16-1",
+            "text": "Tingnan ang tala 25-2 sa kap. 5."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang alituntunin ng pagiging isang bagong nilalang, namumuhay sa Espiritu sa pamamagitan ng pananampalataya, taglay ang Tres-unong Diyos bilang buhay at pamumuhay, hindi sa pagtupad ng kautusan sa pamamagitan ng pagsunod sa mga ordinansa. Ang lumakad ayon sa alituntuning ito ay ang lumakad ayon sa Espiritu (5:25)."
+        },
+        {
+            "id": "16-3",
+            "text": "Sa simula ng aklat na ito, binanggit ni Pablo ang biyaya at kapayapaan (1:3); ngunit sa pagwawakas, una niyang binanggit ang kapayapaan pagkatapos ay ang kaawaan at biyaya (b. 18). Ang kapayapaan ay ang kalagayang ibinunga ng biyaya. Kapag tayo ay namumuhay sa loob ng kalagayan ng ganitong kapayapaan, kinakailangan pa rin nating magpatuloy sa pagtanggap ng kaawaan at biyaya."
+        },
+        {
+            "id": "16-4",
+            "text": "Ang kai (Gr.) dito ay hindi nagdurugtong, kundi nagpapaliwanag, tumutukoy na ipinapalagay ng apostol na ang sama-samang “maraming” indibiduwal na mananampalataya kay Kristo ay ang Israel ng Diyos."
+        },
+        {
+            "id": "16-5",
+            "text": "Ang tunay na Israel (Roma 9:6b; 2:28-29; Fil. 3:3), kabilang ang lahat ng mga Hentil at Hudyong mananampalataya kay Kristo, na siyang mga tunay na anak ni Abraham (3:7,29), ang kasambahay ng pananampalataya (b.10), ay ang mga tao ng bagong nilalang. Sila ay lumalakad nang ayon sa “alituntuning ito,” inihahayag ang larawan ng Diyos at isinasagawa ang pamamahala ng Diyos at sinasagisag ng Jacob na natransporma upang maging Israel, ang prinsipe ng Diyos at ang mandaraig (Gen. 32:27-28)."
+        },
+        {
+            "id": "17-1",
+            "text": "Tumutukoy sa mga markang nakatatak sa mga alipin upang malaman ang nagmamay-ari sa kanila. Sa ganang kay Pablo, isang alipin ni Kristo (Roma 1:1), ang mga marka ay mga pisikal na pilat ng kanyang mga sugat na natamo sa kanyang tapat na paglilingkod sa kanyang Panginoon (2 Cor. 11:23-27). Sa pang-espirituwal, ito ay nagpapakita ng mga katangian ng kanyang buhay na katulad ng ipinamuhay ng Panginoong Hesus dito sa lupa. Ang gayong buhay ay patuloy na nakapako sa krus (Juan 12:24), ginagawa ang kalooban ng Diyos (Juan 6:38), hindi naghahanap ng sariling kaluwalhatian kundi hinahanap lamang ang kaluwalhatian ng Diyos (Juan 7:18), nagpapasakop at sumusunod sa Diyos, maging hanggang sa kamatayan sa krus (Fil. 2:8) at iba pa. Sinunod ng apostol ang Panginoong Hesus bilang huwaran, dinadala ang mga tatak, ang mga katangian ng kanyang buhay, na lubos na naiiba sa mga maka-Hudaismo."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang mga pinagwikaang “mangmang na taga-Galacia” (3:1) ay tinawag nang ilang ulit na “mga kapatid,” isang matalik na pagtawag (1:11; 3:15; 4:12, 28, 31; 5:11, 13; 6:1). Sa katapusan ng isang gayong kahigpit, nagwiwika at nagbababalang Sulat, muling ginamit ng apostol ang magiliw na katawagang ito at sadyang inilagay ito sa hulihan upang maihayag ang kanyang di-nagbabagong pag-ibig sa kanila, tinitiyak na sila pa rin ang kanyang mga kapatid na kabilang sa “kasambahay ng pananampalataya” (b.10)."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang biyaya ni Hesu-Kristo ay ang Tres-unong Diyos na nagsakatawan sa Anak at natanto bilang ang masaganang panustos ng Espiritung nagbibigay-buhay. Sa pamamagitan ng paggamit ng ating espiritu, ang pagtatamasa ay ibinibigay sa atin."
+        },
+        {
+            "id": "18-3",
+            "text": "Ang ating naisilang na muling espiritu na pinananahanan ng Espiritu, na Siyang pinagtutuunan ng ipinangakong pagpapala ng Diyos ay ganap na binigyang-diin sa aklat na ito. Nararanasan at natatamasa natin ang Espiritu sa ating espiritu bilang ang sentrong pagpapala ng Bagong Tipan. Samakatwid, kinakailangan natin ang biyaya ng Panginoon na Siyang masaganang panustos ng nagpapaloob nglahat na Espiritu (Fil. 1:19), upang sumaating espiritu.Si Kristo, ang Espiritu, ang bagong nilalang, at ang ating espiritu ay ang apat na pangunahing bagay na inihayag sa aklat na ito bilang ang pinagbabatayang kaisipan ng ekonomiya ng Diyos. Si Kristo ang sentro ng ekonomiya ng Diyos, at ang Espiritu ang Siyang realidad ni Kristo. Nang si Kristo ay natanto sa pamamagitan ng Espiritu sa loob ng ating espiritu, tayo ay naging bagong nilalang. Kung kaya, ang ating espi ritu ay mahalaga upang tayo ay makapamuhay ng buhay ng bagong nilalang, upang isakatuparan ang layunin ng Diyos.Binibigyang-diin ng aklat na ito ang tungkol sa pagdaranas sa krus at pagkapako-sa-krus upang matuos ang mga negatibong bagay katulad ng kautusan, laman, “ako,” relihiyosong sanlibutan, pagkaalipin, at pagkasumpa nang sa gayon ay maihatid ang mga positibong bagay na ipinahayag ng aklat na ito: si Kristo, ang Espiritu, ang Anak ng Diyos, ang ipinangakong Tagapagmana, ang kasambahay ng pananampalataya, ang bagong nilalang, at ang Israel ng Diyos. Ang konklusyon ng aklat na ito ay: natapos na ang kautusan, laman, at relihiyon sa pamamagitan ng krus ni Kristo upang ating makamtan ang Espiritu, ang bagong nilalang at ang ating espiritu, nang sa gayon tayo sa loob ng ating espiritu sa pamamagitan ng Espiritu na siyang nadaramang pahayag ng pinakadiwa ni Kristo ay maging bagong nilalang. Dinadala natin ang tatak ni Hesus at natatamasa natin sa loob ng ating espiritu ang biyaya ng Panginoong Hesu-Kristo."
         }
     ]
 }

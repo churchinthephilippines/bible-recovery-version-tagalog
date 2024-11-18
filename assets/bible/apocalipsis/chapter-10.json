@@ -1,5 +1,5 @@
 {
-    "chapter": 10,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,27 +7,27 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "bahaghari",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "araw,",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "haliging",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "apoy;",
-                    "note": ""
+                    "id": "1-6"
                 }
             ],
             "outlines": [
@@ -41,11 +41,11 @@
             "footnotes": [
                 {
                     "word": "maliit",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "itinuntong",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -56,19 +56,19 @@
             "footnotes": [
                 {
                     "word": "malakas",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "leon",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "pitong",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "umugong",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": null
@@ -91,23 +91,23 @@
             "footnotes": [
                 {
                     "word": "ipinanumpa",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "bagay",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "naroroon,",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "magluluwat",
-                    "note": ""
+                    "id": "6-5"
                 }
             ],
             "outlines": null
@@ -118,23 +118,23 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "hiwaga",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "rin",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "ganap",
-                    "note": ""
+                    "id": "7-4"
                 },
                 {
                     "word": "mabuting",
-                    "note": ""
+                    "id": "7-5"
                 }
             ],
             "outlines": null
@@ -159,11 +159,11 @@
             "footnotes": [
                 {
                     "word": "kinain",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "matamis",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -174,14 +174,120 @@
             "footnotes": [
                 {
                     "word": "nila",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "muli",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang b. 1 hanggang 11:13 ay salita na isiningit sa pagitan ng ikaanim at ikapitong trumpeta."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “ibang malakas na Anghel,” kagaya ng Isa sa 7:2, at 8:3, at 18:1, ay si Kristo. Siya ngayon ay “nananaog mula sa langit.” Ang pangitaing ito, bahagi ng paningit sa pagitan ng ikaanim at ikapitong trumpeta, ay isang pagpapahiwatig na bago ang ikapitong trumpeta, si Kristo ay patungo na sa lupa. Sa panahong ito Siya ay “nabibihisan ng isang alapaap,” wala pa “sa ibabaw ng alapaap,” gaya ng sa 14:14 at sa Mat. 24:30; 26:64. Ang mapasa “ibabaw ng alapaap” ay ang pagdating nang hayagan, samantalang ang “nabibihisan ng isang alapaap” ay ang pagdating nang palihim. Ito ay tumutukoy na maging pagkatapos ng ikaanim na trumpeta, si Kristo ay dumarating pa rin nang palihim, hindi nang hayagan, hanggang sa makita Siya ng lahat ng mga lipi ng lupa, gaya ng binanggit sa 1:7 at sa Mat. 24:30."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang “bahaghari” rito ay tumutukoy na tutuparin ni Kristo ang kasunduang ginawa ng Diyos kay Noe (Gen. 9:8-17) sa Kanyang paghahatol sa lupa. Ito ay nagpapakita rin na sa paggagawad ng kahatulan ng Diyos, ginawa ito ni Kristo nang ayon sa Diyos na nakaupo sa tronong nasa kalangitan na may nakapalibot na bahaghari (4:2-3), yaon ay, ang Diyos na tapat sa Kanyang tipan."
+        },
+        {
+            "id": "1-4",
+            "text": "Sa Kanyang hayag na pagdating, si Kristo ay magpapakita sa mga tao sa lupa na gaya ng araw; hindi gaya ng Kanyang pagpapakita sa mga umiibig at naghihintay sa Kanya bilang tala sa umaga na lumilitaw sa panahon ng kadiliman bago magbukang-liwayway."
+        },
+        {
+            "id": "1-5",
+            "text": "Ang “mga haligi” rito ay tumutukoy sa katatagan (Jer. 1:18; Gal. 2:9)."
+        },
+        {
+            "id": "1-6",
+            "text": "Ang “apoy” rito ay sumasagisag sa kabanalan ng Diyos (Exo. 19:18; Heb. 12:29); igagawad ni Kristo ang Kanyang kahatulan sa lupa ayon sa kabanalan ng Diyos."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang “isang maliit na aklat na bukas” na ito ay ang aklat sa 5:1, na tanging si Kristo lamang ang karapat-dapat magbukas at ito rin yaong kinuha Niya sa kamay ng Diyos (5:5,7). Ngayon ito ay “nasa Kanyang kamay.” Sa 5:1, ito ay nakapinid; dito ito ay “bukas.” Dito, bilang isang bahagi lamang ng aklat, ito ay tinawag na “isang maliit na aklat.” Ang mahalagang bahagi ng aklat ay nabuksan na."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang ituntong ang Kanyang mga paa sa dagat at sa lupa ay ang umapak sa mga ito, at ang umapak sa mga ito ay ang angkinin ang mga ito (Deut. 11:24; Jos. 1:3; Awit 8:6-8). Tinutukoy nito na si Kristo ay pumapanaog upang angkinin ang lupa. Tanging Siya lamang ang karapat-dapat magbukas ng aklat ng ekonomiya ng Diyos, at tanging Siya lamang ang kwalipikadong umangkin sa lupa."
+        },
+        {
+            "id": "3-1",
+            "text": "Lit. malaki."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang pag-atungal ng leon ay katulad ng poot ng isang hari (Kaw. 19:12; 20:2). Tinutukoy nito na si Kristo, ang Hari ng sangkalupaan, ay nagsiklab sa poot."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang “pitong kulog” ay malamang na ang mga pinakahuling pagpapahayag ng poot ng Diyos."
+        },
+        {
+            "id": "3-4",
+            "text": "Lit. nagsalita."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang panunumpa ay isang gawi sa Lumang Tipan, hindi isang gawi sa Bagong Tipan (Mat. 5:34-36)."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang pangunahing aytem ng mga bagay sa langit ay ang mga anghel."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang pangunahing aytem ng mga bagay sa lupa ay ang mga tao."
+        },
+        {
+            "id": "6-4",
+            "text": "Ang pangunahing aytem ng mga bagay sa dagat ay ang mga demonyo."
+        },
+        {
+            "id": "6-5",
+            "text": "Lit. wala nang panahon. Pagkatapos ng ikaanim na trumpeta, hahatulan na ng Diyos ang lupa, wala nang panahon upang magparaya pa. Kaya nga, ang ikapitong trumpeta ang pinakamabagsik na hatol sa lahat ng mga kahatulan ng Diyos upang tugunin ang mga panalangin ng mga namartir na banal sa 6:10."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang paghihip ng ikapitong trumpeta ay tatagal ng isang panahon ng “mga araw”."
+        },
+        {
+            "id": "7-2",
+            "text": "Sa mga kapanahunan mula kay Adam hanggang kay Moises, at mula kay Moises hanggang kay Kristo, lahat ng bagay ay nahantad, nahayag, at walang hiwaga. Magiging gayundin sa kapanahunan ng isang libong taong kaharian at sa bagong langit at bagong lupa – lahat ng bagay ay mahahantad at wala nang hiwaga pa. Subali’t sa kapanahunan mula kay Kristo hanggang sa isang libong taong kaharian, ang lahat ng bagay ay isang hiwaga. Ang kapanahunan ng hiwagang ito ay nagsimula sa pagiging laman ni Kristo (I Tim. 3:16). Si Kristo Mismo (Col. 2:2), ang ekklesia (Efe. 3:4-6), ang kaharian ng mga kalangitan (Mat. 13:11), ang ebanghelyo (Efe. 6:19), ang pananahan ni Kristo (Col . 1:26-27) , at ang darating na pagkabuhay na muli at pagbabagong-anyo ng mga banal bilang wakas ng pamamahaging ito ng hiwaga (I Cor. 15:51-52), ay pawang mga hiwaga na nakatago sa mga panahon ng mga kapanahunan (Roma 16:25; Efe. 3:5; Col. 1:26). Lahat ng mga hiwagang ito ay makukumpleto, magiging ganap at magtatapos sa paghihip ng ikapitong trumpeta."
+        },
+        {
+            "id": "7-3",
+            "text": "Sa paghihip ng ikapitong trumpeta, hindi lamang darating ang kahatulan ng poot ng Diyos sa lupa, bagkus ang hiwaga rin ng Diyos ay magaganap na."
+        },
+        {
+            "id": "7-4",
+            "text": "O, nakumpleto na."
+        },
+        {
+            "id": "7-5",
+            "text": "Sa ikapitong trumpeta ang “mabuting balita” na “ipinahayag ng Diyos sa Kanyang mga Sariling aliping propeta,” gaya ng sa Isa. 2:2-4; 11:1-10; 65:17-20; 66:22, ay matutupad, yaon ay, ang kaharian sa pagpapakita nito ay darating (11:15), at ang bagong langit at bagong lupa kasama ang Bagong Herusalem ay susunod (21:1-3)."
+        },
+        {
+            "id": "10-1",
+            "text": "Hindi lamang tinanggap bagkus ay “kinain” din ng sumulat ng aklat na ito ang aklat. Ang kainin ang anumang bagay ay ang tanggapin ito tungo sa loob ng tao. Kinakailangan nating tanggapin nang ganito ang dibinong pahayag, lalung-lalo na ang aklat ng Apocalipsis. Sina Jeremias at Ezekiel ay kapwa nakaranas kumain ng aklat (Jer. 15:16; Ezek. 2:8; 3:1-3)."
+        },
+        {
+            "id": "10-2",
+            "text": "Kapag tinatanggap natin ang dibinong pahayag sa pamamagitan ng pagkain nito, ito ay “matamis” habang kinakain, subali’t ito ay nagiging “mapait” sa ating panunaw, yaon ay, sa ating karanasan."
+        },
+        {
+            "id": "11-1",
+            "text": "Tumutukoy sa mga anghel."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang propesiya ng aklat na ito ay binubuo ng dalawang bahagi. Mula sa unang tatak hanggang sa ikaanim na trumpeta (mga kap. 6-10) ay ang unang bahagi; ito ay lihim. Mula sa ikapitong trumpeta hanggang sa bagong langit at bagong lupa (mga kap. 11-22) ay ang ikalawang bahagi; ito ay hayagang ipinakita. Si Juan ay nagpropesiya na sa unang bahagi. Ngayon siya ay kinakailangang magpropesiyang muli, salitain ang propesiya sa ikalawang bahagi ng aklat na ito, yaon ay, tungkol sa pag-angkin ni Kristo sa lupa bilang Kanyang kaharian (11:15). Ito ang nilalaman ng maliit na aklat na siyang huling bahagi ng ekonomiya ng Diyos."
         }
     ]
 }

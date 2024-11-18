@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "magpasakop",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,11 +21,11 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "magpakahinahon,",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -36,11 +36,11 @@
             "footnotes": [
                 {
                     "word": "noon",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "masasamang",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -51,7 +51,7 @@
             "footnotes": [
                 {
                     "word": "kagandahang-loob",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -62,19 +62,19 @@
             "footnotes": [
                 {
                     "word": "kaawaan,",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "paghuhugas",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "pagsisilang",
-                    "note": ""
+                    "id": "5-3"
                 },
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "5-4"
                 }
             ],
             "outlines": null
@@ -85,7 +85,7 @@
             "footnotes": [
                 {
                     "word": "ibinuhos",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -96,15 +96,15 @@
             "footnotes": [
                 {
                     "word": "Upang,",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "Isang",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "tagapagmana",
-                    "note": ""
+                    "id": "7-3"
                 }
             ],
             "outlines": null
@@ -115,15 +115,15 @@
             "footnotes": [
                 {
                     "word": "salita,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -134,31 +134,31 @@
             "footnotes": [
                 {
                     "word": "iwasan",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pagtatanungan",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "kasaysayan",
-                    "note": ""
+                    "id": "9-3"
                 },
                 {
                     "word": "pagtatalo",
-                    "note": ""
+                    "id": "9-4"
                 },
                 {
                     "word": "pagtataltalan",
-                    "note": ""
+                    "id": "9-5"
                 },
                 {
                     "word": "kautusan,",
-                    "note": ""
+                    "id": "9-6"
                 },
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "9-7"
                 }
             ],
             "outlines": [
@@ -172,11 +172,11 @@
             "footnotes": [
                 {
                     "word": "mapagpangkat-",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "tanggihan",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -187,7 +187,7 @@
             "footnotes": [
                 {
                     "word": "nalisya",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -198,7 +198,7 @@
             "footnotes": [
                 {
                     "word": "Nicopolis,",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": [
@@ -211,11 +211,11 @@
             "footnotes": [
                 {
                     "word": "Zenas",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "tagapagtanggol",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -232,10 +232,132 @@
             "footnotes": [
                 {
                     "word": "pananampalataya.",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ito ay ang kilalanin ang awtoridad ng Diyos at igalang ang Kanyang pamahalaan sa mga tao (Roma 13:1-2)."
+        },
+        {
+            "id": "2-2",
+            "text": "Tingnan ang tala 3-3 sa 1 Tim. 3."
+        },
+        {
+            "id": "3-1",
+            "text": "Dapat nating alalahanin na sa kalikasan tayo ay katulad ng iba, nabubuhay sa natisod na kalagayan, dahil dito, dapat tayong magkaroon ng simpatiya sa kanilang kaawa-awang buhay at manalangin para sa kanilang kaligtasan (1 Tim. 2:1, 4)."
+        },
+        {
+            "id": "3-2",
+            "text": "O, mga pagnanasa at mga sakim na kasiyahan."
+        },
+        {
+            "id": "4-1",
+            "text": "Ito ay ang kabutihan at pag-ibig ng ating Tagapagligtas na Diyos na nagligtas sa atin at nagsanhi sa ating maging naiiba sa iba."
+        },
+        {
+            "id": "5-1",
+            "text": "Sinasabi sa kapitulo 2:11 na ang biyaya ng Diyos ang nagdadala ng kaligtasan sa tao, at sinasabi sa bersikulo 7 ng kapitulong ito na tayo ay inaring-matuwid sa pamamagitan ng biyaya ng Panginoon; samantala, sinasabi sa bersikulong ito, na ayon sa Kanyang kaawaan ay iniligtas Niya tayo. Higit na malayo ang naaabot ng kaawaan ng Diyos kaysa sa Kanyang biyaya. Ang ating kaawa-awang kalagayan ay lumikha ng isang malaking puwang sa pagitan natin at ng biyaya ng Diyos. Ang kaawaan ng Diyos ang naging tulay upang punan ang puwang na ito at nagdala sa atin sa pagliligtas ng Kanyang biyaya. Tingnan ang tala 16-2 sa Hebreo 4, at 13-2 sa Mateo 9."
+        },
+        {
+            "id": "5-2",
+            "text": "Lit. hugasán. Ginagamit para mahugasan ang karumihan."
+        },
+        {
+            "id": "5-3",
+            "text": "Sa Griyego, ang salita ay naiiba sa isinilang na muli sa 1 Ped. 1:23. Ang salitang ito ay ginamit nang minsan pa sa Mat. 19:28 upang tukuyin ang pagpapanumbalik na mangyayari sa isang libong taong kaharian (tingnan ang tala roon). Dito, tumutukoy ito sa isang pagbabago mula sa isang kalagayan ng mga bagay patungo sa ibang kalagayan. Ang maisilang na muli ay ang pagsisimula ng pagbabagong ito. Ang paghuhugas ng pagsisilang na muli ay nagsisimula sa ating pagiging naisilang na muli at nagpapatuloy sa pagpapabago ng Espiritu Santo bilang hakbangin na dinaraanan ng bagong nilikha ng Diyos upang gawin tayong isang bagong tao. Ito ay isang uri ng pag-aayos, muling paggawa, o muling pagyari sa pamamagitan ng buhay. Ang bautismo (Roma 6:3-5), ang paghuhubad ng lumang tao, ang pagbibihis ng bagong tao (Efe. 4:22, 24; Col. 3:9-11), at ang transpormasyon sa pamamagitan ng pagbabago ng kaisipan (Roma 12:2; Efe. 4:23), ay pawang may kaugnayan sa kagila-gilalas na hakbanging ito. Ang paghuhugas ng pagsisilang na muli ay nag-aalis ng lahat ng mga bagay ng lumang kalikasan ng ating lumang tao, at ang pagpapabago ng Espiritu Santo ay namamahagi ng isang bagay na bago-ang dibinong esensiya ng bagong tao-tungo sa loob ng ating katauhan. Sa pamamagitan nito tayo ay patungo sa isang lubos na kabaguhan mula sa lumang kalagayan na dati nating kinalalagyan; mula sa kalagayan ng lumang nilikha patungo sa kalagayan ng isang bagong nilikha. Kaya sa buong buhay natin, kapwa ang paghuhugas ng pagsisilang na muli at ang pagpapabago ng Espiritu Santo ay isang walang patid na gawain sa loob natin hanggang sa maging ganap ang bagong nilikha."
+        },
+        {
+            "id": "5-4",
+            "text": "Sa 1 Timoteo ang binigyang-diin ay ang ekklesia (1 Tim. 3:15-16), sa 2 Timoteo ang binigyang-diin ay ang Kasulatan (2 Tim. 3:15-16), at sa aklat na ito, ang binigyang-diin ay ang Espiritu Santo. Ang ekklesia ay ang bahay ng Diyos na buháy, naghahayag ng Diyos sa laman, at ang haligi at saligan ng katotohanan, ang dibinong realidad ng dakilang hiwaga-ang Diyos na nahayag sa laman. Ang Kasulatan ay ang hininga ng Diyos, nagtataglay at naghahatid ng Kanyang dibinong esensiya para sa pagkakandili at pagsasangkap sa atin upang gawin tayong sakdal at kumpleto para sa Kanyang gawain. Ang Espiritu Santo ay ang dibinong Persona, na naghuhugas at nagbabago sa atin sa dibinong elemento upang gawin tayong isang bagong nilikha na may dibinong kalikasan upang maging mga tagapagmana ng Diyos sa Kanyang walang hanggang buhay, nagmamana ng lahat ng mga kayamanan ng Tres-unong Diyos."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang Espiritu Santo, na Siyang Tres-unong Diyos na umaabot sa tao, ay hindi lamang ibinigay sa atin, bagkus ibinuhos pa sa atin nang sagana sa pamamagitan ni Hesu-Kristo na ating Manunubos at Tagapagligtas, upang dalhin ang lahat ng mga dibinong kayamanan ni Kristo sa atin, kabilang na ang walang hanggang buhay ng Diyos at ang Kanyang dibinong kalikasan, para sa ating walang hanggang bahagi."
+        },
+        {
+            "id": "7-1",
+            "text": "Ito ay nagsasaad ng kinalabasan at layunin ng pagliligtas ng Diyos (b. 5) at ng pag-aaring matuwid (b. 7), na kinabibilangan ng paghuhugas ng pagsisilang na muli at pagpapabago ng Espiritu Santo (bb. 5-6). Ang kinalabasan at layunin ay ang gawin tayong mga tagapagmana ng Diyos ayon sa pag-asa ng buhay na walang hanggan."
+        },
+        {
+            "id": "7-2",
+            "text": "Tumutukoy kay Hesu-Kristo na ating tanging Tagapagligtas (b. 6; Juan 1:17; 2 Cor. 8:9; 13:14)."
+        },
+        {
+            "id": "7-3",
+            "text": "Hindi lamang mga anak, bagkus mga tagapagmana pa na kwalipikadong magmana ng ari-arian ng Ama (Roma 4:14; 8:17; Gal. 3:29; 4:7). Sila ay isinilang ng Diyos (Juan 1:12-13) ng Kanyang buhay na walang hanggan (Juan 3:16). Ang buhay na walang hanggang ito ay para sa kanila, hindi lamang upang ibuhay at tamasahin ang Diyos sa kapanahunang ito, bagkus upang manahin din nila ang lahat ng mga kayamanan ng kung ano ang Diyos sa darating na kapanahunan at sa kawalang-hanggan. Kaya, sila ay may pag-asa sa buhay na walang hanggan. Ang walang hanggang buhay ng Diyos ay ang ating katamasahan sa ngayon at ang ating pag-asa sa kinabukasan (tingnan ang tala 2-1 sa kap. 1). Ayon sa pag-asang ito, tayo ay nagiging mga tagapagmana ng Diyos upang manahin ang lahat ng Kanyang mga kayamanan hanggang sa kawalang-hanggan. Ito ang pinakarurok bilang ang walang hanggang layunin ng walang hanggang pagliligtas ng Diyos na kasama ang Kanyang buhay na walang hanggan na ibinigay sa atin sa pamamagitan ng biyaya ni Kristo."
+        },
+        {
+            "id": "8-1",
+            "text": "Tumutukoy sa salita sa mga bb.3-7."
+        },
+        {
+            "id": "8-2",
+            "text": "Tumutukoy sa mga bagay na binanggit sa mga bersikulo 1-7."
+        },
+        {
+            "id": "8-3",
+            "text": "O, hindi pabagu-bago, palagian, positibo (may pagtitiyaga at kahustuhan). Ito ay ang parehong salitang ginamit sa 1 Tim. 1:7. Tingnan ang tala roon."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang mga bagay na positibo na binigyangdiin sa mga bersikulo 4-8 ay dapat patunayan nang malakas at nang walang pagbabago, katulad ng ating Tagapagligtas na Diyos, si Hesu-Kristo na ating Tagapagligtas, ng Espiritu Santo, ng kabutihan, pag-ibig, kaawaan, biyaya, at walang hanggang buhay ng Diyos, kasama na ang Kanyang mga gawain ng pag-aaring-matuwid, pagliligtas, pagsisilang na muli, paghuhugas, at pagpapabago. Ang mga ito ay ang Tres-unong Diyos na kasama ang Kanyang mga kagalingan at mga katangian, na kabilang sa puno ng buhay (Gen. 2:9) at nagbubunga ng mga tagapagmana upang manahin ang lahat ng kung ano Siya para sa kanila. Ang mga bagay na negatibo na tinutuos sa mga bersikulo 9-11 ay dapat iwasan, katulad ng mga mangmang na pagtatanungan, mga kasaysayan ng salinlahi, pagtatalo, pagtataltalan tungkol sa kautusan, at ang isang mapagpangkatpangkat- upang-sumalungat, at maopinyong tao. Ang mga ito ay mga bagay ng (nakamamatay) kaalaman, na kabilang sa puno ng kaalaman at pumapatay sa kanilang mga biktima. Kaya bigyang-diin ang mga bagay ng buhay na kabilang sa puno ng buhay at layuan ang mga bagay ng kaalaman na kabilang sa puno ng kaalaman."
+        },
+        {
+            "id": "9-2",
+            "text": "Tumutukoy sa mga pagtatanungan na sinanhi ng mga kasaysayan ng salinlahi (1 Tim. 1:4)."
+        },
+        {
+            "id": "9-3",
+            "text": "Tingnan ang tala 4-2 sa 1 Tim. 1."
+        },
+        {
+            "id": "9-4",
+            "text": "Tumutukoy sa mga pagtatalong nagmumula sa mga pagtatanungan at mga kasaysayan ng salinlahi."
+        },
+        {
+            "id": "9-5",
+            "text": "O, mga pag-aaway. Ang mga ito ay dahil sa iba’t ibang opinyon na nagmumula sa mga lihis at mitolohikal na pag-aaral ng kautusan."
+        },
+        {
+            "id": "9-6",
+            "text": "Ang kautusan ng mga Hudyo na ginamit para sa Gnostikong Hudaismo. Ito ay itinatag upang kalabanin ang kapayakan ng ebanghelyo."
+        },
+        {
+            "id": "9-7",
+            "text": "Yaon ay walang layunin, walang resulta."
+        },
+        {
+            "id": "10-1",
+            "text": "Tumutukoy sa isang erehe, yaong may maling pananampalataya, isang makasektang tao na nagsasanhi ng pagkakabaha-bahagi sa pamamagitan ng pagbubuo ng mga pangkat-pangkat sa loob ng ekklesia ayon sa kanyang sariling opinyon (tingnan ang tala 1-4 sa 2 Pedro 2). Ang Gnostikong Hudaismo na tinukoy sa naunang bersikulo ay tiyak na may kaugnayan dito."
+        },
+        {
+            "id": "10-2",
+            "text": "Upang mapanatili ang isang mabuting kaayusan sa ekklesia, ang isang mapagpangkat-pangkat- upang- sumalungat at mapaghati-hating tao, pagkatapos ng una at ikalawang pagsaway, ay dapat tanggihan, iwasan. Ito ay ang tapusin ang pakikipag-ugnayan sa isang nakahahawang mapaghati-hating tao para sa kapakinabangan ng ekklesia."
+        },
+        {
+            "id": "11-1",
+            "text": "Lit. lumihis ng daan. Ito ay higit pa sa lumayo sa katotohanan (Tito 1:14)."
+        },
+        {
+            "id": "12-1",
+            "text": "Isang lunsod sa timog kanlurang sulok ng Macedonia, kung saan isinulat ang Sulat na ito. Tingnan ang tala 6-2 sa 2 Timoteo 4."
+        },
+        {
+            "id": "13-1",
+            "text": "Sina Artemas at Tiquico ay matatalik na kamanggagawa ni Pablo; sina Zenas at Apolos ay gumawang hiwalay sa kanya. Gayunpaman, siya ay nag-atas kay Tito na alagaan sila, nagpapakita na walang pananaghili sa pagitan ng dalawang grupo ng mga kamanggagawa."
+        },
+        {
+            "id": "13-2",
+            "text": "Tingnan ang tala 35-1 sa Mat. 22."
+        },
+        {
+            "id": "15-1",
+            "text": "Tumutukoy sa subhektibong pananampalataya na nagdadala sa atin paloob sa organikong pakikipagkaisa sa Panginoon (Juan 3:15; Gal. 3:26) at kumikilos sa pamamagitan ng pag-ibig (Gal. 5:6). Sa loob ng elemento at pagkilos ng pananampalatayang ito umibig sa nagdurusa at tapat na apostol ang mga banal na kaisa ng Panginoon sa bagay na Kanyang pinagmamalasakitan. Ang pananampalataya at pag-ibig ay dalawang hindi mapaghihiwalay at mahuhusay na kagalingan ng mga mananampalataya kay Kristo. Ang pananampalataya ay ang ipinagkaloob ng Diyos sa atin (tala 1-6 sa 2 Pedro 1), upang gamitin natin sa pagtanggap (Juan 1:12) kay Kristo na Siyang pagsasakatawan ng Tres-unong Diyos (Col. 2:9), nang sa gayon, makapasok tayo sa loob ng Tres-unong Diyos, maging kaisa Niya, makamtan Siya bilang ating buhay at panustos ng buhay at lahat-lahat. Ang pag-ibig ay sumibol mula sa gani tong kagila-gilalas na pananampalataya, upang maipamu- hay ng mga taong katulad nating sumampalataya paloob kay Kristo ang lahat ng kayamanan ng Tres-unong Diyos na nasa loob ni Kristo, nang sa gayon, makapagtamo ng maluwalhating kahayagan ang Ama, Anak at Espiritu, ang Tres-unong Diyos. Ang pananampalataya ay ang pagpapahalaga, pagpapatunay, at pagtanggap sa walang limitasyong kayamanan ng Tres-unong Diyos. Ang pag-ibig ay ang pagdaranas, ang pagtatamasa at ang ipamuhay ang walang limitasyong mayamang Tres-unong Diyos. Ang pananampalataya ay ang makaugpong sa Tres-unong Diyos na Siyang lahat-lahat ng mga mananampalataya; ang pag-ibig ay ang ipanustos ang Tres-unong Diyos, ilalin sa mga kasamang mananampalataya, upang magmahalan sa pamamagitan ng makadiyos at humihigit sa pantaong pag-ibig sa loob ng kagila-gilalas na pananampalatayang ito at upang maipamuhay ang isang sama-samang pamumuhay sa loob ni Kristo, nang sa gayon ay maihayag ang Katawan ni Kristo ngayon dito sa lupa, ang Tres-unong Diyos na dumaan sa iba’t ibang hakbangin na nasa loob ni Kristong nagpapaloob-ng-lahat sa pamamagitan ng walang hanggang Espiritung nagbibigay-buhay.Ang aklat ng Tito ay ang pagwawakas ng tatlong aklat na “Ti” at nagwawakas pa ang aklat na ito sa ganitong kagila-gilalas na pananampalataya at napakagaling na pag-ibig. Ito ay nagpapahiwatig na kung wala ang kagila-gilalas na pananampalataya at napakagaling na pag-ibig, sa gitna ng bumababang agos ng ekklesia, hindi magtatagumpay ang pagpapanatiling matatag at pagdaraig sa bumababang sitwasyon at dahilan ng pagbaba Ang natatanging paraan upang tayo ay maging mga mandaraig na tinawag ng Panginoon sa kapitulo 2 at 3 ng Apocalipsis ay ang huwag umasa sa nakikita ng mata, huwag bigyan ng pansin ang panlabas na situwasyon kundi sa pamamagitan ng pinakamagaling na pag-ibig ng Tres-unong Diyos ay ibigin ang Diyos at ibigin ang lahat na kabilang Niya sa loob ng kagilagilalas na pananampalatayang ito, tinatamasa ang pinagmulan ng ganitong pananampalataya na walang iba kundi ang Tres-unong Diyos na ating pinag-ugpungan sa pamamagitan ng pananampalatayang ito.Ang ganitong kagila-gilalas na pananampalataya at pinakamagaling na pag-ibig ay nagmumula sa Tres-unong Diyos na nagnanasang makipag-ugnay sa atin at maging lahat-lahat natin; at ang sukdulang kaganapan ng Tres-unong Diyos na ito na dumaan sa hakbangin ng pagiging laman, pagkapako-sa-krus, pagkabuhay na muli, pag-akyat sa langit, ay ang nagpapaloob ng lahat na Espiritung nagbibigay-buhay (1 Cor. 15:45). Itong Espiritu ng buhay na nagpapaloob ng pagka-Diyos, pagka-tao, pagkamatay sa krus, pagkabuhay na muli at pag-akyat sa langit ni Kristo (Roma 8:2), ay ang realidad ng nagpapaloob ng lahat na Kristo (Juan 14:16-20), at nananahan sa loob ng ating naisilang na muling espiritu (Roma 8:16; 2 Tim. 4:22). Sa pamamagitan ng ating namatay at binuhay na muling espiritu, sa pamamagitan ng panalangin at pag-asa, kinakaugnay natin ang Tres-unong Diyos na ito; inilalalin Niya sa maraming aspekto ang Kanyang Sarili sa atin at nagiging nasa loob natin bilang pananampalataya sa Kanya at nagiging nasa labas natin bilang pag-ibig sa mga taong nabibilang sa Kanya. Ang ganitong pananampalataya at ganitong pag-ibig ay ang realidad at kahayagan (1 Juan 4:8, 16) ng Tres-unong Diyos-ng Ama, ng Anak at ng Espiritu-na ating sinampalatayanan, sinasamba at tinanggap; ang dalawang ito ay ang masaganang biyaya rin na ibinigay sa atin ng Tres-unong Diyos sa loob ni Kristo (1 Tim. 1:14), hindi lamang nagiging lakas sa pagkilos at kahayagan ng ating pang-espiritwal na pamumuhay bagkus nagiging baluti pa na nagiingat sa ating buong katauhan (1 Tes. 5:8). Ang dibinong buhay na ipinahayag at tinutustos ng buong aklat ng Juan ay tinatanggap at tinatamasa natin sa pamamagitan ng ganitong pananampalataya (Juan 3:16, 36), at sa pamamagitan ng ganitong pag-ibig, iniibig natin ang Panginoon at minamahal natin ang mga taong kabilang sa Kanya (Juan 21:15-17; 13:34-35). Magkasabay ang pagsulong ng ganitong pananampalataya at ganitong pag-ibig. Ang pinagmulan ng pag-ibig na ito ay ang pananampalatayang ito; ang pananampalataya namang ito ay kumikilos at gumagawa sa pamamagitan ng pag-ibig na ito (Gal. 5:6). Kapag magkasama ang pag-ibig at pananampalatayang ito, tayo ay nabibigyangkakayahan na ibigin ang ating Panginoon sa loob ng walang kasiraan at makapamuhay ng matagumpay na buhay-ekklesia (Efe. 6:23-24), naisasakatuparan ang bagong tipang ekonomiya ng Diyos para sa ekklesia. Kaya, nakukuha natin ang kaluguran ng Diyos sa loob ng pananampalatayang ito (Heb. 11:6) at natatamo natin ang pagpapala ng Panginoon sa loob ng pag-ibig na ito (1 Cor. 16:22). Nawa ang pag-ibig na ito at ang pananampalatayang ito ay mapasa mga kapatid mula sa Diyos Ama at sa Panginoong Hesu-Kristo (Efe. 6:23)."
         }
     ]
 }

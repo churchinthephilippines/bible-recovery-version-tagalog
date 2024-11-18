@@ -1,5 +1,5 @@
 {
-    "chapter": 8,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,11 +21,11 @@
             "footnotes": [
                 {
                     "word": "pagiging",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "bukas-",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -36,7 +36,7 @@
             "footnotes": [
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -47,7 +47,7 @@
             "footnotes": [
                 {
                     "word": "biyayang",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -58,15 +58,15 @@
             "footnotes": [
                 {
                     "word": "muna",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "at",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -77,15 +77,15 @@
             "footnotes": [
                 {
                     "word": "rin",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "biyayang",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -96,19 +96,19 @@
             "footnotes": [
                 {
                     "word": "masikap-",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "nagmula",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "biyayang",
-                    "note": ""
+                    "id": "7-4"
                 }
             ],
             "outlines": null
@@ -125,7 +125,7 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -136,7 +136,7 @@
             "footnotes": [
                 {
                     "word": "kuru-kuro",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -171,7 +171,7 @@
             "footnotes": [
                 {
                     "word": "Ang",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -182,7 +182,7 @@
             "footnotes": [
                 {
                     "word": "masikap-",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": [
@@ -195,7 +195,7 @@
             "footnotes": [
                 {
                     "word": "pamanhik,",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -212,7 +212,7 @@
             "footnotes": [
                 {
                     "word": "biyayang",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -223,11 +223,11 @@
             "footnotes": [
                 {
                     "word": "iniiwasan",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "kasaganaang",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -238,7 +238,7 @@
             "footnotes": [
                 {
                     "word": "iniisip",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -249,7 +249,7 @@
             "footnotes": [
                 {
                     "word": "ating",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -260,7 +260,7 @@
             "footnotes": [
                 {
                     "word": "apostol",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -270,6 +270,112 @@
             "text": "Inyo ngang ipakita sa kanila, sa harapan ng mga ekklesia, ang katunayan ng inyong pag-ibig, at ng aming pagmamapuri dahil sa inyo.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 10-1 sa I Corinto 15. Sa pamamagitan ng biyayang ito, na siyang pagkabuhay na muling buhay ni Kristo, napagtagumpayan ng mga mananampalataya sa Macedonia ang pangangamkam ng mga pansamantala at di-tiyak na kayamanan (tingnan ang tala 1-1 sa I Corinto 16) at naging bukas ang palad sa pagbibigay sa mga nangangailangang banal."
+        },
+        {
+            "id": "2-1",
+            "text": "O, pagpapatunay, pagsubok, yaon ay, pag-aaproba sa reaksiyon sa mga pagsubok. Tingnan ang mga tala 9-2 sa kapitulo 2 at 13-1 sa kapitulo 9."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang parehong salita ay isinaling “kapayakan” sa 1:12 at Roma 12:8."
+        },
+        {
+            "id": "3-1",
+            "text": "O, kusang-loob."
+        },
+        {
+            "id": "4-1",
+            "text": "Gr. charis , na “nangangahulugang biyaya, kaloob, at pabor. Dito ang kahulugan ay pabor” (Vincent). Ipinamanhik ng mga mananampalatayang taga-Macedonia sa mga apostol na bigyan sila ng pabor na makabahagi (magkaroon ng pakikipagsalamuha) sa pagbibigay ng mga abuloy sa mga nangangailangang banal. Sa halip na hilingan sila na magkaroon ng bahagi sa bagay na ito, sila ang nagsumamo para rito. Itinuring nila ito na isang pabor, isang biyaya, na pahintulutan sila ng mga apostol na makabahagi."
+        },
+        {
+            "id": "5-1",
+            "text": "Higit na ninanais ng Panginoon ang mga mananampalataya mismo kaysa sa kanilang tinataglay o mga ari-arian."
+        },
+        {
+            "id": "5-2",
+            "text": "Ibinigay hindi lamang sa Panginoon, gayundin sa mga apostol upang maging kaisa ng mga apostol sa pagsasagawa ng kanilang ministeryo."
+        },
+        {
+            "id": "5-3",
+            "text": "Sa pamamagitan ng kalooban ng Diyos, sa pamamagitan ng makapangyarihang dibinong pagsasagawa, ibinigay ng mga mananampalataya ang kanilang mga sarili una sa Panginoon at pagkatapos ay sa mga apostol."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang “rin” ay nagpapakita na bukod sa biyayang ito, ang biyaya ng pagbibigay, mayroon pang ibang mga biyayang kinumpleto si Tito sa mga mananampalatayang taga-Macedonia."
+        },
+        {
+            "id": "6-2",
+            "text": "Lit. sa gitna ninyo."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang akto ng pagbibigay."
+        },
+        {
+            "id": "7-1",
+            "text": "Tingnan ang tala 11-1 sa kapitulo 7."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang ilang manuskrito ay binabasang, ang pag-ibig na nasa amin mula sa inyo."
+        },
+        {
+            "id": "7-3",
+            "text": "Ang pag-ibig na nasa mga mananampalataya ay nailalin tungo sa kanila mula sa mga apostol."
+        },
+        {
+            "id": "7-4",
+            "text": "Ang pag-iibigang ipinakita sa pagbibigay ng mga materyal na bagay sa mga nangangailangang banal. Ang biyayang ito ng mga mananampalataya ang kinalabasan ng biyaya ng Diyos na nanghikayat sa kanila. Sa pakikipagsalamuha hinggil sa pagtutustos sa mga banal, tinutukoy sa atin ng apostol ang biyaya ng apat na partido: 1) ang biyaya ng Diyos na ibinigay sa mga mananampalatayang taga-Macedonia upang bigyang-kakayahan sila na magbigay nang bukas-palad (bb.1-2); 2) ang biyaya ng mga apostol na nagpapahintulot sa mga mananampalatayang makibahagi sa pagtutustos sa mga nangangailangang banal (b.4); 3) ang biyaya ng mga mananampalataya upang ibigay ang mga materyal na bagay sa mga nangangailangan (bb. 6-7); 4) ang biyaya ni Kristo; Siya ay nagpakarukha upang tayo ay maging mayaman (b.9). Ang mga materyal na handog ng mga mananampalataya sa Panginoon para sa anumang layunin ay nararapat na maging lubusang isang bagay ng biyaya at hindi pagmamaniobra ng mga tao."
+        },
+        {
+            "id": "9-1",
+            "text": "Isang biyaya sa atin na ang Panginoong Hesus na mayaman ay naging dukha alang-alang sa atin. Sa parehong prinsipyo, isang biyaya sa iba na ating ipagpakasakit ang ating mga materyal na kayamanan alang-alang sa kanila."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang kuru-kuro ng apostol ay nagpapahayag ng kalooban at naisin ng Panginoon. Tingnan ang tala 25-1 sa I Corinto 7."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang salitang ito ay hinalaw sa Exodo 16. Dito ay binanggit ang makalangit na paraan ng paggawa ng Diyos, ang pagbabalanse Niya ng panustos na manna sa gitna ng Kanyang bayan. Ang bersikulong ito ay iniangkop niya sa bagay ng pagtutustos ng mga materyal na bagay sa mga nangangailangang banal. Ang pagtitipon ng manna ay para sa pang-araw-araw na panustos sa bayan ng Diyos. Maging marami o kakaunti man ang kanilang natipon, nagkamit sila ng sapat na panustos. Ang pagtitipon ng manna ay tungkulin nila. Sa kanilang pagganap ng tungkulin, nararapat na hindi sila maging mapag-imbot. Gayundin sa pagganap ng ating tungkulin. Tayong mga anak ng Diyos ay huwag maging mapag-imbot o kaya ay mag-isip na magtipon ng sobrang kayamanan para sa sarili, sapagka’t kahit na tayo ay magbigay o hindi magbigay ay parehong sapat lamang. Sa ilalim ng makapangyarihang pamamahala ng Diyos, positibo Niyang gagawin ang makalangit na pagbabalanse ng pananalapi at kayamanan ng Kanyang bayan. Nang sa gayon, sa Kanyang pagtutustos sa ating pang-araw-araw na pangangailangan, ang nagtipon ng marami para sa sarili ay walang labis at ang nagtipon ng kakaunti para sa sarili ay walang kulang."
+        },
+        {
+            "id": "16-1",
+            "text": "O, pagkamasigasig, tumutukoy sa pagkamasigasig ni Pablo, pagkamasikap, para sa mga mananampalataya."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang pamamanhik ng apostol."
+        },
+        {
+            "id": "19-1",
+            "text": "Tingnan ang mga tala 6-3 at 7-4 ."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang salapi, na lubhang ginagamit ng Diyablo upang maibuyo ang tao sa loob ng pandaraya. Yamang ang salapi ay nakapaloob sa pagbibigay ng mga materyal na bagay sa mga banal , upang maiwasan ang paninisi at paghihinala ng tao sa bagay na ito, isinugo ng mga apostol ang isang kapuri-puring kapatid na lalake upang sumama kay Tito bilang isang saksi."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang kasaganaan sa mga materyal na kaloob."
+        },
+        {
+            "id": "21-1",
+            "text": "O, iniisip muna ang para sa iba, isinasaalang-alang muna ang iba, bago pa man mangyari, kagaya ng nasa Roma 12:17. Ito ay maaaring sinipi mula sa Kawikaan 3:4, kung saan binabasa ng Septuagint na, Sa gayon ay makasusumpong ka ng lingap at mabuting kaunawaan sa paningin ng Diyos at ng mga tao."
+        },
+        {
+            "id": "22-1",
+            "text": "Isa pang tapat na kapatid na lalake ang pinasama sa dalawa, upang sa bibig ng tatlong saksi ay maitatag ang isang matibay na patotoo (Mat. 18:16). Ipinakikita nito na maingat si Pablo sa kanyang paggawa upang hindi magkaroon ng pag-aalinlangan ang sinuman."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang mga apostol, ito ay tumutukoy sa mga isinugo ng mga ekklesia."
         }
     ]
 }

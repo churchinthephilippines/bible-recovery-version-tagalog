@@ -1,5 +1,5 @@
 {
-    "chapter": 19,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Aleluya!",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -32,7 +32,7 @@
             "footnotes": [
                 {
                     "word": "Amen,",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -43,7 +43,7 @@
             "footnotes": [
                 {
                     "word": "tinig",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": [
@@ -57,11 +57,11 @@
             "footnotes": [
                 {
                     "word": "gaya",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "gaya",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -72,11 +72,11 @@
             "footnotes": [
                 {
                     "word": "kasal",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "asawa",
-                    "note": ""
+                    "id": "7-2"
                 }
             ],
             "outlines": [
@@ -89,11 +89,11 @@
             "footnotes": [
                 {
                     "word": "dalisay;",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -104,11 +104,11 @@
             "footnotes": [
                 {
                     "word": "pangkasalang",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "hapunan",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -119,11 +119,11 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "espiritu",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": [
@@ -136,15 +136,15 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "Tapat",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "katuwiran",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": [
@@ -158,15 +158,15 @@
             "footnotes": [
                 {
                     "word": "mata",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "maraming",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "kundi",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -177,11 +177,11 @@
             "footnotes": [
                 {
                     "word": "itinubog",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Salita",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -192,15 +192,15 @@
             "footnotes": [
                 {
                     "word": "hukbong",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "nangararamtan",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "dalisay.",
-                    "note": ""
+                    "id": "14-3"
                 }
             ],
             "outlines": null
@@ -211,15 +211,15 @@
             "footnotes": [
                 {
                     "word": "tabak",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "papastulin",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "pisaan",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": null
@@ -230,7 +230,7 @@
             "footnotes": [
                 {
                     "word": "damit",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -241,7 +241,7 @@
             "footnotes": [
                 {
                     "word": "malaking",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": [
@@ -254,7 +254,7 @@
             "footnotes": [
                 {
                     "word": "kapitan,",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -265,15 +265,15 @@
             "footnotes": [
                 {
                     "word": "hari",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "hukbo",
-                    "note": ""
+                    "id": "19-2"
                 },
                 {
                     "word": "makipagdigma",
-                    "note": ""
+                    "id": "19-3"
                 }
             ],
             "outlines": [
@@ -286,7 +286,7 @@
             "footnotes": [
                 {
                     "word": "inihagis",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -296,6 +296,140 @@
             "text": "At ang natitira ay pinatay sa tabak na lumalabas sa bibig Niyaong nakasakay sa kabayo, at ang lahat ng mga ibon ay nangabundat sa mga laman nila.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang salitang Aleluya sa Griyego ay binubuo ng salitang “alelu”, na nangangahulugang magpuri, at ng “jah” na nangangahulugang Jehovah; kapag pinagsama ay nangangahulugang, purihin si Jehovah. Ang salitang ito sa Hebreo ay matatagpuan sa katapusan ng Awit 104:35 at sa pasimula at pagtatapos ng bawa’t Awit mula sa Awit 146-150."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang aleluya sa mga bersikulo 1 at 3 ay ang pagpupuri mula sa isang kalipunan. Dito, ang dalawampu’t apat na matanda at ang apat na nilalang na buháy ay nagsabi ng amen sa pagpupuri ng mga banal na nasa kanilang harapan, pagkaraan ay nagpuri rin sila sa pamamagitan ng pagsasabi ng aleluya. Kaya, kapag pinagsama, ito ay ang pagpupuri ng mga banal, ng mga anghel at ng lahat ng mga nilalang, at ang kanila ring walang hanggang papuri patungkol sa Tres-unong Diyos mula noong sinaunang panahon hanggang sa kawalang-hanggan."
+        },
+        {
+            "id": "5-1",
+            "text": "Ito ay malamang na ang tinig ni Kristo bilang anghel ng Diyos (7:2; 8:3; 10:1)."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang pagpupuri ng isang malaking kalipunan ng mga banal ay gaya ng tunog ng lagaslas ng maraming tubig, walang katapusan; ito rin ay gaya ng ugong ng malalakas na kulog na naghahayag ng kamaharlikahan."
+        },
+        {
+            "id": "7-1",
+            "text": "Pagkaakyat na may masidhing kagalakan ng karamihan sa mga banal (I Tes. 4:15-17), at pagkaraan ng paghahatol na ginawa sa luklukan ng paghahatol ni Kristo (II Cor. 5:10), at pagkatapos na pagkatapos ng pagkawasak ng Babilonia ay “ang kasal ng Kordero.” Ang kahatulan at pagkawasak ng Dakilang Babilonia, kapwa relihiyoso at materyal, ay nagdadala papasok ng “kasal ng Kordero” at paghahari ng Diyos-ang kaharian ng Diyos (b.6). Ito ang dahilan kung bakit ang malaking kalipunan ng mga naligtas ay nangagagalak at nangagpupuri nang may mga aleluya (bb. 1, 3, 6), at ang dalawampu’t apat na matanda at ang apat na nilalang na buháy ay nakisali sa kanila sa pagpupuri sa Diyos (b. 4). Ang paghahari ng Diyos, ang kaharian, ay iniugnay sa kasal ng Kordero, at ang kasal ng Kordero ay ang kinalabasan ng pagsasakatuparan ng Bagong Tipang ekonomiya ng Diyos. Ang ekonomiya ng Diyos sa Bagong Tipan ay ang matamo ang isang kasintahang-babae para kay Kristo, ang ekklesia, sa pamamagitan ng Kanyang pagtutubos at ng dibinong buhay. Sa pamamagitan ng patuloy na paggawa ng Espiritu Santo sa buong itinagal ng mga siglo, ang gol na ito ay makakamit sa wakas ng kapanahunang ito. Sa gayon, ang kasintahang babae kasama ang mga mandaraig na mananampalataya ay magiging handa. Kasabay nito, ang kaharian ng Diyos ay darating. Ito ay tumutugma sa propesiya ng Panginoon sa Mat. 26:29."
+        },
+        {
+            "id": "7-2",
+            "text": "Ang “Kanyang asawa” ay tumutukoy sa ekklesia (Efe. 5:24-25, 31-32), ang kasintahang babae ni Kristo (Juan 3:29). Gayunpaman, ayon sa bb. 8-9, ang asawa, ang kasintahang babae ni Kristo dito, ay binubuo lamang ng mga mandaraig na mananampalataya sa panahon ng isang libong taon; samantalang ang kasintahang babae, ang asawa, sa 21:2 ay binubuo ng lahat ng mga ligtas na banal pagkatapos ng isang libong taon magpasawalang-hanggan. Ang pagiging handa ng kasintahang babae ay nakasalalay sa paggulang sa buhay ng mga mandaraig. Higit pa rito, ang mga mandaraig ay hindi mga hiwalay na indibiduwal, kundi isang sama-samang kasintahang babae. Para sa ganitong aspekto, ang pagtatayo ay kinakailangan. Sila ay hindi lamang magulang sa buhay, bagkus naitayo nang sama-sama bilang isang kasintahang babae."
+        },
+        {
+            "id": "8-1",
+            "text": "O, malinis, tumutukoy sa kalikasan; samantalang ang “makintab” ay tumutukoy sa kahayagan."
+        },
+        {
+            "id": "8-2",
+            "text": "O, matutuwid na gawa. *Sa literal ay mga katuwiran, sa Ingles ay righteousnesses .* Ang “mga katuwiran,” pangmaramihan, ay hindi tumutukoy sa katuwiran (na si Kristo) na ating tinanggap para sa ating kaligtasan (I Cor 1:30). Ang katuwiran na ating tinanggap para sa ating kaligtasan ay obhektibo, upang matugon natin ang kahilingan ng matuwid na Diyos; samantalang ang mga katuwiran ng mga mandaraig na banal dito ay subhektibo (Fil. 3:9), upang kanilang matugon ang kahilingan ng mandaraig na Kristo. Sa Awit 45:13-14, ang reyna ay may dalawang kasuotan: ang isa ay tumutugon sa obhektibong katuwiran para sa ating kaligtasan, at ang isa ay sa mga subhektibong katuwiran para sa ating pananagumpay. Ang nahuhuli ay katumbas ng “damit pangkasalan” sa Mat. 22:11-12."
+        },
+        {
+            "id": "9-1",
+            "text": "“Ang pangkasalang hapunan ng Kordero” rito ay ang “piging ng kasalan” sa Mat. 22:2. Ito ay magiging isang gantimpala sa mga mandaraig na mananampalataya. Tangi lamang ang mga mandaraig ang aanyayahan dito, hindi ang lahat ng mga naligtas. Ang limang mangmang na birhen sa Mat. 25:8-13 ay hindi makadadalo rito. Gayunpaman, pagkatapos matuos ng Panginoon sa kapanahunan ng kaharian, sila ay makikibahagi sa Bagong Herusalem magpasawalang-hanggan. Kaya, ang maanyayahan sa piging ng kasalan ni Kristo ay “pinagpala,” sapagka’t ito ay maghahatid sa mga mandaraig na mananampalataya tungo sa loob ng katamasahan ng isang libong taon. Ang mga mandaraig na mananampalataya na inanyayahan sa pangkasalang hapunan ng Kordero ang siya ring magiging kasintahang babae ng Kordero."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang pangunahing kainan, kadalasan sa gabi."
+        },
+        {
+            "id": "10-1",
+            "text": "Lit. Tingnan mo, huwag!"
+        },
+        {
+            "id": "10-2",
+            "text": "“Ang espiritu ng propesiya” ay ang realidad, substansiya, disposisyon, katangian, ng propesiya. Samakatuwid, “ang patotoo ni Hesus” ay ang realidad, substansiya, disposisyon, katangian, ng propesiya ng aklat na ito."
+        },
+        {
+            "id": "11-1",
+            "text": "Pagkatapos ng Kanyang kasal ay darating si Kristo bilang isang nakikipaglabang Heneral kasama ang Kanyang kasintahang babae, ang mga mandaraig na mananampalataya na inanyayahan sa Kanyang piging ng kasalan bilang Kanyang hukbo upang labanan ang Antikristo at ang mga hari na nasa ilalim niya at ang kanilang mga hukbo sa Armagedon."
+        },
+        {
+            "id": "11-2",
+            "text": "Si Kristo ay tapat sa Diyos at sa mga sumasampalataya sa Kanya. Sa pamamagitan ng Kanyang katapatan, Kanyang tinalo at winasak yaong mga naghimagsik laban sa Diyos at nangagsiusig sa mga mananampalataya. Siya rin ay tapat sa mga bagay ng pagsasagawa ng ekonomiya ng Diyos at sa pangangalaga sa Kanyang mga mananampalataya."
+        },
+        {
+            "id": "11-3",
+            "text": "Si Kristo ay tapat at totoo sa Diyos at sa Kanyang mga mananampalataya, at Siya ay matuwid doon sa mga naghimagsik laban sa Diyos. Sa pamamagitan ng Kanyang katuwiran ay Kanyang ginapi ang Antikristo at hinatulan ang kanyang mga mapanghimagsik na tagasunod."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang mga mata ni Kristo na katulad ng ningas ng apoy ay para sa Kanyang pagsasagawa ng kahatulan."
+        },
+        {
+            "id": "12-2",
+            "text": "Natamo ni Kristo ang iba’t ibang kaluwalhatian bilang putong (Heb. 2:9; I Ped. 1:11 at tala 6), kaya naputungan Siya ng maraming diadema. Ang bawa’t isang uri ng kaluwalhatian ay isang diadema. Ang lahat ng mga maluwalhating diadema ay resulta ng pagkakasakatuparan ng mga gawa ni Kristo. Siya ay nakipagbaka para sa Diyos, Kanyang nilipol ang lahat ng taong nagrebelde sa Diyos, upang mailagay sila sa walang hanggang kahihiyan sa pamamagitan ng resulta ng kaluwalhatian ng Kanyang mga naisakatuparang gawa."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang salitang ito ay tumutukoy na may ilang panig si Kristo na kailanman ay hindi natin naranasan kundi Siya Mismo lamang ang nakauunawa. Pinatutunayan din sa atin na ang ating dinaranas na Kristo ay hindi maubos ni masaid."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang kasuotan ni Kristo ay “itinubog sa dugo” at nagiging pula sa pamamagitan ng Kanyang pagtapak sa pisaan ng ubas ng alak ng matinding galit ng kapootan ng Diyos (b. 15; Isa. 63:1-3) sa Armagedon (16:14, 16), kung saan ay aapaw ang dugo “hanggang sa mga preno ng mga kabayo” (14:20)."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang salita ng Diyos ay ang paliwanag at kahayagan ng Diyos. Sa Ebanghelyo ni Juan, “Ang Salita ng Diyos” na si Kristo ay namamahagi ng buhay bilang biyaya sa mga piniling tao ng Diyos (Juan 1:1, 4, 14), subali’t sa Apocalipsis ni Juan, “ang Salita ng Diyos” na si Kristo ay nagpapataw ng kahatulan ng Diyos sa mga mapaghimagsik na tao."
+        },
+        {
+            "id": "14-1",
+            "text": "“Ang mga hukbo” rito ay ang mga tinawag at piniling mananampalataya sa 17:14 at yaong mga inanyayahan sa pangkasalang hapunan ng Kordero sa b. 9."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang kasuotan ng mga mandaraig na mananampalataya ay nagpapaging-dapat sa kanila na kapwa daluhan ang pangkasalang hapunan ng Kordero (bb. 8-9) at makipagbaka kasama ng Panginoon laban sa Kanyang kaaway."
+        },
+        {
+            "id": "14-3",
+            "text": "O, malinis."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang “tabak,” na lumalabas sa bibig ni Kristo na Siya ring Ang Salita ng Diyos, ay ang salitang maghahatol sa mga mapanghimagsik (Juan 12:48)."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang “pastulin” dito ay nangangahulugang mamuno; ang “tungkod na bakal” ay sumasagisag sa malakas na kapangyarihan. Una munang susugatan ni Kristo ang mga bansa ng Kanyang naghahatol na salita; pagkaraan ay papastulin Niya yaong mga nananatili sa pamamagitan ng Kanyang malakas na kapangyarihan. Ang Kanyang pamumuno na may malakas na kapangyarihan ay ang Kanyang pagpapastol. Pamumunuan Niya ang mga bansa sa pamamagitan ng pagpapastol sa kanila."
+        },
+        {
+            "id": "15-3",
+            "text": "Tingnan ang tala sa 14:19."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang damit ni Kristo ay tumutukoy sa pantaong kagalingan ni Kristo, lalung-lalo na sa Kanyang katuwiran sa Kanyang pagkatao; ang Kanyang hita ay tumutukoy sa kalakasan ng Kanyang pagkatayo, na siyang Kanyang katatagan. Ang Kanyang pangalang Hari ng mga hari at Panginoon ng mga panginoon ay naitanghal sa pamamagitan ng Kanyang katuwiran at katatagan."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang “malaking hapunan ng Diyos” ay taliwas sa pangkasalang hapunan ng Kordero. Ang pangkasalang hapunan ng Kordero ay para sa mga inanyayahang mandaraig; samantalang ang malaking hapunan ng Diyos ay para sa mga inanyayahang “ibon.”"
+        },
+        {
+            "id": "18-1",
+            "text": "Kapitang namumuno sa isang libo."
+        },
+        {
+            "id": "19-1",
+            "text": "Tumutukoy sa mga hari sa lupa (16:12-14); sinasaklaw nito lalung-lalo na ang sampung hari na nasa ilalim ng Antikristo (17:12-14)."
+        },
+        {
+            "id": "19-2",
+            "text": "Sinasaklaw ang dalawang daang milyong hukbong-kabayuhan na nagmumula sa sikatan ng araw (9:14-16; 16:12)."
+        },
+        {
+            "id": "19-3",
+            "text": "Ang digmaang ito ay magaganap sa Armagedon (16:14, 16) na nasa libis ni Josaphat (Joel 3:9-16; Zac. 14:2-3, 12-15), malapit na malapit sa Herusalem. Ang digmaang ito ay ang paggigiling ng malaking pisaan ng ubas ng matinding galit ng Diyos (tingnan ang 14:17-20 at tala 1-9 )."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang Antikristo at ang bulaang propeta ang mauunang ihagis sa dagat-dagatang apoy (cf. 20:10, 15). Sila ay ihahagis nang buháy sa dagatdagatang apoy, hindi na daraan sa kamatayan at pagkabuhay na muli katulad ng lahat ng ibang napahamak. Sa puntong ito ay makikita natin na kapag pinatunog na ang ikapitong trumpeta, sa parehong araw, na siyang huling araw ng matinding kapighatian, ang mga sumusunod na pangyayari ay pawang magaganap; (1) ang kaharian ng sanlibutan ay magiging kaharian ni Kristo; (2) ang mga namatay na banal ay bubuhayin muli at iaakyat nang may masidhing kagalakan kasama ang mga buhay na banal; (3) ang dalawang saksi ay bubuhayin muli at iaakyat nang may masidhing kagalakan; (4) si Kristo ay magpapataw ng kahatulan sa Kanyang luklukan ng pagkahatol para sa paggantimpala sa mga mandaraig; (5) ang kasalan ng Kordero at ng mga mandaraig ay magaganap; (6) si Kristo at ang Kanyang kababagong kasal na mga mandaraig ay parito sa lupa upang talunin ang Antikristo at wasakin yaong mga nagwasak sa lupa sa digmaan sa Armagedon, at ibulid ang Antikristo at ang huwad na propeta sa dagat-dagatang apoy; (7) sa digmaan sa Armagedon ay ililigtas ni Kristo ang Israel mula sa paniniil ng Antikristo, at ang buong sambahayan ni Israel ay mangagsisisi at mangaliligtas; (8) ang materiyal na dakilang Babilonia ay wawasakin; at (9) sa parehong panahon ay ibubuhos ang pitong mangkok. Ang digmaan sa Armagedon ay magaganap sa panahon ng ikaanim na mangkok. Ang sari-saring salot ng ikapitong mangkok ay ipapataw ng Diyos sa parehong araw, malamang sa panahon kapag magaganap na ang ilang positibong pangyayari na binanggit nang una."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 26,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -15,7 +15,7 @@
             "footnotes": [
                 {
                     "word": "pagsasanggalang;",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -26,11 +26,11 @@
             "footnotes": [
                 {
                     "word": "Lalo",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "bihasa",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -47,7 +47,7 @@
             "footnotes": [
                 {
                     "word": "relihiyon",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -88,7 +88,7 @@
             "footnotes": [
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -111,11 +111,11 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "matutulis.",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -126,7 +126,7 @@
             "footnotes": [
                 {
                     "word": "Panginoon?",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -137,11 +137,11 @@
             "footnotes": [
                 {
                     "word": "lingkod",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "saksi",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -152,7 +152,7 @@
             "footnotes": [
                 {
                     "word": "Inilalabas",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -163,31 +163,31 @@
             "footnotes": [
                 {
                     "word": "buksan",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "kadiliman",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "awtoridad",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "patungo",
-                    "note": ""
+                    "id": "18-4"
                 },
                 {
                     "word": "kapatawaran",
-                    "note": ""
+                    "id": "18-5"
                 },
                 {
                     "word": "pamana",
-                    "note": ""
+                    "id": "18-6"
                 },
                 {
                     "word": "napaging-",
-                    "note": ""
+                    "id": "18-7"
                 }
             ],
             "outlines": null
@@ -198,7 +198,7 @@
             "footnotes": [
                 {
                     "word": "pangitain,",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -221,7 +221,7 @@
             "footnotes": [
                 {
                     "word": "tulong",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -232,15 +232,15 @@
             "footnotes": [
                 {
                     "word": "maghirap",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "kailangang",
-                    "note": ""
+                    "id": "23-2"
                 },
                 {
                     "word": "liwanag",
-                    "note": ""
+                    "id": "23-3"
                 }
             ],
             "outlines": null
@@ -251,15 +251,15 @@
             "footnotes": [
                 {
                     "word": "baliw,",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "nagdadala",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "kabaliwan!",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -276,11 +276,11 @@
             "footnotes": [
                 {
                     "word": "nalalaman",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "malayang",
-                    "note": ""
+                    "id": "26-2"
                 }
             ],
             "outlines": null
@@ -297,7 +297,7 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -328,14 +328,136 @@
             "footnotes": [
                 {
                     "word": "taong",
-                    "note": ""
+                    "id": "32-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "32-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Tingnan ang tala 1-1 sa kap. 22."
+        },
+        {
+            "id": "3-1",
+            "text": "O, Yamang ikaw ay lalong bihasa."
+        },
+        {
+            "id": "3-2",
+            "text": "Isang nakaaalam, isang eksperto."
+        },
+        {
+            "id": "5-1",
+            "text": "O, mainit na pagsamba sa Diyos. Tingnan ang tala 26-1 sa Sant. 1."
+        },
+        {
+            "id": "11-1",
+            "text": "Lit. labas na lupain."
+        },
+        {
+            "id": "14-1",
+            "text": "Tingnan ang tala 4-1 sa kap. 9."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang matutulis na ito ay katulad ng ginagamit sa paggabay sa mga hayop. Ipinakikita ng salitang ito na si Saulo ay nabihag na ng Panginoon, kaya ang dapat niyang gawin ay ang mapasailalim lang ng pamatok ng Panginoon at isakatuparan ang utos ng Panginoon. Mahirap para sa kanya ang sumikad sa mga matutulis."
+        },
+        {
+            "id": "15-1",
+            "text": "Tingnan ang tala 5-1 sa kap. 9."
+        },
+        {
+            "id": "16-1",
+            "text": "*Gr. huperetes . Naiiba sa salitang “lingkod” na nasa Roma 13:4 na sa Griyego ay diakono . Ang salitang huperetes ay binubuo ng hupo , sa ilalim, at ng eretës , tagasagwan. Isang opisyal na naghihintay ng utos mula sa nakatataas upang isakatuparan ang utos. Ang gayunding salita ay isinaling kinatawan, sa 5:22."
+        },
+        {
+            "id": "16-2",
+            "text": "Hindi lamang isang lingkod bagkus isa ring saksi. Ang lingkod ay para sa ministeryo; ang saksi ay para sa patotoo. Higit sa lahat ang “ministeryo” ay nauukol sa gawain, sa kung ano ang gawain ng lingkod; ang “patotoo” ay nauukol sa tao, may kaugnayan sa kung ano ang pagkatao ng saksi (tingnan ang mga tala 8-3 sa kap. 1 at 11-3 sa kap. 23)."
+        },
+        {
+            "id": "17-1",
+            "text": "O, Inililigtas ka mula…"
+        },
+        {
+            "id": "18-1",
+            "text": "Ito ay upang isagawa ang katuparan ng jubileo ng Diyos, ang kaaya-ayang taon ng Panginoon, na itinanyag ng Panginoong Hesus sa Luc. 4:18-21 (tingnan ang tala 19-1 sa Luc. 4) ayon sa Bagong Tipang ekonomiya ng Diyos. Ang unang bagay ukol sa mga espiritwal at dibinong pagpapala ng Bagong Tipang jubileo, na siyang mga pagpapala ng ebanghelyo ng Diyos, ay ang buksan ang mata ng mga natisod at ibaling sila mula sa kadiliman patungo sa liwanag, upang kanilang makita ang mga dibinong bagay sa loob ng pang-espiritwal na kinasasakupan. Ang makita ang mga ito ay nangangailangan ng espiritwal na paningin at dibinong liwanag."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang kadiliman ay isang tanda ng kasalanan at kamatayan; ang liwanag ay isang tanda ng katuwiran at buhay (Juan 1:4; 8:12)."
+        },
+        {
+            "id": "18-3",
+            "text": "Ang awtoridad ni Satanas ay ang kaharian ni Satanas (Mat. 12:26 at tala). Ang kahariang ito ay nabibilang sa kadiliman."
+        },
+        {
+            "id": "18-4",
+            "text": "Yaon ay, patungo sa awtoridad ng Diyos na siyang kaharian ng Diyos na nabibilang sa liwanag."
+        },
+        {
+            "id": "18-5",
+            "text": "Ang batayan ng lahat ng mga pagpapala ng Bagong Tipang jubileo."
+        },
+        {
+            "id": "18-6",
+            "text": "Ang dibinong pamanang ito ay ang Tres-unong Diyos Mismo kasama ang lahat ng mayroon Siya, lahat ng Kanyang isinagawa, at lahat ng Kanyang isasagawa para sa Kanyang mga tinubos na tao. Ang Tres-unong Diyos na ito ay nakapaloob sa nagpapaloob-ng-lahat na Kristo (Col. 2:9), na Siyang bahaging inilaan sa mga banal bilang kanilang pamana (Col. 1:12). Ang Espiritu Santo, na Siyang ibinigay sa mga banal, ay ang patikim, ang prenda, at ang garantiya ng dibinong pamanang ito (Roma 8:23; Efe. 1:14), na Siyang ating pinagsasalu-saluhan at tinatamasa sa Bagong Tipang jubileo ng Diyos bilang isang patikim, at pagsasalu-saluhan at tatamasahin nang higit sa darating na kapanahunan at sa kabuuan sa kawalang-hanggan (I Ped. 1:4). Sa sagisag ng jubileo sa Lev. 25:8-13, ang mga pangunahing pagpapala ay ang kalayaang itinanyag at ang pagbabalik ng bawa’t tao sa loob ng kanyang sariling mana. Sa pagsasakatuparan ng jubileo rito, ang paglaya mula sa awtoridad ng kadiliman at pagtanggap din ng dibinong mana ang mga pangunahing pagpapala. (cf. tala 32-3 ng kap. 20)."
+        },
+        {
+            "id": "18-7",
+            "text": "Hindi lamang sa pamposisyon bagkus maging sa pandisposisyon (Roma 6:19 at tala 2; 6:22). Ang mapaging-banal sa pamposisyon ay ang mabago lamang sa posisyon at paggamit; ang mapaging-banal sa pandisposisyon ay ang mabago sa kalikasan sa pamamagitan ng banal na kalikasan ng Diyos (2 Cor. 3:18). Ang mapaging-banal ay ang lubusang mababaran ng Diyos bilang ating mana para sa ating katamasahan ngayon. Ito ay hahantong sa ating paggulang sa loob ng dibinong buhay upang tayo ay makamukha ng Diyos at maging karapat-dapat na ganap na ariin Siya at tamasahin Siya bilang ating mana sa darating na kapanahunan at sa magpasawalang-hanggan."
+        },
+        {
+            "id": "19-1",
+            "text": "Hindi doktrina, teoriya, relihiyosong kredo, o alinmang teolohiya, kundi ang makalangit na pangitain, kung saan nakita ng apostol ang mga dibinong bagay tungkol sa Tres-unong Diyos na ipamamahagi sa loob ng Kanyang mga pinili , tinubos, at tinatranspormang tao. Lahat ng kanyang pangangaral sa Gawa at mga isinulat sa labing apat na Sulat mula sa Roma hanggang Hebreo ay isang detalyadong paglalarawan nitong makalangit na pangitain na kanyang nakita."
+        },
+        {
+            "id": "22-1",
+            "text": "O, pagtulong. Ang ugat ng salitang Griyego ay nangangahulugang pag-aanib-anib. Ito ay nagpapahiwatig na ang apostol ay kaanib ng Diyos at napagtanto niya ang pagtulong ng Diyos sa pag-aanib-anib na ito."
+        },
+        {
+            "id": "23-1",
+            "text": "Lit. mapasailalim ng pagdurusa."
+        },
+        {
+            "id": "23-2",
+            "text": "O, sa pamamagitan ng pagkabuhay na muli mula sa mga patay ay nararapat Siyang manguna sa paghahayag… O, Siya bilang nanguna sa mga nagbangon sa mga patay ay dapat maghayag…"
+        },
+        {
+            "id": "23-3",
+            "text": "Tumutukoy sa pagliliwanag ng Diyos na liwanag (1 Juan 1:5), nagniningning sa loob ni Kristo na Siyang liwanag ng sanlibutan (Juan 8:12; 9:5), sa pamamagitan ng paghahayag ng ebanghelyo ng kaluwalhatian ni Kristo (2 Cor. 4:4, 6)."
+        },
+        {
+            "id": "24-1",
+            "text": "O, nahihibang, wala sa sarili; katulad ng nasa sumusunod na bersikulo."
+        },
+        {
+            "id": "24-2",
+            "text": "Lit. nagbabaling."
+        },
+        {
+            "id": "26-1",
+            "text": "Bilang Hudyo ayon sa relihiyon, alam ni Agripa ang mga bagay ukol sa Lumang Tipan at sa pagkabuhay na muli."
+        },
+        {
+            "id": "26-2",
+            "text": "O, matapang, payak na."
+        },
+        {
+            "id": "28-1",
+            "text": "O, oras."
+        },
+        {
+            "id": "32-1",
+            "text": "Sa bahaging ito mula sa 21:27 hanggang sa 26:32 ay makikita ang isang mahabang pagsasalaysay ng panghuling pag-uusig ng mga Hudyo sa apostol kung saan ang tunay na kulay ng lahat ng mga nasasangkot na partido ay nahayag nang katulad sa mga sumusunod: 1) ang kadiliman, kabulagan, pagkamuhi, at pagpapaimbabaw ng relihiyon ng mga Hudyo; 2) ang kawalang-katarungan at kabulukan ng pulitikang Romano; 3) ang kaaninagan, kaliwanagan, katapatan, at katapangan ng apostol; at 4) ang mapagpalakas ng loob na pag-aaruga ng Panginoon sa Kanyang saksi at ang Kanyang kapangyarihan sa buong pangyayari para sa pagsasagawa ng Kanyang dibinong layunin."
+        },
+        {
+            "id": "32-2",
+            "text": "Subali’t kung hindi sa kanyang pag-apela kay Cesar, ang apostol ay maaaring napatay na ng mga Hudyo sa pamamagitan ng hindi makatarungang paghawak sa kanya ni Festo (25:9), at sa ganoon ang kanyang buhay ay hindi naingatan hanggang sa araw na yaon. Tingnan ang tala sa 11-2 sa kapitulo 25."
         }
     ]
 }

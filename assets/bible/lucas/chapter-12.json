@@ -1,5 +1,5 @@
 {
-    "chapter": 12,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Samantalang",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "libu-",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -43,15 +43,15 @@
             "footnotes": [
                 {
                     "word": "ipakikita",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Siya,",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "Gehena.",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -62,7 +62,7 @@
             "footnotes": [
                 {
                     "word": "sentimo?",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -79,11 +79,11 @@
             "footnotes": [
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -94,7 +94,7 @@
             "footnotes": [
                 {
                     "word": "ikakaila",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -105,7 +105,7 @@
             "footnotes": [
                 {
                     "word": "lumalapastangan",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -122,7 +122,7 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -161,7 +161,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -184,7 +184,7 @@
             "footnotes": [
                 {
                     "word": "kanilang",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -195,7 +195,7 @@
             "footnotes": [
                 {
                     "word": "mayaman",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -206,11 +206,11 @@
             "footnotes": [
                 {
                     "word": "Dahil",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "buhay,",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -257,7 +257,7 @@
             "footnotes": [
                 {
                     "word": "maging",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -280,7 +280,7 @@
             "footnotes": [
                 {
                     "word": "kaharian.",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -291,7 +291,7 @@
             "footnotes": [
                 {
                     "word": "kayamanan",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -302,7 +302,7 @@
             "footnotes": [
                 {
                     "word": "puso.",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -329,7 +329,7 @@
             "footnotes": [
                 {
                     "word": "lalapit",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -346,23 +346,23 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "39-1"
                 },
                 {
                     "word": "alamin",
-                    "note": ""
+                    "id": "39-2"
                 },
                 {
                     "word": "nalaman",
-                    "note": ""
+                    "id": "39-2"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "39-3"
                 },
                 {
                     "word": "mapasok.",
-                    "note": ""
+                    "id": "39-4"
                 }
             ],
             "outlines": null
@@ -421,7 +421,7 @@
             "footnotes": [
                 {
                     "word": "ipinagkatiwala,",
-                    "note": ""
+                    "id": "48-1"
                 }
             ],
             "outlines": null
@@ -432,11 +432,11 @@
             "footnotes": [
                 {
                     "word": "apoy",
-                    "note": ""
+                    "id": "49-1"
                 },
                 {
                     "word": "ano",
-                    "note": ""
+                    "id": "49-2"
                 }
             ],
             "outlines": [
@@ -452,11 +452,11 @@
             "footnotes": [
                 {
                     "word": "bautismong",
-                    "note": ""
+                    "id": "50-1"
                 },
                 {
                     "word": "nagigipit",
-                    "note": ""
+                    "id": "50-2"
                 }
             ],
             "outlines": null
@@ -467,7 +467,7 @@
             "footnotes": [
                 {
                     "word": "pagkakabaha-",
-                    "note": ""
+                    "id": "51-1"
                 }
             ],
             "outlines": null
@@ -506,23 +506,23 @@
             "footnotes": [
                 {
                     "word": "mapagpaimbabaw!",
-                    "note": ""
+                    "id": "56-1"
                 },
                 {
                     "word": "aninawin",
-                    "note": ""
+                    "id": "56-2"
                 },
                 {
                     "word": "anyo",
-                    "note": ""
+                    "id": "56-3"
                 },
                 {
                     "word": "bakit",
-                    "note": ""
+                    "id": "56-4"
                 },
                 {
                     "word": "maaninaw",
-                    "note": ""
+                    "id": "56-5"
                 }
             ],
             "outlines": null
@@ -533,7 +533,7 @@
             "footnotes": [
                 {
                     "word": "sarili",
-                    "note": ""
+                    "id": "57-1"
                 }
             ],
             "outlines": null
@@ -544,11 +544,11 @@
             "footnotes": [
                 {
                     "word": "Sapagka’",
-                    "note": ""
+                    "id": "58-1"
                 },
                 {
                     "word": "sikapin",
-                    "note": ""
+                    "id": "58-2"
                 }
             ],
             "outlines": null
@@ -559,10 +559,172 @@
             "footnotes": [
                 {
                     "word": "baryang",
-                    "note": ""
+                    "id": "59-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "O, sa mga pangyayaring ito."
+        },
+        {
+            "id": "1-2",
+            "text": "O, napakarami, sampung libo."
+        },
+        {
+            "id": "5-1",
+            "text": "Lit. lihim na ipakikita."
+        },
+        {
+            "id": "5-2",
+            "text": "Tingnan ang 28-1 sa Mat. 10."
+        },
+        {
+            "id": "5-3",
+            "text": "Tingnan ang tala 22-8 sa Mat. 5."
+        },
+        {
+            "id": "6-1",
+            "text": "Gr. assaria , ang pinakamaliit na barya sa pera ng Griyegong Romano sa Palestina."
+        },
+        {
+            "id": "8-1",
+            "text": "Nangangahulugang kaisa ng Panginoon."
+        },
+        {
+            "id": "8-2",
+            "text": "Nangangahulugang ang Panginoon at siya ay magkaisa."
+        },
+        {
+            "id": "9-1",
+            "text": "Higit na matindi ang kahulugan ng salitang ito sa Griyego kaysa sa naunang salitang isinaling ikinakaila sa bersikulong ito. Tingnan ang tala 33-1 sa Mateo 10."
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang mga tala 31-1 at 32-1 sa Mateo 12."
+        },
+        {
+            "id": "12-1",
+            "text": "Tingnan ang 20-1 sa Mat. 10."
+        },
+        {
+            "id": "17-1",
+            "text": "O, mga bunga."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang pananalita ay walang katiyakan, marahil ang tinutukoy nito ay ang mga anghel, ang mga sugo ng Diyos."
+        },
+        {
+            "id": "21-1",
+            "text": "Gaano kahalaga ang maging mayaman sa Diyos! Hinihiling nito ang hindi pag-iimpok ng kayamanan para sa sarili."
+        },
+        {
+            "id": "22-1",
+            "text": "Para sa bb. 22-31, tingnan ang mga tala sa Mat. 6:25-33."
+        },
+        {
+            "id": "22-2",
+            "text": "Lit. pangkaluluwang buhay. Gayundin sa b. 23."
+        },
+        {
+            "id": "29-1",
+            "text": "O, maging balisa."
+        },
+        {
+            "id": "32-1",
+            "text": "Tingnan ang tala 43-2 sa kap. 4."
+        },
+        {
+            "id": "33-1",
+            "text": "Tingnan ang tala 20-1 sa Mat. 6."
+        },
+        {
+            "id": "34-1",
+            "text": "Ang puso natin ay nakakabit sa ating kayamanan. Kung mag-iipon tayo para sa ating sarili ng mga kayamanan sa lupa, mahirap para sa puso natin ang mapasalangit, gayundin, mahirap na mapasaating minamahal na Panginoon at mapasa Kanyang kapakinabangan."
+        },
+        {
+            "id": "37-1",
+            "text": "O, lalapit sa tabi."
+        },
+        {
+            "id": "39-1",
+            "text": "Para sa bb. 39-46, tingnan ang mga tala sa Mat. 24:43-51."
+        },
+        {
+            "id": "39-2",
+            "text": "Ang alamin ay ginosko ; ang nalaman ay oida . Tingnan ang tala 11-1 sa Hebreo 8."
+        },
+        {
+            "id": "39-3",
+            "text": "May ilang manuskrito ang nagdaragdag ng, magbabantay at"
+        },
+        {
+            "id": "39-4",
+            "text": "Lit. mahukay."
+        },
+        {
+            "id": "48-1",
+            "text": "O, inihabilin, idineposito."
+        },
+        {
+            "id": "49-1",
+            "text": "Ang aktong nagpapasulong nang may biglang puwersa ng espiritwal na buhay, na nagmula sa napalayang dibinong buhay ng Panginoon (tingnan ang tala 50-2 ) na nagiging dahilan ng mga pagkakabaha-bahagi sa bb. 51-53."
+        },
+        {
+            "id": "49-2",
+            "text": "O, gaano Ko ninanais na yaon ay napagningas na!"
+        },
+        {
+            "id": "50-1",
+            "text": "Tingnan ang 38-1 sa Marc. 10."
+        },
+        {
+            "id": "50-2",
+            "text": "O, napipigilan. Ang Panginoon ay napipigilan sa Kanyang laman, na isinuot Niya sa Kanyang Sarili sa Kanyang pagkakatawang-tao. Kailangan Niyang mamatay, ang mabautismuhan sa pisikal na kamatayan upang ang Kanyang walang sukat at walang hanggang dibinong Katauhan na may dibino Niyang buhay ay mapalaya mula sa Kanyang laman. Ang dibino Niyang buhay, matapos na mapalaya sa pamamagitan ng pisikal na kamatayan, ay naging ang aktong nagpapasulong nang may bilang puwersa ng espiritwal na buhay ng mga sa Kanya ay nananampalataya sa loob ng pagkabuhay na muli."
+        },
+        {
+            "id": "51-1",
+            "text": "Ito ay dahil sa makasatanas na buhay na nasa loob ng mga di-mananampalataya na nakikipagtunggali laban sa dibinong buhay na nasa loob ng mga mananampalataya – isang labanan ng makasatanas na kaharian at ng kaharian ng Diyos. Tingnan ang tala 34-1 sa Mateo 10."
+        },
+        {
+            "id": "56-1",
+            "text": "Tingnan ang tala 2-3 sa Mateo 6."
+        },
+        {
+            "id": "56-2",
+            "text": "O, patunayan sa pamamagitan ng pagsubok."
+        },
+        {
+            "id": "56-3",
+            "text": "Lit. mukha."
+        },
+        {
+            "id": "56-4",
+            "text": "O, ngunit ngayon ay hindi ninyo alam kung paano umaninaw."
+        },
+        {
+            "id": "56-5",
+            "text": "Yaon ay, kilalanin ang mga tanda ng panahon (Mat. 16:3). Ang mga tanda ay: 1) Si Juan Bautista ay dumating upang ipahayag ang pagdating ng Mesiyas ayon sa propesiya (3:2-6, 297 Lucas 12:58-13:6 15-17), at 2) ang Mesiyas ay naririto na, inihahain ang Kanyang Sarili upang tanggapin Siya ng mga tao at sila ay mangaligtas."
+        },
+        {
+            "id": "57-1",
+            "text": "Kahit na wala ang pagtuturo ng Panginoon, ang mga Hudyo ay may mga sapat na tanda upang mapagpasiyahan sa kanilang mga sarili ang tamang daan na susundin at ang bagay na tamang gawin sa panahong yaon, yaon ay, ang tanggapin ang Panginoon at sundan Siya."
+        },
+        {
+            "id": "58-1",
+            "text": "Ang “sapagkat” ay nangangahulugan na ang bb. 58-59 ay pagpa-patuloy ng b. 57, na kung saan inatasan ng Taong-Tagapagligtas ang mga Hudyo na, habang sila ay nasa daan (patungo) sa ilalim ng kautusan (ang kanilang katunggali — Juan 5:45), upang makaharap ang Diyos (ang mahistrado) at mahatulan ni Kristo (ang hukom – Juan 5:22; Gawa 17:31), dapat nilang sikapin na makalaya mula sa kautusan, upang hindi sila mahatulan ni Kristo at maitapon sa dagat-dagatang apoy (bilangguan – Apoc. 20:11-15) ng mga anghel (ang punong kawal – cf. Mat. 13:41). Kung magkakagayon, hindi na sila makalalabas sa anumang paraan magpasawalang-hanggan (b. 59). Ang salita sa dalawang bersikulong ito ay sinalita sa mga kalipunan (b. 54) para sa kanilang pagsisisi at kaligtasan. Ngunit sa Mat. 5:25-26, ito ay patungkol sa mga disipulo para sa kanilang buhay-kaharian (tingnan ang mga tala roon)."
+        },
+        {
+            "id": "58-1",
+            "text": "O, pagsumakitan."
+        },
+        {
+            "id": "59-1",
+            "text": "Gr. lepton , ang pinakamaliit na barya ng pera ng Griyegong Romano sa Palestina."
         }
     ]
 }

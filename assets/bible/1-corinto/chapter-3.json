@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "espirituwal,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "sanggol",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -29,19 +29,19 @@
             "footnotes": [
                 {
                     "word": "Binigyan",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "gatas",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "matigas",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "ni",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -52,11 +52,11 @@
             "footnotes": [
                 {
                     "word": "paninibugho",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "tao?",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -67,7 +67,7 @@
             "footnotes": [
                 {
                     "word": "tao?",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -84,7 +84,7 @@
             "footnotes": [
                 {
                     "word": "nagtanim,",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -95,7 +95,7 @@
             "footnotes": [
                 {
                     "word": "Anupa’",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -106,11 +106,11 @@
             "footnotes": [
                 {
                     "word": "iisa,",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "gantimpala",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -121,11 +121,11 @@
             "footnotes": [
                 {
                     "word": "kamanggagawa",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "bukid",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -136,11 +136,11 @@
             "footnotes": [
                 {
                     "word": "punong-",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "ingatan",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": [
@@ -153,7 +153,7 @@
             "footnotes": [
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -164,15 +164,15 @@
             "footnotes": [
                 {
                     "word": "Datapuwa’",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "ginto,",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "kahoy,",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -183,11 +183,11 @@
             "footnotes": [
                 {
                     "word": "ang",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "apoy,",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -198,11 +198,11 @@
             "footnotes": [
                 {
                     "word": "gawa",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "gantimpala.",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -213,19 +213,19 @@
             "footnotes": [
                 {
                     "word": "gawa",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "malulugi,",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "maliligtas,",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "15-4"
                 }
             ],
             "outlines": null
@@ -236,7 +236,7 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -247,19 +247,19 @@
             "footnotes": [
                 {
                     "word": "gibain",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "gigibain",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "banal,",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "templong",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -270,19 +270,19 @@
             "footnotes": [
                 {
                     "word": "dayain",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "nag-",
-                    "note": ""
+                    "id": "18-2"
                 },
                 {
                     "word": "magpakamangmang",
-                    "note": ""
+                    "id": "18-3"
                 },
                 {
                     "word": "maging",
-                    "note": ""
+                    "id": "18-4"
                 }
             ],
             "outlines": [
@@ -313,7 +313,7 @@
             "footnotes": [
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -323,6 +323,164 @@
             "text": "At kayo ay kay Kristo, at si Kristo ay sa Diyos.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang isang taong espirituwal ay isang hindi kumikilos ayon sa laman ni gumagawi ayon sa pangkaluluwang buhay, kundi namumuhay ayon sa espiritu, yaon ay, ang kanyang espiritung naihalo sa Espiritu ng Diyos. Ang gayong isa ay napangingibabawan, napamamahalaan, napangangasiwaan, napakikilos, at napangungunahan ng pinaghalong espiritung yaon."
+        },
+        {
+            "id": "1-2",
+            "text": "Ito ay isang higit na malakas at higit na mabigat na pananalita kaysa sa “makalaman” sa bersikulo 3. Ang “sa laman” ay tumutukoy sa pagiging gawa sa laman; ang makalaman ay tumutukoy sa pagiging naimpluwensiyahan ng kalikasan ng laman, kinukuha ang katangian ng laman. Sa bersikulo 1, itinuturing ng apostol ang mga mananampalatayang taga-Corinto na lubusang sa laman, gawa sa laman, at lubusang laman lamang. Gaanong katinding pananalita! Pagkatapos sa bersikulo 3, kinokondena ng apostol ang kanilang paggawi nang may paninibugho at pagtatalo bilang makalaman, na nasa ilalim ng impluwensiya ng kanilang makalamang kalikasan at kinukuha ang katangian ng laman. Ang aklat na ito ay malinaw na nagpapahayag na ang isang mananampalataya ay maaaring maging isa sa tatlong uri ng tao: 1) isang taong espirituwal, namumuhay sa kanyang espiritu sa ilalim ng pagpapahid ng Espiritu Santo (Roma 8:4; Gal. 5:25); 2) isang taong makakaluluwa, namumuhay sa kanyang kaluluwa sa ilalim ng pangangasiwa ng kaluluwa, ang likas na buhay (2:14); at 3) isang taong “sa laman” at makalaman, na ukol sa laman at namumuhay sa laman sa ilalim ng impluwensiya ng kalikasan ng laman. Ninanais ng Panginoon na ang lahat ng Kanyang mga mananampalataya ay makakuha ng Kanyang biyaya upang maging unang uri ng tao – isang taong espirituwal. Ito ang layunin ng aklat na ito – ang mahikayat ang mga mananampalatayang taga-Corinto na makakaluluwa, sa laman, at makalaman na magnasang lumago sa buhay nang sa gayon sila ay maging espirituwal (2:15; 3:1; 14:37). Sapagka’t tayo ay tinawag na ng Diyos upang magkaroon ng bahagi sa pakikisalamuha kay Kristo (1:9), na Espiritung nagbibigay-buhay sa ngayon (15:45), at sapagka’t tayo ay kaisang espiritu Niya (6:17), mararanasan at matatamasa lamang natin Siya kapag tayo ay namumuhay sa ating espiritu sa ilalim ng pangunguna ng Espiritu Santo. Kapag tayo ay namumuhay sa kaluluwa o namumuhay sa laman, wala tayong paraang makabahagi at makapagtamasa sa Kanya."
+        },
+        {
+            "id": "1-3",
+            "text": "Bagama’t ang mga mananampalatayang taga-Corinto ay nakatanggap ng lahat ng nauunang kaloob sa buhay at hindi nagkulang sa isa man sa mga ito (1:7), sila ay hindi lumago sa buhay pagkatapos matanggap ang mga ito, sa halip nanatiling mga sanggol kay Kristo, hindi espirituwal kundi nasa laman. Itinuturo rito ng apostol ang kanilang kakulangan at ang kanilang pangangailangan, yaon ay, ang lumago sa buhay hanggang sa paggulang, upang lumago nang lubos (2:6; Col. 1:28)."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang magbigay ng gatas upang inumin o pagkain upang kainin ay ang pakainin ang iba. Ang pagpapakain ay tumutukoy sa bagay na ukol sa buhay, naiiba sa pagtuturo, na tumutukoy sa kaalaman. Ang itinustos ng apostol sa mga mananampalatayang taga-Corinto ay tila baga kaalaman; sa katunayan ito ay gatas (hindi pa matigas na pagkain), at ito ay dapat na nagtustos sa kanila."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang gatas ay pangunahing sa mga sanggol; ang matigas na pagkain ay para sa mga magulang na. Tingnan ang tala 12-3 at 13-1 sa Hebreo 5."
+        },
+        {
+            "id": "2-3",
+            "text": "Ito ay nagpapakita na ang mga mananampalatayang taga-Corinto ay hindi lumalago sa buhay; hindi pa nila kayang tumanggap ng matigas na pagkain."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang paninibugho at pagtatalo ay mga kahayagan, mga katangian, ng kalikasan ng laman. Kaya, ang mga ito ang nagpapakilala sa yaong mga nasa laman, sa mga makalaman, sa mga nagsisilakad nang ayon sa kaugalian ng mga tao."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang bawa’t natisod na tao ay laman nga (Roma 3:20; Gal. 2:16 at tala). Kaya, ang ayon sa kaugalian ng tao ay ayon sa laman. Ang paninibugho at pagtatalo ng mga mananampalatayang taga-Corinto ay ang paglakad ayon sa laman ng natisod na tao, hindi ayon sa paglakad sa espiritu ng isang taong naisilang na muli ng Diyos; sa kadahilanang ito sila ay naging makalaman at hindi espirituwal, mga lumalakad ayon sa kaugalian ng tao at hindi ayon sa Diyos."
+        },
+        {
+            "id": "4-1",
+            "text": "Yaon ay, mga taong nasa laman."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang pagtatanim, pagdidilig, at pagpapalago ay may kaugnayan sa bagay na ukol sa buhay. Ito ay nagpapakita na ang mga mananampalataya ay bukid ng Diyos upang palaguin si Kristo. Ang mga tagapaglingkod ni Kristo ay makapagtatanim at makapagdidilig lamang. Tangi lamang ang Diyos ang Siyang makapagpapalago. Pinahalagahan nang labis ng mga mananampalatayang taga-Corinto ang mga tagapagtanim at tagapagdilig, subali ‘t kinaligtaan yaong nagpapalago. Kaya, sila ay hindi lumago kay Kristo bilang kanilang buhay. Ang mga mananampalatayang taga-Corinto, sa ilalim ng nananaig na impluwensiya ng Griyegong pilosopikal na karunungan, ay lubos na nagbigay-pansin sa kaalaman, na kinaligtaan ang buhay. Sa kapitulong ito, ang layunin ni Pablo ay ang ibaling ang kanilang pansin mula sa kaalaman patungo sa buhay, itinuturo sa kanila na siya ay isang tagapagpakain at isang tagapagtanim, na si Apolos ay isang tagapagdilig, at ang Diyos ang Tagapagbigay ng paglago. Sa 4:15, sinasabi pa niya sa kanila na siya ang kanilang espirituwal na ama, na nagsilang sa kanila kay Kristo sa pamamagitan ng ebanghelyo. Mula sa pananaw ng buhay, ang dibinong pananaw, sila ang bukid ng Diyos upang palaguin si Kristo. Ito ay lubusang isang bagay na ukol sa buhay, isang bagay na lubusang nakaligtaan ng mga mananampalatayang napangibabawan ng kanilang pangkaluluwa at likas na buhay sa ilalim ng impluwensiya ng kanilang likas na karunungan."
+        },
+        {
+            "id": "7-1",
+            "text": "Kung ang isasaalang-alang ay ang paglago sa buhay, ang lahat ng mga tagapaglingkod ni Kristo, maging isang tagapagtanim o isang tagapagdilig, ay pawang walang halaga, subali’t ang Diyos ay ang lahat-lahat. Kinakailangan nating ibaling ang ating mga mata mula sa kanila patungo sa Diyos Mismo. Ito ang nagliligtas sa atin sa pagkakabaha-bahagi na nagreresulta sa pagpapahalaga sa isang tagapaglingkod ni Kristo nang higit sa iba."
+        },
+        {
+            "id": "8-1",
+            "text": "*Ang “iisa” rito ay hindi nangangahulugan na ang nagtatanim at nagdidilig ay iisang tao kundi ang nagtatanim at nagdidilig ay pare-pareho lamang na mga kamanggagawa ng Diyos."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang gantimpala ay isang pangganyak sa mga tagapaglingkod ni Kristo na nagpapagal sa pagtatanim o pagdidilig sa bukid ng Diyos."
+        },
+        {
+            "id": "9-1",
+            "text": "Ito ay nagpapakita na ang Diyos ay isa ring manggagawa. Habang ang mga tagapaglingkod ni Kristo, ang Kanyang mga kamanggagawa, ay gumagawa sa Kanyang bukid, Siya ay gumagawa rin. Anong karapatan at kaluwalhatian na ang mga tao ay maaaring maging kamanggagawa ng Diyos, gumagawang kasama ng Diyos sa Kanyang bukid upang palaguin si Kristo!"
+        },
+        {
+            "id": "9-2",
+            "text": "Lit. pinagyamang lupa. Ang mga mananampalatayang naisilang na muli kay Kristo na may buhay ng Diyos ay ang pinagyamang lupa ng Diyos, isang bukid sa bagong paglikha ng Diyos upang palaguin si Kristo, upang ang mahahalagang materyal ay maibunga para sa gusali ng Diyos. Kaya, tayo ay hindi lamang ang bukid ng Diyos bagkus ang gusali rin ng Diyos. Tayo na pinagsama-sama bilang ang ekklesia ng Diyos ay may Kristo na itinanim sa atin. Si Kristo ay kinakailangang lumago sa atin at mula sa atin ay nagbubunga, sa nais ipakahulugan ng kapitulong ito, hindi ng prutas kundi ng mahahalagang materyal na ginto, pilak, at mahahalagang bato para sa pagtatayo ng tahanan ng Diyos sa lupa. Sa gayon, ang gusali ng Diyos, ang bahay ng Diyos, ang ekklesia, ay ang pagdami ni Kristo, ang pagpapalaki ni Kristo sa Kanyang pagiging hindi nahahangganan."
+        },
+        {
+            "id": "10-1",
+            "text": "Sa Mat. 16:18 sinasabi ng Panginoon na itatayo Niya ang Kanyang ekklesia; gayunpaman sinasabi ng apostol dito na siya ay isang tagapagtayo, maging isang matalinong punong-tagapagtayo. Ito ay nagpapakita na itinatayo ng Panginoon ang ekklesia nang hindi tuwiran kundi sa pamamagitan ng Kanyang mga tagapaglingkod, maging sa pamamagitan ng bawa’t sangkap ng Kanyang Katawan, katulad ng ipinahayag sa Efe. 4:16. Bagama’t sa mga bersikulo 5 hanggang 7 inaamin ng apostol na siya ay hindi mahalaga, hayagan at matapat na sinasabi niya nang malinaw rito na sa pamamagitan ng biyaya ng Diyos siya ay isang matalinong punong-tagapagtayo na naglagay ng namumukod-tanging pundasyon, si Kristo, upang mapagtayuan ng iba."
+        },
+        {
+            "id": "10-2",
+            "text": "Ang ekklesia, ang bahay ng Diyos, ay kinakailangang maitayo sa pamamagitan ng ginto, pilak, at mahahalagang bato, mahahalagang materyal na ibinunga mula sa Kristo na lumago sa atin. Gayunpaman may isang lubhang posibilidad na tayo ay maaaring magtayo sa pamamagitan ng kahoy, damo, at pinaggapasan na ibinunga natin sa laman. Kaya, bawa’t isa sa atin, kasama ang bawa’t sangkap ng Katawan, ay kinakailangang maging maingat kung paano siya nagtatayo, yaon ay, kung anong mga materyal ang kanyang ginagamit sa pagtatayo."
+        },
+        {
+            "id": "11-1",
+            "text": "Bilang ang Kristo at ang Anak ng buháy na Diyos, ang Panginoong Hesu-Kristo ay ang namumukod tanging pundasyon na inilagay ng Diyos para sa pagtatayo ng ekklesia (Mat. 16:16-18). Walang ibang makapaglalagay ng iba pang pundasyon."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang pundasyon ay namumukod-tangi, subali’t ang gusali ay maaaring magkaiba-iba dahil sa iba’t ibang tagapagtayo na may iba’t ibang materyal. Tinanggap ng lahat ng mananampalataya sa Corinto si Kristo bilang pundasyon. Gayunpaman, tinangkang gamitin ng ilang mananampalatayang Hudyo na nasa kalagitnaan nila ang kanilang mga tagumpay o ang kanilang mga naabot sa Hudaismo, at tinangka namang gamitin ng ilang mananampalatayang Griyego ang kanilang pilosopikal na karunungan, upang itayo ang ekklesia. Sila ay hindi katulad ng mga apostol, na nagtayo sa pamamagitan ng kanilang mahusay na kaalaman at mga mayayamang karanasan kay Kristo. Ang layunin ng apostol sa Sulat na ito ay ang bigyan sila ng babala na huwag gamitin sa pagtatayo ng ekklesia ang kanilang likas na pinag-aralan, maging ang Hudaismo o ang Griyegong pilosopiya. Kinakailangan nilang matutuhang magtayo katulad ng ginawa ni Pablo na ginamit kapwa ang pang-obhektibong kaalaman kay Kristo at pansubhektibong karanasan kay Kristo."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang ginto, pilak, at mahahalagang bato ay sumasagisag sa iba’t ibang karanasan kay Kristo sa mga kagalingan at mga katangian ng Tres-unong Diyos. Sa pamamagitan ng mga ito, ang mga apostol at lahat ng mananampalatayang espirituwal ay nagtatayo ng ekklesia sa namumukod-tanging pundasyon ni Kristo. Ang ginto ay sumasagisag sa dibinong kalikasan ng Ama kasama ang lahat ng mga katangian nito, ang pilak ay sumasagisag sa nagtutubos na Kristo kasama ang lahat ng mga kagalingan at mga katangian ng Kanyang Persona at gawa, at ang mahahalagang bato ay sumasagisag sa nagtatranspormang gawain ng Espiritu kasama ang lahat ng mga katangian nito. Ang lahat ng mahahalagang materyal ay mga bunga ng ating pakikilahok at pagtatamasa kay Kristo sa ating espiritu sa pamamagitan ng Espiritu Santo. Tanging ang mga ito ang mabuti para sa pagtatayo ng Diyos."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang kahoy, damo, at pinaggapasan ay sumasagisag sa kaalaman, pagkatanto, at mga pinag-aralan na nanggagaling sa likas na pinanggalingang karanasan ng mga mananampalataya (kagaya ng Hudaismo o ibang relihiyon, pilosopiya, kultura) at sa likas na paraan ng pamumuhay (na kalimitang nasa kaluluwa at nasa likas na buhay). Ang kahoy ay kabaligtaran ng ginto, sumasagisag sa kalikasan ng natural na tao; ang damo ay kabaligtaran ng pilak, sumasagisag sa natisod na tao, ang taong-laman (I Ped. 1:24), ang taong hindi natubos ni Kristo at hindi naisilang na muli; at ang pinaggapasan ay kabaligtaran ng mahahalagang bato, sumasagisag sa gawain at pamumuhay na lumalabas sa makalupang pinagmulan, walang anumang transpormasyon ng Espiritu Santo. Ang lahat ng walang halagang bagay na ito ay ang kinalalabasan ng likas na katauhan ng mga mananampalataya kasama ang kanilang natipon sa kanilang pinag-aralan at pinanggalingan. Sa ekonomiya ng Diyos ang mga bagay na ito ay angkop lamang upang sunugin (b. 13)."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang araw ng ikalawang pagdating ni Kristo, kapag Siya ay hahatol sa lahat ng Kanyang mga mananampalataya (4:5; Mat. 25:19-30; II Cor. 5:10; Apoc. 22:12)."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang apoy ng paghahatol ng Panginoon (Mal. 3:2; 4:1; II Tes. 1:6; Heb. 6:8), na magsasanhi sa bawa’t gawain ng mananampalataya na mahayag, at maglilitis at susubok sa kanyang gawain. Ito ay hindi ang apoy ng purgatoryo katulad ng maling pagpapakahulugan ng Katolisismo. Ang lahat ng gawa sa kahoy, damo, at pinaggapasan ay hindi makatatagal sa pagsubok at masusunog."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang mananatiling gawa ay nararapat na maging sa ginto, pilak, at mahahalagang bato, ang bunga ng matatapat na tagapaglingkod ni Kristo. Ang gayong gawa ay gagantimpalaan ng darating at maghahatol na Panginoon."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang gantimpala ay batay sa gawain ng mananampalataya pagkatapos maligtas. Ito ay naiiba sa kaligtasan, na batay sa pananampalataya sa Panginoon at sa Kanyang nagtutubos na gawain. Tingnan ang tala 35-1 sa Hebreo 10."
+        },
+        {
+            "id": "15-1",
+            "text": "Tumutukoy sa gawa sa kahoy, damo, at pinaggapasan, na angkop lamang na sunugin."
+        },
+        {
+            "id": "15-2",
+            "text": "Tumutukoy sa pagkawala ng gantimpala, hindi sa pagkawala ng kaligtasan. Ang malugi rito ay lubusang hindi nangangahulugang mapahamak sa dagat-dagatang apoy."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang kaligtasang tinanggap natin kay Kristo ay hindi sa pamamagitan ng ating mga gawa (Tito 3:5) at ito ay walang hanggan, hindi nababago sa kalikasan (Heb. 5:9; Juan 10:28-29). Kaya, yaong mga mananampalataya na ang mga gawaing bilang Kristiyano ay hindi masasang-ayunan ng maghahatol na Panginoon at magdurusa ng pagkawala ng gantimpala ay maliligtas pa rin mula sa dagat-dagatang apoy. Ang pagliligtas ng Diyos sa lahat ng mga mananampalataya bilang isang kaloob na walang bayad ay hanggang sa kawalang-hanggan; samantalang ang gantimpala ng Panginoon sa mga mananampalataya (hindi lahat) na ang mga gawain bilang Kristiyano ay sinang-ayunan Niya ay para sa kapanahunan ng kaharian. Ang gantimpala ay isang pangganyak para sa kanilang gawain bilang Kristiyano. Tingnan ang tala 28-1 sa Hebreo 12."
+        },
+        {
+            "id": "15-4",
+            "text": "Bagama’t maliligtas yaong mga mananampalataya na ang mga gawain bilang Kristiyano ay hindi sasang-ayunan ng Panginoon sa Kanyang pagbabalik, sila ay maliligtas tulad sa pamamagitan ng apoy. Ang “sa pamamagitan ng apoy” ay tiyak na nagpapahiwatig ng kaparusahan. Gayunpaman, ito ay lubusang hindi ang purgatoryo na maling itinuturo ng Katolisismo sa kanilang mapamahiing pagsisipi ng bersikulong ito. Gayunpaman, ang salitang ito ay dapat maging isang mataimtim na babala sa atin sa ngayon hinggil sa ating mga gawain bilang Kristiyano."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang isang templo ng Diyos ay tumutukoy sa mga mananampalataya nang sama-sama sa isang lokalidad na katulad ng Corinto; samantalang ang templo ng Diyos sa bersikulo 17 ay tumutukoy sa lahat ng mga mananampalataya sa sansinukob. Ang namumukod- tanging espirituwal na templo ng Diyos sa sansinukob ay may kanyang kahayagan sa maraming lokalidad sa lupa. Bawa’t kahayagan ay isang templo ng Diyos sa lokalidad na yaon."
+        },
+        {
+            "id": "17-1",
+            "text": "O, sirain, pasamain, parumihin, pinsalain. Ang gibain ang templo ng Diyos ay nangangahulugang magtayo sa pamamagitan ng mga walang halagang materyal na kahoy, damo, at pinaggapasan, katulad ng inilarawan sa bersikulo 12. Ito ay tumutukoy sa ilang mananampalatayang Hudyo na nagtangkang itayo ang ekklesia sa pamamagitan ng mga elemento ng Hudaismo, at sa ilang mananampalatayang Griyego na nagsikap na dalhin ang mga pilosopikal na elemento sa loob ng pagtatayo ng ekklesia. Ang lahat ng ito ay makasasama, makasisira, makarurumi, at makapipinsala sa templo ng Diyos, yaon ay, ang gibain ito. Ang paggamit ng anumang doktrinang naiiba sa mga pagtuturong pundamental ng mga apostol (Gawa 2:42), o anumang mga paraan at mga pagsisikap na kasalungat ng kalikasan ng Diyos, ng nagtutubos na gawain ni Kristo, at ng nagtatranspormang gawain ng Espiritu ay nagpapasama, sumisira, dumurumi, pumipinsala at gumigiba sa ekklesia ng Diyos."
+        },
+        {
+            "id": "17-2",
+            "text": "Ipinahihiwatig nito ang kaparusahang inihayag sa bersikulo 15. Ang lahat ng mga nagpasama, sumira, nagparumi, at puminsala sa ekklesia ng Diyos sa pamamagitan ng kanilang mga taliwas at maling doktrina, mga mapagbaha-bahaging pagtuturo, makasanlibutang paraan, at natural na kakayahan sa pagtatayo ay magdurusa ng kaparusahan ng Diyos."
+        },
+        {
+            "id": "17-3",
+            "text": "Yamang ang templo ng Diyos, ang ekklesia, ay banal, ang mga materyal, ang mga paraan, at ang mga kakayahan, na sa pamamagitan ng mga ito tayo ay nagtatayo, ay kinakailangang maging banal din, tumutugma sa kalikasan ng Diyos, sa pagtutubos ni Kristo, at sa pagtatransporma ng Espiritu."
+        },
+        {
+            "id": "17-4",
+            "text": "Ang templong ito ay tumutukoy sa “banal” na templo. Ang salitang binibigyang-diin dito ay “banal” at hindi ang “templo” Ang binibigyang-diin sa bersikulo 16 ay ang “templo”, samantalang ang binibigyang-diin sa bersikulo 17 ay ang banal na katangian ng templo. Ito ay upang paalalahanan ang mga karumal-dumal na mananampalatayang taga-Corinto na maging banal, taglayin ang banal na katangian ng templo ng Diyos."
+        },
+        {
+            "id": "18-1",
+            "text": "Dinaraya ng kapwa mga maningas sa Hudaismo na mananampalatayang Hudyo at mga namimilosopong mananampalatayang Griyego ang kanilang mga sarili sa pagdadala ng mga elemento ng Hudaismo at pilosopiyang Griyego sa loob ng pagtatayo ng ekklesia."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang kaisipan ng apostol dito ay tumutuon lamang sa mga mananampalatayang Griyego na lubhang nagpapahalaga sa karunungan ng kanilang pilosopiya (1:22)."
+        },
+        {
+            "id": "18-3",
+            "text": "Ang magpakamangmang dito ay ang talikdan ang karunungan ng pilosopiya at tanggapin ang payak na salita hinggil kay Kristo at sa Kanyang krus (1:21, 23)."
+        },
+        {
+            "id": "18-4",
+            "text": "Ang maging marunong dito ay ang kunin ang karunungan ng Diyos upang hayaan si Kristo na maging lahat-lahat sa atin (1:24, 30; 2:6-8)."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang lahat ng mga bagay, kabilang na ang sanlibutan at kamatayan, ay atin at gumagawa ng mabuti para sa atin (Roma 8:28). Ang mga mananampalatayang taga-Corinto ay nagsabing sila ay kay Pablo, o kay Apolos o kay Cefas (1:12), subali’t sinabi ni Pablo na siya, si Apolos at si Cefas ay pawang kanila; ang lahat ay kanila. Sila ang ekklesia, at ang lahat ng mga bagay ay para sa ekklesia. Ang ekklesia ay para kay Kristo, at si Kristo ay para sa Diyos."
         }
     ]
 }

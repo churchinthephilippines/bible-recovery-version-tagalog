@@ -1,5 +1,5 @@
 {
-    "chapter": 10,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "pintuan",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "kulungan",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "magnanakaw",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": [
@@ -37,7 +37,7 @@
             "footnotes": [
                 {
                     "word": "tupa",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -78,11 +78,11 @@
             "footnotes": [
                 {
                     "word": "pintuan;",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pastulan.",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -93,7 +93,7 @@
             "footnotes": [
                 {
                     "word": "buhay,",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": [
@@ -107,7 +107,7 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -136,7 +136,7 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -147,11 +147,11 @@
             "footnotes": [
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -162,7 +162,7 @@
             "footnotes": [
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -197,7 +197,7 @@
             "footnotes": [
                 {
                     "word": "kapistahan",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": [
@@ -223,7 +223,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -246,15 +246,15 @@
             "footnotes": [
                 {
                     "word": "walang",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "kailanman",
-                    "note": ""
+                    "id": "28-2"
                 },
                 {
                     "word": "Aking",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -265,7 +265,7 @@
             "footnotes": [
                 {
                     "word": "kamay",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -276,7 +276,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -319,7 +319,7 @@
             "footnotes": [
                 {
                     "word": "isinugo",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -348,7 +348,7 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "40-1"
                 }
             ],
             "outlines": [
@@ -368,10 +368,92 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 9-1 . Gayundin sa kasunod na bersikulo."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang kulungan ng mga tupa ay sumasagisag sa kautusan, o sa Hudaismo bilang relihiyon ng kautusan, kung saan ang mga piniling tao ng Diyos ay iningatan at binantayan at pinamahalaan hanggang sa dumating si Kristo."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang “mga magnanakaw at mga tulisan” (b.8) ay sumasagisag sa mga nagsipasok sa Hudaismo, nguni’t hindi sa pamamagitan ni Kristo."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang lalakeng bulag na nakatanggap ng paningin sa nagdaang kapitulo ay isang gayong tupa. Siya ay naakay ng Panginoon palabas sa kulungan ng Hudaismo. Ito ang dahilan kung bakit karugtong ng kapitulo 9 ang kapitulo 10."
+        },
+        {
+            "id": "9-1",
+            "text": "Si Kristo ang pintuan, hindi lamang para sa mga hinirang ng Diyos na makapasok tungo sa pangangalaga ng kautusan, katulad ng pagkapasok nina Moises, David, Isaias, Jeremias, atbp., sa panahon ng Lumang Tipan bago dumating si Kristo; bagkus para rin sa mga hinirang na tao ng Diyos, katulad nina Pedro, Juan, Santiago, Pablo, atbp., upang lumabas sa kulungan ng kautusan pagkaraan ng pagdating ni Kristo. Ipinakikita rito ng Panginoon na Siya ang pintuan hindi lamang upang makapasok ang mga hinirang ng Diyos bagkus para rin sa mga hinirang ng Diyos na makalabas."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang pastulan dito ay sumasagisag kay Kristo bilang lugar-kainan ng mga tupa. Kapag ang pastulan ay hindi maaaring magamit sa panahon ng taglamig o sa gabi, ang mga tupa ay dapat na nasa kulungan. Kapag ang pastulan ay handa na, hindi na kailangang panatilihin pa sa kulungan ang mga tupa. Ang panatilihin ang mga tupa sa kulungan ay transitoryo at pansamantala lamang. Ang mapasapastulan upang matamasa ang lahat ng kayamanan nito ay panghuli at permanente. Bago dumating si Kristo, ang kautusan ay isang kulungan, at ang mapasailalim ng kautusan ay pansamantala. Ngayon, yamang si Kristo ay dumating na, ang lahat ng mga hinirang na tao ng Diyos ay dapat lumabas sa kautusan at pumasok tungo sa loob Niya upang tamasahin Siya bilang kanilang pastulan (Gal. 3:23-25; 4:3-5). Ito ay panghuli at permanente. Ang mga pinuno ng Hudaismo ay walang ganitong pahayag. Inakala nila na ang kautusan ay permanente. Kaya, nawala nila si Kristo at hindi nagkaroon ng bahagi sa Kanyang pastulan."
+        },
+        {
+            "id": "10-1",
+            "text": "Gr. zoe , buhay, ito ang salitang Griyego na ginamit sa Bagong Tipan para sa walang hanggang dibinong buhay."
+        },
+        {
+            "id": "11-1",
+            "text": "Gr. psuche , kaluluwa, yaon ay, ang pangkaluluwang buhay. Bilang tao, ang Panginoon ay may buhay na psuche , ang pantaong buhay, at bilang Diyos, Siya ay may buhay na zoe , ang dibinong buhay. Ibinigay Niya ang Kanyang kaluluwa, ang Kanyang buhay na psuche , ang Kanyang pantaong buhay, upang maisagawa Niya ang katubusan para sa Kanyang mga tupa (bb. 15,17-18) nang sa gayon sila ay makabahagi sa Kanyang buhay na zoe , ang Kanyang dibinong buhay (b.10), ang walang hanggang buhay (b. 28), na sa pamamagitan nito sila ay mabuong isang kawan na mapasasailalim Niya na Pastol. Bilang ang mabuting Pastol, pinakakain Niya ang Kanyang mga tupa ng dibinong buhay sa ganitong pamamaraan at para sa ganitong layunin."
+        },
+        {
+            "id": "15-1",
+            "text": "Tingnan ang tala 11-1 ."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang “ibang tupa” ay tumutukoy sa mga mananampalatayang Hentil (Gawa 11:18)."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang “isang kawan” ay sumasagisag sa isang ekklesia, ang nag-iisang Katawan ni Kristo (Efe. 2:14-16; 3:6), na isinilang ng walang hanggan at dibinong buhay na ipinamahagi ng Panginoon sa Kanyang mga sangkap sa pamamagitan ng Kanyang kamatayan (bb. 10-18). Ang kulungan ng mga tupa ay ang Hudaismo na binubuo ng mga titik at mga kautusan at ang kawan ay ang ekklesia na buháy at espirituwal."
+        },
+        {
+            "id": "17-1",
+            "text": "Tingnan ang tala 11-1 ."
+        },
+        {
+            "id": "22-1",
+            "text": "Noong 170-168 B.C. , nilusob ni Antiochus Epiphanus, hari ng Assyria, ang Herusalem at linimas ang templo. Noong Disyembre 25, 168 B.C., dinungisan pa niya ang templo sa pamamagitan ng paghahain ng maruming baboy sa ibabaw ng dambana at pagtatayo ng mga diyus-diyusan sa templo. Pagkalipas ng tatlong taon, noong 165 B.C., ipinalinis nang husto at ipinatayong muli ni Hudas Maccabeo na isang mandirigmang Hudyo ang dambana at ang templo. Itinalaga niya ang Disyembre 25, ang araw kung kailan ang dambana at ang templo ay dinungisan, bilang isang pistang opisyal. Ito ay sinundan ng walong araw ng pagsasaya upang ipagdiwang ang dakilang gawa ng paglilinis ng dambana at ng templo. Ang bersikulong ito ay tumutukoy sa kung ano ang nasabi ukol sa kapistahan ng pagtatalaga ng templo."
+        },
+        {
+            "id": "25-1",
+            "text": "Tingnan ang tala 43-1 sa kap. 5."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang walang hanggang buhay (tingnan ang tala 15-1 sa kapitulo 3) ay para sa pamumuhay ng mga mananampalataya. Iniuunat ng Ama sa Kanyang pag-ibig ang Kanyang pumipiling kamay ayon sa Kanyang layunin (17:23; 6:38-39) at iniuunat ng Anak sa pamamagitan ng Kanyang biyaya ang Kanyang nagliligtas na kamay (1:14; 6:37) upang isagawa ang layunin ng Ama. Kapwa ay may kapangyarihang mag-ingat para sa proteksiyon ng mga mananampalataya. Ang walang hanggang buhay kailanman ay hindi matutuyo at mapapatid at ang mga kamay ng Anak at ng Ama ay hindi mabibigo. Samakatuwid, ang mga mananampalataya ay magpakailanmang nakaseguro at hindi mapapahamak."
+        },
+        {
+            "id": "29-1",
+            "text": "Tingnan ang tala 28-1 ."
+        },
+        {
+            "id": "30-1",
+            "text": "Ipinahahayag dito ng Panginoon ang Kanyang pagka-Diyos, na Siya ang Diyos (b. 33; 5:18; 1:1; 20:28; I Juan 5:20; Fil. 2:6)."
+        },
+        {
+            "id": "36-1",
+            "text": "Tingnan ang tala 6-1 sa kap. 1."
+        },
+        {
+            "id": "40-1",
+            "text": "Mula rito, iniwan ng Panginoon ang templo at pumunta sa mismong lugar kung saan ginawa ni Juan Bautista ang Bagong Tipang patotoo para sa Kanya. Ito ay sumasagisag na iniwan na Niya ang Hudaismo at pumaroon sa bagong kinatatayuan, kung saan marami ang nanampalataya tungo sa loob Niya."
+        },
+        {
+            "id": "42-1",
+            "text": "Lit. tungo sa loob Niya."
         }
     ]
 }

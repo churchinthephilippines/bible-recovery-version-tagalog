@@ -1,5 +1,5 @@
 {
-    "chapter": 19,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -26,11 +26,11 @@
             "footnotes": [
                 {
                     "word": "tinutukso",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "ihiwalay",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": [
@@ -44,7 +44,7 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -67,7 +67,7 @@
             "footnotes": [
                 {
                     "word": "ipinag-",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -78,7 +78,7 @@
             "footnotes": [
                 {
                     "word": "pasimula",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -89,15 +89,15 @@
             "footnotes": [
                 {
                     "word": "pakikiapid,",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pangangalunya;",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "at",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -108,7 +108,7 @@
             "footnotes": [
                 {
                     "word": "ganyan",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -119,7 +119,7 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": null
@@ -130,11 +130,11 @@
             "footnotes": [
                 {
                     "word": "na",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -154,7 +154,7 @@
             "footnotes": [
                 {
                     "word": "gayon",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -171,7 +171,7 @@
             "footnotes": [
                 {
                     "word": "magkaroon",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": [
@@ -185,19 +185,19 @@
             "footnotes": [
                 {
                     "word": "Iisa",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "mabuti.",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "pumasok",
-                    "note": ""
+                    "id": "17-3"
                 },
                 {
                     "word": "sundin",
-                    "note": ""
+                    "id": "17-4"
                 }
             ],
             "outlines": null
@@ -226,11 +226,11 @@
             "footnotes": [
                 {
                     "word": "sakdal,",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "sumunod",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -241,7 +241,7 @@
             "footnotes": [
                 {
                     "word": "namamanglaw,",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -258,11 +258,11 @@
             "footnotes": [
                 {
                     "word": "Higit",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -273,7 +273,7 @@
             "footnotes": [
                 {
                     "word": "maliligtas?",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -284,11 +284,11 @@
             "footnotes": [
                 {
                     "word": "imposible,",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "posible.",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -308,11 +308,11 @@
             "footnotes": [
                 {
                     "word": "pagpapanumbalik,",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "hahatulan",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": null
@@ -323,15 +323,15 @@
             "footnotes": [
                 {
                     "word": "tatanggap",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "makasandaan",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "magmamana",
-                    "note": ""
+                    "id": "29-3"
                 }
             ],
             "outlines": null
@@ -342,10 +342,132 @@
             "footnotes": [
                 {
                     "word": "nauuna",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "3-1b",
+            "text": "Hindi tinigilan ng mga relihiyonista ang Panginoon kundi lumapit nang paulit-ulit upang tuksuhin Siya. Gayon pa man, ang kanilang panunukso ay laging nagbibigay sa Panginoon ng pagkakataon na ihayag ang Kanyang Sarili at ang ekonomiya ng Diyos."
+        },
+        {
+            "id": "3-2",
+            "text": "Gr. palayain. Gayundin sa mga sumusunod na bersikulo."
+        },
+        {
+            "id": "4-1",
+            "text": "Mula rito hanggang sa katapusan ng bersikulo 6, ang salita ng Panginoon ay hindi lamang nagpapakilala ng paglikha ng Diyos sa tao, bagkus pinagtitibay rin ang pagtatalaga ng Diyos sa pag-aasawa ng tao, yaon ay, isang lalake sa isang babae na pagsamahin sa iisang pamatok, bilang isang laman na hindi mapaghihiwalay ng tao."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang utos na ito ay hindi isang bahagi ng pangunahing kautusan, kundi isang kapupunan ng kautusan. Ito ay ibinigay ni Moises, hindi ayon sa pagtatalaga ng Diyos buhat sa simula, kundi nang pansamantala dahil sa katigasan ng puso ng tao."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang utos hinggil sa pagdidiborsiyo na ibinigay ni Moises ay isang paglihis mula sa orihinal na pagtatalaga ng Diyos, subalit para sa kaharian ng mga kalangitan, si Kristo bilang ang makalangit na Hari ay ipinanumbalik ito katulad ng sa pasimula. Ito ay tumutukoy na ang kaharian ng mga kalangitan, tumutugma sa pagtatalaga ng Diyos buhat sa pasimula, ay hindi nagpapahintulot ng anumang diborsiyo."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang Griyegong salita para sa “pakikiapid” ay nangangahulugang pagkapatotot, gawain ng mga kalapating mababa ang lipad na higit na masama kaysa pangangalunya. Ang salita ng Panginoon dito ay tiyakang tumutukoy na walang makasisira sa pagkakatali ng pag-aasawa kundi ang pakikiapid. (Mangyari pa, kusang puputulin ng kamatayan ang relasyong ito.) Kaya maliban sa pakikiapid, wala nang dahilan para sa paghihiwalay."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang mga sumusunod na salita, sa katapusan ng bersikulo, ay nilaktawan ng ilang matandang awtoridad."
+        },
+        {
+            "id": "10-1",
+            "text": "Ngayon ay natatanto na ng mga disipulo na ayon sa pagtatalaga ng Diyos, ang pag-aasawa ay ang pinakamahigpit na tali. Kapag ang isa ay nag-asawa, siya ay lubusan nang natalian, na walang anumang paraan upang mapalaya, maliban sa pakikiapid ng kabilang panig (o kamatayan ng kabiyak). Yaon ay isang pagkatanto na nagsanhi sa mga disipulo na isiping mabuti pang huwag nang mag-asawa. Ngunit ito ay hindi nasasakanila."
+        },
+        {
+            "id": "11-1",
+            "text": "Hindi lahat ng tao, kundi yaon na kung kanino ibinigay ng Diyos ang kaloob, ang may kakayahang magtimpi mula sa pag-aasawa. Kung walang kaloob ng Diyos, anumang pagsusumikap na manatiling walang asawa ay makatatagpo lamang ng mga tukso."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang mga ito ay yaong kung kanino ibinigay ng Diyos ang kaloob na huwag mag-asawa para sa kapakanan ng kaharian ng mga kalangitan. Si Pablo ay gayong isa (1 Cor. 7:7-8; 9:5)."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang mga panunukso ng mga relihiyonista rito ay nagbigay ng pagkakataon sa Panginoon na mahayag ang higit pang bagay tungkol sa kaharian ng mga kalangitan. Ang kapitulo 18 ay naghahayag kung paano tayo dapat makitungo sa mga kapatid upang tayo ay makapasok sa kaharian ng mga kalangitan, samantalang ang kapitulong ito ay nagpapahayag na unang-una, ang buhay may-asawa (bb. 3-12) at pagkatapos ang ating saloobin tungo sa kayamanan (bb. 16-30) ay may kaugnayan sa kaharian ng mga kalangitan. Napapaloob ang pita sa buhay may-asawa at napapaloob naman ang pag-iimbot sa ating saloobin tungo sa kayamanan. Pinapawi ng kaharian ng mga kalangitan ang bawat bakas ng ating pita ng ating laman at pag-iimbot."
+        },
+        {
+            "id": "14-1",
+            "text": "Dito muling binibigyang-diin ng Panginoon na upang makalahok sa kaharian ng mga kalangitan, tayo ay kinakailangang maging tulad ng maliliit na bata."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang “magkaroon ng buhay na walang hanggan” sa Mateo ay naiiba sa pagkakaroon ng buhay na walang hanggang sa Juan. Tinatalakay ng Mateo ang ukol sa kaharian; samantalang tinatalakay naman ng Juan ang ukol sa buhay. Ang magkaroon ng buhay na walang hanggang sa Juan ay ang mailigtas ng di-nilikhang buhay ng Diyos upang ang tao ay makapamuhay sa pamamagitan ng buhay na ito mula ngayon hanggang sa kawalang hanggan; samantalang ang magkaroon ng buhay na walang-hanggan sa Mateo ay ang makibahagi sa realidad ng kaharian ng mga kalangitan sa kapanahunang ito at makilahok sa pagpapakita nito sa darating na kapanahunan, nang sa gayon magkaroon ng higit na masaganang katamasahan sa walang hanggang buhay ng Diyos."
+        },
+        {
+            "id": "17-1",
+            "text": "Itong “Iisa” ay ang Diyos. Tanging Diyos lamang ang mabuti. Ito ay hindi lamang tumutukoy na ang binatang nagtatanong ay hindi mabuti bagkus gayon din ang Panginoong Hesus ay ang Diyos na Siyang mabuti. Kung hindi Siya ang Diyos, hindi rin Siya magiging mabuti."
+        },
+        {
+            "id": "17-2a",
+            "text": "Gr. ang mabuti."
+        },
+        {
+            "id": "17-3b",
+            "text": "Ang “pumasok tungo sa buhay” rito ay nangangahulugang “makapasok sa kaharian ng mga kalangitan” (b. 23). Ang kaharian ng mga kalangitan ay ang pinaghaharian ng walang hanggangg buhay ng Diyos. Kaya, kapag tayo ay pumapasok tungo rito, tayo ay pumapasok tungo sa buhay ng Diyos. Ito ay naiiba sa pagiging ligtas. Ang maligtas ay ang magkaroon ng buhay ng Diyos na pumapasok sa loob natin; samantalang ang pumasok tungo sa kaharian ng mga kalangitan ay ang makapasok tungo sa buhay ng Diyos, tamasahin ang kasaganaan ng buhay ng Diyos. Ang maligtas ay ang maging natubos at naisilang na muli ng buhay ng Diyos; ang makapasok sa kaharian ng mga kalangitan ay ang mabuhay at lumakad sa pamamagitan ng buhay ng Diyos. Ang isa ay isang bagay ng kapanganakan; ang isa naman ay isang bagay ng pamumuhay. Tingnan ang tala 16-1."
+        },
+        {
+            "id": "17-4c",
+            "text": "Ito ay hindi ang kahilingan para sa kaligtasan; ito ay nauugnay sa pagpasok tungo sa kaharian ng mga kalangitan. Ayon sa saligang-batas ng kaharian ng mga kalangitan, ang pagpasok sa kaharian ng mga kalangitan ay nangangailangan sa atin na hindi lamang maabot ang pamantayan ng lumang kautusan, bagkus ang pamantayan din ng idinagdag na bagong kautusan ng Hari (5:17-48). Ang kaligtasan ay nangangailangan lamang ng pananampalataya; samantalang ang pagpasok sa kaharian ng mga kalangitan ay nangangailangan ng lumalampas na katuwiran na nagreresulta mula sa pagtupad ng lumang kautusan kasama ang karagdagang kautusan nito na ibinigay ng makalangit na Hari."
+        },
+        {
+            "id": "21-1a",
+            "text": "Kahit na ang binata ay sumunod sa mga utos ng lumang kautusan, gaya ng kanyang pag-aakala, siya ay hindi pa rin “sakdal,” hindi pa umabot sa pamantayan ng kahilingan ng idinagdag na bagong kautusan, sapagkat hindi siya sumasangayon na ipagbili ang kanyang ari-arian at maglagak ng kayamanan sa langit, kagaya ng hinihiling ng saligang-batas ng kaharian (6:19-21)."
+        },
+        {
+            "id": "21-2d",
+            "text": "Ang sumunod sa Panginoon ay ang magmahal sa Kanya nang higit sa lahat ng bagay (10:37-38). Ito ang pinakamataas na kahilingan upang makapasok tungo sa kaharian ng mga kalangitan."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang pagmamahal sa mga materyal na ari-arian nang higit kaysa sa Panginoon ay nagdudulot kaninuman ng kapanglawan subalit yaong mga nagmamahal kay Kristo nang higit sa lahat ng bagay, kahit na mawalan ng kanilang mga ari-arian, ay nananatili pa ring nagagalak (Heb. 10:34)."
+        },
+        {
+            "id": "24-1",
+            "text": "Ipinakikita ng salita rito ng Panginoon ang pagiging imposible ng pagpasok tungo sa kaharian ng Diyos sa pamamagitan ng ating likas na buhay."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang “kaharian ng Diyos” sa bersikulong ito ay ginagamit sa halip ng kaharian ng mga kalangitan sa bersikulo 23. Nang sinasalita ng Panginoon ang salitang ito, ang kaharian ng mga kalangitan ay hindi pa dumarating, ngunit ang kaharian ng Diyos ay naroroon na. Kaya, ginamit ng Panginoon ang katawagang “kaharian ng Diyos.”"
+        },
+        {
+            "id": "25-1",
+            "text": "Hindi natatanto ng mga disipulo, kagaya ng karamihang Kristiyano sa ngayon, ang kaibhan ng “kaligtasan” sa “kaharian ng mga kalangitan.” Ang salita ng Panginoon sa binata ay hinggil sa pagpasok tungo sa kaharian ng mga kalangitan (bb. 23-24), subalit nag-akala ang mga disipulo na ang tinalakay ay tungkol sa kaligtasan. Sila ay may likas at karaniwang kaisipan ng pagiging ligtas. Hindi nila naunawaan ang pahayag ng Panginoon hinggil sa pagpasok tungo sa kaharian ng mga kalangitan."
+        },
+        {
+            "id": "26-1",
+            "text": "Sa pamamagitan ng ating pantaong buhay, ang pumasok tungo sa kaharian ng mga kalangitan ay “imposible,” ngunit ito ay “posible” sa pamamagitan ng dibinong buhay ng Diyos, na si Kristo Mismo, na ibinahagi tungo sa atin upang tayo ay makapamuhay ng buhay ng kaharian. Tayo ay makatutupad sa mga kahilingan ng kaharian sa pamamagitan ni Kristo, na Siyang nagbibigay-kapangyarihan sa atin na gumawa ng lahat ng bagay (Fil. 4:13)."
+        },
+        {
+            "id": "28-1a",
+            "text": "Ito ang pagpapanumbalik ng darating na kapanahunan ng kaharian (Gawa 3:21) pagkaraan ng ikalawang pagdating ng Panginoon."
+        },
+        {
+            "id": "28-2e",
+            "text": "Sa darating na kaharian, ang mga mandaraig ay luluklok sa mga trono upang maghari sa buong lupa (Apoc. 20:4). Ang unang labindalawang apostol, kasama si Pedro, ay “hahatol sa labindalawang lipi ng Israel,” samantalang ang ibang mandaraig ay mamamahala sa mga bansa (Apoc. 2:26)."
+        },
+        {
+            "id": "29-1",
+            "text": "Ang makatanggap ng makasandaan, mga bahay, mga lupa, at mga kamag-anak, ay ang magantimpalaan sa kapanahunang ito (Marc. 10:30). Ito ay tumutukoy sa pangkasalukuyang pagtatamasa ng mga kapatid na nasa loob ng Panginoon at kasabay na rin nito ang pagtatamasa sa kanilang mga ari-arian."
+        },
+        {
+            "id": "29-2",
+            "text": "Ilang matandang awtoridad ay binabasa, marami at iba’t iba."
+        },
+        {
+            "id": "29-3",
+            "text": "Ang “magmana ng buhay na walang hanggan” ay ang magantimpalaan sa pagpapakita ng darating na kaharian ng mga kalangitan (Luc. 18:29-30), na may pagtatamasa ng dibinong buhay na higit na masagana kaysa sa pagtatamasa sa kapanahunan ngayon bilang gantimpala."
+        },
+        {
+            "id": "30-1a",
+            "text": "Tingnan ang tala 16-1 sa kap. 20."
         }
     ]
 }

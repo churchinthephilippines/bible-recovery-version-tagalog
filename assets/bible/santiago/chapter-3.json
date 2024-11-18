@@ -1,5 +1,5 @@
 {
-    "chapter": 3,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "guro",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "hatol.",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -42,7 +42,7 @@
             "footnotes": [
                 {
                     "word": "apoy!",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -53,15 +53,15 @@
             "footnotes": [
                 {
                     "word": "apoy,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "pagdaraanan",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "Gehenna.",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -72,7 +72,7 @@
             "footnotes": [
                 {
                     "word": "kalikasan;",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -83,7 +83,7 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -112,7 +112,7 @@
             "footnotes": [
                 {
                     "word": "maalat",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -123,15 +123,15 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "gawa",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "kaamuan",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": [
@@ -150,11 +150,11 @@
             "footnotes": [
                 {
                     "word": "karunungang",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "makalupa,",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -171,15 +171,15 @@
             "footnotes": [
                 {
                     "word": "karunungang",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "mapagbata,",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "madaling",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
@@ -190,14 +190,92 @@
             "footnotes": [
                 {
                     "word": "bunga",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "ng",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Madali para sa mga guro ang makapagdala ng iba’t ibang pagtuturo na nagbubunga ng iba’t ibang opinyon at nagsasanhi ng gulo at pagkakabaha-bahagi (cf. 2 Tim. 4:3; 1 Tim. 1:3-4, 7; Efe. 4:14)."
+        },
+        {
+            "id": "1-2",
+            "text": "Anuman ang ating sinasabi ay hahatulan, at tayo ay hahatulan sa pamamagitan ng ating salita (Mat. 12:36-37)."
+        },
+        {
+            "id": "5-1",
+            "text": "Isang di-mapigilang apoy na may kapangyarihang kumalat."
+        },
+        {
+            "id": "6-1",
+            "text": "Isang masamang apoy mula sa Gehenna na humahawa sa atin. Katulad ng di-mapigilang apoy, ikinakalat ng dila ang kanyang paninira, at katulad ng masamang apoy, hinahawahan nito ang ating buong katawan ng mga kasamaan mula sa Gehenna."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang Griyegong salita para sa pagdaraanan ay trochos , tumutukoy nang pagkalahatan sa anumang bagay na bilog o sirkular na tumatakbo o gumugulong, katulad ng gulong. Kapag ginamit nang patalinghaga, ito ay tumutukoy sa isang sirkuwito ng mga pisikal na epekto, isang pagdaraanan, katulad ng orbita sa palibot ng araw. Ang salita para sa buhay ay genesis , nangangahulugang pinagmulan, kapanganakan, paglikha; kaya, ang gulong ng kapanganakan, tumutukoy nang patalinghaga sa ating pantaong buhay, na pinakilos sa panahon ng kapanganakan nito at tumatakbo hanggang sa katapusan nito. Ang dila bilang isang masamang apoy mula sa Gehenna ay nagpapaliyab sa ating pantaong buhay, tulad ng isang gulong, mula sa ating kapanganakan hanggang sa ating kamatayan, upang ang pagdaraanan ng ating buong buhay ay mapasailalim nang buung-buo sa masamang paghahawa at pagpapasama ng dila."
+        },
+        {
+            "id": "6-3",
+            "text": "Sumasagisag sa dagat-dagatang apoy (Apoc. 20:15). Tingnan ang tala 22-8 sa Mateo 5."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang bawat kalikasan ng mga hayop sa lupa, ng mga ibon sa himpapawid, ng mga reptilyang gumagapang sa alabok, at ng mga kinapal sa tubig, ay napaamo ng kalikasan ng tao, na higit na malakas kaysa kalikasan ng mga hayop. Gayunpaman, maging ang higit na malakas na pantaong kalikasan ay walang kakayahang paamuin ang dila."
+        },
+        {
+            "id": "8-1",
+            "text": "Bilang isang masama na hindi nagpapahinga ang dila ay hindi kailanman tumitigil sa paggawa ng masama. Ito ay punung-puno ng nakamamatay na lason. Ang kasamaan at kamatayan ay kasamahan ng dila. Ito ay nagkakalat ng kasamaan at kamatayan upang hawahan at lasunin ang lahat ng mga tao. Maging sa gitna ng mga Kristiyano ay gayundin naman."
+        },
+        {
+            "id": "12-1",
+            "text": "Sa mga bersikulo 3-12, sa pagtatalakay ng suliranin sa dila, si Santiago sa kanyang karunungan hinggil sa pantaong buhay ay gumamit ng dalawampung iba’t ibang bagay para sa kanyang mga paglalarawan: mga bokado ng mga kabayo, mga ugit ng mga daong, di-mapigilang apoy, ang sanlibutan ng kawalan ng katuwiran, apoy mula sa Gehenna, pagdaraanan ng buhay, mga hayop, mga ibon, mga reptilya, mga kinapal ng dagat, pantaong kalikasan, masamang hindi nagpapahinga, lasong nakamamatay, isang bukal, isang puno ng igos, mga oliba, isang puno ng ubas, mga igos, maalat (mapait) na tubig, at matamis na tubig. Siya ay mayaman, tila katulad ni Salomon, ang matalinong hari sa Lumang Tipan (1 Hari 4:29-34), sa karunungan hinggil sa pantaong buhay, nguni’t hindi sa karunungang hinggil sa maka-Diyos na ekonomiya. Tingnan ang tala 11-1 sa kapitulo 1."
+        },
+        {
+            "id": "13-1",
+            "text": "Lit. mula sa."
+        },
+        {
+            "id": "13-2",
+            "text": "Gawi (Fil. 1:27)."
+        },
+        {
+            "id": "13-3",
+            "text": "Ayon sa nilalaman ng mga nauna at nahuling bersikulo, ang kaamuan ng karunungan ay nararapat na tumukoy rito sa pagpipigil sa pagsasalita. Ito ay tumutugma sa Kaw. 10:19. Ang gayong kaamuan ay katumbas ng mapagbata at madaling panaingan sa b. 17, na taliwas sa mapait na paninibugho at pakikipagtunggalian sa loob ng pagmamapuri at pagsisinungaling sa b. 14."
+        },
+        {
+            "id": "15-1",
+            "text": "Tumutukoy sa karunungang nagtataglay ng mapait na paninibugho at pakikipagtunggalian upang magmapuri at magsinungaling laban sa katotohanan (b. 14)."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang makalupa ay tumutukoy sa sanlibutan, ang makakaluluwa ay tumutukoy sa likas na tao, at ang makademonyo ay tumutukoy sa Diyablo at sa kanyang mga demonyo. Ang tatlong ito ay palaging magkaugnay sa isa’t isa."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang karunungang ito ay kinabibilangan ng kaamuan sa b. 13 at ng mga pantaong kagalingan na nabanggit sa ibang bahagi pa ng bersikulong ito. Ang mga ito ay ang lahat ng mga katangian ng praktikal na pang-Kristiyanong kasakdalan ayon sa pananaw ni Santiago, na maaaring napasailalim ng impluwensiya ng mga Lumang Tipang kautusan hinggil sa pagkilos, moralidad, at etika ng tao (Kaw. 4:5-8). Ang gayong karunungan ay hindi umaabot sa taas ng karunungan hinggil sa nakakubling hiwaga ng Bagong Tipang ekonomiya ng Diyos tungkol kay Kristo at sa ekklesia (1 Cor. 2:6-8; Efe. 3:9-11). Tingnan ang tala 11-1 sa kapitulo 1."
+        },
+        {
+            "id": "17-2",
+            "text": "O, maamo, hindi mahigpit sa kapwa, magiliw na resonable (Fil. 4:5 at tala 1)."
+        },
+        {
+            "id": "17-3",
+            "text": "O, masunurin, yaon ay, may kusang pagsunod, nasisiyahan kahit na kulang sa nararapat niyang tanggapin, madal ing pakiusapan. Ang mapagbata at madaling panaingan ay katumbas ng kaamuan sa b. 13."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang tala 11-1 sa Hebreo 12."
+        },
+        {
+            "id": "18-2",
+            "text": "O, para sa."
         }
     ]
 }

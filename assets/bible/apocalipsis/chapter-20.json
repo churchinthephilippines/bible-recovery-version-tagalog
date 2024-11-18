@@ -1,5 +1,5 @@
 {
-    "chapter": 20,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -16,7 +16,7 @@
             "footnotes": [
                 {
                     "word": "iginapos",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -35,23 +35,23 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "kaluluwa",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "4-3"
                 },
                 {
                     "word": "nangabuhay,",
-                    "note": ""
+                    "id": "4-4"
                 },
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "4-5"
                 }
             ],
             "outlines": [
@@ -65,11 +65,11 @@
             "footnotes": [
                 {
                     "word": "natitira",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "unang",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -80,27 +80,27 @@
             "footnotes": [
                 {
                     "word": "Pinagpala",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "ikalawang",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "saserdote",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "Kristo,",
-                    "note": ""
+                    "id": "6-5"
                 },
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "6-6"
                 }
             ],
             "outlines": [
@@ -113,7 +113,7 @@
             "footnotes": [
                 {
                     "word": "bilangguan,",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": [
@@ -127,11 +127,11 @@
             "footnotes": [
                 {
                     "word": "Gog",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "pagdirigma,",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": [
@@ -144,15 +144,15 @@
             "footnotes": [
                 {
                     "word": "kampamento",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "lunsod;",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "mula",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -163,7 +163,7 @@
             "footnotes": [
                 {
                     "word": "dagat-",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": [
@@ -176,15 +176,15 @@
             "footnotes": [
                 {
                     "word": "puting",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "Siyang",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "langit",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": [
@@ -198,19 +198,19 @@
             "footnotes": [
                 {
                     "word": "nangakatayo",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "aklat;",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "aklat,",
-                    "note": ""
+                    "id": "12-3"
                 },
                 {
                     "word": "aklat,",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": [
@@ -223,7 +223,7 @@
             "footnotes": [
                 {
                     "word": "dagat",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": [
@@ -236,11 +236,11 @@
             "footnotes": [
                 {
                     "word": "kamatayan",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "ikalawang",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": [
@@ -253,20 +253,150 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "aklat",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "dagat-",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": [
                 "e. Pagkapahamak ng mga Di-mananampalataya at ng mga Demonyo sa Dagat-dagatang Apoy\n b. 15"
             ]
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Kasunod ng pagkatalo ng Antikristo ay ang paggagapos at pagbibilanggo kay Satanas upang linisin ang mapanghimagsik na lupa, nang sa gayon ay dumating ang kaharian ni Kristo (bb.4-6)."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang mga nagsisiluklok sa mga trono ay ang mga mandaraig. Sila ngayon ay mga nangakaluklok sa mga trono, at ang awtoridad ay ibinigay na sa kanila. Ang pagkakaroon ng awtoridad upang maghatol ay nangangahulugan ng pagkakaroon ng kaharian (cf. Dan. 7:10, 18, 22). Ito ay nagpapakita na natanggap na nila ang kaharian at tinatamasa ito."
+        },
+        {
+            "id": "4-2",
+            "text": "Ito ang mga martir sa buong itinagal ng kapanahunan ng ekklesia, gaya ng binanggit sa 6:9."
+        },
+        {
+            "id": "4-3",
+            "text": "Ito ang mga martir sa matinding kapighatian (13:7, 15)."
+        },
+        {
+            "id": "4-4",
+            "text": "Ang “nangabuhay” rito at sa b. 5 ay nangangahulugang sila ay nabuhay-na-muli."
+        },
+        {
+            "id": "4-5",
+            "text": "Lit. ng Kristo."
+        },
+        {
+            "id": "5-1",
+            "text": "Ito ang mga di-ligtas na tao na makikibahagi sa pagkabuhay-na-muli ng kahatulan pagkatapos ng isang libong taon (Juan 5:28-29; I Cor. 15:23-24; Apoc. 20:12)."
+        },
+        {
+            "id": "5-2",
+            "text": "O, pinakamahusay. “Ang unang pagkabuhay-na-muli” ay ang pinakamahusay. Ito ay hindi lamang pagkabuhay-na-muli ng buhay (Juan 5:29; I Cor. 15:23b; I Tes. 4:16), bagkus siya ring pagkabuhay-na-muli ng gantimpala (Luc. 14:14), ang higit pang pagkabuhay-na-muli, yaon ay, ang ekstra-ordinaryong pagkabuhay-na-muli na hinangad ng Apostol (Fil. 3:11), ang pagkabuhay-na-muli na taglay ang pagkahari bilang isang gantimpala sa mga mandaraig, sa gayon ay makapaghahari sila bilang mga kasamang-hari ni Kristo sa isang libong taong kaharian (bb. 4, 6). Kaya, “pinagpala ang may bahagi sa unang pagkabuhay-na-muli” (b. 6)."
+        },
+        {
+            "id": "6-1",
+            "text": "O, magalak. Yaong manahin ang nahayag sa lupa na kaharian ng Diyos at makasama si Kristo bilang hari ay ang pinakamataas na pagpapala at kagalakan."
+        },
+        {
+            "id": "6-2",
+            "text": "Hindi lamang ang mga nabuhay-na-muling mandaraig, kagaya ng lalakeng-anak sa 12:5 at ng mga nahuling martir sa 15:2, bagkus maging ang mga nabubuhay pa na iniakyat-na-may-masidhing-kagalakan, kagaya ng unang bunga sa 14:1-6, ang “may bahagi sa unang pagkabuhay-na-muli.”"
+        },
+        {
+            "id": "6-3",
+            "text": "Tingnan ang tala 11-2 sa kapitulo 2."
+        },
+        {
+            "id": "6-4",
+            "text": "Sa loob ng isang libong taong kaharian, sa isang panig, ang mga mandaraig ay magiging mga saserdoteng makalalapit sa Diyos at kay Kristo, at sa kabilang panig ay magiging mga haring kasama ni Kristo sa paghahari sa mga bansa (2:26-27; 12:5). Bilang mga saserdote, bibigyang-kasiyahan nila ang Diyos at si Kristo sa pagtatamasa sa kanilang paglilingkod; bilang mga hari, sila ay maghahari para sa Diyos, Kakatawanin ang Diyos upang pastulin ang tao, nang sa gayon ay matamo ng tao ang pagtatamasa at kasiyahan. Ito ang gantimpalang ibibigay sa kanila. Ang mga mananampalatayang talunan sa kapanahunang ito ay mawawalan ng gantimpalang ito. Gayunpaman, pagkatapos na sila ay matuos ng Panginoon sa isang libong taong kaharian, sila ay makikibahagi sa pagpapala ng gantimpalang ito, yaon ay, sa paglilingkod sa Diyos at sa pagkahari sa bagong langit at bagong lupa magpasawalang- hanggan (22:3, 5)."
+        },
+        {
+            "id": "6-5",
+            "text": "Lit. ng Kristo."
+        },
+        {
+            "id": "6-6",
+            "text": "Ang ilang sinaunang manuskrito ay isinaling, “yaong isang libong taon” (may tiyakang pantukoy)."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang kailalimang-walang-hanggan (b. 3) ay ang pansamantalang bilangguan ni Satanas; pagkatapos ng isang libong taong kaharian ay palalayain siya mula roon, at siya ang magiging instrumento upang subukin ng Diyos ang tao sa huling pagkakataon."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang “Gog at Magog,” ayon sa Ezek. 38:2-3 at 39:1-2, ay tiyak na ang Russia. Tinutukoy ng Ezek. 38:2 na ang Gog at Magog ay sa Ros, Mesech, at Tubal, tumutugon sa Russia, Moscow, at Tobolsk. Ang Ezek. 39:2 ay tumutukoy sa mga lugar na ito bilang “mga pinakadulong bahagi ng hilaga.” Ano man ang binanggit hinggil sa Gog at Magog sa Ezekiel 38 at 39 ay magaganap bago ang isang libong taon, samantalang ang talá hinggil sa kanila sa Apocalipsis 20 ay magaganap pagkatapos ng isang libong taon. Ang Apoc. 20:8 ay nagpapakita na ang panlilinlang ni Satanas sa “mga bansa na nasa apat na sulok ng lupa” ay ang kanyang panlilinlang sa “Gog at Magog.” Malamang na tinutukoy nito na sa huling pagrerebelde ng sangkatauhan laban sa Diyos na nasa pagsusulsol ni Satanas, ang Gog at Magog ang mangunguna at ang mga bansa ay susunod."
+        },
+        {
+            "id": "8-2",
+            "text": "Ito ang magiging huling “digmaan” sa lupa. Ito ay sasanhiin ng huling pagrerebelde ng sangkatauhan, na nasa pagsusulsol ni Satanas, ang kaaway ng Diyos, pagkatapos ng isang libong taon. Bagama’t ang sangkatauhan ay mapapanumbalik sa loob ng isang libong taon, ang kanyang mapagrebeldeng kalikasan ay mananatili pa rin. Ito ay ihahantad ng huling pagsusulsol ni Satanas at dadalisayin ng huling paghahatol ng Panginoon sa sangkatauhan."
+        },
+        {
+            "id": "9-1",
+            "text": "“Ang kampamento ng mga banal” ay ang tinitirahan ng mga mandaraig na mananampalataya, na siyang mga makalangit na hukbo (19:14) na nagkakampo sa lupa. “Ang iniibig na lunsod” ay ang lunsod ng Herusalem, ang pinananahanang lugar ng labí ng Israel. Ang mga mandaraig na mananampalataya at ang labí ng Israel ay ang tapat na bayan ng Diyos sa lupa sa isang libong taon, naninindigang kasama ng Diyos at para sa Diyos. Sa wakas ng isang libong taon, susulsulan ni Satanas ang mapagrebeldeng sangkatauhan mula sa mga pinakadulong bahagi ng hilaga upang salakayin ang bayan ng Diyos."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang ilang sinaunang manuskrito ay nagsingit ng, mula sa Diyos."
+        },
+        {
+            "id": "10-1",
+            "text": "Ang “dagat-dagatang apoy” ay “inihanda para sa Diyablo at sa kanyang mga anghel” (Mat. 25:41). “Ang halimaw at ang bulaang propeta,” kasama ng mga kambing na itinalaga sa Mat. 25:32-33, 41 ay pawang ihahagis sa dagat-dagatang apoy nang mas maaga ng isang libong taon kaysa sa Diyablo (19:20). Pagkatapos ng isang libong taon ang Diyablo ay ihahagis sa dagat-dagatang apoy."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang “puti” rito ay sumasagisag sa matuwid, tumutukoy na ang malaking trono ng Panginoon para sa Kanyang paghahatol ay matuwid."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang “Siya” ay tiyak na ang Panginoong Hesus. Ibinigay ng Diyos Ama ang lahat ng paghahatol sa Anak (Juan 5:22) at itinalaga Siya upang maging Hukom ng mga buháy at ng mga patay (Gawa 10:42; 17:31; II Tim. 4:1; Roma 2:16). Sinasalaysay ng Mat. 25:31-46 ang Panginoon bilang ang Hukom ng mga buháy bago dumating ang isang libong taon. Dito, ang Panginoon ay ang Hukom ng mga patay pagkaraan ng isang libong taon."
+        },
+        {
+            "id": "11-3",
+            "text": "Ang lumang langit at lumang lupa ay babaguhin (Heb. 1:11-12). Ang lumang langit ay lilipas, ang elemento ng lumang langit ay susunugin at ang lumang lupa ay lubusan ding susunugin (II Ped. 3:10). Mula sa mga pagbabagong ito, ang bagong langit at ang bagong lupa (12:1) ay maibubunga, upang maging ang sansinukob ng bagong paglalang, na siyang magiging magpasawalang-hanggang kinaroroonan ng Bagong Herusalem."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang “nangakatayo” rito ay tumutukoy na “ang mga patay” ay binuhay nang muli. Ito ay ang pagkabuhay-na-muli ng mga di-mananampalataya, ang “pagkabuhay-na-muli ng paghahatol,” pagkatapos ng isang libong taon (Juan 5:28-29; I Cor. 15:23-24)."
+        },
+        {
+            "id": "12-2",
+            "text": "Lit. mga balumbon ng papel na may sulat. Ang mga balumbon na ito ay ang talá ng mga gawa, mga ginawa, ng mga di-mananampalataya; ayon dito ay hahatulan sila."
+        },
+        {
+            "id": "12-3",
+            "text": "Lit. balumbon ng papel na may sulat. Ito ang talá ng mga pangalan ng mga mananampalataya (13:8; 17:8; Luc. 10:20)."
+        },
+        {
+            "id": "13-1",
+            "text": "Yamang ang mga patay na di-mananampalataya na nalunod sa dagat ay kasali roon sa mga nasa Hades, “ang mga patay” na ibinigay ng “dagat” ay hindi nararapat tumukoy sa mga taong hindi sumasampalataya; sila ay malamang na ang mga espiritu (ang mga demonyo sa pangkasalukuyang panahon-Mat. 8:31-32; 12:43) ng mga nabubuhay na nilikha bago pa ang kapanahunan ni Adam (tingnan ang Pag-aaral Pambuhay ng Genesis, Mensahe 2). Ito ay maaaring nagpapahiwatig na ang mga demonyo sa pangkasalukuyang panahon ay hahatulan sa malaking puting trono na kasabay ng mga di-mananampalataya."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang “dagat-dagatang apoy” ay ang “basurahan” ng buong sansinukob, kung saan itatapon ang lahat ng negatibong bagay, kasama na ang “kamatayan at ang Hades.” Ang “kamatayan” ang magiging huling kaaway na wawasakin ng Panginoon (I Cor. 15:26)."
+        },
+        {
+            "id": "14-2",
+            "text": "Sa unang kamatayan, ang kaluluwa at espiritu ay hiwalay sa katawan at mapapahamak sa seksiyon ng kahirapan ng Hades (Luc. 16:22-24). Sa “ikalawang kamatayan,” ang kaluluwa at espiritu, pagkatapos maiugpong-muli sa katawan sa pagkabuhay-na-muli, ay ibubulid kasama ang katawan sa “dagat-dagatang apoy.” Ito ay nangangahulugan na ang buong katauhan ng mga di-mananampalataya-espiritu, kaluluwa, at katawan-ay mapapahamak sa walang-hanggang pagdurusa sa “dagat-dagatang apoy.”"
+        },
+        {
+            "id": "15-1",
+            "text": "Ang mga napapahamak na di-mananampalataya ay hahatulan “ayon sa mga aklat,” na isang talá ng kanilang mga gawa (bb. 12-13), subali’t sila ay “ibubulid sa dagat-dagatang apoy” ayon sa “aklat ng buhay.” Tinutukoy nito na sila ay hinatulan ng Panginoon dahil sa kanilang masasamang gawa, subali’t sila ay napapahamak dahil sa kanilang di-pagsampalataya, na hindi nakatala ang kanilang mga pangalan sa aklat ng buhay. Ang hindi pagsampalataya sa Panginoong Hesus ay ang namumukod-tanging kasalanan na nagsasanhi sa mga tao na mapahamak (Juan 16:9)."
+        },
+        {
+            "id": "15-2",
+            "text": "Lit. balumbon ng papel na may sulat."
+        },
+        {
+            "id": "15-3",
+            "text": "Ang “dagat-dagatang apoy” ay inihanda para sa Diyablo at sa kanyang mga anghel (Mat. 25:41). Yayamang ang mga di-mananampalataya ay sumunod sa Diyablo, sila ay nakikibahagi sa kahatulan sa Diyablo (Juan 16:11) at magiging kabahagi sa walang hanggang pagdurusa ng Diyablo. Ang mga demonyo, na nagsisunod din sa Diyablo, ay makikibahagi sa gayunding hantungan."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "chapter": 5,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "pagwikaan",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -27,7 +27,7 @@
             "footnotes": [
                 {
                     "word": "Igalang",
-                    "note": ""
+                    "id": "3-1"
                 }
             ],
             "outlines": null
@@ -38,11 +38,11 @@
             "footnotes": [
                 {
                     "word": "pagkamakadiyos",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "magsiganti",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -71,11 +71,11 @@
             "footnotes": [
                 {
                     "word": "sariling",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -92,11 +92,11 @@
             "footnotes": [
                 {
                     "word": "patotoo",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "ginanap",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -113,7 +113,7 @@
             "footnotes": [
                 {
                     "word": "pangako.",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -130,11 +130,11 @@
             "footnotes": [
                 {
                     "word": "magsipag-asawa",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "magsipanganak,",
-                    "note": ""
+                    "id": "14-2"
                 }
             ],
             "outlines": null
@@ -157,15 +157,15 @@
             "footnotes": [
                 {
                     "word": "karangalan",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "lalung-lalo",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": [
@@ -184,7 +184,7 @@
             "footnotes": [
                 {
                     "word": "tatanggap",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -195,15 +195,15 @@
             "footnotes": [
                 {
                     "word": "Sila",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "pagsabihan",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "20-3"
                 }
             ],
             "outlines": null
@@ -214,19 +214,19 @@
             "footnotes": [
                 {
                     "word": "anghel",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "ganapin",
-                    "note": ""
+                    "id": "21-2"
                 },
                 {
                     "word": "pagtatangi,",
-                    "note": ""
+                    "id": "21-3"
                 },
                 {
                     "word": "pagpanig.",
-                    "note": ""
+                    "id": "21-4"
                 }
             ],
             "outlines": null
@@ -237,11 +237,11 @@
             "footnotes": [
                 {
                     "word": "ipatong",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "kaagad",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -252,11 +252,11 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "pagkakasakit.",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -267,19 +267,19 @@
             "footnotes": [
                 {
                     "word": "kasalanan",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "hayag",
-                    "note": ""
+                    "id": "24-2"
                 },
                 {
                     "word": "din",
-                    "note": ""
+                    "id": "24-3"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "24-4"
                 }
             ],
             "outlines": null
@@ -290,10 +290,136 @@
             "footnotes": [
                 {
                     "word": "mabubuting",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Pagsalitaan nang masakit."
+        },
+        {
+            "id": "3-1",
+            "text": "*Ang tagubilin na “igalang” ay maisasagawa sa pamamagitan ng pagpipitagan o sa pamamagitan ng materyal na panustos.* Dito ay higit na binibigyang-diin ang sa pamamagitan ng materyal na panustos."
+        },
+        {
+            "id": "4-1",
+            "text": "Tingnan ang tala 16-1 sa kap. 3."
+        },
+        {
+            "id": "4-2",
+            "text": "Magbayad sa kanilang mga magulang, gantimpalaan ang kanilang mga magulang upang maipakita ang utang na loob."
+        },
+        {
+            "id": "8-1",
+            "text": "Tumutukoy sa mga kamag-anak. Ang lahat ng mga tagubilin sa kapitulong ito ay lubhang makatao, normal, at pangkaraniwan; walang natatangi, mahimala, o sobrenatural, maging ang bagay ng pagpapagaling. Ang buong aklat ay isinulat sa gayunding prinsipyo. Ito ay kinakailangan para sa buhay-ekklesia."
+        },
+        {
+            "id": "8-2",
+            "text": "Tingnan ang mga tala 19-3 sa kapitulo 1 at 9-1 sa kapitulo 3."
+        },
+        {
+            "id": "10-1",
+            "text": "Tingnan ang tala 7-1 sa kap. 3."
+        },
+        {
+            "id": "10-2",
+            "text": "Lit. sinunod nang mahigpit."
+        },
+        {
+            "id": "12-1",
+            "text": "Lit. pananampalataya. Ang pariralang ito ay nangangahulugang sirain ang isang pangako. Ito ay tumutukoy na may ilang nangako na sa kanilang pagkabalo ay iuukol nila ang kanilang mga sarili sa ilang paglilingkod sa ekklesia."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang salita sa 1 Cor. 7:8 ay ang naisin ng apostol sa unang bahagi ng kanyang ministeryo. Sa bersikulong ito ay ang payo ng apostol sa bandang huli ng kanyang ministeryo, ayon sa kanyang mga karanasan hinggil sa mga batang babaeng balo."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang panganganak at mga gawain sa bahay ay isang kaligtasan at pag-iingat sa mga babaeng tamad na nagpapalipat-lipat sa mga bahay-bahay (b. 13). Ito ay ang pagtatalaga ng Diyos upang mahigpitan at mapangalagaan ang mga natisod na kababaihan (Gen. 3:16)."
+        },
+        {
+            "id": "17-1",
+            "text": "Ito ay ang pangngalan ng “igalang” sa b. 3. Ayon sa sumusunod na bersikulo, nakapaloob dito ang materyal na panustos."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang lahat ng mga matanda ay kinakailangang may kakayahang manguna sa isang ekklesia-lokal, subalit ang ilan, hindi lahat, ay may natatanging kakayahan sa pagtuturo."
+        },
+        {
+            "id": "17-3",
+            "text": "Ang salita rito ay tumutukoy sa pangkalahatang pagsasalita ng mga doktrina; ang pagtuturo ay tumutukoy sa natatanging tagubilin hinggil sa mga partikular na bagay."
+        },
+        {
+            "id": "19-1",
+            "text": "Si Timoteo ay inatasan ni Apostol Pablo na tumanggap ng sumbong laban sa isang matanda. Ito ay nangangahulugan na ang mga apostol ay may awtoridad na tuusin ang mga matanda kahit na sila ay naitalaga na ng mga apostol na maging mga matanda."
+        },
+        {
+            "id": "20-1",
+            "text": "Tumutukoy sa mga matanda."
+        },
+        {
+            "id": "20-2",
+            "text": "Ito ay tumutukoy rin sa awtoridad ng mga apostol sa mga matanda."
+        },
+        {
+            "id": "20-3",
+            "text": "Tumutukoy sa buong ekklesia. Ang isang nagkasalang matanda ay dapat tumanggap ng panunumbat sa harapan ng lahat dahil sa ang pagtatalaga sa kanya bilang matanda ay sa harapan din ng lahat."
+        },
+        {
+            "id": "21-1",
+            "text": "Ang mga matanda sa isang ekklesia-lokal ay ang hinirang na awtoridad ng Diyos. Ang pagtutuos sa mga matanda ay isang taimtim na bagay sa harapan ng Diyos. Kaya, si Timoteo ay taimtim na inatasan ng apostol sa harapan ng Diyos, at ni Kristo, at ng mga anghel na gawin ito, upang makita ng mga hinirang na anghel na siyang mabubuting anghel na may awtoridad ng Diyos, na ang Kanyang awtoridad ay itinatag at pinananatili sa gitna ng Kanyang mga tinubos na tao sa lupa."
+        },
+        {
+            "id": "21-2",
+            "text": "Yaon ay, tupdin, isagawa."
+        },
+        {
+            "id": "21-3",
+            "text": "Paunang paghatol, pagkondena, bago dinggin ang kaso."
+        },
+        {
+            "id": "21-4",
+            "text": "Pagkiling, pagpabor, pagkampi. Ang walang pagtatangi ay nangangahulugang walang ginagawang paghatol bago pa man, hindi pinapaboran ang naghaharap ng sumbong; ang walang anumang pagpanig ay nangangahulugang walang baluktot na pagpabor sa isinusumbong (matanda)."
+        },
+        {
+            "id": "22-1",
+            "text": "Tingnan ang tala 14-4 sa kapitulo 4. Dito ang pagpapatong ng mga kamay ay pangunahing tumutukoy sa pagpatong ng mga kamay sa mga matanda ayon sa nilalaman ng mga naunang bersikulo."
+        },
+        {
+            "id": "22-2",
+            "text": "O, nang madalian."
+        },
+        {
+            "id": "23-1",
+            "text": "Ayon sa ibig sabihin ng nilalaman ng mga nauna at mga sumunod na bersikulo, ang bersikulong ito ay nagpapahiwatig na ang kalagayan ng pisikal na kalusugan ay makaaapekto sa espiritwal na pakikitungo sa iba."
+        },
+        {
+            "id": "23-2",
+            "text": "O, panghihina."
+        },
+        {
+            "id": "24-1",
+            "text": "Ang salitang ito ay nagpapahiwatig na ipinagpapatuloy ng bersikulong ito ang bersikulo 22. Ipinaliliwanag nito na ang mga kasalanan ng ilang mga tao ay nahahayag nang higit na maaga at ang iba ay sa bandang huli na. Kaya nga, huwag magpatong ng mga kamay sa mga tao nang madalian."
+        },
+        {
+            "id": "24-2",
+            "text": "Ang binabanggit dito hinggil sa paghahatol sa mga kasalanan ay isang prinsipyo na akma kapwa sa paghatol ng tao at ng Diyos."
+        },
+        {
+            "id": "24-3",
+            "text": "Ang mga kasalanan ng iba ay mahahayag din, ang kasunod ay kahatulan."
+        },
+        {
+            "id": "24-4",
+            "text": "Tumutukoy sa mga kasalanan."
+        },
+        {
+            "id": "25-1",
+            "text": "Ang pagpapahiwatig ng pag-aatas ng apostol kay Timoteo sa dalawang bersikulong ito ay yaong hindi siya dapat na mag-apruba ng isang tao nang madalian sapagkat ang mga kasalanan ng taong yaon ay hindi pa nahahayag; ni huwag magmadaling hatulan ang isang tao sapagkat ang kanyang mabubut ing gawa ay hindi pa nahahayag."
         }
     ]
 }

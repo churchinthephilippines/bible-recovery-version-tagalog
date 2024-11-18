@@ -1,5 +1,5 @@
 {
-    "chapter": 9,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "sariling",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -21,11 +21,11 @@
             "footnotes": [
                 {
                     "word": "makita",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "kasalanan.",
-                    "note": ""
+                    "id": "2-2"
                 }
             ],
             "outlines": null
@@ -36,11 +36,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "nanlalapastangan.",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -51,11 +51,11 @@
             "footnotes": [
                 {
                     "word": "mabatid",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "panloob",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -66,11 +66,11 @@
             "footnotes": [
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "Bumangon",
-                    "note": ""
+                    "id": "5-2"
                 }
             ],
             "outlines": null
@@ -81,15 +81,15 @@
             "footnotes": [
                 {
                     "word": "awtoridad",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "buhatin",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "umuwi",
-                    "note": ""
+                    "id": "6-3"
                 }
             ],
             "outlines": null
@@ -100,7 +100,7 @@
             "footnotes": [
                 {
                     "word": "bumangon",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -117,15 +117,15 @@
             "footnotes": [
                 {
                     "word": "Mateo,",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "Sumunod",
-                    "note": ""
+                    "id": "9-2"
                 },
                 {
                     "word": "sumunod",
-                    "note": ""
+                    "id": "9-3"
                 }
             ],
             "outlines": [
@@ -139,11 +139,11 @@
             "footnotes": [
                 {
                     "word": "bahay,",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "maniningil",
-                    "note": ""
+                    "id": "10-2"
                 }
             ],
             "outlines": null
@@ -154,11 +154,11 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "Bakit",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -169,15 +169,15 @@
             "footnotes": [
                 {
                     "word": "malalakas",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "manggagamot,",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "may",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -188,19 +188,19 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "Awa",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "Ko",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "matutuwid,",
-                    "note": ""
+                    "id": "13-3"
                 }
             ],
             "outlines": null
@@ -211,19 +211,19 @@
             "footnotes": [
                 {
                     "word": "Bakit",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "nag-",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "nang",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": [
@@ -237,15 +237,15 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "kasintahanang",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "aalisin",
-                    "note": ""
+                    "id": "15-3"
                 }
             ],
             "outlines": null
@@ -256,11 +256,11 @@
             "footnotes": [
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "lumang",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -271,15 +271,15 @@
             "footnotes": [
                 {
                     "word": "bagong",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "lumang",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "sariwang",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
@@ -290,11 +290,11 @@
             "footnotes": [
                 {
                     "word": "Habang",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "pinuno",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": [
@@ -314,19 +314,19 @@
             "footnotes": [
                 {
                     "word": "pag-",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "labindalawang",
-                    "note": ""
+                    "id": "20-2"
                 },
                 {
                     "word": "lumapit",
-                    "note": ""
+                    "id": "20-3"
                 },
                 {
                     "word": "laylayan",
-                    "note": ""
+                    "id": "20-4"
                 }
             ],
             "outlines": null
@@ -337,11 +337,11 @@
             "footnotes": [
                 {
                     "word": "ako",
-                    "note": ""
+                    "id": "21-1"
                 },
                 {
                     "word": "gagaling.",
-                    "note": ""
+                    "id": "21-2"
                 }
             ],
             "outlines": null
@@ -352,11 +352,11 @@
             "footnotes": [
                 {
                     "word": "nagpagaling",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "gumaling",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -367,7 +367,7 @@
             "footnotes": [
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -384,11 +384,11 @@
             "footnotes": [
                 {
                     "word": "maraming",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "ibinangon.",
-                    "note": ""
+                    "id": "25-2"
                 }
             ],
             "outlines": null
@@ -405,11 +405,11 @@
             "footnotes": [
                 {
                     "word": "bulag",
-                    "note": ""
+                    "id": "27-1"
                 },
                 {
                     "word": "Anak",
-                    "note": ""
+                    "id": "27-2"
                 }
             ],
             "outlines": null
@@ -420,7 +420,7 @@
             "footnotes": [
                 {
                     "word": "bahay,",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -437,7 +437,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -454,7 +454,7 @@
             "footnotes": [
                 {
                     "word": "pipi",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -465,7 +465,7 @@
             "footnotes": [
                 {
                     "word": "nagsalita.",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -476,7 +476,7 @@
             "footnotes": [
                 {
                     "word": "pinuno",
-                    "note": ""
+                    "id": "34-1"
                 }
             ],
             "outlines": null
@@ -487,11 +487,11 @@
             "footnotes": [
                 {
                     "word": "ebanghelyo",
-                    "note": ""
+                    "id": "35-1"
                 },
                 {
                     "word": "bawa’",
-                    "note": ""
+                    "id": "35-2"
                 }
             ],
             "outlines": [
@@ -507,15 +507,15 @@
             "footnotes": [
                 {
                     "word": "niligalig",
-                    "note": ""
+                    "id": "36-1"
                 },
                 {
                     "word": "tupa",
-                    "note": ""
+                    "id": "36-2"
                 },
                 {
                     "word": "pastol.",
-                    "note": ""
+                    "id": "36-2"
                 }
             ],
             "outlines": null
@@ -526,7 +526,7 @@
             "footnotes": [
                 {
                     "word": "aanihin",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -537,18 +537,284 @@
             "footnotes": [
                 {
                     "word": "magsumamo",
-                    "note": ""
+                    "id": "38-1"
                 },
                 {
                     "word": "Panginoon",
-                    "note": ""
+                    "id": "38-2"
                 },
                 {
                     "word": "mag-",
-                    "note": ""
+                    "id": "38-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ito ay ang Capernaum kung saan nananahan ang Panginoon ngayon (4:13)."
+        },
+        {
+            "id": "2-1",
+            "text": "Binakbak nila ang bubungan ng kung saan naroon ang Panginoon at sinira ito (Marc. 2:4). Sa pamamagitan nito nakita ng Panginoon ang kanilang pananampalataya."
+        },
+        {
+            "id": "2-2",
+            "text": "Ito ay nagpapakita na ang paralitiko ay nagkasakit dahil sa kanyang mga kasalanan."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 4-1 sa kapitulo 2."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang mga eskriba, na nagpapalagay na nalalaman nila ang mga Kasulatan, ay nag-akala na ang Diyos lamang ang may awtoridad na magpatawad ng mga kasalanan, at si Hesus, na sa kanilang mga paningin ay isa lamang tao, ay nanlapastangan sa Diyos nang Siya ay nagsabi, “Pinatawad na ang iyong mga kasalanan.” Ito ay nagpapakita na hindi nila nakikilala na ang Panginoon ay ang Diyos. Sa pagsambit ng gayong salita, tinanggihan nila ang Hari ng makalangit na kaharian. Ito ang unang pagtanggi ng mga pinuno ng relihiyon ng mga Hudyo."
+        },
+        {
+            "id": "4-1",
+            "text": "Mababasa sa ilang sinaunang manuskristo na makita. Ito ang pagkilala ng Panginoon sa Kanyang espiritu (Marc. 2:8)."
+        },
+        {
+            "id": "4-2",
+            "text": "O, mga pag-iisip, mga akala, masasamang sapantaha na may malakas na palagay o silakbo ng damdamin."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang Panginoon ay hindi nagsabing, “Alin ang lalong mahirap,” sapagkat para sa Kanya ay walang bagay na mahirap. Para sa Kanya, ang sabihing “Pinatawad na ang iyong mga kasalanan,” ay higit na madali kaysa sabihing, “bumangon ka at lumakad.”"
+        },
+        {
+            "id": "5-2",
+            "text": "Sa Kanyang pagliligtas hindi lamang pinatatawad ng Panginoon ang ating mga kasalanan, bagkus binibigyan din tayo ng kakayahang bumangon at lumakad. Ito ay hindi bumangon at lumakad muna, at pagkatapos ay mapatawad sa ating mga kasalanan; yaon ay magiging sa pamamagitan ng mga gawa. Sa halip, ito ay ang mapatawad muna sa ating mga kasalanan, at pagkatapos ay bumangon at lumakad; ang gayong kaligtasan ay sa pamamagitan ng biyaya."
+        },
+        {
+            "id": "6-1",
+            "text": "“Ang magpatawad ng mga kasalanan” ay isang bagay ng “awtoridad sa lupa.” Tangi lamang itong maharlikang Tagapagligtas, na Siyang pinamahala ng Diyos at siyang mamamatay upang tubusin ang mga makasalanan, ang may ganoong awtoridad (Gawa 5:31; 10:43; 13:38). Ang ganitong awtoridad ay para sa pagtatatag ng kaharian ng kalangitan (Mat. 16:19)."
+        },
+        {
+            "id": "6-2",
+            "text": "Hindi lamang nakayang palakarin ng Panginoon ang paralitiko, bagkus pinabuhat pa Niya ang kanyang higaan at pinalakad. Noong una, ang higaan ang nagdadala sa kanya; ngayon siya ang nagdadala nito. Ito ang kapangyarihan ng pagliligtas ng Panginoon."
+        },
+        {
+            "id": "6-3",
+            "text": "Ang paralitikong ito ay dinala sa Panginoon ng iba, ngunit siya ay umuwi nang mag-isa. Ito ay nagpapakita na hindi sa ang makasalanan ang makapupunta sa Panginoon, kundi ang makasalanan ay nabigyang-kakayahan na lumakad pauwi mula sa Panginoon sa pamamagitan ng pagliligtas ng Panginoon."
+        },
+        {
+            "id": "7-1",
+            "text": "Ang pagbangon at pag-uwi ng paralitiko ay nagpatunay na siya ay napagaling, at ang kanyang pagiging napagaling ay nagpatunay na ang kanyang mga kasalanan ay napatawad."
+        },
+        {
+            "id": "9-1",
+            "text": "Si “Mateo” ay tinawag ding Levi (Marc. 2:14; Luc. 5:27). Siya ay isang maniningil ng buwis (Mat. 10:3) na matapos na maligtas, ay naging isang apostol sa pamamagitan ng biyaya ng Diyos (Mat. 10:2-3; Gawa 1:13). Siya ang sumulat ng Ebanghelyong ito."
+        },
+        {
+            "id": "9-2",
+            "text": "Ang pagsunod sa Panginoon ay kinabibilangan ng pagsampalataya sa Kanya. Wala ni isa na makasusunod sa Kanya maliban sa siya ay manampalataya sa Kanya. Ang manampalataya sa Panginoon ay ang maligtas (Gawa 16:31), at ang sumunod sa Kanya ay ang pumasok sa makitid na pintuan at lumakad sa makipot na daan upang makibahagi sa kaharian ng kalangitan (Mat. 7:13-14)."
+        },
+        {
+            "id": "9-3",
+            "text": "Ayon sa tala sa bersikulong ito, lumalabas na ito ang unang pagkakataon na nakaharap ng Panginoon si Mateo. May nakaaakit na kapangyarihan sa Panginoon, maaaring sa Kanyang salita o sa anyo, na nagsanhi kay Mateo na sumunod sa Kanya."
+        },
+        {
+            "id": "10-1",
+            "text": "Ito ang bahay ni Mateo (Luc. 5:29; Marc. 2:15). Bilang ang sumulat ng Ebanghelyong ito, sinadya ni Mateo na hindi sabihin na ito ay kanyang bahay, at yaong siya ang naghanda ng isang malaking piging para sa Panginoon. Ito ay ang kanyang kapakumbabaan."
+        },
+        {
+            "id": "10-2",
+            "text": "Tingnan ang tala 46-2 sa kap. 5."
+        },
+        {
+            "id": "11-1",
+            "text": "Tingnan ang tala 7-1 sa kap. 3."
+        },
+        {
+            "id": "11-2",
+            "text": "Ipinakikita ng katanungang ito na hindi nakikilala ng mga Fariseong nag-aaring-matuwid-sa-sarili ang biyaya ng Diyos. Sila ay nag-aakala na ang Diyos ay nakikitungo lamang sa tao nang ayon sa katuwiran. Sa pagtatanong ng ganito, sila ay nalantad bilang mga di-sumasang-ayon sa makalangit na Hari, sa gayon tinatanggihan Siya. Ito ay isang pagpapatuloy ng pagtanggi sa makalangit na Hari na sinimulan sa bersikulo 3 ng mga pinuno ng relihiyon ng mga Hudyo."
+        },
+        {
+            "id": "12-1",
+            "text": "*Gr. iskuo . Nangangahulugan ding magaling, may kakayahan, maaari."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang Hari ng makalangit na kaharian, sa pagtawag ng mga tao upang sumunod sa Kanya para sa kaharian, ay nagsilbi bilang “isang manggagamot,” hindi bilang isang hukom. Ang paghahatol ng hukom ay naaayon sa katuwiran, samantalang ang pagpapagaling ng manggagamot ay naaayon sa kaawaan at biyaya. Yaong mga ginawa Niyang mamamayan ng Kanyang makalangit na kaharian ay mga ketongin (8:2-4), mga paralitiko (8:5-13; 9:2-8), ang may lagnat (8:14-15), ang inalihan ng demonyo (8:16, 28-32), yaong mga may sakit ng iba’t ibang uri ng karamdaman (8:16), ang mga hinamak na maniningil ng buwis, at mga makasalanan (b. 9-11). Kung ang mga kawawang taong ito ay binisita Niya bilang isang hukom, lahat ay mahahatulan at matatanggihan, at walang magiging karapat-dapat, pinili, at tinawag upang maging bayan ng Kanyang makalangit na kaharian. Sa halip Siya ay naglingkod bilang isang manggagamot, nanggagamot, nagpapanumbalik, nagbibigay-buhay, at nagliligtas sa mga tao upang buuan silang muli bilang mga mamamayan ng makalangit na kaharian sa makasalanang mundong ito; at sila ay ginamit upang maitatag ang Kanyang makalangit na kaharian."
+        },
+        {
+            "id": "12-3",
+            "text": "Ipinahihiwatig ng salita rito ng Panginoon na hindi nauunawaan ng mga Fariseong nag-aaring-matuwid-sa-sarili na kanilang kinakailangan ang Panginoon bilang kanilang manggagamot. Itinuring nila ang kanilang mga sarili na malalakas; kaya, nabubulagan ng kanilang pag-aaring-matuwid sa kanilang sarili, hindi nila nalalaman na sila ay mga may sakit."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang mga Fariseong nag-aaring-matuwid-sa-sarili ay nag-akalang alam nila ang lahat ng bagay hinggil sa Diyos. Upang sila ay mapababang-loob, ang Panginoon ay nagsabi sa kanila na “mag-aral” pa."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang “awa” ay isang bahagi ng biyaya upang tanggapin ng tao mula sa Diyos. (Tingnan ang tala 16-2 sa Heb. 4.) Ngunit ang mga taong nag-aaring-matuwid-sa-sarili ay ayaw tumanggap ng awa o biyaya mula sa Diyos; minamabuti pa nilang mag-alay ng handog sa Diyos, na magbigay sa Diyos. Ito ay sumasalungat sa paraan ng Diyos sa Kanyang ekonomiya. Katulad nang ninanais ng Diyos na magpakita ng awa sa mga kahabag-habag na makasalanan, gayundin ninanais Niya tayong magpakita ng awa sa iba sa loob ng pag-ibig (Mik. 6:6-8; Marc. 12:33)."
+        },
+        {
+            "id": "13-3",
+            "text": "Walang isang matuwid, wala ni isa (Roma 3:10). Lahat ng “matutuwid” ay nagmamatuwid-sa-sarili katulad ng mga Fariseo (Luc. 18:9). Ang maharlikang Tagapagligtas ay “hindi naparito upang tawagin” sila, kundi ang “mga makasalanan.”"
+        },
+        {
+            "id": "14-1",
+            "text": "Ang mga bersikulo 10-13 ay nagtatala ng pagsagot ng Panginoon sa katanungan ng mga Fariseo ukol sa lumang relihiyon. Ngayon sa mga bersikulo 14-17 hinaharap ng Panginoon ang suliranin ng mga disipulo ni Juan ukol sa bagong relihiyon. Binitiwan ni Juan Bautista ang lumang relihiyon at nagsimula ng kanyang ministeryo sa ilang na labas sa relihiyon. (Tingnan ang mga tala 1-2 at 4-1 sa kapitulo 3.) Gayon pa man, pagkatapos ng maikling panahon, ang kanyang mga disipulo ay nagtatag ng isang bagong relihiyon upang hadlangan ang mga tao sa pagtatamasa kay Kristo, katulad ng ginawa ng mga Fariseo sa lumang relihiyon. Ipinasok ng ministeryo ni Juan Bautista ang mga tao kay Kristo upang si Kristo ang kanilang maging Manunubos, kanilang buhay, at kanilang lahat-lahat. Subalit ilan sa kanyang mga disipulo ay lumayo mula sa kanyang layunin na si Kristo, tungo sa ilang kaugalian niya, at ginawang relihiyon ang mga ito. Ang maging relihiyoso ay nangangahulugang gumawa ng ilang bagay para sa Diyos na walang Kristo. Kahit na ang gumawa ng anumang bagay na naaayon sa kasulatan at pundamental kung wala naman ang presensiya ni Kristo, ay relihiyon pa rin. Ang mga disipulo ni Juan, ang mga baguhan sa relihiyon, at ang mga Fariseo, na mga tumanda na sa relihiyon, ay parehong madalas na nag-aayuno, ngunit walang Kristo. Samantala, kinokondena nila ang mga disipulo ni Kristo na hindi nag-aayuno ngunit may Kristong kasama nila at namumuhay sa Kanyang presensiya."
+        },
+        {
+            "id": "14-2",
+            "text": "Tingnan ang tala 16-1 sa kapitulo 6."
+        },
+        {
+            "id": "14-3",
+            "text": "Ilang matatandang awtoridad ang nag-aalis ng “nang madalas.”"
+        },
+        {
+            "id": "14-4",
+            "text": "Ang mga Fariseong nagmamatuwid-sa-sarili na siyang mga tumanda na sa relihiyon, ay nabagabag sa pagsama ni Kristo sa mga maniningil ng buwis at sa mga makasalanan, na kinondena nila (b. 11). Ang mga nag-aayunong disipulo ni Juan, ang mga baguhan sa relihiyon, ay naguluhan sa pagpipiging ni Kristo at ng Kanyang mga disipulo (b. 10)."
+        },
+        {
+            "id": "15-1",
+            "text": "Ang mga ito ay ang mga disipulo ng Panginoon. Nang panahon ng transitoryong ministeryo ng Panginoon sa lupa, ang Kanyang mga disipulo ay “mga abay sa kasalan.” Sa paglaon sila ay magiging kasintahang-babae (Juan 3:29; Apoc. 19:7)."
+        },
+        {
+            "id": "15-2",
+            "text": "Sa pakikitungo sa mga nagmamatuwid-sa-sarili at mga di-sumasang-ayon na Fariseo ng lumang relihiyon, ang maharlikang Tagapagligtas ay nagpakita na Siya ay isang Manggagamot upang magpagaling sa mga may karamdaman (b. 12). Sa pakikitungo sa mga nag-aayuno at mga di-sumasang-ayong disipulo ni Juan ng bagong relihiyon, inihayag Niya ang Kanyang sarili bilang “ang Kasintahang Lalake” na magpapakasal sa kasintahang babae. Si Juan Bautista ay nagsabi sa kanyang mga disipulo na si Kristo ay ang Kasintahang Lalake upang pakasalan ang kasintahang babae (Juan 3:25-29). Ngayon si Kristo, ang maharlikang Tagapagligtas, ay nagpaalala sa ilan sa kanila ukol sa bagay na ito. Kapwa ang manggagamot at ang kasintahang lalake ay mga kaaya-ayang tao. Pinagaling muna ng maharlikang Tagapagligtas ang Kanyang mga tagasunod, pagkatapos ay ginawa Niya silang mga abay sa kasalan, at sa katapusan ay gagawin silang Kanyang kasintahang babae. Nararapat nilang angkinin Siya, hindi lamang bilang kanilang Manggagamot para sa pagpapanumbalik ng kanilang buhay, bagkus bilang kanila ring Kasintahang Lalake para sa isang pamumuhay ng pagtatamasa sa Kanyang presensiya. Sila ay nasa isang masayang kasalan kasama Niya, hindi sa isang malungkot na paglilibing na wala Siya. Paano ngang sila ay mag-aayuno at hindi makikipista sa harapan Niya? Itong mga di-sumasang-ayong katanungan ay nagpapakita na ang ilan sa mga disipulo ni Juan ay bumagsak patungo sa isang bagong relihiyon at tumanggi rin sa maharlikang Tagapagligtas. Ang katanungan ng mga disipulo ni Juan ay tila may kinalaman sa doktrina. Subalit ang Panginoon ay sumagot, hindi sa pamamagitan ng isang doktrina, kundi ginamit Niya ang isang Persona, ang pinakakaaya-ayang Persona, ang Kasintahang Lalake. Ang mga relihiyosong tao ay nagbibigay-pansin lamang sa kanilang doktrina na may kanilang mga pandoktrinang “bakit.” Subalit si Kristo ay nagbibigay-pansin lamang sa Kanyang sarili. Ang pamumuhay at paglakad ng Kanyang mga tagasunod ay nararapat lamang na mapamahalaan at mapatnubayan ng Panginoon Mismo at ng Kanyang presensiya, hindi ng ano mang doktrina."
+        },
+        {
+            "id": "15-3",
+            "text": "Ito ay naganap nang ang makaharing Tagapagligtas ay iniakyat patungo sa langit palayo sa mga disipulo (Gawa 1:11). Pagkatapos niyaon, sila ay nag-ayuno (Gawa 13:2-3; 14:23)."
+        },
+        {
+            "id": "16-1",
+            "text": "O, bago, hindi pa yari, hindi pa gawa. Ang Griyegong salita ay binubuo ng,”hindi” at “suyurin ng lana”; kaya, gayakan o buuin ang tela. Kung gayon, ang salita ay nangangahulugang hindi pa nasuyod, hindi pa buo, hindi pa yari, hindi pa umuurong, hindi pa ginagawa. Ang “hindi pa umuurong na tela” ay sumasagisag kay Kristo, bago pa ng Kanyang pagkakatawang-tao hanggang sa Kanyang pagkapako-sa-krus, bilang isang piraso ng bagong tela, hindi pa ginagawa, hindi pa yari; samantalang ang bagong damit sa Luc. 5:36 ay sumasagisag kay Kristo, matapos dumaan sa hakbangin ng Kanyang pagkapako sa krus, bilang isang bagong balabal. (Ang Griyegong salita para sa “bago” sa Luc. 5:36 ay katulad ng salitang “sariwa” sa Mat. 9:17.) Si Kristo una muna ay ang hindi pa umuurong na tela para sa paggawa ng isang bagong damit, at pagkatapos ay ginawang isang bagong damit sa pamamagitan ng Kanyang kamatayan at pagkabuhay na muli upang takpan tayo bilang ating katuwiran sa harap ng Diyos upang tayo ay maaring-matuwid ng Diyos at maging katanggap-tanggap sa Kanya (Luc. 15:22; Gal. 3:27; 1 Cor. 1:30) “Ang isang tagpi ng hindi pa umuurong na tela” na itinagpi “sa lumang damit ay bumabatak sa damit” sa pamamagitan ng umuurong na kalakasan nito, kaya ginagawang lalong malala ang punit. Ang gawin ito ay nangangahulugang gayahin kung ano ang ginawa ni Kristo sa Kanyang pantaong buhay sa lupa. Ito ang pinagsisikapang gawin ng mga makabago sa kasalukuyan. Kanila lamang ginagaya ang mga pantaong gawa ni Hesus upang mapabuti ang kanilang asal; sila ay hindi naniniwala na ang ipinakong Hesus ay ang kanilang Manunubos at hindi rin sumasampalataya na ang nabuhay na muling Kristo ay ang kanilang katuwiran upang sila ay ariing-matuwid ng Diyos at maging katanggap-tanggap sa Kanya. Ang kanilang panggagaya ng pantaong pamumuhay ni Kristo ay “bumabatak” sa kanilang “lumang damit.” Ang “lumang damit” ay ang kanilang asal sa lumang natural na buhay. Hindi gagawin ito ng mga tao ng kaharian; kanilang tinatanggap ang napako sa krus at nabuhay na muling Kristo bilang kanilang bagong damit upang takpan sila bilang kanilang katuwiran sa harap ng Diyos."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang “lumang damit” dito ay sumasagisag sa pag-asal ng tao, sa mabuting asal ng tao, mabubuting gawa, at mga makarelihiyosong kagawian sa pamamagitan ng kanyang lumang natural na buhay."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang Griyegong salita rito para sa bago ay nangangahulugang bago sa panahon, kamakailan lamang, bata. Ang “bagong alak” dito ay sumasagisag kay Kristo bilang ang bagong buhay, punung-puno ng kalakasan, pinupukaw ang mga tao upang maging masigla. Ang makaharing Tagapagligtas ay hindi lamang ang Kasintahang Lalake sa mga tao ng kaharian para sa kanilang pagtatamasa, bagkus kanila ring bagong damit upang maihanda at maging karapat-dapat sila sa panlabas para sa pagdalo sa kasalan. Higit pa rito, Siya rin ang kanilang bagong buhay upang pasiglahin sila sa panloob para sa pagtatamasa sa Kanya bilang kanilang Kasintahang Lalake. Siya, bilang ang makalangit na Hari, ay ang Kasintahang Lalake para sa pagtatamasa ng mga tao ng kaharian, at ang Kanyang makalangit na kaharian ay ang piging ng kasalan (22:2) upang kanilang matamasa Siya. Upang matamasa Siya bilang ang Kasintahang Lalake sa piging ng kaharian, kailangan nila Siya bilang kanilang bagong damit sa panlabas at kanilang bagong alak sa panloob."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang “mga lumang sisidlang-balat” ng alak ay sumasagisag sa mga gawi ng relihiyon, katulad ng pag-aayunong ginawa ng mga Fariseo ng lumang relihiyon at ng mga disipulo ni Juan ng bagong relihiyon. Lahat ng relihiyon ay mga lumang sisidlang-balat ng alak. Ang bagong alak na inilagay sa loob ng lumang sisidlang-balat ay nagpapaputok sa mga sisidlang-balat sa pamamagitan ng pagpapaasim nito. Ang “maglagay ng bagong alak sa lumang sisidlang-balat” ay ang ilagay si Kristo bilang ang nagpapasiglang buhay sa anumang uri ng relihiyon. Ito ang ginagawa sa ngayon ng mga tinatawag na pundamentalista at Pentecostalista. Kanilang tinatangkang isilid si Kristo sa loob ng kanilang iba’t ibang pamamaraan ng relihiyosong ritwal at pormalidad at gawi. Hindi dapat gawin ito ng mga tao ng kaharian kailanman. Dapat nilang ilagay ang bagong alak sa loob ng sariwang sisidlang-balat."
+        },
+        {
+            "id": "17-3",
+            "text": "Ang salitang Griyego para sa “sariwa” ay nangangahulugang bago sa kalikasan, uri, o anyo; di-kinaugalian, di-gamit; kaya, sariwa. Ang “mga sariwang sisidlang-balat” ng alak ay sumasagisag sa buhay-ekklesia sa mga ekklesia-lokal bilang sisidlan ng bagong alak, na siyang si Kristo Mismo bilang ang nagpapasiglang buhay. Ang mga tao ng kaharian ay itinayo sa loob ng ekklesia (16:18), at ang ekklesia ay inihayag sa pamamagitan ng mga ekklesia-lokal kung saan sila ay namumuhay (18:15-20). Sila ay mga taong isinilang-na-muli, binubuo ang Katawan ni Kristo upang maging ang ekklesia (Roma 12:5; Efe. 1:22-23). Itong Katawan ni Kristo bilang Kanyang kapuspusan ay tinatawag ding “ang Kristo” (1 Cor. 12:12, Griyego), ang sama-samang Kristo. Ang indibiduwal na Kristo ay ang bagong alak, ang panloob na nagpapasiglang buhay, at ang sama-samang Kristo ay ang sariwang sisidlang-balat ng alak, ang panlabas na sisidlan upang lagyan ng bagong alak. Para sa mga tao ng kaharian, ito ay hindi isang bagay ng pag-aayuno o anumang ibang relihiyosong gawi, kundi isang bagay ng buhay-ekklesia na may Kristo bilang kanilang nilalaman. Si Kristo ay dumating hindi upang magtatag ng isang makalupang relihiyon ng mga ritwal, kundi upang magtatag ng isang makalangit na kaharian ng buhay nang walang anumang patay na mga relihiyosong gawi, ngunit may Sarili Niya Mismo, ang buhay na Persona, bilang ang Manggagamot, ang Kasintahang Lalake, ang hindi pa umuurong na tela, at ang bagong alak sa Kanyang mga tagasunod bilang kanilang ganap na pagtatamasa, upang sila ay maging ang sariwang sisidlang-balat ng alak upang pagsidlan Niya at maging mga mamamayan ng Kanyang kaharian."
+        },
+        {
+            "id": "18-1",
+            "text": "Ang mga bersikulo 18-34 ay nagbibigay ng isang maikling larawan ng kapanahunang ito at ng darating na kapanahunan. Kaya, ang talang ito ay muling may pampanahunang kahulugan, katulad doon sa 8:1-17. Ang anak na babae ng pinuno ng sinagoga ay kumakatawan sa mga Hudyo, at ang babaeng inaagasan ay kumakatawan sa mga Hentil. Nang ang anak na babae ay namatay, ang babae ay gumaling. Pagkatapos na mapagaling ang babae, ang anak na babae ay napanumbalik. Kasunod nito, ang dalawang bulag na lalake at isang pipi ay napagaling. Ito ay isang sagisag, nagpapakita na nang ang mga Hudyo ay pinutol, ang mga Hentil ay naligtas; at pagkatapos ng kapunuan ng bilang ng mga naligtas na Hentil, ang mga Hudyo ay maliligtas (Roma 11:15, 17, 19, 23-26); kasunod nito, ang isang libong taong kaharian ay magsisimula, kung saan ang lahat ng bulag at pipi ay gagaling (Isa. 35:5-6)."
+        },
+        {
+            "id": "18-2",
+            "text": "Isang “pinuno” ng sinagoga (Marc. 5:22; Luc. 8:41) na nagngangalang Jairo, na nangangahulugang “iya ay magbibigay-liwanag” o “naliwanagan,” sumasagisag na magbibigay-liwanag ang Panginoon sa mga Hentil, at sila ay maliliwanagan (Gawa 13:46-48)."
+        },
+        {
+            "id": "20-1",
+            "text": "Isang madugong pag-agas mula sa katawan, isang pagdaloy o paglabas ng dugo (Lev. 15:25). Ang buhay ng laman ay nasa dugo (Lev. 17:11). Kaya, ang sakit na ito ay sumasagisag sa buhay na hindi kayang panatilihin."
+        },
+        {
+            "id": "20-2",
+            "text": "Ang babae ay may sakit “nang labindalawang taon,” na siya ring gulang ng namatay na anak na babae ng pinuno (Luc. 8:42)."
+        },
+        {
+            "id": "20-3",
+            "text": "Ang babae rito at ang senturyon sa 8:5-10, na kapwa kumakatawan sa mga Hentil, ay dumating upang makaugnay ang Panginoon sa ganoon ding paraan, na may pananampalataya. Siya ay gumaling samantalang ang Panginoon ay patungo sa bahay ng pinuno. Ito ay sumasagisag na ang mga Hentil ay naligtas habang si Kristo ay patungo sa bahay ni Israel."
+        },
+        {
+            "id": "20-4",
+            "text": "Ang “Kanyang damit” ay sumasagisag sa mga makatuwirang gawain ni Kristo, at “ang laylayan” ay sumasagisag sa makalangit na pamumuno (Bil. 15:38-39). Ang mga gawain ni Kristo na nasa ilalim ng pamumuno ng mga kalangitan ay nagbunga ng kagalingan na naging kapangyarihang nakagagamot (14:36)."
+        },
+        {
+            "id": "21-1",
+            "text": "Ito ang kanyang pananampalataya."
+        },
+        {
+            "id": "21-2",
+            "text": "Gr. maliligtas."
+        },
+        {
+            "id": "22-1",
+            "text": "Gr. nagligtas."
+        },
+        {
+            "id": "22-2",
+            "text": "Gr. naligtas."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang dalagita rito at ang biyenang babae ni Pedro sa 8:14-15, ay kapwa kumakatawan sa mga Hudyo sa katapusan ng kapanahunang ito, na napagaling sa isang “bahay” sa pamamagitan ng pagdating ng Panginoon at direktang paghipo. Tinutukoy nito na sa katapusan ng kapanahunang ito, ang lahat ng labi ng mga Hudyo ay maliligtas sa bahay ni Israel sa pamamagitan ng pagdating ng Panginoon at ng Kanyang direktang paghipo (Roma 11:25-26; Zac. 12:10)."
+        },
+        {
+            "id": "25-1",
+            "text": "Sa Kanyang ministeryo, hindi kailanman pinansin ng Panginoon ang “maraming tao.” Tingnan ang tala 18-1 sa kapitulo 8."
+        },
+        {
+            "id": "25-2",
+            "text": "Gr. ginising."
+        },
+        {
+            "id": "27-1",
+            "text": "Ang kabulagan ay sumasagisag sa kakulangan ng paningin, hindi nakikita ang Diyos at ang mga bagay na may kaugnayan sa Diyos (2 Cor. 4:4; Apoc. 3:18)."
+        },
+        {
+            "id": "27-2",
+            "text": "Sa isang libong taong kaharian, na siyang magiging pinanumbalik na tabernakulo ni David (Gawa 15:16), ang Mesiyanikong kaharian, kikilalanin ng mga Hudyo si Kristo bilang “Anak ni David,” at ang kanilang kabulagan ay mapagagaling. Ito ay isinagisag ng dalawang lalakeng bulag na kinikilala si Kristo sa ganitong paraan."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang dalawang bulag na lalake ay napagaling din sa “bahay” sa pamamagitan ng direktang paghipo ng Panginoon (b. 29) katulad ng sa anak na babae ng pinuno (b. 23) at biyenang babae ni Pedro (8:14)."
+        },
+        {
+            "id": "30-1",
+            "text": "Ang pagbubukas ng mga mata ng mga lalakeng bulag ay sumasagisag sa pagpapanumbalik ng panloob na paningin upang makita ang Diyos at ang mga espiritwal na bagay (Gawa 9:18; 26:18; Efe. 1:18; Apoc. 3:18)."
+        },
+        {
+            "id": "32-1",
+            "text": "Ang kapipihan dahil sa pag-ali ng demonyo ay sumasagisag sa kawalang kakayahan ng taong magsalita para sa Diyos (Isa. 56:10) at magpuri sa Diyos (Isa. 35:6) dahil sa pagsamba sa mga piping diyos-diyosan (1 Cor. 12:2)."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang pagsasalita ng lalakeng pipi ay sumasagisag sa pagkabawi ng kakayahang magsalita at magpuri sa pamamagitan ng pagiging napuspusan ng Panginoon sa espiritu (Efe. 5:18-19)."
+        },
+        {
+            "id": "34-1",
+            "text": "“Ang pinuno ng mga demonyo” ay ang Diyablo, na tinawag na Beelzebub (12:24). Itong nanlalapastangang salita ng mga Fariseo ay isang higit na malakas na pagpapatuloy ng pagtanggi ng mga pinuno ng Hudaismo sa makalangit na Hari."
+        },
+        {
+            "id": "35-1",
+            "text": "Tingnan ang tala 23-2 sa kap. 4."
+        },
+        {
+            "id": "35-2",
+            "text": "Ang “bawat sakit at bawat karamdaman” ay sumasagisag sa espiritwal na sakit."
+        },
+        {
+            "id": "36-1",
+            "text": "Ang “niligalig” ay tumutukoy sa paghihirap na binatá ng mga tupa sa kamay ng mabangis na pastol; ang “tinapon” ay tumutukoy sa kapabayaan ng masamang pastol sa kanyang pangangalaga sa mga tupa hanggang sa mahulog sa pagkawala sa walang makatutulong, walang maaasahan, na mahirap na sitwasyon. Inilahad ng salita ng Panginoon dito ang kalagayan ng mga Israelita sa kagipitan at kaligaligan sa ilalim ng mga kamay ng mga punong saserdote at ng mga eskriba."
+        },
+        {
+            "id": "36-2",
+            "text": "Tinutukoy nito na itinuring ng makalangit na Hari ang mga Israelita bilang “tupa” at ang Kanyang sarili bilang kanilang “Pastol.” Nang si Kristo ay dumating sa mga Hudyo sa unang pagkakataon, sila ay tulad ng mga ketongin, paralitiko, inalihan ng demonyo, at lahat ng uri ng mga kahabag-habag na tao, sapagkat sila ay walang pastol na mangangalaga sa kanila. Ngayon sa Kanyang makaharing ministeryo para sa pagtatatag ng Kanyang makalangit na kaharian, Kanyang pinaglingkuran sila hindi lamang bilang isang Manggagamot, bagkus bilang isang Pastol, katulad ng pagkapropesiya sa Isa. 53:6 at 40:11."
+        },
+        {
+            "id": "37-1",
+            "text": "Itinuring ng makalangit na Hari ang mga tao hindi lamang bilang mga tupa, bagkus bilang ang “aanihin” din. Ang tupa ay nangangailangan ng pangangalaga at ang aanihin ay nangangailangan ng mag-aani. Bagama’t tinanggihan ng mga pinuno ng bansa ng Israel ang makalangit na Hari, mayroon pa ring isang malaking bilang sa mga tao na nangangailangan ng pag-aani."
+        },
+        {
+            "id": "38-1",
+            "text": "Unang-una, sa ekonomiya ng Diyos, Siya ay may isang balak na tutuparin; pagkatapos nangangailangan ito na ang Kanyang mga tao ay “magsumamo,” manalangin, para rito. Sa Kanyang pagsagot sa kanilang panalangin, tutuparin Niya ang kanilang hinihiling na nauukol sa Kanyang balak."
+        },
+        {
+            "id": "38-2",
+            "text": "Itinuring ng Hari ng makalangit na kaharian ang Kanyang sarili hindi lamang bilang Pastol ng mga tupa, bagkus Panginoon din ng aanihin. Ang Kanyang kaharian ay naitatag sa pamamagitan ng mga bagay na may buhay, na lumalago at dumarami. Siya ang Panginoon na nagmamay-ari ng aning ito."
+        },
+        {
+            "id": "38-3",
+            "text": "Ang ibig sabihin ay magkaroon ng bahagi sa Kanyang pag-aani."
         }
     ]
 }

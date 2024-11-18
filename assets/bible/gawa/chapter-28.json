@@ -1,5 +1,5 @@
 {
-    "chapter": 28,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "footnotes": [
                 {
                     "word": "Malta.",
-                    "note": ""
+                    "id": "1-1"
                 }
             ],
             "outlines": [
@@ -20,7 +20,7 @@
             "footnotes": [
                 {
                     "word": "katutubo;",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -37,11 +37,11 @@
             "footnotes": [
                 {
                     "word": "ahas",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "katarungan.",
-                    "note": ""
+                    "id": "4-2"
                 }
             ],
             "outlines": null
@@ -58,7 +58,7 @@
             "footnotes": [
                 {
                     "word": "diyos.",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -81,7 +81,7 @@
             "footnotes": [
                 {
                     "word": "pinagaling.",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -98,7 +98,7 @@
             "footnotes": [
                 {
                     "word": "kambal",
-                    "note": ""
+                    "id": "11-1"
                 }
             ],
             "outlines": [
@@ -112,7 +112,7 @@
             "footnotes": [
                 {
                     "word": "dumaong",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -135,23 +135,23 @@
             "footnotes": [
                 {
                     "word": "doon",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "kapatid",
-                    "note": ""
+                    "id": "15-2"
                 },
                 {
                     "word": "Pamilihan",
-                    "note": ""
+                    "id": "15-3"
                 },
                 {
                     "word": "Tatlong",
-                    "note": ""
+                    "id": "15-4"
                 },
                 {
                     "word": "lumakas",
-                    "note": ""
+                    "id": "15-5"
                 }
             ],
             "outlines": null
@@ -206,7 +206,7 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": [
@@ -231,7 +231,7 @@
             "footnotes": [
                 {
                     "word": "Pumaroon",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -242,7 +242,7 @@
             "footnotes": [
                 {
                     "word": "kumapal",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -259,7 +259,7 @@
             "footnotes": [
                 {
                     "word": "At",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -270,11 +270,11 @@
             "footnotes": [
                 {
                     "word": "dalawang",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "tinanggap",
-                    "note": ""
+                    "id": "30-2"
                 }
             ],
             "outlines": null
@@ -285,14 +285,100 @@
             "footnotes": [
                 {
                     "word": "itinatanyag",
-                    "note": ""
+                    "id": "31-1"
                 },
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "31-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "O, Melita."
+        },
+        {
+            "id": "2-1",
+            "text": "O, barbaro (gayundin sa b. 4); yaong mga hindi nagsasalita ng Griyego o Latin, nguni’t hindi naman nangangahulugang hindi sibilisado."
+        },
+        {
+            "id": "4-1",
+            "text": "Lit. hayop. Nguni’t ginagamit ng mga manunulat na mediko ang katawagang ito upang tukuyin ang mga makamandag na ahas (Tingnan din ang b. 5)."
+        },
+        {
+            "id": "4-2",
+            "text": "Gr. Dike , maaaring tumutukoy sa diyosa ng katarungan at paghihiganti sa Griyegong metolohika."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang apostol ay hindi isang diyos sa pamahiin ng mga mausisang katutubo, nguni’t inihayag niya, sa kanyang pamumuhay at ministeryo, ang mismong totoong Diyos. Ang tunay na Diyos na ito na nasa loob ni Hesu-Kristo ay nagdaan sa mga hakbangin ng pagkakatawang-tao, pamumuhay bilang tao, pagkapako sa krus, pagkabuhay na muli at naging nagpapaloob ng lahat na Espiritu na namumuhay sa loob ng apostol at ipinamuhay ng apostol."
+        },
+        {
+            "id": "9-1",
+            "text": "Sa dagat, sa gitna ng bagyo, ginawa na ng Panginoon ang apostol na hindi lamang may-ari ng kanyang kapwa manlalakbay (27:24), bagkus kanila ring buhay-panagot at taga-aliw (27:22, 25). Ngayong payapa na sila sa lupa, ginawa siya ng Panginoon bukod tanging hindi lamang bilang isang kaakit-akit na pantawag pansin sa mga mata ng mga mapamahiing tao (bb. 3- 6), bagkus isang manggagamot at kaligayahan sa mga katutubong tao (bb. 8- 9). Sa buong panahon ng kanyang mahaba at kapus-palad na pagkakakulong na paglalakbay, pinanatili ng Panginoon ang apostol sa Kanyang buhay na naiakyat sa mga kalangitan at binigyan siya ng kakayahang makapamuhay ng isang buhay na malayo sa kinasasakupan ng pag-aalala, nguni’t punung-puno ng kadakilaan na may pinakamataas na pamantayan ng mga pantaong kagalingan na ipinahahayag ang mga pinakamagaling na dibinong katangian, isang buhay na katulad ng buhay na ibinuhay Niya Mismo sa lupa noong una pang mga taon. Ito si Hesus na nabubuhay muli sa lupa sa Kanyang dibinong pinayamang pagkatao! Ito ang kagila-gilalas, pinakamagaling at mahiwagang Diyos-tao, na nabuhay sa mga Ebanghelyo, na nagpapatuloy na mabuhay sa Gawa sa pamamagitan ng isa sa Kanyang mga sangkap! Ito ay isang buháy na saksi ng naging laman, napako sa krus, nabuhay na muli, at ng itinaas ng Diyos na Kristo! Ibinuhay at dinakila ni Pablo si Kristo sa kanyang paglalakbay (Fil. 1:20-21). Hindi kataka-taka na pinarangalan siya at ang kanyang mga kasamahan ng “maraming” parangal ng mga ito (b. 10), yaon ay, ang pinakamagaling na paggalang at pinakamataas na pagtingin!"
+        },
+        {
+            "id": "11-1",
+            "text": "Gr. Dioscuri , ang kambal na anak na lalake ni Zeus na sina Castor at Pollux, ang pigura ng diyos na tagatanod ng mga mandaragat na nakadikit sa hulihan ng bapor."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang ilang manuskrito ay binabasang, binaba namin ang angkla."
+        },
+        {
+            "id": "15-1",
+            "text": "Yaon ay, Roma."
+        },
+        {
+            "id": "15-2",
+            "text": "Ang mainit na pagtanggap ng mga kapatid mula sa Roma at ang mapagmahal na pag-aaruga ng mga nasa Puteoli (bb. 13-14) ay nagpapakita ng magandang buhay-Katawan sa mga naunang araw sa gitna ng mga ekklesia at ng mga apostol. Ang buhay na ito ay isang bahagi ng makalangit na pangkahariang buhay sa lupang pinadilim ni Satanas at pinanahanan ng mga tao. Sa wari ang apostol, bilang isang bilanggong nakagapos, ay ipinasok sa lugar ng madilim na kapital ng emperyong kinamkam ni Satanas; sa katunayan, bilang embahador ni Kristo na taglay ang Kanyang awtoridad (Efe. 6:20; Mat. 28:18-19), siya ay dumating sa isa pang parte ng pakikibahagi sa pang-Katawang buhay ng ekklesia sa kaharian ng Diyos sa lupa. Samantalang siya ay nagdurusa sa pag-uusig ng relihiyon sa emperyo ni Satanas, siya ay nagtatamasa naman ng buhay-ekklesia sa kaharian ng Diyos, na isang kaginhawahan at pagpapalakas-loob para sa kanya."
+        },
+        {
+            "id": "15-3",
+            "text": "Latin, Appii Forum , isang lugar na mahigit sa 60 kilometro ang layo mula sa Roma."
+        },
+        {
+            "id": "15-4",
+            "text": "Latin, Tres Tabernae , isang lugar na mahigit sa 40 kilometro ang layo mula sa Roma."
+        },
+        {
+            "id": "15-5",
+            "text": "Ito ay nagpapakita na talagang taong-tao ang apostol. Bagama’t siya ay nahikayat ng Panginoon nang tuwiran (23:11) at siya ay talagang matapang sa lahat ng daan ng kanyang paglalakbay (27:22-25, 33-36), napalakas din ang kanyang loob dahil sa mainit na pagsalubong ng mga kapatid. Sa kanyang napataas na pagkatao kasama ang mga pantaong kagalingan nito, si Kristo, kasama ang Kanyang mga maka-Diyos na katangian, ay naihayag sa kanyang paglalakbay. Idinakila niya si Kristo sa lahat ng panahon ng kanyang masamang kalagayan (Fil. 1:20)."
+        },
+        {
+            "id": "23-1",
+            "text": "Tingnan ang tala 3-4 sa kap. 1."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang Diyos Ama ang nagsalita ng ganito sa matitigas ang ulong mga anak ni Israel sa Isa. 6:9-10. Inulit ng Diyos Anak ang salitang ito sa mga nagtatakwil na Hudyo sa Mat. 13:14-15. At ngayon inulit ng Diyos Espiritu sa pamamagitan ng apostol ang salitang ito sa mga taong matitigas ang puso. Ito ay nagpapakita na sa lahat ng mga galaw ng dibinong Trinidad ang mga anak ni Israel ay naging suwail sa Diyos ng biyaya. Pagkatapos, binalingan Niya ang mga Hentil para sa pagsasagawa ng Kanyang Bagong Tipang ekonomiya sa pagpapalaganap ng Kanyang kaharian para sa pagtatayo ng mga ekklesia sa pamamagitan ng pagpapalaganap ng nabuhay na muli at umakyat sa langit na Kristo (b. 28)."
+        },
+        {
+            "id": "27-1",
+            "text": "Yaon ay, naging mapurol."
+        },
+        {
+            "id": "29-1",
+            "text": "Sa maraming manuskrito ay hindi matatagpuan ang bersikulong ito."
+        },
+        {
+            "id": "30-1",
+            "text": "Sa panahong ito ang apostol ay sumulat ng mga Sulat sa mga taga-Colosas (cf. Col. 4:3, 10, 18), taga-Efeso (cf. Efe. 3:1; 4:1; 6:20), taga- Filipos (cf. Fil. 1:7, 14, 17), at kay Filemon (cf. Filem. 1, 9). Sa Filipos 1:25; 2:24; at Filemon 22, siya ay umaasang makalalaya sa pagkakakulong. Marahil pagkatapos ng dalawang taon siya ay nakalaya at bumisita sa Efeso at Macedonia (1 Tim. 1:3). Siya rin ay bumisita sa Creta (Tito 1:5), Nicopolis (Tito 3:12), Troas, at Mileto (2 Tim. 4:13, 20). Tingnan ang tala 6-2 sa 2 Timoteo 4."
+        },
+        {
+            "id": "30-2",
+            "text": "Tinanggap nang may pagpapatuloy katulad ng nasa Luc. 8:40."
+        },
+        {
+            "id": "31-1",
+            "text": "Ito ang katapusan ng ikaapat na pangministeryong paglalakbay ng apostol na sinimulan sa 27:2."
+        },
+        {
+            "id": "31-2",
+            "text": "Ang kaharian ng Diyos ay isa sa mga binigyang-diin ng aklat na ito. Ang sulat ni Lucas ay kapwa nagsisimula (1:3) at nagtatapos sa kaharian ng Diyos. Ang aklat na ito ay walang katapusan kundi patuloy na may idinaragdag. Ito ay tiyak na dahil sa hinahayaan ng gawain ng Espiritu Santo sa pamamagitan ng mga mananampalataya ni Kristo si Kristo na maparami, mapalaganap, at maging laan para sa lahat. Ang gawaing ito ay hindi pa natatapos at nangangailangan pang maipagpatuloy sa loob ng isa pang mahabang panahon. Ang ganitong uri ng gawain ng ebanghelyo ng pagpaparami, ng pagpapalaganap, at ng paggawa kay Kristo na maging laan para sa lahat ay naaayon sa Bagong Tipang ekonomiya ng Diyos na namumunga ng maraming anak para sa Diyos (Roma 8:29), upang maging mga sangkap ni Kristo at mabuong Katawan ni Kristo (Roma 12:5) nang sa gayon ay maisakatuparan ang walang hanggang plano ng Diyos at ang Kanyang walang hanggang layunin. Ito ang pahayag na ginawa ng dalawampu’t isang (21) Sulat na kasunod ng aklat na ito at ng aklat ng Apocalipsis. Ang ekklesia na ibinunga dahil sa ganitong pagpaparami at pagpapalaganap kay Kristo ay nasa kinasasaklawan ng awtoridad at kahayagan ng Diyos sa loob ni Kristo, kaya ito ay naging kaharian ng Diyos. Ang kaharian ng Diyos ay ang paglago at pagiging laan para sa lahat ng buhay ng Diyos sa pamamagitan ng pagpaparami at pagpapalaganap kay Kristo. Ang Gawa ay ang pagiging laan para sa lahat ni Kristo at maging ang pagiging laan sa lahat ng kaharian ng Diyos sapagka’t ang kaharian ng Diyos ay ang pagpapalaki ni Kristo. Ang ebanghelyong ipinahahayag sa aklat na ito ay si Kristo bilang ang ebanghelyo (8:2), na Siya ring ebanghelyo ng kaharian ng Diyos. Ang pagpapahayag ng ebanghelyong ito ay patuloy na susulong hanggang ang buong lupa ay maging kaharian ni Kristo (Apoc. 11:15)."
         }
     ]
 }

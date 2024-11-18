@@ -1,5 +1,5 @@
 {
-    "chapter": 11,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -15,7 +15,7 @@
             "footnotes": [
                 {
                     "word": "pagtutuli",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -80,7 +80,7 @@
             "footnotes": [
                 {
                     "word": "anim",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -97,7 +97,7 @@
             "footnotes": [
                 {
                     "word": "sambahayan.",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -126,7 +126,7 @@
             "footnotes": [
                 {
                     "word": "buhay.",
-                    "note": ""
+                    "id": "18-1"
                 }
             ],
             "outlines": null
@@ -137,11 +137,11 @@
             "footnotes": [
                 {
                     "word": "ikinalat",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "hindi",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": [
@@ -154,11 +154,11 @@
             "footnotes": [
                 {
                     "word": "taong",
-                    "note": ""
+                    "id": "20-1"
                 },
                 {
                     "word": "nangagsalita",
-                    "note": ""
+                    "id": "20-2"
                 }
             ],
             "outlines": null
@@ -175,11 +175,11 @@
             "footnotes": [
                 {
                     "word": "isinugo",
-                    "note": ""
+                    "id": "22-1"
                 },
                 {
                     "word": "Bernabe",
-                    "note": ""
+                    "id": "22-2"
                 }
             ],
             "outlines": null
@@ -190,7 +190,7 @@
             "footnotes": [
                 {
                     "word": "biyaya",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -201,11 +201,11 @@
             "footnotes": [
                 {
                     "word": "puspos",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "bilang",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -222,7 +222,7 @@
             "footnotes": [
                 {
                     "word": "Kristiyano",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -233,7 +233,7 @@
             "footnotes": [
                 {
                     "word": "propeta",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": [
@@ -246,7 +246,7 @@
             "footnotes": [
                 {
                     "word": "Claudio.",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -257,15 +257,15 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "29-1"
                 },
                 {
                     "word": "ayon",
-                    "note": ""
+                    "id": "29-2"
                 },
                 {
                     "word": "maipamahagi",
-                    "note": ""
+                    "id": "29-3"
                 }
             ],
             "outlines": null
@@ -276,14 +276,100 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "30-1"
                 },
                 {
                     "word": "Saulo.",
-                    "note": ""
+                    "id": "30-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "2-1",
+            "text": "Ang pagtutuli ay isang panlabas na ordinansa na namana ng mga Hudyo sa kanilang mga ninuno, magmula kay Abraham (Gen. 17:9-14), at dahil dito sila ay naging naiiba at hiwalay sa mga Hentil. Ito ay naging isang patay na pangkaugaliang pormalidad, isa lamang tanda sa laman na walang pang-espirituwal na kahalagahan, at naging isang malaking hadlang sa pagkalat ng ebanghelyo ng Diyos ayon sa Kanyang Bagong Tipang ekonomiya (15:1; Gal. 2:3-4; 6:12-13; Fil. 3:2). Tingnan ang tala 14-1 sa kapitulo 10."
+        },
+        {
+            "id": "12-1",
+            "text": "Ang anim na kapatid na ito ay naroroon bilang mga saksi sa salita ni Pedro habang siya ay nagsasalita."
+        },
+        {
+            "id": "14-1",
+            "text": "Tingnan ang tala 31-1 sa kap. 16."
+        },
+        {
+            "id": "18-1",
+            "text": "Gr. zoe, tumutukoy sa buhay na walang hanggan (I Juan 1:2), ang buhay ng Diyos (Efe. 4:18), ang di-nilikha, di-nasisirang buhay (Heb. 7:16), na si Kristo Mismo (Juan 14:6; 11:25; Col. 3:4) bilang ang Espiritung nagbibigay-buhay (I Cor. 15:45), kung kaninong buhay nabibilang ang Espiritu (Roma 8:2), na tinanggap ng mga mananampalataya sa pamamagitan ng kanilang pananampalataya kay Kristo (Juan 3:15-16) pagkaraan ng pagsisisi para sa kanilang ganap na kaligtasan (Roma 5:10). Ang ebanghelyong ipinangaral ni Pedro ay nagpapaloob ng mga dibinong pagpapala, hindi lamang ng kapatawaran ng mga kasalanan (5:31; 10:43) at ng kaligtasan (2:21; 4:12), bagkus maging ng Espiritu Santo (2:38) at buhay. Tinuos ng kapatawaran ng mga kasalanan ang mga kasalanan ng tao at tinuos ng buhay ang kamatayan ng tao (Juan 5:24; I Juan 3:14; II Cor. 5:4)."
+        },
+        {
+            "id": "19-1",
+            "text": "Tingnan ang tala 4-1 sa kap. 8."
+        },
+        {
+            "id": "19-2",
+            "text": "Ito ay tumutukoy kung gaano katibay ang mga mananampalatayang Hudyo sa kanilang pangingilin ng kanilang mga tradisyon. Hindi nila nilapitan ang mga Hentil (10:28). Ang kondisyong ito ay nagpatuloy maging pagkaraan ng pangangaral ni Pedro kay Cornelio na isang Italyano. Ito ay tiyak na nakapigil sa pagkilos ng Panginoon sa pagpapalaganap ng Kanyang ebanghelyo ayon sa Bagong Tipang ekonomiya ng Diyos."
+        },
+        {
+            "id": "20-1",
+            "text": "Malamang na sila yaong mga mananampalatayang Hudyo na nasa pangangalat (cf. I Ped. 1:1)."
+        },
+        {
+            "id": "20-2",
+            "text": "Ito ay ang higit na pagsulong sa pagkilos ng Panginoon sa pagpapalaganap ng Kanyang ebanghelyo sa mga Hentil kasunod ng nangyari sa bahay ni Cornelio (kap. 10) at bago ang ministeryo ni Pablo sa mga Hentil na nagsimula sa kapitulo 13."
+        },
+        {
+            "id": "22-1",
+            "text": "Lit. ipinadala (sa isang misyon) bilang isang may awtoridad na kinatawan. Si Bernabe ay ipinadala mula sa Herusalem upang bisitahin ang mga mananampalataya sa ibang mga lugar na may awtoridad mula sa mga apostol, hindi mula sa ekklesia, sapagkat ang mga apostol ay naroon."
+        },
+        {
+            "id": "22-2",
+            "text": "Si Saulo ay iniligtas ng Panginoon nang tuwiran na hindi dumaan sa ibang mangangaral (9:3-6), at dinala sa pakikipag-isa sa Katawan ni Kristo sa pamamagitan ni Ananias, isang sangkap ng Katawan ni Kristo (9:10-19). Gayunpaman, siya ay nagsimula sa praktikal na pakikisalamuha kasama ang mga disipulo sa Herusalem sa pamamagitan ni Bernabe (9:26-28). At si Bernabe ay ipinadala mula sa Herusalem hanggang sa Antioquia upang palakasin ang loob ng mga mananampalataya, at nagpunta sa Tarso upang dalhin si Saulo sa Antioquia (bb. 25-26). Ito ay isang malaking hakbangin. Ito ang nagpakilala kay Saulo sa pagkilos ng Panginoon sa pagpapalaganap ng ebanghelyo ng Kanyang kaharian sa sanlibutan ng mga Hentil (13:1-3). Tingnan ang tala 25-1 sa kapitulo 12."
+        },
+        {
+            "id": "23-1",
+            "text": "Tingnan ang mga tala 14-6 sa Juan 1 at 10-1 sa I Cor. 15. Ang biyayang nakita ni Bernabe ay malamang na ang Tres-unong Diyos na tinanggap at tinamasa ng mga mananampalataya at inihayag sa kanilang kaligtasan, pagbabago sa buhay, banal na pamumuhay, at sa mga kaloob na kanilang inensayo sa kanilang mga pagpupulong. Ang lahat ng mga ito ay makikita ng iba."
+        },
+        {
+            "id": "24-1",
+            "text": "Tingnan ang tala 3-1 sa kap. 6."
+        },
+        {
+            "id": "24-2",
+            "text": "O, kalipunan (tulad sa b. 26)."
+        },
+        {
+            "id": "26-1",
+            "text": "Tingnan ang tala 16-1 sa I Ped. 4. Ang pagbigay sa mga disipulo sa Antioquia ng gayong bansag, isang katawagan ng kahihiyan, ay tumutukoy na kanilang tinaglay ang isang matibay na patotoo para sa Panginoon, isang patotoo na ginawa silang mga tangi at naiiba sa mga mata ng mga di-mananampalataya."
+        },
+        {
+            "id": "27-1",
+            "text": "Tingnan ang tala 28-3 sa I Corinto 12."
+        },
+        {
+            "id": "28-1",
+            "text": "Isang Cesar ng Emperyo Romano. Sa ikaapat na taon ng kanyang paghahari, mga A.D. 44, ay nagkaroon ng taggutom sa Judea at sa mga kalapit na lupain."
+        },
+        {
+            "id": "29-1",
+            "text": "Ipinakikita sa atin ng salitang ito na ang gawi ng mga mananampalataya ukol sa “ang lahat ng mga bagay ay pangkalahatan” noong panahon ng Pentecostes (2:44-45; 4:32) ay lumipas na; samantalang wala pang sampung taon ang nakararaan, ang tala rito ay ang panahon bago pa nagministeryo si Pablo sa mga Hentil (13:2-4). Ang salita rito ay nagpapatunay rin na ukol sa paghahandog ng mga materyal na bagay, ang ekklesia noong panahong nag-uumpisa pa lamang ito ay hindi nagtatakda ng anumang reglamento kundi ipinaubaya sa pagkukusang-loob ng mga mananampalataya."
+        },
+        {
+            "id": "29-2",
+            "text": "Tumutukoy sa pagpapaunlad sa kanyang propesyon, hanapbuhay o sa iba pang bagay na kanyang ginagawa. Ang kaunlaran ay kaloob ng Diyos at ang resulta nito ay kasaganaan."
+        },
+        {
+            "id": "29-3",
+            "text": "Lit. maipaglingkod. Sa Griyego, ang salitang ugat ay kapareho ng nasa Mat. 4:11."
+        },
+        {
+            "id": "30-1",
+            "text": "Tinutukoy nito na nang mga unang araw ang pamamahala sa pananalapi ng ekklesia ay nasa ilalim ng pamamahala ng mga matanda (tingnan ang tala 3-5 sa I Tim. 3)."
+        },
+        {
+            "id": "30-2",
+            "text": "At si Saulo, sa pamamagitan ni Bernabe, ay dinala sa paglilingkod sa mga ekklesia."
         }
     ]
 }

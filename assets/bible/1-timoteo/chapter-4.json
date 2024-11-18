@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,27 +7,27 @@
             "footnotes": [
                 {
                     "word": "Nguni’t",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Espiritu,",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "huling",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "pananampalataya,",
-                    "note": ""
+                    "id": "1-4"
                 },
                 {
                     "word": "espiritung",
-                    "note": ""
+                    "id": "1-5"
                 },
                 {
                     "word": "demonyo,",
-                    "note": ""
+                    "id": "1-6"
                 }
             ],
             "outlines": [
@@ -40,15 +40,15 @@
             "footnotes": [
                 {
                     "word": "Sa",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "naherohan",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "bakal",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -59,23 +59,23 @@
             "footnotes": [
                 {
                     "word": "pag-aasawa",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "pagkain,",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "nilikha",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "nagsisisampalataya",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "lubusang",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": null
@@ -86,7 +86,7 @@
             "footnotes": [
                 {
                     "word": "bawa’t",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -97,15 +97,15 @@
             "footnotes": [
                 {
                     "word": "pinabanal",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "panalangin.",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -116,27 +116,27 @@
             "footnotes": [
                 {
                     "word": "ipaaalala",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "tagapaghain",
-                    "note": ""
+                    "id": "6-2"
                 },
                 {
                     "word": "kinandili",
-                    "note": ""
+                    "id": "6-3"
                 },
                 {
                     "word": "pananampalataya",
-                    "note": ""
+                    "id": "6-4"
                 },
                 {
                     "word": "mabuting",
-                    "note": ""
+                    "id": "6-5"
                 },
                 {
                     "word": "mahigpit",
-                    "note": ""
+                    "id": "6-6"
                 }
             ],
             "outlines": [
@@ -149,19 +149,19 @@
             "footnotes": [
                 {
                     "word": "tanggihan",
-                    "note": ""
+                    "id": "7-1"
                 },
                 {
                     "word": "di-",
-                    "note": ""
+                    "id": "7-2"
                 },
                 {
                     "word": "sabi-",
-                    "note": ""
+                    "id": "7-3"
                 },
                 {
                     "word": "magsanay",
-                    "note": ""
+                    "id": "7-4"
                 }
             ],
             "outlines": null
@@ -172,15 +172,15 @@
             "footnotes": [
                 {
                     "word": "kaunting",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "lahat",
-                    "note": ""
+                    "id": "8-2"
                 },
                 {
                     "word": "pangako",
-                    "note": ""
+                    "id": "8-3"
                 }
             ],
             "outlines": null
@@ -197,7 +197,7 @@
             "footnotes": [
                 {
                     "word": "buháy",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -214,15 +214,15 @@
             "footnotes": [
                 {
                     "word": "kabataan,",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "pananalita,",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "kadalisayan.",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -233,7 +233,7 @@
             "footnotes": [
                 {
                     "word": "pagbabasa,",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -244,23 +244,23 @@
             "footnotes": [
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "nasa",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "propesiya,",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "pagpapatong",
-                    "note": ""
+                    "id": "14-4"
                 },
                 {
                     "word": "matanda.",
-                    "note": ""
+                    "id": "14-5"
                 }
             ],
             "outlines": null
@@ -271,11 +271,11 @@
             "footnotes": [
                 {
                     "word": "italaga",
-                    "note": ""
+                    "id": "15-1"
                 },
                 {
                     "word": "pagsulong",
-                    "note": ""
+                    "id": "15-2"
                 }
             ],
             "outlines": null
@@ -286,10 +286,184 @@
             "footnotes": [
                 {
                     "word": "Pag-",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang sumusunod ay kabaligtaran ng binabanggit sa 3:16."
+        },
+        {
+            "id": "1-2",
+            "text": "Ito ay ang Espiritung nananahan sa ating espiritu at nagsasalita sa atin sa loob ng ating espiritu (Roma 8:9-11, 16). Kinakailangan nating sanayin ang ating espiritu upang ito ay maging matalas at malinaw sa pakikinig sa pagsasalita ng Espiritu at maingatan mula sa mga mapanlinlang na espiritu at mga aral ng mga demonyo."
+        },
+        {
+            "id": "1-3",
+            "text": "Tumutukoy sa mga panahon pagkatapos ng pagkakasulat ng aklat na ito, naiiba sa mga huling araw sa 2 Tim. 3:1, na tumutukoy sa pagtatapos ng kapanahunang ito."
+        },
+        {
+            "id": "1-4",
+            "text": "Yaon ay ang obhektibong pananampalataya na tumutukoy sa nilalaman ng ating pinaniniwalaan. Tingnan ang mga tala 19-3 sa kapitulo 1 at 9-1 sa kapitulo 3."
+        },
+        {
+            "id": "1-5",
+            "text": "Ang mga espiritung mapanlinlang ay kabaligtaran ng Espiritung binanggit sa I Juan 4:2 at 6. Ang mga ito ay ang mga natisod na anghel na sumunod kay Satanas sa kanyang pagrerebelde at naging mga tagasunod ni Satanas na gumagawa para sa kanyang kaharian ng kadiliman (Mat. 25:41; Efe. 6:12 at tala 2)."
+        },
+        {
+            "id": "1-6",
+            "text": "Ito ay ang marurumi at masasamang espiritu (Mat. 12:22, 43; Luc. 8:2) ng mga nabubuhay na nilikha sa lupa noong bago pa man ang kapanahunan ni Adam, at ang mga ito ay nakisama sa pagrerebelde ni Satanas at hinatulan ng Diyos (tingnan ang Pag-aaral Pambuhay ng Genesis, Mensahe 2). Pagkatapos na mahatulan sila ay naging mga demonyo, naiiba sa mga mapanlinlang na espiritu na gumagawa sa lupa para sa kaharian ni Satanas."
+        },
+        {
+            "id": "2-1",
+            "text": "Tinutukoy ng pariralang ito ang mga aral ng mga demonyo sa bersikulo 1. Ang mga aral ng mga demonyo ay naisasakatuparan sa pamamagitan ng pagkukunwari ng mga nagsisinungaling na tao. Ito ay nangangahulugan na ang mga demonyo at mga sinungaling na tagapagsalita ay magkasamang nagtutulungan upang linlangin ang mga tao."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang budhi ng mga mapagkunwaring sinungaling ay nawalan na ng pakiramdam katulad ng naherohan ng isang nagbabagang bakal. Malakas na binibigyang-diin ng aklat na ito ang budhi. Sa buhay-ekklesia, ang pag-ibig na salungat sa inggitan at alitan ay mula sa isang mabuting budhi (1:5). Ang mga nagtakwil ng isang mabuting budhi ay katulad ng isang barkong nawasak hinggil sa pananampalataya (1:19). Kinakailangang ingatan ng mga naglilingkod sa ekklesia ang hiwaga ng pananampalataya sa pamamagitan ng isang dalisay na budhi (3:9). Ang mapanatili ang isang mabuti at dalisay na budhi ay ang maingatan ang budhi na maging matalas sa pangsyon nito. Ito ang mag-iingat sa atin sa makademonyo at mga mapagkunwaring aral ng mga mapanlinlang na sinungaling."
+        },
+        {
+            "id": "2-3",
+            "text": "Tumutukoy sa isang mainit na bakal na nagtatatak sa mga alipin at hayop ng isang nagmamay-ari."
+        },
+        {
+            "id": "3-1",
+            "text": "Ang pag-aasawa at pagkain ay kapwa itinalaga ng Diyos. Ang pagkain ay para mapanatiling buháy ang sangkatauhan, at ang pag-aasawa ay para sa pagpapatuloy at pagdami ng sangkatauhan. Si Satanas, sa isang panig, ay nagsasanhi sa mga tao na magmalabis sa dalawang bagay na ito sa pagpapalayaw sa kanilang mapagpitang laman; sa kabilang panig, siya ay nagbibigay ng labis na pagdiriin sa asetisismo upang pagbawalan ang mga tao na mag-asawa at pagbawalan sa pagkain ng kung anong mga pagkain. Ito ay isang makademonyong aral!"
+        },
+        {
+            "id": "3-2",
+            "text": "Ang lahat ng mga makakaing bagay ay nilikha ng Diyos para sa tao upang mapangalagaan ang kanilang buhay. Dapat nating tamasahin ang mga ito na may pasasalamat sa Diyos mula sa isang nagpapasalamat na puso."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang manampalataya ay ang maligtas at sa gayon ay magsimula sa espirituwal na buhay; ang lubos na makaalam ng katotohanan ay ang matanto ang layunin ng Diyos sa Kanyang ekonomiya at ang lumago tungo sa paggulang sa espirituwal na buhay."
+        },
+        {
+            "id": "3-4",
+            "text": "Tingnan ang tala 4-2 sa kap. 2."
+        },
+        {
+            "id": "4-1",
+            "text": "Ito ay salungat kapwa sa Gnostisismo na nagtuturo na ilan sa mga nilikhang bagay ay masama, at sa aral ng asetisismo na nag-uutos sa mga tao na huwag kainin ang ilang pagkain."
+        },
+        {
+            "id": "5-1",
+            "text": "Tinutukoy na inihiwalay tungo sa Diyos para sa Kanyang layunin."
+        },
+        {
+            "id": "5-2",
+            "text": "Tumutukoy sa salita na sinabi natin sa Diyos sa ating panalangin na maaaring may bahagi na sipi mula sa Bibliya o may bahaging mula sa mensahe na ating narinig at nabasa."
+        },
+        {
+            "id": "5-3",
+            "text": "Tingnan ang tala 1-2 sa kapitulo 2. Dito, tumutukoy ito sa ating panalangin sa Diyos para sa pagkain na ating kinakain, na naghihiwalay sa ating pagkain mula sa pagiging karaniwan at pinababanal ito tungo sa Diyos para sa Kanyang layunin, yaon ay, ang matustusan tayo nang tayo ay mabuhay para sa Kanya."
+        },
+        {
+            "id": "6-1",
+            "text": "Lit. imumungkahi mo sa mga kapatid ang mga bagay na ito."
+        },
+        {
+            "id": "6-2",
+            "text": "Ang isang tagapaghain o ministro ni Kristo ang siyang naghahain ng Kristo sa mga tao, nagmiministeryo ng Kristo bilang Tagapagligtas, buhay, panustos ng buhay, at bawa’t positibong bagay. Siya ay naiiba sa guro ng kautusan at naiiba rin sa guro ng iba pang mga bagay (1:7, 3)."
+        },
+        {
+            "id": "6-3",
+            "text": "O, kinakandili ang sarili. Ang pagiging nakakandili ay para sa paglago ng buhay, isang bagay ng buhay, naiiba ito sa pagiging naturuan lamang, na isang bagay ng kaalaman. Ang paghahain ng Kristo sa iba ay humihiling sa ating mga sarili na makandili muna ng mga salita ng buhay hinggil kay Kristo."
+        },
+        {
+            "id": "6-4",
+            "text": "Tingnan ang tala 1-4 . Ang mga salita ng pananampalataya ay ang mga salita ng buong ebanghelyo hinggil sa Bagong Tipang ekonomiya ng Diyos."
+        },
+        {
+            "id": "6-5",
+            "text": "Ang mga salita ng mabuting aral ay matatamis na salita na naglalaman at naghahatid ng mga kayamanan ni Kristo upang makandili, maitayo, at mapalakas ang Kanyang mga mananampalataya."
+        },
+        {
+            "id": "6-6",
+            "text": "Kinakailangan muna nating sundin nang mahigpit ang salita na ating itinuturo sa iba."
+        },
+        {
+            "id": "7-1",
+            "text": "O, iwasan."
+        },
+        {
+            "id": "7-2",
+            "text": "Tumutukoy sa mga salitang nahaluan ng pagkamakasanlibutan, salungat sa pagiging banal."
+        },
+        {
+            "id": "7-3",
+            "text": "Tingnan ang tala 4-1 sa kap. 1."
+        },
+        {
+            "id": "7-4",
+            "text": "Ang magsanay ay ang mag-ehersisyo. Ang “tungo sa pagkamakadiyos” ay nangangahulugan na ang pagkamakadiyos ang layunin. Ang pagkamakadiyos ay si Kristo na ibinuhay mula sa atin bilang kahayagan ng Diyos sa laman (tingnan ang mga tala 16-1 at 16-2 sa kap. 3). Sa ngayon, ang mismong Kristong ito ay ang Espiritung nananahan sa ating espiritu (2 Cor. 3:17; Roma 8:9-10; 2 Tim. 4:22). Kaya, ang sanayin ang ating mga sarili tungo sa pagkamakadiyos ay ang sanayin ang ating espiritu na ipamuhay si Kristo sa ating pang-araw-araw na buhay."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang “kaunting pakinabang” ay salungat sa “lahat ng mga bagay ay pinakikinabangan”; tinutukoy na sa kakaunting bagay lamang may pakinabang; may pakinabang sa maliit lamang na bahagi ng isang tao."
+        },
+        {
+            "id": "8-2",
+            "text": "Mga bagay na hindi lamang sa isang bahagi ng ating katauhan, bagkus ang lahat ng mga bahagi nito-pisikal, sikolohikal, at espirituwal; pansamantala, at walang hanggan."
+        },
+        {
+            "id": "8-3",
+            "text": "Ang pangako ng pangkasalukuyang buhay na nasa kapanahunang ito ngayon ay katulad ng naroroon sa Mat. 6:33, Juan 16:33, Fil. 4:6-7, 2 Ped. 5:8-10, atbp. Ang pangako ng darating na buhay na nasa susunod na kapanahunan at nasa kawalang-hanggan ay katulad ng nakatala sa 2 Ped. 1:10-11, 2 Tim. 2:12, Apoc. 2:7, 17; 21:6-7, atbp. Ang pangako na katulad ng nasa Mar. 10:29-30 ay kapwa ukol sa pangkasalukuyang buhay at darating na buhay."
+        },
+        {
+            "id": "10-1",
+            "text": "Sapagka’t ang ating Diyos ay buháy, mailalagak natin ang ating pag-asa sa Kanya."
+        },
+        {
+            "id": "12-1",
+            "text": "Bagama’t si Timoteo ay nasa kabataan pa, siya ay inatasan ng apostol na magdala ng responsabilidad, na pangalagaan ang pagtatayo ng ekklesia lokal at magtalaga ng mga matanda at mga diyakono. Dahil sa gayong responsabilidad, siya ay inatasan na huwag mag-ugaling bata, kundi maging tularan ng mga mananampalataya."
+        },
+        {
+            "id": "12-2",
+            "text": "O, ang malakas at nakahihikayat na pagpapahayag."
+        },
+        {
+            "id": "12-3",
+            "text": "Dalisay sa motibo at pagkilos, walang halo."
+        },
+        {
+            "id": "13-1",
+            "text": "Hindi nagbabasa upang pag-aralan, kundi nagbabasa nang malakas sa karamihan. Ayon sa ibig sabihin ng nilalaman, ang ganitong uri ng pagbabasa sa karamihan ay maaaring maging para sa paghihikayat at pagtuturo."
+        },
+        {
+            "id": "14-1",
+            "text": "Malamang na isang kaloob ng pagtuturo, ayon sa ibig sabihin ng nilalaman ng mga bersikulo 11, 13, at 16. Ang mga sumusunod na bersikulo ay maaari ring magpatunay rito: 1 Tim. 1:3; 4:6; 5:7; 6:2, 12, 20; 2 Tim. 1:13-14; 2:2, 14-15, 24-25; 4:2, 5."
+        },
+        {
+            "id": "14-2",
+            "text": "Ito ay nangangahulugan na ang kaloob na binanggit dito ay hindi panlabas na kapabilidad, kundi ang panloob na kakayahan ng buhay na magtustos sa iba. Ito ay hindi isang mahimalang kaloob, katulad ng pagsasalita sa iba’t ibang wika at pagpapagaling (1 Cor. 12:28), kundi ang kaloob ng biyaya, katulad ng pagtuturo at paghihikayat (Roma 12:7-8)."
+        },
+        {
+            "id": "14-3",
+            "text": "Tingnan ang tala 18-2 sa kap. 1."
+        },
+        {
+            "id": "14-4",
+            "text": "Ang pagpapatong ng mga kamay ay may dalawang pangsyon: ang isa ay para sa pakikipagkaisa, katulad sa Lev. 1:4, at ang isa pa ay para sa pamamahagi, katulad dito. Ang pinagbatayan ng pamamahagi ay ang pakikipagkaisa, kung walang pakikipagkaisa ay walang paraang makatanggap ang taong walang kaloob mula sa taong mayroong kaloob. Sa pamamagitan ng pakikipagkaisang tinutukoy ng pagpapatong ng mga kamay ng mga matanda at ni Apostol Pablo (2 Tim. 1:6), ang kaloob ng biyaya ay ipinamahagi kay Timoteo."
+        },
+        {
+            "id": "14-5",
+            "text": "Lit. presbiteryo, nangangahulugang ang kalipunan ng mga matanda. Hindi lamang tumutukoy sa mga matanda bagkus tumutukoy sa kalipunan ng mga matanda, ang pagkamatanda, nangangahulugan ng pagkakaisa ng maraming matanda. Ang mga matanda, na mga tagapangasiwa (3:2) ay kumakatawan sa ekklesia lokal, na siyang kahayagan ng Katawan ni Kristo. Ang pagpapatong ng mga kamay ng mga matanda ay sumasagisag na ang Katawan ni Kristo ay nakibahagi sa Diyos sa pagbabahagi ng kaloob ng biyaya kay Timoteo. Ito ay hindi isang pang-indibiduwal na bagay kundi isang bagay ng Katawan ni Kristo."
+        },
+        {
+            "id": "15-1",
+            "text": "Lit. ibabad."
+        },
+        {
+            "id": "15-2",
+            "text": "O, pag-unlad."
+        },
+        {
+            "id": "16-1",
+            "text": "O, bigyang-pansin nang mahigpit."
         }
     ]
 }

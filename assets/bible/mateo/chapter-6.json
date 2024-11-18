@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "Subali’t",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "katuwiran",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-3"
                 },
                 {
                     "word": "Ama",
-                    "note": ""
+                    "id": "1-4"
                 }
             ],
             "outlines": [
@@ -33,19 +33,19 @@
             "footnotes": [
                 {
                     "word": "nagbibigay",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "magpatunog",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "mapagkunwari",
-                    "note": ""
+                    "id": "2-3"
                 },
                 {
                     "word": "sinagoga",
-                    "note": ""
+                    "id": "2-4"
                 }
             ],
             "outlines": null
@@ -56,11 +56,11 @@
             "footnotes": [
                 {
                     "word": "nagbibigay",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "kaliwang",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -71,15 +71,15 @@
             "footnotes": [
                 {
                     "word": "lihim;",
-                    "note": ""
+                    "id": "4-1"
                 },
                 {
                     "word": "nakakikita",
-                    "note": ""
+                    "id": "4-2"
                 },
                 {
                     "word": "gaganti",
-                    "note": ""
+                    "id": "4-3"
                 }
             ],
             "outlines": null
@@ -90,15 +90,15 @@
             "footnotes": [
                 {
                     "word": "mapagkunwari;",
-                    "note": ""
+                    "id": "5-1"
                 },
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "5-2"
                 },
                 {
                     "word": "kanilang",
-                    "note": ""
+                    "id": "5-3"
                 }
             ],
             "outlines": null
@@ -109,7 +109,7 @@
             "footnotes": [
                 {
                     "word": "pribadong",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -120,7 +120,7 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -131,7 +131,7 @@
             "footnotes": [
                 {
                     "word": "humingi",
-                    "note": ""
+                    "id": "8-1"
                 }
             ],
             "outlines": null
@@ -142,11 +142,11 @@
             "footnotes": [
                 {
                     "word": "tulad",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "pakabanalin",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": null
@@ -157,7 +157,7 @@
             "footnotes": [
                 {
                     "word": "lupa.",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -168,15 +168,15 @@
             "footnotes": [
                 {
                     "word": "kami",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "ngayon",
-                    "note": ""
+                    "id": "11-2"
                 },
                 {
                     "word": "pang-",
-                    "note": ""
+                    "id": "11-3"
                 }
             ],
             "outlines": null
@@ -187,7 +187,7 @@
             "footnotes": [
                 {
                     "word": "ipatawad",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -198,23 +198,23 @@
             "footnotes": [
                 {
                     "word": "huwag",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "masama.",
-                    "note": ""
+                    "id": "13-2"
                 },
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "13-3"
                 },
                 {
                     "word": "kaharian,",
-                    "note": ""
+                    "id": "13-4"
                 },
                 {
                     "word": "Amen.",
-                    "note": ""
+                    "id": "13-5"
                 }
             ],
             "outlines": null
@@ -225,7 +225,7 @@
             "footnotes": [
                 {
                     "word": "Sapagka’t",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -242,7 +242,7 @@
             "footnotes": [
                 {
                     "word": "nag-",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -265,7 +265,7 @@
             "footnotes": [
                 {
                     "word": "Huwag",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": [
@@ -280,7 +280,7 @@
             "footnotes": [
                 {
                     "word": "kayamanan",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -291,7 +291,7 @@
             "footnotes": [
                 {
                     "word": "puso.",
-                    "note": ""
+                    "id": "21-1"
                 }
             ],
             "outlines": null
@@ -302,7 +302,7 @@
             "footnotes": [
                 {
                     "word": "tapat-",
-                    "note": ""
+                    "id": "22-1"
                 }
             ],
             "outlines": null
@@ -313,11 +313,11 @@
             "footnotes": [
                 {
                     "word": "masama,",
-                    "note": ""
+                    "id": "23-1"
                 },
                 {
                     "word": "ilaw",
-                    "note": ""
+                    "id": "23-2"
                 }
             ],
             "outlines": null
@@ -328,11 +328,11 @@
             "footnotes": [
                 {
                     "word": "makapaglilingkod",
-                    "note": ""
+                    "id": "24-1"
                 },
                 {
                     "word": "magiging",
-                    "note": ""
+                    "id": "24-2"
                 }
             ],
             "outlines": null
@@ -343,15 +343,15 @@
             "footnotes": [
                 {
                     "word": "buhay,",
-                    "note": ""
+                    "id": "25-1"
                 },
                 {
                     "word": "higit",
-                    "note": ""
+                    "id": "25-2"
                 },
                 {
                     "word": "buhay",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": null
@@ -368,7 +368,7 @@
             "footnotes": [
                 {
                     "word": "sukat?",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -379,7 +379,7 @@
             "footnotes": [
                 {
                     "word": "lirio",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -408,7 +408,7 @@
             "footnotes": [
                 {
                     "word": "Ama",
-                    "note": ""
+                    "id": "32-1"
                 }
             ],
             "outlines": null
@@ -419,11 +419,11 @@
             "footnotes": [
                 {
                     "word": "kaharian",
-                    "note": ""
+                    "id": "33-1"
                 },
                 {
                     "word": "katuwiran,",
-                    "note": ""
+                    "id": "33-1"
                 }
             ],
             "outlines": null
@@ -434,14 +434,216 @@
             "footnotes": [
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "34-1"
                 },
                 {
                     "word": "kasamaan.",
-                    "note": ""
+                    "id": "34-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Ang ikaapat na bahagi ng pagtatalaga ng saligang-batas ng kaharian na ginawa ng Hari sa bundok sa bb. 6:1-18, ay nauukol sa mga makatuwirang gawa ng mga tao ng kaharian."
+        },
+        {
+            "id": "1-2",
+            "text": "Ang “katuwiran” dito ay nagsasaad ng mga makatuwirang gawa, katulad ng pagbibigay ng mga limos, na binanggit sa mga bersikulo 2-4; pananalangin, sa mga bersikulo 5-15; at pag-aayuno, sa mga bersikulo 16-18."
+        },
+        {
+            "id": "1-3",
+            "text": "Ang laman ng tao, na naghahangad upang mailuwalhati ang sarili nito, ay palaging nagnanais na gumawa ng mabubuting gawa “sa harap ng mga tao” upang mapuri nila. Subalit ang mga tao ng kaharian na namumuhay sa isang nabasyo at napakumbabang espiritu at lumalakad sa isang dalisay at tapat-sa-kaisahang puso sa ilalim ng makalangit na paghahari ng kaharian ay hindi pinapayagang gumawa ng anumang bagay sa laman para sa pagpuri ng mga tao, kundi kinakailangang gawin ang lahat ng bagay sa espiritu para sa ikalulugod ng kanilang makalangit na Ama."
+        },
+        {
+            "id": "1-4",
+            "text": "Sa mga tao ng kaharian, ang Diyos ay hindi lamang kanilang Diyos, bagkus kanila ring Ama; sila ay hindi lamang nilikha ng Diyos, bagkus isinilang-na-muli rin ng Ama. Taglay nila hindi lamang ang nilikhang likas na pantaong buhay, bagkus gayon din ang di-nilikhang espiritwal na dibinong buhay. Kaya nga, ang bagong kautusan ng kaharian, na itinalaga ng Hari sa bundok, ay ibinigay sa kanila na may layuning tuparin nila ito hindi sa pamamagitan ng kanilang natisod na pantaong buhay, kundi sa pamamagitan ng walang-hanggang dibinong buhay ng Ama, hindi upang makamit ang kaluwalhatian ng tao, kundi upang matanggap ang gantimpala ng Ama."
+        },
+        {
+            "id": "2-1",
+            "text": "Gr. naglilimos."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang pinaghaharian-ng-langit na espiritu ng mga tao ng kaharian ay tiyak na magpipigil sa kanila mula sa gayong makalamang pagpapalalo."
+        },
+        {
+            "id": "2-3",
+            "text": "Isang artista sa tanghalan. Kustumbre para sa mga artistang Griyego at Romano na magsalita sa likod ng malalaking maskara na may mekanikal na aparato upang dagdagan ang lakas ng kanilang tinig; kaya nga, isang nagbabalatkayo."
+        },
+        {
+            "id": "2-4",
+            "text": "Tingnan ang tala 23-1 sa kap. 4."
+        },
+        {
+            "id": "3-1",
+            "text": "Gr. naglilimos."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang salitang ito ay nagpapakita na ang mga makatuwirang gawa ng mga tao ng kaharian ay kinakailangang panatilihing lihim hangga’t maaari. Anuman ang kanilang ginagawa sa kanilang espiritu sa ilalim ng makalangit na pamumuno upang bigyang-kasiyahan lamang ang kanilang Ama ay hindi nararapat hadlangan ng kanilang lamang nagpipita para sa kaluwalhatian ng tao."
+        },
+        {
+            "id": "4-1",
+            "text": "Ang pamumuhay ng mga tao ng kaharian ay sa pamamagitan ng dibinong buhay ng Ama ayon sa kanilang espiritu. Kaya nga sila ay hinilingang gumawa ng mabubuting bagay nang palihim, at hindi hayagan. Anumang hayag na pagtatanghal ay hindi tumutugon sa mahiwagang nakatagong kalikasan ng dibinong buhay."
+        },
+        {
+            "id": "4-2",
+            "text": "Ang mga tao ng kaharian bilang mga anak ng makalangit na Ama ay kinakailangang mamuhay sa presensiya ng Ama at bigyan ng pansin ang presensiya ng Ama. Anuman ang kanilang ginagawa nang lihim para sa kaharian ng Ama ay “nakikita nang lihim” ng Ama at sila ay babayaran. Ang pagkakita ng makalangit na Ama nang lihim ay kinakailangang maging isang pampasigla sa kanilang paggawa ng mga makatuwirang gawa sa lihim. Gayundin sa bersikulo 6 at 18."
+        },
+        {
+            "id": "4-3",
+            "text": "Ito ay maaaring maganap sa kapanahunang ito (2 Cor. 9:10-11) o sa darating na kapanahunan bilang isang gantimpala (Luc. 14:14)."
+        },
+        {
+            "id": "5-1",
+            "text": "Tingnan ang tala 2-3 ."
+        },
+        {
+            "id": "5-2",
+            "text": "Tingnan ang tala 23-1 sa kap. 4."
+        },
+        {
+            "id": "5-3",
+            "text": "Ang pananalangin upang hangarin ang papuri ng tao ay maaaring magkamit ng gantimpala mula sa tao, subalit hindi tumatanggap ng sagot mula sa Ama; kaya nga ito ay isang walang kabuluhang panalangin."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang mga tao ng kaharian ay kinakailangang may ilang karanasan ng panalangin sa kanilang “pribadong silid,” kinakaugnay ang kanilang makalangit na Ama nang lihim, nararanasan ang ilang lihim na pagtatamasa sa Ama, at tumatanggap ng ilang lihim na sagot mula sa Kanya."
+        },
+        {
+            "id": "7-1",
+            "text": "Ito ay hindi nangangahulugan na hindi natin dapat ulitin ang ating panalangin. Inulit nang tatlong beses ng Panginoon ang Kanyang panalangin sa Getsemani (26:44), ang Apostol Pablo ay nanalangin ng parehong panalangin nang tatlong ulit din (2 Cor. 12:8), at ang malaking kalipunan sa langit ay nagpuri sa Diyos ng mga aleluya nang paulit-ulit (Apoc. 19:1-6). Ito ay nangangahulugan na huwag tayong magpaulit-ulit ng mga “hungkag na salita,” mga salitang walang kabuluhan."
+        },
+        {
+            "id": "8-1",
+            "text": "Bagaman nalalaman ng Diyos na ating Ama ang ating pangangailangan, kinakailangan pa rin nating humingi sa Kanya sapagkat ang humihingi ay tumatanggap (7:8)."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang “tulad nito” ay hindi nangangahulugang dapat nating bigkasin ang panalanging ito mismo. Sa Gawa at mga Sulat ay walang halimbawa ng gayong pagbibigkas."
+        },
+        {
+            "id": "9-2",
+            "text": "Sa halimbawa ng panalanging ginawa ng Panginoon na tularan, ang tatlong naunang petisyon ay nagpapahiwatig sa Trinidad ng Pagka-Diyos. “Pakabanalin nawa ang ngalan Mo” sa pangunahin ay nauugnay sa Ama, “dumating nawa ang Iyong kaharian,” sa Anak, at “mangyari nawa ang Iyong kalooban,” sa Espiritu. Ito ay isinasakatuparan sa kapanahunang ito, at ito ay maisasakatuparan sa darating na kapanahunan ng kaharian, kapag ang pangalan ng Diyos ay magiging pinakamahusay sa lahat ng lupa (Awit 8:1), ang kaharian ng sanlibutan ay magiging ang kaharian ni Kristo (Apoc. 11:15), at ang kalooban ng Diyos ay maisasagawa."
+        },
+        {
+            "id": "10-1",
+            "text": "Kasunod ng paghihimagsik ni Satanas (Ezek. 28:17; Isa. 14:13-15), “ang lupa” ay nahulog sa nangangamkam na kamay ni Satanas. Kaya nga, ang kalooban ng Diyos ay hindi maisagawa sa lupa katulad ng sa langit. Dahil dito, ang Diyos ay lumikha ng tao na may intensyong bawiin ang lupa para sa Kanyang Sarili (Gen. 1:26-28). Pagkatapos ng pagkatisod ng tao, si Kristo ay dumating upang dalhin ang makalangit na pamumuno sa lupa, nang sa gayon ay mabawi ang lupa para sa kapakanan ng Diyos, upang ang kalooban ng Diyos ay maisagawa sa lupa katulad ng sa langit. Ito ang layunin ng pagtatatag ng bagong Hari ng kaharian ng mga kalangitan kasama ang Kanyang mga tagasunod. Kinakailangang ipanalangin ito ng mga tao ng kaharian hanggang sa ang lupa ay ganap nang mabawi para sa kalooban ng Diyos sa darating na kapanahunan ng kaharian."
+        },
+        {
+            "id": "11-1",
+            "text": "Ang pinagtularang panalangin ay unang-unang nagtutuon ng pansin sa pangalan ng Diyos, sa kaharian ng Diyos, at sa kalooban ng Diyos; pangalawa ay para sa ating pangangailangan."
+        },
+        {
+            "id": "11-2",
+            "text": "Hindi ninanais ng Hari na ang Kanyang mga tao ay mangabalisa hinggil sa araw ng bukas (b. 34); gusto lamang Niya na sila ay manalangin para sa kanilang mga pangangailangan sa “ngayon.”"
+        },
+        {
+            "id": "11-3",
+            "text": "Ang “pang-araw-araw” o “hanggang sa pangkinabukasan,” maging sa pangkasalukuyan. Ang “pang-araw-araw na tinapay” ay tumutukoy sa pamumuhay sa pamamagitan ng pananampalataya. Ang mga tao ng kaharian ay hindi nararapat umasa sa anumang kanilang inimbak; sa halip, sila ay nararapat mamuhay sa pamamagitan ng pananampalataya sa pang-araw-araw na panustos ng Ama."
+        },
+        {
+            "id": "12-1",
+            "text": "Ikatlo, ang panalangin na ginawang tularan ay nagtutuon ng pansin sa mga pagkukulang ng mga tao ng kaharian sa harap ng Diyos at sa kanilang kaugnayan sa iba. Sila ay kinakailangang humiling sa Ama na “patawarin” ang kanilang “mga utang,” ang kanilang mga pagkukulang, ang kanilang mga pagkakasala, katulad ng kanilang pagpapatawad sa mga nagkakautang sa kanila upang mapanatili ang kapayapaan."
+        },
+        {
+            "id": "13-1",
+            "text": "Huwag kaming dalhin sa pagsubok. Minsan ay dinala ng Espiritu ang Hari upang matukso ng Diyablo (4:1)."
+        },
+        {
+            "id": "13-2",
+            "text": "Ikaapat, ang panalangin na ginawang tularan ay nagtutuon ng pansin sa mga tao ng kaharian upang sila ay maligtas sa masama at sa masasamang bagay. Sila ay nararapat humiling sa Ama na huwag silang dalhin sa pagsubok, kundi iligtas sila sa masasamang bagay na nagmumula sa masamang isa, ang Diyablo, at maligtas sa kanyang kasamaan."
+        },
+        {
+            "id": "13-3",
+            "text": "Ang saknong na ito ay inalis sa mga pinakaunang manuskrito."
+        },
+        {
+            "id": "13-4",
+            "text": "Ang “kaharian” ay ang kinasasaklawan para maisagawa ng Diyos ang Kanyang “kapangyarihan” nang sa gayon ay maihayag Niya ang Kanyang “kaluwalhatian.”"
+        },
+        {
+            "id": "13-5",
+            "text": "Ang “Amen” sa Griyego ay nangangahulugang matatag, di-matinag, o maaasahan."
+        },
+        {
+            "id": "14-1",
+            "text": "Ang “sapagkat” ay nagsasaad na ang salita sa mga bersikulo 14 at 15 ay isang pagpapaliwanag kung bakit kinakailangang patawarin ng mga tao ng kaharian ang mga nagkakautang sa kanila (b. 12). Kung hindi nila patatawarin ang mga kasalanan ng tao, hindi rin patatawarin ng kanilang makalangit na Ama ang kanilang mga kasalanan; sa gayon, ang kanilang panalangin ay mabibigo."
+        },
+        {
+            "id": "16-1",
+            "text": "Ang “mag-ayuno” ay hindi ang umiwas sa pagkain; ito ay ang pagiging hindi makakain dahil sa pagiging lubos na nabibigatang manalangin para sa ilang natatanging bagay. Ito rin ay isang paghahayag ng pagpapakumbaba sa sarili sa paghahanap sa kaawaan ng Diyos. Ang magbigay ng limos ay ang ibigay ang anumang mayroon tayong karapatang angkinin, samantalang ang mag-ayuno ay ang isuko ang anumang mayroon tayong karapatang tamasahin."
+        },
+        {
+            "id": "19-1",
+            "text": "Ang ikalimang bahagi ng pag-uutos ng Hari sa bb. 19-34, ay nauukol sa pakikitungo ng mga tao ng kaharian sa kayamanan."
+        },
+        {
+            "id": "20-1",
+            "text": "Ang “mag-ipon ng kayamanan sa langit” ay ang magbigay ng mga materyal na bagay sa mga dukha (19:21), at mangalaga sa mga nangangailangang banal (Gawa 2:45; 4:34-35; 11:29; Roma 15:26) at sa mga tagapaglingkod ng Panginoon (Fil. 4:16-17)."
+        },
+        {
+            "id": "21-1",
+            "text": "Kinakailangang ipadala ng mga tao ng kaharian ang kanilang kayamanan sa langit upang ang kanilang “puso” ay dumuon din sa langit."
+        },
+        {
+            "id": "22-1",
+            "text": "Ang ating dalawang mata ay makapagtutuon lamang sa isang bagay sa isang panahon. Kung tayo ay magsisikap na makita ang dalawang bagay sa isang iglap, ang ating paningin ay magiging malabo. Kung itutuon lamang natin ang ating mga mata sa iisang bagay, ang ating paningin ay magiging “tapat sa kaisahan” at ang ating “buong katawan ay maliliwanagan.” Kung titipunin natin ang ating kayamanan kapwa sa langit at sa lupa, ang ating paningin ay magiging malabo. Upang tayo ay magkaroon ng tapat-sa-kaisahan na paningin, kinakailangang tipunin natin ang ating kayamanan sa iisang lugar."
+        },
+        {
+            "id": "23-1",
+            "text": "Ang tingnan ang dalawang bagay nang sabay at hindi isa lang ang pinagtutuunan ay ang gawing “masama” ang ating mata. (Tingnan ang 20:15; Deut. 15:9; Kaw. 28:22a.) Sa gayon, ang ating buong katawan ay magiging “madilim.”"
+        },
+        {
+            "id": "23-2",
+            "text": "Kung ang ating puso ay nakapirmi sa kayamanang tinipon sa lupa, ang “ilaw” na nasa atin ay magiging “kadiliman,” at “anong laki” ng kadiliman."
+        },
+        {
+            "id": "24-1",
+            "text": "Gr. makapaglilingkod bilang isang alipin."
+        },
+        {
+            "id": "24-2",
+            "text": "Sa orihinal na lengguwahe ay may kahulugan ng pagiging tapat sa panig na ito at sumasalungat sa panig na yaon."
+        },
+        {
+            "id": "24-3",
+            "text": "Isang Aramaikong salita na sumasagisag sa “kayamanan.” Dito ang “mammon” ay tumatayong salungat sa Diyos, tumutukoy na ang kayamanan ay kalaban ng Diyos, ninanakaw ang paglilingkod ng mga tao ng Diyos sa Kanya."
+        },
+        {
+            "id": "25-1",
+            "text": "Gr. kaluluwa, tumutukoy sa pangkaluluwang buhay kung saan nandoon ang pagnanasa, ang gana, para sa pagkain at pananamit (Isa. 29:8)."
+        },
+        {
+            "id": "25-2",
+            "text": "Ang ating buhay ay “higit kaysa pagkain” at ang ating katawan ay “higit kaysa pananamit.” Kapwa ang ating buhay at ang ating katawan ay umiiral sa pamamagitan ng Diyos, hindi sa pamamagitan ng ating pagkabalisa. Yayamang nilikha tayo ng Diyos na may isang buhay at isang katawan, tiyak na pangangalagaan Niya ang pangangailangan ng ating buhay at katawan. Ang mga tao ng kaharian ay hindi kinakailangang mabalisa tungkol dito."
+        },
+        {
+            "id": "27-1",
+            "text": "O, ang sukat ng kanyang buhay (katulad ng “kaarawan” sa Awit 39:5, Heb.)."
+        },
+        {
+            "id": "28-1",
+            "text": "Ang “mga lirio” ay sumasagisag sa mga taong nasa ilalim ng pangangalaga ng Diyos (A.A. 2:1-2)."
+        },
+        {
+            "id": "32-1",
+            "text": "Taglay ng mga tao ng kaharian ang dibinong buhay ng kanilang makalangit na Ama bilang kanilang kalakasan upang tuparin ang bagong kautusan ng kaharian. Mayroon din silang “makalangit na Ama” upang pangalagaan ang kanilang materyal na pangangailangan, nang sa gayon ay hindi na sila kailangang mangabalisa tungkol dito. Ang kanilang makalangit na Ama ang pinagmumulan ng kanilang kalakasan at panustos. Kaya nga, sila ay hindi nararapat na maging mahina ni nagkukulang."
+        },
+        {
+            "id": "33-1",
+            "text": "Ang “kaharian” ng Ama ay ang realidad ng kaharian ng mga kalangitan sa ngayon (na siyang realidad ng pangkasalukuyang buhay-ekklesia) at ang pagpapakita ng kaharian ng mga kalangitan sa darating na kapanahunan; ang “katuwiran” ng Ama ay ang katuwiran (ang Kristong ipinamumuhay ng mga tao ng kaharian) sa pamamagitan ng pagtupad sa bagong kautusan ng kaharian katulad ng binanggit sa 5:20. Ang katuwirang ito ay si Kristo na ipinamumuhay ng mga tao ng kaharian. Yayamang “hinahanap muna” ng mga tao ng kaharian ang kaharian at katuwiran ng kanilang makalangit na Ama, hindi lamang ang Kanyang kaharian at ang Kanyang katuwiran ang ibibigay sa kanila, bagkus maging ang lahat ng kanilang mga pangangailangan ay “idaragdag.”"
+        },
+        {
+            "id": "34-1",
+            "text": "Ang mga tao ng kaharian kailanman ay hindi nararapat mamuhay sa “araw ng bukas,” kundi palaging sa ngayon."
+        },
+        {
+            "id": "34-2",
+            "text": "Ang “kasamaan” dito ay hindi kaparehong salita ng “masama” sa bersikulo 13. Ang “kasamaan” dito ay tumutukoy sa kaguluhan at kapighatian. Ito ay nagpapakita na nilinaw ng Hari ng kaharian sa mga tao ng kaharian na ang kanilang mga araw sa lupa na para sa kaharian ay magiging mga araw ng kaguluhan at kapighatian, hindi ng kagaanan at kaginhawahan."
         }
     ]
 }

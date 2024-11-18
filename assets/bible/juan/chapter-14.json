@@ -1,5 +1,5 @@
 {
-    "chapter": 14,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,19 +7,19 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Diyos,",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "Akin.",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -43,15 +43,15 @@
             "footnotes": [
                 {
                     "word": "bahay",
-                    "note": ""
+                    "id": "2-1"
                 },
                 {
                     "word": "maraming",
-                    "note": ""
+                    "id": "2-2"
                 },
                 {
                     "word": "paroroon",
-                    "note": ""
+                    "id": "2-3"
                 }
             ],
             "outlines": null
@@ -62,19 +62,19 @@
             "footnotes": [
                 {
                     "word": "kung",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "maipaghanda",
-                    "note": ""
+                    "id": "3-2"
                 },
                 {
                     "word": "tatanggapin",
-                    "note": ""
+                    "id": "3-3"
                 },
                 {
                     "word": "saan",
-                    "note": ""
+                    "id": "3-4"
                 }
             ],
             "outlines": null
@@ -97,11 +97,11 @@
             "footnotes": [
                 {
                     "word": "daan,",
-                    "note": ""
+                    "id": "6-1"
                 },
                 {
                     "word": "realidad,",
-                    "note": ""
+                    "id": "6-2"
                 }
             ],
             "outlines": null
@@ -112,7 +112,7 @@
             "footnotes": [
                 {
                     "word": "Kung",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": [
@@ -140,7 +140,7 @@
             "footnotes": [
                 {
                     "word": "salitang",
-                    "note": ""
+                    "id": "10-1"
                 }
             ],
             "outlines": null
@@ -157,11 +157,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "paroroon",
-                    "note": ""
+                    "id": "12-2"
                 }
             ],
             "outlines": null
@@ -172,11 +172,11 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "13-1"
                 },
                 {
                     "word": "maluwalhati",
-                    "note": ""
+                    "id": "13-2"
                 }
             ],
             "outlines": null
@@ -201,7 +201,7 @@
             "footnotes": [
                 {
                     "word": "Mang-",
-                    "note": ""
+                    "id": "16-1"
                 }
             ],
             "outlines": null
@@ -212,15 +212,15 @@
             "footnotes": [
                 {
                     "word": "Espiritu",
-                    "note": ""
+                    "id": "17-1"
                 },
                 {
                     "word": "nananahan",
-                    "note": ""
+                    "id": "17-2"
                 },
                 {
                     "word": "pasasaloob",
-                    "note": ""
+                    "id": "17-3"
                 }
             ],
             "outlines": null
@@ -231,11 +231,11 @@
             "footnotes": [
                 {
                     "word": "Hindi",
-                    "note": ""
+                    "id": "18-1"
                 },
                 {
                     "word": "paririto",
-                    "note": ""
+                    "id": "18-2"
                 }
             ],
             "outlines": null
@@ -246,7 +246,7 @@
             "footnotes": [
                 {
                     "word": "nabubuhay,",
-                    "note": ""
+                    "id": "19-1"
                 }
             ],
             "outlines": null
@@ -257,7 +257,7 @@
             "footnotes": [
                 {
                     "word": "araw",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -283,7 +283,7 @@
             "footnotes": [
                 {
                     "word": "tirahan.",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -308,15 +308,15 @@
             "footnotes": [
                 {
                     "word": "Mang-",
-                    "note": ""
+                    "id": "26-1"
                 },
                 {
                     "word": "Ama",
-                    "note": ""
+                    "id": "26-2"
                 },
                 {
                     "word": "Aking",
-                    "note": ""
+                    "id": "26-3"
                 }
             ],
             "outlines": null
@@ -333,11 +333,11 @@
             "footnotes": [
                 {
                     "word": "paririto",
-                    "note": ""
+                    "id": "28-1"
                 },
                 {
                     "word": "paroroon",
-                    "note": ""
+                    "id": "28-2"
                 }
             ],
             "outlines": null
@@ -359,6 +359,132 @@
             "text": "Datapuwa’t upang malaman ng sanlibutan na Ako ay umiibig sa Ama, at ayon sa pagkautos sa Akin ng Ama, gayundin ang Aking ginagawa. Magsitindig kayo, at magsialis tayo rito.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Lit. tungo sa."
+        },
+        {
+            "id": "1-2",
+            "text": "Dito ay ginawa ng Panginoon ang Kanyang Sarili na kapareho ng Diyos. Ang mga disipulo ay nagulumihanan sa pagkarinig ng Kanyang pag-alis. Sa pamamagitan ng ganitong salita, ipinatanto Niya sa kanila na Siya ang Diyos na walang di-kinaroroonan, na hindi limitado ng panahon at lugar."
+        },
+        {
+            "id": "2-1",
+            "text": "Ang “bahay ng Aking Ama,” ayon sa pagpapaliwanag ng aklat na ito sa 2:16, 21, ay ang templo, ang katawan ni Kristo, bilang ang tahanan ng Diyos. Noong una, ang katawan ni Kristo ay ang indibiduwal na katawan lamang Niya. Sa pamamagitan ng Kanyang kamatayan at pagkabuhay na muli, ang katawan ni Kristo ay lumaki upang maging ang sama-samang Katawan na siyang ekklesia na kinabibilangan ng lahat ng Kanyang mananampalataya, na isinilang na muli sa pamamagitan ng Kanyang pagkabuhay na muli (1 Ped. 1:3). Sa loob ng Kanyang pagkabuhay na muli, ang ekklesia ay ang Katawan ni Kristo, na siyang bahay ng Diyos (1 Tim. 3:15; 1 Ped. 2:5; Heb. 3:6), ang tahanan ng Diyos (Efe. 2:21-22), ang templo ng Diyos (1 Cor. 3:16-17)."
+        },
+        {
+            "id": "2-2",
+            "text": "Ang “maraming tirahan” ay ang maraming sangkap ng Katawan ni Kristo (Roma 12:5); at ang Katawang ito ay siyang templo ng Diyos (1 Cor. 3:16-17). Ito ay napatutunayan nang sapat ng bersikulo 23 na nagsasabi na ang Panginoon at ang Ama ay gagawa ng tirahan kasama niyaong umiibig sa Kanya."
+        },
+        {
+            "id": "2-3",
+            "text": "Ang aklat na ito ay nababahagi sa dalawang seksiyon. Ipinakikita ng unang seksiyon, ng kapitulo 1-13, kung paanong si Kristo bilang ang walang hanggang Salita ay pumarito sa pamamagitan ng pagiging laman upang dalhin ang Diyos sa loob ng tao nang sa gayon ay maging buhay at panustos ng buhay ng tao. Ipinahahayag ng pangalawang seksiyon, ng kapitulo 14-21, kung papaanong si Kristo bilang ang taong si Hesus ay dumaan sa kamatayan at pagkabuhay na muli upang dalhin ang tao tungo sa loob ng Diyos para sa pagtatayo ng tahanan ng Diyos, na siyang pagtatayo ng ekklesia (Mat. 16:18), at ito ay kaugnay sa pagtatayo ng Bagong Herusalem (Heb. 11:10; Apoc. 21:2). Sa buong sansinukob, ang Diyos ay may isa lamang pagtatayo, yaon ay, ang pagtatayo ng Kanyang buháy na tahanan na binubuo ng Kanyang mga tinubos na tao."
+        },
+        {
+            "id": "3-1",
+            "text": "“Kung Ako ay pumaroon ….paririto Ako.” Ang salitang ito ay nagpapatunay na ang pagparoon ng Panginoon (sa pamamagitan ng Kanyang kamatayan at pagkabuhay na muli) ay ang Kanyang pagparito (sa Kanyang mga disipulo) (bb. 18, 28). Siya ay pumarito sa laman (1:14) at nasa gitna ng Kanyang mga disipulo, nguni’t nang Siya ay nasa laman pa, hindi Siya makapasok sa loob nila. Kailangan Niyang dumaan sa kamatayan at pagkabuhay na muli upang Siya ay mabagong-anyo mula sa laman at maging Espiritu, upang Siya ay makapasok sa loob nila at manahan sa kanila, katulad ng inihayag sa mga bersikulo 17-20. Pagkatapos ng Kanyang pagkabuhay na muli, pumarito Siya at inihinga ang Kanyang Sarili bilang ang Espiritu Santo tungo sa loob ng Kanyang mga disipulo (20:19-22)."
+        },
+        {
+            "id": "3-2",
+            "text": "Ang intensyon ng Panginoon sa kapitulong ito ay ang dalhin ang tao sa loob ng Diyos para sa pagtatayo ng Kanyang tahanan. Nguni’t sa pagitan ng tao at ng Diyos ay maraming hadlang, katulad ng kasalanan, mga pagkakasala, kamatayan, sanlibutan, laman, sarili, lumang tao, at si Satanas. Upang madala ng Panginoon ang tao sa loob ng Diyos, kailangan Niyang malutas ang lahat ng mga suliraning ito. Samakatwid, kailangan Niyang pumaroon sa krus upang matupad ang katubusan nang sa gayon ay mabuksan Niya ang daan at makagawa ng isang katayuan para sa tao na makapasok sa loob ng Diyos. Ang katayuan sa loob ng Diyos, na pinalawak, ay naging ang katayuan sa loob ng Katawan ni Kristo. Ang sinumang walang katayuan sa loob ng Diyos, isang lugar sa loob ng Diyos, ay wala ring lugar sa loob ng Katawan ni Kristo, na tahanan ng Diyos. Samakatwid, ang pagparoon ng Panginoon ay ang isakatuparan ang pagtutubos upang maghanda ng isang lugar sa loob ng Kanyang Katawan para sa Kanyang mga disipulo."
+        },
+        {
+            "id": "3-3",
+            "text": "Ang tanggapin ng Panginoon ang Kanyang mga disipulo sa Kanyang Sarili ay ang ilagay sila tungo sa loob ng Kanyang Sarili, katulad ng binanggit sa bersikulo 20 ng mga salitang “kayo ay nasa loob Ko.”"
+        },
+        {
+            "id": "3-4",
+            "text": "Ang Panginoon ay nasa loob ng Ama (bb. 10-11). Ninais Niya na ang Kanyang mga disipulo ay mapasaloob ng Ama rin, katulad ng pagkahayag sa 17:21. Sa pamamagitan ng Kanyang kamatayan at pagkabuhay na muli, dinala Niya ang Kanyang mga disipulo tungo sa loob ng Kanyang Sarili. Yamang Siya ay nasa loob ng Ama, ang mga disipulo rin ay nasa loob ng Ama sa pagiging nasa loob Niya. Samakatuwid, kung nasaan Siya, ang mga disipulo ay naroroon din."
+        },
+        {
+            "id": "6-1",
+            "text": "Ang daan para sa tao upang makapasok tungo sa loob ng Diyos ay ang Panginoon Mismo. Yamang ang daan ay isang buháy na Persona, kaya ang lugar kung saan dinadala ng Panginoon ang tao ay kinakailangan ding maging isang Persona, ang Diyos Ama Mismo. Ang Panginoon Mismo ay ang buháy na daan upang dalhin ang tao tungo sa loob ng Diyos Ama, ang buháy na lugar. Ang daan ay nangangailangan ng realidad, at ang realidad ay nangangailangan ng buhay. Ang Panginoon Mismo ay ang buhay sa atin. Ang buhay na ito ang nagdadala sa atin ng realidad at ang realidad ang nagiging daan upang tayo ay makapasok sa katamasahan ng Diyos Ama."
+        },
+        {
+            "id": "6-2",
+            "text": "Si Kristo ang realidad ng lahat ng mga bagay na dibino. Ang realidad na ito ay dumating sa pamamagitan Niya upang maging ating pagkatanto sa Diyos. Tingnan ang tala 5 sa Juan 14 at tala 6 sa 1 Juan 1:6."
+        },
+        {
+            "id": "7-1",
+            "text": "Ipinakikita ng kapitulong ito ang Tres-unong Diyos para sa pamamahagi ng Kanyang Sarili tungo sa loob ng mga mananampalataya. Siya ang nag-iisang Diyos, nguni’t Siya ay tatlo-ang Ama, ang Anak, at ang Espiritu. Ang Anak ay ang pagsasakatawan at kahayagan ng Ama (bb. 7-11), at ang Espiritu ay ang realidad at pagkatanto sa Anak (bb. 17-20). Ang Ama ay naihayag at nakita sa Anak (ang Anak ay tinawag ding Ama-Isa. 9:6) at bilang Espiritu (2 Cor. 3:17) ang Anak ay nahayag at natanto. Ang Ama sa loob ng Anak ay naihayag sa gitna ng mga mananampalataya, at ang Anak bilang ang Espiritu ay natanto sa loob ng mga mananampalataya. Ang Diyos Ama ay nakakubli, ang Diyos Anak ay naipakita sa gitna ng mga tao, at ang Diyos Espiritu ay pumapasok tungo sa loob ng tao upang maging kanyang buhay, kanyang panustos ng buhay, at kanyang lahat-lahat. Samakatwid, ang Ama na nasa loob ng Anak, at ang Anak na naging Espiritu, ay ang Tres-unong Diyos na namamahagi ng Kanyang Sarili tungo sa loob natin at naging ating bahagi upang matamasa natin Siya bilang ang ating lahat-lahat sa loob ng Kanyang maka-Diyos na Trinidad."
+        },
+        {
+            "id": "10-1",
+            "text": "Gr. rhema . Tingnan ang tala 63-3 sa kapitulo 6."
+        },
+        {
+            "id": "12-1",
+            "text": "Gr. tungo sa."
+        },
+        {
+            "id": "12-2",
+            "text": "Ang Panginoon ay pumarito mula sa Ama upang dalhin ang Diyos tungo sa loob ng tao sa pamamagitan ng Kanyang pagiging laman. Ngayon Siya ay paroroon sa Ama upang dalhin ang tao tungo sa loob ng Diyos sa pamamagitan ng Kanyang kamatayan at pagkabuhay na muli."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang mapasapangalan ng Panginoon ay nangangahulugang maging kaisa ng Panginoon, ang mamuhay sa pamamagitan ng Panginoon at hayaan ang Panginoon na mamuhay sa atin. Ang Panginoon ay pumarito at gumawa ng mga bagay sa pangalan ng Ama (5:43; 10:25). Yaon ay nangangahulugang Siya at ang Ama ay iisa (10:30), namuhay Siya sa pamamagitan ng Ama (6:57), at ang Ama ay gumagawa sa loob Niya (b. 10). Sa mga Ebanghelyo, ang Panginoon bilang kahayagan ng Ama ay gumawa ng mga bagay sa loob ng pangalan ng Ama. Sa aklat ng mga Gawa, ang mga disipulo bilang ang kahayagan ng Panginoon ay gumawa ng lalo pang mga dakilang bagay (b.12) sa loob ng pangalan ng Panginoon. Gayundin sa b. 14."
+        },
+        {
+            "id": "13-2",
+            "text": "Ang maluwalhati ang Ama sa Anak ay ang maihayag ang maka-Diyos na elemento ng Ama mula sa loob ng Anak. Anuman ang ginagawa ng Anak ay pawang pagpapahayag ng dibinong elemento ng Ama. Dito ay naluluwalhati ang Ama sa Anak."
+        },
+        {
+            "id": "16-1",
+            "text": "Gr. paracletos , sa wikang Ingles ay paraclete , isang kasama na nangangalaga sa ating kapakanan, sa ating mga usapin. Ang Mang-aaliw sa Griyego ay katulad ng “Tagapagtanggol” sa 1 Juan 2:1. Ngayon tayo ay kapwa may Panginoong Hesus sa mga kalangitan at Espiritu sa loob natin bilang ang ating Parakleto, na nangangalaga sa ating kaso."
+        },
+        {
+            "id": "17-1",
+            "text": "Ang Espiritung ipinangako rito ay yaong tinutukoy sa 7:39. Ito ay “ang Espiritu ng buhay” (Roma 8:2) at ang pangakong ito ng Panginoon ay natupad sa araw ng pagkabuhay na muli ng Panginoon, nang ang Espiritu ay inihinga sa loob ng mga disipulo bilang ang hininga ng buhay (20:22). Ito ay naiiba sa pangako ng Ama tungkol sa “Espiritu ng kapangyarihan” sa Luc. 24:49, na naisakatuparan sa araw ng Pentecostes pagkaraan ng limampung araw ng Kanyang pagkabuhay na muli, nang ang Espiritu bilang ang malakas na hangin ay umihip sa mga disipulo (Gawa 2:1-4). Tinaguriang Espiritu ng realidad sa bersikulong ito ang Espiritu ng buhay. Ang Espiritu ng realidad na ito ay si Kristo (b. 6), kaya ang Espiritu ng realidad ay ang Espiritu ni Kristo (Roma 8:9). Ang Espiritung ito ay ang realidad din ni Kristo (1 Juan 5:6, 20), na ipinatanto si Kristo sa loob ng mga nagsisisampalataya tungo sa Kanya bilang kanilang buhay at panustos ng buhay."
+        },
+        {
+            "id": "17-2",
+            "text": "Ang mismong “Siya” na Siyang Espiritu ng realidad sa bersikulong ito ay naging ang mismong “Ako” na Siyang Panginoon Mismo sa bersikulo 18. Ito ay nangangahulugan na pagkatapos ng pagkabuhay na muli ng nagkatawang-taong Kristo, Siya ay naging Espiritu ng buhay na Siyang Espiritu ni Kristo. Ang 1 Cor. 15:45 ang nagpapatunay ng puntong ito. Sa bagay ng pagkabuhay na muli, ito ay nagsasabing, “Ang huling Adam (ang nagkatawang-taong Kristo) ay naging Espiritung nagbibigay-buhay.”"
+        },
+        {
+            "id": "17-3",
+            "text": "Ang pananahanan ng Espiritu na ipinangako rito ay ipinakita rito sa unang pagkakataon. Ito ay natupad at lubusang napaunlad sa mga Sulat. Tingnan ang 1 Cor. 6:19, Roma 8:9,11."
+        },
+        {
+            "id": "18-1",
+            "text": "Tingnan ang tala 17-2 ."
+        },
+        {
+            "id": "18-2",
+            "text": "Ang “pagparitong” ito ay natupad nang araw ng Kanyang pagkabuhay na muli sa 20:19-22. Pagkatapos ng Kanyang pagkabuhay na muli, ang Panginoon ay bumalik sa Kanyang mga disipulo upang makasama sila magpakailanman, at hindi sila iiwang mga ulila."
+        },
+        {
+            "id": "19-1",
+            "text": "Ito ay malamang na tumutukoy na sa pagkabuhay na muli ng Panginoon, Siya ay nabubuhay sa loob ng Kanyang mga disipulo at sila rin ay nabubuhay sa pamamagitan Niya, tulad ng sinabi sa Gal. 2:20."
+        },
+        {
+            "id": "20-1",
+            "text": "Ito ang araw ng pagkabuhay na muli ng Panginoon (20:19)."
+        },
+        {
+            "id": "23-1",
+            "text": "Ito ay isa sa maraming tirahan na binanggit sa bersikulo 2. Ito ay magiging isang tirahan para sa isa’t isa kung saan ang Tres-unong Diyos ay nananahan sa mga mananampalataya at ang mga mananampalataya ay nananahan sa Tres-unong Diyos."
+        },
+        {
+            "id": "26-1",
+            "text": "Ang Mang-aaliw, samakatwid ay ang Espiritu Santo ay isusugo ng Ama sa pangalan ng Anak. Kaya ang Espiritu Santo ay isinugo ng Ama, isinugo rin ng Anak. Sa ganito ang Espiritu Santo ay hindi lamang nagmumula sa Ama bagkus nagmumula rin sa Anak; hindi lamang ang realidad ng Ama bagkus ang realidad din ng Anak. Samakatwid, kapag tayo ay tumatawag sa pangalan ng Anak, natatamo natin ang Espiritu (1 Cor. 12:3)."
+        },
+        {
+            "id": "26-2",
+            "text": "Ang Ama na nasa pangalan ng Anak ay katumbas ng Anak. Tingnan ang tala 1 ng 5:43. Kaya, ang Ama na nasa loob ng pangalan ng Anak na nagsugo sa Espiritu Santo ay katumbas ng Anak na nagsusugo sa Espiritu Santo mula sa Ama (15:26). Ang Anak at ang Ama ay iisa (10:30), kaya ang sinugong Espiritu ay hindi lang nagmula sa Ama (15:26) bagkus nagmula rin sa Anak. At saka ang pagparito ng Espiritu ay kasama ng pagparito ng Ama at ng Anak (Tingnan ang tala 1 sa 15:26). Ito ay nagpapatunay na ang Ama, Anak, at Espiritu ay ang iisang Tres-unong Diyos na dumarating sa tao. Sa loob ng Kanyang maka-Diyos na Trinidad, isinasagawa Niya ang Kanyang Sarili sa loob natin na siyang pamamahagi sa loob natin upang maging ating buhay at lahat-lahat."
+        },
+        {
+            "id": "26-3",
+            "text": "Sinasabi sa 5:43 na ang Anak ay pumarito sa pangalan ng Ama, sinasabi rito na sinugo ng Ama ang Espiritu Santo sa loob ng pangalan ng Anak, ito ay hindi lamang nagpapatunay na ang Anak at ang Ama ay iisa (10:30), pinatutunayan din na ang Espiritu Santo at ang Ama at ang Anak ay iisa. Ang Espiritu Santo na isinugo ng Ama sa loob ng pangalan ng Anak ay hindi lamang ang realidad na nagmula sa Ama bagkus ang realidad din na nagmula sa Anak. Ito ang Tres-unong Diyos-ang Ama, ang Anak, at ang Espiritu na sa katapus-tapusan ay umaabot sa tao bilang ang Espiritu."
+        },
+        {
+            "id": "28-1",
+            "text": "Tingnan ang tala 18-2 ."
+        },
+        {
+            "id": "28-2",
+            "text": "Tingnan ang tala 12-2 ."
         }
     ]
 }

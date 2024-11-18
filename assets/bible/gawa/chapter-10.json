@@ -1,5 +1,5 @@
 {
-    "chapter": 10,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,11 +7,11 @@
             "footnotes": [
                 {
                     "word": "Italianong",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "pangkat,",
-                    "note": ""
+                    "id": "1-2"
                 }
             ],
             "outlines": [
@@ -25,7 +25,7 @@
             "footnotes": [
                 {
                     "word": "Masipag",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -36,11 +36,11 @@
             "footnotes": [
                 {
                     "word": "pangitain",
-                    "note": ""
+                    "id": "3-1"
                 },
                 {
                     "word": "iikasiyam",
-                    "note": ""
+                    "id": "3-2"
                 }
             ],
             "outlines": null
@@ -51,7 +51,7 @@
             "footnotes": [
                 {
                     "word": "alaala",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -86,11 +86,11 @@
             "footnotes": [
                 {
                     "word": "manalangin",
-                    "note": ""
+                    "id": "9-1"
                 },
                 {
                     "word": "ikaanim",
-                    "note": ""
+                    "id": "9-2"
                 }
             ],
             "outlines": [
@@ -103,15 +103,15 @@
             "footnotes": [
                 {
                     "word": "nagutom",
-                    "note": ""
+                    "id": "10-1"
                 },
                 {
                     "word": "kumain;",
-                    "note": ""
+                    "id": "10-2"
                 },
                 {
                     "word": "kalagayan-",
-                    "note": ""
+                    "id": "10-3"
                 }
             ],
             "outlines": null
@@ -122,11 +122,11 @@
             "footnotes": [
                 {
                     "word": "langit,",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "sisidlang",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -137,7 +137,7 @@
             "footnotes": [
                 {
                     "word": "hayop",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -148,7 +148,7 @@
             "footnotes": [
                 {
                     "word": "kainin!",
-                    "note": ""
+                    "id": "13-1"
                 }
             ],
             "outlines": null
@@ -159,7 +159,7 @@
             "footnotes": [
                 {
                     "word": "kailanman",
-                    "note": ""
+                    "id": "14-1"
                 }
             ],
             "outlines": null
@@ -170,7 +170,7 @@
             "footnotes": [
                 {
                     "word": "ano",
-                    "note": ""
+                    "id": "15-1"
                 }
             ],
             "outlines": null
@@ -187,7 +187,7 @@
             "footnotes": [
                 {
                     "word": "pangitaing",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": [
@@ -212,7 +212,7 @@
             "footnotes": [
                 {
                     "word": "Ako",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -235,7 +235,7 @@
             "footnotes": [
                 {
                     "word": "ilang",
-                    "note": ""
+                    "id": "23-1"
                 }
             ],
             "outlines": null
@@ -270,7 +270,7 @@
             "footnotes": [
                 {
                     "word": "tao",
-                    "note": ""
+                    "id": "28-1"
                 }
             ],
             "outlines": null
@@ -287,7 +287,7 @@
             "footnotes": [
                 {
                     "word": "ikasiyam",
-                    "note": ""
+                    "id": "30-1"
                 }
             ],
             "outlines": null
@@ -324,7 +324,7 @@
             "footnotes": [
                 {
                     "word": "katanggap-",
-                    "note": ""
+                    "id": "35-1"
                 }
             ],
             "outlines": null
@@ -335,7 +335,7 @@
             "footnotes": [
                 {
                     "word": "lahat),",
-                    "note": ""
+                    "id": "36-1"
                 }
             ],
             "outlines": null
@@ -346,7 +346,7 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "37-1"
                 }
             ],
             "outlines": null
@@ -369,11 +369,11 @@
             "footnotes": [
                 {
                     "word": "Diyos",
-                    "note": ""
+                    "id": "40-1"
                 },
                 {
                     "word": "mahayag,",
-                    "note": ""
+                    "id": "40-2"
                 }
             ],
             "outlines": null
@@ -384,7 +384,7 @@
             "footnotes": [
                 {
                     "word": "Siya",
-                    "note": ""
+                    "id": "41-1"
                 }
             ],
             "outlines": null
@@ -395,7 +395,7 @@
             "footnotes": [
                 {
                     "word": "Hukom",
-                    "note": ""
+                    "id": "42-1"
                 }
             ],
             "outlines": null
@@ -406,7 +406,7 @@
             "footnotes": [
                 {
                     "word": "kapatawaran",
-                    "note": ""
+                    "id": "43-1"
                 }
             ],
             "outlines": null
@@ -417,11 +417,11 @@
             "footnotes": [
                 {
                     "word": "dumapo",
-                    "note": ""
+                    "id": "44-1"
                 },
                 {
                     "word": "nakikinig",
-                    "note": ""
+                    "id": "44-2"
                 }
             ],
             "outlines": [
@@ -434,11 +434,11 @@
             "footnotes": [
                 {
                     "word": "kaloob",
-                    "note": ""
+                    "id": "45-1"
                 },
                 {
                     "word": "ibinuhos",
-                    "note": ""
+                    "id": "45-2"
                 }
             ],
             "outlines": null
@@ -449,7 +449,7 @@
             "footnotes": [
                 {
                     "word": "nagsasalita",
-                    "note": ""
+                    "id": "46-1"
                 }
             ],
             "outlines": null
@@ -460,7 +460,7 @@
             "footnotes": [
                 {
                     "word": "gaya",
-                    "note": ""
+                    "id": "47-1"
                 }
             ],
             "outlines": [
@@ -473,18 +473,176 @@
             "footnotes": [
                 {
                     "word": "magpabautismo",
-                    "note": ""
+                    "id": "48-1"
                 },
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "48-2"
                 },
                 {
                     "word": "pangalan",
-                    "note": ""
+                    "id": "48-3"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Dito ang Panginoon ay sumulong na naman ng isang hakbang sa Kanyang pang-ebanghelyong gawain. Sa pamamagitan nito nakaugnay Niya ang isa pang purong Hentil, isang taong tubong Italia ng Emperyo Romano sa Europa. Sa gayon ang pintuan ng ebanghelyo ay nabuksan sa lahat ng mga Hentil. Isang mahirap na bagay para sa mga Hudyong apostol at disipulo na may kanilang maka-Hudyong pinanggalingan at kaugalian ang makalapit sa mga Hentil (b. 28). Kaya, ito ay isang di-pangkaraniwang pagkilos, kinakailangan ang isang anghel ng Diyos na makibahagi rito (b. 3), katulad ng paggawa ng anghel sa kaso ni Felipe nang kanyang lapitan ang Etiope na taga-Africa sa 8:26. At sa kapwa kaso ang Espiritu ay partikular na nagsalita kay Felipe at kay Pedro (8:29; 10:19)."
+        },
+        {
+            "id": "1-2",
+            "text": "Isa sa sampung pangkat ng sinaunang pulutong ng hukbong Romano. Ito ay binubuo ng anim na raang tao."
+        },
+        {
+            "id": "2-1",
+            "text": "Si Cornelio, ang Romanong senturyon, katulad ng bating na taga-Etiopia, ay naghahanap sa Diyos, gaya ng nabanggit ni Pablo sa 17:27."
+        },
+        {
+            "id": "3-1",
+            "text": "Tingnan ang tala 10-3 ."
+        },
+        {
+            "id": "3-2",
+            "text": "Yaon ay ika-3 ng hapon (katulad din ng b. 30)."
+        },
+        {
+            "id": "4-1",
+            "text": "Si Cornelio ay isa sa natisod na sangkatauhan, makasalanan at may kahatulan sa harapan ng Diyos gaya ng iba pa, subali’t tinanggap ng Diyos ang kanyang mga panalangin at mga paglilimos, samantalang yaong kay Cain ay Kanyang itinakwil (Gen. 4:3, 5). Pinatawad ng Diyos si Cornelio batay sa walang hanggang pagtutubos ni Kristo, at ayon sa Kanyang paunang kaalaman ay nakinikinita Niya na sasampalataya si Cornelio kay Kristo sa darating na mga araw (b. 43)."
+        },
+        {
+            "id": "9-1",
+            "text": "Si Cornelio ay nakatanggap ng isang pangitain sa panalangin (b. 30), at si Pedro rin ay nakatanggap ng isang pangitain (bb. 17, 19) sa panalangin. Sa pamamagitan nito, ang layunin ng Diyos at pagkilos ay naisakatuparan. Ang panalangin ng tao ay kailangan bilang paraan ng pakikipagtulungan sa pagkilos ng Diyos."
+        },
+        {
+            "id": "9-2",
+            "text": "Yaon ay ika-12 ng tanghaling tapat (cf. Awit 55:17)."
+        },
+        {
+            "id": "10-1",
+            "text": "Tumutukoy sa paghahanap sa mga bagay ng Diyos (Mat. 5:6). Binubusog ng Diyos ang mga nagugutom (Luc. 1:53)."
+        },
+        {
+            "id": "10-2",
+            "text": "Isang salitang kalimitan ay isinasalin na “tumikim.”"
+        },
+        {
+            "id": "10-3",
+            "text": "Gr. ekstasis , pagiging nawala sa kanyang kinalalagyan, sa gayon ay tumutukoy sa kalagayan kung saan ang tao ay nawawala sa kanyang sarili at mula rito ay bumabalik siya sa kanyang sarili (12:11), katulad sa isang panaginip, nguni’t walang pagtulog. Ito ay kakaiba sa pangitain, kagaya sa bb. 3, 17, 19, na ang mga tiyak na bagay ay nakikita ng mga pantaong mata. Sa ganitong ekstasi—kalagayan-ng-pagkawala-ng-diwa—nakita ni Pedro ang isang pangitain (11:5)."
+        },
+        {
+            "id": "11-1",
+            "text": "Tumutukoy na ang pang-ebanghelyong pagkilos ng Panginoon sa lupa ay nasa ilalim ng Kanyang pangangasiwa sa trono sa kalangitan (cf. Heb. 8:1; Gawa 7:56). Ang lahat ng mga apostol at mga ebanghelista ng sinaunang panahon at ng pangkasalukuyang panahon ay nagpatuloy at nagpapatuloy sa pagsasagawa ng makalangit na pag-aatas dito sa lupa para sa pagpapalaganap ng ebanghelyo ng kaharian ng Diyos."
+        },
+        {
+            "id": "11-2",
+            "text": "Ang sisidlan na katulad ng malaking kumot ay sumasagisag sa ebanghelyong lumalaganap sa apat na sulok ng pinananahanang lupa upang tipunin ang lahat ng uri ng maruruming (makasalanan) tao (Luc. 13:29)."
+        },
+        {
+            "id": "12-1",
+            "text": "Sumasagisag sa lahat ng uri ng tao (bb. 15, 28, at mga tala)."
+        },
+        {
+            "id": "13-1",
+            "text": "Ang kainin, sa tandang ito, ay ang makihalubilo sa tao (b. 28)."
+        },
+        {
+            "id": "14-1",
+            "text": "Katulad nang itinuro sa Levitico 11. Ang pagtutuli, ang pangingilin ng Sabbath, at ang isang partikular na diyeta ay ang tatlong pinakamalalakas na ordinansa ayon sa kautusan ni Moises na naging sanhi ng pagkakaiba at pagkakahiwalay ng mga Hudyo sa mga Hentil, na kanilang itinuturing na marurumi. Ang lahat ng mga pangkasulatang ordinansang ito ng Lumang Tipang kapanahunan ay naging hadlang sa pagpapalaganap ng ebanghelyo sa mga Hentil ayon sa Bagong Tipang ekonomiya ng Diyos (15:1; Col. 2:16)."
+        },
+        {
+            "id": "15-1",
+            "text": "Tumutukoy sa mga taong nilinis na ng Diyos sa pamamagitan ng nagtutubos na dugo ni Kristo (Apoc. 1:5) at pinababago ng Espiritu Santo (Tito 3:5; Gawa 15:9)."
+        },
+        {
+            "id": "17-1",
+            "text": "Tingnan ang tala 10-3 ."
+        },
+        {
+            "id": "20-1",
+            "text": "Tinutukoy nito na ang pagpapadala ni Cornelio ng tatlong tao ay ang pagkilos at paggawa ng Espiritu sa pamamagitan niya maging bago pa ang kanyang pagbabalik-loob."
+        },
+        {
+            "id": "23-1",
+            "text": "Si Pedro, sa estratehikong pangyayaring ito, ay hindi gumawa nang nagsasarili kundi kasama ang ilan sa mga kapatid sa loob ng prinsipyo ng Katawan ni Kristo, upang masaksihan nila kung ano ang gagawin ng Diyos sa kanyang pagsuway sa maka-Hudyong tradisyon at kaugalian nang kanyang ipinahayag ang ebanghelyo sa mga Hentil (11:12)."
+        },
+        {
+            "id": "28-1",
+            "text": "Tinutukoy nito na sa wakas naunawaan ni Pedro ang kahulugan ng pangitaing Kaniyang nakita sa kanyang kalagayan ng pagkawala-ng-diwa (bb. 11, 17, 19), na ang mga hayop sa malapad na kumot ay mga tao."
+        },
+        {
+            "id": "30-1",
+            "text": "Tingnan ang tala 3-2 ."
+        },
+        {
+            "id": "35-1",
+            "text": "Ang mga tao sa bawa’t bansa na may takot sa Diyos at gumagawa ng katuwiran ay bahagi pa rin ng natisod na sangkatauhan. Tinanggap sila ng Diyos dahil sa pagtutubos ni Kristo (tingnan ang tala 4-1 ). Kung wala si Kristo, walang natisod na tao ang mabibigyang-katuwiran sa pamamagitan ng kanyang mga paggawa (Roma 3:20; Gal. 2:16)."
+        },
+        {
+            "id": "36-1",
+            "text": "Tumutukoy sa mga tao (1 Tim. 2:4), hindi lamang sa mga Hudyo bagkus maging sa mga Hentil."
+        },
+        {
+            "id": "37-1",
+            "text": "Gr. rhema . Ang kagyat na salita."
+        },
+        {
+            "id": "40-1",
+            "text": "Tingnan ang tala 24-1 sa kap. 2."
+        },
+        {
+            "id": "40-2",
+            "text": "Lit. upang maging lantad sa paningin."
+        },
+        {
+            "id": "41-1",
+            "text": "Tingnan ang tala 24-1 sa kap. 2."
+        },
+        {
+            "id": "42-1",
+            "text": "Ang nabuhay na muling Kristo sa Kanyang pagbabalik ay magiging Hukom ng mga buháy bago ang isang libong taong kaharian sa trono ng Kanyang kaluwalhatian (Mat. 25:31-46). Ito ay may kaugnayan sa Kanyang ikalawang pagdating (2 Tim. 4:1). Siya pa rin ang magiging Hukom ng mga patay pagkatapos ng isang libong taong kaharian sa malaking puting trono (Apoc. 20:11-15). Tingnan ang tala 31-1 sa kapitulo 17. Yaon ang huling paglilinis sa narungisang lumang nilikha."
+        },
+        {
+            "id": "43-1",
+            "text": "Ito ay nagpapatunay na bagama’t si Cornelio ay may pagkatakot sa Diyos at gumagawa ng katuwiran at ang kanyang mga panalangin at mga paglilimos ay tinanggap ng Diyos, kailangan pa rin niya ang pagpapatawad ng Diyos sa kanyang mga kasalanan sa pamamagitan ng pananampalataya kay Kristo na Manunubos (tingnan ang tala 4-1 sa 35-1 )."
+        },
+        {
+            "id": "44-1",
+            "text": "Panlabas at pang-ekonomiya (tingnan ang tala 8-2 sa kap. 1). Dito sa pangyayari sa tahanan ni Cornelio, ang pagpasok ng Espiritu Santo sa mga mananampalataya sa pang-esensiya para sa buhay at ang pagdapo sa kanila sa pang-ekonomiya para sa kapangyarihan ay nangyaring sabay nang sila ay sumampalataya sa Panginoon. Gayunpaman, ang nakatala lamang dito ay ang Kanyang pagdapo sa kanila sa pang-ekonomiya, dahil sa ito ay panlabas at natatanto ng iba sa kanilang pagsasalita ng iba’t ibang wika at pagpuri sa Diyos (b. 46); samantalang ang Kanyang pagpasok sa kanila ay nangyari nang may katahimikan at di-nakikita. Natanggap nila ang dalawang aspekto ng Espiritu Santo nang tuwiran mula kay Kristo na Ulo, na walang ibang tagapamagitang daan, bago sila nabautismuhan sa tubig ng ibang sangkap ng Katawan ni Kristo. Matibay na tinutukoy nito na ang pagpapalaganap ng ebanghelyo ng kaharian ng Diyos sa mga Hentil ay sa Panginoon galing, at binautismuhan ng Ulo ng Katawan ang mga mananampalatayang Hentil sa loob ng Kanyang Katawan nang tuwiran, na walang anumang pagpapatong ng mga kamay ng alinmang sangkap ng Kanyang Katawan, hindi katulad ng pangyayari sa mga mananampalatayang Samaritano at kay Saulo na taga-Tarso na pinatungan ng mga kamay ng sangkap ng Kanyang Katawan (8:17; 9:17)."
+        },
+        {
+            "id": "44-2",
+            "text": "Kasama ang pagsampalataya sa Panginoon (b. 43; Juan 5:24; Roma 10:14; Efeso 1:13)."
+        },
+        {
+            "id": "45-1",
+            "text": "Ang Espiritu Santo Mismo, hindi anumang bagay ng Espiritu Santo ang ibinigay sa mga mananampalataya bilang kaloob (tingnan ang tala 38-6 sa kap. 2)."
+        },
+        {
+            "id": "45-2",
+            "text": "Ang pagbubuhos ng Espiritu Santo ay ginawa ng Diyos mula sa nagpapaloob-ng-lahat, nabuhay na muli, at umakyat sa langit na Kristo (tingnan ang tala 17-2 sa kapitulo 2)."
+        },
+        {
+            "id": "46-1",
+            "text": "Ang pagsasalita sa mga wika ay hindi ang namumukod-tanging resulta ng pagtanggap ng Espiritu Santo sa pang-ekonomiya, sapagka’t ang pagdadakila, yaon ay, ang pagpupuri sa Diyos, ay isa rin sa mga resulta ng pangyayaring ito, katulad ng kung paano ang pagpopropesiya ay isa rin sa mga resulta sa kaso ng labindalawang mananampalataya sa Efeso (19:6). Sa gayon, ang pagsasalita sa mga wika ay hindi ang natatanging katibayan ng pagkatanggap sa Espiritu Santo sa pang-ekonomiya, ni hindi ito ang kinakailangang katibayan, sapagka’t mayroon ding kahit isang pangyayari ng pagkatanggap sa Espiritu Santo sa pang-ekonomiya, ang pangyayari sa mga mananampalatayang Samaritano (8:15-17), na hindi binabanggit ang pagsasalita sa mga wika. Sa kaso ni Saulo ng Tarso (9:17) tungkol sa bagay na ito, wala ring pagbanggit ng pagsasalita sa mga wika, bagama’t sa huli sinabi niya sa atin sa 1 Cor. 14:18 na siya ay nagsalita rin sa ibang wika."
+        },
+        {
+            "id": "47-1",
+            "text": "Ang mga mananampalatayang Hentil sa tahanan ni Cornelio ay nakatanggap sa pang-ekonomiya ng Espiritu Santo, katulad ng mga naunang apostol at mga mananampalatayang Hudyo na nakatanggap noong araw ng Pentecostes (2:4), na tuwirang nagmula sa umakyat na Ulo. Ang dalawang pangyayaring ito lamang ang itinuring sa Bagong Tipan na pagbautismo sa loob ng Espiritu Santo (1:5; 11:15-16). Sa pamamagitan ng dalawang hakbang na ito, binautismuhan ng Ulo ng Katawan ang Kanyang mga mananampalataya, kapwa ang mga Hudyo at mga Hentil, nang minsanan sa loob ng Kanyang isang Katawan (1 Cor. 12:13). Sa gayon, ang bautismo sa Espiritu ay isang naisakatuparang katotohanan na isinagawa ng umakyat sa langit na Kristo kapwa sa araw ng Pentecostes at sa tahanan ni Cornelio. Ang lahat ng ibang pangyayari—ang mga mananampalatayang Samaritano sa kapitulo 8, si Saulo ng Tarso sa kapitulo 9, at ang labindalawang mananampalatayang taga-Efeso sa kapitulo 19—ay hindi itinuturing na bautismo sa Espiritu Santo ayon sa pahayag ng Bagong Tipan. Ang mga pangyayaring ito ay mga karanasan lamang nang minsanang naisakatuparang bautismo sa loob ng Espiritu Santo ng mga mananampalataya."
+        },
+        {
+            "id": "48-1",
+            "text": "Tingnan ang tala 36-1 sa kap. 8."
+        },
+        {
+            "id": "48-2",
+            "text": "Cf. “tungo sa loob ng pangalan” sa 8:16."
+        },
+        {
+            "id": "48-3",
+            "text": "Tumutukoy sa Persona (tingnan ang tala 19-5 sa Mateo 28). Ang mabautismuhan sa pangalan ni Hesu-Kristo ay ang mabautismuhan tungo sa loob ng Persona ni Kristo (Roma 6:3; Gal. 3:27) upang magkaroon ng organikong pakikipagkaisa sa Kanya sa pamamagitan ng pananampalataya."
         }
     ]
 }

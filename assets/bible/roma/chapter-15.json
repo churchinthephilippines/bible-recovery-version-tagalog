@@ -1,5 +1,5 @@
 {
-    "chapter": 15,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -27,7 +27,7 @@
             "footnotes": [
                 {
                     "word": "pagpapalakas-",
-                    "note": ""
+                    "id": "4-1"
                 }
             ],
             "outlines": null
@@ -38,7 +38,7 @@
             "footnotes": [
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "5-1"
                 }
             ],
             "outlines": null
@@ -49,7 +49,7 @@
             "footnotes": [
                 {
                     "word": "isang",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -60,7 +60,7 @@
             "footnotes": [
                 {
                     "word": "Kristo",
-                    "note": ""
+                    "id": "7-1"
                 }
             ],
             "outlines": null
@@ -71,11 +71,11 @@
             "footnotes": [
                 {
                     "word": "tagapaglingkod",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "pagkamakatotohanan",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -104,7 +104,7 @@
             "footnotes": [
                 {
                     "word": "sa",
-                    "note": ""
+                    "id": "12-1"
                 }
             ],
             "outlines": null
@@ -137,11 +137,11 @@
             "footnotes": [
                 {
                     "word": "ministro",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "saserdote",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
@@ -152,7 +152,7 @@
             "footnotes": [
                 {
                     "word": "ipinagmamapuri",
-                    "note": ""
+                    "id": "17-1"
                 }
             ],
             "outlines": null
@@ -169,11 +169,11 @@
             "footnotes": [
                 {
                     "word": "Ilirico,",
-                    "note": ""
+                    "id": "19-1"
                 },
                 {
                     "word": "di-pinahayag",
-                    "note": ""
+                    "id": "19-2"
                 }
             ],
             "outlines": null
@@ -184,7 +184,7 @@
             "footnotes": [
                 {
                     "word": "Masidhi",
-                    "note": ""
+                    "id": "20-1"
                 }
             ],
             "outlines": null
@@ -213,7 +213,7 @@
             "footnotes": [
                 {
                     "word": "Espanya",
-                    "note": ""
+                    "id": "24-1"
                 }
             ],
             "outlines": null
@@ -224,7 +224,7 @@
             "footnotes": [
                 {
                     "word": "maglingkod",
-                    "note": ""
+                    "id": "25-1"
                 }
             ],
             "outlines": [
@@ -237,7 +237,7 @@
             "footnotes": [
                 {
                     "word": "ambagang",
-                    "note": ""
+                    "id": "26-1"
                 }
             ],
             "outlines": null
@@ -248,7 +248,7 @@
             "footnotes": [
                 {
                     "word": "paglingkuran",
-                    "note": ""
+                    "id": "27-1"
                 }
             ],
             "outlines": null
@@ -265,7 +265,7 @@
             "footnotes": [
                 {
                     "word": "puspos",
-                    "note": ""
+                    "id": "29-1"
                 }
             ],
             "outlines": null
@@ -282,7 +282,7 @@
             "footnotes": [
                 {
                     "word": "paglilingkod",
-                    "note": ""
+                    "id": "31-1"
                 }
             ],
             "outlines": null
@@ -298,6 +298,84 @@
             "text": "Ngayon ang Diyos ng kapayapaan ay sumainyo nawang lahat. Amen.",
             "footnotes": [],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "O, pag-aaliw. Parehong kahulugan para sa sumusunod na bersikulo."
+        },
+        {
+            "id": "5-1",
+            "text": "Ang Bibliya at ang mga pagtuturo nito ay binanggit ng naunang bersikulo, subali’t sa pagtatapos ng bersikulong ito, si Kristo Hesus ang itinuturing ng Diyos bilang ang pamantayan ng buhay-ekklesia. Ninanais Niya na ang lahat ng bagay sa buhay-ekklesia ay gawin natin nang naaayon sa Kanya at hindi kunin ang mga doktrina at kaalaman bilang mga patnubay. Ito ay magbubunga ng pagkakaisa sa puso’t kaisipan na binanggit sa bersikulo 6."
+        },
+        {
+            "id": "6-1",
+            "text": "Sa orihinal na teksto, dinadala nito ang kahulugan ng pagkakaroon ng parehong pag-iisip, pagpapasiya at gol. Ito ang pagkakaisa sa ating buong katauhan, na maging ang resulta sa panlabas na pagsasalita ay nasa loob din ng pagkakaisa. Kapag tayo ay nasa pagkakaisa, tayo ay may isang bibig, sinasalita ang parehong bagay. Ito ay salungat sa situwasyon sa Babel. Sa Babel, dahil sa paghahati-hati ng sangkatauhan, ang kanilang lengguwahe ay ginulo at naging maraming wika (Gen. 11:7, 9). Ang tanging daan upang magkaroon ng isang puso at isang bibig ay ang hayaan si Kristo na magkaroon ng posisyong maging ating lahat sa ating puso at sa ating bibig, para sa kaluwalhatian ng Diyos."
+        },
+        {
+            "id": "7-1",
+            "text": "Ninanais ng 14:3 na ang mga mananampalataya ay tanggapin natin nang ayon sa pagtanggap ng Diyos; dito naman ay ninanais nito na tanggapin natin ang mga mananampalataya nang ayon sa pagtanggap ni Kristo. Ang pagtanggap ni Kristo ay ang pagtanggap ng Diyos. Ang tinanggap ni Kristo ay tinanggap ng Diyos. Sinuman ang tinanggap ng Diyos at ni Kristo ay dapat nating tanggapin, gaano pa man kalaki ang kanilang pagkakaiba sa atin sa mga doktrina at mga gawi. Ito ay para sa kaluwalhatian ng Diyos."
+        },
+        {
+            "id": "8-1",
+            "text": "Tinutukoy ng mga bersikulo 8 at 9 na si Kristo ay ang tagapaglingkod ng pagtutuli (mga Hudyo), at Siya ring tagapaglingkod ng mga bansa (mga Hentil). Sa mga Hudyo, si Kristo ang realidad ng Diyos; Siya ay naging kanilang Tagapaglingkod upang tuparin at pagtibayin ang lahat ng mga pangakong ibinigay ng Diyos sa mga magulang. Sa mga Hentil, si Kristo ay nagiging kanilang Tagapaglingkod, upang ang Diyos ay maluwalhati ng mga Hentil dahil sa Kanyang awa."
+        },
+        {
+            "id": "8-2",
+            "text": "Tingnan ang tala 7-1 sa kapitulo 3. Pinagtitibay ang pagkamakatotohanan ng Diyos ng pariralang “Si Kristo ay naging tagapaglingkod ng mga sa pagtutuli” ang pangakong ibinigay ng Diyos sa mga magulang."
+        },
+        {
+            "id": "12-1",
+            "text": "Bagama’t si Kristo ay ang ugat ni Jesse (ang ama ni David, dito tumutukoy ito sa mga Hudyo), Siya rin ang magiging pinuno ng mga Hentil. Ang salitang ito at ang mga bersikulo 9-11 ay sinipi ng apostol upang patunayan na ang mga Hentil ay iniuugpong ni Kristo sa mga Hudyo. Yamang si Kristo ay isang gayong nagpapaloob-ng-lahat na Panginoon (Gawa 10:36) na nag-uugpong ng mga Hudyo sa mga Hentil, ang lahat ng iba’t ibang mananampalataya ay dapat nating tanggapin nang ayon sa Kanya."
+        },
+        {
+            "id": "16-1",
+            "text": "Lit. tagapaglingkod ng taong-bayan, gaya ng sa 13:6."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang pagpapahayag ni Pablo ng ebanghelyo at paghahain ng Kristo sa mga Hentil ay isang uri ng pansaserdoteng paglilingkod sa Diyos; ang mga Hentil na nakamit sa pamamagitan ng pagpapahayag ng ebanghelyo ay siya ring mga hain na kanyang inihandog sa Diyos. Sa pamamagitan ng pansaserdoteng paglilingkod na ito, ang mga Hentil kabilang ang maraming maruruming tao ay napabanal sa Espiritu Santo, nagiging haing tinanggap ng Diyos; sila ay inihiwalay sa mga karaniwang bagay at napuspusan ng kalikasan at elemento ng Diyos, sa gayon sila ay napabanal sa pamposisyon at sa pangkalikasan (tingnan din ang tala 19-2 sa kapitulo 6). Ang pagpapabanal na ito ay nasa Espiritu Santo; ang Espiritu Santo ang nagbabago, nagtatransporma, at nagpapabanal doon sa mga sumampalataya tungo sa loob ni Kristo at sa mga naisilang na muli batay sa pagtutubos ni Kristo."
+        },
+        {
+            "id": "17-1",
+            "text": "Tingnan ang tala 2-4 sa kap. 5."
+        },
+        {
+            "id": "19-1",
+            "text": "Timog-silangan ng Europa, kalapit ng Maraton. Ito ay nagpapakita na ang pagpapahayag ni Pablo ng ebanghelyo ay nakaaabot sa malalayo. Siya ay nag-asam na makapagpahayag hanggang sa Espanya (b. 23)."
+        },
+        {
+            "id": "19-2",
+            "text": "Ipinangaral nang lubos, lit. tinupad."
+        },
+        {
+            "id": "20-1",
+            "text": "*Gr. philotimeomai ; hindi lamang “nilayon” bagkus “masidhing ninasa.” Gayundin sa II Cor. 5:9 at I Tes. 4:11. Sa II Cor. 5:9 isinaling ” ambitious “sa English R.V."
+        },
+        {
+            "id": "24-1",
+            "text": "Nang panahong yaon, si Pablo ay nag-akala na ang Espanya ay nasa kaduluduluhang bahagi ng lupa gaya ng binanggit sa Gawa 1:8."
+        },
+        {
+            "id": "25-1",
+            "text": "Lit. maglingkod bilang isang diyakono o tagapaghain."
+        },
+        {
+            "id": "26-1",
+            "text": "Sa orihinal na teksto, ito ay nangangahulugang makibahagi, magkaroon ng pagsasalamuha, taglay ang parehong kahulugan sa Fil. 1:5 at Heb. 13:16, at taglay ang parehong salitang ugat sa 12:13 ng aklat na ito. Sapagka’t inihahain ni Pablo si Kristo sa mga Hentil, at inihahandog sila sa Diyos bilang mga hain, ito ay napaunlad tungo sa loob ng pagsasalamuha ng pag-ibig, ang pagsasalamuha ng pag-ibig sa pagitan ng mga banal na Hentil at Hudyo. Si Kristo ay dinala ni Pablo sa mga Hentil, at ngayon ay kanyang dinadala pabalik ang pagsasalamuha ng mga materyal na bagay mula sa mga banal na Hentil para sa mga banal na Hudyo. Ang gayong pagsasalamuha ng pag-ibig ay ang praktikal na resulta ng ministeryo ni Pablo."
+        },
+        {
+            "id": "27-1",
+            "text": "Paglilingkod, lit. ang paglilingkod na ginaganap ng mga saserdote at mga Levita sa templo, gaya ng paggamit sa Heb. 10:11. Ang kaisipan ni Pablo sa bersikulo 16 ay yaong siya ay isang saserdote. Sa bersikulong ito, maaaring itinuring ni Pablo na ang mga Hentil ay naglilingkod bilang mga Levita."
+        },
+        {
+            "id": "29-1",
+            "text": "Dinala ni Pablo si Kristo sa mga Hentil, pagkaraan ay kanyang dinala pabalik ang mga materyal na bagay sa mga kapatid na Hudyo. Higit pa rito, siya ay umasa na kanyang madadala ang kapuspusan ng pagpapala ni Kristo sa kanyang pagdalaw sa Roma upang maghain ng kayamanan ni Kristo sa mga tao roon. Ito ay tumutukoy sa pamumuhay na dapat mayroon ang ekklesia. Sa pamamagitan ng apostol, ang buhay-ekklesia ay punô ng Kristo, punô ng pagsasalamuha ng pag-ibig na nasa loob ng pagsasalamuha ng mga materyal na bagay, at punô ng katamasahan sa isa’t isa ng pagpapala ng kapuspusan ni Kristo."
+        },
+        {
+            "id": "31-1",
+            "text": "Paglilingkod, lit. paglilingkod ng isang diyakono. Sa bersikulo 25 at sa bersikulong ito ay malamang na may kaisipan si Pablo na siya ay naglilingkod bilang isang diyakono."
         }
     ]
 }

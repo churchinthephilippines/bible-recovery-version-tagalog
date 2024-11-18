@@ -1,5 +1,5 @@
 {
-    "chapter": 4,
+    "chapter": null,
     "verses": [
         {
             "id": "1",
@@ -7,15 +7,15 @@
             "footnotes": [
                 {
                     "word": "kapahingahan,",
-                    "note": ""
+                    "id": "1-1"
                 },
                 {
                     "word": "maging",
-                    "note": ""
+                    "id": "1-2"
                 },
                 {
                     "word": "di-nakaabot",
-                    "note": ""
+                    "id": "1-3"
                 }
             ],
             "outlines": []
@@ -26,7 +26,7 @@
             "footnotes": [
                 {
                     "word": "mga",
-                    "note": ""
+                    "id": "2-1"
                 }
             ],
             "outlines": null
@@ -55,7 +55,7 @@
             "footnotes": [
                 {
                     "word": "pagsuway,",
-                    "note": ""
+                    "id": "6-1"
                 }
             ],
             "outlines": null
@@ -72,11 +72,11 @@
             "footnotes": [
                 {
                     "word": "Josue",
-                    "note": ""
+                    "id": "8-1"
                 },
                 {
                     "word": "ibang",
-                    "note": ""
+                    "id": "8-2"
                 }
             ],
             "outlines": null
@@ -87,7 +87,7 @@
             "footnotes": [
                 {
                     "word": "Sabbath",
-                    "note": ""
+                    "id": "9-1"
                 }
             ],
             "outlines": null
@@ -104,11 +104,11 @@
             "footnotes": [
                 {
                     "word": "mahulog",
-                    "note": ""
+                    "id": "11-1"
                 },
                 {
                     "word": "pagsuway.",
-                    "note": ""
+                    "id": "11-2"
                 }
             ],
             "outlines": null
@@ -119,15 +119,15 @@
             "footnotes": [
                 {
                     "word": "salita",
-                    "note": ""
+                    "id": "12-1"
                 },
                 {
                     "word": "kaluluwa",
-                    "note": ""
+                    "id": "12-2"
                 },
                 {
                     "word": "iniisip",
-                    "note": ""
+                    "id": "12-3"
                 }
             ],
             "outlines": null
@@ -144,19 +144,19 @@
             "footnotes": [
                 {
                     "word": "dakilang",
-                    "note": ""
+                    "id": "14-1"
                 },
                 {
                     "word": "Mataas",
-                    "note": ""
+                    "id": "14-2"
                 },
                 {
                     "word": "dumaan",
-                    "note": ""
+                    "id": "14-3"
                 },
                 {
                     "word": "pagkakilala.",
-                    "note": ""
+                    "id": "14-4"
                 }
             ],
             "outlines": [
@@ -176,14 +176,92 @@
             "footnotes": [
                 {
                     "word": "trono",
-                    "note": ""
+                    "id": "16-1"
                 },
                 {
                     "word": "awa",
-                    "note": ""
+                    "id": "16-2"
                 }
             ],
             "outlines": null
+        }
+    ],
+    "footnoteReferences": [
+        {
+            "id": "1-1",
+            "text": "Tingnan ang tala 9-1 ."
+        },
+        {
+            "id": "1-2",
+            "text": "Tingnan ang tala 11-1"
+        },
+        {
+            "id": "1-3",
+            "text": "O, mag-akalang masyadong huli para sa kanya."
+        },
+        {
+            "id": "2-1",
+            "text": "Tangi lamang ang matandang manuskrito ng Sinai ang nagsalin ng ganito, ang ibang manuskrito ay nagsaling, sila (tumutukoy sa mga taong nakarinig ng salita) ay hindi gumamit ng pananampalataya upang makipaghalo sa mga nakarinig (tumutukoy kina Caleb at Josue)."
+        },
+        {
+            "id": "6-1",
+            "text": "O, katigasan ng ulo, paghihimagsik, di-paniniwala."
+        },
+        {
+            "id": "8-1",
+            "text": "Ang Josue, na nangangahulugang Jehovah na Tagapagligtas o ang kaligtasan ni Jehovah (Blg. 13:16), ay isang salitang Hebreo na katumbas ng Hesus sa wikang Griyego. Kaya si Josue ay isang sagisag ng Panginoong Hesus na nagdadala sa bayan ng Diyos papasok sa kapahingahan."
+        },
+        {
+            "id": "8-2",
+            "text": "Ang “ibang araw” ay ang “ngayon” (3:7, 13-14, 4:7). Ito ang Sabbath na kapahingahan na natitira para sa atin gaya ng ipinangako (b. 9)."
+        },
+        {
+            "id": "9-1",
+            "text": "Ang Sabbath na kapahingahang ito ay si Kristo bilang ating kapahingahan, gaya ng isinagisag ng mabuting lupa ng Canaan (Deut. 12:9; Heb. 4:8). Si Kristo ay kapahingahan sa mga banal sa tatlong yugto: 1) sa panahon ng ekklesia, Siya, bilang ang makalangit na Kristo, ang Isang namamahinga mula sa gawa at lumuluklok sa kanan ng Diyos sa mga kalangitan, ay ang kapahingahan sa atin sa ngayon sa ating espiritu (Mat. 11:28-29); 2) sa isang libong taong kaharian, pagkatapos alisin si Satanas mula sa lupang ito (Apoc. 20:1-3), si Kristo kasama ang kaharian ay magiging ang kapahingahan sa isang higit na puspos na paraan sa mga mandaraig na mananampalataya na siyang magiging mga kasamang-hari Niya (Apoc. 20:4, 6) at makikibahagi at magtatamasa ng Kanyang kapahingahan; 3) sa bagong langit at bagong lupa, matapos na ang lahat ng mga kaaway, kabilang ang kamatayan, ang huling kaaway, ay mapasuko sa Kanya (1 Cor. 15:24-27), si Kristo, bilang ang Isang gumagapi sa lahat, ay magiging ang kapahingahan sa pinakapuspos na paraan sa lahat ng mga tinubos ng Diyos magpasawalang hanggan. Subali’t ang Sabbath na kapahingahan na binanggit dito at sinagisag ng kapahingahan sa mabuting lupa ng Canaan ay sumasakop lamang sa naunang dalawang yugto ni Kristo bilang kapahingahan sa atin, at hindi dapat sumaklaw sa ikatlong yugto. Ang kapahingahan sa naunang dalawang yugto ay isang gantimpala sa masisikap na naghahanap sa Kanya, na hindi lamang mga tinubos, bagkus ay mga nagtamasa rin sa Kanya sa isang ganap na paraan kung kaya sila ay naging mga mandaraig; samantalang ang kapahingahan sa ikatlong yugto ay hindi isang gantimpala, kundi ang pangkalahatang bahagi para sa lahat ng mga tinubos. Kaya, si Kristo bilang kapahingahan sa atin sa naunang dalawang yugto, lalung-lalo na sa ikalawang yugto, ay ang Sabbath na kapahingahang binanggit dito, ang kapahingahang natitira upang ating hangarin at pasukin nang masikap. Sa ikalawang yugto ni Kristo bilang kapahingahan sa atin, aangkinin ni Kristo ang buong lupa bilang Kanyang mana (Awit 2:8; Heb. 2:5-6) para sa Kanyang kaharian sa isang libong taon (Apoc. 11:15). Lahat ng Kanyang mandaraig na tagasunod, na naghahangad at nagtatamasa sa Kanya bilang kanilang kapahingahan sa unang yugto, ay makikilahok sa Kanyang pamumuno sa panahong yaon (Apoc. 20:4, 6; 2 Tim. 2:12). Sa panahong yaon nila mamanahin ang lupa (Mat. 5:5; Awit 37:11). Ang ilan ay magkakaroon ng awtoridad sa sampung lunsod, ang ilan sa lima (Luc. 19:17, 19). Sa panahong yaon ay makikibahagi rin sila sa galak ng kanilang Panginoon (Mat. 25:21, 23). Yaon ang magiging kapahingahan ng kaharian, na sinasagisag ng kapahingahan ng pagpasok sa mabuting lupa ng Canaan. Ang kapahingahan ng mabuting lupa ay ang gol ng lahat ng mga anak ni Israel na tinubos at iniligtas mula sa Ehipto; gayundin, ang kapahingahan ng darating na kaharian ay ang gol ng mga Bagong Tipang mananampalataya na tinubos at iniligtas mula sa sanlibutan. Ngayon tayong lahat ay nasa landas na patungo sa gol na ito. Ang ganap na pagliligtas ng Diyos, na Kanyang ibibigay sa mga anak ni Israel, ay nagpapaloob ng katubusan sa pamamagitan ng Kordero ng Paskua, exodo mula sa Ehipto, pagpapakain sa pamamagitan ng makalangit na manna, pagpapatid-uhaw sa pamamagitan ng buháy na tubig mula sa nabiyak na bato, at pakikibahagi sa mabuting lupa ng Canaan. Silang lahat ay nakibahagi sa Kordero ng Paskua, sa makalangit na manna, at sa buháy na tubig, subali’t sa mga nakibahagi sa exodo mula sa Ehipto ay tangi lamang sina Josue at Caleb ang nakapasok sa mabuting lupa at nakibahagi nito; lahat ay nangabuwal sa ilang (Blg. 14:30; 1 Cor. 10:1-11). Bagama’t ang lahat ng mga Israelita ay pawang tinubos, tangi lamang ang dalawang mandaraig, sina Josue at Caleb, ang tumanggap ng gantimpala ng mabuting lupa. Ang Kordero ng Paskua, ang makalangit na manna, ang buháy na tubig, at ang mabuting lupa ng Canaan ay pawang mga sagisag ng iba’t ibang aspekto ni Kristo. Ayon sa isinalarawan ng mga anak ni Israel, hindi lahat ng mga mananampalataya na nangatubos sa pamamagitan ni Kristo ay makikibahagi kay Kristo bilang isang gantimpala sa kanila bilang kanilang kapahingahan, kanilang kasiyahan, kapwa sa kapanahunan ng ekklesia at sa darating na kaharian; tangi lamang yaong mga pagkatapos matubos na masikap na naghangad kay Kristo ang makatatamo ng ganito. Ito ang dahilan kung bakit si Apostol Pablo, bagama’t ganap nang natubos, ay nagtutumulin sa hangganan upang kanyang makamit si Kristo bilang gantimpala (Fil. 3:10-14). Sa Filipos 3, tayo ay sinasabihan ni Pablo na siya ay nasa Hudaismo noon, subali’t dahil kay Kristo ay binitiwan niya ang relihiyong yaon (Fil. 3:4-9). Dito sa aklat na ito ay tinatanganan ng sumulat ang parehong konsepto sa paghihikayat sa mga mananampalatayang Hebreo na talikuran ang Hudaismo at magtumulin sa paghabol kay Kristo upang hindi nila maiwala ang gantimpala."
+        },
+        {
+            "id": "11-1",
+            "text": "Yamang ang kapahingahang tinalakay sa bahaging ito ng salita ay ang nagpapaloob ng lahat na Kristo, ang mahulog mula rito ay ang mahulog mula kay Kristo (Gal. 5:4, Gr. ikaw ay inihiwalay kay Kristo). Sa aklat ng Galacia, ang panganib ay yaong ang mga mananampalatayang taga-Galacia ay baka matangay tungo sa loob ng pang-aalipin ng kautusan mula sa kalayaan ng biyaya (Gal. 5:1-4). Sila ay pinayuhan ni Pablo na magpakatatag sa kalayaan ng biyaya, yaon ay, ang huwag maihiwalay kay Kristo. Sa aklat na ito, ang panganib ay yaong hindi bukal sa loob na talikdan ng mga mananampalatayang Hebreo ang lumang relihiyon na itinatag ayon sa kautusan at ayaw magpatuloy tungo sa pagtatamasa kay Kristo bilang kanilang kapahingahan. Kung sila ay mag-uurong-sulong pa rin sa lumang relihiyon, yaon ay, sa Hudaismo, sila ay hindi makaaabot kay Kristo, na kanilang kapahingahan. Sila ay marubdob na hinihikayat ng manunulat ng aklat na ito na magpatuloy kasama ni Kristo bilang Kanyang mga kasama tungo sa kapahingahan, upang sila, bilang Kanyang mga kabahagi, ay makapagtamasa kay Kristo bilang kanilang kapahingahan."
+        },
+        {
+            "id": "11-2",
+            "text": "Tingnan ang tala 6-1 ."
+        },
+        {
+            "id": "12-1",
+            "text": "Gr. logos , ang palagiang salita ng Diyos. Tinutukoy ng salitang “sapagka’t” sa simula ng bersikulong ito na ang “salita” mula sa 3:7-4:11 ay sinipi mula sa Lumang Tipan; at ang salitang ito ay buháy, gumagawa, at higit na matalas kaysa isang tabak na may dalawang talim."
+        },
+        {
+            "id": "12-2",
+            "text": "Ayon sa Biblia, ang tao ay may tatlong bahagi: espiritu, kaluluwa, at katawan (1 Tes. 5:23). Sa bersikulong ito ay binanggit ang mga kasukasuan at utak ng buto, na mga bahagi ng katawan; binanggit din ang kaluluwa at espiritu. Ang mga naunang bersikulo ay tumutukoy sa mga anak ni Israel na nahulog at hindi nakapasok sa kapahingahan ng mabuting lupa. Ukol sa kanila ay may tatlong lugar: ang Ehipto, mula kung saan sila ay pinalaya; ang ilang, kung saan sila ay nagpagala-gala; at ang Canaan, kung saan sila ay pumasok. Ang kanilang kasaysayan sa tatlong lugar na ito ay sumasagisag sa tatlong yugto ng kanilang pakikibahagi sa ganap na pagliligtas ng Diyos. Ito ay sumasagisag sa ating mga Bagong Tipang mananampalataya, na nakikibahagi sa ganap na pagliligtas ng Diyos. Sa unang yugto, natanggap natin si Kristo at tayo ay natubos at napalaya mula sa sanlibutan. Sa ikalawang yugto, sa panahon ng ating pagsunod sa Panginoon, tayo ay naging mga taong pagala-gala. Ang paggalang ito ay palaging nagaganap sa ating kaluluwa. Sa ikatlong yugto, tayo ay nakikibahagi at nagtatamasa kay Kristo sa isang ganap na paraan. Ito ay nararanasan sa ating espiritu. Nang tayo ay naghahabol sa materyal na katamasahan at aliw sa loob ng kasalanan, tayo ay nasa sanlibutan na sinagisag ng Ehipto. Kapag tayo ay nagpapagala-gala sa ating kaluluwa, tayo ay nasa ilang. Kapag natatamasa natin si Kristo sa ating espiritu, tayo ay nasa Canaan. Nang ang mga Israelita ay gumagala sa ilang, sila ay palaging nagbubulung- bulong, nangangatuwiran, at naninisi. Yaon ay tiyak na sa kanilang kaluluwa, hindi sa kanilang espiritu. Subali’t sina Caleb at Josue ay nanalig sa salita ng Diyos, sumunod sa Panginoon, at nagtumulin tungo sa hangganan. Ito ay tiyak na hindi sa kanilang kaluluwa, kundi sa kanilang espiritu. Ang mga tumanggap ng aklat na ito, ang mga mananampalatayang Hebreo, ay nagnais malaman noong panahong yaon kung ano ang dapat nilang gawin sa kanilang lumang Hebreong relihiyon. Ang katanungang ito sa kanilang isipan ay isang paggala sa kanilang kaluluwa, hindi isang karanasan kay Kristo sa kanilang espiritu. Kaya sinasabi ng manunulat ng aklat na ito na ang salita ng Diyos, yaon ay, ang sinipi mula sa Lumang Tipan, ay makatatagos gaya ng isang matalas na tabak na may dalawang talim tungo sa loob ng kanilang pagtatanong at inihihiwalay ang kanilang kaluluwa sa kanilang espiritu. Gaya nang kung papaanong ang utak ng buto ay natatago sa kailaliman ng mga kasukasuan, ay gayundin naman ang espiritu sa kailaliman ng kaluluwa. Ang paghihiwalay ng utak ng buto mula sa mga kasukasuan ay humihiling ng pagbabasag ng mga kasukasuan. Sa gayunding prinsipyo, ang paghihiwalay ng espiritu sa kaluluwa ay humihiling ng pagbabasag ng kaluluwa. Ang kaluluwa ng mga mananampalatayang Hebreo, kalakip ang nagtatanong na pag-iisip nito, na nag-aalinlangan sa paraan ng pagliligtas ng Diyos, at nagsasaalang-alang ng sarili nitong kapakinabangan, ay kinakailangang mabasag sa pamamagitan ng buháy, gumagawa at tumatagos na salita ng Diyos upang ang kanilang espiritu ay maihiwalay sa kanilang kaluluwa. Ang ating kaluluwa ay ang mismong sarili natin (Mat. 16:26; cf. Luc. 9:25). Sa pagsunod sa Panginoon, kinakailangan nating itakwil ang ating kaluluwa, ang mismong sarili natin (Mat. 16:24; Luc. 9:23). Ang espiritu natin ang pinakamalalim na bahagi ng ating katauhan, isang espirituwal na sangkap upang makaugnay natin ang Diyos (Juan 4:24; Roma 1:9). Tayo ay naisilang na muli sa ating espiritu (Juan 3:6). Sa ating espiritu nananahan at gumagawa ang Espiritu Santo (Roma 8:16). Sa ating espiritu ay tinatamasa natin si Kristo at ang Kanyang biyaya (2 Tim. 4:22; Gal. 6:18). Kaya, pinayuhan ng sumulat ng aklat na ito ang mga mananampalatayang Hebreo na huwag na silang manatili sa paggala sa loob ng kanilang kaluluwa, ang ganitong kaluluwa na kinakailangan nilang itakwil; kundi magpatuloy tungo sa loob ng kanilang espiritu upang makibahagi at makapagtamasa sa makalangit na Kristo nang sa gayon ay makabahagi sila sa pangkahariang kapahingahan ng Kanyang paghahari sa isang libong taon. Kung sila ay magpapaurong-sulong sa paggala sa loob ng kanilang kaluluwa, mapapalayo sila sa layunin ng Diyos at magdurusa ng pagkawala ng ganap na katamasahan kay Kristo at ng pangkahariang kapahingahan."
+        },
+        {
+            "id": "12-3",
+            "text": "Ang ating espiritu ay ang sangkap upang ating makaugnay ang Diyos (Juan 4:24), samantalang ang ating puso ay ang sangkap upang ating ibigin ang Diyos (Mar. 12:30). Ang ating espiritu ang nakikiugnay, tumatanggap, nagsisilid, at nakararanas sa Diyos. Gayunpaman, hinihiling nito ang ating puso na ibigin muna ang Diyos. Ang ating kaluluwa ay may tatlong bahagi-kaisipan, pagpapasiya, at damdamin; at ang ating espiritu ay may tatlong bahagi rin-budhi , pagsasalamuha, at intuwisyon. Ang ating puso ay hindi hiwalay sa ating kaluluwa at espiritu, bagkus binubuo ng lahat ng bahagi ng ating kaluluwa pati na ang budhi na bahagi ng ating espiritu. Kaya, sa ating puso ay may kaisipan kalakip ang mga iniisip, at may pagpapasiya kalakip ang mga binabalak. Naiimpluwensiyahan ng mga iniisip ang mga binabalak, at isinasagawa naman ng mga binabalak ang mga iniisip. Ang buháy na salita ng Diyos ay may kakayahang umaninaw sa mga pag-iisip sa ating kaisipan at sa mga binabalak sa ating pagpapasiya. Ang anumang nasipi ng manunulat mula sa salita ng Diyos sa mga nauunang bersikulo ay makapaghahantad ng kung ano at nasaan ang mga iniisip at mga binabalak ng mga mananampalatayang Hebreo habang sila ay nagpapaurong-sulong sa landas ng mga hakbangin ng kanilang kaligtasan."
+        },
+        {
+            "id": "14-1",
+            "text": "Yaon ay, ekselente, kahanga-hanga, maluwalhati, at lubhang kapita-pitagan. Si Kristo sa Kanyang Persona (1:5, 8; 2:6), gawa (1:3; 2:17, 9, 14-15, 10; 3:5-6; 4:8-9; Gawa 2:24, 27), at naisagawa (6:19; 9:24; 2:9) ay pawang dakila at lubhang kapita-pitagan."
+        },
+        {
+            "id": "14-2",
+            "text": "Ang Panginoong Hesus, unang-una, ay isinugo sa atin mula sa Diyos sa pamamagitan ng pagiging laman (2:14) upang maging Apostol natin (3:1), Maykatha natin, Pinuno natin (2:10), ang Isang nakahihigit kay Moises (3:3), at ang ating tunay na Josue (b. 8) upang dalhin tayo, ang Kanyang mga kasama (1:9; 3:14), tungo sa kaluwalhatian at kapahingahan (2:10; 4:11). Pagkatapos, Siya ay bumalik mula sa atin patungo sa Diyos sa pamamagitan ng pagkabuhay na muli at pag-akyat sa langit (5:5-6) upang maging Mataas na Saserdote natin upang panagutan tayo sa presensiya ng Diyos at upang tustusan ang lahat ng ating mga pangangailangan (2:17-18; 4:15)."
+        },
+        {
+            "id": "14-3",
+            "text": "Si Hesus, ang ating dakilang Mataas na Saserdote, ay nabuhay na muli mula sa Hades (Gawa 2:24, 27), hinubaran ang mga pamunuan at mga awtoridad (Col. 2:15) at pumasok din sa kalangitan, ngayon Siya ay nakaupo sa luklukan sa kanan ng Diyos."
+        },
+        {
+            "id": "14-4",
+            "text": "Tumutukoy sa pinaniniwalaan."
+        },
+        {
+            "id": "16-1",
+            "text": "Walang alinlangan na ang tronong binanggit dito ay ang trono ng Diyos na nasa langit (Apoc. 4:2). Ang trono ng Diyos ay ang trono ng awtoridad sa buong sansinukob (Dan. 7:9; Apoc. 5:1). Subali’t sa atin, ang mga mananampalataya, ito ay nagiging ang trono ng biyaya, sinasagisag ng takip-ng-pampalubagloob (ang luklukan ng awa) sa loob ng Dakong Kabanal-banalan (Exo. 25:17, 21), na siyang trono kapwa ng Diyos at ng Kordero (Apoc. 22:1). Paano tayo makapupunta sa trono ng Diyos at ng Kordero, na si Kristo, sa langit habang tayo ay naninirahan pa rito sa lupa? Ang lihim ay ang ating espiritu, na tinukoy sa b. 12 ng kapitulong ito. Ang mismong Kristo na nakaluklok sa trono sa langit (Roma 8:34) ay nasa loob na rin natin ngayon (Roma 8:10), yaon ay, sa ating espiritu (2 Tim. 4:22), kung saan naroroon ang pinananahanan ng Diyos (Efe. 2:22). Ang Bethel ay ang bahay ng Diyos, ang pinananahanan ng Diyos, na siya ring pintuan ng langit; doon si Kristo ang hagdanang nag-uugpong ng lupa sa langit at nagdadala ng langit sa lupa (Gen. 28:12-17; Juan 1:51). Yayamang ang ating espiritu ang lugar na pinananahanan ng Diyos ngayon, ang ating espiritu ay ang pintuan ng langit. Dito si Kristo ay ang hagdanang nag-uugpong sa atin, tayong mga taong nasa lupa, sa langit at nagdadala ng langit sa atin. Kaya nga, sa tuwing tayo ay bumabaling sa ating espiritu, tayo ay pumapasok sa pintuan ng langit at nahihipo ang trono ng biyaya sa langit sa pamamagitan ni Kristo bilang ang makalangit na hagdanan."
+        },
+        {
+            "id": "16-2",
+            "text": "Ang awa at biyaya ng Diyos ay kapwa kahayagan ng Kanyang pag-ibig. Kapag tayo ay nasa isang kaawa-awang kalagayan, ang Kanyang awa ang unang dumarating sa atin at nagdadala sa atin sa isang situwasyon kung saan tayo ay mapapaboran ng Diyos ng Kanyang biyaya. Sinasabi sa atin ng Luc. 15:20-24 na may pagkahabag ang ama sa kanyang alibughang anak nang siya ay makita niyang pabalik. Yaon ay awa, ipinahahayag ang pag-ibig ng ama. Pagkatapos ay dinamtan siya ng pinakamahusay na kasuotan at pinakain siya ng pinatabang guya. Ito ay biyaya, na naghahayag din ng pag-ibig ng ama. Higit ang naaabot ng awa ng Diyos kaysa biyaya at ito ang nagsisilbing tulay sa puwang na namamagitan sa gitna natin at ng biyaya ng Diyos. Ang awa at biyaya ng Diyos ay palaging laan para sa atin. Gayunpaman, kailangan nating matamo at masumpungan ang mga ito sa pamamagitan ng pag-eensayo ng ating espiritu na dumulog sa trono ng biyaya at hipuin ang ating Mataas na Saserdote na Siyang nakikisimpatiya sa lahat ng ating mga kahinaan. Sa pamamagitan ng salitang ito, hinihikayat ng sumulat ng aklat na ito ang mga napapagal na mananampalatayang Hebreo na magsipagtamo ng awa at mangakasumpong ng biyaya sa panahon ng pangangailangan upang sila ay maituwid (12:12)."
         }
     ]
 }
