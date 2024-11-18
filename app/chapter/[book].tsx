@@ -72,10 +72,13 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
 
     setFootnoteReferences(jsonData?.footnoteReferences?.reduce<Record<string, string>>((result, item) => {
       result[item.id] = item.text;
+      result[item.id.replace(/[a-zA-Z]/g, '')] = item.text;
       return result;
     }, {}) || null);
     
     if(isReading) return;
+
+    flatListRef.current?.scrollToIndex({ animated: false, index: 0 });
 
     setSelectedVerseIndex(null);
     setCurrentVerseIndex(null);
