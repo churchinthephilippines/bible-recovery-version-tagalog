@@ -12,6 +12,8 @@ import { ThemedButton } from "@/components/ThemedButton";
 import { useTheme } from "@react-navigation/native";
 import { useTextToSpeech } from "@/hooks/useTextToSpeech";
 import ModalBottom from "@/components/ModalBottom";
+import extractFootnoteLink from "@/utils/extractFootnoteLink";
+import formatBookName from "@/utils/formatBookName";
 
 const soundObject = new Audio.Sound();
 
@@ -58,7 +60,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   const loadChapter = () => {
     
     // @ts-ignore
-    const book = books[params.book.toLowerCase().replace(/\s+/g, '-')] || {};  
+    const book = books[formatBookName(params.book)] || {};  
 
     if(chapter === 0) {
       if(Object.keys(book).length === 1) {
@@ -90,7 +92,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
 
   const countChapters = () => {
     // @ts-ignore
-    const book = books[params.book.toLowerCase().replace(/\s+/g, '-')] || {};  
+    const book = books[formatBookName(params.book)] || {};  
     setNumberOfChapters(Object.keys(book).length);
   };
 
@@ -213,7 +215,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           style={[styles.verseText, { backgroundColor: isSelected || isActive ? colors.card : 'transparent' }, textStyle]}>
           <ThemedText style={[styles.verseNumber, textStyle]}>{index + 1}.{" "}</ThemedText>
           {words.map((word, wordIndex) => {
-            const footnote = item.footnotes.find(f => f.word === word && f.id);
+            const footnote = item.footnotes.find(f => (f.word === word || (f.word.endsWith('-') && word.startsWith(f.word))) && f.id);
             return (
               <Fragment key={wordIndex}>
                 <ThemedText
@@ -353,10 +355,10 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
         onClose={() => setSelectedFootnote(null)}
       >
           <ThemedText style={styles.modalTitle}>Tala sa Bersikulo {selectedFootnote?.id?.split('-')?.[0]}</ThemedText>
-          <ThemedText style={[styles.modalTitle, { fontWeight: 600 }]}>"{selectedFootnote?.word}"</ThemedText>
+          <ThemedText style={[styles.modalTitle, { fontWeight: 600, fontStyle: 'italic' }]}>"{selectedFootnote?.word.replace(',', '').replace(';', '')}"</ThemedText>
           <ScrollView style={{height: '25%'}}>
             {!!selectedFootnote?.id && (
-              <ThemedText style={styles.modalText}>{footnoteReferences?.[selectedFootnote?.id] || ''}</ThemedText>
+              <ThemedText style={styles.modalText}>{extractFootnoteLink(footnoteReferences?.[selectedFootnote?.id] || '', { book: params.book, chapter })}</ThemedText>
             )}
           </ScrollView>
       </ModalBottom>
