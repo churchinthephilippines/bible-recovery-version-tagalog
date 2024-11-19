@@ -1,6 +1,13 @@
 import books from "@/assets/bible"
 import formatBookName from "./formatBookName";
 
+const capitalize = (str: string) => {
+  return str
+    .split(" ")
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+    .join(" ");
+}
+
 const getFootnoteInfo = (current: { point?: string, id: string, book: string; chapter: number }) => {
   // @ts-ignore
   const chapter = books[current.book]?.[`chapter-${current.chapter}`]
@@ -12,7 +19,7 @@ const getFootnoteInfo = (current: { point?: string, id: string, book: string; ch
 
   if(foundFootnote) {
     return {
-      foundTitle: `Tala sa ${current.book} ${current.chapter}:${current.id.split('-')[0]}, "${foundVerse.word.replace(/[\,\;\)\:]/g, '')}"${current.point ? `, ${current.point.replace(',', '')}` : ''}:`,
+      foundTitle: `Tala sa ${capitalize(current.book.replaceAll('-', ' '))} ${current.chapter}:${current.id.split('-')[0]}, "${foundVerse.word.replace(/[\,\;\)\:]/g, '')}"${current.point ? `, ${current.point.replace(',', '')}` : ''}:`,
       foundFootnote: foundFootnote.text
     }
   }
