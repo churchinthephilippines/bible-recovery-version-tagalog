@@ -244,7 +244,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
                 >
                   {word}
                 </ThemedText>
-                <ThemedText>{" "}</ThemedText>
+                <ThemedText style={textStyle}>{" "}</ThemedText>
               </Fragment>
             );
           })}

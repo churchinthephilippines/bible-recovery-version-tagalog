@@ -74,7 +74,7 @@ export default function TabTwoScreen() {
     >
       <ScrollView style={{flex: 1}}>
         <ThemedView colorName="card" style={[styles.exampleContainer]}>
-          <ThemedText style={{ fontSize: previewFontSize, lineHeight: Math.max(previewFontSize * 1.5, 24) }}>
+          <ThemedText style={{ fontSize: previewFontSize, lineHeight: Math.max(previewFontSize * 1.5, 28) }}>
             <Text>1.</Text> {previewVerse}
           </ThemedText>
         </ThemedView>
