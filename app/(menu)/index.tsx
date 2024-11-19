@@ -4,6 +4,7 @@ import { router } from "expo-router";
 import React from 'react';
 import { FlatList, TouchableOpacity, StyleSheet } from 'react-native';
 import { useSafeAreaInsets } from "react-native-safe-area-context";
+import * as Haptics from 'expo-haptics';
 
 const books = [
   "Mateo",
@@ -37,6 +38,7 @@ const books = [
 
 const Books = () => {
   const handleBookPress = (book: string) => {
+    Haptics.selectionAsync();
     router.navigate(`/chapter/${book}`);
   };
 

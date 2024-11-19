@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef, Fragment } from 'react';
 import { View, FlatList, TouchableOpacity, Modal, StyleSheet, ActivityIndicator, Platform, ScrollView } from 'react-native';
-
+import * as Haptics from 'expo-haptics';
 import { router, Stack, useLocalSearchParams } from "expo-router";
 import books from '@/assets/bible';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -166,28 +166,37 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
 
   const startReadingFromSelectedVerse = () => {
     if (selectedVerseIndex !== null) {
+      Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light)
       setSelectedVerseIndex(null);
       setCurrentVerseIndex(selectedVerseIndex);
     }
   };
 
   const stopReading = () => {
+    Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning)
     stopSpeech();
     setIsReading(false);
     setCurrentVerseIndex(null);
   };
 
   const handleNextChapter = () => {
-    stopReading()
+    if(isReading) {
+      stopReading();
+    }
+    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Rigid)
     setChapter(chapter + 1);
   };
 
   const handlePreviousChapter = () => {
-    stopReading()
+    if(isReading) {
+      stopReading();
+    }
+    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Rigid)
     if (chapter > 1) setChapter(chapter - 1);
   };
 
   const handleChapterSelect = (chapterNum: number) => {
+    Haptics.selectionAsync();
     setChapter(chapterNum);
     setChapterModalVisible(false);
   };
@@ -211,7 +220,10 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           </>
         )}
         <ThemedText 
-          onLongPress={() => setSelectedVerseIndex(index)} 
+          onLongPress={() => {
+            setSelectedVerseIndex(index)
+            Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Heavy)
+          }} 
           style={[styles.verseText, { backgroundColor: isSelected || isActive ? colors.card : 'transparent' }, textStyle]}>
           <ThemedText style={[styles.verseNumber, textStyle]}>{index + 1}.{" "}</ThemedText>
           {words.map((word, wordIndex) => {
@@ -221,8 +233,14 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
                 <ThemedText
                   type={footnote ? 'link' : undefined}
                   style={[footnote ? styles.footnoteHighlight : undefined, textStyle]}
-                  onPress={footnote ? () => setSelectedFootnote(footnote) : undefined}
-                  onLongPress={footnote ? () => setSelectedVerseIndex(index) : undefined}
+                  onPress={footnote ? () => {
+                    setSelectedFootnote(footnote)
+                    Haptics.selectionAsync()
+                  } : undefined}
+                  onLongPress={footnote ? () => {
+                    setSelectedVerseIndex(index) 
+                    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Heavy)
+                  } : undefined}
                 >
                   {word}
                 </ThemedText>
@@ -352,13 +370,16 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     return (
       <ModalBottom
         visible={!!selectedFootnote}
-        onClose={() => setSelectedFootnote(null)}
+        onClose={() => {
+          setSelectedFootnote(null)
+          Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning)
+        }}
       >
           <ThemedText style={styles.modalTitle}>Tala sa Bersikulo {selectedFootnote?.id?.split('-')?.[0]}</ThemedText>
           <ThemedText style={[styles.modalTitle, { fontWeight: 600, fontStyle: 'italic' }]}>"{selectedFootnote?.word.replace(',', '').replace(';', '')}"</ThemedText>
           <ScrollView style={{height: '25%'}}>
             {!!selectedFootnote?.id && (
-              <ThemedText style={styles.modalText}>{extractFootnoteLink(footnoteReferences?.[selectedFootnote?.id] || '', { book: params.book, chapter })}</ThemedText>
+              <ThemedText style={styles.modalText}>{extractFootnoteLink(footnoteReferences?.[selectedFootnote?.id] || '', { book: params.book, chapter }, [ { book: params.book, chapter, id: selectedFootnote?.id }])}</ThemedText>
             )}
           </ScrollView>
       </ModalBottom>
