@@ -201,6 +201,8 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     setChapterModalVisible(false);
   };
 
+  const titleStyle = { fontSize: fontSize + 4, lineHeight: Math.max(fontSize * 1.5, 28) };
+
   const textStyle = { fontSize, lineHeight: Math.max(fontSize * 1.5, 28) };
 
   const renderVerse = ({ item, index }: { item: Verse; index: number }) => {
@@ -381,11 +383,11 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning)
         }}
       >
-          <ThemedText style={styles.modalTitle}>Tala sa Bersikulo {selectedFootnote?.id?.split('-')?.[0]}</ThemedText>
-          <ThemedText style={[styles.modalTitle, { fontWeight: 600, fontStyle: 'italic' }]}>"{selectedFootnote?.word.replace(/[\,\;\)\:]/g, '')}"</ThemedText>
+          <ThemedText style={[styles.modalTitle, titleStyle]}>Tala sa Bersikulo {selectedFootnote?.id?.split('-')?.[0]}</ThemedText>
+          <ThemedText style={[styles.modalTitle, titleStyle, { fontWeight: 600, fontStyle: 'italic' }]}>"{selectedFootnote?.word.replace(/[\,\;\)\:]/g, '')}"</ThemedText>
           <ScrollView style={{height: 250}}>
             {!!selectedFootnote?.id && (
-              <ThemedText style={styles.modalText}>{extractFootnoteLink(footnoteReferences?.[selectedFootnote?.id] || '', { book: params.book, chapter }, [ { book: params.book, chapter, id: selectedFootnote?.id }])}</ThemedText>
+              <ThemedText style={[styles.modalText, textStyle]}>{extractFootnoteLink(footnoteReferences?.[selectedFootnote?.id] || '', { book: params.book, chapter }, [ { book: params.book, chapter, id: selectedFootnote?.id }])}</ThemedText>
             )}
           </ScrollView>
       </ModalBottom>

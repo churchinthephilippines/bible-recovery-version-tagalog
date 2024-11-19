@@ -18,12 +18,18 @@ interface ModalBottomProps {
 
 export function ModalBottom({ visible, onClose, children }: ModalBottomProps) {
   const { colors } = useTheme();
+
+  if (!visible) return null;
+  
   return (
-    <Modal
-      animationType="slide"
-      transparent={true}
-      visible={visible}
-      onRequestClose={onClose}
+    <View
+      style={{
+        position: 'absolute',
+        bottom: 0,
+        left: 0,
+        right: 0,
+        backgroundColor: colors.card,
+      }}
     >
       <View style={[styles.modalOverlay]}>
         <ThemedView colorName="card" style={[styles.modalContent]}>
@@ -38,7 +44,7 @@ export function ModalBottom({ visible, onClose, children }: ModalBottomProps) {
           {children}
         </ThemedView>
       </View>
-    </Modal>
+    </View>
   );
 };
 
