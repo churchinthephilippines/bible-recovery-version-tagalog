@@ -201,7 +201,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     setChapterModalVisible(false);
   };
 
-  const textStyle = { fontSize, lineHeight: Math.max(fontSize * 1.5, 24) };
+  const textStyle = { fontSize, lineHeight: Math.max(fontSize * 1.5, 28) };
 
   const renderVerse = ({ item, index }: { item: Verse; index: number }) => {
     const words = item.text.split(" ");
@@ -382,8 +382,8 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
         }}
       >
           <ThemedText style={styles.modalTitle}>Tala sa Bersikulo {selectedFootnote?.id?.split('-')?.[0]}</ThemedText>
-          <ThemedText style={[styles.modalTitle, { fontWeight: 600, fontStyle: 'italic' }]}>"{selectedFootnote?.word.replace(',', '').replace(';', '')}"</ThemedText>
-          <ScrollView style={{height: '25%'}}>
+          <ThemedText style={[styles.modalTitle, { fontWeight: 600, fontStyle: 'italic' }]}>"{selectedFootnote?.word.replace(/[\,\;\)\:]/g, '')}"</ThemedText>
+          <ScrollView style={{height: 250}}>
             {!!selectedFootnote?.id && (
               <ThemedText style={styles.modalText}>{extractFootnoteLink(footnoteReferences?.[selectedFootnote?.id] || '', { book: params.book, chapter }, [ { book: params.book, chapter, id: selectedFootnote?.id }])}</ThemedText>
             )}
@@ -414,7 +414,7 @@ const styles = StyleSheet.create({
     marginVertical: 10,
   },
   footnoteHighlight: {
-    zIndex: 1,
+    zIndex: 100,
   },
   paginationButtons: {
     flexDirection: 'row',

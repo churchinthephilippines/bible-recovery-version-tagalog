@@ -12,7 +12,7 @@ const getFootnoteInfo = (current: { point?: string, id: string, book: string; ch
 
   if(foundFootnote) {
     return {
-      foundTitle: `Tala sa ${current.book} ${current.chapter}:${current.id.split('-')[0]}, "${foundVerse.word.replace(',', '').replace(';', '')}"${current.point ? `, ${current.point.replace(',', '')}` : ''}:`,
+      foundTitle: `Tala sa ${current.book} ${current.chapter}:${current.id.split('-')[0]}, "${foundVerse.word.replace(/[\,\;\)\:]/g, '')}"${current.point ? `, ${current.point.replace(',', '')}` : ''}:`,
       foundFootnote: foundFootnote.text
     }
   }
