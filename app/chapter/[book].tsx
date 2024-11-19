@@ -295,7 +295,10 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
 
     return (
       <ThemedView style={{ flex: 1 }}>
-        <TouchableOpacity onPress={() => setChapterModalVisible(true)}>
+        <TouchableOpacity onPress={() => {
+          Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Rigid)
+          setChapterModalVisible(true)
+        }}>
           <ThemedText style={styles.chapterTitle} colorName="primary" type="title">Kapitulo {chapter}</ThemedText>
         </TouchableOpacity>
         <FlatList
@@ -358,7 +361,10 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
               )}
             />
             <View style={{ width: '100%', borderTopColor: '#ccc', borderTopWidth: 1, paddingTop: 20, paddingHorizontal: 20 }}>
-              <ThemedButton title="Close" onPress={() => chapter === 0 ? router.back() : setChapterModalVisible(false)} />
+              <ThemedButton title="Close" onPress={() => {
+                setChapterModalVisible(false)
+                Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning)
+              }} />
             </View>
           </ThemedView>
         </View>
