@@ -2,6 +2,7 @@ import { Text, type TextProps, StyleSheet } from 'react-native';
 
 import { useThemeColor } from '@/hooks/useThemeColor';
 import { DefaultTheme } from "@react-navigation/native";
+import { useColorScheme } from "@/hooks/useColorScheme";
 
 export type ThemedTextProps = TextProps & {
   lightColor?: string;
@@ -20,6 +21,7 @@ export function ThemedText({
   type = 'default',
   ...rest
 }: ThemedTextProps) {
+  const scheme = useColorScheme()
   const color = useThemeColor({ light: allColor || lightColor, dark: allColor || darkColor }, colorName);
 
   return (
@@ -30,7 +32,7 @@ export function ThemedText({
         type === 'title' ? styles.title : undefined,
         type === 'defaultSemiBold' ? styles.defaultSemiBold : undefined,
         type === 'subtitle' ? styles.subtitle : undefined,
-        type === 'link' ? styles.link : undefined,
+        type === 'link' ? [styles.link, { color: scheme === 'dark' ? '#67a3ff' : '#3782f5'}] : undefined,
         style,
       ]}
       {...rest}

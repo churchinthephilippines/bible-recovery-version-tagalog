@@ -2,6 +2,7 @@ import React from 'react';
 import { View, StyleSheet, TouchableOpacity } from 'react-native';
 import { ThemedText } from "./ThemedText";
 import { useTheme } from "@react-navigation/native";
+import * as Haptics from 'expo-haptics';
 
 export type ThemedRadioButtonProps<T extends string> = {
   options: {
@@ -23,7 +24,10 @@ export function ThemedRadioButton<T extends string>({
     <View style={styles.container}>
       {options.map((option) => {
         const selected = option.value === value;
-        const onPress = () => onValueChange(option.value);
+        const onPress = () => {
+          onValueChange(option.value);
+          Haptics.selectionAsync()
+        }
         return (
           <TouchableOpacity
             key={option.value}
