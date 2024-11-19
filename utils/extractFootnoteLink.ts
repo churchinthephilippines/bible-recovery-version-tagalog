@@ -19,7 +19,7 @@ const getFootnoteInfo = (current: { point?: string, id: string, book: string; ch
 }
 
 const extractFootnoteLink = (footnote: string, current: { book: string; chapter: number }, indexing: Array<{book: string; chapter: number, id: string}> = []): string => {
-  const regexp = /\(?(?:Tingnan|Tignan|tingnan)\s(?:ang|sa)\stala\s(\d+?-\d+?)\s?,?(\s(?:punto|talata|tal.)\s\d+?,?)?(?:(?:\s?sa\s(\d*?\s?[a-zA-Z\.]+?)\s(\d+?))|(?:\s?sa\s(kap\.|kapitulo)\s(\d+?)))?\.?\)?\.?/
+  const regexp = /\(?(?:Tingnan|Tignan|tingnan)\s(?:ang|sa)\stala\s(\d+-\d+)\s?,?(\s(?:punto|talata|tal.)\s\d+,?)?(?:(?:\s?sa\s(\d*\s?[a-zA-Z\.]+?)\s(\d+))|(?:\s?sa\s(kap\.|kapitulo)\s(\d+)))?\.?\)?\.?/
   const [foundLink, id, point, book, chapter] = footnote.match(regexp) || []
 
   const repeatedAction = (newCurrent: { book: string; chapter: number}) => {
