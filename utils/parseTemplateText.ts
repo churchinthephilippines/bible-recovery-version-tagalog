@@ -1,5 +1,5 @@
 const parseTemplateText = (input: string) => {
-  const regex = /\[(\/?)(b|i|h)\]/g; // Matches opening/closing tags like [b], [/b], etc.
+  const regex = /\[(\/?)(bb|b|i|h)\]/g; // Matches opening/closing tags like [b], [/b], etc.
   let stack = [];
   let lastIndex = 0;
   const result = [];

@@ -25,6 +25,7 @@ export function ThemedTemplatedText({children, ...props}: ThemedTemplatedTextPro
 const getStyles = (stylesArray: string[], defaultStyles?: ThemedTextProps['style']) => {
   const styles: ThemedTextProps['style'] = [defaultStyles];
   if (stylesArray.includes("b")) styles.push(stylesheet.bold);
+  if (stylesArray.includes("bb")) styles.push(stylesheet.heavyBold);
   if (stylesArray.includes("i")) styles.push(stylesheet.italic);
   if (stylesArray.includes("h"))
     styles.push(stylesheet.highlight);
@@ -35,6 +36,9 @@ const getStyles = (stylesArray: string[], defaultStyles?: ThemedTextProps['style
 const stylesheet = StyleSheet.create({
   bold: {
     fontWeight: "bold",
+  },
+  heavyBold: {
+    fontWeight: "900",
   },
   italic: {
     fontStyle: "italic",
