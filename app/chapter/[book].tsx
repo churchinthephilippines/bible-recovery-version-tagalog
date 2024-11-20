@@ -14,6 +14,8 @@ import { useTextToSpeech } from "@/hooks/useTextToSpeech";
 import ModalBottom from "@/components/ModalBottom";
 import extractFootnoteLink from "@/utils/extractFootnoteLink";
 import formatBookName from "@/utils/formatBookName";
+import ThemedTemplatedText from "@/components/ThemedTemplatedText";
+import cleanText from "@/utils/cleanText";
 
 const soundObject = new Audio.Sound();
 
@@ -229,7 +231,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           style={[styles.verseText, { backgroundColor: isSelected || isActive ? colors.card : 'transparent' }, textStyle]}>
           <ThemedText style={[styles.verseNumber, textStyle]}>{index + 1}.{" "}</ThemedText>
           {words.map((word, wordIndex) => {
-            const footnote = item.footnotes.find(f => (f.word === word || (f.word.endsWith('-') && word.startsWith(f.word))) && f.id);
+            const footnote = item.footnotes.find(f => (cleanText(f.word) === cleanText(word) || (f.word.endsWith('-') && word.startsWith(f.word))) && f.id);
             return (
               <Fragment key={wordIndex}>
                 <ThemedText
@@ -387,7 +389,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           <ThemedText style={[styles.modalTitle, titleStyle, { fontWeight: 600, fontStyle: 'italic' }]}>"{selectedFootnote?.word.replace(/[\,\;\)\:]/g, '')}"</ThemedText>
           <ScrollView style={{height: 250}}>
             {!!selectedFootnote?.id && (
-              <ThemedText style={[styles.modalText, textStyle]}>{extractFootnoteLink(footnoteReferences?.[selectedFootnote?.id] || '', { book: params.book, chapter }, [ { book: params.book, chapter, id: selectedFootnote?.id }])}</ThemedText>
+              <ThemedTemplatedText style={[styles.modalText, textStyle]}>{extractFootnoteLink(footnoteReferences?.[selectedFootnote?.id] || '', { book: params.book, chapter }, [ { book: params.book, chapter, id: selectedFootnote?.id }])}</ThemedTemplatedText>
             )}
           </ScrollView>
       </ModalBottom>
