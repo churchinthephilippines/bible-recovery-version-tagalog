@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef, Fragment } from 'react';
-import { View, FlatList, TouchableOpacity, Modal, StyleSheet, ActivityIndicator, Platform, ScrollView } from 'react-native';
+import { View, FlatList, TouchableOpacity, Modal, StyleSheet, ActivityIndicator, Platform, ScrollView, Alert } from 'react-native';
 import * as Haptics from 'expo-haptics';
-import { router, Stack, useLocalSearchParams } from "expo-router";
+import { Stack, useLocalSearchParams } from "expo-router";
 import books from '@/assets/bible';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Audio } from 'expo-av';
@@ -16,6 +16,9 @@ import extractFootnoteLink from "@/utils/extractFootnoteLink";
 import formatBookName from "@/utils/formatBookName";
 import ThemedTemplatedText from "@/components/ThemedTemplatedText";
 import cleanText from "@/utils/cleanText";
+import { useHighlightNotes } from "@/hooks/useHighlightWithNotes";
+import { ThemedTextInput } from "@/components/ThemedTextInput";
+import Ionicons from '@expo/vector-icons/Ionicons';
 
 const soundObject = new Audio.Sound();
 
@@ -43,7 +46,7 @@ interface ChapterScreenProps {
 
 const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   const inset = useSafeAreaInsets()
-  const { colors } = useTheme()
+  const { dark, colors } = useTheme()
   const params = useLocalSearchParams<{ book: string }>();
   const fontSize = useSettingsStore((state) => state.fontSize);
   const flatListRef = useRef<FlatList<Verse> | null>(null);
@@ -58,6 +61,13 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   const [numberOfChapters, setNumberOfChapters] = useState<number>(0);
   const [loading, setLoading] = useState(true);
   const { textToSpeech, stopSpeech } = useTextToSpeech();
+  const [noteModalVisible, setNoteModalVisible] = useState<number | null>(null);
+  const [currentNote, setCurrentNote] = useState<string>('');
+  const { highlightedVerses, toggleHighlight, saveNote, loadHighlightedVerses } = useHighlightNotes({ book: params.book, chapter });
+
+  useEffect(() => {
+    loadHighlightedVerses()
+  }, [chapter]);
 
   const loadChapter = () => {
     
@@ -203,14 +213,21 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     setChapterModalVisible(false);
   };
 
+  const handleOpenNoteModal = (verseIndex: number) => {
+    setNoteModalVisible(verseIndex);
+  };
+
   const titleStyle = { fontSize: fontSize + 4, lineHeight: Math.max(fontSize * 1.5, 28) };
 
   const textStyle = { fontSize, lineHeight: Math.max(fontSize * 1.5, 28) };
-
+  
   const renderVerse = ({ item, index }: { item: Verse; index: number }) => {
     const words = item.text.split(" ");
     const isActive = index === currentVerseIndex;
     const isSelected = index === selectedVerseIndex;
+    const isHighlighted = highlightedVerses.has(index);
+    const noteExists = highlightedVerses.get(index)
+    const highlightedStyle = { backgroundColor: isHighlighted ? colors.border : 'transparent' };
 
     return (
       <>
@@ -223,36 +240,55 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
             ))}
           </>
         )}
-        <ThemedText 
-          onLongPress={() => {
-            setSelectedVerseIndex(index)
-            Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Heavy)
-          }} 
-          style={[styles.verseText, { backgroundColor: isSelected || isActive ? colors.card : 'transparent' }, textStyle]}>
-          <ThemedText style={[styles.verseNumber, textStyle]}>{index + 1}.{" "}</ThemedText>
-          {words.map((word, wordIndex) => {
-            const footnote = item.footnotes.find(f => (cleanText(f.word) === cleanText(word) || (f.word.endsWith('-') && word.startsWith(f.word))) && f.id);
-            return (
-              <Fragment key={wordIndex}>
-                <ThemedText
-                  type={footnote ? 'link' : undefined}
-                  style={[footnote ? styles.footnoteHighlight : undefined, textStyle]}
-                  onPress={footnote ? () => {
-                    setSelectedFootnote(footnote)
-                    Haptics.selectionAsync()
-                  } : undefined}
-                  onLongPress={footnote ? () => {
-                    setSelectedVerseIndex(index) 
-                    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Heavy)
-                  } : undefined}
-                >
-                  {word}
-                </ThemedText>
-                <ThemedText style={textStyle}>{" "}</ThemedText>
-              </Fragment>
-            );
-          })}
-        </ThemedText>
+        <ThemedView>
+          <ThemedText 
+            onLongPress={() => {
+              Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Rigid);
+              Alert.alert('Mga aksyon', 'Anong ang gusto mong gawin sa bersikulo?', [
+                { text: `${isHighlighted ? 'Remove' : 'Add'} Highlight`, onPress: () => toggleHighlight(index) },
+                { text: `${isSelected ? 'Unselect' : 'Select'} to Read Verse`, onPress: () => {
+                  if(isSelected) {
+                    setSelectedVerseIndex(null);
+                    return Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Soft);
+                  }
+                  setSelectedVerseIndex(index)
+                  Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Heavy)
+                } },
+                { text: 'Cancel', onPress: () => {}, style: 'cancel' },
+              ]);
+            }} 
+            style={[styles.verseText, { backgroundColor: isSelected || isActive ? colors.card : 'transparent' }, textStyle]}
+          >
+            <ThemedText style={[styles.verseNumber, textStyle]}>{index + 1}.{" "}</ThemedText>
+            {words.map((word, wordIndex) => {
+              const footnote = item.footnotes.find(f => (cleanText(f.word) === cleanText(word) || (f.word.endsWith('-') && word.startsWith(f.word))) && f.id);
+              return (
+                <Fragment key={wordIndex}>
+                  <ThemedText
+                    type={footnote ? 'link' : undefined}
+                    style={[footnote ? styles.footnoteHighlight : undefined, textStyle, highlightedStyle]}
+                    onPress={footnote ? () => {
+                      setSelectedFootnote(footnote)
+                      Haptics.selectionAsync()
+                    } : undefined}
+                    onLongPress={footnote ? () => {
+                      setSelectedVerseIndex(index) 
+                      Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Heavy)
+                    } : undefined}
+                  >
+                    {word}
+                  </ThemedText>
+                  <ThemedText style={[textStyle, highlightedStyle]}>{" "}</ThemedText>
+                </Fragment>
+              );
+            })}
+          </ThemedText>
+          {!!isHighlighted && (
+            <TouchableOpacity style={[styles.noteIndicator, { backgroundColor: colors.primary }]} onPress={() => handleOpenNoteModal(index)}>
+              <Ionicons name={noteExists === "" ? "chatbubble-outline" : "chatbubble-ellipses-outline"} size={25} color={colors.background}/>
+            </TouchableOpacity>
+          )}
+        </ThemedView>
       </>
     );
   };
@@ -261,8 +297,9 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     <>
       <Stack.Screen options={{ title: `${params.book}`, headerTitleAlign: "center", headerTitleStyle: { fontSize: 26 } }} />
       {renderContent()}
-      {renderChapteSelectionModal()}
+      {renderChapterSelectionModal()}
       {renderFootnotesModal()}
+      {!currentNote && !!highlightedVerses.get(noteModalVisible!) ? renderNotesModal() : renderSaveNotesModal()}
     </>
   );
 
@@ -339,7 +376,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     )
   }
 
-  function renderChapteSelectionModal() {
+  function renderChapterSelectionModal() {
     return (
       <Modal
         visible={isChapterModalVisible}
@@ -380,6 +417,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     return (
       <ModalBottom
         visible={!!selectedFootnote}
+        backdrop={false}
         onClose={() => {
           setSelectedFootnote(null)
           Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning)
@@ -392,6 +430,67 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
               <ThemedTemplatedText style={[styles.modalText, textStyle]}>{extractFootnoteLink(footnoteReferences?.[selectedFootnote?.id] || '', { book: params.book, chapter }, [ { book: params.book, chapter, id: selectedFootnote?.id }])}</ThemedTemplatedText>
             )}
           </ScrollView>
+      </ModalBottom>
+    )
+  }
+
+  function renderNotesModal() {
+    return (
+      <ModalBottom visible={noteModalVisible !== null} onClose={() => setNoteModalVisible(null)}>
+        <ThemedText style={[styles.modalTitle, titleStyle]}>Mag-tala ng Note</ThemedText>
+        <ScrollView style={{height: 250, marginBottom: 15}}>
+          <ThemedText style={[styles.modalText, textStyle]}>
+            {highlightedVerses.get(noteModalVisible!) || ''}
+          </ThemedText>
+        </ScrollView>
+        <ThemedButton
+          title="I-edit ang Note"
+          onPress={() => {
+            setCurrentNote(highlightedVerses.get(noteModalVisible!) || '');
+          }}
+        />
+      </ModalBottom>
+    )
+  }
+
+  function renderSaveNotesModal() {
+
+    const closeNoteModal = () => {
+      setNoteModalVisible(null);
+      setCurrentNote('');
+    }
+
+    const closeWithChecking = () => {
+      if(currentNote === highlightedVerses.get(noteModalVisible!)) {
+        closeNoteModal();
+        return;
+      }
+
+      Alert.alert('⚠️ Babala ⚠️', 'Ang Note ay hindi pa na-save. Gusto mo ba ituloy na isara at mawala ang iyong na mga nagawa?', [
+        { text: 'Oo', onPress: closeNoteModal },
+        { text: 'Huwag', style: 'cancel' },
+      ]);
+    }
+
+    return (
+      <ModalBottom visible={noteModalVisible !== null} onClose={closeWithChecking}>
+        <ThemedText style={[styles.modalTitle, titleStyle]}>Mag-tala ng Note</ThemedText>
+        <ThemedView style={{height: 250, marginBottom: 15}}>
+          <ThemedTextInput
+            placeholder="Enter your note"
+            value={currentNote}
+            onChangeText={setCurrentNote}
+            multiline
+            style={{ height: '100%', ...textStyle }}
+          />
+        </ThemedView>
+        <ThemedButton
+          title="I-save ang Note"
+          onPress={() => {
+            if (noteModalVisible !== null) saveNote(noteModalVisible, currentNote);
+            closeNoteModal();
+          }}
+        />
       </ModalBottom>
     )
   }
@@ -410,6 +509,7 @@ const styles = StyleSheet.create({
   verseText: {
     padding: 10,
     fontSize: 16,
+    position: 'relative',
   },
   outlineText: {
     textAlign: 'center',
@@ -453,6 +553,16 @@ const styles = StyleSheet.create({
   modalText: {
     fontSize: 18,
     marginBottom: 20,
+  },
+  noteIndicator: {
+    position: 'absolute',
+    top: -10,
+    right: 0,
+    marginLeft: 5,
+    backgroundColor: 'lightblue',
+    borderRadius: 20,
+    alignSelf: 'flex-start',
+    zIndex: 1
   },
 });
 
