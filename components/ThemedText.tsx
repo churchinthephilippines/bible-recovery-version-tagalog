@@ -32,7 +32,7 @@ export function ThemedText({
         type === 'title' ? styles.title : undefined,
         type === 'defaultSemiBold' ? styles.defaultSemiBold : undefined,
         type === 'subtitle' ? styles.subtitle : undefined,
-        type === 'link' ? [styles.link, { color: scheme === 'dark' ? '#67a3ff' : '#3782f5'}] : undefined,
+        type === 'link' ? [styles.link, { color: scheme === 'dark' ? '#67a3ff' : '#0b5cb4'}] : undefined,
         style,
       ]}
       {...rest}
