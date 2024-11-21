@@ -1,23 +1,77 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import {
   Modal,
   View,
   Text,
   StyleSheet,
   TouchableOpacity,
+  Keyboard,
 } from 'react-native';
 import { ThemedView } from "./ThemedView";
 import { Ionicons } from "@expo/vector-icons";
 import { useTheme } from "@react-navigation/native";
+import { useSafeAreaInsets } from "react-native-safe-area-context";
 
 interface ModalBottomProps {
   visible: boolean;
   onClose: () => void;
+  backdrop?: boolean;
   children: React.ReactNode;
 }
 
-export function ModalBottom({ visible, onClose, children }: ModalBottomProps) {
+export function ModalBottom({ visible, onClose, backdrop = true, children }: ModalBottomProps) {
+  const insets = useSafeAreaInsets();
   const { colors } = useTheme();
+  const [keyboardHeight, setKeyboardHeight] = useState(0);
+
+  useEffect(() => {
+    if(!visible) return;
+    
+    const keyboardDidShowListener = Keyboard.addListener(
+      'keyboardDidShow',
+      (e) => {
+        setKeyboardHeight(e.endCoordinates.height); // Get keyboard height
+      }
+    );
+    
+    const keyboardDidHideListener = Keyboard.addListener(
+      'keyboardWillHide',
+      () => {
+        setKeyboardHeight(0); // Reset keyboard height when keyboard is hidden
+      }
+    );
+
+    // Clean up the listeners when the component is unmounted
+    return () => {
+      keyboardDidHideListener.remove();
+      keyboardDidShowListener.remove();
+      setKeyboardHeight(0);
+    };
+  }, [visible]);
+
+  const content = (
+    <View style={[styles.modalOverlay]}>
+      <ThemedView colorName="card" style={[styles.modalContent, { paddingBottom: insets.bottom, bottom: keyboardHeight }]}>
+        {/* Close Button */}
+        <TouchableOpacity onPress={onClose} style={styles.closeButton}>
+          <Text style={styles.closeButtonText}>
+            <Ionicons name="close" size={35} color={colors.primary} />
+          </Text>
+        </TouchableOpacity>
+
+        {/* Modal Content */}
+        {children}
+      </ThemedView>
+    </View>
+  )
+
+  if(backdrop) {
+    return (
+      <Modal visible={visible} transparent={true} animationType="slide" onRequestClose={onClose}>
+        {content}
+      </Modal>
+    )
+  }
 
   if (!visible) return null;
   
@@ -31,19 +85,7 @@ export function ModalBottom({ visible, onClose, children }: ModalBottomProps) {
         backgroundColor: colors.card,
       }}
     >
-      <View style={[styles.modalOverlay]}>
-        <ThemedView colorName="card" style={[styles.modalContent]}>
-          {/* Close Button */}
-          <TouchableOpacity onPress={onClose} style={styles.closeButton}>
-            <Text style={styles.closeButtonText}>
-              <Ionicons name="close" size={35} color={colors.primary} />
-            </Text>
-          </TouchableOpacity>
-
-          {/* Modal Content */}
-          {children}
-        </ThemedView>
-      </View>
+      {content}
     </View>
   );
 };
@@ -68,7 +110,6 @@ const styles = StyleSheet.create({
     top: 10,
     right: 10,
     zIndex: 1,
-    backgroundColor: '#f0f0f0',
     borderRadius: 20,
     padding: 5,
   },
