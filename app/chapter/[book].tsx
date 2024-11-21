@@ -423,7 +423,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning)
         }}
       >
-          <ThemedText style={[styles.modalTitle, titleStyle]}>Tala sa Bersikulo {selectedFootnote?.id?.split('-')?.[0]}</ThemedText>
+          <ThemedText style={[styles.modalTitle, titleStyle]}>Talababa sa Bersikulo {selectedFootnote?.id?.split('-')?.[0]}</ThemedText>
           <ThemedText style={[styles.modalTitle, titleStyle, { fontWeight: 600, fontStyle: 'italic' }]}>"{selectedFootnote?.word.replace(/[\,\;\)\:]/g, '')}"</ThemedText>
           <ScrollView style={{height: 250}}>
             {!!selectedFootnote?.id && (
@@ -466,7 +466,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
         return;
       }
 
-      Alert.alert('⚠️ Babala ⚠️', 'Ang Note ay hindi pa na-save. Gusto mo ba ituloy na isara at mawala ang iyong na mga nagawa?', [
+      Alert.alert('⚠️ Babala ⚠️', 'Ang iyong natala ay hindi pa na-save. Gusto mo ba tuluyang isara ang form at mawala ang iyong na mga nagawa?', [
         { text: 'Oo', onPress: closeNoteModal },
         { text: 'Huwag', style: 'cancel' },
       ]);
@@ -474,10 +474,10 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
 
     return (
       <ModalBottom visible={noteModalVisible !== null} onClose={closeWithChecking}>
-        <ThemedText style={[styles.modalTitle, titleStyle]}>Mag-tala ng Note</ThemedText>
+        <ThemedText style={[styles.modalTitle, titleStyle]}>Mag-tala</ThemedText>
         <ThemedView style={{height: 250, marginBottom: 15}}>
           <ThemedTextInput
-            placeholder="Enter your note"
+            placeholder="Ano ang iyong gustong i-tala?"
             value={currentNote}
             onChangeText={setCurrentNote}
             multiline
@@ -485,7 +485,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           />
         </ThemedView>
         <ThemedButton
-          title="I-save ang Note"
+          title="I-save ang Tala"
           onPress={() => {
             if (noteModalVisible !== null) saveNote(noteModalVisible, currentNote);
             closeNoteModal();
