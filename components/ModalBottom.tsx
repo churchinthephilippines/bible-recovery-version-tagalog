@@ -82,7 +82,6 @@ export function ModalBottom({ visible, onClose, backdrop = true, children }: Mod
         bottom: 0,
         left: 0,
         right: 0,
-        backgroundColor: colors.card,
       }}
     >
       {content}
