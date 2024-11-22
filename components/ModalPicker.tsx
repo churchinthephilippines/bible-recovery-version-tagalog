@@ -13,6 +13,7 @@ import { themedTextInputStyles } from "./ThemedTextInput"
 import { useThemeColor } from "@/hooks/useThemeColor"
 import { useTheme } from "@react-navigation/native"
 import { Ionicons } from "@expo/vector-icons"
+import { ThemedView } from "./ThemedView"
 
 type ModalPickerProps = {
   clearable?: boolean;
@@ -41,7 +42,7 @@ export function ModalPicker({
   textStyle
 }: ModalPickerProps) {
   const { colors } = useTheme();
-  const backgroundColor = useThemeColor({ light: lightColor, dark: darkColor }, 'card');
+  const backgroundColor = useThemeColor({ light: lightColor, dark: darkColor }, 'background');
 
   const [modalVisible, setModalVisible] = useState(false)
 
@@ -52,8 +53,9 @@ export function ModalPicker({
 
   const renderItem = ({ item }: { item: (typeof options)[number] }) => (
     <TouchableOpacity
-      style={[styles.selectButton, { 
-        backgroundColor: value === item.value ? colors.border : colors.card 
+      style={[styles.selectItem, { 
+        backgroundColor: value === item.value ? colors.border : colors.background,
+        borderBottomColor: colors.notification,
       }]}
       onPress={() => {
         onChangeValue?.(item.value)
@@ -86,20 +88,23 @@ export function ModalPicker({
         visible={modalVisible}
         onClose={() => setModalVisible(false)}
       >
-        <FlatList
-          data={options}
-          renderItem={renderItem}
-          keyExtractor={(item, index) => index.toString()}
-          style={{maxHeight: '100%' }}
-        />
+       <ThemedView>
+          <FlatList
+            data={options}
+            renderItem={renderItem}
+            keyExtractor={(item, index) => index.toString()}
+            style={{maxHeight: '100%' }}
+          />
+       </ThemedView>
       </ModalCentered>
     </>
   )
 }
 
 const styles = StyleSheet.create({
-  selectButton: {
+  selectItem: {
     padding: 10,
     alignItems: "center",
+    borderBottomWidth: 1,
   },
 })

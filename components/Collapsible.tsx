@@ -9,25 +9,28 @@ import { Theme, useTheme } from "@react-navigation/native";
 type CollapsibleProps = {
   title: string;
   titleStyle?: ThemedTextProps['style'];
+  titleActiveStyle?: ThemedTextProps['style'];
+  headingActiveStyle?: ThemedViewProps['style'];
+  activeStyle?: ThemedViewProps['style'];
 } & ThemedViewProps;
 
-export function Collapsible({ children, title, titleStyle, ...props }: CollapsibleProps) {
-  const [isOpen, setIsOpen] = useState(false);
+export function Collapsible({ children, title, titleStyle, titleActiveStyle, headingActiveStyle, activeStyle, style, ...props }: CollapsibleProps) {
+  const [open, setOpen] = useState(false);
   const { colors } = useTheme();
   return (
-    <ThemedView {...props}>
+    <ThemedView style={[style, open ? activeStyle : undefined]} {...props}>
       <TouchableOpacity
-        style={styles.heading}
-        onPress={() => setIsOpen((value) => !value)}
+        style={[styles.heading, open ? headingActiveStyle : undefined]}
+        onPress={() => setOpen((value) => !value)}
         activeOpacity={0.8}>
-        <ThemedText type="defaultSemiBold" style={titleStyle}>{title}</ThemedText>
+        <ThemedText type="defaultSemiBold" style={[titleStyle, open ? titleActiveStyle : undefined]}>{title}</ThemedText>
         <Ionicons
-          name={isOpen ? 'chevron-down' : 'chevron-forward-outline'}
+          name={open ? 'chevron-down' : 'chevron-forward-outline'}
           size={18}
           color={colors.primary}
         />
       </TouchableOpacity>
-      {isOpen && children}
+      {open && children}
     </ThemedView>
   );
 }

@@ -500,8 +500,7 @@ const styles = StyleSheet.create({
     flexWrap: 'wrap',
     gap: 15,
     paddingHorizontal: 15,
-    paddingVertical: 10,
-    marginTop: 15,
+    paddingVertical: 15,
   },
   chapterSelectItem: { 
     paddingVertical: 10, 
