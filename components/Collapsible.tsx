@@ -1,29 +1,33 @@
 import Ionicons from '@expo/vector-icons/Ionicons';
-import { PropsWithChildren, useState } from 'react';
-import { StyleSheet, TouchableOpacity, useColorScheme } from 'react-native';
+import { useState } from 'react';
+import { StyleSheet, TouchableOpacity } from 'react-native';
 
-import { ThemedText } from '@/components/ThemedText';
-import { ThemedView } from '@/components/ThemedView';
-import { Colors } from '@/constants/Colors';
+import { ThemedText, ThemedTextProps } from '@/components/ThemedText';
+import { ThemedView, ThemedViewProps } from '@/components/ThemedView';
+import { Theme, useTheme } from "@react-navigation/native";
 
-export function Collapsible({ children, title }: PropsWithChildren & { title: string }) {
+type CollapsibleProps = {
+  title: string;
+  titleStyle?: ThemedTextProps['style'];
+} & ThemedViewProps;
+
+export function Collapsible({ children, title, titleStyle, ...props }: CollapsibleProps) {
   const [isOpen, setIsOpen] = useState(false);
-  const theme = useColorScheme() ?? 'light';
-
+  const { colors } = useTheme();
   return (
-    <ThemedView>
+    <ThemedView {...props}>
       <TouchableOpacity
         style={styles.heading}
         onPress={() => setIsOpen((value) => !value)}
         activeOpacity={0.8}>
+        <ThemedText type="defaultSemiBold" style={titleStyle}>{title}</ThemedText>
         <Ionicons
           name={isOpen ? 'chevron-down' : 'chevron-forward-outline'}
           size={18}
-          color={theme === 'light' ? Colors.light.icon : Colors.dark.icon}
+          color={colors.primary}
         />
-        <ThemedText type="defaultSemiBold">{title}</ThemedText>
       </TouchableOpacity>
-      {isOpen && <ThemedView style={styles.content}>{children}</ThemedView>}
+      {isOpen && children}
     </ThemedView>
   );
 }
@@ -32,10 +36,8 @@ const styles = StyleSheet.create({
   heading: {
     flexDirection: 'row',
     alignItems: 'center',
+    justifyContent: 'space-between',
     gap: 6,
-  },
-  content: {
-    marginTop: 6,
-    marginLeft: 24,
+    padding: 16,
   },
 });
