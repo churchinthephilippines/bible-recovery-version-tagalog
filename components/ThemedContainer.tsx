@@ -7,10 +7,11 @@ import { TINT_COLOR } from "@/constants/Colors"
 export type ThemedContainerProps = ThemedViewProps & {
   header: React.ReactNode;
   headerBGColor?: string;
+  noPadding?: boolean;
   children: React.ReactNode;
 }
 
-export function ThemedContainer({ header, headerBGColor = TINT_COLOR, children, style, ...props }: ThemedContainerProps) {
+export function ThemedContainer({ header, headerBGColor = TINT_COLOR, children, noPadding, style, ...props }: ThemedContainerProps) {
   const inset = useSafeAreaInsets()
   
   return (
@@ -18,7 +19,7 @@ export function ThemedContainer({ header, headerBGColor = TINT_COLOR, children, 
       <View style={{ backgroundColor: headerBGColor, paddingTop: inset.top + 10, paddingBottom: 10 }}>
         {header}
       </View>
-      <View style={styles.body}>
+      <View style={[styles.body, noPadding ? { padding: 0 } : undefined]}>
         {children}
       </View>
     </ThemedView>
@@ -31,8 +32,7 @@ const styles = StyleSheet.create({
   },
   body: {
     flex: 1,
-    paddingVertical: 15,
-    paddingHorizontal: 15,
+    padding: 15,
   },
 })
 
