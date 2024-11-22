@@ -10,7 +10,7 @@ export type SchemaDefinition = Record<string, `${SchemaField}${' NOT NULL' | ' P
 
 type LogicalOperator = 'AND' | 'OR';
 type WhereCondition = [string, string, any];
-type WhereClause = (WhereCondition | LogicalOperator | WhereClause)[];
+export type WhereClause = (WhereCondition | LogicalOperator | WhereClause)[];
 
 type JoinType = 'INNER' | 'LEFT' | 'RIGHT';
 
@@ -40,9 +40,12 @@ interface HookEvent<T> {
 
 // Utility type to infer model type from schema
 type InferModelType<T extends SchemaDefinition> = {
-  [K in keyof T]: T[K] extends `${infer Type} NOT NULL`
-    ? Type extends 'TEXT' ? string : Type extends 'INTEGER' ? number : string  // Non-nullable types
-    : T[K] extends `${infer Type}` ? Type extends 'TEXT' ? string | null : Type extends 'INTEGER' ? number | null : string | null : never; // Nullable types
+  [K in keyof T]: 
+    T[K] extends `${infer K} PRIMARY KEY`
+      ? K extends 'INTEGER' ? number : string 
+      : T[K] extends `${infer Type} NOT NULL`
+        ? Type extends 'INTEGER' ? number : string  // Non-nullable types
+        : T[K] extends `${infer Type}` ? Type extends 'TEXT' ? string | null : Type extends 'INTEGER' ? number | null : string | null : never; // Nullable types
 };
 
 // BaseModel class

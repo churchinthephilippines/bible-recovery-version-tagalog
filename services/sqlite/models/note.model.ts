@@ -13,3 +13,5 @@ export default class NoteModel extends BaseModel<typeof schema> {
     super('notes', schema);
   }
 }
+
+export type NoteModelType = Awaited<ReturnType<NoteModel["findAll"]>>[number];
