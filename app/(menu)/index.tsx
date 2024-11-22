@@ -3,46 +3,16 @@ import { ThemedText } from "@/components/ThemedText";
 import { router } from "expo-router";
 import React from 'react';
 import { FlatList, TouchableOpacity, StyleSheet } from 'react-native';
-import { useSafeAreaInsets } from "react-native-safe-area-context";
 import * as Haptics from 'expo-haptics';
-
-const books = [
-  "Mateo",
-  "Marcos",
-  "Lucas",
-  "Juan",
-  "Mga Gawa",
-  "Roma",
-  "1 Corinto",
-  "2 Corinto",
-  "Galacia",
-  "Efeso",
-  "Filipos",
-  "Colosas",
-  "1 Tesalonica",
-  "2 Tesalonica",
-  "1 Timoteo",
-  "2 Timoteo",
-  "Tito",
-  "Filemon",
-  "Hebreo",
-  "Santiago",
-  "1 Pedro",
-  "2 Pedro",
-  "1 Juan",
-  "2 Juan",
-  "3 Juan",
-  "Judas",
-  "Apocalipsis",
-];
+import { useTheme } from "@react-navigation/native";
+import { bookList } from "@/constants/BookList";
 
 const Books = () => {
+  const { colors } = useTheme();
   const handleBookPress = (book: string) => {
     Haptics.selectionAsync();
     router.navigate(`/chapter/${book}`);
   };
-
-  const inset = useSafeAreaInsets();
 
   return (
     <ThemedContainer
@@ -52,13 +22,14 @@ const Books = () => {
           <ThemedText allColor="#F5F5DC" style={{ textAlign: 'center', marginBottom: 15 }}>SALIN SA PAGBABAWI</ThemedText>
         </>
       )}
+      noPadding
      >
-      <ThemedText colorName="primary" style={{ textAlign: 'center', fontSize: 20, marginBottom: 15 }}>Ang Bagong Tipan</ThemedText>
+      <ThemedText colorName="primary" style={{ textAlign: 'center', fontSize: 20, marginVertical: 15 }}>Ang Bagong Tipan</ThemedText>
       <FlatList
-        data={books}
+        data={bookList}
         keyExtractor={(item) => item}
         renderItem={({ item }) => (
-          <TouchableOpacity onPress={() => handleBookPress(item)}>
+          <TouchableOpacity onPress={() => handleBookPress(item)} style={[styles.heading, { borderColor: colors.border }]}>
             <ThemedText style={styles.bookName}>{item}</ThemedText>
           </TouchableOpacity>
         )}
@@ -83,11 +54,16 @@ const styles = StyleSheet.create({
     borderBottomColor: '#cfcfcf',
     borderBottomWidth: 1,
   },
+  heading: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: 6,
+    padding: 10,
+    borderBottomWidth: 2,
+  },
   bookName: {
     fontSize: 18,
-    padding: 10,
-    borderBottomWidth: 1,
-    borderBottomColor: '#ccc',
     textAlign: 'center',
   },
 });
