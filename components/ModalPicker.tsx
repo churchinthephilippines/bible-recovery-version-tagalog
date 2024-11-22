@@ -6,6 +6,7 @@ import {
   View,
   FlatList,
   Text,
+  TouchableOpacityProps,
 } from "react-native"
 import { ThemedText, ThemedTextProps } from "./ThemedText"
 import { ModalCentered } from "./ModalCentered"
@@ -28,6 +29,7 @@ type ModalPickerProps = {
   lightColor?: string
   darkColor?: string
   textStyle?: ThemedTextProps['style']
+  style?: TouchableOpacityProps['style']
 }
 
 export function ModalPicker({
@@ -39,7 +41,8 @@ export function ModalPicker({
   onChangeValue,
   lightColor,
   darkColor,
-  textStyle
+  textStyle,
+  style
 }: ModalPickerProps) {
   const { colors } = useTheme();
   const backgroundColor = useThemeColor({ light: lightColor, dark: darkColor }, 'background');
@@ -69,7 +72,7 @@ export function ModalPicker({
   return (
     <>
       <TouchableOpacity
-        style={{backgroundColor, borderColor: colors.border, ...themedTextInputStyles}}
+        style={[{backgroundColor, borderColor: colors.border, ...themedTextInputStyles}, style]}
         onPress={() => setModalVisible(true)}
       >
         <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
@@ -89,12 +92,19 @@ export function ModalPicker({
         onClose={() => setModalVisible(false)}
       >
        <ThemedView>
+        {options.length > 0 && (
           <FlatList
             data={options}
             renderItem={renderItem}
             keyExtractor={(item, index) => index.toString()}
             style={{maxHeight: '100%' }}
           />
+        )}
+        {options.length === 0 && (
+          <ThemedView style={{height: 100, justifyContent: 'center', alignItems: 'center'}}>
+            <ThemedText style={[textStyle]}>Walang pag-pipilian</ThemedText>
+          </ThemedView>
+        )}
        </ThemedView>
       </ModalCentered>
     </>
@@ -103,7 +113,7 @@ export function ModalPicker({
 
 const styles = StyleSheet.create({
   selectItem: {
-    padding: 10,
+    padding: 15,
     alignItems: "center",
     borderBottomWidth: 1,
   },

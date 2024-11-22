@@ -10,17 +10,18 @@ type CollapsibleProps = {
   title: string;
   titleStyle?: ThemedTextProps['style'];
   titleActiveStyle?: ThemedTextProps['style'];
+  headingStyle?: ThemedViewProps['style'];
   headingActiveStyle?: ThemedViewProps['style'];
   activeStyle?: ThemedViewProps['style'];
 } & ThemedViewProps;
 
-export function Collapsible({ children, title, titleStyle, titleActiveStyle, headingActiveStyle, activeStyle, style, ...props }: CollapsibleProps) {
+export function Collapsible({ children, title, titleStyle, titleActiveStyle, headingStyle, headingActiveStyle, activeStyle, style, ...props }: CollapsibleProps) {
   const [open, setOpen] = useState(false);
   const { colors } = useTheme();
   return (
     <ThemedView style={[style, open ? activeStyle : undefined]} {...props}>
       <TouchableOpacity
-        style={[styles.heading, open ? headingActiveStyle : undefined]}
+        style={[styles.heading, headingStyle, open ? headingActiveStyle : undefined]}
         onPress={() => setOpen((value) => !value)}
         activeOpacity={0.8}>
         <ThemedText type="defaultSemiBold" style={[titleStyle, open ? titleActiveStyle : undefined]}>{title}</ThemedText>
