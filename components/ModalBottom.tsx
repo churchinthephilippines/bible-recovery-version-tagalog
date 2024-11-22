@@ -6,6 +6,7 @@ import {
   StyleSheet,
   TouchableOpacity,
   Keyboard,
+  Platform,
 } from 'react-native';
 import { ThemedView } from "./ThemedView";
 import { Ionicons } from "@expo/vector-icons";
@@ -25,7 +26,7 @@ export function ModalBottom({ visible, onClose, backdrop = true, children }: Mod
   const [keyboardHeight, setKeyboardHeight] = useState(0);
 
   useEffect(() => {
-    if(!visible) return;
+    if(!visible || Platform.OS === 'android') return;
     
     const keyboardDidShowListener = Keyboard.addListener(
       'keyboardDidShow',
