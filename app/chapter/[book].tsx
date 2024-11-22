@@ -1,7 +1,7 @@
-import React, { useState, useEffect, useRef, Fragment, useMemo } from 'react';
+import React, { useState, useEffect, useRef, Fragment, useMemo, useCallback } from 'react';
 import { View, FlatList, TouchableOpacity, StyleSheet, ActivityIndicator, Platform, ScrollView, Alert } from 'react-native';
 import * as Haptics from 'expo-haptics';
-import { Stack, useLocalSearchParams } from "expo-router";
+import { Stack, useFocusEffect, useLocalSearchParams } from "expo-router";
 import books from '@/assets/bible';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Audio } from 'expo-av';
@@ -73,7 +73,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   const [updateNote, setUpdateNote] = useState<NotedVerseType | null>(null);
   const { highlightedVerses, toggleHighlight, saveNote, loadHighlightedVerses, removeNote } = useHighlightNotes({ book: params.book, chapter });
   const [updateNoteGroup, setUpdateNoteGroup] = useState<NoteGroupModelType | null>(null);
-  const { noteGroups, saveNoteGroup } = useNoteGroups();
+  const { noteGroups, saveNoteGroup, loadNoteGroups } = useNoteGroups();
 
   const noteGroupOptions = useMemo(() => noteGroups.map(noteGroup => ({ label: noteGroup.name, value: noteGroup.id })), [noteGroups]);
   
@@ -82,6 +82,10 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     noteGroups.forEach(noteGroup => groupMaps.set(noteGroup.id, noteGroup.name));
     return groupMaps;
   }, [noteGroups]);
+
+  useFocusEffect(useCallback(() => {
+    loadNoteGroups()
+  }, []));
 
   useEffect(() => {
     loadHighlightedVerses()
@@ -614,7 +618,8 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
             title="I-save ang Grupo"
             onPress={async () => {
               if(updateNoteGroup?.name === '') return Alert.alert('Walang pangalan', 'Mangyaring maglagay ng pangalan ng grupo');
-              await saveNoteGroup({...updateNoteGroup!});
+              const noteGroupId = await saveNoteGroup({...updateNoteGroup!});
+              setUpdateNote(prev => prev && ({ ...prev, noteGroupId }));
               setUpdateNoteGroup(null)
               Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
             }}

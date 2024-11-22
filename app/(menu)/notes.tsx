@@ -40,7 +40,7 @@ export default function TabTwoScreen() {
   const [updateNote, setUpdateNote] = useState<NoteModelType | null>(null)
   const [updateNoteGroup, setUpdateNoteGroup] =
     useState<NoteGroupModelType | null>(null)
-  const { noteGroups, saveNoteGroup } = useNoteGroups()
+  const { noteGroups, saveNoteGroup, loadNoteGroups } = useNoteGroups()
   const noteGroupOptions = useMemo(
     () =>
       noteGroups.map((noteGroup) => ({
@@ -56,6 +56,10 @@ export default function TabTwoScreen() {
     )
     return groupMaps
   }, [noteGroups])
+
+  useFocusEffect(useCallback(() => {
+    loadNoteGroups()
+  }, []));
 
   const getTitle = (item: NoteModelType) =>
     `${item.book} ${item.chapter}:${item.verseIndex}`
@@ -396,7 +400,8 @@ export default function TabTwoScreen() {
                   "Walang pangalan",
                   "Mangyaring maglagay ng pangalan ng grupo"
                 )
-              await saveNoteGroup({ ...updateNoteGroup! })
+              const noteGroupId = await saveNoteGroup({ ...updateNoteGroup! })
+              setUpdateNote(prev => prev && ({ ...prev, noteGroupId }));
               setUpdateNoteGroup(null)
               Haptics.notificationAsync(
                 Haptics.NotificationFeedbackType.Success
