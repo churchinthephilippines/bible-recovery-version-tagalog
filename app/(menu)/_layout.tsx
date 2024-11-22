@@ -23,6 +23,15 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
+        name="notes"
+        options={{
+          title: 'Mga Tala',
+          tabBarIcon: ({ color, focused }) => (
+            <TabBarIcon name={focused ? 'chatbubble-ellipses' : 'chatbubble-ellipses-outline'} color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
         name="settings"
         options={{
           title: 'Mga Setting',
