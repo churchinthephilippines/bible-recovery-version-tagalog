@@ -63,6 +63,38 @@ export class BaseModel<T extends SchemaDefinition, I extends InferModelType<T> =
   }
 
   /**
+   * Get the existing columns from the database
+   */
+  private async getExistingColumns(): Promise<string[]> {
+    const query = `PRAGMA table_info(${this.tableName})`;
+    const result = await Database.getAllAsync(query);
+    return result.map((row) => (row as { name: string }).name);
+  }
+
+  /**
+   * Synchronize the schema with the database table
+   */
+  async synchronizeSchema(): Promise<void> {
+    const existingColumns = await this.getExistingColumns();
+    const definedColumns = Object.keys(this.schema);
+
+    // Add new columns that are missing
+    for (const column of definedColumns) {
+      if (!existingColumns.includes(column)) {
+        const columnDefinition = this.schema[column];
+        const query = `ALTER TABLE ${this.tableName} ADD COLUMN ${column} ${columnDefinition}`;
+        await Database.runAsync(query);
+      }
+    }
+
+    // Optionally handle column removal (requires more complex migration logic)
+    const columnsToRemove = existingColumns.filter((col) => !definedColumns.includes(col));
+    if (columnsToRemove.length > 0) {
+      console.warn(`Columns ${columnsToRemove.join(', ')} are not in the schema. Consider removing them manually.`);
+    }
+  }
+
+  /**
    * Create table based on the schema
    */
   async createTable(): Promise<void> {
@@ -71,6 +103,9 @@ export class BaseModel<T extends SchemaDefinition, I extends InferModelType<T> =
       .join(', ');
     const query = `CREATE TABLE IF NOT EXISTS ${this.tableName} (${columns})`;
     await Database.execAsync(query);
+
+    // Synchronize schema to handle column changes
+    await this.synchronizeSchema().catch((err) => console.error(err));
   }
 
   /**

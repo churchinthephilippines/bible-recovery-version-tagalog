@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, Fragment } from 'react';
+import React, { useState, useEffect, useRef, Fragment, useMemo } from 'react';
 import { View, FlatList, TouchableOpacity, StyleSheet, ActivityIndicator, Platform, ScrollView, Alert } from 'react-native';
 import * as Haptics from 'expo-haptics';
 import { Stack, useLocalSearchParams } from "expo-router";
@@ -16,10 +16,17 @@ import extractFootnoteLink from "@/utils/extractFootnoteLink";
 import formatBookName from "@/utils/formatBookName";
 import ThemedTemplatedText from "@/components/ThemedTemplatedText";
 import cleanText from "@/utils/cleanText";
-import { useHighlightNotes } from "@/hooks/useHighlightWithNotes";
+import { NotedVerseType, useHighlightNotes } from "@/hooks/useHighlightWithNotes";
 import { ThemedTextInput } from "@/components/ThemedTextInput";
 import Ionicons from '@expo/vector-icons/Ionicons';
 import { ModalCentered } from "@/components/ModalCentered";
+import { GestureHandlerRootView } from "react-native-gesture-handler";
+import Swipeable from "react-native-gesture-handler/ReanimatedSwipeable";
+import { Collapsible } from "@/components/Collapsible";
+import { RenderRightActions } from "@/components/notes/RenderRightActions";
+import { ModalPicker } from "@/components/ModalPicker";
+import { useNoteGroups } from "@/hooks/useNoteGroups";
+import { NoteGroupModelType } from "@/services/sqlite/models/note.group.model";
 
 const soundObject = new Audio.Sound();
 
@@ -62,9 +69,19 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   const [numberOfChapters, setNumberOfChapters] = useState<number>(0);
   const [loading, setLoading] = useState(true);
   const { textToSpeech, stopSpeech } = useTextToSpeech();
-  const [noteModalVisible, setNoteModalVisible] = useState<number | null>(null);
-  const [currentNote, setCurrentNote] = useState<string>('');
-  const { highlightedVerses, toggleHighlight, saveNote, loadHighlightedVerses } = useHighlightNotes({ book: params.book, chapter });
+  const [activeNoteVerseIndex, setActiveNoteVerseIndex] = useState<number | null>(null);
+  const [updateNote, setUpdateNote] = useState<NotedVerseType | null>(null);
+  const { highlightedVerses, toggleHighlight, saveNote, loadHighlightedVerses, removeNote } = useHighlightNotes({ book: params.book, chapter });
+  const [updateNoteGroup, setUpdateNoteGroup] = useState<NoteGroupModelType | null>(null);
+  const { noteGroups, saveNoteGroup } = useNoteGroups();
+
+  const noteGroupOptions = useMemo(() => noteGroups.map(noteGroup => ({ label: noteGroup.name, value: noteGroup.id })), [noteGroups]);
+  
+  const noteGroupNames = useMemo(() => {
+    const groupMaps = new Map<number, string>();
+    noteGroups.forEach(noteGroup => groupMaps.set(noteGroup.id, noteGroup.name));
+    return groupMaps;
+  }, [noteGroups]);
 
   useEffect(() => {
     loadHighlightedVerses()
@@ -215,7 +232,12 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   };
 
   const handleOpenNoteModal = (verseIndex: number) => {
-    setNoteModalVisible(verseIndex);
+    setActiveNoteVerseIndex(verseIndex);
+    const notes = highlightedVerses.get(verseIndex!) || []
+
+    if(notes.length === 1 && notes[0].note === '') {
+      setUpdateNote(notes[0]);
+    }
     Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Soft)
   };
 
@@ -228,7 +250,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     const isActive = index === currentVerseIndex;
     const isSelected = index === selectedVerseIndex;
     const isHighlighted = highlightedVerses.has(index);
-    const noteExists = highlightedVerses.get(index)
+    const noteExists = highlightedVerses.get(index) || []
     const highlightedStyle = { backgroundColor: isHighlighted ? colors.border : 'transparent' };
 
     const handleLongPress = () => {
@@ -286,7 +308,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           </ThemedText>
           {!!isHighlighted && (
             <TouchableOpacity style={[styles.noteIndicator, { backgroundColor: colors.primary }]} onPress={() => handleOpenNoteModal(index)}>
-              <Ionicons name={noteExists === "" ? "chatbubble-outline" : "chatbubble-ellipses-outline"} size={25} color={colors.background}/>
+              <Ionicons name={noteExists.length === 1 && noteExists[0].note === '' ? "chatbubble-outline" : "chatbubble-ellipses-outline"} size={25} color={colors.background}/>
             </TouchableOpacity>
           )}
         </ThemedView>
@@ -300,7 +322,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
       {renderContent()}
       {renderChapterSelectionModal()}
       {renderFootnotesModal()}
-      {!currentNote && !!highlightedVerses.get(noteModalVisible!) ? renderNotesModal() : renderSaveNotesModal()}
+      {!updateNote && !!highlightedVerses.get(activeNoteVerseIndex!) ? renderNotesModal() : renderSaveNotesModal()}
     </>
   );
 
@@ -424,21 +446,83 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   }
 
   function renderNotesModal() {
+    const notes = highlightedVerses.get(activeNoteVerseIndex!) || []
+    const hasMultipleNotes = notes.length > 1
+    const lastIndex = notes.length - 1
+
+    const closeNoteModal = () => {
+      setActiveNoteVerseIndex(null);
+      Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning)
+    }
+
     return (
-      <ModalBottom visible={noteModalVisible !== null} onClose={() => setNoteModalVisible(null)}>
-        <ThemedText style={[styles.modalTitle, titleStyle]}>Mag-tala ng Note</ThemedText>
-        <ScrollView style={{height: 250, marginBottom: 15}}>
-          <ThemedText style={textStyle}>
-            {highlightedVerses.get(noteModalVisible!) || ''}
-          </ThemedText>
-        </ScrollView>
-        <ThemedButton
-          title="I-edit ang Note"
-          onPress={() => {
-            setCurrentNote(highlightedVerses.get(noteModalVisible!) || '');
-            Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
-          }}
-        />
+      <ModalBottom visible={activeNoteVerseIndex !== null && !updateNote} onClose={closeNoteModal}>
+        <ThemedText style={[styles.modalTitle, titleStyle]}>{hasMultipleNotes ? 'Mga Tala' : 'Ang Tala'}</ThemedText>
+          {hasMultipleNotes ? (
+            <GestureHandlerRootView style={{height: 250, marginBottom: 15}}>
+              <FlatList
+                data={notes}
+                keyExtractor={(item) => item.noteId.toString()}
+                renderItem={({ item, index }) => (
+                  <Swipeable
+                    friction={2}
+                    enableTrackpadTwoFingerGesture
+                    rightThreshold={40}
+                    renderRightActions={(progress, dragX) => (
+                      <RenderRightActions
+                        progress={progress}
+                        dragX={dragX}
+                        item={item}
+                        onEdit={setUpdateNote}
+                        onDelete={() => removeNote(activeNoteVerseIndex!, item.noteId)}
+                      />
+                    )}
+                  >
+                    <Collapsible
+                      title={item.noteGroupId ? noteGroupNames.get(item.noteGroupId) || '(Walang grupo)' : '(Walang grupo)'}
+                      titleStyle={textStyle}
+                      headingActiveStyle={{ backgroundColor: colors.border }}
+                      activeStyle={{ borderBottomWidth: lastIndex !== index ? 2 : 0 }}
+                      style={{
+                        borderBottomColor: colors.border,
+                        borderBottomWidth: lastIndex !== index ? 2 : 1,
+                      }}
+                    >
+                      <ThemedView colorName="card" style={[styles.notesContainer, { borderWidth: 2, borderColor: colors.border, marginBottom: 15 }]}>
+                        <ThemedText style={[styles.noteText, textStyle]}>
+                          {item.note}
+                        </ThemedText>
+                      </ThemedView>
+                    </Collapsible>
+                  </Swipeable>
+                )}
+              />
+            </GestureHandlerRootView>
+          ) : (
+            <ScrollView style={{height: 250, marginBottom: 15}}>
+              <ThemedText style={textStyle}>
+                {notes[0].note}
+              </ThemedText>
+            </ScrollView>
+          )}
+        <View style={{ marginBottom: 5}}>
+          <ThemedButton
+            title="Gawa ng bagong Note"
+            onPress={() => {
+              setUpdateNote({ noteId: 0, note: '', noteGroupId: 0 });
+              Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+            }}
+          />
+        </View>
+        {!hasMultipleNotes && (
+          <ThemedButton
+            title="I-edit ang Note"
+            onPress={() => {
+              setUpdateNote(notes[0]);
+              Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+            }}
+          />
+        )}
       </ModalBottom>
     )
   }
@@ -446,31 +530,62 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
   function renderSaveNotesModal() {
 
     const closeNoteModal = () => {
-      setNoteModalVisible(null);
-      setCurrentNote('');
+      setUpdateNote(null);
     }
     
     const closeWithChecking = () => {
       Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning);
-      if(currentNote === highlightedVerses.get(noteModalVisible!)) {
+      const notes = highlightedVerses.get(activeNoteVerseIndex!)
+      const oldNote = notes?.find(item => item.noteId === updateNote?.noteId)
+
+      if(!oldNote || (updateNote?.noteId === oldNote?.noteId && updateNote?.note === oldNote?.note)) {
+        
         closeNoteModal();
+
+        if(notes?.length === 1) {
+          setActiveNoteVerseIndex(null);
+        }
         return;
       }
 
       Alert.alert('⚠️ Babala ⚠️', 'Ang iyong natala ay hindi pa na-save. Gusto mo ba tuluyang isara ang form at mawala ang iyong na mga nagawa?', [
-        { text: 'Oo', onPress: closeNoteModal},
+        { 
+          text: 'Oo', 
+          onPress: () => {
+            closeNoteModal()
+
+            if(notes?.length === 1 && oldNote.note === '') {
+              setActiveNoteVerseIndex(null);
+            }
+          } 
+        },
         { text: 'Huwag', style: 'cancel' },
       ]);
     }
 
     return (
-      <ModalBottom visible={noteModalVisible !== null} onClose={closeWithChecking}>
+      <ModalBottom visible={!!updateNote} onClose={closeWithChecking}>
         <ThemedText style={[styles.modalTitle, titleStyle]}>Mag-tala</ThemedText>
+        <ThemedView colorName="card" style={{ flexDirection: 'row', gap: 5, marginBottom: 15 }}>
+          <View style={{flex: 1}}>
+            <ModalPicker
+              value={updateNote?.noteGroupId}
+              options={noteGroupOptions}
+              onChangeValue={(noteGroupId) => setUpdateNote(prev => prev && ({ ...prev, noteGroupId: noteGroupId as number }))}
+              placeholder="Pumili ng grupo ng tala"
+            />
+          </View>
+          <TouchableOpacity 
+            onPress={() => setUpdateNoteGroup({ id: 0, name: '' })}
+            style={{ width: 55, height: '100%', paddingHorizontal: 12, paddingVertical: 13, borderRadius: 5, backgroundColor: colors.primary }}>
+            <Ionicons name="add-circle-outline" size={30} color="#ffffff" />
+          </TouchableOpacity>
+        </ThemedView>
         <ThemedView style={{height: 250, marginBottom: 15}}>
           <ThemedTextInput
             placeholder="Ano ang iyong gustong i-tala?"
-            value={currentNote}
-            onChangeText={setCurrentNote}
+            value={updateNote?.note}
+            onChangeText={(note) => setUpdateNote(prev => prev && ({ ...prev, note }))}
             multiline
             style={{ height: '100%', textAlignVertical: 'top', ...textStyle }}
           />
@@ -478,11 +593,33 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
         <ThemedButton
           title="I-save ang Tala"
           onPress={() => {
-            if (noteModalVisible !== null) saveNote(noteModalVisible, currentNote);
+            if (activeNoteVerseIndex !== null) saveNote(activeNoteVerseIndex, { ...updateNote! });
             closeNoteModal();
             Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
           }}
         />
+        <ModalBottom visible={!!updateNoteGroup} onClose={() => {
+          setUpdateNoteGroup(null)
+          Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning)
+        }}>
+          <ThemedText style={[styles.modalTitle, titleStyle]}>Gumawa ng grupo ng tala</ThemedText>
+          <View style={{height: 150, marginBottom: 15}}>
+            <ThemedTextInput
+              placeholder="Ano ang pangalan bagong grupo?"
+              value={updateNoteGroup?.name}
+              onChangeText={(name) => setUpdateNoteGroup(prev => prev && ({ ...prev, name }))}
+            />
+          </View>
+          <ThemedButton
+            title="I-save ang Grupo"
+            onPress={async () => {
+              if(updateNoteGroup?.name === '') return Alert.alert('Walang pangalan', 'Mangyaring maglagay ng pangalan ng grupo');
+              await saveNoteGroup({...updateNoteGroup!});
+              setUpdateNoteGroup(null)
+              Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
+            }}
+          />
+        </ModalBottom>
       </ModalBottom>
     )
   }
@@ -548,6 +685,13 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     alignSelf: 'flex-start',
     zIndex: 1
+  },
+  notesContainer: {
+    padding: 16,
+  },
+  noteText: {
+    fontSize: 16,
+    marginVertical: 4,
   },
 });
 
