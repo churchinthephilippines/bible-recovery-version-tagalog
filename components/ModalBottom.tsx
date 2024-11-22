@@ -52,7 +52,7 @@ export function ModalBottom({ visible, onClose, backdrop = true, children }: Mod
 
   const content = (
     <View style={[styles.modalOverlay]}>
-      <ThemedView colorName="card" style={[styles.modalContent, { paddingBottom: insets.bottom, bottom: keyboardHeight }]}>
+      <ThemedView colorName="card" style={[styles.modalContent, { paddingBottom: insets.bottom + 15, bottom: keyboardHeight }]}>
         {/* Close Button */}
         <TouchableOpacity onPress={onClose} style={styles.closeButton}>
           <Text style={styles.closeButtonText}>

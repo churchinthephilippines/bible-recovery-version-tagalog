@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, Fragment } from 'react';
-import { View, FlatList, TouchableOpacity, Modal, StyleSheet, ActivityIndicator, Platform, ScrollView, Alert } from 'react-native';
+import { View, FlatList, TouchableOpacity, StyleSheet, ActivityIndicator, Platform, ScrollView, Alert } from 'react-native';
 import * as Haptics from 'expo-haptics';
 import { Stack, useLocalSearchParams } from "expo-router";
 import books from '@/assets/bible';
@@ -19,6 +19,7 @@ import cleanText from "@/utils/cleanText";
 import { useHighlightNotes } from "@/hooks/useHighlightWithNotes";
 import { ThemedTextInput } from "@/components/ThemedTextInput";
 import Ionicons from '@expo/vector-icons/Ionicons';
+import { ModalCentered } from "@/components/ModalCentered";
 
 const soundObject = new Audio.Sound();
 
@@ -215,6 +216,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
 
   const handleOpenNoteModal = (verseIndex: number) => {
     setNoteModalVisible(verseIndex);
+    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Soft)
   };
 
   const titleStyle = { fontSize: fontSize + 4, lineHeight: Math.max(fontSize * 1.5, 28) };
@@ -229,6 +231,22 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
     const noteExists = highlightedVerses.get(index)
     const highlightedStyle = { backgroundColor: isHighlighted ? colors.border : 'transparent' };
 
+    const handleLongPress = () => {
+      Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Rigid);
+      Alert.alert('Mga aksyon', 'Anong ang gusto mong gawin sa bersikulo?', [
+        { text: `${isHighlighted ? 'Remove' : 'Add'} Highlight`, onPress: () => toggleHighlight(index) },
+        { text: `${isSelected ? 'Unselect' : 'Select'} to Read Verse`, onPress: () => {
+          if(isSelected) {
+            setSelectedVerseIndex(null);
+            return Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Soft);
+          }
+          setSelectedVerseIndex(index)
+          Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Heavy)
+        } },
+        { text: 'Cancel', onPress: () => {}, style: 'cancel' },
+      ]);
+    }
+
     return (
       <>
         {item.outlines && item.outlines.length > 0 && (
@@ -242,21 +260,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
         )}
         <ThemedView>
           <ThemedText 
-            onLongPress={() => {
-              Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Rigid);
-              Alert.alert('Mga aksyon', 'Anong ang gusto mong gawin sa bersikulo?', [
-                { text: `${isHighlighted ? 'Remove' : 'Add'} Highlight`, onPress: () => toggleHighlight(index) },
-                { text: `${isSelected ? 'Unselect' : 'Select'} to Read Verse`, onPress: () => {
-                  if(isSelected) {
-                    setSelectedVerseIndex(null);
-                    return Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Soft);
-                  }
-                  setSelectedVerseIndex(index)
-                  Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Heavy)
-                } },
-                { text: 'Cancel', onPress: () => {}, style: 'cancel' },
-              ]);
-            }} 
+            onLongPress={handleLongPress} 
             style={[styles.verseText, { backgroundColor: isSelected || isActive ? colors.card : 'transparent' }, textStyle]}
           >
             <ThemedText style={[styles.verseNumber, textStyle]}>{index + 1}.{" "}</ThemedText>
@@ -271,10 +275,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
                       setSelectedFootnote(footnote)
                       Haptics.selectionAsync()
                     } : undefined}
-                    onLongPress={footnote ? () => {
-                      setSelectedVerseIndex(index) 
-                      Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Heavy)
-                    } : undefined}
+                    onLongPress={footnote ? handleLongPress : undefined}
                   >
                     {word}
                   </ThemedText>
@@ -322,10 +323,10 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
 
     if(chapter === 0) {
       return (
-        <ThemedView style={{ flexDirection: 'row', justifyContent: 'center', flexWrap: 'wrap', gap: 15, paddingHorizontal: 15, paddingVertical: 10, marginTop: 15 }}>
+        <ThemedView style={styles.chapterSelectContainer}>
           {Array.from({ length: numberOfChapters }, (_, i) => i + 1).map((item, index) => (
             <TouchableOpacity key={index} onPress={() => handleChapterSelect(item)}>
-              <ThemedView colorName="card" style={{ paddingVertical: 10, borderColor: '#ccc', borderWidth: 1, borderRadius: 5, width: 50 }}>
+              <ThemedView colorName="card" style={[styles.chapterSelectItem, { borderColor: colors.border }]}>
                 <ThemedText style={{textAlign: 'center'}}>{item}</ThemedText>
               </ThemedView>
             </TouchableOpacity>
@@ -378,38 +379,26 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
 
   function renderChapterSelectionModal() {
     return (
-      <Modal
+      <ModalCentered
+        title="Pumili ng Kapitulo"
         visible={isChapterModalVisible}
-        transparent={true}
-        animationType="fade"
-        onRequestClose={() => setChapterModalVisible(false)}
+        onClose={() => {
+          setChapterModalVisible(false)
+          Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning)
+        }}
       >
-        <View style={styles.modalBackground}>
-          <ThemedView colorName="card" style={[styles.modalContainer, { paddingHorizontal: 0}]}>
-            <View style={{ width: '100%', borderBottomColor: '#ccc', borderBottomWidth: 1, paddingBottom: 10 }}>
-              <ThemedText style={styles.modalTitle}>Pumili ng Kapitulo</ThemedText>
-            </View>
-            <FlatList
-              style={{ width: '100%' }}
-              data={Array.from({ length: numberOfChapters }, (_, i) => i + 1)}
-              keyExtractor={(item) => item.toString()}
-              renderItem={({ item }) => (
-                <TouchableOpacity onPress={() => handleChapterSelect(item)}>
-                  <ThemedView colorName={item === chapter ? "border" : "background"}>
-                    <ThemedText colorName={item === chapter ? "primary" : "text"} style={[styles.chapterItem]}>Kapitulo {item}</ThemedText>
-                  </ThemedView>
-                </TouchableOpacity>
-              )}
-            />
-            <View style={{ width: '100%', borderTopColor: '#ccc', borderTopWidth: 1, paddingTop: 20, paddingHorizontal: 20 }}>
-              <ThemedButton title="Close" onPress={() => {
-                setChapterModalVisible(false)
-                Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning)
-              }} />
-            </View>
+        <ScrollView>
+          <ThemedView style={styles.chapterSelectContainer}>
+            {Array.from({ length: numberOfChapters }, (_, i) => i + 1).map((item, index) => (
+              <TouchableOpacity key={index} onPress={() => handleChapterSelect(item)}>
+                <ThemedView colorName="card" style={[styles.chapterSelectItem, { borderColor: colors.border }]}>
+                  <ThemedText style={{textAlign: 'center'}}>{item}</ThemedText>
+                </ThemedView>
+              </TouchableOpacity>
+            ))}
           </ThemedView>
-        </View>
-      </Modal>
+        </ScrollView>
+      </ModalCentered>
     )
   }
 
@@ -427,7 +416,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           <ThemedText style={[styles.modalTitle, titleStyle, { fontWeight: 600, fontStyle: 'italic' }]}>"{selectedFootnote?.word.replace(/[\,\;\)\:]/g, '')}"</ThemedText>
           <ScrollView style={{height: 250}}>
             {!!selectedFootnote?.id && (
-              <ThemedTemplatedText style={[styles.modalText, textStyle]}>{extractFootnoteLink(footnoteReferences?.[selectedFootnote?.id] || '', { book: params.book, chapter }, [ { book: params.book, chapter, id: selectedFootnote?.id }])}</ThemedTemplatedText>
+              <ThemedTemplatedText style={textStyle}>{extractFootnoteLink(footnoteReferences?.[selectedFootnote?.id] || '', { book: params.book, chapter }, [ { book: params.book, chapter, id: selectedFootnote?.id }])}</ThemedTemplatedText>
             )}
           </ScrollView>
       </ModalBottom>
@@ -439,7 +428,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
       <ModalBottom visible={noteModalVisible !== null} onClose={() => setNoteModalVisible(null)}>
         <ThemedText style={[styles.modalTitle, titleStyle]}>Mag-tala ng Note</ThemedText>
         <ScrollView style={{height: 250, marginBottom: 15}}>
-          <ThemedText style={[styles.modalText, textStyle]}>
+          <ThemedText style={textStyle}>
             {highlightedVerses.get(noteModalVisible!) || ''}
           </ThemedText>
         </ScrollView>
@@ -447,6 +436,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           title="I-edit ang Note"
           onPress={() => {
             setCurrentNote(highlightedVerses.get(noteModalVisible!) || '');
+            Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
           }}
         />
       </ModalBottom>
@@ -459,15 +449,16 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
       setNoteModalVisible(null);
       setCurrentNote('');
     }
-
+    
     const closeWithChecking = () => {
+      Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning);
       if(currentNote === highlightedVerses.get(noteModalVisible!)) {
         closeNoteModal();
         return;
       }
 
       Alert.alert('⚠️ Babala ⚠️', 'Ang iyong natala ay hindi pa na-save. Gusto mo ba tuluyang isara ang form at mawala ang iyong na mga nagawa?', [
-        { text: 'Oo', onPress: closeNoteModal },
+        { text: 'Oo', onPress: closeNoteModal},
         { text: 'Huwag', style: 'cancel' },
       ]);
     }
@@ -481,7 +472,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
             value={currentNote}
             onChangeText={setCurrentNote}
             multiline
-            style={{ height: '100%', ...textStyle }}
+            style={{ height: '100%', textAlignVertical: 'top', ...textStyle }}
           />
         </ThemedView>
         <ThemedButton
@@ -489,6 +480,7 @@ const ChapterScreen: React.FC<ChapterScreenProps> = () => {
           onPress={() => {
             if (noteModalVisible !== null) saveNote(noteModalVisible, currentNote);
             closeNoteModal();
+            Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
           }}
         />
       </ModalBottom>
@@ -501,6 +493,21 @@ const styles = StyleSheet.create({
     fontSize: 24,
     textAlign: 'center',
     marginVertical: 10,
+  },
+  chapterSelectContainer: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    flexWrap: 'wrap',
+    gap: 15,
+    paddingHorizontal: 15,
+    paddingVertical: 10,
+    marginTop: 15,
+  },
+  chapterSelectItem: { 
+    paddingVertical: 10, 
+    borderWidth: 1, 
+    borderRadius: 5, 
+    width: 50 
   },
   verseNumber: {
     fontSize: 16,
@@ -528,38 +535,17 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: 15,
   },
-  modalBackground: {
-    flex: 1,
-    justifyContent: 'center',
-    backgroundColor: 'rgba(0, 0, 0, 0.5)',
-  },
-  modalContainer: {
-    maxHeight: '80%',
-    marginHorizontal: 25,
-    padding: 20,
-    borderRadius: 10,
-  },
   modalTitle: {
     fontSize: 20,
     textAlign: 'center',
     marginBottom: 10,
     fontWeight: 'bold',
   },
-  chapterItem: {
-    fontSize: 18,
-    paddingVertical: 10,
-    textAlign: 'center',
-  },
-  modalText: {
-    fontSize: 18,
-    marginBottom: 20,
-  },
   noteIndicator: {
     position: 'absolute',
     top: -10,
     right: 0,
     marginLeft: 5,
-    backgroundColor: 'lightblue',
     borderRadius: 20,
     alignSelf: 'flex-start',
     zIndex: 1
